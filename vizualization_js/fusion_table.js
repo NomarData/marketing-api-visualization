@@ -21,6 +21,7 @@ var category_container = $("#categories_list");
 
 var countries_interest_data = [];
 
+
 //utils.js --------------------------------------------------------------------------------------------------------
 
 function getItemTag(name, checkbox_id, label_id, class_checkbox, value){
@@ -78,7 +79,6 @@ function getStorage(name){
     return JSON.parse(window.localStorage.getItem(name));
 }
 
-//utils.js--------------------------------------------------------------------------------------------------------
 //Update Topics
 function updateTopics(specific_sql){
     var list_topics_url;
@@ -100,98 +100,89 @@ function updateTopics(specific_sql){
     });
 }
 
-
-//List Countries
-$.get(list_countries_url,function(data){
-    //Get list of countries
-    // var countries_list = $.map(data.rows, function(row){ return [row[0]; });
-    //Append Countries
-    $.map(data.rows, function(row){ countries_container.append(getItemTag(row[0],null,null,"location"))});
-}).fail(function(errorObj) {
-    console.log(errorObj);
-    alert("Fail to load countries.");
-}).success(function(){
-    $(".location").change(function(){
-        updateData();
-    });
-});
-
-//List Topics
-updateTopics();
-// $.get(list_topics_url,function(data){
-//     //Get list of countries
-//     var topics_list = $.map(data.rows, function(row){ return {"topic":row[0], "sum":row[1]}; });
-//     //Append Countries
-//     $.map(topics_list, function(row){ topics_container.append(getItemTag(row["topic"],null,null,"topic",row["sum"]))});
-// }).fail(function(errorObj) {
-//     alert("Fail to load countries.")
-// }).success(function(){
-//     $(".topic").change(function(){
-//         updateData();
-//     });
-// });
-
-//List Categories
-$.get(list_columns_url,function(data){
-    //Get list of countries
-    var categories_list_raw = $.map(data.items, function(item){ return item.name; });
-    var categories_list = [];
-    for(var category_index = categories_list_raw.length; category_index--;){
-        var category = categories_list_raw[category_index];
-        if (category == "topic" || category == "interest" || category == "" || category == "audience" || category == "fraction" || category == "location" || category == "country_code" || category == "min_age" || category == "max_age") continue;
-        categories_list.push(category);
-    }
-    var categories_status = {};
-    $.map(categories_list, function(item){ categories_status[item] = 0; });
-    // setStorage("categories",$.map(categories_list, function(item){ return {name: item, status : false}; }));
-    //Append Countries
-    for(var category_index = categories_list.length; category_index--;){
-        var category =categories_list[category_index];
-
-    // $.map(categories_list, function(category){
-
-        //Add category
-        var category_tag = getItemTag(category);
-        category_container.append(category_tag);
-        //Search Subcategories
-        var sql_query = SQL_list_unique.replace(/\$column/g,category);
-        var category_url = URL_sql.replace("$query", sql_query);
-        $.get(category_url,function(category_data){
-            var category = category_data.columns[0];
-            var unique_values = $.map(category_data.rows, function(row){ return {"column":row[0], "sum": row[1]}});
-            $.map(unique_values, function(row){$("#" + category).append(getItemTag("" != row.column ? row.column : "Not specified",null,null,category,row.sum));
-            var values = $.map(unique_values, function(row){
-                    return {
-                        "key": "" != row.column ? row.column : "Not specified",
-                        "region": category,
-                        "subregion": "" != row.column ? row.column : "Not specified",
-                        "value": Math.abs(Math.random() * 10000),
-                        "id": Math.random()
-                    }
-                });
-                $.map(values, function(value){countries_interest_data.push(value);});
-                // countries_interest_data.push(values);
-            });
-        }).fail(function(errorObj){console.log("Could get more information: " + errorObj)}).success(function(category_data){
-            var category = category_data.columns[0];
-            $("." + category).change(function(){
-                updateData();
-            });
-            categories_status[category] = 1;
-            var values = Object.keys(categories_status).map(function(key){return categories_status[key];});
-            var sum = values.reduce((a,b)=>a+b);
-
-            console.log(sum + " " + values.length);
-            if(sum == values.length){
-                console.log(categories_list[categories_list.length - 1] + " " + category + " " + countries_interest_data.length );
-                var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(countries_interest_data);
-                console.log(data)
-                main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: data});
-            }
+function updateListCountries(){
+    //List Countries
+    $.get(list_countries_url,function(data){
+        //Get list of countries
+        // var countries_list = $.map(data.rows, function(row){ return [row[0]; });
+        //Append Countries
+        $.map(data.rows, function(row){ countries_container.append(getItemTag(row[0],null,null,"location"))});
+    }).fail(function(errorObj) {
+        console.log(errorObj);
+        alert("Fail to load countries.");
+    }).success(function(){
+        $(".location").change(function(){
+            updateData();
         });
-        category_container.append(category_tag);
+    });
+}
 
-    };
-}).fail(function(errorObj) {
-    alert("Fail to load countries.")
-});
+function updateListCategories(){
+    //List Categories
+    $.get(list_columns_url,function(data){
+        //Get list of countries
+        var categories_list_raw = $.map(data.items, function(item){ return item.name; });
+        var categories_list = [];
+        for(var category_index = categories_list_raw.length; category_index--;){
+            var category = categories_list_raw[category_index];
+            if (category == "topic" || category == "interest" || category == "" || category == "audience" || category == "fraction" || category == "location" || category == "country_code" || category == "min_age" || category == "max_age") continue;
+            categories_list.push(category);
+        }
+        var categories_status = {};
+        $.map(categories_list, function(item){ categories_status[item] = 0; });
+        // setStorage("categories",$.map(categories_list, function(item){ return {name: item, status : false}; }));
+        //Append Countries
+        for(var category_index = categories_list.length; category_index--;){
+            var category =categories_list[category_index];
+
+            // $.map(categories_list, function(category){
+
+            //Add category
+            var category_tag = getItemTag(category);
+            category_container.append(category_tag);
+            //Search Subcategories
+            var sql_query = SQL_list_unique.replace(/\$column/g,category);
+            var category_url = URL_sql.replace("$query", sql_query);
+            $.get(category_url,function(category_data){
+                var category = category_data.columns[0];
+                var unique_values = $.map(category_data.rows, function(row){ return {"column":row[0], "sum": row[1]}});
+                $.map(unique_values, function(row){$("#" + category).append(getItemTag("" != row.column ? row.column : "Not specified",null,null,category,row.sum));
+                    var values = $.map(unique_values, function(row){
+                        return {
+                            "key": "" != row.column ? row.column : "Not specified",
+                            "region": category,
+                            "subregion": "" != row.column ? row.column : "Not specified",
+                            "value": Math.abs(Math.random() * 10000),
+                            "id": Math.random()
+                        }
+                    });
+                    $.map(values, function(value){countries_interest_data.push(value);});
+                    // countries_interest_data.push(values);
+                });
+            })
+                .fail(function(errorObj){console.log("Could get more information: " + errorObj)})
+                .success(function(category_data){
+                var category = category_data.columns[0];
+                $("." + category).change(function(){
+                    updateData();
+                });
+                categories_status[category] = 1;
+                var values = Object.keys(categories_status).map(function(key){return categories_status[key];});
+                var sum = values.reduce((a,b)=>a+b);
+
+                console.log(sum + " " + values.length);
+                if(sum == values.length){
+                    console.log(categories_list[categories_list.length - 1] + " " + category + " " + countries_interest_data.length );
+                    var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(countries_interest_data);
+                    console.log(data);
+                    setStorage("global_data", data);
+                }
+            });
+            category_container.append(category_tag);
+
+        };
+    }).fail(function(errorObj) {
+        alert("Fail to load countries.")
+    });
+}
+

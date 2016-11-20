@@ -1,13 +1,13 @@
 /**
  * Created by maraujo on 11/8/16.
  */
-
-window.addEventListener('message', function(e) {
-    var opts = e.data.opts,
-        data = e.data.data;
-
-    return main(opts, data);
-});
+//
+// window.addEventListener('message', function(e) {
+//     var opts = e.data.opts,
+//         data = e.data.data;
+//
+//     return main(opts, data);
+// });
 
 var defaults = {
     margin: {top: 24, right: 0, bottom: 0, left: 0},
@@ -262,13 +262,11 @@ function main(o, data) {
     }
 
     function name(d) {
-        return d.parent
-            ? name(d.parent) + " / " + d.key + " (" + formatNumber(d.value) + ")"
-            : d.key + " (" + formatNumber(d.value) + ")";
+        // return d.parent
+        //     ? name(d.parent) + " / " + d.key + " (" + formatNumber(d.value) + ")"
+        //     : d.key + " (" + formatNumber(d.value) + ")";
+        return "Selected: ";
     }
 }
 
-if (window.location.hash === "") {
-    // var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(countries_data);
-    // main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: data});
-}
+
