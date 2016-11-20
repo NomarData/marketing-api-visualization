@@ -1,28 +1,21 @@
 /**
  * Created by maraujo on 11/8/16.
  */
-var TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
-var API_KEY = "AIzaSyDO2DFB13Hr_DpzHtb8ONXkUvtCo7W7BHk";
-var SQL_list_countries = "SELECT location FROM $table GROUP BY  location".replace("$table", TABLE);
-var SQL_list_topics = "SELECT topic, SUM(audience) FROM $table GROUP BY topic".replace("$table", TABLE);
-var SQL_list_unique = "SELECT $column, SUM(audience) FROM $table GROUP BY $column".replace("$table", TABLE);
-var URL_sql = "https://www.googleapis.com/fusiontables/v2/query?sql=$query&key=$key".replace("$key",API_KEY);
-var URL_list_columns = "https://www.googleapis.com/fusiontables/v2/tables/$table/columns?key=$key".replace("$key",API_KEY);
-
-
-var list_countries_url = URL_sql.replace("$key",API_KEY).replace("$query",SQL_list_countries.replace("$table",TABLE));
-var list_topics_url = URL_sql.replace("$key",API_KEY).replace("$query",SQL_list_topics.replace("$table",TABLE));
-var list_columns_url = URL_list_columns.replace("$table",TABLE);
-
-
-var countries_container = $("#countries_list");
-var topics_container = $("#topics_list");
-var category_container = $("#categories_list");
-
-var countries_interest_data = [];
-
-
 //utils.js --------------------------------------------------------------------------------------------------------
+function getSubcategoryItemByID(searchedID){
+    var categoriesData = getStorage("global_data");
+    for(var categoryIndex = 0 ; categoryIndex < categoriesData.length ; categoryIndex++){
+        for(var subCategoryIndex = 0; subCategoryIndex < categoriesData[categoryIndex].values.length; subCategoryIndex++){
+            var subCategoryItem = categoriesData[categoryIndex].values[subCategoryIndex].values[0];
+            if(subCategoryItem.id == searchedID){
+                return subCategoryItem;
+            }
+        }
+    }
+    return null;
+}
+
+function generateUUID(a){return a?(a^Math.random()*16>>a/4).toString(16):([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,generateUUID)}
 
 function getItemTag(name, checkbox_id, label_id, class_checkbox, value){
     if (typeof(name)==='undefined' || name == null) throw new Error("getItemTag should have parameter name");
@@ -117,6 +110,44 @@ function updateListCountries(){
     });
 }
 
+function compareListCategoies(a,b) {
+    if (a.key < b.key)
+        return -1;
+    if (a.key > b.key)
+        return 1;
+    return 0;
+}
+
+function getSubcategoryName(category, subcategory){
+    //Correct Integer to name
+    var subCategoryName;
+    if(category == "gender"){
+        switch (subcategory){
+            case "0":
+                subCategoryName = "All Genders";
+                break;
+            case "1":
+                subCategoryName = "Male";
+                break;
+            case "2":
+                subCategoryName = "Female";
+                break;
+        }
+    }else if(category == "exclude_expats"){
+        console.log("Column: " + subcategory)
+        switch (subcategory){
+            case "1":
+                subCategoryName = "Only Natives";
+                break;
+            default:
+                subCategoryName = "All Residents";
+        }
+    } else {
+        subCategoryName = "" != subcategory ? subcategory : "Not specified";
+    }
+    return subCategoryName;
+}
+
 function updateListCategories(){
     //List Categories
     $.get(list_columns_url,function(data){
@@ -145,19 +176,18 @@ function updateListCategories(){
             var category_url = URL_sql.replace("$query", sql_query);
             $.get(category_url,function(category_data){
                 var category = category_data.columns[0];
-                var unique_values = $.map(category_data.rows, function(row){ return {"column":row[0], "sum": row[1]}});
-                $.map(unique_values, function(row){$("#" + category).append(getItemTag("" != row.column ? row.column : "Not specified",null,null,category,row.sum));
-                    var values = $.map(unique_values, function(row){
-                        return {
-                            "key": "" != row.column ? row.column : "Not specified",
+                var unique_values = $.map(category_data.rows, function(row){ return {"subcategory":row[0], "sum": parseInt(row[1])}});
+                $.map(unique_values, function(row){
+                    var subCategoryName = getSubcategoryName(category,row.subcategory);
+                    $("#" + category).append(getItemTag(subCategoryName,null,null,category,row.sum));
+                    var subCategoryEntry =  {
+                            "key": subCategoryName,
                             "region": category,
-                            "subregion": "" != row.column ? row.column : "Not specified",
-                            "value": Math.abs(Math.random() * 10000),
-                            "id": Math.random()
-                        }
-                    });
-                    $.map(values, function(value){countries_interest_data.push(value);});
-                    // countries_interest_data.push(values);
+                            "subregion": subCategoryName,
+                            "value": row.sum,
+                            "id": generateUUID()
+                        };
+                    countries_interest_data.push(subCategoryEntry);
                 });
             })
                 .fail(function(errorObj){console.log("Could get more information: " + errorObj)})
@@ -173,9 +203,12 @@ function updateListCategories(){
                 console.log(sum + " " + values.length);
                 if(sum == values.length){
                     console.log(categories_list[categories_list.length - 1] + " " + category + " " + countries_interest_data.length );
-                    var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(countries_interest_data);
-                    console.log(data);
-                    setStorage("global_data", data);
+                    var listOfCategories = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(countries_interest_data);
+
+                    //Save Global Data
+                    listOfCategories.sort(compareListCategoies);
+                    console.log(listOfCategories);
+                    setStorage("global_data", listOfCategories);
                 }
             });
             category_container.append(category_tag);

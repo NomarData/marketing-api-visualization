@@ -9,18 +9,27 @@
 //     return main(opts, data);
 // });
 
-var defaults = {
-    margin: {top: 24, right: 0, bottom: 0, left: 0},
-    rootname: "TOP",
-    format: ",d",
-    title: "",
-    width: 960,
-    height: 500
-};
+
+
+function addSubcategoryToSelectedList(subCategoryItem){
+    var selected_subcategories = getStorage("selected_subcategories");
+    selected_subcategories.push(subCategoryItem);
+    setStorage("selected_subcategories",selected_subcategories);
+}
+
+function updateSelectedSubcategories() {
+    var selected_subcategories = getStorage("selected_subcategories");
+    $("#selected_categories").empty();
+    for(var i = 0; i<selected_subcategories.length;i++){
+        var category = selected_subcategories[i].region;
+        var subcategory = selected_subcategories[i].key;
+        $("#selected_categories").append('<li> ' + category + ':' + subcategory + '</li>')
+    }
+}
 
 function main(o, data) {
     var root,
-        opts = $.extend(true, {}, defaults, o),
+        opts = $.extend(true, {}, defaultsPropertiesTreemap, o),
         formatNumber = d3.format(opts.format),
         rname = opts.rootname,
         margin = opts.margin,
@@ -188,7 +197,8 @@ function main(o, data) {
 
             //Matheus
             if(d.parent.key != "Arabic League" && d != undefined && d.id != undefined){
-                console.log("Selecting: " + d.id);
+                var subCategoryItem = getSubcategoryItemByID(d.id);
+                addSubcategoryToSelectedList(subCategoryItem);
                 var category_node = copyObj(d);
                 var parentKey = category_node.parent.key;
                 d = root;
