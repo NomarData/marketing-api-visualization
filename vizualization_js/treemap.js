@@ -27,7 +27,7 @@ function updateSelectedSubcategories() {
     }
 }
 
-function main(o, data) {
+function main(o, data, chartid) {
     var root,
         opts = $.extend(true, {}, defaultsPropertiesTreemap, o),
         formatNumber = d3.format(opts.format),
@@ -35,9 +35,10 @@ function main(o, data) {
         margin = opts.margin,
         theight = 36 + 16;
 
-    $('#chart').width(opts.width).height(opts.height);
-    var width = opts.width - margin.left - margin.right,
-        height = opts.height - margin.top - margin.bottom - theight,
+    var columnWidth = $("#chart1").closest(".col-lg-3").width();
+    $('#' + chartid).width(columnWidth).height(columnWidth);
+    var width = columnWidth - margin.left - margin.right,
+        height = columnWidth - margin.top - margin.bottom - theight,
         transitioning;
 
     var color = d3.scale.category20c();
@@ -56,7 +57,7 @@ function main(o, data) {
         .ratio(height / width * 0.5 * (1 + Math.sqrt(5)))
         .round(false);
 
-    var svg = d3.select("#chart").append("svg")
+    var svg = d3.select("#" + chartid).append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.bottom + margin.top)
         .style("margin-left", -margin.left + "px")
@@ -79,7 +80,7 @@ function main(o, data) {
         .attr("dy", ".75em");
 
     if (opts.title) {
-        $("#chart").prepend("<p class='title'>" + opts.title + "</p>");
+        $("#" + chartid).prepend("<p class='title'>" + opts.title + "</p>");
     }
     if (data instanceof Array) {
         root = { key: rname, values: data};

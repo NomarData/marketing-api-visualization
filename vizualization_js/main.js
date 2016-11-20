@@ -21,8 +21,7 @@ var defaultsPropertiesTreemap = {
     rootname: "TOP",
     format: ",d",
     title: "",
-    width: 960,
-    height: 500
+    height: 100
 };
 //Set (initialize) selected_subcategories to a empty list
 setStorage("selected_subcategories",[]);
@@ -40,7 +39,10 @@ $(document).ready(function () {
         var treemap_data = getStorage("global_data");
         if (treemap_data != null){
             clearInterval(check_data_exists);
-            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")});
+            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart1");
+            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart2");
+            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart3");
+            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart4");
         }
     }, 500);
     //
