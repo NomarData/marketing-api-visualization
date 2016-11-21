@@ -39,10 +39,11 @@ $(document).ready(function () {
         var treemap_data = getStorage("global_data");
         if (treemap_data != null){
             clearInterval(check_data_exists);
-            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart1");
-            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart2");
-            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart3");
-            main({title: "Arabic Health Awareness"}, {key: "Arabic League", values: getStorage("global_data")}, "chart4");
+            main({title: "Gender"}, {key: "Arabic League", values: getStorage("global_data")}, "chart1");
+            main({title: "Scholarity"}, {key: "Arabic League", values: getStorage("global_data")}, "chart2");
+            main({title: "Age Range"}, {key: "Arabic League", values: getStorage("global_data")}, "chart3");
+            main({title: "Language"}, {key: "Arabic League", values: getStorage("global_data")}, "chart4");
+            main({title: "Native or Expats?"}, {key: "Arabic League", values: getStorage("global_data")}, "chart5");
         }
     }, 500);
     //

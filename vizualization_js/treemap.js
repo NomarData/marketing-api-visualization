@@ -35,7 +35,7 @@ function main(o, data, chartid) {
         margin = opts.margin,
         theight = 36 + 16;
 
-    var columnWidth = $("#chart1").closest(".col-lg-3").width();
+    var columnWidth = $("#chart1").closest(".col-lg-4").width();
     $('#' + chartid).width(columnWidth).height(columnWidth);
     var width = columnWidth - margin.left - margin.right,
         height = columnWidth - margin.top - margin.bottom - theight,
