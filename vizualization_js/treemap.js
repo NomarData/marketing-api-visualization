@@ -9,16 +9,19 @@
 //     return main(opts, data);
 // });
 
+function selectCheckboxEvent(){
+
+}
 
 
 function addSubcategoryToSelectedList(subCategoryItem){
-    var selected_subcategories = getStorage("selected_subcategories");
+    var selected_subcategories = getVariableFromSession("selected_subcategories");
     selected_subcategories.push(subCategoryItem);
-    setStorage("selected_subcategories",selected_subcategories);
+    setVariableInSession("selected_subcategories",selected_subcategories);
 }
 
 function updateSelectedSubcategories() {
-    var selected_subcategories = getStorage("selected_subcategories");
+    var selected_subcategories = getVariableFromSession("selected_subcategories");
     $("#selected_categories").empty();
     for(var i = 0; i<selected_subcategories.length;i++){
         var category = selected_subcategories[i].region;
@@ -200,7 +203,7 @@ function main(o, data, chartid) {
             if(d.parent.key != "Arabic League" && d != undefined && d.id != undefined){
                 var subCategoryItem = getSubcategoryItemByID(d.id);
                 addSubcategoryToSelectedList(subCategoryItem);
-                var category_node = copyObj(d);
+                var category_node = returnCopyObject(d);
                 var parentKey = category_node.parent.key;
                 d = root;
                 for (var i = d._children.length; i--;) {
