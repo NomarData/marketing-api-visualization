@@ -15,10 +15,12 @@ var defaultsPropertiesTreemap = {
     title: "",
     height: 100
 };
-//Set (initialize) selected_subcategories to a empty list
-setVariableInSession("selected_subcategories",[]);
+
 
 $(document).ready(function () {
+    //Set (initialize) selected_subcategories to a empty list
+    setVariableInSession("selected_subcategories",[]);
+    
     // Load Fusion Table Data
     initializeDataLayerModule();
 

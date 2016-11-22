@@ -13,14 +13,14 @@ function initializeDataLayerModule(){
 //Requests functions and Manage Data
 function createEmptyDataLayer() {
     var dataLayer = {
-        selectedItems: [],
-        interests: [],
-        gender: [],
-        scholarity: [],
-        age_range: [],
-        language: [],
-        membershipStatus: [],
-    }
+        selectedItems: {},
+        interests: {},
+        gender: {},
+        scholarity: {},
+        age_range: {},
+        language: {},
+        membershipStatus: {},
+    };
     setVariableInSession("dataLayer", dataLayer);
 }
 function requestCountriesList(){
@@ -40,7 +40,7 @@ function setDataLayerMember(member, newData){
     setVariableInSession("dataLayer",dataLayer);
 }
 
-#TODO function updateDataLayerMemberValue(member, newData){
+function updateDataLayerMemberValue(member, newData){
     var dataLayer = getVariableFromSession("dataLayer");
     dataLayer[member] = newData;
     setVariableInSession("dataLayer",dataLayer);
