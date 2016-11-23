@@ -129,8 +129,9 @@ $(document).ready(function () {
     scholarityTreemap.init();
 
     var map = new Datamap({
-        element: document.getElementById("arabLeagueMap"),
+        element: document.getElementById("arabLeagueMapDiv"),
         scope: 'world',
+        width:  "700px",
         height:'400px',
         // Zoom in on Africa
         setProjection: function(element) {

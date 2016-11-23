@@ -6,14 +6,17 @@
     <!-- Bootstrap Css-->
     <!--<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />-->
     <!--<link rel='stylesheet' href="bootstrap/css/bootstrap.min.css">-->
-    <link rel='stylesheet' href="bootstrap/download/bootswatch.min.css">
+    <link rel='stylesheet' href="bootstrap/download/cosmo-bootswatch.min.css">
     <link rel="stylesheet" href="bootstrap/download/bootstrap-responsive.min.css" >
-    <link rel='stylesheet' href="http://getbootstrap.com/2.3.2/assets/js/google-code-prettify/prettify.css">
+    <link rel='stylesheet' href="bootstrap/download/prettify.css">
     <!--<link rel='stylesheet' href="http://aozora.github.io/bootplus/assets/css/docs.css">-->
     <link href="vizualization_css/treemap.css" rel="stylesheet" />
     <link href="vizualization_css/arabLeagueMap.css" rel="stylesheet" />
 </head>
 <body>
+<div class=".datamaps-style-block">
+<!--//Avoid datamaps create rewrite css-->
+</div>
     <div class="container">
         <div class="row">
             <div class="span12 text-center">
@@ -42,7 +45,9 @@
         </div>
         <div class="row">
             <!--<div class="col-lg-offset-3"></div>-->
-            <h1 class="text-center">Vizualization </h1>
+            <div class="row">
+                <h1 class="text-center">Vizualization </h1>
+            </div>
 
             <div class="span4">
                 <h4>Gender:</h4>
@@ -58,7 +63,7 @@
             </div>
             <div class="span8">
                     <div class="title text-center">Dinamic Map</div>
-                    <div id="arabLeagueMap">
+                    <div id="arabLeagueMapDiv" class="arabLeagueMap">
             </div>
         </div>
         </div>
@@ -76,9 +81,9 @@
     <script src="vizualization_js/fusion_table.js"></script>
     <script src="vizualization_js/treemap.js"></script>
     <script src="vizualization_js/treemapClean.js"></script>
-    <script src="vizualization_js/datamaps-0.5.0/src/js/components/topojson/topojson.js"></script>
-    <script src="vizualization_js/datamaps-0.5.0/dist/datamaps.all.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/188.0.0/prettify.js"></script>
+    <script src="vizualization_js/topojson.js"></script>
+    <script src="vizualization_js/datamaps.all.js"></script>
+    <script src="bootstrap/download/prettify.js"></script>
     <script src="vizualization_js/main.js"></script>
 </body>
 </html>
