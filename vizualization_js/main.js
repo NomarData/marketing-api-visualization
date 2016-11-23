@@ -16,38 +16,115 @@ var defaultsPropertiesTreemap = {
     height: 100
 };
 
-var treemapData = {
+var treemapDataGender = {
     "name": "Gender",
     "children": [{
         "name": "Male",
         "children": [{
             "name": "Male",
-            "size": 1983
+            "size": Math.random()
         }]
     },{
         "name": "Female",
         "children": [{
             "name": "Female",
-            "size": 1983
+            "size": Math.random()
         }]
     }
     ]
 };
 
-function generateTreemapProperties(width,height){
-    return {
-        w: width,
-        h: height,
-        x: d3.scale.linear().range([0, width]),
-        y : d3.scale.linear().range([0, height]),
-        color : d3.scale.category20c()
+var treemapDataAgeRange = {
+    "name": "Age Range",
+    "children": [{
+        "name": "18-22",
+        "children": [{
+            "name": "18-22",
+            "size": Math.random()
+        }]
+    },{
+        "name": "23-30",
+        "children": [{
+            "name": "23-30",
+            "size": Math.random()
+        }]
+    },{
+        "name": "31-40",
+        "children": [{
+            "name": "31-40",
+            "size": Math.random()
+        }]
     }
-}
+    ]
+};
+
+var treemapDataScholarity = {
+    "name": "Scholarity",
+    "children": [{
+        "name": "HighSchool",
+        "children": [{
+            "name": "18-22",
+            "size": Math.random()
+        }]
+    },{
+        "name": "Graduated",
+        "children": [{
+            "name": "23-30",
+            "size": Math.random()
+        }]
+    }
+    ]
+};
+
+var treemapDataLanguage = {
+    "name": "Language",
+    "children": [{
+        "name": "18-22",
+        "children": [{
+            "name": "18-22",
+            "size": 19830
+        }]
+    },{
+        "name": "23-30",
+        "children": [{
+            "name": "23-30",
+            "size": 15023
+        }]
+    }
+    ]
+};
+
+var treemapDataNaturality = {
+    "name": "Native",
+    "children": [{
+        "name": "18-22",
+        "children": [{
+            "name": "18-22",
+            "size": 19830
+        }]
+    },{
+        "name": "Expats",
+        "children": [{
+            "name": "23-30",
+            "size": 15023
+        }]
+    }
+    ]
+};
 
 $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
-    treemap = new Treemap(1280 - 80,800 - 180);
-    treemap.init();
+    var treemapDefaultHeight = 100;
+    var colorFunction = d3.scale.category20();
+
+    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender);
+    genderTreemap.init();
+
+    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange);
+    ageRangeTreemap.init();
+
+    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity);
+    scholarityTreemap.init();
     // buildTreemap(treemapData,treemapProperties);
 
     // Load Fusion Table Data

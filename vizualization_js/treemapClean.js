@@ -3,13 +3,12 @@
  */
 
 
-function Treemap(width,height) {
-    var self = this;
+function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.w = width;
     this.h = height;
     this.x = d3.scale.linear().range([0, width]);
     this.y = d3.scale.linear().range([0, height]);
-    this.color = d3.scale.category20c();
+    this.color = colorFunction;
     this.root = treemapData;
     this.node = treemapData;
     this.treemap = d3.layout.treemap()
@@ -19,7 +18,7 @@ function Treemap(width,height) {
         .value(function (d) {
             return d.size;
         });
-    this.svg = d3.select("#body").append("div")
+    this.svg = d3.select(treemapContainer).append("div")
         .attr("class", "chart")
         .style("width", this.w + "px")
         .style("height", this.h + "px")
@@ -46,9 +45,7 @@ function Treemap(width,height) {
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
                 .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
-        console.log(d)
         self.node = d;
-        console.log(self.node)
         d3.event.stopPropagation();
 
     }
@@ -63,7 +60,6 @@ function Treemap(width,height) {
         var currentInstance = this;
         var color = currentInstance.color;
         var root = currentInstance.root;
-        var node = currentInstance.node;
         var treemap = currentInstance.treemap;
         var svg = currentInstance.svg;
         var zoom = currentInstance.zoom;
@@ -77,9 +73,7 @@ function Treemap(width,height) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                #TODO
-                debugger
-                return zoom(currentInstance, node == d.parent ? root : d.parent);
+                return zoom(currentInstance, currentInstance.node == d.parent ? root : d.parent);
             });
 
         cell.append("svg:rect")
