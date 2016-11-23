@@ -112,10 +112,12 @@ var treemapDataNaturality = {
     ]
 };
 
+
 $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
     var treemapDefaultHeight = 100;
     var colorFunction = d3.scale.category20();
+    var colors = d3.scale.category10();
 
     genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender);
     genderTreemap.init();
@@ -125,24 +127,77 @@ $(document).ready(function () {
 
     scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity);
     scholarityTreemap.init();
-    // buildTreemap(treemapData,treemapProperties);
 
-    // Load Fusion Table Data
-    // $.when(initializeDataLayerModule()).always(function(){
-    //     main({title: "Gender"}, {key: "gender", values: getVariableFromSession("global_data")}, "chart1");
-    //     main({title: "Scholarity"}, {key: "Scholarity", values: getVariableFromSession("global_data")}, "chart2");
-    //     main({title: "Age Range"}, {key: "Age Range", values: getVariableFromSession("global_data")}, "chart3");
-    //     main({title: "Language"}, {key: "Language", values: getVariableFromSession("global_data")}, "chart4");
-    //     main({title: "Native or Expats?"}, {key: "Native or Expats?", values: getVariableFromSession("global_data")}, "chart5");
-    // });
+    var map = new Datamap({
+        element: document.getElementById("arabLeagueMap"),
+        scope: 'world',
+        height:'400px',
+        // Zoom in on Africa
+        setProjection: function(element) {
+            var projection = d3.geo.equirectangular()
+                .center([24, 24])
+                .rotate([0, 0])
+                .scale(500)
+                .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+            var path = d3.geo.path()
+                .projection(projection);
 
-    // // Plot treemaps
-    // var check_data_exists = setInterval(function(){
-    //     var treemap_data = getVariableFromSession("global_data");
-    //     if (treemap_data != null){
-    //         clearInterval(check_data_exists);
-    //
-    //     }
-    // }, 500);
-    //
+            return {path: path, projection: projection};
+        },
+        geographyConfig: {
+            dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
+            hideAntarctica: true,
+            borderWidth: 1,
+            borderOpacity: 1,
+            borderColor: '#FDFDFD',
+            responsive: true,
+            popupTemplate: function(geography, data) { //this function should just return a string
+                return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+            },
+            popupOnHover: true, //disable the popup while hovering
+            highlightOnHover: true,
+            highlightFillColor: '#FC8D59',
+            highlightBorderColor: 'rgba(250, 15, 160, 0.2)',
+            highlightBorderWidth: 2,
+            highlightBorderOpacity: 1
+        },
+        fills: {
+            defaultFill: "#EEEEEE",
+            gt50: colors(Math.random() * 20),
+            eq50: colors(Math.random() * 20),
+            lt25: colors(Math.random() * 10),
+            gt75: colors(Math.random() * 200),
+            lt50: colors(Math.random() * 20),
+            eq0: colors(Math.random() * 1),
+            pink: '#0fa0fa',
+            gt500: colors(Math.random() * 1)
+        },
+        data: {
+            'ZAF': { fillKey: 'gt50' },
+            'ZWE': { fillKey: 'lt25' },
+            'NGA': { fillKey: 'lt50' },
+            'MOZ': { fillKey: 'eq50' },
+            'MDG': { fillKey: 'eq50' },
+            'EGY': { fillKey: 'gt75' },
+            'TZA': { fillKey: 'gt75' },
+            'LBY': { fillKey: 'eq0' },
+            'DZA': { fillKey: 'gt500' },
+            'SSD': { fillKey: 'pink' },
+            'SOM': { fillKey: 'gt50' },
+            'GIB': { fillKey: 'eq50' },
+            'AGO': { fillKey: 'lt50' }
+        }
+    });
+
+    map.bubbles([
+        {name: 'Bubble 1', latitude: 21.32, longitude: -7.32, radius: 45, fillKey: 'gt500'},
+        {name: 'Bubble 2', latitude: 12.32, longitude: 27.32, radius: 25, fillKey: 'eq0'},
+        {name: 'Bubble 3', latitude: 0.32, longitude: 23.32, radius: 35, fillKey: 'lt25'},
+        {name: 'Bubble 4', latitude: -31.32, longitude: 23.32, radius: 55, fillKey: 'eq50'},
+    ], {
+        popupTemplate: function(geo, data) {
+            return "<div class='hoverinfo'>Bubble for " + data.name + "</div>";
+        }
+    });
+
 });

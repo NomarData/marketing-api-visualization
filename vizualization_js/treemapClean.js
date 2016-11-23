@@ -88,9 +88,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("text-anchor", "middle")
             .text(function(d) { return d.name; })
             .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
-
-        d3.select(window).on("click", function() { zoom(currentInstance,root); });
-
     }
 }
 
