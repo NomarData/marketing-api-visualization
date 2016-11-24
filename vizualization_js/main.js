@@ -152,6 +152,7 @@ $(document).ready(function () {
     var treemapDefaultHeight = 100;
     var colorFunction = d3.scale.category20();
     var colors = d3.scale.category10();
+    initializeDataLayerModule()
 
     genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender);
     genderTreemap.init();
@@ -167,6 +168,9 @@ $(document).ready(function () {
 
     citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship);
     citizenshipTreemap.init();
+
+    luxuriousHealthBar = new stackedHorizontalBar();
+    luxuriousHealthBar.init();
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
