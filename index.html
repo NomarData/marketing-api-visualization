@@ -12,6 +12,7 @@
     <!--<link rel='stylesheet' href="http://aozora.github.io/bootplus/assets/css/docs.css">-->
     <link href="vizualization_css/treemap.css" rel="stylesheet" />
     <link href="vizualization_css/arabLeagueMap.css" rel="stylesheet" />
+    <link href="vizualization_css/stackedHorizontalBar.css" rel="stylesheet" />
 </head>
 <body>
 <div class=".datamaps-style-block">
@@ -62,8 +63,23 @@
                 <div id="naturalityTreemapDiv"></div>
             </div>
             <div class="span8">
-                    <div class="title text-center">Dinamic Map</div>
-                    <div id="arabLeagueMapDiv" class="arabLeagueMap">
+                    <div class="row">
+                        <div class="row">
+                            <div class="title text-center">Luxurious vs. Health Inclination</div>
+                        </div>
+                        <div class="row">
+                            <div  class="text-center">
+                                <img src="imgs/jewel.svg" style="max-width: 40px; vertical-align: top"/>
+                                <span id="horizontalStackedBar">
+                                </span>
+                                <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="title text-center">Dinamic Map</div>
+                        <div id="arabLeagueMapDiv" class="arabLeagueMap">
+                    </div>
             </div>
         </div>
         </div>
@@ -79,11 +95,12 @@
     <script src="vizualization_js/requestfactory.js"></script>
     <script src="vizualization_js/datalayermodule.js"></script>
     <script src="vizualization_js/fusion_table.js"></script>
+    <script src="vizualization_js/treemapOld.js"></script>
     <script src="vizualization_js/treemap.js"></script>
-    <script src="vizualization_js/treemapClean.js"></script>
     <script src="vizualization_js/topojson.js"></script>
     <script src="vizualization_js/datamaps.all.js"></script>
     <script src="bootstrap/download/prettify.js"></script>
+    <script src="vizualization_js/stackedHorizontalBar.js"></script>
     <script src="vizualization_js/main.js"></script>
 </body>
 </html>

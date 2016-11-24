@@ -37,21 +37,21 @@ var treemapDataGender = {
 var treemapDataAgeRange = {
     "name": "Age Range",
     "children": [{
-        "name": "18-22",
+        "name": "18-24",
         "children": [{
-            "name": "18-22",
+            "name": "18-24",
             "size": Math.random()
         }]
     },{
-        "name": "23-30",
+        "name": "25-44",
         "children": [{
-            "name": "23-30",
+            "name": "25-44",
             "size": Math.random()
         }]
     },{
-        "name": "31-40",
+        "name": "45+",
         "children": [{
-            "name": "31-40",
+            "name": "45+",
             "size": Math.random()
         }]
     }
@@ -61,15 +61,21 @@ var treemapDataAgeRange = {
 var treemapDataScholarity = {
     "name": "Scholarity",
     "children": [{
-        "name": "HighSchool",
+        "name": "No Degree",
         "children": [{
-            "name": "18-22",
+            "name": "No Degree",
             "size": Math.random()
         }]
     },{
+        "name": "Some Degree",
+        "children": [{
+            "name": "Some Degree",
+            "size": Math.random()
+        }]},
+        {
         "name": "Graduated",
         "children": [{
-            "name": "23-30",
+            "name": "Graduated",
             "size": Math.random()
         }]
     }
@@ -79,34 +85,62 @@ var treemapDataScholarity = {
 var treemapDataLanguage = {
     "name": "Language",
     "children": [{
-        "name": "18-22",
+        "name": "Arabic",
         "children": [{
-            "name": "18-22",
-            "size": 19830
+            "name": "Arabic",
+            "size": Math.random()
         }]
     },{
-        "name": "23-30",
+        "name": "English",
         "children": [{
-            "name": "23-30",
-            "size": 15023
+            "name": "English",
+            "size": Math.random()
         }]
-    }
+    },
+        {
+            "name": "French",
+            "children": [{
+                "name": "French",
+                "size": Math.random()
+            }]
+        },
+        {
+            "name": "Indian",
+            "children": [{
+                "name": "Indian",
+                "size": Math.random()
+            }]
+        },
+        {
+            "name": "Asian",
+            "children": [{
+                "name": "Asian",
+                "size": Math.random()
+            }]
+        },
+        {
+            "name": "European",
+            "children": [{
+                "name": "European",
+                "size": Math.random()
+            }]
+        }
     ]
 };
 
 var treemapDataNaturality = {
-    "name": "Native",
+    "name": "Naturality",
     "children": [{
-        "name": "18-22",
+        "name": "Natural",
         "children": [{
-            "name": "18-22",
-            "size": 19830
+            "name": "Natural",
+            "size": Math.random()
         }]
     },{
         "name": "Expats",
         "children": [{
-            "name": "23-30",
-            "size": 15023
+            "name": "Expats",
+            "size": Math.random()
         }]
     }
     ]
@@ -127,6 +161,12 @@ $(document).ready(function () {
 
     scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity);
     scholarityTreemap.init();
+
+    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage);
+    languageTreemap.init();
+
+    naturalityTreemap = new Treemap($("#naturalityTreemapDiv").width(),treemapDefaultHeight,$("#naturalityTreemapDiv").get(0),colorFunction,treemapDataNaturality);
+    naturalityTreemap.init();
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
