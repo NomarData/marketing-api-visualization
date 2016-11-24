@@ -16,134 +16,143 @@ var defaultsPropertiesTreemap = {
     height: 100
 };
 
-var treemapDataGender = {
-    "name": "Gender",
-    "children": [{
-        "name": "Male",
+var treemapDataGender = function(){
+    return  {
+        "name": "Gender",
         "children": [{
             "name": "Male",
-            "size": Math.random()
-        }]
-    },{
-        "name": "Female",
-        "children": [{
+            "children": [{
+                "name": "Male",
+                "size": Math.random()
+            }]
+        },{
             "name": "Female",
-            "size": Math.random()
-        }]
-    }
-    ]
-};
-
-var treemapDataAgeRange = {
-    "name": "Age Range",
-    "children": [{
-        "name": "18-24",
-        "children": [{
-            "name": "18-24",
-            "size": Math.random()
-        }]
-    },{
-        "name": "25-44",
-        "children": [{
-            "name": "25-44",
-            "size": Math.random()
-        }]
-    },{
-        "name": "45+",
-        "children": [{
-            "name": "45+",
-            "size": Math.random()
-        }]
-    }
-    ]
-};
-
-var treemapDataScholarity = {
-    "name": "Scholarity",
-    "children": [{
-        "name": "No Degree",
-        "children": [{
-            "name": "No Degree",
-            "size": Math.random()
-        }]
-    },{
-        "name": "Some Degree",
-        "children": [{
-            "name": "Some Degree",
-            "size": Math.random()
-        }]},
-        {
-        "name": "Graduated",
-        "children": [{
-            "name": "Graduated",
-            "size": Math.random()
-        }]
-    }
-    ]
-};
-
-var treemapDataLanguage = {
-    "name": "Language",
-    "children": [{
-        "name": "Arabic",
-        "children": [{
-            "name": "Arabic",
-            "size": Math.random()
-        }]
-    },{
-        "name": "English",
-        "children": [{
-            "name": "English",
-            "size": Math.random()
-        }]
-    },
-        {
-            "name": "French",
             "children": [{
-                "name": "French",
-                "size": Math.random()
-            }]
-        },
-        {
-            "name": "Indian",
-            "children": [{
-                "name": "Indian",
-                "size": Math.random()
-            }]
-        },
-        {
-            "name": "Asian",
-            "children": [{
-                "name": "Asian",
-                "size": Math.random()
-            }]
-        },
-        {
-            "name": "European",
-            "children": [{
-                "name": "European",
+                "name": "Female",
                 "size": Math.random()
             }]
         }
-    ]
+        ]
+    };
+};
+var treemapDataAgeRange = function(){
+    return {
+        "name": "Age Range",
+        "children": [{
+            "name": "18-24",
+            "children": [{
+                "name": "18-24",
+                "size": Math.random()
+            }]
+        },{
+            "name": "25-44",
+            "children": [{
+                "name": "25-44",
+                "size": Math.random()
+            }]
+        },{
+            "name": "45+",
+            "children": [{
+                "name": "45+",
+                "size": Math.random()
+            }]
+        }
+        ]
+    }
 };
 
-var treemapDataCitizenship = {
-    "name": "Local",
-    "children": [{
+var treemapDataScholarity = function(){
+ return {
+     "name": "Scholarity",
+     "children": [{
+         "name": "No Degree",
+         "children": [{
+             "name": "No Degree",
+             "size": Math.random()
+         }]
+     },{
+         "name": "Some Degree",
+         "children": [{
+             "name": "Some Degree",
+             "size": Math.random()
+         }]},
+         {
+             "name": "Graduated",
+             "children": [{
+                 "name": "Graduated",
+                 "size": Math.random()
+             }]
+         }
+     ]
+ }
+};
+
+var treemapDataLanguage = function(){
+    return {
+        "name": "Language",
+        "children": [{
+            "name": "Arabic",
+            "children": [{
+                "name": "Arabic",
+                "size": Math.random()
+            }]
+        },{
+            "name": "English",
+            "children": [{
+                "name": "English",
+                "size": Math.random()
+            }]
+        },
+            {
+                "name": "French",
+                "children": [{
+                    "name": "French",
+                    "size": Math.random()
+                }]
+            },
+            {
+                "name": "Indian",
+                "children": [{
+                    "name": "Indian",
+                    "size": Math.random()
+                }]
+            },
+            {
+                "name": "Asian",
+                "children": [{
+                    "name": "Asian",
+                    "size": Math.random()
+                }]
+            },
+            {
+                "name": "European",
+                "children": [{
+                    "name": "European",
+                    "size": Math.random()
+                }]
+            }
+        ]
+    }
+};
+
+var treemapDataCitizenship = function(){
+    return {
         "name": "Local",
         "children": [{
             "name": "Local",
-            "size": Math.random()
-        }]
-    },{
-        "name": "Expats",
-        "children": [{
+            "children": [{
+                "name": "Local",
+                "size": Math.random()
+            }]
+        },{
             "name": "Expats",
-            "size": Math.random()
-        }]
+            "children": [{
+                "name": "Expats",
+                "size": Math.random()
+            }]
+        }
+        ]
     }
-    ]
 };
 
 
@@ -154,19 +163,27 @@ $(document).ready(function () {
     var colors = d3.scale.category10();
     initializeDataLayerModule()
 
-    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender);
+    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
     genderTreemap.init();
+    setInterval(function () {
+        genderTreemap.updateData(treemapDataGender());
+        ageRangeTreemap.updateData(treemapDataAgeRange());
+        scholarityTreemap.updateData(treemapDataScholarity());
+        citizenshipTreemap.updateData(treemapDataCitizenship());
+        languageTreemap.updateData(treemapDataLanguage());
+    },1000);
 
-    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange);
+
+    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange());
     ageRangeTreemap.init();
 
-    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity);
+    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
     scholarityTreemap.init();
 
-    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage);
+    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
     languageTreemap.init();
 
-    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship);
+    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship());
     citizenshipTreemap.init();
 
     luxuriousHealthBar = new stackedHorizontalBar();

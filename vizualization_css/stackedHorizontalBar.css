@@ -15,10 +15,16 @@
 
 .axis path, .axis line {
 
-    /*fill: none;*/
+    fill: none;
 
-    /*stroke: #000;*/
+    stroke: #000;
 
-    /*shape-rendering: crispEdges;*/
+    shape-rendering: crispEdges;
 
+}
+
+.align {
+
+    margin-top: 20px;//This 20px is the margin of .pagination class so to match that else you have to alter pagination class
+float:left;
 }
