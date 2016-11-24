@@ -128,12 +128,12 @@ var treemapDataLanguage = {
     ]
 };
 
-var treemapDataNaturality = {
-    "name": "Naturality",
+var treemapDataCitizenship = {
+    "name": "Local",
     "children": [{
-        "name": "Natural",
+        "name": "Local",
         "children": [{
-            "name": "Natural",
+            "name": "Local",
             "size": Math.random()
         }]
     },{
@@ -165,8 +165,8 @@ $(document).ready(function () {
     languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage);
     languageTreemap.init();
 
-    naturalityTreemap = new Treemap($("#naturalityTreemapDiv").width(),treemapDefaultHeight,$("#naturalityTreemapDiv").get(0),colorFunction,treemapDataNaturality);
-    naturalityTreemap.init();
+    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship);
+    citizenshipTreemap.init();
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
