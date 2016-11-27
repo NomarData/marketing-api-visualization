@@ -135,9 +135,32 @@ var treemapDataLanguage = function(){
     }
 };
 
+function treemapDataGenerator(treemap){
+    switch (treemap.root.name){
+        case "Scholarity":
+            return treemapDataScholarity();
+            break;
+        case "Gender":
+            return treemapDataGender();
+            break;
+        case "Language":
+            return treemapDataLanguage();
+            break;
+        case "Age Range":
+            return treemapDataAgeRange();
+            break;
+        case "Citizenship":
+            return treemapDataCitizenship();
+            break;
+        default:
+            throw Error(treemap.node.name + " is not a valid treemap name")
+    }
+
+}
+
 var treemapDataCitizenship = function(){
     return {
-        "name": "Local",
+        "name": "Citizenship",
         "children": [{
             "name": "Local",
             "children": [{
@@ -158,36 +181,24 @@ var treemapDataCitizenship = function(){
 
 $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
-    var treemapDefaultHeight = 100;
-    var colorFunction = d3.scale.category20();
+
     var colors = d3.scale.category10();
-    initializeDataLayerModule()
+    initializeDataLayerModule();
+    initTreemaps();
 
-    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
-    genderTreemap.init();
-
-    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange());
-    ageRangeTreemap.init();
-
-    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
-    scholarityTreemap.init();
-
-    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
-    languageTreemap.init();
-
-    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship());
-    citizenshipTreemap.init();
 
     luxuriousHealthBar = new stackedHorizontalBar();
     luxuriousHealthBar.init();
 
-    setInterval(function () {
+
+
+    // setInterval(function () {
         genderTreemap.updateData(treemapDataGender());
         ageRangeTreemap.updateData(treemapDataAgeRange());
         scholarityTreemap.updateData(treemapDataScholarity());
         citizenshipTreemap.updateData(treemapDataCitizenship());
         languageTreemap.updateData(treemapDataLanguage());
-    },5000);
+    // },5000);
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),

@@ -1,6 +1,38 @@
 /**
  * Created by maraujo on 11/22/16.
  */
+
+function updateTreemaps(treemapTrigger) {
+    $.map(all_treemaps, function(treemap){
+       if(treemap != treemapTrigger){
+           var newData = treemapDataGenerator(treemap);
+           treemap.updateData(newData);
+       }
+    });
+}
+
+function initTreemaps(){
+    var treemapDefaultHeight = 100;
+    var colorFunction = d3.scale.category20();
+
+    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
+    genderTreemap.init();
+
+    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange());
+    ageRangeTreemap.init();
+
+    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
+    scholarityTreemap.init();
+
+    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
+    languageTreemap.init();
+
+    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship());
+    citizenshipTreemap.init();
+
+    all_treemaps = [genderTreemap,ageRangeTreemap,scholarityTreemap,languageTreemap,citizenshipTreemap]
+}
+
 function getRedColor(position){
     function redColorGenerator(){
         return d3.scale.linear().domain([0,0.5,1])
@@ -73,7 +105,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("dy", ".35em")
             .attr("text-anchor", "middle")
             .each(currentInstance.setTextLines)
-            .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
+            .style("opacity", function(d) {
+                d.w = this.getComputedTextLength();
+                console.log(d.w + " " + d.dx);
+                return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+            });
 
         this.root =  rootData;
         // debugger
@@ -104,9 +140,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             t.select("text")
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
-                .style("opacity", function(d) {
-                    return kx * d.dx > d.w ? 1 : 0;
-                });
+                .each(self.setTextLines)
+                .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
         self.node = d;
         d3.event.stopPropagation();
 
@@ -116,6 +151,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     }
     this.count = function () {
         return 1;
+    }
+
+    this.isSelected = function (d) {
+        return this.node == d.parent;
     }
 
     this.init = function(){
@@ -143,7 +182,14 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                return zoom(currentInstance, currentInstance.node == d.parent ? currentInstance.root : d.parent);
+                if(currentInstance.isSelected(d)){
+                    zoom(currentInstance, currentInstance.root);
+                }else{
+                    updateTreemaps(currentInstance);
+                    return zoom(currentInstance, d.parent);
+                }
+
+
             });
 
         cell.append("svg:rect")
@@ -157,12 +203,14 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("dy", ".35em")
             .attr("text-anchor", "middle")
             .each(currentInstance.setTextLines)
-            .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
+            .style("opacity", function(d) {
+                d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0;
+            });
 
     }
 
     this.setTextLines = function(d){
-        $(this).empty()
+        $(this).empty();
         var tspanLine1 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
@@ -171,6 +219,28 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
+            .attr("dy", "0.9em")
+            .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
+    }
+
+    this.setZoomTextLines = function(textInstance, d){
+        //this is treemap
+        var treemap = this;
+        var rectWidth = treemap.w;
+        var kx = rectWidth / d.dx;
+        if (typeof(kx)==='undefined') kx = 1;
+        if (typeof(ky)==='undefined') ky = 1;
+
+
+        $(textInstance).empty();
+        var tspanLine1 = d3.select(textInstance).append("svg:tspan")
+            .attr("x", 0)
+            .attr("dx",  function(d) { return kx * d.dx / 2; })
+            .attr("dy", "-0.45em")
+            .text(d.name);
+        var tspanLine2 = d3.select(textInstance).append("svg:tspan")
+            .attr("x", 0)
+            .attr("dx",  function(d) { return kx * d.dx / 2; })
             .attr("dy", "0.9em")
             .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
     }
