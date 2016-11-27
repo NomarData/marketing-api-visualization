@@ -192,13 +192,9 @@ $(document).ready(function () {
 
 
 
-    // setInterval(function () {
-        genderTreemap.updateData(treemapDataGender());
-        ageRangeTreemap.updateData(treemapDataAgeRange());
-        scholarityTreemap.updateData(treemapDataScholarity());
-        citizenshipTreemap.updateData(treemapDataCitizenship());
-        languageTreemap.updateData(treemapDataLanguage());
-    // },5000);
+    setInterval(function () {
+        luxuriousHealthBar.updateData();
+    },1000);
 
     arabLeagueMap = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),

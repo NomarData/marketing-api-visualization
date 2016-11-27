@@ -4,9 +4,9 @@
 
 function stackedHorizontalBar(){
     this.data = [{
-        name: "A",
+        name: "Health Inclination",
         value: 1,
-        value2: 2
+        value2: 5
     }];
     this.margin = {
         top: 30,
@@ -20,6 +20,21 @@ function stackedHorizontalBar(){
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height], .2);
     this.xAxis = d3.svg.axis().scale(this.x).orient("top");
     this.svg = null;
+
+    this.updateData = function(data){
+        var currentStackbar = this;
+        this.data.value = 10 * Math.random();
+        this.data.value2 = 10 * Math.random();
+
+        var bars = this.svg.selectAll("rect").transition()
+            .duration(1000);
+        bars.attr("x", function (d) {
+                var dice = Math.min(-Math.random()*10,Math.random()*10);
+                return currentStackbar.x(dice);
+            })
+
+    };
+
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
             .attr("width", this.width + this.margin.left + this.margin.right)
