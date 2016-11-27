@@ -200,7 +200,7 @@ $(document).ready(function () {
         languageTreemap.updateData(treemapDataLanguage());
     // },5000);
 
-    var map = new Datamap({
+    arabLeagueMap = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
         scope: 'world',
         width:  "700px",
@@ -262,15 +262,46 @@ $(document).ready(function () {
         }
     });
 
-    map.bubbles([
-        {name: 'Bubble 1', latitude: 21.32, longitude: -7.32, radius: 45, fillKey: 'gt500'},
-        {name: 'Bubble 2', latitude: 12.32, longitude: 27.32, radius: 25, fillKey: 'eq0'},
-        {name: 'Bubble 3', latitude: 0.32, longitude: 23.32, radius: 35, fillKey: 'lt25'},
-        {name: 'Bubble 4', latitude: -31.32, longitude: 23.32, radius: 55, fillKey: 'eq50'},
-    ], {
-        popupTemplate: function(geo, data) {
-            return "<div class='hoverinfo'>Bubble for " + data.name + "</div>";
+    window.setInterval(function() {
+        arabLeagueMap.updateChoropleth({
+                'ZAF': getGreenOrRedColor(),
+                'ZWE': getGreenOrRedColor(),
+                'NGA': getGreenOrRedColor(),
+                'MOZ': getGreenOrRedColor(),
+                'MDG': getGreenOrRedColor(),
+                'EGY': getGreenOrRedColor(),
+                'TZA': getGreenOrRedColor(),
+                'LBY': getGreenOrRedColor(),
+                'DZA': getGreenOrRedColor(),
+                'SSD': getGreenOrRedColor(),
+                'SOM': getGreenOrRedColor(),
+                'GIB': getGreenOrRedColor(),
+                'AGO': getGreenOrRedColor()
+        });
+        arabLeagueMap.options.fills = {
+            defaultFill: "#EEEEEE",
+                gt50: getGreenOrRedColor(),
+                eq50: getGreenOrRedColor(),
+                lt25: getGreenOrRedColor(),
+                gt75: getGreenOrRedColor(),
+                lt50: getGreenOrRedColor(),
+                eq0: getGreenOrRedColor(),
+                pink: getGreenOrRedColor(),
+                gt500: getGreenOrRedColor()
         }
-    });
+        arabLeagueMap.bubbles([
+            {name: 'Bubble 1', latitude: 21.32, longitude: -7.32, radius: 45*Math.random(), fillKey: 'gt500'},
+            {name: 'Bubble 2', latitude: 12.32, longitude: 27.32, radius: 25*Math.random(), fillKey: 'eq0'},
+            {name: 'Bubble 3', latitude: 0.32, longitude: 23.32, radius: 35*Math.random(), fillKey: 'lt25'},
+            {name: 'Bubble 4', latitude: -31.32, longitude: 23.32, radius: 55*Math.random(), fillKey: 'eq50'},
+        ], {
+            popupTemplate: function(geo, data) {
+                return "<div class='hoverinfo'>Bubble for " + data.name + "</div>";
+            }
+        });
+    }, 2000);
+
+
+
 
 });
