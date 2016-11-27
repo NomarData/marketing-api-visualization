@@ -187,7 +187,7 @@ $(document).ready(function () {
         scholarityTreemap.updateData(treemapDataScholarity());
         citizenshipTreemap.updateData(treemapDataCitizenship());
         languageTreemap.updateData(treemapDataLanguage());
-    },1000);
+    },5000);
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
