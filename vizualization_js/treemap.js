@@ -67,18 +67,16 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     }
 
                 });
-
         var texts = cells.select("text")
-            .text(function(d) { return d.name; })
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", function(d) { return d.dy / 2; })
             .attr("dy", ".35em")
             .attr("text-anchor", "middle")
+            .each(currentInstance.setTextLines)
             .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
 
-
-        this.root = rootData;
-
+        this.root =  rootData;
+        // debugger
     };
 
     this.treemap = d3.layout.treemap()
@@ -106,7 +104,9 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             t.select("text")
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
-                .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
+                .style("opacity", function(d) {
+                    return kx * d.dx > d.w ? 1 : 0;
+                });
         self.node = d;
         d3.event.stopPropagation();
 
@@ -151,16 +151,28 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("height", function(d) { return d.dy - 1; })
             .style("fill", function(d) { return color(d.parent.name); });
 
-        cell.append("svg:text")
+        var text = cell.append("svg:text")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", function(d) { return d.dy / 2; })
             .attr("dy", ".35em")
             .attr("text-anchor", "middle")
-            .text(function(d) { return d.name; })
+            .each(currentInstance.setTextLines)
             .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
 
     }
+
+    this.setTextLines = function(d){
+        $(this).empty()
+        var tspanLine1 = d3.select(this).append("svg:tspan")
+            .attr("x", 0)
+            .attr("dx",  function(d) { return d.dx / 2; })
+            .attr("dy", "-0.45em")
+            .text(d.name);
+        var tspanLine2 = d3.select(this).append("svg:tspan")
+            .attr("x", 0)
+            .attr("dx",  function(d) { return d.dx / 2; })
+            .attr("dy", "0.9em")
+            .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
+    }
 }
-
-
 

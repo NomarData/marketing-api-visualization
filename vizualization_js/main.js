@@ -165,14 +165,6 @@ $(document).ready(function () {
 
     genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
     genderTreemap.init();
-    setInterval(function () {
-        genderTreemap.updateData(treemapDataGender());
-        ageRangeTreemap.updateData(treemapDataAgeRange());
-        scholarityTreemap.updateData(treemapDataScholarity());
-        citizenshipTreemap.updateData(treemapDataCitizenship());
-        languageTreemap.updateData(treemapDataLanguage());
-    },1000);
-
 
     ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange());
     ageRangeTreemap.init();
@@ -188,6 +180,14 @@ $(document).ready(function () {
 
     luxuriousHealthBar = new stackedHorizontalBar();
     luxuriousHealthBar.init();
+
+    setInterval(function () {
+        genderTreemap.updateData(treemapDataGender());
+        ageRangeTreemap.updateData(treemapDataAgeRange());
+        scholarityTreemap.updateData(treemapDataScholarity());
+        citizenshipTreemap.updateData(treemapDataCitizenship());
+        languageTreemap.updateData(treemapDataLanguage());
+    },1000);
 
     var map = new Datamap({
         element: document.getElementById("arabLeagueMapDiv"),
