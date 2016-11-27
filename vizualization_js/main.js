@@ -236,14 +236,14 @@ $(document).ready(function () {
         },
         fills: {
             defaultFill: "#EEEEEE",
-            gt50: colors(Math.random() * 20),
-            eq50: colors(Math.random() * 20),
-            lt25: colors(Math.random() * 10),
-            gt75: colors(Math.random() * 200),
-            lt50: colors(Math.random() * 20),
-            eq0: colors(Math.random() * 1),
-            pink: '#0fa0fa',
-            gt500: colors(Math.random() * 1)
+            gt50: getGreenOrRedColor(),
+            eq50: getGreenOrRedColor(),
+            lt25: getGreenOrRedColor(),
+            gt75: getGreenOrRedColor(),
+            lt50: getGreenOrRedColor(),
+            eq0: getGreenOrRedColor(),
+            pink: getGreenOrRedColor(),
+            gt500: getGreenOrRedColor()
         },
         data: {
             'ZAF': { fillKey: 'gt50' },

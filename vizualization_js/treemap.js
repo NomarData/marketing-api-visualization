@@ -51,6 +51,17 @@ function getGreenColor(position){
     return greenColorGenerator()(position)
 }
 
+function getGreenOrRedColor(){
+    var dice = Math.random();
+    if (dice > 0.6){
+        return getGreenColor(Math.random());getRedColor
+    } else if(dice < 0.4){
+        return getRedColor(Math.random());
+    } else {
+        return "#afafaf"
+    }
+}
+
 
 function getRandomColor() {
     var letters = '0123456789ABCDEF';
