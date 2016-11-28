@@ -13,7 +13,7 @@ function updateTreemaps(treemapTrigger) {
 
 function initTreemaps(){
     var treemapDefaultHeight = 100;
-    var colorFunction = d3.scale.category20();
+    var colorFunction = getGreenOrRedColor;
 
     genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
     genderTreemap.init();

@@ -28,10 +28,24 @@ function stackedHorizontalBar(){
 
         var bars = this.svg.selectAll("rect").transition()
             .duration(1000);
-        bars.attr("x", function (d) {
-                var dice = Math.min(-Math.random()*10,Math.random()*10);
-                return currentStackbar.x(dice);
-            })
+
+        var redBar = this.svg.selectAll(".bar2").transition().duration(750);
+        var greenBar = this.svg.selectAll(".bar").transition().duration(750);
+
+        var newRedBarValue = -Math.random()*10;
+        var newGreenBarValue = Math.random()*10;
+
+        redBar.attr("x", function (d) {
+                return currentStackbar.x(Math.min(0, newRedBarValue));
+            }).attr("width", function (d) {
+            return Math.abs(currentStackbar.x(newRedBarValue) - currentStackbar.x(0));
+        })
+
+        greenBar.attr("x", function (d) {
+            return currentStackbar.x(Math.min(0, newGreenBarValue));
+        }).attr("width", function (d) {
+            return Math.abs(currentStackbar.x(newGreenBarValue) - currentStackbar.x(0));
+        })
 
     };
 
