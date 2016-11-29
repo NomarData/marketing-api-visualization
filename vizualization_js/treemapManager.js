@@ -191,24 +191,48 @@ function getTreemapDataFromFake(category){
         if(!checkIfInstanceAgreeWithSelected(instance)) continue;
 
         if(instance[category] in categoryAudience){
-            categoryAudience[instance[category]] += instance.audience;
-            console.log("\t" + instance[category] + ":" + categoryAudience[instance[category]] + "(+" + instance.audience + ")");
+            categoryAudience[instance[category]].push(instance);
         } else {
-            categoryAudience[instance[category]] = instance.audience;
+            categoryAudience[instance[category]] = [instance];
         }
     }
     var children = generateTreemapChidren(categoryAudience);
     return {"name" : category , "children" : children};
 }
 
+function processSubCategoryList(subCategoryList){
+    var jewelAudience = 0.0;
+    var healthAudience = 0.0;
+    var totalAudience = 0.0;
+    for(var index in subCategoryList){
+        var instance = subCategoryList[index];
+        if (jewelInterests.indexOf(instance.interest) != -1){
+            jewelAudience += instance.audience;
+        } else if (healthInterests.indexOf(instance.interest) != -1){
+            healthAudience += instance.audience;
+        } else {
+            throw Error("The Interest Should be Jewel or Health : " + instance)
+        }
+        totalAudience += instance.audience;
+    }
+    console.log("(" + jewelAudience + " - " +  healthAudience + ") / " + totalAudience + " = " + (jewelAudience - healthAudience) / totalAudience);
+    return {
+        "size" : totalAudience,
+        "inclination" : (jewelAudience - healthAudience) / totalAudience
+    }
+
+}
+
 function generateTreemapChidren(categoryAudience){
     var children = []
     for (var subCategory in categoryAudience){
+        var treemapDataCell = processSubCategoryList(categoryAudience[subCategory]);
         children.push({
             "name" : subCategory,
             "children" : [{
                 "name": subCategory,
-                "size" : categoryAudience[subCategory]
+                "size" : treemapDataCell.size,
+                "inclination" : treemapDataCell.inclination
             }]
         });
     }
@@ -219,7 +243,7 @@ function TreemapManager(){
     this.treemaps = [];
     this.initTreemaps = function(){
         var treemapDefaultHeight = 100;
-        var colorFunction = getGreenOrRedColor;
+        var colorFunction = getRandomGreenOrRedColor;
 
         var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromFake("gender"));
         genderTreemap.init();

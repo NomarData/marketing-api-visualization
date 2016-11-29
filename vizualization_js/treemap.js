@@ -1,8 +1,8 @@
 
 function getRedColor(position){
     function redColorGenerator(){
-        return d3.scale.linear().domain([0,0.5,1])
-            .interpolate(d3.interpolateHcl)
+        return d3.scale.linear().domain([-0,-0.5,-1])
+            .interpolate(d3.interpolateRgb)
             .range([d3.rgb("#fceaea"),d3.rgb("#ff2121"), d3.rgb('#890000')]);
     }
     return redColorGenerator()(position)
@@ -11,18 +11,22 @@ function getRedColor(position){
 function getGreenColor(position){
     function greenColorGenerator(){
         return d3.scale.linear().domain([0,0.5,1])
-            .interpolate(d3.interpolateHcl)
+            .interpolate(d3.interpolateRgb)
             .range([d3.rgb("#d4f7d5"),d3.rgb("#54ff59"), d3.rgb('#006b03')]);
     }
     return greenColorGenerator()(position)
 }
 
-function getGreenOrRedColor(){
-    var dice = Math.random();
-    if (dice > 0.6){
-        return getGreenColor(Math.random());getRedColor
-    } else if(dice < 0.4){
-        return getRedColor(Math.random());
+function getRandomGreenOrRedColor(){
+    var diceColor = Math.random();
+    var diceValue = diceColor > 0.5 ? Math.random() : -Math.random();
+    return getGreenOrRedColorByInclination(diceValue)
+}
+function getGreenOrRedColorByInclination(inclination){
+    if (inclination > 0){
+        return getGreenColor(inclination);
+    } else if(inclination < 0){
+        return getRedColor(inclination);
     } else {
         return "#afafaf"
     }
@@ -69,12 +73,9 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("width", function(d) { return d.dx; })
                 .attr("height", function(d) { return d.dy; })
                 .style("fill", function(d) {
-                    if (Math.random() > 0.5){
-                        return getRedColor(Math.random());
-                    } else {
-                        return getGreenColor(Math.random());
-                    }
-
+                    var newColor = getGreenOrRedColorByInclination(d.inclination);
+                    console.log(d.inclination +" : " + newColor);
+                    return newColor;
                 });
         var texts = cells.select("text")
             .attr("x", function(d) { return d.dx / 2; })

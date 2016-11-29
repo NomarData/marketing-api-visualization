@@ -32,31 +32,31 @@ function arabLeagueMap(){
 
     this.fills = {
         defaultFill: "#EEEEEE",
-        gt50: getGreenOrRedColor(),
-        eq50: getGreenOrRedColor(),
-        lt25: getGreenOrRedColor(),
-        gt75: getGreenOrRedColor(),
-        lt50: getGreenOrRedColor(),
-        eq0: getGreenOrRedColor(),
-        pink: getGreenOrRedColor(),
-        gt500: getGreenOrRedColor()
+        gt50: getRandomGreenOrRedColor(),
+        eq50: getRandomGreenOrRedColor(),
+        lt25: getRandomGreenOrRedColor(),
+        gt75: getRandomGreenOrRedColor(),
+        lt50: getRandomGreenOrRedColor(),
+        eq0: getRandomGreenOrRedColor(),
+        pink: getRandomGreenOrRedColor(),
+        gt500: getRandomGreenOrRedColor()
     }
 
     this.updateRandomColors = function(){
         this.datamap.updateChoropleth({
-            'ZAF': getGreenOrRedColor(),
-            'ZWE': getGreenOrRedColor(),
-            'NGA': getGreenOrRedColor(),
-            'MOZ': getGreenOrRedColor(),
-            'MDG': getGreenOrRedColor(),
-            'EGY': getGreenOrRedColor(),
-            'TZA': getGreenOrRedColor(),
-            'LBY': getGreenOrRedColor(),
-            'DZA': getGreenOrRedColor(),
-            'SSD': getGreenOrRedColor(),
-            'SOM': getGreenOrRedColor(),
-            'GIB': getGreenOrRedColor(),
-            'AGO': getGreenOrRedColor()
+            'ZAF': getRandomGreenOrRedColor(),
+            'ZWE': getRandomGreenOrRedColor(),
+            'NGA': getRandomGreenOrRedColor(),
+            'MOZ': getRandomGreenOrRedColor(),
+            'MDG': getRandomGreenOrRedColor(),
+            'EGY': getRandomGreenOrRedColor(),
+            'TZA': getRandomGreenOrRedColor(),
+            'LBY': getRandomGreenOrRedColor(),
+            'DZA': getRandomGreenOrRedColor(),
+            'SSD': getRandomGreenOrRedColor(),
+            'SOM': getRandomGreenOrRedColor(),
+            'GIB': getRandomGreenOrRedColor(),
+            'AGO': getRandomGreenOrRedColor()
         });
     }
 

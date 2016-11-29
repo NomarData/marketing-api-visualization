@@ -1,50 +1,53 @@
+jewelInterests = ["jewel"];
+healthInterests = ["health"];
+
 fakeData = [
     {
         "gender" : "Male",
         "age" : "18-24",
         "interest" : "jewel",
-        "audience" : 200
+        "audience" : 212
     },
     {
         "gender" : "Female",
         "age" : "18-24",
         "interest" : "jewel",
-        "audience" : 250
+        "audience" : 243
     },
     {
         "gender" : "Male",
         "age" : "25-44",
         "interest" : "jewel",
-        "audience" : 300
+        "audience" : 323
     },
     {
         "gender" : "Female",
         "age" : "25-44",
         "interest" : "jewel",
-        "audience" : 325
+        "audience" : 374
     },
     {
         "gender" : "Male",
         "age" : "18-24",
         "interest" : "health",
-        "audience" : 200
+        "audience" : 223
     },
     {
         "gender" : "Female",
         "age" : "18-24",
         "interest" : "health",
-        "audience" : 250
+        "audience" : 434
     },
     {
         "gender" : "Male",
         "age" : "25-44",
         "interest" : "health",
-        "audience" : 300
+        "audience" : 123
     },
     {
         "gender" : "Female",
         "age" : "25-44",
         "interest" : "health",
-        "audience" : 325
+        "audience" : 454
     }
 ]
