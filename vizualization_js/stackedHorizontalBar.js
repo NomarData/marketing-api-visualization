@@ -5,8 +5,8 @@
 function stackedHorizontalBar(){
     this.data = [{
         name: "Health Inclination",
-        value: 1,
-        value2: 5
+        greenValue: 1,
+        redValue: -5
     }];
     this.margin = {
         top: 30,
@@ -23,29 +23,17 @@ function stackedHorizontalBar(){
 
     this.updateData = function(data){
         var currentStackbar = this;
-        this.data.value = 10 * Math.random();
-        this.data.value2 = 10 * Math.random();
+        var redBar = currentStackbar.svg.selectAll(".redBar").transition().duration(750);
+        var greenBar = currentStackbar.svg.selectAll(".greenBar").transition().duration(750);
 
-        var bars = this.svg.selectAll("rect").transition()
-            .duration(1000);
+        currentStackbar.data.greenValue = data.greenValue;
+        currentStackbar.data.redValue = data.redValue;
 
-        var redBar = this.svg.selectAll(".bar2").transition().duration(750);
-        var greenBar = this.svg.selectAll(".bar").transition().duration(750);
+        greenBar.attr("x", function (d) {return currentStackbar.x(Math.min(0, currentStackbar.data.greenValue));});
+        greenBar.attr("width", function (d) {return Math.abs(currentStackbar.x(currentStackbar.data.greenValue) - currentStackbar.x(0))});
 
-        var newRedBarValue = -Math.random()*10;
-        var newGreenBarValue = Math.random()*10;
-
-        redBar.attr("x", function (d) {
-                return currentStackbar.x(Math.min(0, newRedBarValue));
-            }).attr("width", function (d) {
-            return Math.abs(currentStackbar.x(newRedBarValue) - currentStackbar.x(0));
-        })
-
-        greenBar.attr("x", function (d) {
-            return currentStackbar.x(Math.min(0, newGreenBarValue));
-        }).attr("width", function (d) {
-            return Math.abs(currentStackbar.x(newGreenBarValue) - currentStackbar.x(0));
-        })
+        redBar.attr("x", function (d) { return currentStackbar.x(Math.min(0, -currentStackbar.data.redValue ));});
+        redBar.attr("width", function (d) { return Math.abs(currentStackbar.x(-currentStackbar.data.redValue ) - currentStackbar.x(0)); })
 
     };
 
@@ -73,33 +61,33 @@ function stackedHorizontalBar(){
             return d.name;
         }));
 
-        svg.selectAll(".bar")
+        svg.selectAll(".greenBar")
             .data(data)
             .enter().append("rect")
-            .attr("class", "bar")
+            .attr("class", "greenBar")
             .attr("x", function (d) {
-                return x(Math.min(0, d.value));
+                return x(Math.min(0, d.greenValue));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(d.value) - x(0));
+                return Math.abs(x(d.greenValue) - x(0));
             })
             .attr("height", y.rangeBand());
 
-        svg.selectAll(".bar2")
+        svg.selectAll(".redBar")
             .data(data)
             .enter().append("rect")
-            .attr("class", "bar2")
+            .attr("class", "redBar")
             .attr("x", function (d) {
-                return x(Math.min(0, -d.value2));
+                return x(Math.min(0, d.redValue));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(-d.value2) - x(0));
+                return Math.abs(x(d.redValue) - x(0));
             })
             .attr("height", y.rangeBand());
 

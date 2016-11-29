@@ -1,37 +1,3 @@
-/**
- * Created by maraujo on 11/22/16.
- */
-
-function updateTreemaps(treemapTrigger) {
-    $.map(all_treemaps, function(treemap){
-       if(treemap != treemapTrigger){
-           var newData = treemapDataGenerator(treemap);
-           treemap.updateData(newData);
-       }
-    });
-}
-
-function initTreemaps(){
-    var treemapDefaultHeight = 100;
-    var colorFunction = getGreenOrRedColor;
-
-    genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,treemapDataGender());
-    genderTreemap.init();
-
-    ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,treemapDataAgeRange());
-    ageRangeTreemap.init();
-
-    scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
-    scholarityTreemap.init();
-
-    languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
-    languageTreemap.init();
-
-    citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship());
-    citizenshipTreemap.init();
-
-    all_treemaps = [genderTreemap,ageRangeTreemap,scholarityTreemap,languageTreemap,citizenshipTreemap]
-}
 
 function getRedColor(position){
     function redColorGenerator(){
@@ -118,7 +84,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .each(currentInstance.setTextLines)
             .style("opacity", function(d) {
                 d.w = this.getComputedTextLength();
-                console.log(d.w + " " + d.dx);
+                // console.log(d.w + " " + d.dx);
                 return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
             });
 
@@ -164,8 +130,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         return 1;
     }
 
-    this.isSelected = function (d) {
-        return this.node == d.parent;
+    this.isSelected = function (self, d) {
+        return self.node.name == d.parent.name;
     }
 
     this.init = function(){
@@ -193,10 +159,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                if(currentInstance.isSelected(d)){
+                if(currentInstance.isSelected(currentInstance, d)){
+                    treemapManager.unselectTreemapOption(currentInstance);
                     zoom(currentInstance, currentInstance.root);
                 }else{
-                    updateTreemaps(currentInstance);
+                    treemapManager.selectTreemapOption(currentInstance, d);
                     return zoom(currentInstance, d.parent);
                 }
 
@@ -231,7 +198,15 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("x", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
             .attr("dy", "0.9em")
-            .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
+            .text(function(d){
+                var audience = parseInt(d.size);
+                if( audience >= 1000){
+                    return numeral(audience).format('0.00a')
+                } else{
+                    return audience
+                }
+
+            });
     }
 
     this.setZoomTextLines = function(textInstance, d){
