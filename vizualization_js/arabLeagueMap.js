@@ -82,10 +82,10 @@ function arabLeagueMap(){
         },
         popupOnHover: true, //disable the popup while hovering
             highlightOnHover: true,
-            highlightFillColor: 'rgb(210, 210, 210, 0.2)',
+            highlightFillColor: 'rgb(210, 210, 210, 1)',
             highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
             highlightBorderWidth: 3,
-            highlightBorderOpacity: 1
+            highlightBorderOpacity: 1,
     }
 
     this.fills = {
