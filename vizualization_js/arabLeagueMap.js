@@ -1,5 +1,63 @@
-function arabLeagueMap(){
+function CountriesDataDatamap(){
+    var currentInstance = this;
+    this.countries = {};
 
+    Datamap.prototype.worldTopo.objects.world.geometries.map(function(country){
+        currentInstance.countries[country.id] = {
+                jewelAudience: 0,
+                healthAudience: 0,
+            }
+        });
+
+    this.empty = function(){
+        for(var country in currentInstance.countries){
+            currentInstance.countries[country].jewelAudience = 0;
+            currentInstance.countries[country].healthAudience = 0;
+        }
+    }
+
+    this.addInstance = function(instance){
+        if(getInstancePolarity(instance) == 1){
+            currentInstance.countries[instance.country].healthAudience += instance.audience;
+        } else {
+            currentInstance.countries[instance.country].jewelAudience += instance.audience;
+        }
+    }
+
+    this.addInstances = function(instances){
+        for(var i in instances){
+            currentInstance.addInstance(instances[i]);
+        }
+    }
+
+    this.getCountryInclination = function(country){
+        return (currentInstance.countries[country].healthAudience - currentInstance.countries[country].jewelAudience) / (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
+    }
+    this.getCountryAudience = function(country){
+        return  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
+    }
+
+    this.getDataMapColor = function(){
+        var dataColor = {};
+        for(var country in currentInstance.countries){
+            if(currentInstance.getCountryAudience(country) > 0){
+                var inclination = currentInstance.getCountryInclination(country);
+                dataColor[country] = getGreenOrRedColorByInclination(inclination);
+            }
+        }
+        return dataColor;
+    }
+}
+
+countriesDataDatamap = new CountriesDataDatamap();
+
+
+function emptyCountriesDatamap(){
+
+}
+
+function arabLeagueMap(){
+    var currentInstace = this;
     this.setProjection = function(element){
         var projection = d3.geo.equirectangular()
             .center([24, 24])
@@ -24,23 +82,15 @@ function arabLeagueMap(){
         },
         popupOnHover: true, //disable the popup while hovering
             highlightOnHover: true,
-            highlightFillColor: '#FC8D59',
-            highlightBorderColor: 'rgba(250, 15, 160, 0.2)',
+            highlightFillColor: 'rgb(210, 210, 210)',
+            highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
             highlightBorderWidth: 2,
             highlightBorderOpacity: 1
     }
 
     this.fills = {
         defaultFill: "#EEEEEE",
-        gt50: getRandomGreenOrRedColor(),
-        eq50: getRandomGreenOrRedColor(),
-        lt25: getRandomGreenOrRedColor(),
-        gt75: getRandomGreenOrRedColor(),
-        lt50: getRandomGreenOrRedColor(),
-        eq0: getRandomGreenOrRedColor(),
-        pink: getRandomGreenOrRedColor(),
-        gt500: getRandomGreenOrRedColor()
-    }
+    };
 
     this.updateRandomColors = function(){
         this.datamap.updateChoropleth({
@@ -60,21 +110,7 @@ function arabLeagueMap(){
         });
     }
 
-    this.data = {
-        'ZAF': { fillKey: 'gt50' },
-        'ZWE': { fillKey: 'lt25' },
-        'NGA': { fillKey: 'lt50' },
-        'MOZ': { fillKey: 'eq50' },
-        'MDG': { fillKey: 'eq50' },
-        'EGY': { fillKey: 'gt75' },
-        'TZA': { fillKey: 'gt75' },
-        'LBY': { fillKey: 'eq0' },
-        'DZA': { fillKey: 'gt500' },
-        'SSD': { fillKey: 'pink' },
-        'SOM': { fillKey: 'gt50' },
-        'GIB': { fillKey: 'eq50' },
-        'AGO': { fillKey: 'lt50' }
-    }
+    this.data = {}
 
     this.init = function(){
         var datamap = new Datamap({
@@ -82,17 +118,25 @@ function arabLeagueMap(){
             scope: 'world',
             width:  "700px",
             height:'400px',
-            setProjection : this.setProjection,
-            geographyConfig : this.geographyConfig,
-            fills: this.fills,
-            data: this.data,
+            setProjection : currentInstace.setProjection,
+            geographyConfig : currentInstace.geographyConfig,
+            fills: currentInstace.fills,
+            data: currentInstace.data,
         });
-        this.datamap = datamap;
+        currentInstace.datamap = datamap;
+    }
+
+
+    this.updateData = function(){
+        var instances = getSelectedInstances();
+        countriesDataDatamap.empty();
+        countriesDataDatamap.addInstances(instances);
+        var dataColor = countriesDataDatamap.getDataMapColor();
+        currentInstace.datamap.updateChoropleth(dataColor);
     }
 
     this.giveLife = function(){
-        var datamap = this.datamap;
-        var currentInstance = this;
+        var datamap = currentInstace.datamap;
 
         window.setInterval(function() {
             // debugger

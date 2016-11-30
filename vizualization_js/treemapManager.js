@@ -206,18 +206,16 @@ function processSubCategoryList(subCategoryList){
     var totalAudience = 0.0;
     for(var index in subCategoryList){
         var instance = subCategoryList[index];
-        if (jewelInterests.indexOf(instance.interest) != -1){
+        if (getInstancePolarity(instance) == -1){
             jewelAudience += instance.audience;
-        } else if (healthInterests.indexOf(instance.interest) != -1){
+        } else if (getInstancePolarity(instance) == 1){
             healthAudience += instance.audience;
-        } else {
-            throw Error("The Interest Should be Jewel or Health : " + instance)
         }
         totalAudience += instance.audience;
     }
     return {
         "size" : totalAudience,
-        "inclination" : (jewelAudience - healthAudience) / totalAudience
+        "inclination" : (healthAudience - jewelAudience) / totalAudience
     }
 
 }
@@ -236,6 +234,34 @@ function generateTreemapChidren(categoryAudience){
         });
     }
     return children;
+}
+
+function isInSelectedCategories(instance){
+    for(category in NODES_SELECTED){
+        if(instance[category] != NODES_SELECTED[category]) return false;
+    }
+    return true;
+}
+
+function getSelectedInstances(){
+    var instances = []
+    for(var indexData in fakeData){
+        var instance = fakeData[indexData];
+        if(isInSelectedCategories(instance)){
+            instances.push(instance)
+        }
+    }
+    return instances;
+}
+
+function getInstancePolarity(instance){
+    if(healthInterests.indexOf(instance.interest) != -1){
+        return 1;
+    } else if(jewelInterests.indexOf(instance.interest) != -1){
+        return -1;
+    } else{
+        throw Error("A instance should have a polarity")
+    }
 }
 
 function TreemapManager(){
@@ -266,26 +292,16 @@ function TreemapManager(){
         // this.treemaps.push(citizenshipTreemap);
     }
 
+
     this.getAverageLuxuriousVsHealth = function(){
-        var cellInclinationAndAudience = [];
         var averageInclination = {"greenValue" : 0, "redValue":0};
-        for(var treemapsIndex in this.treemaps){
-            cellInclinationAndAudience = cellInclinationAndAudience.concat(this.treemaps[treemapsIndex].getCells());
-        }
-        console.log(cellInclinationAndAudience);
+        var selectedInstances = getSelectedInstances();
+        var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
 
-
-        var total = cellInclinationAndAudience.map(function(cell){ return cell.value}).reduce(function (total, num) { return total + num});
-        averageInclination.greenValue =  cellInclinationAndAudience.map( function(cell){ return cell.children[0].inclination > 0 ? cell.value : 0}).reduce(function (total, num) { return total + num});
-        averageInclination.redValue =  cellInclinationAndAudience.map( function(cell){ return cell.children[0].inclination < 0 ? cell.value : 0}).reduce(function (total, num) { return total + num});
-
-        console.log(averageInclination);
-
+        averageInclination.greenValue =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
+        averageInclination.redValue =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
         averageInclination.greenValue = averageInclination.greenValue / total;
         averageInclination.redValue = averageInclination.redValue / total;
-
-        console.log(averageInclination);
-        console.log(total);
         return averageInclination
 
     };

@@ -23,13 +23,19 @@ function getRandomGreenOrRedColor(){
     return getGreenOrRedColorByInclination(diceValue)
 }
 function getGreenOrRedColorByInclination(inclination){
-    if (inclination > 0){
-        return getGreenColor(inclination);
-    } else if(inclination < 0){
-        return getRedColor(inclination);
-    } else {
-        return "#afafaf"
-    }
+   var colorFunction = d3.scale.linear().domain([-1,-0.1,0.1,1])
+        .interpolate(d3.interpolateRgb)
+        .range([d3.rgb("#C00004"),d3.rgb("#C08C75"),d3.rgb("#7EC077"), d3.rgb('#0CC000')]);
+    return colorFunction(inclination);
+
+
+    // if (inclination > 0){
+    //     return getGreenColor(inclination);
+    // } else if(inclination < 0){
+    //     return getRedColor(inclination);
+    // } else {
+    //     return "#afafaf"
+    // }
 }
 
 
@@ -87,15 +93,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var svg = this.svg;
         var currentInstance = this;
         var newNodes = this.treemap.nodes(rootData).filter(function(d) { return !d.children; });
-        // console.log("cell:" + svg.selectAll(".cell").data()[0].size + " " + svg.selectAll(".cell").data()[1].size )
-        // console.log("instanceData :" + genderTreemap.node.children[0].value + " " + genderTreemap.node.children[1].value )
-        // console.log("newInstanceData :" + rootData.children[0].children[0].size + " " + rootData.children[1].children[0].size)
-
-        // this.deleteOrCreateNewCellsForNewData(rootData);
-
-
-
-
 
         if(this.isOnRoot()){
             var cells = svg.selectAll("g")
@@ -229,12 +226,13 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 if(currentInstance.isOnRoot()){
                     zoom(currentInstance, d.parent);
                     treemapManager.selectTreemapOption(currentInstance, d);
-                    treemapManager.updateLuxuriousHealthBar();
+
                 }else{
                     zoom(currentInstance, currentInstance.root);
                     treemapManager.unselectTreemapOption(currentInstance);
-                    treemapManager.updateLuxuriousHealthBar();
                 }
+                treemapManager.updateLuxuriousHealthBar();
+                arabMap.updateData();
 
 
             });

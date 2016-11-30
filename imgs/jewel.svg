@@ -1,1 +1,101 @@
-<?xml version="1.0" ?><svg data-name="Layer 1" id="Layer_1" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:none;stroke:#535353;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style></defs><title/><polygon class="cls-1" points="4.23 20 3 20 30 54 57 20 55.77 20 43.5 30 16.5 30 4.23 20"/><polygon class="cls-1" points="49 9 39.75 14 20.25 14 11 9 20.25 5 39.75 5 49 9"/><polygon class="cls-1" points="16 30 44 30 30 54 16 30"/><line class="cls-1" x1="10.5" x2="3" y1="9.5" y2="20"/><line class="cls-1" x1="49.5" x2="57" y1="9.5" y2="20"/><line class="cls-1" x1="39.5" x2="44" y1="14" y2="29.5"/><line class="cls-1" x1="20.5" x2="16.5" y1="14" y2="30"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   id="Layer_1"
+   viewBox="0 0 60 60"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="jewel.svg">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="666"
+     inkscape:window-height="480"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="30"
+     inkscape:cy="30"
+     inkscape:window-x="39"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs3">
+    <style
+       id="style5">.cls-1{fill:none;stroke:#535353;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <title
+     id="title7" />
+  <polygon
+     class="cls-1"
+     points="4.23 20 3 20 30 54 57 20 55.77 20 43.5 30 16.5 30 4.23 20"
+     id="polygon9"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <polygon
+     class="cls-1"
+     points="49 9 39.75 14 20.25 14 11 9 20.25 5 39.75 5 49 9"
+     id="polygon11"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <polygon
+     class="cls-1"
+     points="16 30 44 30 30 54 16 30"
+     id="polygon13"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="10.5"
+     x2="3"
+     y1="9.5"
+     y2="20"
+     id="line15"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="49.5"
+     x2="57"
+     y1="9.5"
+     y2="20"
+     id="line17"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="39.5"
+     x2="44"
+     y1="14"
+     y2="29.5"
+     id="line19"
+     style="stroke:#c62828;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="20.5"
+     x2="16.5"
+     y1="14"
+     y2="30"
+     id="line21"
+     style="stroke:#c62828;stroke-opacity:1" />
+</svg>

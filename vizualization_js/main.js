@@ -31,6 +31,5 @@ $(document).ready(function () {
 
     arabMap = new arabLeagueMap();
     arabMap.init();
-    arabMap.giveLife();
 
 });
