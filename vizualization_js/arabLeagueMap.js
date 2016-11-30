@@ -82,9 +82,9 @@ function arabLeagueMap(){
         },
         popupOnHover: true, //disable the popup while hovering
             highlightOnHover: true,
-            highlightFillColor: 'rgb(210, 210, 210)',
+            highlightFillColor: 'rgb(210, 210, 210, 0.2)',
             highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
-            highlightBorderWidth: 2,
+            highlightBorderWidth: 3,
             highlightBorderOpacity: 1
     }
 
@@ -124,6 +124,7 @@ function arabLeagueMap(){
             data: currentInstace.data,
         });
         currentInstace.datamap = datamap;
+        this.updateData();
     }
 
 
