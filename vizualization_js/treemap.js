@@ -52,6 +52,37 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.node = treemapData;
     this.treemapContainer = treemapContainer;
 
+    this.getSelectedCell = function(){
+        var cells = this.svg.selectAll("g")[0];
+        var cellsData = this.svg.selectAll("g").data();
+        for(var indexCell in cellsData){
+            var cellData = cellsData[indexCell];
+            if(cellData.name == this.node.name){
+                return d3.select(cells[indexCell]);
+            }
+        }
+        throw Error("No cell found as selected")
+    };
+
+    this.deleteOrCreateNewCellsForNewData = function(newData){
+
+        var svg = this.svg;
+        var cells = svg.selectAll("g");
+        var differenceCells = cells.size() - newData.children.length;
+
+        if(differenceCells < 0){
+            for(var i = 0; i < differenceCells; i++){
+                cell.append("svg:rect");
+                cell.append("svg:text");
+            }
+        } else if (differenceCells > 0){
+            for(var i = 0; i < differenceCells; i++){
+                $(cells[0][0]).remove()
+            }
+        }
+
+    };
+
     this.updateData = function(rootData){
         var svg = this.svg;
         var currentInstance = this;
@@ -60,37 +91,73 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         // console.log("instanceData :" + genderTreemap.node.children[0].value + " " + genderTreemap.node.children[1].value )
         // console.log("newInstanceData :" + rootData.children[0].children[0].size + " " + rootData.children[1].children[0].size)
 
+        // this.deleteOrCreateNewCellsForNewData(rootData);
 
-        var cells = svg.selectAll("g")
-            .data(newNodes)
-            .transition()
-            .attr("class", "cell")
-            .attr("transform", function(d) {
-                return "translate(" + d.x + "," + d.y + ")";
-            });
 
-        var rects = cells.select("rect")
+
+
+
+        if(this.isOnRoot()){
+            var cells = svg.selectAll("g")
+                .data(newNodes)
+                .transition()
+                .attr("class", "cell")
+                .attr("transform", function(d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+
+            console.log("Is on Root");
+            //Update All Cells
+            var rects = cells.select("rect")
                 .attr("width", function(d) { return d.dx; })
                 .attr("height", function(d) { return d.dy; })
                 .style("fill", function(d) {
                     var newColor = getGreenOrRedColorByInclination(d.inclination);
-                    console.log(d.inclination +" : " + newColor);
                     return newColor;
                 });
-        var texts = cells.select("text")
-            .attr("x", function(d) { return d.dx / 2; })
-            .attr("y", function(d) { return d.dy / 2; })
-            .attr("dy", ".35em")
-            .attr("text-anchor", "middle")
-            .each(currentInstance.setTextLines)
-            .style("opacity", function(d) {
-                d.w = this.getComputedTextLength();
-                // console.log(d.w + " " + d.dx);
-                return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
-            });
+            // debugger
+            var texts = svg.selectAll("g").select("text")
+                .attr("x", function(d) { return d.dx / 2; })
+                .attr("y", function(d) { return d.dy / 2; })
+                .attr("dy", ".35em")
+                .attr("text-anchor", "middle")
+                .each(currentInstance.setTextLines)
+                .style("opacity", function(d) {
+                    d.w = this.getComputedTextLength();
+                    // console.log(d.w + " " + d.dx);
+                    return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+                });
+            this.node =  rootData;
+            this.root =  rootData;
+        } else {
+            var cell = this.getSelectedCell();
+            cell.data(newNodes)
+                .transition()
+                .attr("class", "cell")
+                .attr("transform", function(d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+            cell.select("rect")
+                .attr("width", function(d) { return d.dx; })
+                .attr("height", function(d) { return d.dy; })
+                .style("fill", function(d) {
+                    var newColor = getGreenOrRedColorByInclination(d.inclination);
+                    return newColor;
+                });
+            cell.select("text")
+                .attr("x", function(d) { return d.dx / 2; })
+                .attr("y", function(d) { return d.dy / 2; })
+                .attr("dy", ".35em")
+                .attr("text-anchor", "middle")
+                .each(currentInstance.setTextLines)
+                .style("opacity", function(d) {
+                    d.w = this.getComputedTextLength();
+                    // console.log(d.w + " " + d.dx);
+                    return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+                });
+            this.node =  rootData.children[0];
+        }
 
-        this.root =  rootData;
-        // debugger
     };
 
     this.treemap = d3.layout.treemap()
@@ -106,7 +173,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var kx = self.w / d.dx, ky = self.h / d.dy;
         self.x.domain([d.x, d.x + d.dx]);
         self.y.domain([d.y, d.y + d.dy]);
-
         var t = self.svg.selectAll("g.cell").transition()
                 .duration(d3.event.altKey ? 7500 : 750)
                 .attr("transform", function(d) { return "translate(" + self.x(d.x) + "," + self.y(d.y) + ")"; });
@@ -160,12 +226,14 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                if(currentInstance.isSelected(currentInstance, d)){
-                    treemapManager.unselectTreemapOption(currentInstance);
-                    zoom(currentInstance, currentInstance.root);
-                }else{
+                if(currentInstance.isOnRoot()){
+                    zoom(currentInstance, d.parent);
                     treemapManager.selectTreemapOption(currentInstance, d);
-                    return zoom(currentInstance, d.parent);
+                    treemapManager.updateLuxuriousHealthBar();
+                }else{
+                    zoom(currentInstance, currentInstance.root);
+                    treemapManager.unselectTreemapOption(currentInstance);
+                    treemapManager.updateLuxuriousHealthBar();
                 }
 
 
@@ -174,7 +242,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         cell.append("svg:rect")
             .attr("width", function(d) { return d.dx - 1; })
             .attr("height", function(d) { return d.dy - 1; })
-            .style("fill", function(d) { return color(d.parent.name); });
+            .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); });
 
         var text = cell.append("svg:text")
             .attr("x", function(d) { return d.dx / 2; })
@@ -230,6 +298,19 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("dx",  function(d) { return kx * d.dx / 2; })
             .attr("dy", "0.9em")
             .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
+    };
+
+    this.isOnRoot = function(){
+      return this.node.name == this.root.name;
+    };
+
+    this.getCells = function(){
+        if(this.isOnRoot()){
+            return this.root.children;
+        } else{
+            return [this.node]
+        }
+
     }
 }
 

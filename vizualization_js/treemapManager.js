@@ -215,7 +215,6 @@ function processSubCategoryList(subCategoryList){
         }
         totalAudience += instance.audience;
     }
-    console.log("(" + jewelAudience + " - " +  healthAudience + ") / " + totalAudience + " = " + (jewelAudience - healthAudience) / totalAudience);
     return {
         "size" : totalAudience,
         "inclination" : (jewelAudience - healthAudience) / totalAudience
@@ -267,17 +266,47 @@ function TreemapManager(){
         // this.treemaps.push(citizenshipTreemap);
     }
 
-    this.updateTreemaps = function(){
+    this.getAverageLuxuriousVsHealth = function(){
+        var cellInclinationAndAudience = [];
+        var averageInclination = {"greenValue" : 0, "redValue":0};
+        for(var treemapsIndex in this.treemaps){
+            cellInclinationAndAudience = cellInclinationAndAudience.concat(this.treemaps[treemapsIndex].getCells());
+        }
+        console.log(cellInclinationAndAudience);
+
+
+        var total = cellInclinationAndAudience.map(function(cell){ return cell.value}).reduce(function (total, num) { return total + num});
+        averageInclination.greenValue =  cellInclinationAndAudience.map( function(cell){ return cell.children[0].inclination > 0 ? cell.value : 0}).reduce(function (total, num) { return total + num});
+        averageInclination.redValue =  cellInclinationAndAudience.map( function(cell){ return cell.children[0].inclination < 0 ? cell.value : 0}).reduce(function (total, num) { return total + num});
+
+        console.log(averageInclination);
+
+        averageInclination.greenValue = averageInclination.greenValue / total;
+        averageInclination.redValue = averageInclination.redValue / total;
+
+        console.log(averageInclination);
+        console.log(total);
+        return averageInclination
+
+    };
+    this.updateLuxuriousHealthBar = function(){
+        var luxuriousHealthData = this.getAverageLuxuriousVsHealth();
+        luxuriousHealthBar.updateData(luxuriousHealthData);
+    };
+
+    this.updateTreemaps = function(selectedTreemap){
         for(var index in this.treemaps){
             var currentTreemap = this.treemaps[index];
+            if (currentTreemap == selectedTreemap) continue;
             var updatedData =  getTreemapDataFromFake(currentTreemap.root.name);
+            console.log(currentTreemap.root.name);
             currentTreemap.updateData(updatedData);
         }
     }
     this.selectTreemapOption = function(treemap, node){
         NODES_SELECTED[treemap.root.name] = node.name;
         console.log(NODES_SELECTED);
-        this.updateTreemaps();
+        this.updateTreemaps(treemap);
     };
 
     this.unselectTreemapOption = function(treemap){

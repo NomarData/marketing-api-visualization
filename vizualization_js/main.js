@@ -29,11 +29,6 @@ $(document).ready(function () {
     luxuriousHealthBar = new stackedHorizontalBar();
     luxuriousHealthBar.init();
 
-    setInterval(function () {
-        var fakeData = {"greenValue":Math.random()*10, "redValue" : Math.random()*10};
-        luxuriousHealthBar.updateData(fakeData);
-    },1000);
-
     arabMap = new arabLeagueMap();
     arabMap.init();
     arabMap.giveLife();

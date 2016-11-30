@@ -56,7 +56,7 @@ function stackedHorizontalBar(){
         var height = this.height;
 
 
-        x.domain([-10,10]);
+        x.domain([-1,1]);
         y.domain(data.map(function (d) {
             return d.name;
         }));
