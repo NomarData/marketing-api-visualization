@@ -293,20 +293,21 @@ function TreemapManager(){
     }
 
 
-    this.getAverageLuxuriousVsHealth = function(){
+    this.getAverageSelectedInclination = function(){
         var averageInclination = {"greenValue" : 0, "redValue":0};
         var selectedInstances = getSelectedInstances();
         var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
 
-        averageInclination.greenValue =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
-        averageInclination.redValue =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
-        averageInclination.greenValue = averageInclination.greenValue / total;
-        averageInclination.redValue = averageInclination.redValue / total;
+        averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
+        averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
+        averageInclination.greenInclination = averageInclination.greenAudience / total;
+        averageInclination.redInclination = averageInclination.redAudience  / total;
+        averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
         return averageInclination
 
     };
     this.updateLuxuriousHealthBar = function(){
-        var luxuriousHealthData = this.getAverageLuxuriousVsHealth();
+        var luxuriousHealthData = this.getAverageSelectedInclination();
         luxuriousHealthBar.updateData(luxuriousHealthData);
     };
 
@@ -323,12 +324,16 @@ function TreemapManager(){
         NODES_SELECTED[treemap.root.name] = node.name;
         console.log(NODES_SELECTED);
         this.updateTreemaps(treemap);
+        selectedInstancesTable.updateData();
+        inclinationScore.updateData();
     };
 
     this.unselectTreemapOption = function(treemap){
         delete NODES_SELECTED[treemap.root.name];
         console.log(NODES_SELECTED);
         this.updateTreemaps();
+        selectedInstancesTable.updateData();
+        inclinationScore.updateData();
     };
 
     this.updateTreemapsBasedSelectedNodes = function(){

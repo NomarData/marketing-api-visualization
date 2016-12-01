@@ -47,20 +47,6 @@
             <div class="row">
                 <h1 class="text-center">Vizualization </h1>
             </div>
-            <div class="row">
-                <h4 class="text-center">Selected Data Summary </h4>
-                <div class="span4">
-                    <h4 class="text-center">Selected Data Summary </h4>
-                    <table class="table" id="selectedDataInstancesTable">
-                    </table>
-                </div>
-                <div class="span4">
-                    <h4 class="text-center">Interests Charts </h4>
-                </div>
-                <div class="span4">
-                    <h4 class="text-center">Countries Charts </h4>
-                </div>
-            </div>
 
             <div class="span4">
                 <h4>Gender:</h4>
@@ -76,11 +62,17 @@
             </div>
             <div class="span8">
                     <div class="row">
-                        <div class="row">
-                            <div class="title text-center">Luxurious vs. Health Inclination</div>
+                        <div class="span8">
+                            <div class="title">Luxurious vs. Health Inclination</div>
+                            <div class="text-center">Average Inclination Score = ((red/Total)*red + (green/Total)*green) / Total)</div>
+                            <div class="text-center">
+                                <span style="font-weight: bold" id="inclinationScore">0</span>
+                            </div>
                         </div>
+
+
                         <div class="row  text-center">
-                            <div>
+                            <div >
                                 <img src="imgs/jewel.svg" style="max-width: 40px; vertical-align: top;" />
                                 <span id="horizontalStackedBar">
                             </span>
@@ -95,6 +87,17 @@
             </div>
         </div>
         </div>
+        <div class="row">
+            <h4 class="text-center">Selected Data Summary </h4>
+            <div class="span4">
+                <h4 class="text-center">Selected Data Summary </h4>
+                <table class="table" id="selectedDataInstancesTable">
+                </table>
+            </div>
+            <div class="span8">
+                <h4 class="text-center">Countries Charts </h4>
+            </div>
+        </div>
 
     </div>
     <!-- jQuery -->
@@ -103,6 +106,7 @@
     <script src="bootstrap/js/bootstrap.min.js" rel="stylesheet"></script>
     <!--<script src="vizualization_js/gapi.js"></script>-->
     <script src="vizualization_js/utils.js"></script>
+    <script src="vizualization_js/jquery.animateNumber.min.js"></script>
     <script src="vizualization_js/d3.v3.min.js"></script>
     <script src="vizualization_js/requestfactory.js"></script>
     <script src="vizualization_js/datalayermodule.js"></script>
@@ -115,6 +119,8 @@
     <script src="vizualization_js/numeral.js"></script>
     <script src="vizualization_js/arabLeagueMap.js"></script>
     <script src="vizualization_js/data.js"></script>
+    <script src="vizualization_js/selectedInstancesTable.js"></script>
+    <script src="vizualization_js/inclinationScore.js"></script>
     <script src="vizualization_js/treemapManager.js"></script>
     <script src="vizualization_js/main.js"></script>
 </body>

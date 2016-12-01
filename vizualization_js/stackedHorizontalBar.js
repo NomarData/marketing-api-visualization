@@ -3,11 +3,7 @@
  */
 
 function stackedHorizontalBar(){
-    this.data = [{
-        name: "Health Inclination",
-        greenValue: 1,
-        redValue: -5
-    }];
+    this.data = null;
     this.margin = {
         top: 30,
         right: 10,
@@ -26,8 +22,8 @@ function stackedHorizontalBar(){
         var redBar = currentStackbar.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentStackbar.svg.selectAll(".greenBar").transition().duration(750);
 
-        currentStackbar.data.greenValue = data.greenValue;
-        currentStackbar.data.redValue = data.redValue;
+        currentStackbar.data.greenValue = data.greenInclination;
+        currentStackbar.data.redValue = data.redInclination;
 
         greenBar.attr("x", function (d) {return currentStackbar.x(Math.min(0, currentStackbar.data.greenValue));});
         greenBar.attr("width", function (d) {return Math.abs(currentStackbar.x(currentStackbar.data.greenValue) - currentStackbar.x(0))});
@@ -55,6 +51,14 @@ function stackedHorizontalBar(){
         var data = this.data;
         var height = this.height;
 
+        var averageInclination = treemapManager.getAverageSelectedInclination();
+        var data = [{
+            name: "Health Inclination",
+            greenValue: averageInclination.greenInclination,
+            redValue: averageInclination.redInclination
+        }];
+        this.data = data;
+
 
         x.domain([-1,1]);
         y.domain(data.map(function (d) {
@@ -81,13 +85,13 @@ function stackedHorizontalBar(){
             .enter().append("rect")
             .attr("class", "redBar")
             .attr("x", function (d) {
-                return x(Math.min(0, d.redValue));
+                return x(Math.min(0, -d.redValue));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(d.redValue) - x(0));
+                return Math.abs(x(-d.redValue) - x(0));
             })
             .attr("height", y.rangeBand());
 
