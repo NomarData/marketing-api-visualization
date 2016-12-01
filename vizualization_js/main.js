@@ -36,4 +36,7 @@ $(document).ready(function () {
 
     inclinationScore = new InclinationScore();
     inclinationScore.init();
+
+    CountriesBarCharts();
+    CountriesBarCharts2();
 });
