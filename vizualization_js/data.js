@@ -1,5 +1,5 @@
-jewelInterests = ["jewel"];
-healthInterests = ["health"];
+jewelInterests = ["jewel","luxury goods", "mobile phones gadgets", "shopping", "smoking awareness"];
+healthInterests = ["health care","health","all health", "back pain", "cars vehicles", "diabetes awareness", "fast food", "fitness and wellness", "mental disease depression", "obesity", "physical activity","respiratory asthma", "stroke heart disease"];
 
 fakeData = [
     {

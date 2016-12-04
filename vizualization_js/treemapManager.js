@@ -255,12 +255,15 @@ function getSelectedInstances(){
 }
 
 function getInstancePolarity(instance){
-    if(healthInterests.indexOf(instance.interest) != -1){
+    return getInterestPolarity(instance.interest);
+}
+function getInterestPolarity(interestName){
+    if(healthInterests.indexOf(interestName) != -1){
         return 1;
-    } else if(jewelInterests.indexOf(instance.interest) != -1){
+    } else if(jewelInterests.indexOf(interestName) != -1){
         return -1;
     } else{
-        throw Error("A instance should have a polarity")
+        throw Error("This interest should have a polarity: " + interestName)
     }
 }
 

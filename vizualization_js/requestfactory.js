@@ -1,5 +1,4 @@
-var TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
-var API_KEY = "AIzaSyDO2DFB13Hr_DpzHtb8ONXkUvtCo7W7BHk";
+
 var SQL_list_countries = "SELECT location FROM $table GROUP BY location".replace("$table", TABLE);
 var SQL_list_topics = "SELECT topic, SUM(audience) FROM $table GROUP BY topic".replace("$table", TABLE);
 var SQL_list_unique = "SELECT $column, SUM(audience) FROM $table GROUP BY $column".replace("$table", TABLE);

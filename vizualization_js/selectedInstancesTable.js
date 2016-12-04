@@ -2,9 +2,10 @@
  * Created by maraujo on 12/1/16.
  */
 
-function SelectedInstancesTable(){
+function SelectedInstancesTable(elementContainerSelector, data){
     var currentInstance = this;
-    this.element = $("#selectedDataInstancesTable");
+    this.data = data;
+    this.element = $(elementContainerSelector);
 
     this.empty = function () {
         currentInstance.element.empty();
@@ -17,8 +18,9 @@ function SelectedInstancesTable(){
 
     this.addHeader = function() {
         var keys = [];
-        for(var instanceIndex in fakeData){
-            var instance = fakeData[instanceIndex];
+        var data = this.data;
+        for(var instanceIndex in data){
+            var instance = data[instanceIndex];
             for( var key in instance){
                 if(keys.indexOf(key) == -1){
                     keys.push(key)
@@ -57,6 +59,14 @@ function SelectedInstancesTable(){
 
 
         var instances = getSelectedInstances();
+        $.map(instances,function (instance) {
+            var html = currentInstance.instanceToItemRow(instance);
+            currentInstance.element.append(html);
+        })
+    }
+
+    this.updateDataGivenInstances = function(instances){
+        currentInstance.empty();
         $.map(instances,function (instance) {
             var html = currentInstance.instanceToItemRow(instance);
             currentInstance.element.append(html);

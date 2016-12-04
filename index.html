@@ -11,6 +11,7 @@
     <link href="vizualization_css/treemap.css" rel="stylesheet" />
     <link href="vizualization_css/arabLeagueMap.css" rel="stylesheet" />
     <link href="vizualization_css/stackedHorizontalBar.css" rel="stylesheet" />
+    <link href="vizualization_css/interestsSelection.css" rel="stylesheet" />
 </head>
 <body>
 <div class=".datamaps-style-block">
@@ -22,31 +23,23 @@
                 <h1>Health Awareness in the Arab World</h1>
             </div>
         </div>
-        <div class="row">
-            <div class="span4">
-                <h3>Select Countries:</h3>
-                <ul class="list-unstyled" id="countries_list">
-                </ul>
-            </div>
-            <div class="span4">
-                <h3>Select Interests:</h3>
-                <ul class="list-unstyled" id="interests_list">
-                </ul>
-            </div>
-            <div class="span4">
-                <h3>Categories:</h3>
-                <ul class="list-unstyled" id="demographic_categories_list">
-                </ul>
-            </div>
-        </div>
-        <div class="row" id="body">
 
-        </div>
+
         <div class="row">
-            <!--<div class="col-lg-offset-3"></div>-->
-            <div class="row">
-                <h1 class="text-center">Vizualization </h1>
+            <div class="span12">
+                <div class="title">Luxurious vs. Health Inclination</div>
+                <div class="text-center">Average Inclination Score = ((red/Total)*red - (green/Total)*green) / Total)</div>
+                <div class="text-center">
+                    <span style="font-weight: bold" id="inclinationScore">0</span>
+                </div>
+
+                <div class="text-center">
+                    <img src="imgs/jewel.svg" style="max-width: 40px; vertical-align: top;" />
+                    <span id="horizontalStackedBar"> </span>
+                    <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top;"/>
+                </div>
             </div>
+
 
             <div class="span4">
                 <h4>Gender:</h4>
@@ -60,41 +53,23 @@
                 <h4>Citizenship:</h4>
                 <div id="citizenshipTreemapDiv"></div>
             </div>
-            <div class="span8">
+            <div class="span6">
                     <div class="row">
-                        <div class="span8">
-                            <div class="title">Luxurious vs. Health Inclination</div>
-                            <div class="text-center">Average Inclination Score = ((red/Total)*red - (green/Total)*green) / Total)</div>
-                            <div class="text-center">
-                                <span style="font-weight: bold" id="inclinationScore">0</span>
-                            </div>
-                        </div>
-
-
-                        <div class="row  text-center">
-                            <div >
-                                <img src="imgs/jewel.svg" style="max-width: 40px; vertical-align: top;" />
-                                <span id="horizontalStackedBar">
-                            </span>
-                                <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top;"/>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="title text-center">Dinamic Map</div>
+                        <div class="title text-center">Dynamic Map</div>
                         <div id="arabLeagueMapDiv" class="arabLeagueMap">
                     </div>
             </div>
         </div>
+            <div class="span2">
+                <h3>Countries:</h3>
+                <ul class="list-unstyled" id="countriesList">
+                </ul>
+                <!--<ul class="list-unstyled" id="countries_list">-->
+                <!--</ul>-->
+            </div>
         </div>
         <div class="row">
-            <h4 class="text-center">Selected Data Summary </h4>
-            <div class="span4">
-                <h4 class="text-center">Selected Data Summary </h4>
-                <table class="table" id="selectedDataInstancesTable">
-                </table>
-            </div>
-            <div class="span8">
+            <div class="span12">
                 <h4 class="text-center">Countries Charts </h4>
                 <div class="row">
                     <div class="span2">
@@ -110,7 +85,29 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row">
 
+                <div class="span4">
+                    <h3>Select Interests:</h3>
+                    <ul class="list-unstyled" id="interestsList">
+                    </ul>
+                </div>
+                <div class="span4">
+                    <h3>Categories:</h3>
+                    <ul class="list-unstyled" id="demographic_categories_list">
+                    </ul>
+                </div>
+            </div>
+            <div class="span6">
+                <h4 class="text-center">Selected Data Summary </h4>
+                <table class="table" id="selectedDataInstancesTable">
+                </table>
+            </div>
+            <div class="span6">
+                <h4 class="text-center">Current Data Summary </h4>
+                <table class="table" id="currentDataTable">
+                </table>
             </div>
         </div>
 
@@ -123,6 +120,8 @@
     <script src="vizualization_js/utils.js"></script>
     <script src="vizualization_js/jquery.animateNumber.min.js"></script>
     <script src="vizualization_js/d3.v3.min.js"></script>
+    <script src="vizualization_js/squel-basic.js"></script>
+    <script src="vizualization_js/googleFusionAPI.js"></script>
     <script src="vizualization_js/requestfactory.js"></script>
     <script src="vizualization_js/datalayermodule.js"></script>
     <script src="vizualization_js/fusion_table.js"></script>

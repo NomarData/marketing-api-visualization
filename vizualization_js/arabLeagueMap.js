@@ -113,10 +113,11 @@ function arabLeagueMap(){
     this.data = {}
 
     this.init = function(){
+        var elementContainer = $("#arabLeagueMapDiv");
         var datamap = new Datamap({
-            element: document.getElementById("arabLeagueMapDiv"),
+            element: elementContainer[0],
             scope: 'world',
-            width:  "700px",
+            width:  elementContainer.parent().parent().width() + "px",
             height:'400px',
             setProjection : currentInstace.setProjection,
             geographyConfig : currentInstace.geographyConfig,

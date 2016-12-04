@@ -295,7 +295,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("x", 0)
             .attr("dx",  function(d) { return kx * d.dx / 2; })
             .attr("dy", "0.9em")
-            .text(numeral(parseInt(d.size*2000000)).format('0.0a'));
+            .text(convertIntegerToReadable(parseInt(d.size*2000000)));
     };
 
     this.isOnRoot = function(){

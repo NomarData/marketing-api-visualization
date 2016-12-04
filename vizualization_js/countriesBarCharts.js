@@ -146,7 +146,7 @@ function CountriesBarCharts2(){
 
         x0.domain(data.map(function(d) { return d.State; }));
         x1.domain(ageNames).rangeRoundBands([0, x0.rangeBand()]);
-        y.domain([0, 3000000+ d3.max(data, function(d) { return d3.max(d.ages, function(d) { return d.value; }); })]);
+        y.domain([0, d3.max(data, function(d) { return d3.max(d.ages, function(d) { return d.value; }); })]);
 
         svg.append("g")
             .attr("class", "x axis")

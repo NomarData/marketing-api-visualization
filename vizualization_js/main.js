@@ -31,12 +31,24 @@ $(document).ready(function () {
     arabMap = new arabLeagueMap();
     arabMap.init();
 
-    selectedInstancesTable = new SelectedInstancesTable();
+    selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable", fakeData);
     selectedInstancesTable.init();
+
+    currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable", fakeData);
+    currentDataInstancesTable.init();
 
     inclinationScore = new InclinationScore();
     inclinationScore.init();
 
+    fusionAPI = new GoogleFusionAPI();
+    fusionAPI.init();
+    fusionAPI.updateCountriesList();
+    fusionAPI.updateInterestsAudienceList();
+
     CountriesBarCharts();
     CountriesBarCharts2();
+
+    var instances = fusionAPI.getDefaultData();
+    currentDataInstancesTable.updateDataGivenInstances(fakeData);
+
 });

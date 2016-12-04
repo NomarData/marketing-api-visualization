@@ -22,3 +22,11 @@ function convertDataRowsFirstSecondValueToKeyValueDictionary(data){
     }
     return finalDictionary;
 }
+
+function convertIntegerToReadable(number){
+    return numeral(number).format('0.0a');
+}
+
+function cloneObject(obj){
+    return JSON.parse(JSON.stringify(obj));
+}

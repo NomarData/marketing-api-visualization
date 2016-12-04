@@ -4,8 +4,8 @@
 function initializeDataLayerModule(){
     //List Countries
     createEmptyDataLayer();
-    requestInterestsList();
-    requestCountriesList();
+    // requestInterestsList();
+    // requestCountriesList();
     return requestDemographicCategoriesAndSubCategories();
 }
 function selectedItemsFactory(){
