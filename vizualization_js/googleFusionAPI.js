@@ -2,9 +2,9 @@
      * Created by maraujo on 12/1/16.
      */
 
-    var TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
-    var API_KEY = "AIzaSyDO2DFB13Hr_DpzHtb8ONXkUvtCo7W7BHk";
-
+    TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
+    // var API_KEY = "AIzaSyDO2DFB13Hr_DpzHtb8ONXkUvtCo7W7BHk";
+    API_KEY = "AIzaSyD_zutY8jNPKZ_jCAUCKIqK6iLrvpzN4LA";
     function GoogleFusionAPI(){
         var currentInstance = this;
         this.URL_sql = "https://www.googleapis.com/fusiontables/v2/query?sql=$query&key=$key".replace("$key",API_KEY);
@@ -12,14 +12,39 @@
         this.defaultSelection = {
             ageRange : "18+",
             country_code : [],
-            interest : [],
+            interests : [],
             scholarity : "",
             gender : 0,
             citizenship: ""
         };
 
-        this.getWhereFilterForSelection = function(selection){
+        this.getWhereExpressionForSelection = function(selection){
+            var expression = squel.expr();
 
+            var age_range = selection.ageRange;
+            var exclude_expats = selection.citizenship === "" ? "" : selection.citizenship;
+            var scholarity = selection.scholarity === "" ? "" : selection.scholarity;
+            var gender = selection.gender === "" ? "" : selection.gender.toString();
+
+            expression.and("age_range='" + age_range + "'");
+            expression.and("exclude_expats='" + exclude_expats + "'");
+            expression.and("scholarity='" + scholarity + "'");
+            expression.and("gender='" + gender + "'");
+
+            if(selection.interests.length > 0){
+                for(var interestIndex in selection.interests){
+                    var interest = selection.interests[interestIndex]
+                    expression.or("interest ='" + interest + "'");
+                }
+            }
+            if(selection.country_code.length > 0){
+                for(var countryIndex in selection.country_code){
+                    var code = selection.country_code[countryIndex]
+                    expression.or("country_code ='" + code + "'");
+                }
+            }
+
+            return expression;
         };
 
         this.currentSelection = cloneObject(this.defaultSelection);
@@ -28,18 +53,49 @@
 
         this.buildSQLQueryForSelection = function(){
             var selection = currentInstance.currentSelection;
-            var sql_query = "SELECT country_code, ageRange, interest, scholarity, gender, citizenship, audience WHERE "
-            var where_filter = currentInstance.getWhereFilterForSelection(selection);
+            var squelQuery = squel.select()
+                    .from(TABLE)
+                    .where( currentInstance.getWhereExpressionForSelection(selection));
+            var stringQuery = squelQuery.toString();
+            stringQuery = removeAllParentheses(stringQuery);
+            return stringQuery;
         };
+
+        this.getPromiseCurrentSelection = function(){
+            var sql = currentInstance.buildSQLQueryForSelection();
+            var sql_uri = encodeURIComponent(sql);
+            var url = currentInstance.URL_sql.replace("$key",API_KEY).replace("$query",sql_uri);
+            console.log(sql);
+            console.log(url);
+            var promise = $.get(url, function (data) {
+                var instances = $.map(data.rows, function(row){
+                    var instance = {}
+                    for(var columnIndex in data.columns){
+                        var column = data.columns[columnIndex];
+                        var value = row[columnIndex];
+                        instance[column] = value;
+                    }
+                    return instance;
+                });
+                data.instances = instances;
+            }).fail(function(data){
+                currentInstance.failPromise(data);
+            });
+
+            return promise;
+        };
+
+
 
         this.failPromise = function(errorObj){
             console.log(errorObj);
-            alert("Fail to load countries.");
+            alert("Promise Failed.");
         };
 
         this.getPromiseListCountries = function(){
             var SQL_list_countries = "SELECT location FROM $table GROUP BY location".replace("$table", TABLE);
             var url = this.URL_sql.replace("$key",API_KEY).replace("$query",SQL_list_countries.replace("$table",TABLE));
+            console.log(url)
             var promise =  $.get(url,function(data){
                 var countries = $.map(data.rows, function(row){ return row[0] });
                 data.countries = countries;
@@ -97,7 +153,13 @@
             });
         };
 
-        this.getDataBasedOnSelection = function(){}
+        this.updateInstancesDataBasedOnSelection = function(){
+            var promise = currentInstance.getPromiseCurrentSelection();
+            promise.done(function(data){
+                fakeData = data.instances;
+                selectedInstancesTable.updateData();
+            });
+        }
         this.getDefaultData = function(){
 
         }

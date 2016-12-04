@@ -30,3 +30,8 @@ function convertIntegerToReadable(number){
 function cloneObject(obj){
     return JSON.parse(JSON.stringify(obj));
 }
+function removeAllParentheses(string){
+    string = string.replace(/\(/g,"");
+    string = string.replace(/\)/g,"");
+    return string
+}

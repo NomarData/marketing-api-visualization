@@ -44,6 +44,7 @@ $(document).ready(function () {
     fusionAPI.init();
     fusionAPI.updateCountriesList();
     fusionAPI.updateInterestsAudienceList();
+    fusionAPI.updateInstancesDataBasedOnSelection()
 
     CountriesBarCharts();
     CountriesBarCharts2();

@@ -226,7 +226,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 if(currentInstance.isOnRoot()){
                     zoom(currentInstance, d.parent);
                     treemapManager.selectTreemapOption(currentInstance, d);
-
                 }else{
                     zoom(currentInstance, currentInstance.root);
                     treemapManager.unselectTreemapOption(currentInstance);

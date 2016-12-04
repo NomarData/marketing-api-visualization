@@ -1,5 +1,42 @@
-jewelInterests = ["jewel","luxury goods", "mobile phones gadgets", "shopping", "smoking awareness"];
-healthInterests = ["health care","health","all health", "back pain", "cars vehicles", "diabetes awareness", "fast food", "fitness and wellness", "mental disease depression", "obesity", "physical activity","respiratory asthma", "stroke heart disease"];
+jewelInterests = ["jewel",
+    "luxury goods",
+    "mobile phones gadgets",
+    "shopping",
+    "cars vehicles"
+];
+healthInterests = ["Physical exercise",
+    "Physical fitness",
+    "Gym",
+    "Weight Training",
+    "Running",
+    "Obesity awarenes",
+    "Dieting",
+    "Weight loss (Fitness And wellness",
+    "Healthy Die",
+    "Low-carbohydrate diet",
+    "Health Car",
+    "Fitness and wellnes",
+    "smoking awarenes",
+    "health car",
+    "healt",
+    "all healt",
+    "back pai",
+    "diabetes awarenes",
+    "fast foo",
+    "fitness and wellnes",
+    "mental disease depressio",
+    "obesit",
+    "physical activit",
+    "respiratory asthm",
+    "stroke heart disease",
+    "stroke",
+    "pneumonia",
+    "asthma",
+    "Lung cancer awareness",
+    "Diabetes mellitus",
+    "Motor Vehicle",
+    "Mobile Phones"
+];
 
 fakeData = [
     {

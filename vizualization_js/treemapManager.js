@@ -257,13 +257,26 @@ function getSelectedInstances(){
 function getInstancePolarity(instance){
     return getInterestPolarity(instance.interest);
 }
+function hasSubstringFromList(list,stringValue){
+    stringValue = stringValue.toLowerCase();
+    for(var index in list){
+        var substring = list[index].toLowerCase();
+        if(stringValue.indexOf(substring) != -1){
+            return true;
+        }
+    }
+    return false;
+
+}
 function getInterestPolarity(interestName){
-    if(healthInterests.indexOf(interestName) != -1){
+    if(hasSubstringFromList(healthInterests,interestName)){
         return 1;
-    } else if(jewelInterests.indexOf(interestName) != -1){
+    } else if(hasSubstringFromList(jewelInterests,interestName)){
         return -1;
     } else{
-        throw Error("This interest should have a polarity: " + interestName)
+        console.log("This interest should have a polarity: " + interestName);
+        return 1
+
     }
 }
 
