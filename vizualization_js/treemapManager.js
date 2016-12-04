@@ -305,7 +305,8 @@ function TreemapManager(){
         averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
         averageInclination.greenInclination = averageInclination.greenAudience / total;
         averageInclination.redInclination = averageInclination.redAudience  / total;
-        averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
+        // averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
+        averageInclination.average = ((averageInclination.greenAudience) - (averageInclination.redAudience)) / total;
         return averageInclination
 
     };
