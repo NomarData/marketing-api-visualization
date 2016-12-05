@@ -35,3 +35,94 @@ function removeAllParentheses(string){
     string = string.replace(/\)/g,"");
     return string
 }
+
+var countryCodeMap = {
+    "DZ"  : {
+        "name" : "Algeria",
+        "_3letter_code" : "AFG"
+    },
+    "BH"  : {
+        "name" : "Bahrain",
+        "_3letter_code" : "BHR"
+    },
+    "EG"  : {
+        "name" : "Egypt",
+        "_3letter_code" : "EGY"
+    },
+    "IQ"  : {
+        "name" : "Iraq",
+        "_3letter_code" : "IRQ"
+    },
+    "JO"  : {
+        "name" : "Jordan",
+        "_3letter_code" : "JOR"
+    },
+    "KW"  : {
+        "name" : "Kuwait",
+        "_3letter_code" : "KWT"
+    },
+    "LB"  : {
+        "name" : "Lebanon",
+        "_3letter_code" : "LBN"
+    },
+    "LY"  : {
+        "name" : "Libya",
+        "_3letter_code" : "LBY"
+    },
+    "MA"  : {
+        "name" : "Morocco",
+        "_3letter_code" : "MAR"
+    },
+    "OM"  : {
+        "name" : "Oman",
+        "_3letter_code" : "OMN"
+    },
+    "PS"  : {
+        "name" : "Palestine",
+        "_3letter_code" : "PSE"
+    },
+    "QA"  : {
+        "name" : "Qatar",
+        "_3letter_code" : "QAT"
+    },
+    "SA"  : {
+        "name" : "Saudi Arabia",
+        "_3letter_code" : "SAU"
+    },
+    "SO"  : {
+        "name" : "Somalia",
+        "_3letter_code" : "SOM"
+    },
+    "TN"  : {
+        "name" : "Tunisia",
+        "_3letter_code" : "TUN"
+    },
+    "AE"  : {
+        "name" : "United Arab Emirates",
+        "_3letter_code" : "ARE"
+    },
+    "YE"  : {
+        "name" : "Yemen",
+        "_3letter_code" : "YEM"
+    },
+};
+
+function convert2to3LettersCode(_2letters_code){
+    _2letters_code = _2letters_code.toUpperCase();
+    try{
+        return countryCodeMap[_2letters_code]._3letter_code;
+    }catch (err){
+        throw Error("2 Letter Code not found:" + _2letters_code);
+    }
+
+}
+function convert3to2LettersCode(_3letters_code){
+    _3letters_code = _3letters_code.toUpperCase();
+    for(var key in countryCodeMap){
+        if(countryCodeMap[key]._3letter_code == _3letters_code){
+            return key
+        }
+    }
+    throw Error("3 Letter Code not found:" + _3letters_code);
+}
+

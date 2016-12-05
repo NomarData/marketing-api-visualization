@@ -49,6 +49,7 @@ function getRandomColor() {
 }
 
 function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
+    var currentInstance = this;
     this.w = width;
     this.h = height;
     this.x = d3.scale.linear().range([0, width]);
@@ -198,6 +199,18 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         return self.node.name == d.parent.name;
     }
 
+    this.onClickCell = function(d){
+        if(currentInstance.isOnRoot()){
+            currentInstance.zoom(currentInstance, d.parent);
+            treemapManager.selectTreemapOption(currentInstance, d);
+        }else{
+            currentInstance.zoom(currentInstance, currentInstance.root);
+            treemapManager.unselectTreemapOption(currentInstance);
+        }
+        treemapManager.updateLuxuriousHealthBar();
+        arabMap.updateData();
+    };
+
     this.init = function(){
         var currentInstance = this;
         var color = currentInstance.color;
@@ -223,17 +236,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                if(currentInstance.isOnRoot()){
-                    zoom(currentInstance, d.parent);
-                    treemapManager.selectTreemapOption(currentInstance, d);
-                }else{
-                    zoom(currentInstance, currentInstance.root);
-                    treemapManager.unselectTreemapOption(currentInstance);
-                }
-                treemapManager.updateLuxuriousHealthBar();
-                arabMap.updateData();
-
-
+                currentInstance.onClickCell(d);
             });
 
         cell.append("svg:rect")

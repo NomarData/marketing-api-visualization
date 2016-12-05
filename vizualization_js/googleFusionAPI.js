@@ -10,45 +10,60 @@
         this.URL_sql = "https://www.googleapis.com/fusiontables/v2/query?sql=$query&key=$key".replace("$key",API_KEY);
 
         this.defaultSelection = {
-            ageRange : "18+",
+            ageRange : "",
             country_code : [],
-            interests : [],
+            interests : ["Health care,",""],
             scholarity : "",
             gender : 0,
             citizenship: ""
         };
 
+        this.buildOrFromList = function(field_name, list) {
+            var expression = squel.expr();
+            if(list.length > 0){
+                for(var index in list){
+                    var item = list[index]
+                    expression.or(field_name +"='" + item + "'");
+                }
+            }
+            return expression;
+        }
+
         this.getWhereExpressionForSelection = function(selection){
             var expression = squel.expr();
-
-            var age_range = selection.ageRange;
+            var age_range = selection.ageRange === "" ? "" : selection.ageRange;
             var exclude_expats = selection.citizenship === "" ? "" : selection.citizenship;
             var scholarity = selection.scholarity === "" ? "" : selection.scholarity;
             var gender = selection.gender === "" ? "" : selection.gender.toString();
 
-            expression.and("age_range='" + age_range + "'");
+            if(age_range != ""){
+                expression.and("age_range='" + age_range + "'");
+            }
+
             expression.and("exclude_expats='" + exclude_expats + "'");
             expression.and("scholarity='" + scholarity + "'");
             expression.and("gender='" + gender + "'");
+            var interests_or = currentInstance.buildOrFromList("interest", selection.interests);
+            var countries_or = currentInstance.buildOrFromList("country_code", selection.country_code);
 
-            if(selection.interests.length > 0){
-                for(var interestIndex in selection.interests){
-                    var interest = selection.interests[interestIndex]
-                    expression.or("interest ='" + interest + "'");
-                }
-            }
-            if(selection.country_code.length > 0){
-                for(var countryIndex in selection.country_code){
-                    var code = selection.country_code[countryIndex]
-                    expression.or("country_code ='" + code + "'");
-                }
-            }
+            if(interests_or.toString() != "")expression.and(interests_or);
+            if(countries_or.toString() != "")expression.and(countries_or);
 
             return expression;
         };
 
         this.currentSelection = cloneObject(this.defaultSelection);
         this.init = function(){}
+        this.cleanCurrentDataByKeyValue = function (key, value) {
+            var newData = []
+            for(var instanceIndex in currentData){
+                var instance = currentData[instanceIndex];
+                if(instance[key] != value){
+                    newData.push(instance);
+                }
+            }
+            return newData;
+        }
         this.setCurrentSelection = function(){};
 
         this.buildSQLQueryForSelection = function(){
@@ -73,10 +88,14 @@
                     for(var columnIndex in data.columns){
                         var column = data.columns[columnIndex];
                         var value = row[columnIndex];
+                        if(!isNaN(value)) value = parseFloat(value);
                         instance[column] = value;
                     }
                     return instance;
                 });
+                if(instances == []){
+                    console.log("Instances should never return [], ignore it for while");
+                }
                 data.instances = instances;
             }).fail(function(data){
                 currentInstance.failPromise(data);
@@ -137,6 +156,7 @@
             tag.addClass("interestItem");
             if(getInterestPolarity(interestName) < 0) tag.addClass("jewelItem");
             else tag.addClass("healthItem");
+
             return tag;
         };
 
@@ -156,8 +176,36 @@
         this.updateInstancesDataBasedOnSelection = function(){
             var promise = currentInstance.getPromiseCurrentSelection();
             promise.done(function(data){
-                fakeData = data.instances;
+                currentData = data.instances;
+                currentData = currentInstance.cleanCurrentDataByKeyValue("age_range","18+");
+                currentData = currentInstance.cleanCurrentDataByKeyValue("country_code","BHR");
+
+
+                treemapManager = new TreemapManager();
+                treemapManager.initTreemaps();
+
+                luxuriousHealthBar = new stackedHorizontalBar();
+                luxuriousHealthBar.init();
+
+                arabMap = new arabLeagueMap();
+                arabMap.init();
+
+                selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
+                selectedInstancesTable.init();
                 selectedInstancesTable.updateData();
+
+                currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
+                currentDataInstancesTable.init();
+
+                inclinationScore = new InclinationScore();
+                inclinationScore.init();
+
+                currentDataInstancesTable.updateDataGivenInstances(currentData);
+
+                fusionAPI.updateCountriesList();
+                fusionAPI.updateInterestsAudienceList();
+
+
             });
         }
         this.getDefaultData = function(){

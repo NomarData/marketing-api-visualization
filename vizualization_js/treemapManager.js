@@ -184,12 +184,11 @@ function checkIfInstanceAgreeWithSelected(instance){
     return true;
 }
 
-function getTreemapDataFromFake(category){
+function getTreemapDataFromInstancesList(category, instancesList){
     var categoryAudience = {};
-    for(var index in fakeData){
-        var instance = fakeData[index];
+    for(var index in instancesList){
+        var instance = instancesList[index];
         if(!checkIfInstanceAgreeWithSelected(instance)) continue;
-
         if(instance[category] in categoryAudience){
             categoryAudience[instance[category]].push(instance);
         } else {
@@ -245,8 +244,8 @@ function isInSelectedCategories(instance){
 
 function getSelectedInstances(){
     var instances = []
-    for(var indexData in fakeData){
-        var instance = fakeData[indexData];
+    for(var indexData in currentData){
+        var instance = currentData[indexData];
         if(isInSelectedCategories(instance)){
             instances.push(instance)
         }
@@ -255,9 +254,11 @@ function getSelectedInstances(){
 }
 
 function getInstancePolarity(instance){
-    return getInterestPolarity(instance.interest);
+    var instancePolarity = getInterestPolarity(instance.interest);
+    return instancePolarity;
 }
 function hasSubstringFromList(list,stringValue){
+    if(stringValue === undefined) throw Error("String should be undefined: " + stringValue );
     stringValue = stringValue.toLowerCase();
     for(var index in list){
         var substring = list[index].toLowerCase();
@@ -286,10 +287,10 @@ function TreemapManager(){
         var treemapDefaultHeight = 100;
         var colorFunction = getRandomGreenOrRedColor;
 
-        var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromFake("gender"));
+        var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender", currentData));
         genderTreemap.init();
 
-        var ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,getTreemapDataFromFake("age"));
+        var ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("age_range", currentData));
         ageRangeTreemap.init();
 
         // var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
@@ -332,7 +333,7 @@ function TreemapManager(){
         for(var index in this.treemaps){
             var currentTreemap = this.treemaps[index];
             if (currentTreemap == selectedTreemap) continue;
-            var updatedData =  getTreemapDataFromFake(currentTreemap.root.name);
+            var updatedData =  getTreemapDataFromInstancesList(currentTreemap.root.name,currentData);
             console.log(currentTreemap.root.name);
             currentTreemap.updateData(updatedData);
         }

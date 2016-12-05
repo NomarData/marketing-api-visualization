@@ -2,9 +2,9 @@
  * Created by maraujo on 12/1/16.
  */
 
-function SelectedInstancesTable(elementContainerSelector, data){
+function SelectedInstancesTable(elementContainerSelector){
     var currentInstance = this;
-    this.data = data;
+    this.data = null;
     this.element = $(elementContainerSelector);
 
     this.empty = function () {
@@ -56,8 +56,6 @@ function SelectedInstancesTable(elementContainerSelector, data){
 
     this.updateData = function(){
         currentInstance.empty();
-
-
         var instances = getSelectedInstances();
         $.map(instances,function (instance) {
             var html = currentInstance.instanceToItemRow(instance);

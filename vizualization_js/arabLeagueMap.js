@@ -17,12 +17,20 @@ function CountriesDataDatamap(){
     }
 
     this.addInstance = function(instance){
-        if(getInstancePolarity(instance) == 1){
-            currentInstance.countries[instance.country].healthAudience += instance.audience;
-        } else {
-            currentInstance.countries[instance.country].jewelAudience += instance.audience;
+        var country_code = instance.country_code;
+        if(country_code.length == 2){
+            country_code = convert2to3LettersCode(country_code);
         }
-    }
+        try {
+            if (getInstancePolarity(instance) == 1) currentInstance.countries[country_code].healthAudience += instance.audience;
+            else currentInstance.countries[country_code].jewelAudience += instance.audience;
+        } catch (err){
+            if(country_code == "BHR") console.log("Ignore Bahrein for now");
+            else throw Error("Country code not found:" + country_code);
+        }
+
+
+    };
 
     this.addInstances = function(instances){
         for(var i in instances){
@@ -60,9 +68,9 @@ function arabLeagueMap(){
     var currentInstace = this;
     this.setProjection = function(element){
         var projection = d3.geo.equirectangular()
-            .center([24, 24])
+            .center([30, 24])
             .rotate([0, 0])
-            .scale(500)
+            .scale(350)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);

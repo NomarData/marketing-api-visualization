@@ -21,35 +21,33 @@ $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
 
     var colors = d3.scale.category10();
-    initializeDataLayerModule();
-    treemapManager = new TreemapManager();
-    treemapManager.initTreemaps();
-
-    luxuriousHealthBar = new stackedHorizontalBar();
-    luxuriousHealthBar.init();
-
-    arabMap = new arabLeagueMap();
-    arabMap.init();
-
-    selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable", fakeData);
-    selectedInstancesTable.init();
-
-    currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable", fakeData);
-    currentDataInstancesTable.init();
-
-    inclinationScore = new InclinationScore();
-    inclinationScore.init();
+    // initializeDataLayerModule();
+    // treemapManager = new TreemapManager();
+    // treemapManager.initTreemaps();
+    //
+    // luxuriousHealthBar = new stackedHorizontalBar();
+    // luxuriousHealthBar.init();
+    //
+    // arabMap = new arabLeagueMap();
+    // arabMap.init();
+    //
+    // selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
+    // selectedInstancesTable.init();
+    //
+    // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
+    // currentDataInstancesTable.init();
+    //
+    // inclinationScore = new InclinationScore();
+    // inclinationScore.init();
 
     fusionAPI = new GoogleFusionAPI();
     fusionAPI.init();
-    fusionAPI.updateCountriesList();
-    fusionAPI.updateInterestsAudienceList();
-    fusionAPI.updateInstancesDataBasedOnSelection()
+    fusionAPI.updateInstancesDataBasedOnSelection();
 
     CountriesBarCharts();
     CountriesBarCharts2();
 
     var instances = fusionAPI.getDefaultData();
-    currentDataInstancesTable.updateDataGivenInstances(fakeData);
+
 
 });
