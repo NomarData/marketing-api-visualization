@@ -4,6 +4,8 @@ jewelInterests = ["jewel",
     "luxury goods",
     "mobile phones gadgets",
     "shopping",
+    "Motor Vehicle",
+    "Mobile Phones",
     "cars vehicles"
 ];
 healthInterests = ["Physical exercise",
@@ -16,7 +18,7 @@ healthInterests = ["Physical exercise",
     "Weight loss (Fitness And wellness",
     "Healthy Die",
     "Low-carbohydrate diet",
-    "Health Car",
+    "Health Care",
     "Fitness and wellnes",
     "smoking awarenes",
     "health car",
@@ -26,8 +28,8 @@ healthInterests = ["Physical exercise",
     "diabetes awarenes",
     "fast foo",
     "fitness and wellnes",
-    "mental disease depressio",
-    "obesit",
+    "mental disease depression",
+    "obesity",
     "physical activit",
     "respiratory asthm",
     "stroke heart disease",
@@ -36,8 +38,7 @@ healthInterests = ["Physical exercise",
     "asthma",
     "Lung cancer awareness",
     "Diabetes mellitus",
-    "Motor Vehicle",
-    "Mobile Phones"
+    "fitness and wellness"
 ];
 
 fakeData = [

@@ -2,9 +2,10 @@
      * Created by maraujo on 12/1/16.
      */
 
-    TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
+    TABLE = "1oKaEW3aVQ9I2q_6LtjvVtc3q-mZzGuAsgANHdEHR";
+    // TABLE = "1xQ5SloMxn2Ug8r7jO4rwEm_0KsAbyjB1yMGWeAcK";
     // var API_KEY = "AIzaSyDO2DFB13Hr_DpzHtb8ONXkUvtCo7W7BHk";
-    API_KEY = "AIzaSyD_zutY8jNPKZ_jCAUCKIqK6iLrvpzN4LA";
+    API_KEY = "AIzaSyD0EM0Y_XwkLCtFOYDuKbB5nc39926L1Wg";
     function GoogleFusionAPI(){
         var currentInstance = this;
         this.URL_sql = "https://www.googleapis.com/fusiontables/v2/query?sql=$query&key=$key".replace("$key",API_KEY);
@@ -12,7 +13,7 @@
         this.defaultSelection = {
             ageRange : "",
             country_code : [],
-            interests : ["Health care,",""],
+            interests : ["fitness and wellness","luxury goods"],
             scholarity : "",
             gender : 0,
             citizenship: ""
@@ -82,25 +83,27 @@
             var url = currentInstance.URL_sql.replace("$key",API_KEY).replace("$query",sql_uri);
             console.log(sql);
             console.log(url);
-            var promise = $.get(url, function (data) {
-                var instances = $.map(data.rows, function(row){
-                    var instance = {}
-                    for(var columnIndex in data.columns){
-                        var column = data.columns[columnIndex];
-                        var value = row[columnIndex];
-                        if(!isNaN(value)) value = parseFloat(value);
-                        instance[column] = value;
-                    }
-                    return instance;
-                });
-                if(instances == []){
-                    console.log("Instances should never return [], ignore it for while");
-                }
-                data.instances = instances;
-            }).fail(function(data){
-                currentInstance.failPromise(data);
-            });
+            // var promise = $.get(url, function (data) {
+            //     var instances = $.map(data.rows, function(row){
+            //         var instance = {}
+            //         for(var columnIndex in data.columns){
+            //             var column = data.columns[columnIndex];
+            //             var value = row[columnIndex];
+            //             if(!isNaN(value)) value = parseFloat(value);
+            //             instance[column] = value;
+            //         }
+            //         return instance;
+            //     });
+            //     if(instances == []){
+            //         console.log("Instances should never return [], ignore it for while");
+            //     }
+            //     data.instances = instances;
+            // }).fail(function(data){
+            //     currentInstance.failPromise(data);
+            // });
 
+            //Fake Promise
+            var promise = $.when({instances:JSON_DATA});
             return promise;
         };
 
@@ -112,7 +115,7 @@
         };
 
         this.getPromiseListCountries = function(){
-            var SQL_list_countries = "SELECT location FROM $table GROUP BY location".replace("$table", TABLE);
+            var SQL_list_countries = "SELECT country_code FROM $table GROUP BY country_code".replace("$table", TABLE);
             var url = this.URL_sql.replace("$key",API_KEY).replace("$query",SQL_list_countries.replace("$table",TABLE));
             console.log(url)
             var promise =  $.get(url,function(data){
@@ -125,7 +128,7 @@
         };
 
         this.getPromiseInterestsAudienceList = function(){
-            var SQL_list_topics = "SELECT topic, SUM(audience) FROM $table GROUP BY topic".replace("$table", TABLE);
+            var SQL_list_topics = "SELECT interest, SUM(audience) FROM $table GROUP BY interest".replace("$table", TABLE);
             var url  = URL_sql.replace("$key",API_KEY).replace("$query",SQL_list_topics.replace("$table",TABLE));
             var promise = $.get(url,function(data){
                 var interests = $.map(data.rows, function(row){ return {"name":row[0],"audience":parseInt(row[1])} });

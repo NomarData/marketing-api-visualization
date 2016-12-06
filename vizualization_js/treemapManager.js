@@ -342,7 +342,7 @@ function TreemapManager(){
         NODES_SELECTED[treemap.root.name] = node.name;
         console.log(NODES_SELECTED);
         this.updateTreemaps(treemap);
-        selectedInstancesTable.updateData();
+        // selectedInstancesTable.updateData();
         inclinationScore.updateData();
     };
 
