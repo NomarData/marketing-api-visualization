@@ -7,6 +7,7 @@ function checkAllDefined(...variables){
     });
 }
 
+
 function generateUUID(a){return a?(a^Math.random()*16>>a/4).toString(16):([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,generateUUID)}
 
 function isDemographicCategoryName(name){
@@ -35,11 +36,22 @@ function removeAllParentheses(string){
     string = string.replace(/\)/g,"");
     return string
 }
+function onClickCountryFunction(countryItem){
+    var country_code = countryItem.data("code");
+    if(NODES_SELECTED.isCountryAlreadySelected(country_code)){
+        countryItem.css("text-decoration","none");
+        NODES_SELECTED.removeCountryCode(country_code);
+    } else{
+        countryItem.css("text-decoration","underline");
+        NODES_SELECTED.insertCountryCode(country_code);
+    }
+    console.log(NODES_SELECTED.country_codes);
+}
 
 var countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",
-        "_3letter_code" : "AFG"
+        "_3letter_code" : "DZA"
     },
     "BH"  : {
         "name" : "Bahrain",
@@ -116,6 +128,17 @@ function convert2to3LettersCode(_2letters_code){
     }
 
 }
+
+
+function convert2LettersCodeToName(_2letters_code){
+    _2letters_code = _2letters_code.toUpperCase();
+    try{
+        return countryCodeMap[_2letters_code].name;
+    }catch (err){
+        throw Error("2 Letter Code not found:" + _2letters_code);
+    }
+}
+
 function convert3to2LettersCode(_3letters_code){
     _3letters_code = _3letters_code.toUpperCase();
     for(var key in countryCodeMap){

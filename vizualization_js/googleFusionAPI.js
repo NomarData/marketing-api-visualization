@@ -141,12 +141,12 @@
 
         this.updateCountriesList =function(){
             var promise = currentInstance.getPromiseListCountries();
-            promise.done(function (data) {
+            return promise.done(function (data) {
                 var countriesListContainer = $("#countriesList");
                 countriesListContainer.empty();
                 for(var countriesIndex in data.countries){
-                    var country = data.countries[countriesIndex];
-                    countriesListContainer.append("<ul class='countryItem'>" + country + "</ul>");
+                    var country_code = data.countries[countriesIndex];
+                    countriesListContainer.append("<ul class='countryItem' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</ul>");
                 }
             });
         };
@@ -197,15 +197,19 @@
                 selectedInstancesTable.init();
                 selectedInstancesTable.updateData();
 
-                currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
-                currentDataInstancesTable.init();
+                // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
+                // currentDataInstancesTable.init();
 
                 inclinationScore = new InclinationScore();
                 inclinationScore.init();
 
-                currentDataInstancesTable.updateDataGivenInstances(currentData);
+                // currentDataInstancesTable.updateDataGivenInstances(currentData);
 
-                fusionAPI.updateCountriesList();
+                fusionAPI.updateCountriesList().done(function(){
+                    $(".countryItem").click(function(){
+                        onClickCountryFunction($(this));
+                    });
+                });
                 fusionAPI.updateInterestsAudienceList();
 
 

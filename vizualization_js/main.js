@@ -16,10 +16,15 @@ var defaultsPropertiesTreemap = {
     height: 100
 };
 
+function removeValueFromArray(array,valueToRemove){
+    return $.grep(array, function(value) {
+        return value != valueToRemove;
+    });
+}
 
 $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
-
+    NODES_SELECTED = new SelectionDataLayer();
     var colors = d3.scale.category10();
     // initializeDataLayerModule();
     // treemapManager = new TreemapManager();
@@ -43,6 +48,9 @@ $(document).ready(function () {
     fusionAPI = new GoogleFusionAPI();
     fusionAPI.init();
     fusionAPI.updateInstancesDataBasedOnSelection();
+
+
+
 
     CountriesBarCharts();
     CountriesBarCharts2();

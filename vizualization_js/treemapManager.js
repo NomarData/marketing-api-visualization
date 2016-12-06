@@ -175,20 +175,11 @@ function updateTreemaps(treemapTrigger) {
     });
 }
 
-function checkIfInstanceAgreeWithSelected(instance){
-    for(var key in NODES_SELECTED){
-        if(instance[key] != NODES_SELECTED[key]){
-            return false;
-        }
-    }
-    return true;
-}
-
 function getTreemapDataFromInstancesList(category, instancesList){
     var categoryAudience = {};
     for(var index in instancesList){
         var instance = instancesList[index];
-        if(!checkIfInstanceAgreeWithSelected(instance)) continue;
+        if(!NODES_SELECTED.isInstanceAgreeWithSelected(instance)) continue;
         if(instance[category] in categoryAudience){
             categoryAudience[instance[category]].push(instance);
         } else {
@@ -235,18 +226,12 @@ function generateTreemapChidren(categoryAudience){
     return children;
 }
 
-function isInSelectedCategories(instance){
-    for(category in NODES_SELECTED){
-        if(instance[category] != NODES_SELECTED[category]) return false;
-    }
-    return true;
-}
 
 function getSelectedInstances(){
     var instances = []
     for(var indexData in currentData){
         var instance = currentData[indexData];
-        if(isInSelectedCategories(instance)){
+        if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
             instances.push(instance)
         }
     }
@@ -339,26 +324,18 @@ function TreemapManager(){
         }
     }
     this.selectTreemapOption = function(treemap, node){
-        NODES_SELECTED[treemap.root.name] = node.name;
-        console.log(NODES_SELECTED);
+        NODES_SELECTED.setCategoryValueSelected(treemap.root.name, node.name);
+        console.log(NODES_SELECTED.categories);
         this.updateTreemaps(treemap);
         // selectedInstancesTable.updateData();
         inclinationScore.updateData();
     };
 
     this.unselectTreemapOption = function(treemap){
-        delete NODES_SELECTED[treemap.root.name];
-        console.log(NODES_SELECTED);
+        NODES_SELECTED.unsetCategory(treemap.root.name);
+        console.log(NODES_SELECTED.categories);
         this.updateTreemaps();
-        selectedInstancesTable.updateData();
+        // selectedInstancesTable.updateData();
         inclinationScore.updateData();
     };
-
-    this.updateTreemapsBasedSelectedNodes = function(){
-        console.log(NODES_SELECTED);
-
-    }
-
 }
-
-NODES_SELECTED = {};

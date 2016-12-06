@@ -131,9 +131,20 @@ function arabLeagueMap(){
             geographyConfig : currentInstace.geographyConfig,
             fills: currentInstace.fills,
             data: currentInstace.data,
+            done: function(datamap) {
+                    datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+                    var country_code = convert3to2LettersCode(geography.id);
+                    var countryItem = $("ul[data-code='"+ country_code +"']");
+                    onClickCountryFunction(countryItem);
+                });
+            }
         });
         currentInstace.datamap = datamap;
         this.updateData();
+    }
+
+    this.selectCountryInMap = function(){
+        var countryItem = $(".countryItem")
     }
 
 
