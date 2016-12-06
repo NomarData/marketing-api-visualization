@@ -47,10 +47,19 @@ function CountriesDataDatamap(){
 
     this.getDataMapColor = function(){
         var dataColor = {};
-        for(var country in currentInstance.countries){
-            if(currentInstance.getCountryAudience(country) > 0){
-                var inclination = currentInstance.getCountryInclination(country);
-                dataColor[country] = getGreenOrRedColorByInclination(inclination);
+        for(var _3_letters_country_code in currentInstance.countries){
+            if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
+                dataColor[_3_letters_country_code] = "#EEE";
+            }
+        }
+
+        for(var selectedCountryIndex in NODES_SELECTED.country_codes){
+            var _2_letters_country_code = NODES_SELECTED.country_codes[selectedCountryIndex];
+            var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
+
+            if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
+                var inclination = currentInstance.getCountryInclination(_3_letters_country_code);
+                dataColor[_3_letters_country_code] = getGreenOrRedColorByInclination(inclination);
             }
         }
         return dataColor;
@@ -149,7 +158,7 @@ function arabLeagueMap(){
 
 
     this.updateData = function(){
-        var instances = getSelectedInstances();
+        var instances = NODES_SELECTED.getSelectedInstances();
         countriesDataDatamap.empty();
         countriesDataDatamap.addInstances(instances);
         var dataColor = countriesDataDatamap.getDataMapColor();

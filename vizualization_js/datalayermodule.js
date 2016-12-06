@@ -2,6 +2,15 @@ function SelectionDataLayer(){
     var currentInstance = this;
     this.country_codes = [];
     this.categories = {};
+    this.selected_instances = [];
+    this.selectAllCountries = function(){
+        for(var country_code in countryCodeMap){
+            currentInstance.insertCountryCode(country_code);
+        }
+    };
+    this.getSelectedInstances = function(){
+        return currentInstance.selected_instances;
+    }
     this.insertCountryCode = function(country_code){
         currentInstance.country_codes.push(country_code);
         currentInstance.update();
@@ -16,10 +25,23 @@ function SelectionDataLayer(){
     this.unsetCategory = function(category){
         delete currentInstance.categories[category];
     }
+    this.setSelectedInstances = function(){
+        var instances = [];
+        for(var indexData in currentData){
+            var instance = currentData[indexData];
+            if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
+                instances.push(instance)
+            }
+        }
+        currentInstance.selected_instances = instances;
+    }
+
     this.update = function(){
+        this.setSelectedInstances();
         selectedInstancesTable.updateData();
         treemapManager.updateTreemaps();
         inclinationScore.updateData();
+        arabMap.updateData();
     };
 
     this.isCountryAlreadySelected = function(country_code) {

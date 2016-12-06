@@ -226,18 +226,6 @@ function generateTreemapChidren(categoryAudience){
     return children;
 }
 
-
-function getSelectedInstances(){
-    var instances = []
-    for(var indexData in currentData){
-        var instance = currentData[indexData];
-        if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
-            instances.push(instance)
-        }
-    }
-    return instances;
-}
-
 function getInstancePolarity(instance){
     var instancePolarity = getInterestPolarity(instance.interest);
     return instancePolarity;
@@ -297,7 +285,7 @@ function TreemapManager(){
 
     this.getAverageSelectedInclination = function(){
         var averageInclination = {"greenValue" : 0, "redValue":0};
-        var selectedInstances = getSelectedInstances();
+        var selectedInstances = NODES_SELECTED.getSelectedInstances();
         var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
 
         averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});

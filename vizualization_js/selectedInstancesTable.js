@@ -56,7 +56,7 @@ function SelectedInstancesTable(elementContainerSelector){
 
     this.updateData = function(){
         currentInstance.empty();
-        var instances = getSelectedInstances();
+        var instances = NODES_SELECTED.getSelectedInstances();
         $.map(instances,function (instance) {
             var html = currentInstance.instanceToItemRow(instance);
             currentInstance.element.append(html);

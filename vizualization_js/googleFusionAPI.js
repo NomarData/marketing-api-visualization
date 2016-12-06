@@ -183,6 +183,7 @@
                 currentData = currentInstance.cleanCurrentDataByKeyValue("age_range","18+");
                 currentData = currentInstance.cleanCurrentDataByKeyValue("country_code","BHR");
 
+                NODES_SELECTED.setSelectedInstances();
 
                 treemapManager = new TreemapManager();
                 treemapManager.initTreemaps();

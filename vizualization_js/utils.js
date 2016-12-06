@@ -48,7 +48,7 @@ function onClickCountryFunction(countryItem){
     console.log(NODES_SELECTED.country_codes);
 }
 
-var countryCodeMap = {
+countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",
         "_3letter_code" : "DZA"
