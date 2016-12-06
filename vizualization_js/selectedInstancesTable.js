@@ -18,7 +18,7 @@ function SelectedInstancesTable(elementContainerSelector){
 
     this.addHeader = function() {
         var keys = [];
-        var data = fakeData;
+        var data = NODES_SELECTED.getSelectedInstances();
         for(var instanceIndex in data){
             var instance = data[instanceIndex];
             for( var key in instance){

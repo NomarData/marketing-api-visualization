@@ -10,9 +10,11 @@ function CountriesDataDatamap(){
         });
 
     this.empty = function(){
-        for(var country in currentInstance.countries){
-            currentInstance.countries[country].jewelAudience = 0;
-            currentInstance.countries[country].healthAudience = 0;
+        for(var country in currentInstance.countries) {
+            currentInstance.countries[country] = {
+                jewelAudience: 0,
+                healthAudience: 0
+            }
         }
     }
 
@@ -47,7 +49,8 @@ function CountriesDataDatamap(){
 
     this.getDataMapColor = function(){
         var dataColor = {};
-        for(var _3_letters_country_code in currentInstance.countries){
+        var country_codes = getAll3LettersCodeArabCountry();
+        for(var _3_letters_country_code in country_codes){ TODO
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
                 dataColor[_3_letters_country_code] = "#EEE";
             }

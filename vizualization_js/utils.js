@@ -48,6 +48,12 @@ function onClickCountryFunction(countryItem){
     console.log(NODES_SELECTED.country_codes);
 }
 
+function getAll3LettersCodeArabCountry(){
+    return $.map(countryCodeMap,function (item) {
+        return item._3letter_code;
+    });
+}
+
 countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",

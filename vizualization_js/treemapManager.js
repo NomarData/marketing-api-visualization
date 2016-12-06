@@ -175,11 +175,11 @@ function updateTreemaps(treemapTrigger) {
     });
 }
 
-function getTreemapDataFromInstancesList(category, instancesList){
+function getTreemapDataFromInstancesList(category){
     var categoryAudience = {};
+    var instancesList = NODES_SELECTED.getSelectedInstances();
     for(var index in instancesList){
         var instance = instancesList[index];
-        if(!NODES_SELECTED.isInstanceAgreeWithSelected(instance)) continue;
         if(instance[category] in categoryAudience){
             categoryAudience[instance[category]].push(instance);
         } else {
@@ -260,14 +260,14 @@ function TreemapManager(){
         var treemapDefaultHeight = 100;
         var colorFunction = getRandomGreenOrRedColor;
 
-        var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender", currentData));
+        var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender"));
         genderTreemap.init();
 
-        var ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("age_range", currentData));
+        var ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("age_range"));
         ageRangeTreemap.init();
 
-        // var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,treemapDataScholarity());
-        // scholarityTreemap.init();
+        var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("scholarity"));
+        scholarityTreemap.init();
         //
         // var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
         // languageTreemap.init();
@@ -277,7 +277,7 @@ function TreemapManager(){
 
         this.treemaps.push(genderTreemap);
         this.treemaps.push(ageRangeTreemap);
-        // this.treemaps.push(scholarityTreemap);
+        this.treemaps.push(scholarityTreemap);
         // this.treemaps.push(languageTreemap);
         // this.treemaps.push(citizenshipTreemap);
     }
