@@ -17,7 +17,9 @@ function SelectionDataLayer(){
         delete currentInstance.categories[category];
     }
     this.update = function(){
-        selectedInstancesTable.updateData()
+        selectedInstancesTable.updateData();
+        treemapManager.updateTreemaps();
+        inclinationScore.updateData();
     };
 
     this.isCountryAlreadySelected = function(country_code) {
