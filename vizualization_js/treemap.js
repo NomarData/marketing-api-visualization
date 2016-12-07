@@ -23,9 +23,9 @@ function getRandomGreenOrRedColor(){
     return getGreenOrRedColorByInclination(diceValue)
 }
 function getGreenOrRedColorByInclination(inclination){
-   var colorFunction = d3.scale.linear().domain([-1,-0.1,0.1,1])
+   var colorFunction = d3.scale.linear().domain([-1,-0.15,-0.05,0,0.05,0.15,1])
         .interpolate(d3.interpolateRgb)
-        .range([d3.rgb("#C00004"),d3.rgb("#C08C75"),d3.rgb("#7EC077"), d3.rgb('#0CC000')]);
+        .range([d3.rgb("#d73027"),d3.rgb("#fc8d59"),d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')]);
     return colorFunction(inclination);
 
 
@@ -207,8 +207,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             currentInstance.zoom(currentInstance, currentInstance.root);
             treemapManager.unselectTreemapOption(currentInstance);
         }
-        treemapManager.updateLuxuriousHealthBar();
-        arabMap.updateData();
     };
 
     this.init = function(){

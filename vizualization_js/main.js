@@ -53,8 +53,8 @@ $(document).ready(function () {
 
 
 
-    CountriesBarCharts();
-    CountriesBarCharts2();
+    // CountriesBarCharts();
+    // CountriesBarCharts2();
 
     var instances = fusionAPI.getDefaultData();
 

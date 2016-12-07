@@ -12,6 +12,8 @@ class PandasDataset:
         max_age = row["max_age"]
         if max_age == NULL_VALUE and min_age == 18:
             return "{}+".format(min_age)
+        if max_age == NULL_VALUE and min_age == 45:
+            return "{}+".format(min_age)
         else:
             return "{}-{}".format(min_age, max_age)
 
@@ -105,16 +107,24 @@ class PandasDataset:
         self.replace_null_values()
         self.replace_specific_key_value("gender", 1, "Male")
         self.replace_specific_key_value("gender", 2, "Female")
-        self.replace_specific_key_value("gender", 2, "Female")
-        self.replace_specific_key_value("gender", 2, "Female")
         self.delete_specific_key_value("gender", 0)
+        self.delete_specific_key_value("language", "NOTSELECTED")
+        self.delete_specific_key_value("country_code", "BH")
+        self.delete_specific_key_value("country_code", "LB")
+        self.delete_specific_key_value("country_code", "PS")
+        self.delete_specific_key_value("country_code", "KW")
+        self.delete_specific_key_value("country_code", "SO")
+        self.delete_specific_key_value("country_code", "YE")
+        self.delete_specific_key_value("country_code", "IQ")
         self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
         self.replace_specific_key_value("scholarity", "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE", "HS")
         self.replace_specific_key_value("scholarity", "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE","GRAD")
+        self.delete_specific_key_value("language", "Arabic,English (All),Spanish (All),Portuguese (All),Italian,German,Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala,Indonesian,Filipino,Malayalam,Thai")
         self.delete_specific_key_value("scholarity", NULL_VALUE)
         self.replace_specific_key_value("exclusion_behavior",6015559470580, "locals")
         self.rename_column("exclusion_behavior", "citizenship")
         self.insert_expats_native_rows()
+        self.delete_specific_key_value("citizenship", "NOTSELECTED")
         self.delete_specific_key_value("is_denominator", True)
         self.delete_column("experiment_id")
         self.delete_column("interest_id")

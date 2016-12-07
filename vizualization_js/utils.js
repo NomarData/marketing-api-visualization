@@ -36,6 +36,20 @@ function removeAllParentheses(string){
     string = string.replace(/\)/g,"");
     return string
 }
+
+function onClickCountryFunctionBy3LettersCode(_3_letters_code){
+    var country_code = convert3to2LettersCode(_3_letters_code);
+    var countryItem = $("ul[data-code='"+ country_code +"']");
+    onClickCountryFunction(countryItem);
+}
+
+function onClickCountryFunctionBy2LettersCode(_2_letters_code){
+    var countryItem = $("ul[data-code='"+ _2_letters_code +"']");
+    onClickCountryFunction(countryItem);
+}
+
+
+
 function onClickCountryFunction(countryItem){
     var country_code = countryItem.data("code");
     if(NODES_SELECTED.isCountryAlreadySelected(country_code)){
@@ -49,9 +63,11 @@ function onClickCountryFunction(countryItem){
 }
 
 function getAll3LettersCodeArabCountry(){
-    return $.map(countryCodeMap,function (item) {
+    var countryCodes = $.map(countryCodeMap,function (item) {
         return item._3letter_code;
     });
+    countryCodes = removeValueFromArray(countryCodes,"BHR") //removing bahrein for now
+    return countryCodes;
 }
 
 countryCodeMap = {
@@ -59,30 +75,30 @@ countryCodeMap = {
         "name" : "Algeria",
         "_3letter_code" : "DZA"
     },
-    "BH"  : {
-        "name" : "Bahrain",
-        "_3letter_code" : "BHR"
-    },
+    // "BH"  : {
+    //     "name" : "Bahrain",
+    //     "_3letter_code" : "BHR"
+    // },
     "EG"  : {
         "name" : "Egypt",
         "_3letter_code" : "EGY"
     },
-    "IQ"  : {
-        "name" : "Iraq",
-        "_3letter_code" : "IRQ"
-    },
+    // "IQ"  : {
+    //     "name" : "Iraq",
+    //     "_3letter_code" : "IRQ"
+    // },
     "JO"  : {
         "name" : "Jordan",
         "_3letter_code" : "JOR"
     },
-    "KW"  : {
-        "name" : "Kuwait",
-        "_3letter_code" : "KWT"
-    },
-    "LB"  : {
-        "name" : "Lebanon",
-        "_3letter_code" : "LBN"
-    },
+    // "KW"  : {
+    //     "name" : "Kuwait",
+    //     "_3letter_code" : "KWT"
+    // },
+    // "LB"  : {
+    //     "name" : "Lebanon",
+    //     "_3letter_code" : "LBN"
+    // },
     "LY"  : {
         "name" : "Libya",
         "_3letter_code" : "LBY"
@@ -95,10 +111,10 @@ countryCodeMap = {
         "name" : "Oman",
         "_3letter_code" : "OMN"
     },
-    "PS"  : {
-        "name" : "Palestine",
-        "_3letter_code" : "PSE"
-    },
+    // "PS"  : {
+    //     "name" : "Palestine",
+    //     "_3letter_code" : "PSE"
+    // },
     "QA"  : {
         "name" : "Qatar",
         "_3letter_code" : "QAT"
@@ -107,10 +123,10 @@ countryCodeMap = {
         "name" : "Saudi Arabia",
         "_3letter_code" : "SAU"
     },
-    "SO"  : {
-        "name" : "Somalia",
-        "_3letter_code" : "SOM"
-    },
+    // "SO"  : {
+    //     "name" : "Somalia",
+    //     "_3letter_code" : "SOM"
+    // },
     "TN"  : {
         "name" : "Tunisia",
         "_3letter_code" : "TUN"
@@ -119,10 +135,10 @@ countryCodeMap = {
         "name" : "United Arab Emirates",
         "_3letter_code" : "ARE"
     },
-    "YE"  : {
-        "name" : "Yemen",
-        "_3letter_code" : "YEM"
-    },
+    // "YE"  : {
+    //     "name" : "Yemen",
+    //     "_3letter_code" : "YEM"
+    // },
 };
 
 function convert2to3LettersCode(_2letters_code){

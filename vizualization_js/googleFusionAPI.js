@@ -146,8 +146,14 @@
                 countriesListContainer.empty();
                 for(var countriesIndex in data.countries){
                     var country_code = data.countries[countriesIndex];
+                    try {
+                        convert2LettersCodeToName(country_code)
+                    } catch (err){
+                        continue
+                    }
                     countriesListContainer.append("<ul class='countryItem' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</ul>");
                 }
+                NODES_SELECTED.selectAllCountries();
             });
         };
 

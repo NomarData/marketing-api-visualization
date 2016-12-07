@@ -268,18 +268,18 @@ function TreemapManager(){
 
         var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("scholarity"));
         scholarityTreemap.init();
-        //
-        // var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,treemapDataLanguage());
-        // languageTreemap.init();
-        //
-        // var citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,treemapDataCitizenship());
-        // citizenshipTreemap.init();
+
+        var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("language"));
+        languageTreemap.init();
+
+        var citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("citizenship"));
+        citizenshipTreemap.init();
 
         this.treemaps.push(genderTreemap);
         this.treemaps.push(ageRangeTreemap);
         this.treemaps.push(scholarityTreemap);
-        // this.treemaps.push(languageTreemap);
-        // this.treemaps.push(citizenshipTreemap);
+        this.treemaps.push(languageTreemap);
+        this.treemaps.push(citizenshipTreemap);
     }
 
 
@@ -298,32 +298,24 @@ function TreemapManager(){
 
     };
     this.updateLuxuriousHealthBar = function(){
-        var luxuriousHealthData = this.getAverageSelectedInclination();
-        luxuriousHealthBar.updateData(luxuriousHealthData);
+        // var luxuriousHealthData = this.getAverageSelectedInclination();
+        // luxuriousHealthBar.updateData(luxuriousHealthData);
     };
 
     this.updateTreemaps = function(selectedTreemap){
         for(var index in this.treemaps){
             var currentTreemap = this.treemaps[index];
             if (currentTreemap == selectedTreemap) continue;
-            var updatedData =  getTreemapDataFromInstancesList(currentTreemap.root.name,currentData);
+            var updatedData =  getTreemapDataFromInstancesList(currentTreemap.root.name);
             console.log(currentTreemap.root.name);
             currentTreemap.updateData(updatedData);
         }
     }
     this.selectTreemapOption = function(treemap, node){
         NODES_SELECTED.setCategoryValueSelected(treemap.root.name, node.name);
-        console.log(NODES_SELECTED.categories);
-        this.updateTreemaps(treemap);
-        // selectedInstancesTable.updateData();
-        inclinationScore.updateData();
     };
 
     this.unselectTreemapOption = function(treemap){
         NODES_SELECTED.unsetCategory(treemap.root.name);
-        console.log(NODES_SELECTED.categories);
-        this.updateTreemaps();
-        // selectedInstancesTable.updateData();
-        inclinationScore.updateData();
     };
 }

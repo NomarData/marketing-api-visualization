@@ -4,15 +4,19 @@ function SelectionDataLayer(){
     this.categories = {};
     this.selected_instances = [];
     this.selectAllCountries = function(){
-        for(var country_code in countryCodeMap){
-            currentInstance.insertCountryCode(country_code);
-        }
+        onClickCountryFunctionBy2LettersCode("EG");
+        onClickCountryFunctionBy2LettersCode("OM");
+        // for(var countryCode in countryCodeMap){
+        //     if(countryCode == "BH") continue;
+        //     onClickCountryFunctionBy2LettersCode(countryCode);
+        // }
     };
     this.getSelectedInstances = function(){
         return currentInstance.selected_instances;
     }
-    this.insertCountryCode = function(country_code){
-        currentInstance.country_codes.push(country_code);
+    this.insertCountryCode = function(countryCode){
+        console.log("Inserting:" + countryCode);
+        currentInstance.country_codes.push(countryCode);
         currentInstance.update();
     }
     this.removeCountryCode = function(country_code){
@@ -21,11 +25,13 @@ function SelectionDataLayer(){
     }
     this.setCategoryValueSelected = function(category, value){
         currentInstance.categories[category] = value;
+        currentInstance.update();
     }
     this.unsetCategory = function(category){
         delete currentInstance.categories[category];
+        currentInstance.update();
     }
-    this.setSelectedInstances = function(){
+     this.setSelectedInstances = function(){
         var instances = [];
         for(var indexData in currentData){
             var instance = currentData[indexData];
@@ -37,12 +43,17 @@ function SelectionDataLayer(){
     }
 
     this.update = function(){
-        this.setSelectedInstances();
-        selectedInstancesTable.updateData();
+        currentInstance.setSelectedInstances();
+        // selectedInstancesTable.updateData();
         treemapManager.updateTreemaps();
         inclinationScore.updateData();
         arabMap.updateData();
+        luxuriousHealthBar.updateData();
     };
+
+    this.updateDesign = function(){
+
+    }
 
     this.isCountryAlreadySelected = function(country_code) {
         return currentInstance.country_codes.indexOf(country_code) != -1 ? true : false;

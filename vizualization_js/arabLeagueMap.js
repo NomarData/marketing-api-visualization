@@ -49,11 +49,10 @@ function CountriesDataDatamap(){
 
     this.getDataMapColor = function(){
         var dataColor = {};
-        var country_codes = getAll3LettersCodeArabCountry();
-        for(var _3_letters_country_code in country_codes){ TODO
-            if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
-                dataColor[_3_letters_country_code] = "#EEE";
-            }
+        var countryCodes = getAll3LettersCodeArabCountry();
+        for(var countryCodeIndex in countryCodes){
+            var countryCode = countryCodes[countryCodeIndex];
+            dataColor[countryCode] = "#EEE";
         }
 
         for(var selectedCountryIndex in NODES_SELECTED.country_codes){
@@ -80,9 +79,9 @@ function arabLeagueMap(){
     var currentInstace = this;
     this.setProjection = function(element){
         var projection = d3.geo.equirectangular()
-            .center([30, 24])
+            .center([25, 24])
             .rotate([0, 0])
-            .scale(350)
+            .scale(425)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);
@@ -145,9 +144,8 @@ function arabLeagueMap(){
             data: currentInstace.data,
             done: function(datamap) {
                     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-                    var country_code = convert3to2LettersCode(geography.id);
-                    var countryItem = $("ul[data-code='"+ country_code +"']");
-                    onClickCountryFunction(countryItem);
+                        // onClickCountryFunctionBy3LettersCode(geography.id);
+                        alert("Click disabled in the map for now, please use the list in the side.")
                 });
             }
         });

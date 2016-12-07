@@ -3,6 +3,7 @@
  */
 
 function stackedHorizontalBar(){
+    var currentInstance = this;
     this.data = null;
     this.margin = {
         top: 30,
@@ -17,19 +18,26 @@ function stackedHorizontalBar(){
     this.xAxis = d3.svg.axis().scale(this.x).orient("top");
     this.svg = null;
 
-    this.updateData = function(data){
-        var currentStackbar = this;
-        var redBar = currentStackbar.svg.selectAll(".redBar").transition().duration(750);
-        var greenBar = currentStackbar.svg.selectAll(".greenBar").transition().duration(750);
+    this.setGreenSize = function(greenValue){
+        var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
+        greenBar.attr("x", function (d) {return currentInstance.x(Math.min(0, greenValue));});
+    }
 
-        currentStackbar.data.greenValue = data.greenInclination;
-        currentStackbar.data.redValue = data.redInclination;
+    this.updateData = function(){
+        var data = treemapManager.getAverageSelectedInclination();
+        var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
+        var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
-        greenBar.attr("x", function (d) {return currentStackbar.x(Math.min(0, currentStackbar.data.greenValue));});
-        greenBar.attr("width", function (d) {return Math.abs(currentStackbar.x(currentStackbar.data.greenValue) - currentStackbar.x(0))});
 
-        redBar.attr("x", function (d) { return currentStackbar.x(Math.min(0, -currentStackbar.data.redValue ));});
-        redBar.attr("width", function (d) { return Math.abs(currentStackbar.x(-currentStackbar.data.redValue ) - currentStackbar.x(0)); })
+        currentInstance.data.greenValue = data.greenInclination;
+        currentInstance.data.redValue = data.redInclination;
+
+        greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(currentInstance.data.greenValue) - currentInstance.x(0))});
+        greenBar.attr("style", function(d){return "fill: " + getGreenOrRedColorByInclination(d.greenValue) });
+
+        redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
+        redBar.attr("width", function (d) { return Math.abs(currentInstance.x(-currentInstance.data.redValue ) - currentInstance.x(0)); })
+        redBar.attr("style", function(d){ return "fill: " + getGreenOrRedColorByInclination(-d.redValue) });
 
     };
 
@@ -69,6 +77,12 @@ function stackedHorizontalBar(){
             .data(data)
             .enter().append("rect")
             .attr("class", "greenBar")
+            .attr("style", function(d){
+                return "fill: " + getGreenOrRedColorByInclination(d.greenValue)
+            })
+            .attr("style", function(d){
+                return "fill: " + getGreenOrRedColorByInclination(d.greenValue)
+            })
             .attr("x", function (d) {
                 return x(Math.min(0, d.greenValue));
             })
@@ -84,6 +98,9 @@ function stackedHorizontalBar(){
             .data(data)
             .enter().append("rect")
             .attr("class", "redBar")
+            .attr("style", function(d){
+                return "fill: " + getGreenOrRedColorByInclination(-d.redValue)
+            })
             .attr("x", function (d) {
                 return x(Math.min(0, -d.redValue));
             })
