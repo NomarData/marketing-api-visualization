@@ -145,7 +145,7 @@ function arabLeagueMap(){
             done: function(datamap) {
                     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
                         // onClickCountryFunctionBy3LettersCode(geography.id);
-                        alert("Click disabled in the map for now, please use the list in the side.")
+                        alert("Click disabled in the map for now, please use the list on the side.")
                 });
             }
         });

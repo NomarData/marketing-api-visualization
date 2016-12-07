@@ -255,6 +255,7 @@ function getInterestPolarity(interestName){
 }
 
 function TreemapManager(){
+    var currentInstance = this;
     this.treemaps = [];
     this.initTreemaps = function(){
         var treemapDefaultHeight = 100;
@@ -301,8 +302,42 @@ function TreemapManager(){
         // var luxuriousHealthData = this.getAverageSelectedInclination();
         // luxuriousHealthBar.updateData(luxuriousHealthData);
     };
+    
+    this.hideTreemapsAndAskToSelectCountries = function(){
+        for(var treemapIndex in currentInstance.treemaps){
+            var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
+            var containerHeight = treemapContainer.height();
+            var chart = treemapContainer.find(".chart");
+            treemapContainer.append("<div class='selectCountriesMessage text-center' height='" + containerHeight + "'>Select Countries in the list</div>")
+            chart.hide();
+        }
+    }
+    
+    this.showTreemaps = function () {
+        $(".selectCountriesMessage").remove();
+        for(var treemapIndex in currentInstance.treemaps){
+            var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
+            var containerHeight = treemapContainer.height();
+            var chart = treemapContainer.find(".chart");
+            chart.show();
+        }
+    }
+
+    this.checkIfNeedToHideTreemaps = function(){
+        if(NODES_SELECTED.country_codes.length > 0){
+            if(!$(".chart").is(":visible")){
+                currentInstance.showTreemaps();
+            }
+        } else{
+            if($(".chart").is(":visible")){
+                currentInstance.hideTreemapsAndAskToSelectCountries();
+            }
+            return;
+        }
+    }
 
     this.updateTreemaps = function(selectedTreemap){
+       currentInstance.checkIfNeedToHideTreemaps();
         for(var index in this.treemaps){
             var currentTreemap = this.treemaps[index];
             if (currentTreemap == selectedTreemap) continue;
