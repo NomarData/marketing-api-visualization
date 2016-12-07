@@ -167,11 +167,12 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return d.size;
         });
 
-    this.getOpacityBasedOnData = function(d){
-        var kx = self.w / d.dx, ky = self.h / d.dy;
-        var hideDueWidth = kx * d.dx > d.w ? 1 : 0;
-        var hideDueHeight = ky * d.dy > d.h ? 1 : 0;
-        return 1;
+    this.getOpacityBasedOnData = function(d, self){
+        var labelWidth = $(this.treemapContainer).find("text:contains('"+ d.name +"')").width();
+        var labelHeight = $(this.treemapContainer).find("text:contains('"+ d.name +"')").height() + 15;
+        var showDueWidth = labelWidth > d.w ? 0 : 1;
+        var showDueHeight = labelHeight > d.h ? 0 : 1;
+        return showDueHeight && showDueWidth;
     }
     this.zoom = function(self,d){
         var kx = self.w / d.dx, ky = self.h / d.dy;
@@ -189,7 +190,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
                 .each(self.setTextLines)
-                .style("opacity", currentInstance.getOpacityBasedOnData(d));
+                .style("opacity", currentInstance.getOpacityBasedOnData(d,this));
         self.node = d;
         d3.event.stopPropagation();
 
