@@ -121,9 +121,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("text-anchor", "middle")
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d) {
-                    d.w = this.getComputedTextLength();
+                    // d.w = this.getComputedTextLength();
                     // console.log(d.w + " " + d.dx);
-                    return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+                    // return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+                    return currentInstance.getOpacityBasedOnData(d)
                 });
             this.node =  rootData;
             this.root =  rootData;
@@ -166,7 +167,12 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return d.size;
         });
 
-
+    this.getOpacityBasedOnData = function(d){
+        var kx = self.w / d.dx, ky = self.h / d.dy;
+        var hideDueWidth = kx * d.dx > d.w ? 1 : 0;
+        var hideDueHeight = ky * d.dy > d.h ? 1 : 0;
+        return 1;
+    }
     this.zoom = function(self,d){
         var kx = self.w / d.dx, ky = self.h / d.dy;
         self.x.domain([d.x, d.x + d.dx]);
@@ -183,7 +189,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
                 .each(self.setTextLines)
-                .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
+                .style("opacity", currentInstance.getOpacityBasedOnData(d));
         self.node = d;
         d3.event.stopPropagation();
 
@@ -245,7 +251,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var text = cell.append("svg:text")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", function(d) { return d.dy / 2; })
-            .attr("dy", ".35em")
             .attr("text-anchor", "middle")
             .each(currentInstance.setTextLines)
             .style("opacity", function(d) {
@@ -258,13 +263,15 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         $(this).empty();
         var tspanLine1 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
+            .attr("y", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
-            .attr("dy", "-0.45em")
+            .attr("dy", function(d) { return d.dy / 2; })
             .text(d.name);
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
+            .attr("y", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
-            .attr("dy", "0.9em")
+            .attr("dy", function(d) { return d.dy/2 + 15; })
             .text(function(d){
                 var audience = parseInt(d.size);
                 if( audience >= 1000){

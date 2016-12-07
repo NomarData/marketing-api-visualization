@@ -25,19 +25,19 @@ function stackedHorizontalBar(){
 
     this.updateData = function(){
         var data = treemapManager.getAverageSelectedInclination();
+
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
 
         currentInstance.data.greenValue = data.greenInclination;
         currentInstance.data.redValue = data.redInclination;
-
         greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(currentInstance.data.greenValue) - currentInstance.x(0))});
-        greenBar.attr("style", function(d){return "fill: " + getGreenOrRedColorByInclination(d.greenValue) });
+        greenBar.attr("style", function(d){return "fill: #1a9850"});
 
         redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
         redBar.attr("width", function (d) { return Math.abs(currentInstance.x(-currentInstance.data.redValue ) - currentInstance.x(0)); })
-        redBar.attr("style", function(d){ return "fill: " + getGreenOrRedColorByInclination(-d.redValue) });
+        redBar.attr("style", function(d){ return "fill: #d73027"});
 
     };
 

@@ -48,7 +48,7 @@ $(document).ready(function () {
     fusionAPI = new GoogleFusionAPI();
     fusionAPI.init();
     fusionAPI.updateInstancesDataBasedOnSelection();
-    // NODES_SELECTED.selectAllCountries();
+    // NODES_SELECTED.selectDefaultCountries();
 
 
 

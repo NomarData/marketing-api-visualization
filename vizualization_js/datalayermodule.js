@@ -3,9 +3,9 @@ function SelectionDataLayer(){
     this.country_codes = [];
     this.categories = {};
     this.selected_instances = [];
-    this.selectAllCountries = function(){
-        onClickCountryFunctionBy2LettersCode("EG");
-        onClickCountryFunctionBy2LettersCode("OM");
+    this.selectDefaultCountries = function(){
+        onClickCountryFunctionBy2LettersCode("AE");
+        onClickCountryFunctionBy2LettersCode("DZ");
         // for(var countryCode in countryCodeMap){
         //     if(countryCode == "BH") continue;
         //     onClickCountryFunctionBy2LettersCode(countryCode);

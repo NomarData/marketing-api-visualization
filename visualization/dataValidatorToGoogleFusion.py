@@ -110,12 +110,6 @@ class PandasDataset:
         self.delete_specific_key_value("gender", 0)
         self.delete_specific_key_value("language", "NOTSELECTED")
         self.delete_specific_key_value("country_code", "BH")
-        self.delete_specific_key_value("country_code", "LB")
-        self.delete_specific_key_value("country_code", "PS")
-        self.delete_specific_key_value("country_code", "KW")
-        self.delete_specific_key_value("country_code", "SO")
-        self.delete_specific_key_value("country_code", "YE")
-        self.delete_specific_key_value("country_code", "IQ")
         self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
         self.replace_specific_key_value("scholarity", "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE", "HS")
         self.replace_specific_key_value("scholarity", "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE","GRAD")
@@ -135,6 +129,7 @@ class PandasDataset:
         self.delete_column("ground_truth_column")
         self.rename_column("analysis_name", "interest")
         self.insert_age_range_column()
+        self.delete_specific_key_value("age_range", "18+")
         self.check_data_integrity()
 
     def save_file(self,filename):

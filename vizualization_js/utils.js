@@ -83,22 +83,22 @@ countryCodeMap = {
         "name" : "Egypt",
         "_3letter_code" : "EGY"
     },
-    // "IQ"  : {
-    //     "name" : "Iraq",
-    //     "_3letter_code" : "IRQ"
-    // },
+    "IQ"  : {
+        "name" : "Iraq",
+        "_3letter_code" : "IRQ"
+    },
     "JO"  : {
         "name" : "Jordan",
         "_3letter_code" : "JOR"
     },
-    // "KW"  : {
-    //     "name" : "Kuwait",
-    //     "_3letter_code" : "KWT"
-    // },
-    // "LB"  : {
-    //     "name" : "Lebanon",
-    //     "_3letter_code" : "LBN"
-    // },
+    "KW"  : {
+        "name" : "Kuwait",
+        "_3letter_code" : "KWT"
+    },
+    "LB"  : {
+        "name" : "Lebanon",
+        "_3letter_code" : "LBN"
+    },
     "LY"  : {
         "name" : "Libya",
         "_3letter_code" : "LBY"
@@ -111,10 +111,10 @@ countryCodeMap = {
         "name" : "Oman",
         "_3letter_code" : "OMN"
     },
-    // "PS"  : {
-    //     "name" : "Palestine",
-    //     "_3letter_code" : "PSE"
-    // },
+    "PS"  : {
+        "name" : "Palestine",
+        "_3letter_code" : "PSE"
+    },
     "QA"  : {
         "name" : "Qatar",
         "_3letter_code" : "QAT"
@@ -123,10 +123,10 @@ countryCodeMap = {
         "name" : "Saudi Arabia",
         "_3letter_code" : "SAU"
     },
-    // "SO"  : {
-    //     "name" : "Somalia",
-    //     "_3letter_code" : "SOM"
-    // },
+    "SO"  : {
+        "name" : "Somalia",
+        "_3letter_code" : "SOM"
+    },
     "TN"  : {
         "name" : "Tunisia",
         "_3letter_code" : "TUN"
@@ -135,10 +135,10 @@ countryCodeMap = {
         "name" : "United Arab Emirates",
         "_3letter_code" : "ARE"
     },
-    // "YE"  : {
-    //     "name" : "Yemen",
-    //     "_3letter_code" : "YEM"
-    // },
+    "YE"  : {
+        "name" : "Yemen",
+        "_3letter_code" : "YEM"
+    },
 };
 
 function convert2to3LettersCode(_2letters_code){

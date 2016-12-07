@@ -153,7 +153,7 @@
                     }
                     countriesListContainer.append("<ul class='countryItem' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</ul>");
                 }
-                NODES_SELECTED.selectAllCountries();
+                NODES_SELECTED.selectDefaultCountries();
             });
         };
 
@@ -186,8 +186,6 @@
             var promise = currentInstance.getPromiseCurrentSelection();
             promise.done(function(data){
                 currentData = data.instances;
-                currentData = currentInstance.cleanCurrentDataByKeyValue("age_range","18+");
-                currentData = currentInstance.cleanCurrentDataByKeyValue("country_code","BHR");
 
                 NODES_SELECTED.setSelectedInstances();
 
