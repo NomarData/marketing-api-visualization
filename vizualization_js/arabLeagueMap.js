@@ -107,7 +107,12 @@ function arabLeagueMap(){
             responsive: true,
             popupTemplate: function(geography, data) { //this function should just return a string
                 currentInstace.removeHoverIfNotArabCountry(geography);
-                return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+                if(isArabCountryCode3Letters(geography.id)){
+                    return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+                } else{
+                    return null;
+                }
+
         },
         popupOnHover: true, //disable the popup while hovering
             highlightOnHover: true,
