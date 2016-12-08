@@ -70,6 +70,17 @@ function getAll3LettersCodeArabCountry(){
     return countryCodes;
 }
 
+function isArabCountryCode3Letters(countryCode){
+    var arabCountriesCode3Letters = getAll3LettersCodeArabCountry();
+    for(var countryIndex in arabCountriesCode3Letters){
+        var arabCountryCode = arabCountriesCode3Letters[countryIndex];
+        if(arabCountryCode == countryCode){
+            return true;
+        }
+    }
+    return false;
+}
+
 countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",

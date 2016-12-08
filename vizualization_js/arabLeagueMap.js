@@ -50,11 +50,13 @@ function CountriesDataDatamap(){
     this.getDataMapColor = function(){
         var dataColor = {};
         var countryCodes = getAll3LettersCodeArabCountry();
+        //Paint all countries as unselected
         for(var countryCodeIndex in countryCodes){
             var countryCode = countryCodes[countryCodeIndex];
-            dataColor[countryCode] = "#EEE";
+            dataColor[countryCode] = "rgb(204, 204, 204)";
         }
 
+        //Paint all selected countries as selected
         for(var selectedCountryIndex in NODES_SELECTED.country_codes){
             var _2_letters_country_code = NODES_SELECTED.country_codes[selectedCountryIndex];
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
@@ -89,6 +91,13 @@ function arabLeagueMap(){
         return {path: path, projection: projection};
     }
 
+    this.removeHoverIfNotArabCountry = function(hoverCountry){
+        var countryCode3Letters = hoverCountry.id;
+        if(!isArabCountryCode3Letters(countryCode3Letters)){
+            $(".datamaps-subunit." + countryCode3Letters).css("stroke","")
+        }
+    };
+
     this.geographyConfig = {
         dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
             hideAntarctica: true,
@@ -97,7 +106,8 @@ function arabLeagueMap(){
             borderColor: '#FDFDFD',
             responsive: true,
             popupTemplate: function(geography, data) { //this function should just return a string
-            return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+                currentInstace.removeHoverIfNotArabCountry(geography);
+                return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
         },
         popupOnHover: true, //disable the popup while hovering
             highlightOnHover: true,
@@ -108,7 +118,7 @@ function arabLeagueMap(){
     }
 
     this.fills = {
-        defaultFill: "#EEEEEE",
+        defaultFill: "rgb(247, 247, 247)",
     };
 
     this.updateRandomColors = function(){
@@ -145,17 +155,23 @@ function arabLeagueMap(){
             done: function(datamap) {
                     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
                         // onClickCountryFunctionBy3LettersCode(geography.id);
-                        alert("Click disabled in the map for now, please use the list on the side.")
+                        var countryCode3Letters = geography.id;
+                        if(isArabCountryCode3Letters(countryCode3Letters)){
+                            alert("Click disabled in the map for now, please use the list on the side.");
+                        } else{
+                            alert("Only arab countries supported");
+                        }
+
                 });
             }
         });
         currentInstace.datamap = datamap;
         this.updateData();
-    }
+    };
 
     this.selectCountryInMap = function(){
         var countryItem = $(".countryItem")
-    }
+    };
 
 
     this.updateData = function(){
