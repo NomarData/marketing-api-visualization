@@ -32,6 +32,7 @@ function SelectionDataLayer(){
         currentInstance.update();
     }
      this.setSelectedInstances = function(){
+         console.log("Selecting Instances")
         var instances = [];
         for(var indexData in currentData){
             var instance = currentData[indexData];
@@ -40,6 +41,7 @@ function SelectionDataLayer(){
             }
         }
         currentInstance.selected_instances = instances;
+         console.log("Instances Selected")
     }
 
     this.update = function(){

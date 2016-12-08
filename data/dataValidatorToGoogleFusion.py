@@ -11,11 +11,11 @@ class PandasDataset:
         min_age = row["min_age"]
         max_age = row["max_age"]
         if max_age == NULL_VALUE and min_age == 18:
-            return "{}+".format(min_age)
+            return "{}+".format(int(min_age))
         if max_age == NULL_VALUE and min_age == 45:
-            return "{}+".format(min_age)
+            return "{}+".format(int(min_age))
         else:
-            return "{}-{}".format(min_age, max_age)
+            return "{}-{}".format(int(min_age), int(max_age))
 
     @staticmethod
     def get_pandas_dataset_from_file(filepointer):
@@ -114,7 +114,30 @@ class PandasDataset:
         self.replace_specific_key_value("language", "Indonesian,Filipino,Malayalam,Thai", "English")
         print len(self.data)
 
+    def delete_all_unnamed_columns(self):
+        print "Delete all unnamed columns"
+        for column in self.data.columns:
+            if "Unnamed" in column:
+                self.delete_column(column)
+
+    def compress(self):
+        pass
+        # self.replace_specific_key_value("insterest","health", "H")
+        # self.replace_specific_key_value("insterest", "luxury", "L")
+        # self.replace_specific_key_value("citizenship", "Locals", "L")
+        # self.replace_specific_key_value("citizenship", "Expats", "E")
+        # self.replace_specific_key_value("gender", "Female", "F")
+        # self.replace_specific_key_value("gender", "Male", "M")
+        # self.replace_specific_key_value("age_range", "Male", "M")
+
+        # self.rename_column("interest","i")
+        # self.rename_column("country_code", "c")
+        # self.rename_column("citizenship", "n")
+        # self.rename_column("scholarity", "s")
+        # self.rename_column("language", "l")
+
     def process_data(self):
+        self.delete_all_unnamed_columns()
         self.delete_column("languages")
         self.delete_column("target_request")
         self.convert_language_to_language_group()
@@ -146,6 +169,7 @@ class PandasDataset:
         self.insert_age_range_column()
         self.delete_specific_key_value("age_range", "18+")
         self.check_data_integrity()
+        self.compress()
 
     def save_file(self,filename):
         print "Saving file: {}".format(filename)

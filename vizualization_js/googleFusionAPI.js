@@ -103,7 +103,15 @@
             // });
 
             //Fake Promise
-            var promise = $.when({instances:JSON_DATA});
+            var defer = $.Deferred();
+            d3.csv("data/googlefusion.csv", function(error, data) {
+                if(error){
+                    throw Error("Error loading csv : " + error)
+                } else{
+                    defer.resolve({instances:data});
+                }
+            });
+            var promise = defer.promise();
             return promise;
         };
 
@@ -182,25 +190,38 @@
             });
         };
 
+        this.parseInstanceList = function(instances){
+            console.log("Parsing int");
+            var parsedInstances = $.map(instances,function(instance){
+                instance.audience = parseInt(instance.audience);
+                return instance;
+            });
+            return parsedInstances;
+            console.log("Parsing done")
+        };
+
         this.updateInstancesDataBasedOnSelection = function(){
             var promise = currentInstance.getPromiseCurrentSelection();
             promise.done(function(data){
-                currentData = data.instances;
-
+                currentData = currentInstance.parseInstanceList(data.instances);
                 NODES_SELECTED.setSelectedInstances();
 
+                console.log("Building Treemaps");
                 treemapManager = new TreemapManager();
                 treemapManager.initTreemaps();
+                console.log("Treemaps builded");
 
+                console.log("Building luxuriousHealthBar");
                 luxuriousHealthBar = new stackedHorizontalBar();
                 luxuriousHealthBar.init();
+                console.log("Builded luxuriousHealthBar");
 
                 arabMap = new arabLeagueMap();
                 arabMap.init();
 
-                selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
-                selectedInstancesTable.init();
-                selectedInstancesTable.updateData();
+                // selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
+                // selectedInstancesTable.init();
+                // selectedInstancesTable.updateData();
 
                 // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
                 // currentDataInstancesTable.init();
