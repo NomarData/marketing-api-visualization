@@ -159,7 +159,7 @@
                     } catch (err){
                         continue
                     }
-                    countriesListContainer.append("<ul class='countryItem btn btn-country' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</ul>");
+                    countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</div>");
                 }
                 NODES_SELECTED.selectDefaultCountries();
             });
