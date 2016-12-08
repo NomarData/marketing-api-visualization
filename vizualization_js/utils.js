@@ -37,27 +37,36 @@ function removeAllParentheses(string){
     return string
 }
 
+function getJqueryCountryBtnByCode2Letters(countryCode){
+    return $("ul[data-code='"+ countryCode +"']");
+}
+
 function onClickCountryFunctionBy3LettersCode(_3_letters_code){
-    var country_code = convert3to2LettersCode(_3_letters_code);
-    var countryItem = $("ul[data-code='"+ country_code +"']");
+    var countryCode = convert3to2LettersCode(_3_letters_code);
+    var countryItem = getJqueryCountryBtnByCode2Letters(countryCode);
     onClickCountryFunction(countryItem);
 }
 
 function onClickCountryFunctionBy2LettersCode(_2_letters_code){
-    var countryItem = $("ul[data-code='"+ _2_letters_code +"']");
+    var countryItem = getJqueryCountryBtnByCode2Letters(_2_letters_code);
     onClickCountryFunction(countryItem);
 }
 
-
+function updateBtnColor(countryCode3Letters, color){
+    var _2LetterCountryCode = convert3to2LettersCode(countryCode3Letters);
+    var countryItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
+    return countryItem.css("background-color",color);
+}
 
 function onClickCountryFunction(countryItem){
-    var country_code = countryItem.data("code");
-    if(NODES_SELECTED.isCountryAlreadySelected(country_code)){
+    var countryCode2Letters = countryItem.data("code");
+    if(NODES_SELECTED.isCountryAlreadySelected(countryCode2Letters)){
         countryItem.css("text-decoration","none");
-        NODES_SELECTED.removeCountryCode(country_code);
+        NODES_SELECTED.removeCountryCode(countryCode2Letters);
+        countryItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
     } else{
         countryItem.css("text-decoration","underline");
-        NODES_SELECTED.insertCountryCode(country_code);
+        NODES_SELECTED.insertCountryCode(countryCode2Letters);
     }
     console.log(NODES_SELECTED.country_codes);
 }
