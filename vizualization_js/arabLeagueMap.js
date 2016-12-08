@@ -1,3 +1,8 @@
+DEFAULT_MAP_ARAB_BACKGROUND_COLOR = "rgb(204, 204, 204)";
+DEFAULT_MAP_NOT_ARAB_BACKGROUND_COLOR = "#FDFDFD";
+DEFAULT_BORDER_COLOR = "#D1D1D1";
+
+
 function CountriesDataDatamap(){
     var currentInstance = this;
     this.countries = {};
@@ -50,10 +55,10 @@ function CountriesDataDatamap(){
     this.getDataMapColor = function(){
         var dataColor = {};
         var countryCodes = getAll3LettersCodeArabCountry();
-        //Paint all countries as unselected
+        //Paint all arab countries as unselected
         for(var countryCodeIndex in countryCodes){
             var countryCode = countryCodes[countryCodeIndex];
-            dataColor[countryCode] = "rgb(204, 204, 204)";
+            dataColor[countryCode] = DEFAULT_MAP_ARAB_BACKGROUND_COLOR;
         }
 
         //Paint all selected countries as selected
@@ -66,6 +71,14 @@ function CountriesDataDatamap(){
                 dataColor[_3_letters_country_code] = getGreenOrRedColorByInclination(inclination);
             }
         }
+
+        //Update Btn Colors
+        for(var countryCodeIndex in countryCodes){
+            var countryCode = countryCodes[countryCodeIndex];
+            updateBtnColor(countryCode, dataColor[countryCode]);
+        }
+
+
         return dataColor;
     }
 }
@@ -94,7 +107,9 @@ function arabLeagueMap(){
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
         if(!isArabCountryCode3Letters(countryCode3Letters)){
-            $(".datamaps-subunit." + countryCode3Letters).css("stroke","")
+            var hoverCountryPath = $(".datamaps-subunit." + countryCode3Letters);
+            hoverCountryPath.css("stroke-width","1");
+            hoverCountryPath.css("stroke",DEFAULT_BORDER_COLOR);
         }
     };
 
@@ -103,7 +118,7 @@ function arabLeagueMap(){
             hideAntarctica: true,
             borderWidth: 1,
             borderOpacity: 1,
-            borderColor: '#FDFDFD',
+            borderColor: DEFAULT_BORDER_COLOR,
             responsive: true,
             popupTemplate: function(geography, data) { //this function should just return a string
                 currentInstace.removeHoverIfNotArabCountry(geography);
