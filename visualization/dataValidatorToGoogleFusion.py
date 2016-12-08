@@ -95,7 +95,7 @@ class PandasDataset:
     def insert_expats_native_rows(self):
         print "Adding Not Native Rows"
         rows_with_all = self.data[self.data["citizenship"] == NULL_VALUE]
-        rows_with_locals = self.data[self.data["citizenship"] == "locals"]
+        rows_with_locals = self.data[self.data["citizenship"] == "Locals"]
         rows_with_expats = rows_with_all.apply(lambda row_with_all: self.get_expat_row(row_with_all, rows_with_locals), axis=1)
         self.data = self.data.append(rows_with_expats)
         print len(self.data)
@@ -130,7 +130,7 @@ class PandasDataset:
         self.replace_specific_key_value("scholarity", "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE","GRAD")
         self.delete_specific_key_value("language", "Arabic,English (All),Spanish (All),Portuguese (All),Italian,German,Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala,Indonesian,Filipino,Malayalam,Thai")
         self.delete_specific_key_value("scholarity", NULL_VALUE)
-        self.replace_specific_key_value("exclusion_behavior",6015559470580, "locals")
+        self.replace_specific_key_value("exclusion_behavior",6015559470580, "Locals")
         self.rename_column("exclusion_behavior", "citizenship")
         self.insert_expats_native_rows()
         self.delete_specific_key_value("citizenship", "NOTSELECTED")

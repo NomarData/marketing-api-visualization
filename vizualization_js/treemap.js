@@ -124,7 +124,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     // d.w = this.getComputedTextLength();
                     // console.log(d.w + " " + d.dx);
                     // return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
-                    return currentInstance.getOpacityBasedOnData(d)
+                    return currentInstance.getOpacityBasedOnData(d,this)
                 });
             this.node =  rootData;
             this.root =  rootData;
@@ -167,20 +167,27 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return d.size;
         });
 
-    this.getOpacityBasedOnData = function(d, self){
-        var labelWidth = $(this.treemapContainer).find("text:contains('"+ d.name +"')").width();
-        var labelHeight = $(this.treemapContainer).find("text:contains('"+ d.name +"')").height() + 15;
-        var showDueWidth = labelWidth > d.w ? 0 : 1;
-        var showDueHeight = labelHeight > d.h ? 0 : 1;
-        return showDueHeight && showDueWidth; TODO
-    }
-    this.zoom = function(self,d){
-        var kx = self.w / d.dx, ky = self.h / d.dy;
-        self.x.domain([d.x, d.x + d.dx]);
-        self.y.domain([d.y, d.y + d.dy]);
-        var t = self.svg.selectAll("g.cell").transition()
+    this.getOpacityBasedOnData = function(d, textElement,kx,ky){
+
+        var labelWidth = textElement.getComputedTextLength();
+        var labelHeight = $(textElement.treemapContainer).find("text:contains('"+ d.name +"')").height() + 15;
+        var showDueWidth = labelWidth / 2 > d.dx ? 0 : 1;
+        var showDueHeight = labelHeight > d.dy ? 0 : 1;
+        if(showDueWidth == 0){
+            console.log("Hidden due width: " + d.name + " : " + labelWidth);
+        }
+        if(showDueHeight == 0){
+            console.log("Hidden due height: " + d.name + " : " + labelHeight);
+        }
+        return showDueHeight && showDueWidth;
+    };
+    this.zoom = function(self,focusNode){
+        var kx = currentInstance.w / focusNode.dx, ky = currentInstance.h / focusNode.dy;
+        currentInstance.x.domain([focusNode.x, focusNode.x + focusNode.dx]);
+        currentInstance.y.domain([focusNode.y, focusNode.y + focusNode.dy]);
+        var t = currentInstance.svg.selectAll("g.cell").transition()
                 .duration(d3.event.altKey ? 7500 : 750)
-                .attr("transform", function(d) { return "translate(" + self.x(d.x) + "," + self.y(d.y) + ")"; });
+                .attr("transform", function(d) { return "translate(" + currentInstance.x(d.x) + "," + currentInstance.y(d.y) + ")"; });
 
             t.select("rect")
                 .attr("width", function(d) { return kx * d.dx - 1; })
@@ -189,9 +196,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             t.select("text")
                 .attr("x", function(d) { return kx * d.dx / 2; })
                 .attr("y", function(d) { return ky * d.dy / 2; })
-                .each(self.setTextLines)
-                .style("opacity", currentInstance.getOpacityBasedOnData(d,this));
-        self.node = d;
+                .each(currentInstance.setTextLines)
+                .style("opacity", function(d){
+                    return focusNode.name == d.name ? 1 : currentInstance.getOpacityBasedOnData(d,this,kx,ky);
+                });
+        currentInstance.node = focusNode;
         d3.event.stopPropagation();
 
     }
@@ -245,8 +254,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             });
 
         cell.append("svg:rect")
-            .attr("width", function(d) { return d.dx - 1; })
-            .attr("height", function(d) { return d.dy - 1; })
+            .attr("width", function(d) { return d.dx > 1 ? d.dx - 1 : d.dx; })
+            .attr("height", function(d) { return d.dy > 1 ? d.dy - 1 : d.dy; })
             .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); });
 
         var text = cell.append("svg:text")
@@ -255,7 +264,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("text-anchor", "middle")
             .each(currentInstance.setTextLines)
             .style("opacity", function(d) {
-                d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0;
+                return currentInstance.getOpacityBasedOnData(d,this);
             });
 
     }
