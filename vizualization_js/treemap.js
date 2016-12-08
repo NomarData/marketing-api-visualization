@@ -172,7 +172,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var labelHeight = $(this.treemapContainer).find("text:contains('"+ d.name +"')").height() + 15;
         var showDueWidth = labelWidth > d.w ? 0 : 1;
         var showDueHeight = labelHeight > d.h ? 0 : 1;
-        return showDueHeight && showDueWidth;
+        return showDueHeight && showDueWidth; TODO
     }
     this.zoom = function(self,d){
         var kx = self.w / d.dx, ky = self.h / d.dy;

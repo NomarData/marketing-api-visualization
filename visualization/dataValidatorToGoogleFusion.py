@@ -45,10 +45,12 @@ class PandasDataset:
     def replace_specific_key_value(self, column, old_value, new_value):
         print "Replacing : {}:{} por {}:{}".format(column,old_value,column,new_value)
         self.data.loc[self.data[column] == old_value, column] = new_value
+        print len(self.data)
 
     def insert_age_range_column(self):
         print "Inserting Age Range..."
         self.data["age_range"] = self.data.apply(lambda row: self.get_age_range(row), axis=1)
+        print len(self.data)
 
     def check_not_permitted_empty_values(self):
         print "Checking Not Permitted Empty Values..."
@@ -56,10 +58,12 @@ class PandasDataset:
         for column in no_nan_columns:
             if self.data[column].isnull().values.any():
                 raise Exception("Not Allowed Null at:" + column)
+        print len(self.data)
 
     def replace_null_values(self):
         print "Replace Null Values..."
         self.data = self.data.fillna(NULL_VALUE)
+        print len(self.data)
 
     def check_data_integrity(self):
         print "Checking Data Integrity..."
@@ -72,6 +76,7 @@ class PandasDataset:
             "gender" : self.data["gender"].unique()
         }
         # for country_code in list_of_categories["country_code"]:
+        print len(self.data)
 
 
 
@@ -79,11 +84,13 @@ class PandasDataset:
     def delete_specific_key_value(self, key, value):
         print "Deleting specific key valye: {}:{}".format(key,value)
         self.data = self.data[self.data[key] != value]
+        print len(self.data)
 
     def rename_column(self,old_name,new_name):
         print "Renaming: {}->{}".format(old_name, new_name)
         columns_names = {old_name : new_name}
         self.data = self.data.rename(columns=columns_names)
+        print len(self.data)
 
     def insert_expats_native_rows(self):
         print "Adding Not Native Rows"
@@ -91,24 +98,32 @@ class PandasDataset:
         rows_with_locals = self.data[self.data["citizenship"] == "locals"]
         rows_with_expats = rows_with_all.apply(lambda row_with_all: self.get_expat_row(row_with_all, rows_with_locals), axis=1)
         self.data = self.data.append(rows_with_expats)
+        print len(self.data)
 
     def delete_column(self, column_name):
+        print "Deleting Column:", column_name
         self.data = self.data.drop(column_name, 1)
+        print len(self.data)
 
     def convert_language_to_language_group(self):
+        print "Converting language to language group"
+        self.replace_specific_key_value("language", "French (All)", "French")
         self.replace_specific_key_value("language","English (All)","English")
         self.replace_specific_key_value("language", "Spanish (All),Portuguese (All),Italian,German", "European")
         self.replace_specific_key_value("language", "Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala", "Indian")
         self.replace_specific_key_value("language", "Indonesian,Filipino,Malayalam,Thai", "English")
+        print len(self.data)
 
     def process_data(self):
+        self.delete_column("languages")
+        self.delete_column("target_request")
         self.convert_language_to_language_group()
         self.check_not_permitted_empty_values()
         self.replace_null_values()
         self.replace_specific_key_value("gender", 1, "Male")
         self.replace_specific_key_value("gender", 2, "Female")
         self.delete_specific_key_value("gender", 0)
-        self.delete_specific_key_value("language", "NOTSELECTED")
+        self.delete_specific_key_value("language", NULL_VALUE)
         self.delete_specific_key_value("country_code", "BH")
         self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
         self.replace_specific_key_value("scholarity", "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE", "HS")
@@ -158,7 +173,7 @@ if __name__ == '__main__':
         pd_dataset = PandasDataset(filepointer)
         pd_dataset.process_data()
         pd_dataset.save_file("googlefusion.csv")
-        filter = {"interest" : ["fitness and wellness","luxury goods"]}
+        filter = {"interest" : ["health","luxury"]}
         pd_dataset.export_json(filter,"data.json")
     else:
         raise Exception("No input data")

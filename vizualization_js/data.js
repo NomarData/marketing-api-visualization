@@ -6,7 +6,8 @@ jewelInterests = ["jewel",
     "shopping",
     "Motor Vehicle",
     "Mobile Phones",
-    "cars vehicles"
+    "cars vehicles",
+    "luxury"
 ];
 healthInterests = ["Physical exercise",
     "Physical fitness",
