@@ -38,7 +38,7 @@ function removeAllParentheses(string){
 }
 
 function getJqueryCountryBtnByCode2Letters(countryCode){
-    return $("ul[data-code='"+ countryCode +"']");
+    return $("div[data-code='"+ countryCode +"']");
 }
 
 function onClickCountryFunctionBy3LettersCode(_3_letters_code){
