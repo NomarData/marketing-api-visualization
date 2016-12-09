@@ -48,6 +48,8 @@ $(document).ready(function () {
     fusionAPI = new GoogleFusionAPI();
     fusionAPI.init();
     fusionAPI.updateInstancesDataBasedOnSelection();
+    btnsSelectors = new BtnsTopicsSelectors();
+    btnsSelectors.init();
     // NODES_SELECTED.selectDefaultCountries();
 
 

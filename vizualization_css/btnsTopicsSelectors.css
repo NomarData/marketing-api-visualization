@@ -1,0 +1,21 @@
+.btn-interest{
+    width:180px;
+    margin:3px;
+    border-radius:5px;
+    color: #404040;
+}
+.btn-interest:hover{
+    color: #404040;
+}
+.btn-luxury:hover{
+    background-color: #ffaa80;
+}
+.btn-health:hover{
+    background-color: #aada84;
+}
+.btn-selected.btn-luxury{
+    background-color: #fc8d59;
+}
+.btn-selected.btn-health{
+    background-color: #91cf60;
+}
