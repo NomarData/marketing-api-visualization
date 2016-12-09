@@ -136,10 +136,14 @@ class PandasDataset:
         # self.rename_column("scholarity", "s")
         # self.rename_column("language", "l")
 
+    def list_unique_topics(self):
+        print "Unique Topics"
+        print self.data["analysis_name"].unique()
+
     def process_data(self):
+        self.list_unique_topics()
         self.delete_all_unnamed_columns()
         self.delete_column("languages")
-        self.delete_column("target_request")
         self.convert_language_to_language_group()
         self.check_not_permitted_empty_values()
         self.replace_null_values()
