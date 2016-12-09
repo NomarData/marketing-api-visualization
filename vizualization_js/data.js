@@ -1,5 +1,11 @@
 currentData = [];
 
+healthTopics = ['health','fitness and wellness', 'health care', 'obesity', 'physical activity',
+    'smoking awareness', 'diabetes awareness', 'mental disease depression','stroke heart disease',
+    'respiratory asthma', 'back pain'];
+
+luxuryTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
+
 jewelInterests = ["jewel",
     "luxury goods",
     "mobile phones gadgets",

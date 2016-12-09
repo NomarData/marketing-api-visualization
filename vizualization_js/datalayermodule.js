@@ -3,6 +3,14 @@ function SelectionDataLayer(){
     this.country_codes = [];
     this.categories = {};
     this.selected_instances = [];
+    this.selectedHealth = healthTopics[0];
+    this.selectedLuxury = luxuryTopics[0];
+    this.updateSelectedLuxury = function(luxuryInterest){
+        currentInstance.selectedLuxury = luxuryInterest;
+    }
+    this.updateSelectedHealth = function(healthInterest){
+        currentInstance.selectedHealth = healthInterest;
+    }
     this.selectDefaultCountries = function(){
         onClickCountryFunctionBy2LettersCode("AE");
         onClickCountryFunctionBy2LettersCode("DZ");
