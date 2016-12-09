@@ -8,14 +8,29 @@
     color: #404040;
 }
 .btn-luxury:hover{
-    background-color: #ffaa80;
+    background-color: #ffc2a3;
 }
 .btn-health:hover{
-    background-color: #aada84;
+    background-color: #bedaa2;
 }
 .btn-selected.btn-luxury{
     background-color: #fc8d59;
 }
 .btn-selected.btn-health{
     background-color: #91cf60;
+}
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #91cf60; /* Blue */
+    border-bottom: 16px solid #d73027;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
