@@ -5,11 +5,24 @@ function SelectionDataLayer(){
     this.selected_instances = [];
     this.selectedHealth = healthTopics[0];
     this.selectedLuxury = luxuryTopics[0];
+    this.loader = $(".loader");
+
+    this.updateDataset = function(){
+        currentInstance.loader.fadeIn();
+        fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
+            fusionAPI.setInstanceList(data.instances);
+            currentInstance.loader.fadeOut();
+            currentInstance.update();
+            // waitingDialog.hide()
+        })
+    }
     this.updateSelectedLuxury = function(luxuryInterest){
         currentInstance.selectedLuxury = luxuryInterest;
+        currentInstance.updateDataset();
     }
     this.updateSelectedHealth = function(healthInterest){
         currentInstance.selectedHealth = healthInterest;
+        currentInstance.updateDataset();
     }
     this.selectDefaultCountries = function(){
         onClickCountryFunctionBy2LettersCode("AE");

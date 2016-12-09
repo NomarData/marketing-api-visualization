@@ -1,5 +1,6 @@
 import argparse
 import pandas as pd
+import itertools
 
 NULL_VALUE = "NOTSELECTED"
 
@@ -140,6 +141,17 @@ class PandasDataset:
         print "Unique Topics"
         print self.data["analysis_name"].unique()
 
+    def generate_file_for_combination(self,combination):
+        filtered_dataframe = self.data[(self.data["interest"] == combination[0]) | (self.data["interest"] == combination[1])]
+        filtered_dataframe.to_csv("combinations/" + combination[0] + "-" + combination[1] + ".csv")
+
+    def generate_combinations_files(self):
+        print "Generating Combinations Files"
+        interest_list = self.data["interest"].unique().tolist()
+        for combination in itertools.combinations(interest_list,2):
+            print combination[0],combination[1]
+            self.generate_file_for_combination(combination)
+
     def process_data(self):
         self.list_unique_topics()
         self.delete_all_unnamed_columns()
@@ -174,6 +186,7 @@ class PandasDataset:
         self.delete_specific_key_value("age_range", "18+")
         self.check_data_integrity()
         self.compress()
+        self.generate_combinations_files()
 
     def save_file(self,filename):
         print "Saving file: {}".format(filename)
