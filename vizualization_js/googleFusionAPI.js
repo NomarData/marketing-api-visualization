@@ -77,6 +77,26 @@
             return stringQuery;
         };
 
+        this.getPromiseToUpdateDatasetBySelection = function(healthSelection, luxurySelection){
+            var defer = $.Deferred();
+            //Try to load file healthSelection first, or luxurySelection first
+            d3.csv("data/combinations/" + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {
+                if(error){
+                    d3.csv("data/combinations/" + luxurySelection  + "-" +  healthSelection + ".csv", function(error, data) {
+                        if(error){
+                            throw Error("Error loading csv : " + error);
+                        } else{
+                            defer.resolve({instances:data});
+                        }
+                    });
+                } else{
+                    defer.resolve({instances:data});
+                }
+            });
+            var promise = defer.promise();
+            return promise;
+        };
+
         this.getPromiseCurrentSelection = function(){
             var sql = currentInstance.buildSQLQueryForSelection();
             var sql_uri = encodeURIComponent(sql);
@@ -190,20 +210,20 @@
             });
         };
 
-        this.parseInstanceList = function(instances){
+        this.setInstanceList = function(instances){
             console.log("Parsing int");
             var parsedInstances = $.map(instances,function(instance){
                 instance.audience = parseInt(instance.audience);
                 return instance;
             });
-            return parsedInstances;
             console.log("Parsing done")
+            currentData = parsedInstances;
         };
 
         this.updateInstancesDataBasedOnSelection = function(){
             var promise = currentInstance.getPromiseCurrentSelection();
             promise.done(function(data){
-                currentData = currentInstance.parseInstanceList(data.instances);
+                currentInstance.setInstanceList(data.instances);
                 NODES_SELECTED.setSelectedInstances();
 
                 console.log("Building Treemaps");
