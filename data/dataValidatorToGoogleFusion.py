@@ -157,6 +157,7 @@ class PandasDataset:
         self.delete_all_unnamed_columns()
         self.delete_column("languages")
         self.convert_language_to_language_group()
+        self.delete_specific_key_value("language", "French")
         self.check_not_permitted_empty_values()
         self.replace_null_values()
         self.replace_specific_key_value("gender", 1, "Male")
