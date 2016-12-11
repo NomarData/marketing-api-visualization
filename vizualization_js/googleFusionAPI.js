@@ -223,6 +223,7 @@
         this.updateInstancesDataBasedOnSelection = function(){
             var promise = currentInstance.getPromiseCurrentSelection();
             promise.done(function(data){
+
                 currentInstance.setInstanceList(data.instances);
                 NODES_SELECTED.setSelectedInstances();
 
@@ -255,6 +256,7 @@
                     $(".countryItem").click(function(){
                         onClickCountryFunction($(this));
                     });
+
                 });
                 fusionAPI.updateInterestsAudienceList();
 
