@@ -11,7 +11,7 @@ function stackedHorizontalBar(){
         bottom: 10,
         left: 10
     };
-    this.width = 500 - this.margin.left - this.margin.right;
+    this.width = 600 - this.margin.left - this.margin.right;
     this.height = 20;
     this.x = d3.scale.linear().range([0, this.width]);
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height], .2);
