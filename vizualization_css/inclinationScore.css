@@ -1,0 +1,10 @@
+.healAwarenessScoreTitle{
+    font-weight: bold;
+}
+#inclinationScore{
+    font-weight: bold;
+    background: #3a3a3a;
+    color: rgb(109, 190, 91);
+    padding: 3px;
+    border-radius: 5px;
+}
