@@ -291,7 +291,6 @@ function TreemapManager(){
         } else{
             var selectedInstances = NODES_SELECTED.getSelectedInstances();
             var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
-
             averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.greenInclination = averageInclination.greenAudience / total;
