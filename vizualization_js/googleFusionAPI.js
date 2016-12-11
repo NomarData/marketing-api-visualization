@@ -77,7 +77,7 @@
             return stringQuery;
         };
 
-        this.getPromiseToUpdateDatasetBySelection = function(healthSelection, luxurySelection){
+        this.getPromiseToUpdateDatasetBySelection = function(luxurySelection, healthSelection){
             var defer = $.Deferred();
             //Try to load file healthSelection first, or luxurySelection first
             d3.csv("data/combinations/" + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {

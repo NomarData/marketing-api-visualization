@@ -4,7 +4,7 @@ function SelectionDataLayer(){
     this.categories = {};
     this.selected_instances = [];
     this.selectedHealth = healthTopics[0];
-    this.selectedLuxury = luxuryTopics[0];
+    this.selectedLuxury = luxuryTopics[4];
     this.loader = $(".loader");
 
     this.updateDataset = function(){

@@ -47,7 +47,44 @@ $(document).ready(function () {
 
     fusionAPI = new GoogleFusionAPI();
     fusionAPI.init();
-    fusionAPI.updateInstancesDataBasedOnSelection();
+    var promiseForDefaultState = fusionAPI.getPromiseToUpdateDatasetBySelection(NODES_SELECTED.selectedLuxury, NODES_SELECTED.selectedHealth);
+    promiseForDefaultState.done(function(data){
+        fusionAPI.setInstanceList(data.instances);
+        NODES_SELECTED.setSelectedInstances();
+
+        console.log("Building Treemaps");
+        treemapManager = new TreemapManager();
+        treemapManager.initTreemaps();
+        console.log("Treemaps builded");
+
+        console.log("Building luxuriousHealthBar");
+        luxuriousHealthBar = new stackedHorizontalBar();
+        luxuriousHealthBar.init();
+        console.log("Builded luxuriousHealthBar");
+
+        arabMap = new arabLeagueMap();
+        arabMap.init();
+
+        // selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
+        // selectedInstancesTable.init();
+        // selectedInstancesTable.updateData();
+
+        // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
+        // currentDataInstancesTable.init();
+
+        inclinationScore = new InclinationScore();
+        inclinationScore.init();
+
+        // currentDataInstancesTable.updateDataGivenInstances(currentData);
+
+        fusionAPI.updateCountriesList().done(function(){
+            $(".countryItem").click(function(){
+                onClickCountryFunction($(this));
+            });
+        });
+        fusionAPI.updateInterestsAudienceList();
+    });
+
     btnsSelectors = new BtnsTopicsSelectors();
     btnsSelectors.init();
     // NODES_SELECTED.selectDefaultCountries();
