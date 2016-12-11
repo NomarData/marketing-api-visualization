@@ -3,7 +3,7 @@ function SelectionDataLayer(){
     this.country_codes = [];
     this.categories = {};
     this.selected_instances = [];
-    this.selectedHealth = healthTopics[0];
+    this.selectedHealth = healthTopics[3];
     this.selectedLuxury = luxuryTopics[4];
     this.loader = $(".loader");
 
@@ -25,12 +25,12 @@ function SelectionDataLayer(){
         currentInstance.updateDataset();
     }
     this.selectDefaultCountries = function(){
-        onClickCountryFunctionBy2LettersCode("AE");
-        onClickCountryFunctionBy2LettersCode("DZ");
-        // for(var countryCode in countryCodeMap){
-        //     if(countryCode == "BH") continue;
-        //     onClickCountryFunctionBy2LettersCode(countryCode);
-        // }
+        // onClickCountryFunctionBy2LettersCode("AE");
+        // onClickCountryFunctionBy2LettersCode("DZ");
+        for(var countryCode in countryCodeMap){
+            if(countryCode == "BH") continue;
+            onClickCountryFunctionBy2LettersCode(countryCode);
+        }
     };
     this.getSelectedInstances = function(){
         return currentInstance.selected_instances;

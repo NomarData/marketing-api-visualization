@@ -30,17 +30,31 @@ function BtnsTopicsSelectors(){
     };
     this.init = function(){
         var luxuryBtnsContainer = $("#btnsLuxuryContainer");
+        var luxuryBtnsContainerHeader = $("#btnsLuxuryContainerHeader");
         var healthBtnsContainer = $("#btnsHealthContainer");
+        var healthBtnsContainerHeader = $("#btnsHealthContainerHeader");
+        var newBtn;
 
         for(var luxuryIndex in luxuryTopics){
             var luxuryTopic = luxuryTopics[luxuryIndex];
-            var newBtn = $("<span class='btn btn-interest btn-luxury' data-interest='" + luxuryTopic + "'>" + luxuryTopic + "</span>");
-            luxuryBtnsContainer.append(newBtn);
+            newBtn = $("<span class='btn btn-interest btn-luxury ' data-interest='" + luxuryTopic + "'>" + luxuryTopic + "</span>");
+            if(luxuryTopic == "luxury"){
+                newBtn.addClass("btn-interest-header");
+                luxuryBtnsContainerHeader.append(newBtn);
+            } else {
+                luxuryBtnsContainer.append(newBtn);
+            }
         }
         for(var healthIndex in healthTopics){
             var healthTopic = healthTopics[healthIndex];
-            var newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + healthTopic + "'>" + healthTopic + "</span>");
-            healthBtnsContainer.append(newBtn);
+            newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + healthTopic + "'>" + healthTopic + "</span>");
+            if(healthTopic == "health"){
+                newBtn.addClass("btn-interest-header");
+                healthBtnsContainerHeader.append(newBtn);
+            } else{
+                newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + healthTopic + "'>" + healthTopic + "</span>");
+                healthBtnsContainer.append(newBtn);
+            }
         }
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();
