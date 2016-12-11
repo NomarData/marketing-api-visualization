@@ -24,6 +24,7 @@ function removeValueFromArray(array,valueToRemove){
 
 $(document).ready(function () {
     // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
+    $(".loader").fadeIn();
     NODES_SELECTED = new SelectionDataLayer();
     var colors = d3.scale.category10();
     // initializeDataLayerModule();
@@ -81,6 +82,7 @@ $(document).ready(function () {
             $(".countryItem").click(function(){
                 onClickCountryFunction($(this));
             });
+            $(".loader").fadeOut();
         });
         fusionAPI.updateInterestsAudienceList();
     });
