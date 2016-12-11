@@ -106,10 +106,14 @@ function arabLeagueMap(){
 
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
-        if(!isArabCountryCode3Letters(countryCode3Letters)){
-            var hoverCountryPath = $(".datamaps-subunit." + countryCode3Letters);
-            hoverCountryPath.css("stroke-width","1");
-            hoverCountryPath.css("stroke",DEFAULT_BORDER_COLOR);
+        var hoverCountryPath = $(".datamaps-subunit." + countryCode3Letters);
+        if(isArabCountryCode3Letters(countryCode3Letters)){
+            hoverCountryPath.css("stroke-width","8px");
+            hoverCountryPath.css("stroke","rgba(140, 140, 140,0.5)");
+            hoverCountryPath.mouseout(function () {
+                hoverCountryPath.css("stroke-width","1px");
+                hoverCountryPath.css("stroke",DEFAULT_BORDER_COLOR);
+            })
         }
     };
 
@@ -130,11 +134,11 @@ function arabLeagueMap(){
 
         },
         popupOnHover: true, //disable the popup while hovering
-            highlightOnHover: true,
-            highlightFillColor: 'rgb(210, 210, 210, 1)',
-            highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
-            highlightBorderWidth: 3,
-            highlightBorderOpacity: 1,
+        highlightOnHover: false,
+        highlightFillColor: 'rgb(0, 0, 0, 0)',
+        highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
+        highlightBorderWidth: 3,
+        highlightBorderOpacity: 1,
     }
 
     this.fills = {
@@ -142,22 +146,8 @@ function arabLeagueMap(){
     };
 
     this.updateRandomColors = function(){
-        this.datamap.updateChoropleth({
-            'ZAF': getRandomGreenOrRedColor(),
-            'ZWE': getRandomGreenOrRedColor(),
-            'NGA': getRandomGreenOrRedColor(),
-            'MOZ': getRandomGreenOrRedColor(),
-            'MDG': getRandomGreenOrRedColor(),
-            'EGY': getRandomGreenOrRedColor(),
-            'TZA': getRandomGreenOrRedColor(),
-            'LBY': getRandomGreenOrRedColor(),
-            'DZA': getRandomGreenOrRedColor(),
-            'SSD': getRandomGreenOrRedColor(),
-            'SOM': getRandomGreenOrRedColor(),
-            'GIB': getRandomGreenOrRedColor(),
-            'AGO': getRandomGreenOrRedColor()
-        });
-    }
+
+    };
 
     this.data = {}
 
@@ -174,10 +164,10 @@ function arabLeagueMap(){
             data: currentInstace.data,
             done: function(datamap) {
                     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-                        // onClickCountryFunctionBy3LettersCode(geography.id);
                         var countryCode3Letters = geography.id;
                         if(isArabCountryCode3Letters(countryCode3Letters)){
-                            alert("Click disabled in the map for now, please use the list on the side.");
+                            onClickCountryFunctionBy3LettersCode(geography.id);
+                            // alert("Click disabled in the map for now, please use the list on the side.");
                         } else{
                             alert("Only arab countries supported");
                         }
@@ -193,13 +183,32 @@ function arabLeagueMap(){
         var countryItem = $(".countryItem")
     };
 
+    this.updateCountriesColor = function (dataColor){
+        var countriesPaths = $(".datamaps-subunit");
+        for(var countryCode in dataColor){
+            var countryPath = countriesPaths.filter("." + countryCode);
+            countryPath.css("fill",dataColor[countryCode]);
+        }
+    };
+
+    this.getDataField = function (dataColor) {
+        var dataField = {};
+        for(var countryCode in dataColor){
+            dataField[countryCode] = {"fillKey" : countryCode};
+        }
+        return dataField
+    };
+
 
     this.updateData = function(){
         var instances = NODES_SELECTED.getSelectedInstances();
         countriesDataDatamap.empty();
         countriesDataDatamap.addInstances(instances);
         var dataColor = countriesDataDatamap.getDataMapColor();
-        currentInstace.datamap.updateChoropleth(dataColor);
+        // currentInstace.updateCountriesColor(dataColor);
+        // var dataField = currentInstace.getDataField(dataColor);
+        // currentInstace.datamap.fills = dataColor;
+        currentInstace.datamap.updateChoropleth(dataColor,{reset:true});
     }
 
     this.giveLife = function(){
