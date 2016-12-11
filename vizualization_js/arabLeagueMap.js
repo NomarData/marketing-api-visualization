@@ -110,9 +110,11 @@ function arabLeagueMap(){
         if(isArabCountryCode3Letters(countryCode3Letters)){
             hoverCountryPath.css("stroke-width","8px");
             hoverCountryPath.css("stroke","rgba(140, 140, 140,0.5)");
+            hoverCountryPath.css("cursor","pointer");
             hoverCountryPath.mouseout(function () {
                 hoverCountryPath.css("stroke-width","1px");
                 hoverCountryPath.css("stroke",DEFAULT_BORDER_COLOR);
+                hoverCountryPath.css("cursor","");
             })
         }
     };
