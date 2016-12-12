@@ -1,6 +1,36 @@
 /**
  * Created by maraujo on 11/21/16.
  */
+mapValuesStringsTooltip = {
+    "Female" : "Female",
+    "Male" : "Male",
+    "18-24" : "18 to 24 years old",
+    "25-44" : "25 to 44 years old",
+    "45+" : "45 years old or more",
+    "HS" : "High School",
+    "ND" : "No degree",
+    "GRAD" : "Graduate",
+    "European" : "European Languages",
+    "Indian" : "Indian Languages",
+    "SE Asia" : "South East Asian Languages",
+    "Expats" : "Expats",
+    "Locals" : "Locals",
+    "citizenship" : "Citizenship",
+    "language" : "Language",
+    "scholarity" : "Scholarity",
+    "age_range" : "Age Range",
+    "gender" : "Gender",
+};
+
+function getTooltipLabel(value){
+    if(value in mapValuesStringsTooltip){
+        return mapValuesStringsTooltip[value];
+    } else{
+        return value
+    }
+}
+
+
 function checkAllDefined(...variables){
     $.map(variables,function(variable){
         if (typeof(variable)==='undefined') throw new Error("A variable is not defined at checkAllDefined");
