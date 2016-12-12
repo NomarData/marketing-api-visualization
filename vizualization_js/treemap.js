@@ -238,6 +238,9 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         d3.select("#tooltip-treemap #category-type")
             .text(getTooltipLabel(d.parent.parent.name));
 
+        d3.select("#tooltip-treemap #audience")
+            .text(currentInstance.getFormattedAudience(d.size));
+
     };
     this.mouseoutTooltip = function(d){
         d3.select("#tooltip-treemap").classed("hidden", true);
@@ -306,13 +309,17 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("dy", function(d) { return d.dy/2 + 15; })
             .text(function(d){
                 var audience = parseInt(d.size);
-                if( audience >= 1000){
-                    return numeral(audience).format('0.00a')
-                } else{
-                    return audience
-                }
+                return currentInstance.getFormattedAudience(audience);
 
             });
+    }
+
+    this.getFormattedAudience = function(audience){
+        if( audience >= 1000){
+            return numeral(audience).format('0.00a')
+        } else{
+            return audience
+        }
     }
 
     this.setZoomTextLines = function(textInstance, d){
