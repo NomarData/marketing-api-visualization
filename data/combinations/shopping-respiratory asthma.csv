@@ -2879,6 +2879,582 @@
 136966,respiratory asthma,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,100,45+
 136967,respiratory asthma,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 136968,respiratory asthma,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+209049,shopping,DZ,Locals,Male,False,French,24.0,18,ND,640000,18-24
+209051,shopping,EG,Locals,Male,False,French,24.0,18,ND,13000,18-24
+209052,shopping,IQ,Locals,Male,False,French,24.0,18,ND,2700,18-24
+209053,shopping,JO,Locals,Male,False,French,24.0,18,ND,1300,18-24
+209054,shopping,KW,Locals,Male,False,French,24.0,18,ND,130,18-24
+209055,shopping,LB,Locals,Male,False,French,24.0,18,ND,5100,18-24
+209056,shopping,LY,Locals,Male,False,French,24.0,18,ND,1900,18-24
+209057,shopping,MA,Locals,Male,False,French,24.0,18,ND,480000,18-24
+209058,shopping,OM,Locals,Male,False,French,24.0,18,ND,90,18-24
+209059,shopping,QA,Locals,Male,False,French,24.0,18,ND,300,18-24
+209060,shopping,SA,Locals,Male,False,French,24.0,18,ND,3600,18-24
+209061,shopping,SO,Locals,Male,False,French,24.0,18,ND,140,18-24
+209062,shopping,TN,Locals,Male,False,French,24.0,18,ND,260000,18-24
+209063,shopping,AE,Locals,Male,False,French,24.0,18,ND,940,18-24
+209064,shopping,YE,Locals,Male,False,French,24.0,18,ND,130,18-24
+209065,shopping,PS,Locals,Male,False,French,24.0,18,ND,310,18-24
+209066,shopping,DZ,Locals,Male,False,French,24.0,18,HS,230000,18-24
+209068,shopping,EG,Locals,Male,False,French,24.0,18,HS,77000,18-24
+209069,shopping,IQ,Locals,Male,False,French,24.0,18,HS,4100,18-24
+209070,shopping,JO,Locals,Male,False,French,24.0,18,HS,3500,18-24
+209071,shopping,KW,Locals,Male,False,French,24.0,18,HS,150,18-24
+209072,shopping,LB,Locals,Male,False,French,24.0,18,HS,9700,18-24
+209073,shopping,LY,Locals,Male,False,French,24.0,18,HS,1100,18-24
+209074,shopping,MA,Locals,Male,False,French,24.0,18,HS,250000,18-24
+209075,shopping,OM,Locals,Male,False,French,24.0,18,HS,200,18-24
+209076,shopping,QA,Locals,Male,False,French,24.0,18,HS,130,18-24
+209077,shopping,SA,Locals,Male,False,French,24.0,18,HS,1400,18-24
+209078,shopping,SO,Locals,Male,False,French,24.0,18,HS,100,18-24
+209079,shopping,TN,Locals,Male,False,French,24.0,18,HS,130000,18-24
+209080,shopping,AE,Locals,Male,False,French,24.0,18,HS,610,18-24
+209081,shopping,YE,Locals,Male,False,French,24.0,18,HS,420,18-24
+209082,shopping,PS,Locals,Male,False,French,24.0,18,HS,630,18-24
+209083,shopping,DZ,Locals,Male,False,French,24.0,18,GRAD,520000,18-24
+209085,shopping,EG,Locals,Male,False,French,24.0,18,GRAD,99000,18-24
+209086,shopping,IQ,Locals,Male,False,French,24.0,18,GRAD,3900,18-24
+209087,shopping,JO,Locals,Male,False,French,24.0,18,GRAD,4000,18-24
+209088,shopping,KW,Locals,Male,False,French,24.0,18,GRAD,320,18-24
+209089,shopping,LB,Locals,Male,False,French,24.0,18,GRAD,10000,18-24
+209090,shopping,LY,Locals,Male,False,French,24.0,18,GRAD,1700,18-24
+209091,shopping,MA,Locals,Male,False,French,24.0,18,GRAD,600000,18-24
+209092,shopping,OM,Locals,Male,False,French,24.0,18,GRAD,190,18-24
+209093,shopping,QA,Locals,Male,False,French,24.0,18,GRAD,390,18-24
+209094,shopping,SA,Locals,Male,False,French,24.0,18,GRAD,2700,18-24
+209095,shopping,SO,Locals,Male,False,French,24.0,18,GRAD,540,18-24
+209096,shopping,TN,Locals,Male,False,French,24.0,18,GRAD,250000,18-24
+209097,shopping,AE,Locals,Male,False,French,24.0,18,GRAD,1300,18-24
+209098,shopping,YE,Locals,Male,False,French,24.0,18,GRAD,360,18-24
+209099,shopping,PS,Locals,Male,False,French,24.0,18,GRAD,1000,18-24
+209151,shopping,DZ,Locals,Female,False,French,24.0,18,ND,630000,18-24
+209153,shopping,EG,Locals,Female,False,French,24.0,18,ND,13000,18-24
+209154,shopping,IQ,Locals,Female,False,French,24.0,18,ND,1300,18-24
+209155,shopping,JO,Locals,Female,False,French,24.0,18,ND,1400,18-24
+209156,shopping,KW,Locals,Female,False,French,24.0,18,ND,360,18-24
+209157,shopping,LB,Locals,Female,False,French,24.0,18,ND,6800,18-24
+209158,shopping,LY,Locals,Female,False,French,24.0,18,ND,1000,18-24
+209159,shopping,MA,Locals,Female,False,French,24.0,18,ND,430000,18-24
+209160,shopping,OM,Locals,Female,False,French,24.0,18,ND,60,18-24
+209161,shopping,QA,Locals,Female,False,French,24.0,18,ND,200,18-24
+209162,shopping,SA,Locals,Female,False,French,24.0,18,ND,3500,18-24
+209163,shopping,SO,Locals,Female,False,French,24.0,18,ND,180,18-24
+209164,shopping,TN,Locals,Female,False,French,24.0,18,ND,280000,18-24
+209165,shopping,AE,Locals,Female,False,French,24.0,18,ND,800,18-24
+209166,shopping,YE,Locals,Female,False,French,24.0,18,ND,90,18-24
+209167,shopping,PS,Locals,Female,False,French,24.0,18,ND,260,18-24
+209168,shopping,DZ,Locals,Female,False,French,24.0,18,HS,210000,18-24
+209170,shopping,EG,Locals,Female,False,French,24.0,18,HS,76000,18-24
+209171,shopping,IQ,Locals,Female,False,French,24.0,18,HS,2800,18-24
+209172,shopping,JO,Locals,Female,False,French,24.0,18,HS,3800,18-24
+209173,shopping,KW,Locals,Female,False,French,24.0,18,HS,220,18-24
+209174,shopping,LB,Locals,Female,False,French,24.0,18,HS,15000,18-24
+209175,shopping,LY,Locals,Female,False,French,24.0,18,HS,1600,18-24
+209176,shopping,MA,Locals,Female,False,French,24.0,18,HS,210000,18-24
+209177,shopping,OM,Locals,Female,False,French,24.0,18,HS,80,18-24
+209178,shopping,QA,Locals,Female,False,French,24.0,18,HS,100,18-24
+209179,shopping,SA,Locals,Female,False,French,24.0,18,HS,1600,18-24
+209180,shopping,SO,Locals,Female,False,French,24.0,18,HS,40,18-24
+209181,shopping,TN,Locals,Female,False,French,24.0,18,HS,150000,18-24
+209182,shopping,AE,Locals,Female,False,French,24.0,18,HS,640,18-24
+209183,shopping,YE,Locals,Female,False,French,24.0,18,HS,130,18-24
+209184,shopping,PS,Locals,Female,False,French,24.0,18,HS,1200,18-24
+209185,shopping,DZ,Locals,Female,False,French,24.0,18,GRAD,450000,18-24
+209187,shopping,EG,Locals,Female,False,French,24.0,18,GRAD,83000,18-24
+209188,shopping,IQ,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+209189,shopping,JO,Locals,Female,False,French,24.0,18,GRAD,3100,18-24
+209190,shopping,KW,Locals,Female,False,French,24.0,18,GRAD,190,18-24
+209191,shopping,LB,Locals,Female,False,French,24.0,18,GRAD,14000,18-24
+209192,shopping,LY,Locals,Female,False,French,24.0,18,GRAD,1700,18-24
+209193,shopping,MA,Locals,Female,False,French,24.0,18,GRAD,430000,18-24
+209194,shopping,OM,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+209195,shopping,QA,Locals,Female,False,French,24.0,18,GRAD,330,18-24
+209196,shopping,SA,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+209197,shopping,SO,Locals,Female,False,French,24.0,18,GRAD,270,18-24
+209198,shopping,TN,Locals,Female,False,French,24.0,18,GRAD,260000,18-24
+209199,shopping,AE,Locals,Female,False,French,24.0,18,GRAD,990,18-24
+209200,shopping,YE,Locals,Female,False,French,24.0,18,GRAD,160,18-24
+209201,shopping,PS,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+209355,shopping,DZ,Locals,Male,False,French,44.0,25,ND,920000,25-44
+209357,shopping,EG,Locals,Male,False,French,44.0,25,ND,8600,25-44
+209358,shopping,IQ,Locals,Male,False,French,44.0,25,ND,2000,25-44
+209359,shopping,JO,Locals,Male,False,French,44.0,25,ND,800,25-44
+209360,shopping,KW,Locals,Male,False,French,44.0,25,ND,290,25-44
+209361,shopping,LB,Locals,Male,False,French,44.0,25,ND,7700,25-44
+209362,shopping,LY,Locals,Male,False,French,44.0,25,ND,2700,25-44
+209363,shopping,MA,Locals,Male,False,French,44.0,25,ND,710000,25-44
+209364,shopping,OM,Locals,Male,False,French,44.0,25,ND,170,25-44
+209365,shopping,QA,Locals,Male,False,French,44.0,25,ND,910,25-44
+209366,shopping,SA,Locals,Male,False,French,44.0,25,ND,8400,25-44
+209367,shopping,SO,Locals,Male,False,French,44.0,25,ND,320,25-44
+209368,shopping,TN,Locals,Male,False,French,44.0,25,ND,430000,25-44
+209369,shopping,AE,Locals,Male,False,French,44.0,25,ND,2100,25-44
+209370,shopping,YE,Locals,Male,False,French,44.0,25,ND,200,25-44
+209371,shopping,PS,Locals,Male,False,French,44.0,25,ND,140,25-44
+209372,shopping,DZ,Locals,Male,False,French,44.0,25,HS,210000,25-44
+209374,shopping,EG,Locals,Male,False,French,44.0,25,HS,11000,25-44
+209375,shopping,IQ,Locals,Male,False,French,44.0,25,HS,1000,25-44
+209376,shopping,JO,Locals,Male,False,French,44.0,25,HS,950,25-44
+209377,shopping,KW,Locals,Male,False,French,44.0,25,HS,90,25-44
+209378,shopping,LB,Locals,Male,False,French,44.0,25,HS,5500,25-44
+209379,shopping,LY,Locals,Male,False,French,44.0,25,HS,780,25-44
+209380,shopping,MA,Locals,Male,False,French,44.0,25,HS,190000,25-44
+209381,shopping,OM,Locals,Male,False,French,44.0,25,HS,90,25-44
+209382,shopping,QA,Locals,Male,False,French,44.0,25,HS,440,25-44
+209383,shopping,SA,Locals,Male,False,French,44.0,25,HS,2200,25-44
+209384,shopping,SO,Locals,Male,False,French,44.0,25,HS,70,25-44
+209385,shopping,TN,Locals,Male,False,French,44.0,25,HS,150000,25-44
+209386,shopping,AE,Locals,Male,False,French,44.0,25,HS,830,25-44
+209387,shopping,YE,Locals,Male,False,French,44.0,25,HS,120,25-44
+209388,shopping,PS,Locals,Male,False,French,44.0,25,HS,180,25-44
+209389,shopping,DZ,Locals,Male,False,French,44.0,25,GRAD,800000,25-44
+209391,shopping,EG,Locals,Male,False,French,44.0,25,GRAD,79000,25-44
+209392,shopping,IQ,Locals,Male,False,French,44.0,25,GRAD,4800,25-44
+209393,shopping,JO,Locals,Male,False,French,44.0,25,GRAD,4600,25-44
+209394,shopping,KW,Locals,Male,False,French,44.0,25,GRAD,770,25-44
+209395,shopping,LB,Locals,Male,False,French,44.0,25,GRAD,23000,25-44
+209396,shopping,LY,Locals,Male,False,French,44.0,25,GRAD,2600,25-44
+209397,shopping,MA,Locals,Male,False,French,44.0,25,GRAD,720000,25-44
+209398,shopping,OM,Locals,Male,False,French,44.0,25,GRAD,730,25-44
+209399,shopping,QA,Locals,Male,False,French,44.0,25,GRAD,1500,25-44
+209400,shopping,SA,Locals,Male,False,French,44.0,25,GRAD,9400,25-44
+209401,shopping,SO,Locals,Male,False,French,44.0,25,GRAD,660,25-44
+209402,shopping,TN,Locals,Male,False,French,44.0,25,GRAD,490000,25-44
+209403,shopping,AE,Locals,Male,False,French,44.0,25,GRAD,3900,25-44
+209404,shopping,YE,Locals,Male,False,French,44.0,25,GRAD,790,25-44
+209405,shopping,PS,Locals,Male,False,French,44.0,25,GRAD,1200,25-44
+209457,shopping,DZ,Locals,Female,False,French,44.0,25,ND,550000,25-44
+209459,shopping,EG,Locals,Female,False,French,44.0,25,ND,7100,25-44
+209460,shopping,IQ,Locals,Female,False,French,44.0,25,ND,790,25-44
+209461,shopping,JO,Locals,Female,False,French,44.0,25,ND,660,25-44
+209462,shopping,KW,Locals,Female,False,French,44.0,25,ND,430,25-44
+209463,shopping,LB,Locals,Female,False,French,44.0,25,ND,14000,25-44
+209464,shopping,LY,Locals,Female,False,French,44.0,25,ND,810,25-44
+209465,shopping,MA,Locals,Female,False,French,44.0,25,ND,410000,25-44
+209466,shopping,OM,Locals,Female,False,French,44.0,25,ND,130,25-44
+209467,shopping,QA,Locals,Female,False,French,44.0,25,ND,510,25-44
+209468,shopping,SA,Locals,Female,False,French,44.0,25,ND,5900,25-44
+209469,shopping,SO,Locals,Female,False,French,44.0,25,ND,100,25-44
+209470,shopping,TN,Locals,Female,False,French,44.0,25,ND,340000,25-44
+209471,shopping,AE,Locals,Female,False,French,44.0,25,ND,1500,25-44
+209472,shopping,YE,Locals,Female,False,French,44.0,25,ND,60,25-44
+209473,shopping,PS,Locals,Female,False,French,44.0,25,ND,180,25-44
+209474,shopping,DZ,Locals,Female,False,French,44.0,25,HS,100000,25-44
+209476,shopping,EG,Locals,Female,False,French,44.0,25,HS,7600,25-44
+209477,shopping,IQ,Locals,Female,False,French,44.0,25,HS,550,25-44
+209478,shopping,JO,Locals,Female,False,French,44.0,25,HS,510,25-44
+209479,shopping,KW,Locals,Female,False,French,44.0,25,HS,110,25-44
+209480,shopping,LB,Locals,Female,False,French,44.0,25,HS,7200,25-44
+209481,shopping,LY,Locals,Female,False,French,44.0,25,HS,290,25-44
+209482,shopping,MA,Locals,Female,False,French,44.0,25,HS,110000,25-44
+209483,shopping,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+209484,shopping,QA,Locals,Female,False,French,44.0,25,HS,150,25-44
+209485,shopping,SA,Locals,Female,False,French,44.0,25,HS,1300,25-44
+209486,shopping,SO,Locals,Female,False,French,44.0,25,HS,80,25-44
+209487,shopping,TN,Locals,Female,False,French,44.0,25,HS,110000,25-44
+209488,shopping,AE,Locals,Female,False,French,44.0,25,HS,530,25-44
+209489,shopping,YE,Locals,Female,False,French,44.0,25,HS,40,25-44
+209490,shopping,PS,Locals,Female,False,French,44.0,25,HS,190,25-44
+209491,shopping,DZ,Locals,Female,False,French,44.0,25,GRAD,460000,25-44
+209493,shopping,EG,Locals,Female,False,French,44.0,25,GRAD,58000,25-44
+209494,shopping,IQ,Locals,Female,False,French,44.0,25,GRAD,2300,25-44
+209495,shopping,JO,Locals,Female,False,French,44.0,25,GRAD,3600,25-44
+209496,shopping,KW,Locals,Female,False,French,44.0,25,GRAD,590,25-44
+209497,shopping,LB,Locals,Female,False,French,44.0,25,GRAD,32000,25-44
+209498,shopping,LY,Locals,Female,False,French,44.0,25,GRAD,1300,25-44
+209499,shopping,MA,Locals,Female,False,French,44.0,25,GRAD,380000,25-44
+209500,shopping,OM,Locals,Female,False,French,44.0,25,GRAD,300,25-44
+209501,shopping,QA,Locals,Female,False,French,44.0,25,GRAD,1100,25-44
+209502,shopping,SA,Locals,Female,False,French,44.0,25,GRAD,5000,25-44
+209503,shopping,SO,Locals,Female,False,French,44.0,25,GRAD,140,25-44
+209504,shopping,TN,Locals,Female,False,French,44.0,25,GRAD,410000,25-44
+209505,shopping,AE,Locals,Female,False,French,44.0,25,GRAD,2400,25-44
+209506,shopping,YE,Locals,Female,False,French,44.0,25,GRAD,220,25-44
+209507,shopping,PS,Locals,Female,False,French,44.0,25,GRAD,1200,25-44
+209661,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,160000,45+
+209663,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,ND,2000,45+
+209664,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,240,45+
+209665,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,ND,170,45+
+209666,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,ND,50,45+
+209667,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,ND,5700,45+
+209668,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,ND,350,45+
+209669,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,ND,170000,45+
+209670,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+209671,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,ND,150,45+
+209672,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,ND,1900,45+
+209673,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+209674,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,ND,110000,45+
+209675,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,ND,360,45+
+209676,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+209677,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+209678,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,36000,45+
+209680,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,HS,1200,45+
+209681,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,80,45+
+209682,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+209683,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209684,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,HS,1800,45+
+209685,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+209686,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,HS,38000,45+
+209687,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+209688,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209689,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,HS,360,45+
+209690,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209691,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,HS,42000,45+
+209692,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,HS,120,45+
+209693,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209694,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209695,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,99000,45+
+209697,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,7100,45+
+209698,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,570,45+
+209699,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,560,45+
+209700,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,150,45+
+209701,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,8300,45+
+209702,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,440,45+
+209703,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,120000,45+
+209704,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+209705,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,170,45+
+209706,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,1200,45+
+209707,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+209708,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,100000,45+
+209709,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,340,45+
+209710,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+209711,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+209763,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,88000,45+
+209765,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,ND,2300,45+
+209766,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+209767,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+209768,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+209769,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,ND,14000,45+
+209770,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,ND,180,45+
+209771,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,ND,91000,45+
+209772,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209773,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,ND,100,45+
+209774,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,ND,850,45+
+209775,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209776,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,ND,83000,45+
+209777,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,ND,280,45+
+209778,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209779,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,ND,40,45+
+209780,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,18000,45+
+209782,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,HS,1300,45+
+209783,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209784,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,HS,100,45+
+209785,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+209786,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,HS,3300,45+
+209787,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,HS,60,45+
+209788,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,HS,20000,45+
+209789,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209790,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,HS,40,45+
+209791,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,HS,130,45+
+209792,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209793,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,HS,29000,45+
+209794,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,HS,120,45+
+209795,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209796,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209797,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,44000,45+
+209799,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,7500,45+
+209800,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,210,45+
+209801,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,340,45+
+209802,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+209803,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,11000,45+
+209804,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+209805,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,49000,45+
+209806,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+209807,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+209808,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,480,45+
+209809,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209810,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,52000,45+
+209811,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+209812,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209813,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+213639,respiratory asthma,DZ,Locals,Male,False,French,24.0,18,ND,1600,18-24
+213641,respiratory asthma,EG,Locals,Male,False,French,24.0,18,ND,100,18-24
+213642,respiratory asthma,IQ,Locals,Male,False,French,24.0,18,ND,0,18-24
+213643,respiratory asthma,JO,Locals,Male,False,French,24.0,18,ND,0,18-24
+213644,respiratory asthma,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+213645,respiratory asthma,LB,Locals,Male,False,French,24.0,18,ND,0,18-24
+213646,respiratory asthma,LY,Locals,Male,False,French,24.0,18,ND,0,18-24
+213647,respiratory asthma,MA,Locals,Male,False,French,24.0,18,ND,2100,18-24
+213648,respiratory asthma,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+213649,respiratory asthma,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+213650,respiratory asthma,SA,Locals,Male,False,French,24.0,18,ND,0,18-24
+213651,respiratory asthma,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+213652,respiratory asthma,TN,Locals,Male,False,French,24.0,18,ND,2900,18-24
+213653,respiratory asthma,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+213654,respiratory asthma,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+213655,respiratory asthma,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+213656,respiratory asthma,DZ,Locals,Male,False,French,24.0,18,HS,1400,18-24
+213658,respiratory asthma,EG,Locals,Male,False,French,24.0,18,HS,1000,18-24
+213659,respiratory asthma,IQ,Locals,Male,False,French,24.0,18,HS,210,18-24
+213660,respiratory asthma,JO,Locals,Male,False,French,24.0,18,HS,40,18-24
+213661,respiratory asthma,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+213662,respiratory asthma,LB,Locals,Male,False,French,24.0,18,HS,90,18-24
+213663,respiratory asthma,LY,Locals,Male,False,French,24.0,18,HS,0,18-24
+213664,respiratory asthma,MA,Locals,Male,False,French,24.0,18,HS,1900,18-24
+213665,respiratory asthma,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+213666,respiratory asthma,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+213667,respiratory asthma,SA,Locals,Male,False,French,24.0,18,HS,0,18-24
+213668,respiratory asthma,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+213669,respiratory asthma,TN,Locals,Male,False,French,24.0,18,HS,2000,18-24
+213670,respiratory asthma,AE,Locals,Male,False,French,24.0,18,HS,0,18-24
+213671,respiratory asthma,YE,Locals,Male,False,French,24.0,18,HS,0,18-24
+213672,respiratory asthma,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+213673,respiratory asthma,DZ,Locals,Male,False,French,24.0,18,GRAD,2500,18-24
+213675,respiratory asthma,EG,Locals,Male,False,French,24.0,18,GRAD,1100,18-24
+213676,respiratory asthma,IQ,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+213677,respiratory asthma,JO,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+213678,respiratory asthma,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213679,respiratory asthma,LB,Locals,Male,False,French,24.0,18,GRAD,50,18-24
+213680,respiratory asthma,LY,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213681,respiratory asthma,MA,Locals,Male,False,French,24.0,18,GRAD,4900,18-24
+213682,respiratory asthma,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213683,respiratory asthma,QA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213684,respiratory asthma,SA,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+213685,respiratory asthma,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213686,respiratory asthma,TN,Locals,Male,False,French,24.0,18,GRAD,3700,18-24
+213687,respiratory asthma,AE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213688,respiratory asthma,YE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213689,respiratory asthma,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+213741,respiratory asthma,DZ,Locals,Female,False,French,24.0,18,ND,1100,18-24
+213743,respiratory asthma,EG,Locals,Female,False,French,24.0,18,ND,110,18-24
+213744,respiratory asthma,IQ,Locals,Female,False,French,24.0,18,ND,0,18-24
+213745,respiratory asthma,JO,Locals,Female,False,French,24.0,18,ND,0,18-24
+213746,respiratory asthma,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+213747,respiratory asthma,LB,Locals,Female,False,French,24.0,18,ND,0,18-24
+213748,respiratory asthma,LY,Locals,Female,False,French,24.0,18,ND,0,18-24
+213749,respiratory asthma,MA,Locals,Female,False,French,24.0,18,ND,1400,18-24
+213750,respiratory asthma,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+213751,respiratory asthma,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+213752,respiratory asthma,SA,Locals,Female,False,French,24.0,18,ND,0,18-24
+213753,respiratory asthma,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+213754,respiratory asthma,TN,Locals,Female,False,French,24.0,18,ND,3700,18-24
+213755,respiratory asthma,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+213756,respiratory asthma,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+213757,respiratory asthma,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+213758,respiratory asthma,DZ,Locals,Female,False,French,24.0,18,HS,870,18-24
+213760,respiratory asthma,EG,Locals,Female,False,French,24.0,18,HS,1100,18-24
+213761,respiratory asthma,IQ,Locals,Female,False,French,24.0,18,HS,50,18-24
+213762,respiratory asthma,JO,Locals,Female,False,French,24.0,18,HS,0,18-24
+213763,respiratory asthma,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+213764,respiratory asthma,LB,Locals,Female,False,French,24.0,18,HS,130,18-24
+213765,respiratory asthma,LY,Locals,Female,False,French,24.0,18,HS,0,18-24
+213766,respiratory asthma,MA,Locals,Female,False,French,24.0,18,HS,1000,18-24
+213767,respiratory asthma,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+213768,respiratory asthma,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+213769,respiratory asthma,SA,Locals,Female,False,French,24.0,18,HS,0,18-24
+213770,respiratory asthma,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+213771,respiratory asthma,TN,Locals,Female,False,French,24.0,18,HS,2500,18-24
+213772,respiratory asthma,AE,Locals,Female,False,French,24.0,18,HS,0,18-24
+213773,respiratory asthma,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+213774,respiratory asthma,PS,Locals,Female,False,French,24.0,18,HS,0,18-24
+213775,respiratory asthma,DZ,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+213777,respiratory asthma,EG,Locals,Female,False,French,24.0,18,GRAD,850,18-24
+213778,respiratory asthma,IQ,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213779,respiratory asthma,JO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213780,respiratory asthma,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213781,respiratory asthma,LB,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+213782,respiratory asthma,LY,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213783,respiratory asthma,MA,Locals,Female,False,French,24.0,18,GRAD,2600,18-24
+213784,respiratory asthma,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213785,respiratory asthma,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213786,respiratory asthma,SA,Locals,Female,False,French,24.0,18,GRAD,30,18-24
+213787,respiratory asthma,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213788,respiratory asthma,TN,Locals,Female,False,French,24.0,18,GRAD,4900,18-24
+213789,respiratory asthma,AE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213790,respiratory asthma,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213791,respiratory asthma,PS,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+213945,respiratory asthma,DZ,Locals,Male,False,French,44.0,25,ND,4900,25-44
+213947,respiratory asthma,EG,Locals,Male,False,French,44.0,25,ND,50,25-44
+213948,respiratory asthma,IQ,Locals,Male,False,French,44.0,25,ND,40,25-44
+213949,respiratory asthma,JO,Locals,Male,False,French,44.0,25,ND,0,25-44
+213950,respiratory asthma,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+213951,respiratory asthma,LB,Locals,Male,False,French,44.0,25,ND,0,25-44
+213952,respiratory asthma,LY,Locals,Male,False,French,44.0,25,ND,30,25-44
+213953,respiratory asthma,MA,Locals,Male,False,French,44.0,25,ND,4000,25-44
+213954,respiratory asthma,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+213955,respiratory asthma,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+213956,respiratory asthma,SA,Locals,Male,False,French,44.0,25,ND,100,25-44
+213957,respiratory asthma,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+213958,respiratory asthma,TN,Locals,Male,False,French,44.0,25,ND,5900,25-44
+213959,respiratory asthma,AE,Locals,Male,False,French,44.0,25,ND,30,25-44
+213960,respiratory asthma,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+213961,respiratory asthma,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+213962,respiratory asthma,DZ,Locals,Male,False,French,44.0,25,HS,1600,25-44
+213964,respiratory asthma,EG,Locals,Male,False,French,44.0,25,HS,170,25-44
+213965,respiratory asthma,IQ,Locals,Male,False,French,44.0,25,HS,0,25-44
+213966,respiratory asthma,JO,Locals,Male,False,French,44.0,25,HS,0,25-44
+213967,respiratory asthma,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+213968,respiratory asthma,LB,Locals,Male,False,French,44.0,25,HS,0,25-44
+213969,respiratory asthma,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+213970,respiratory asthma,MA,Locals,Male,False,French,44.0,25,HS,1700,25-44
+213971,respiratory asthma,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+213972,respiratory asthma,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+213973,respiratory asthma,SA,Locals,Male,False,French,44.0,25,HS,0,25-44
+213974,respiratory asthma,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+213975,respiratory asthma,TN,Locals,Male,False,French,44.0,25,HS,2700,25-44
+213976,respiratory asthma,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+213977,respiratory asthma,YE,Locals,Male,False,French,44.0,25,HS,0,25-44
+213978,respiratory asthma,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+213979,respiratory asthma,DZ,Locals,Male,False,French,44.0,25,GRAD,6900,25-44
+213981,respiratory asthma,EG,Locals,Male,False,French,44.0,25,GRAD,790,25-44
+213982,respiratory asthma,IQ,Locals,Male,False,French,44.0,25,GRAD,40,25-44
+213983,respiratory asthma,JO,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+213984,respiratory asthma,KW,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213985,respiratory asthma,LB,Locals,Male,False,French,44.0,25,GRAD,150,25-44
+213986,respiratory asthma,LY,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213987,respiratory asthma,MA,Locals,Male,False,French,44.0,25,GRAD,6200,25-44
+213988,respiratory asthma,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213989,respiratory asthma,QA,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213990,respiratory asthma,SA,Locals,Male,False,French,44.0,25,GRAD,170,25-44
+213991,respiratory asthma,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213992,respiratory asthma,TN,Locals,Male,False,French,44.0,25,GRAD,8500,25-44
+213993,respiratory asthma,AE,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213994,respiratory asthma,YE,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213995,respiratory asthma,PS,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214047,respiratory asthma,DZ,Locals,Female,False,French,44.0,25,ND,2000,25-44
+214049,respiratory asthma,EG,Locals,Female,False,French,44.0,25,ND,0,25-44
+214050,respiratory asthma,IQ,Locals,Female,False,French,44.0,25,ND,0,25-44
+214051,respiratory asthma,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+214052,respiratory asthma,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+214053,respiratory asthma,LB,Locals,Female,False,French,44.0,25,ND,50,25-44
+214054,respiratory asthma,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+214055,respiratory asthma,MA,Locals,Female,False,French,44.0,25,ND,2000,25-44
+214056,respiratory asthma,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+214057,respiratory asthma,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+214058,respiratory asthma,SA,Locals,Female,False,French,44.0,25,ND,50,25-44
+214059,respiratory asthma,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+214060,respiratory asthma,TN,Locals,Female,False,French,44.0,25,ND,6100,25-44
+214061,respiratory asthma,AE,Locals,Female,False,French,44.0,25,ND,0,25-44
+214062,respiratory asthma,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+214063,respiratory asthma,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+214064,respiratory asthma,DZ,Locals,Female,False,French,44.0,25,HS,530,25-44
+214066,respiratory asthma,EG,Locals,Female,False,French,44.0,25,HS,90,25-44
+214067,respiratory asthma,IQ,Locals,Female,False,French,44.0,25,HS,0,25-44
+214068,respiratory asthma,JO,Locals,Female,False,French,44.0,25,HS,0,25-44
+214069,respiratory asthma,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+214070,respiratory asthma,LB,Locals,Female,False,French,44.0,25,HS,30,25-44
+214071,respiratory asthma,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+214072,respiratory asthma,MA,Locals,Female,False,French,44.0,25,HS,730,25-44
+214073,respiratory asthma,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+214074,respiratory asthma,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+214075,respiratory asthma,SA,Locals,Female,False,French,44.0,25,HS,0,25-44
+214076,respiratory asthma,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+214077,respiratory asthma,TN,Locals,Female,False,French,44.0,25,HS,2700,25-44
+214078,respiratory asthma,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+214079,respiratory asthma,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+214080,respiratory asthma,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+214081,respiratory asthma,DZ,Locals,Female,False,French,44.0,25,GRAD,2400,25-44
+214083,respiratory asthma,EG,Locals,Female,False,French,44.0,25,GRAD,780,25-44
+214084,respiratory asthma,IQ,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214085,respiratory asthma,JO,Locals,Female,False,French,44.0,25,GRAD,40,25-44
+214086,respiratory asthma,KW,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214087,respiratory asthma,LB,Locals,Female,False,French,44.0,25,GRAD,190,25-44
+214088,respiratory asthma,LY,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214089,respiratory asthma,MA,Locals,Female,False,French,44.0,25,GRAD,2700,25-44
+214090,respiratory asthma,OM,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214091,respiratory asthma,QA,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+214092,respiratory asthma,SA,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214093,respiratory asthma,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214094,respiratory asthma,TN,Locals,Female,False,French,44.0,25,GRAD,9100,25-44
+214095,respiratory asthma,AE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214096,respiratory asthma,YE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214097,respiratory asthma,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+214251,respiratory asthma,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,770,45+
+214253,respiratory asthma,EG,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214254,respiratory asthma,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214255,respiratory asthma,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214256,respiratory asthma,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214257,respiratory asthma,LB,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+214258,respiratory asthma,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214259,respiratory asthma,MA,Locals,Male,False,French,NOTSELECTED,45,ND,990,45+
+214260,respiratory asthma,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214261,respiratory asthma,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214262,respiratory asthma,SA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214263,respiratory asthma,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214264,respiratory asthma,TN,Locals,Male,False,French,NOTSELECTED,45,ND,1700,45+
+214265,respiratory asthma,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214266,respiratory asthma,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214267,respiratory asthma,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+214268,respiratory asthma,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,200,45+
+214270,respiratory asthma,EG,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214271,respiratory asthma,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214272,respiratory asthma,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214273,respiratory asthma,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214274,respiratory asthma,LB,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214275,respiratory asthma,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214276,respiratory asthma,MA,Locals,Male,False,French,NOTSELECTED,45,HS,400,45+
+214277,respiratory asthma,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214278,respiratory asthma,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214279,respiratory asthma,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214280,respiratory asthma,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214281,respiratory asthma,TN,Locals,Male,False,French,NOTSELECTED,45,HS,790,45+
+214282,respiratory asthma,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214283,respiratory asthma,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214284,respiratory asthma,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+214285,respiratory asthma,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,730,45+
+214287,respiratory asthma,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+214288,respiratory asthma,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214289,respiratory asthma,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214290,respiratory asthma,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214291,respiratory asthma,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+214292,respiratory asthma,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214293,respiratory asthma,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,940,45+
+214294,respiratory asthma,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214295,respiratory asthma,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214296,respiratory asthma,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214297,respiratory asthma,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214298,respiratory asthma,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,1800,45+
+214299,respiratory asthma,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214300,respiratory asthma,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214301,respiratory asthma,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214353,respiratory asthma,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,440,45+
+214355,respiratory asthma,EG,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214356,respiratory asthma,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214357,respiratory asthma,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214358,respiratory asthma,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214359,respiratory asthma,LB,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+214360,respiratory asthma,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214361,respiratory asthma,MA,Locals,Female,False,French,NOTSELECTED,45,ND,610,45+
+214362,respiratory asthma,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214363,respiratory asthma,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214364,respiratory asthma,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214365,respiratory asthma,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214366,respiratory asthma,TN,Locals,Female,False,French,NOTSELECTED,45,ND,1800,45+
+214367,respiratory asthma,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214368,respiratory asthma,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214369,respiratory asthma,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+214370,respiratory asthma,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,100,45+
+214372,respiratory asthma,EG,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214373,respiratory asthma,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214374,respiratory asthma,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214375,respiratory asthma,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214376,respiratory asthma,LB,Locals,Female,False,French,NOTSELECTED,45,HS,50,45+
+214377,respiratory asthma,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214378,respiratory asthma,MA,Locals,Female,False,French,NOTSELECTED,45,HS,170,45+
+214379,respiratory asthma,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214380,respiratory asthma,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214381,respiratory asthma,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214382,respiratory asthma,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214383,respiratory asthma,TN,Locals,Female,False,French,NOTSELECTED,45,HS,660,45+
+214384,respiratory asthma,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214385,respiratory asthma,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214386,respiratory asthma,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+214387,respiratory asthma,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,380,45+
+214389,respiratory asthma,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+214390,respiratory asthma,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214391,respiratory asthma,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214392,respiratory asthma,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214393,respiratory asthma,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+214394,respiratory asthma,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214395,respiratory asthma,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,480,45+
+214396,respiratory asthma,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214397,respiratory asthma,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214398,respiratory asthma,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214399,respiratory asthma,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214400,respiratory asthma,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,1100,45+
+214401,respiratory asthma,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214402,respiratory asthma,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214403,respiratory asthma,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
 81600,shopping,DZ,Expats,Male,False,Arabic,24.0,18,ND,550000,18-24
 81602,shopping,EG,Expats,Male,False,Arabic,24.0,18,ND,1050000,18-24
 81603,shopping,IQ,Expats,Male,False,Arabic,24.0,18,ND,650000,18-24
@@ -5759,3 +6335,579 @@
 136558,respiratory asthma,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,440,45+
 136559,respiratory asthma,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 136560,respiratory asthma,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+208998,shopping,DZ,Expats,Male,False,French,24.0,18,ND,350000,18-24
+209000,shopping,EG,Expats,Male,False,French,24.0,18,ND,7500,18-24
+209001,shopping,IQ,Expats,Male,False,French,24.0,18,ND,1500,18-24
+209002,shopping,JO,Expats,Male,False,French,24.0,18,ND,900,18-24
+209003,shopping,KW,Expats,Male,False,French,24.0,18,ND,360,18-24
+209004,shopping,LB,Expats,Male,False,French,24.0,18,ND,2850,18-24
+209005,shopping,LY,Expats,Male,False,French,24.0,18,ND,2900,18-24
+209006,shopping,MA,Expats,Male,False,French,24.0,18,ND,250000,18-24
+209007,shopping,OM,Expats,Male,False,French,24.0,18,ND,160,18-24
+209008,shopping,QA,Expats,Male,False,French,24.0,18,ND,850,18-24
+209009,shopping,SA,Expats,Male,False,French,24.0,18,ND,2250,18-24
+209010,shopping,SO,Expats,Male,False,French,24.0,18,ND,110,18-24
+209011,shopping,TN,Expats,Male,False,French,24.0,18,ND,140000,18-24
+209012,shopping,AE,Expats,Male,False,French,24.0,18,ND,1750,18-24
+209013,shopping,YE,Expats,Male,False,French,24.0,18,ND,90,18-24
+209014,shopping,PS,Expats,Male,False,French,24.0,18,ND,225,18-24
+209015,shopping,DZ,Expats,Male,False,French,24.0,18,HS,135000,18-24
+209017,shopping,EG,Expats,Male,False,French,24.0,18,HS,41000,18-24
+209018,shopping,IQ,Expats,Male,False,French,24.0,18,HS,2300,18-24
+209019,shopping,JO,Expats,Male,False,French,24.0,18,HS,2450,18-24
+209020,shopping,KW,Expats,Male,False,French,24.0,18,HS,280,18-24
+209021,shopping,LB,Expats,Male,False,French,24.0,18,HS,5500,18-24
+209022,shopping,LY,Expats,Male,False,French,24.0,18,HS,850,18-24
+209023,shopping,MA,Expats,Male,False,French,24.0,18,HS,140000,18-24
+209024,shopping,OM,Expats,Male,False,French,24.0,18,HS,225,18-24
+209025,shopping,QA,Expats,Male,False,French,24.0,18,HS,550,18-24
+209026,shopping,SA,Expats,Male,False,French,24.0,18,HS,1650,18-24
+209027,shopping,SO,Expats,Male,False,French,24.0,18,HS,125,18-24
+209028,shopping,TN,Expats,Male,False,French,24.0,18,HS,75000,18-24
+209029,shopping,AE,Expats,Male,False,French,24.0,18,HS,1950,18-24
+209030,shopping,YE,Expats,Male,False,French,24.0,18,HS,250,18-24
+209031,shopping,PS,Expats,Male,False,French,24.0,18,HS,430,18-24
+209032,shopping,DZ,Expats,Male,False,French,24.0,18,GRAD,320000,18-24
+209034,shopping,EG,Expats,Male,False,French,24.0,18,GRAD,50000,18-24
+209035,shopping,IQ,Expats,Male,False,French,24.0,18,GRAD,2250,18-24
+209036,shopping,JO,Expats,Male,False,French,24.0,18,GRAD,2750,18-24
+209037,shopping,KW,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+209038,shopping,LB,Expats,Male,False,French,24.0,18,GRAD,6000,18-24
+209039,shopping,LY,Expats,Male,False,French,24.0,18,GRAD,1800,18-24
+209040,shopping,MA,Expats,Male,False,French,24.0,18,GRAD,345000,18-24
+209041,shopping,OM,Expats,Male,False,French,24.0,18,GRAD,345,18-24
+209042,shopping,QA,Expats,Male,False,French,24.0,18,GRAD,1150,18-24
+209043,shopping,SA,Expats,Male,False,French,24.0,18,GRAD,3100,18-24
+209044,shopping,SO,Expats,Male,False,French,24.0,18,GRAD,500,18-24
+209045,shopping,TN,Expats,Male,False,French,24.0,18,GRAD,150000,18-24
+209046,shopping,AE,Expats,Male,False,French,24.0,18,GRAD,3850,18-24
+209047,shopping,YE,Expats,Male,False,French,24.0,18,GRAD,285,18-24
+209048,shopping,PS,Expats,Male,False,French,24.0,18,GRAD,800,18-24
+209100,shopping,DZ,Expats,Female,False,French,24.0,18,ND,335000,18-24
+209102,shopping,EG,Expats,Female,False,French,24.0,18,ND,7500,18-24
+209103,shopping,IQ,Expats,Female,False,French,24.0,18,ND,800,18-24
+209104,shopping,JO,Expats,Female,False,French,24.0,18,ND,1050,18-24
+209105,shopping,KW,Expats,Female,False,French,24.0,18,ND,650,18-24
+209106,shopping,LB,Expats,Female,False,French,24.0,18,ND,4100,18-24
+209107,shopping,LY,Expats,Female,False,French,24.0,18,ND,750,18-24
+209108,shopping,MA,Expats,Female,False,French,24.0,18,ND,225000,18-24
+209109,shopping,OM,Expats,Female,False,French,24.0,18,ND,135,18-24
+209110,shopping,QA,Expats,Female,False,French,24.0,18,ND,350,18-24
+209111,shopping,SA,Expats,Female,False,French,24.0,18,ND,2250,18-24
+209112,shopping,SO,Expats,Female,False,French,24.0,18,ND,120,18-24
+209113,shopping,TN,Expats,Female,False,French,24.0,18,ND,150000,18-24
+209114,shopping,AE,Expats,Female,False,French,24.0,18,ND,1650,18-24
+209115,shopping,YE,Expats,Female,False,French,24.0,18,ND,85,18-24
+209116,shopping,PS,Expats,Female,False,French,24.0,18,ND,180,18-24
+209117,shopping,DZ,Expats,Female,False,French,24.0,18,HS,115000,18-24
+209119,shopping,EG,Expats,Female,False,French,24.0,18,HS,40000,18-24
+209120,shopping,IQ,Expats,Female,False,French,24.0,18,HS,1550,18-24
+209121,shopping,JO,Expats,Female,False,French,24.0,18,HS,2800,18-24
+209122,shopping,KW,Expats,Female,False,French,24.0,18,HS,405,18-24
+209123,shopping,LB,Expats,Female,False,French,24.0,18,HS,8000,18-24
+209124,shopping,LY,Expats,Female,False,French,24.0,18,HS,900,18-24
+209125,shopping,MA,Expats,Female,False,French,24.0,18,HS,115000,18-24
+209126,shopping,OM,Expats,Female,False,French,24.0,18,HS,160,18-24
+209127,shopping,QA,Expats,Female,False,French,24.0,18,HS,365,18-24
+209128,shopping,SA,Expats,Female,False,French,24.0,18,HS,1600,18-24
+209129,shopping,SO,Expats,Female,False,French,24.0,18,HS,50,18-24
+209130,shopping,TN,Expats,Female,False,French,24.0,18,HS,80000,18-24
+209131,shopping,AE,Expats,Female,False,French,24.0,18,HS,2150,18-24
+209132,shopping,YE,Expats,Female,False,French,24.0,18,HS,95,18-24
+209133,shopping,PS,Expats,Female,False,French,24.0,18,HS,800,18-24
+209134,shopping,DZ,Expats,Female,False,French,24.0,18,GRAD,245000,18-24
+209136,shopping,EG,Expats,Female,False,French,24.0,18,GRAD,43500,18-24
+209137,shopping,IQ,Expats,Female,False,French,24.0,18,GRAD,1100,18-24
+209138,shopping,JO,Expats,Female,False,French,24.0,18,GRAD,2350,18-24
+209139,shopping,KW,Expats,Female,False,French,24.0,18,GRAD,455,18-24
+209140,shopping,LB,Expats,Female,False,French,24.0,18,GRAD,8000,18-24
+209141,shopping,LY,Expats,Female,False,French,24.0,18,GRAD,1050,18-24
+209142,shopping,MA,Expats,Female,False,French,24.0,18,GRAD,230000,18-24
+209143,shopping,OM,Expats,Female,False,French,24.0,18,GRAD,110,18-24
+209144,shopping,QA,Expats,Female,False,French,24.0,18,GRAD,700,18-24
+209145,shopping,SA,Expats,Female,False,French,24.0,18,GRAD,1950,18-24
+209146,shopping,SO,Expats,Female,False,French,24.0,18,GRAD,210,18-24
+209147,shopping,TN,Expats,Female,False,French,24.0,18,GRAD,140000,18-24
+209148,shopping,AE,Expats,Female,False,French,24.0,18,GRAD,3100,18-24
+209149,shopping,YE,Expats,Female,False,French,24.0,18,GRAD,120,18-24
+209150,shopping,PS,Expats,Female,False,French,24.0,18,GRAD,850,18-24
+209304,shopping,DZ,Expats,Male,False,French,44.0,25,ND,500000,25-44
+209306,shopping,EG,Expats,Male,False,French,44.0,25,ND,5000,25-44
+209307,shopping,IQ,Expats,Male,False,French,44.0,25,ND,1200,25-44
+209308,shopping,JO,Expats,Male,False,French,44.0,25,ND,650,25-44
+209309,shopping,KW,Expats,Male,False,French,44.0,25,ND,850,25-44
+209310,shopping,LB,Expats,Male,False,French,44.0,25,ND,4550,25-44
+209311,shopping,LY,Expats,Male,False,French,44.0,25,ND,4750,25-44
+209312,shopping,MA,Expats,Male,False,French,44.0,25,ND,375000,25-44
+209313,shopping,OM,Expats,Male,False,French,44.0,25,ND,450,25-44
+209314,shopping,QA,Expats,Male,False,French,44.0,25,ND,2850,25-44
+209315,shopping,SA,Expats,Male,False,French,44.0,25,ND,5500,25-44
+209316,shopping,SO,Expats,Male,False,French,44.0,25,ND,390,25-44
+209317,shopping,TN,Expats,Male,False,French,44.0,25,ND,235000,25-44
+209318,shopping,AE,Expats,Male,False,French,44.0,25,ND,5500,25-44
+209319,shopping,YE,Expats,Male,False,French,44.0,25,ND,110,25-44
+209320,shopping,PS,Expats,Male,False,French,44.0,25,ND,115,25-44
+209321,shopping,DZ,Expats,Male,False,French,44.0,25,HS,115000,25-44
+209323,shopping,EG,Expats,Male,False,French,44.0,25,HS,6500,25-44
+209324,shopping,IQ,Expats,Male,False,French,44.0,25,HS,700,25-44
+209325,shopping,JO,Expats,Male,False,French,44.0,25,HS,700,25-44
+209326,shopping,KW,Expats,Male,False,French,44.0,25,HS,445,25-44
+209327,shopping,LB,Expats,Male,False,French,44.0,25,HS,3150,25-44
+209328,shopping,LY,Expats,Male,False,French,44.0,25,HS,1100,25-44
+209329,shopping,MA,Expats,Male,False,French,44.0,25,HS,105000,25-44
+209330,shopping,OM,Expats,Male,False,French,44.0,25,HS,260,25-44
+209331,shopping,QA,Expats,Male,False,French,44.0,25,HS,1450,25-44
+209332,shopping,SA,Expats,Male,False,French,44.0,25,HS,2700,25-44
+209333,shopping,SO,Expats,Male,False,French,44.0,25,HS,85,25-44
+209334,shopping,TN,Expats,Male,False,French,44.0,25,HS,80000,25-44
+209335,shopping,AE,Expats,Male,False,French,44.0,25,HS,3350,25-44
+209336,shopping,YE,Expats,Male,False,French,44.0,25,HS,125,25-44
+209337,shopping,PS,Expats,Male,False,French,44.0,25,HS,135,25-44
+209338,shopping,DZ,Expats,Male,False,French,44.0,25,GRAD,455000,25-44
+209340,shopping,EG,Expats,Male,False,French,44.0,25,GRAD,44000,25-44
+209341,shopping,IQ,Expats,Male,False,French,44.0,25,GRAD,2950,25-44
+209342,shopping,JO,Expats,Male,False,French,44.0,25,GRAD,3300,25-44
+209343,shopping,KW,Expats,Male,False,French,44.0,25,GRAD,2500,25-44
+209344,shopping,LB,Expats,Male,False,French,44.0,25,GRAD,13000,25-44
+209345,shopping,LY,Expats,Male,False,French,44.0,25,GRAD,3750,25-44
+209346,shopping,MA,Expats,Male,False,French,44.0,25,GRAD,405000,25-44
+209347,shopping,OM,Expats,Male,False,French,44.0,25,GRAD,1600,25-44
+209348,shopping,QA,Expats,Male,False,French,44.0,25,GRAD,6500,25-44
+209349,shopping,SA,Expats,Male,False,French,44.0,25,GRAD,15500,25-44
+209350,shopping,SO,Expats,Male,False,French,44.0,25,GRAD,700,25-44
+209351,shopping,TN,Expats,Male,False,French,44.0,25,GRAD,265000,25-44
+209352,shopping,AE,Expats,Male,False,French,44.0,25,GRAD,18000,25-44
+209353,shopping,YE,Expats,Male,False,French,44.0,25,GRAD,550,25-44
+209354,shopping,PS,Expats,Male,False,French,44.0,25,GRAD,950,25-44
+209406,shopping,DZ,Expats,Female,False,French,44.0,25,ND,295000,25-44
+209408,shopping,EG,Expats,Female,False,French,44.0,25,ND,4600,25-44
+209409,shopping,IQ,Expats,Female,False,French,44.0,25,ND,550,25-44
+209410,shopping,JO,Expats,Female,False,French,44.0,25,ND,600,25-44
+209411,shopping,KW,Expats,Female,False,French,44.0,25,ND,1050,25-44
+209412,shopping,LB,Expats,Female,False,French,44.0,25,ND,8500,25-44
+209413,shopping,LY,Expats,Female,False,French,44.0,25,ND,900,25-44
+209414,shopping,MA,Expats,Female,False,French,44.0,25,ND,220000,25-44
+209415,shopping,OM,Expats,Female,False,French,44.0,25,ND,370,25-44
+209416,shopping,QA,Expats,Female,False,French,44.0,25,ND,1100,25-44
+209417,shopping,SA,Expats,Female,False,French,44.0,25,ND,3900,25-44
+209418,shopping,SO,Expats,Female,False,French,44.0,25,ND,100,25-44
+209419,shopping,TN,Expats,Female,False,French,44.0,25,ND,180000,25-44
+209420,shopping,AE,Expats,Female,False,French,44.0,25,ND,4450,25-44
+209421,shopping,YE,Expats,Female,False,French,44.0,25,ND,50,25-44
+209422,shopping,PS,Expats,Female,False,French,44.0,25,ND,160,25-44
+209423,shopping,DZ,Expats,Female,False,French,44.0,25,HS,55000,25-44
+209425,shopping,EG,Expats,Female,False,French,44.0,25,HS,4450,25-44
+209426,shopping,IQ,Expats,Female,False,French,44.0,25,HS,325,25-44
+209427,shopping,JO,Expats,Female,False,French,44.0,25,HS,470,25-44
+209428,shopping,KW,Expats,Female,False,French,44.0,25,HS,395,25-44
+209429,shopping,LB,Expats,Female,False,French,44.0,25,HS,4200,25-44
+209430,shopping,LY,Expats,Female,False,French,44.0,25,HS,245,25-44
+209431,shopping,MA,Expats,Female,False,French,44.0,25,HS,60000,25-44
+209432,shopping,OM,Expats,Female,False,French,44.0,25,HS,135,25-44
+209433,shopping,QA,Expats,Female,False,French,44.0,25,HS,440,25-44
+209434,shopping,SA,Expats,Female,False,French,44.0,25,HS,1500,25-44
+209435,shopping,SO,Expats,Female,False,French,44.0,25,HS,55,25-44
+209436,shopping,TN,Expats,Female,False,French,44.0,25,HS,60000,25-44
+209437,shopping,AE,Expats,Female,False,French,44.0,25,HS,2300,25-44
+209438,shopping,YE,Expats,Female,False,French,44.0,25,HS,40,25-44
+209439,shopping,PS,Expats,Female,False,French,44.0,25,HS,140,25-44
+209440,shopping,DZ,Expats,Female,False,French,44.0,25,GRAD,245000,25-44
+209442,shopping,EG,Expats,Female,False,French,44.0,25,GRAD,32000,25-44
+209443,shopping,IQ,Expats,Female,False,French,44.0,25,GRAD,1400,25-44
+209444,shopping,JO,Expats,Female,False,French,44.0,25,GRAD,2850,25-44
+209445,shopping,KW,Expats,Female,False,French,44.0,25,GRAD,1750,25-44
+209446,shopping,LB,Expats,Female,False,French,44.0,25,GRAD,18000,25-44
+209447,shopping,LY,Expats,Female,False,French,44.0,25,GRAD,950,25-44
+209448,shopping,MA,Expats,Female,False,French,44.0,25,GRAD,205000,25-44
+209449,shopping,OM,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+209450,shopping,QA,Expats,Female,False,French,44.0,25,GRAD,3200,25-44
+209451,shopping,SA,Expats,Female,False,French,44.0,25,GRAD,6500,25-44
+209452,shopping,SO,Expats,Female,False,French,44.0,25,GRAD,155,25-44
+209453,shopping,TN,Expats,Female,False,French,44.0,25,GRAD,215000,25-44
+209454,shopping,AE,Expats,Female,False,French,44.0,25,GRAD,12000,25-44
+209455,shopping,YE,Expats,Female,False,French,44.0,25,GRAD,190,25-44
+209456,shopping,PS,Expats,Female,False,French,44.0,25,GRAD,850,25-44
+209610,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,85000,45+
+209612,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,ND,1200,45+
+209613,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,220,45+
+209614,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,ND,160,45+
+209615,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,ND,135,45+
+209616,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,ND,3200,45+
+209617,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,ND,420,45+
+209618,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,ND,90000,45+
+209619,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,ND,90,45+
+209620,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,ND,390,45+
+209621,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,ND,1450,45+
+209622,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,ND,55,45+
+209623,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,ND,60000,45+
+209624,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,ND,950,45+
+209625,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+209626,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+209627,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,20500,45+
+209629,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,HS,700,45+
+209630,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,70,45+
+209631,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,HS,105,45+
+209632,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,HS,90,45+
+209633,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,HS,1050,45+
+209634,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,HS,135,45+
+209635,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,HS,21000,45+
+209636,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,HS,55,45+
+209637,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,HS,140,45+
+209638,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,HS,485,45+
+209639,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,HS,15,45+
+209640,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,HS,23000,45+
+209641,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,HS,550,45+
+209642,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+209643,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+209644,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,55000,45+
+209646,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,4200,45+
+209647,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,400,45+
+209648,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,480,45+
+209649,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,320,45+
+209650,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,4750,45+
+209651,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,415,45+
+209652,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,65000,45+
+209653,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,235,45+
+209654,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,850,45+
+209655,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,2100,45+
+209656,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+209657,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,60000,45+
+209658,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,2150,45+
+209659,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+209660,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,125,45+
+209712,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,47500,45+
+209714,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,ND,1500,45+
+209715,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,105,45+
+209716,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,ND,170,45+
+209717,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+209718,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,ND,7500,45+
+209719,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+209720,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,ND,48500,45+
+209721,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,ND,55,45+
+209722,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,ND,240,45+
+209723,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,ND,650,45+
+209724,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+209725,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,ND,44000,45+
+209726,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,ND,950,45+
+209727,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+209728,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,ND,40,45+
+209729,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,10500,45+
+209731,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,HS,750,45+
+209732,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+209733,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,HS,115,45+
+209734,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,HS,60,45+
+209735,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,HS,1900,45+
+209736,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,HS,55,45+
+209737,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,HS,11000,45+
+209738,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+209739,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,HS,120,45+
+209740,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,HS,180,45+
+209741,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209742,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,HS,15500,45+
+209743,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,HS,345,45+
+209744,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209745,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209746,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,25000,45+
+209748,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,4150,45+
+209749,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,145,45+
+209750,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,355,45+
+209751,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,225,45+
+209752,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,6500,45+
+209753,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,150,45+
+209754,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,27000,45+
+209755,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,105,45+
+209756,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,270,45+
+209757,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,700,45+
+209758,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209759,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,28000,45+
+209760,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,1200,45+
+209761,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209762,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,95,45+
+213588,respiratory asthma,DZ,Expats,Male,False,French,24.0,18,ND,900,18-24
+213590,respiratory asthma,EG,Expats,Male,False,French,24.0,18,ND,55,18-24
+213591,respiratory asthma,IQ,Expats,Male,False,French,24.0,18,ND,0,18-24
+213592,respiratory asthma,JO,Expats,Male,False,French,24.0,18,ND,0,18-24
+213593,respiratory asthma,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+213594,respiratory asthma,LB,Expats,Male,False,French,24.0,18,ND,0,18-24
+213595,respiratory asthma,LY,Expats,Male,False,French,24.0,18,ND,0,18-24
+213596,respiratory asthma,MA,Expats,Male,False,French,24.0,18,ND,1150,18-24
+213597,respiratory asthma,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+213598,respiratory asthma,QA,Expats,Male,False,French,24.0,18,ND,0,18-24
+213599,respiratory asthma,SA,Expats,Male,False,French,24.0,18,ND,20,18-24
+213600,respiratory asthma,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+213601,respiratory asthma,TN,Expats,Male,False,French,24.0,18,ND,1600,18-24
+213602,respiratory asthma,AE,Expats,Male,False,French,24.0,18,ND,0,18-24
+213603,respiratory asthma,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+213604,respiratory asthma,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+213605,respiratory asthma,DZ,Expats,Male,False,French,24.0,18,HS,750,18-24
+213607,respiratory asthma,EG,Expats,Male,False,French,24.0,18,HS,500,18-24
+213608,respiratory asthma,IQ,Expats,Male,False,French,24.0,18,HS,110,18-24
+213609,respiratory asthma,JO,Expats,Male,False,French,24.0,18,HS,30,18-24
+213610,respiratory asthma,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+213611,respiratory asthma,LB,Expats,Male,False,French,24.0,18,HS,65,18-24
+213612,respiratory asthma,LY,Expats,Male,False,French,24.0,18,HS,0,18-24
+213613,respiratory asthma,MA,Expats,Male,False,French,24.0,18,HS,1100,18-24
+213614,respiratory asthma,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+213615,respiratory asthma,QA,Expats,Male,False,French,24.0,18,HS,0,18-24
+213616,respiratory asthma,SA,Expats,Male,False,French,24.0,18,HS,25,18-24
+213617,respiratory asthma,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+213618,respiratory asthma,TN,Expats,Male,False,French,24.0,18,HS,1150,18-24
+213619,respiratory asthma,AE,Expats,Male,False,French,24.0,18,HS,0,18-24
+213620,respiratory asthma,YE,Expats,Male,False,French,24.0,18,HS,0,18-24
+213621,respiratory asthma,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+213622,respiratory asthma,DZ,Expats,Male,False,French,24.0,18,GRAD,1650,18-24
+213624,respiratory asthma,EG,Expats,Male,False,French,24.0,18,GRAD,550,18-24
+213625,respiratory asthma,IQ,Expats,Male,False,French,24.0,18,GRAD,45,18-24
+213626,respiratory asthma,JO,Expats,Male,False,French,24.0,18,GRAD,25,18-24
+213627,respiratory asthma,KW,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213628,respiratory asthma,LB,Expats,Male,False,French,24.0,18,GRAD,25,18-24
+213629,respiratory asthma,LY,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213630,respiratory asthma,MA,Expats,Male,False,French,24.0,18,GRAD,2750,18-24
+213631,respiratory asthma,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213632,respiratory asthma,QA,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213633,respiratory asthma,SA,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+213634,respiratory asthma,SO,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213635,respiratory asthma,TN,Expats,Male,False,French,24.0,18,GRAD,2250,18-24
+213636,respiratory asthma,AE,Expats,Male,False,French,24.0,18,GRAD,25,18-24
+213637,respiratory asthma,YE,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213638,respiratory asthma,PS,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+213690,respiratory asthma,DZ,Expats,Female,False,French,24.0,18,ND,550,18-24
+213692,respiratory asthma,EG,Expats,Female,False,French,24.0,18,ND,60,18-24
+213693,respiratory asthma,IQ,Expats,Female,False,French,24.0,18,ND,0,18-24
+213694,respiratory asthma,JO,Expats,Female,False,French,24.0,18,ND,0,18-24
+213695,respiratory asthma,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+213696,respiratory asthma,LB,Expats,Female,False,French,24.0,18,ND,0,18-24
+213697,respiratory asthma,LY,Expats,Female,False,French,24.0,18,ND,0,18-24
+213698,respiratory asthma,MA,Expats,Female,False,French,24.0,18,ND,700,18-24
+213699,respiratory asthma,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+213700,respiratory asthma,QA,Expats,Female,False,French,24.0,18,ND,0,18-24
+213701,respiratory asthma,SA,Expats,Female,False,French,24.0,18,ND,15,18-24
+213702,respiratory asthma,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+213703,respiratory asthma,TN,Expats,Female,False,French,24.0,18,ND,1900,18-24
+213704,respiratory asthma,AE,Expats,Female,False,French,24.0,18,ND,0,18-24
+213705,respiratory asthma,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+213706,respiratory asthma,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+213707,respiratory asthma,DZ,Expats,Female,False,French,24.0,18,HS,490,18-24
+213709,respiratory asthma,EG,Expats,Female,False,French,24.0,18,HS,550,18-24
+213710,respiratory asthma,IQ,Expats,Female,False,French,24.0,18,HS,25,18-24
+213711,respiratory asthma,JO,Expats,Female,False,French,24.0,18,HS,0,18-24
+213712,respiratory asthma,KW,Expats,Female,False,French,24.0,18,HS,0,18-24
+213713,respiratory asthma,LB,Expats,Female,False,French,24.0,18,HS,65,18-24
+213714,respiratory asthma,LY,Expats,Female,False,French,24.0,18,HS,0,18-24
+213715,respiratory asthma,MA,Expats,Female,False,French,24.0,18,HS,550,18-24
+213716,respiratory asthma,OM,Expats,Female,False,French,24.0,18,HS,0,18-24
+213717,respiratory asthma,QA,Expats,Female,False,French,24.0,18,HS,0,18-24
+213718,respiratory asthma,SA,Expats,Female,False,French,24.0,18,HS,60,18-24
+213719,respiratory asthma,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+213720,respiratory asthma,TN,Expats,Female,False,French,24.0,18,HS,1350,18-24
+213721,respiratory asthma,AE,Expats,Female,False,French,24.0,18,HS,15,18-24
+213722,respiratory asthma,YE,Expats,Female,False,French,24.0,18,HS,0,18-24
+213723,respiratory asthma,PS,Expats,Female,False,French,24.0,18,HS,0,18-24
+213724,respiratory asthma,DZ,Expats,Female,False,French,24.0,18,GRAD,1050,18-24
+213726,respiratory asthma,EG,Expats,Female,False,French,24.0,18,GRAD,450,18-24
+213727,respiratory asthma,IQ,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213728,respiratory asthma,JO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213729,respiratory asthma,KW,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213730,respiratory asthma,LB,Expats,Female,False,French,24.0,18,GRAD,50,18-24
+213731,respiratory asthma,LY,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213732,respiratory asthma,MA,Expats,Female,False,French,24.0,18,GRAD,1400,18-24
+213733,respiratory asthma,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213734,respiratory asthma,QA,Expats,Female,False,French,24.0,18,GRAD,20,18-24
+213735,respiratory asthma,SA,Expats,Female,False,French,24.0,18,GRAD,25,18-24
+213736,respiratory asthma,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213737,respiratory asthma,TN,Expats,Female,False,French,24.0,18,GRAD,2650,18-24
+213738,respiratory asthma,AE,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+213739,respiratory asthma,YE,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213740,respiratory asthma,PS,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+213894,respiratory asthma,DZ,Expats,Male,False,French,44.0,25,ND,2600,25-44
+213896,respiratory asthma,EG,Expats,Male,False,French,44.0,25,ND,25,25-44
+213897,respiratory asthma,IQ,Expats,Male,False,French,44.0,25,ND,30,25-44
+213898,respiratory asthma,JO,Expats,Male,False,French,44.0,25,ND,0,25-44
+213899,respiratory asthma,KW,Expats,Male,False,French,44.0,25,ND,0,25-44
+213900,respiratory asthma,LB,Expats,Male,False,French,44.0,25,ND,0,25-44
+213901,respiratory asthma,LY,Expats,Male,False,French,44.0,25,ND,20,25-44
+213902,respiratory asthma,MA,Expats,Male,False,French,44.0,25,ND,2150,25-44
+213903,respiratory asthma,OM,Expats,Male,False,French,44.0,25,ND,0,25-44
+213904,respiratory asthma,QA,Expats,Male,False,French,44.0,25,ND,15,25-44
+213905,respiratory asthma,SA,Expats,Male,False,French,44.0,25,ND,80,25-44
+213906,respiratory asthma,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+213907,respiratory asthma,TN,Expats,Male,False,French,44.0,25,ND,3100,25-44
+213908,respiratory asthma,AE,Expats,Male,False,French,44.0,25,ND,30,25-44
+213909,respiratory asthma,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+213910,respiratory asthma,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+213911,respiratory asthma,DZ,Expats,Male,False,French,44.0,25,HS,900,25-44
+213913,respiratory asthma,EG,Expats,Male,False,French,44.0,25,HS,90,25-44
+213914,respiratory asthma,IQ,Expats,Male,False,French,44.0,25,HS,0,25-44
+213915,respiratory asthma,JO,Expats,Male,False,French,44.0,25,HS,0,25-44
+213916,respiratory asthma,KW,Expats,Male,False,French,44.0,25,HS,0,25-44
+213917,respiratory asthma,LB,Expats,Male,False,French,44.0,25,HS,20,25-44
+213918,respiratory asthma,LY,Expats,Male,False,French,44.0,25,HS,0,25-44
+213919,respiratory asthma,MA,Expats,Male,False,French,44.0,25,HS,900,25-44
+213920,respiratory asthma,OM,Expats,Male,False,French,44.0,25,HS,0,25-44
+213921,respiratory asthma,QA,Expats,Male,False,French,44.0,25,HS,0,25-44
+213922,respiratory asthma,SA,Expats,Male,False,French,44.0,25,HS,35,25-44
+213923,respiratory asthma,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+213924,respiratory asthma,TN,Expats,Male,False,French,44.0,25,HS,1450,25-44
+213925,respiratory asthma,AE,Expats,Male,False,French,44.0,25,HS,20,25-44
+213926,respiratory asthma,YE,Expats,Male,False,French,44.0,25,HS,0,25-44
+213927,respiratory asthma,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+213928,respiratory asthma,DZ,Expats,Male,False,French,44.0,25,GRAD,3850,25-44
+213930,respiratory asthma,EG,Expats,Male,False,French,44.0,25,GRAD,445,25-44
+213931,respiratory asthma,IQ,Expats,Male,False,French,44.0,25,GRAD,30,25-44
+213932,respiratory asthma,JO,Expats,Male,False,French,44.0,25,GRAD,25,25-44
+213933,respiratory asthma,KW,Expats,Male,False,French,44.0,25,GRAD,45,25-44
+213934,respiratory asthma,LB,Expats,Male,False,French,44.0,25,GRAD,80,25-44
+213935,respiratory asthma,LY,Expats,Male,False,French,44.0,25,GRAD,15,25-44
+213936,respiratory asthma,MA,Expats,Male,False,French,44.0,25,GRAD,3450,25-44
+213937,respiratory asthma,OM,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+213938,respiratory asthma,QA,Expats,Male,False,French,44.0,25,GRAD,90,25-44
+213939,respiratory asthma,SA,Expats,Male,False,French,44.0,25,GRAD,275,25-44
+213940,respiratory asthma,SO,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+213941,respiratory asthma,TN,Expats,Male,False,French,44.0,25,GRAD,4700,25-44
+213942,respiratory asthma,AE,Expats,Male,False,French,44.0,25,GRAD,65,25-44
+213943,respiratory asthma,YE,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+213944,respiratory asthma,PS,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+213996,respiratory asthma,DZ,Expats,Female,False,French,44.0,25,ND,1050,25-44
+213998,respiratory asthma,EG,Expats,Female,False,French,44.0,25,ND,0,25-44
+213999,respiratory asthma,IQ,Expats,Female,False,French,44.0,25,ND,0,25-44
+214000,respiratory asthma,JO,Expats,Female,False,French,44.0,25,ND,0,25-44
+214001,respiratory asthma,KW,Expats,Female,False,French,44.0,25,ND,0,25-44
+214002,respiratory asthma,LB,Expats,Female,False,French,44.0,25,ND,40,25-44
+214003,respiratory asthma,LY,Expats,Female,False,French,44.0,25,ND,0,25-44
+214004,respiratory asthma,MA,Expats,Female,False,French,44.0,25,ND,1050,25-44
+214005,respiratory asthma,OM,Expats,Female,False,French,44.0,25,ND,0,25-44
+214006,respiratory asthma,QA,Expats,Female,False,French,44.0,25,ND,0,25-44
+214007,respiratory asthma,SA,Expats,Female,False,French,44.0,25,ND,50,25-44
+214008,respiratory asthma,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+214009,respiratory asthma,TN,Expats,Female,False,French,44.0,25,ND,3150,25-44
+214010,respiratory asthma,AE,Expats,Female,False,French,44.0,25,ND,25,25-44
+214011,respiratory asthma,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+214012,respiratory asthma,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+214013,respiratory asthma,DZ,Expats,Female,False,French,44.0,25,HS,305,25-44
+214015,respiratory asthma,EG,Expats,Female,False,French,44.0,25,HS,55,25-44
+214016,respiratory asthma,IQ,Expats,Female,False,French,44.0,25,HS,0,25-44
+214017,respiratory asthma,JO,Expats,Female,False,French,44.0,25,HS,0,25-44
+214018,respiratory asthma,KW,Expats,Female,False,French,44.0,25,HS,0,25-44
+214019,respiratory asthma,LB,Expats,Female,False,French,44.0,25,HS,20,25-44
+214020,respiratory asthma,LY,Expats,Female,False,French,44.0,25,HS,0,25-44
+214021,respiratory asthma,MA,Expats,Female,False,French,44.0,25,HS,375,25-44
+214022,respiratory asthma,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+214023,respiratory asthma,QA,Expats,Female,False,French,44.0,25,HS,0,25-44
+214024,respiratory asthma,SA,Expats,Female,False,French,44.0,25,HS,25,25-44
+214025,respiratory asthma,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+214026,respiratory asthma,TN,Expats,Female,False,French,44.0,25,HS,1400,25-44
+214027,respiratory asthma,AE,Expats,Female,False,French,44.0,25,HS,25,25-44
+214028,respiratory asthma,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+214029,respiratory asthma,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+214030,respiratory asthma,DZ,Expats,Female,False,French,44.0,25,GRAD,1300,25-44
+214032,respiratory asthma,EG,Expats,Female,False,French,44.0,25,GRAD,405,25-44
+214033,respiratory asthma,IQ,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214034,respiratory asthma,JO,Expats,Female,False,French,44.0,25,GRAD,35,25-44
+214035,respiratory asthma,KW,Expats,Female,False,French,44.0,25,GRAD,40,25-44
+214036,respiratory asthma,LB,Expats,Female,False,French,44.0,25,GRAD,105,25-44
+214037,respiratory asthma,LY,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214038,respiratory asthma,MA,Expats,Female,False,French,44.0,25,GRAD,1450,25-44
+214039,respiratory asthma,OM,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214040,respiratory asthma,QA,Expats,Female,False,French,44.0,25,GRAD,90,25-44
+214041,respiratory asthma,SA,Expats,Female,False,French,44.0,25,GRAD,85,25-44
+214042,respiratory asthma,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214043,respiratory asthma,TN,Expats,Female,False,French,44.0,25,GRAD,4800,25-44
+214044,respiratory asthma,AE,Expats,Female,False,French,44.0,25,GRAD,115,25-44
+214045,respiratory asthma,YE,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214046,respiratory asthma,PS,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214200,respiratory asthma,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,430,45+
+214202,respiratory asthma,EG,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214203,respiratory asthma,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214204,respiratory asthma,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214205,respiratory asthma,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214206,respiratory asthma,LB,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+214207,respiratory asthma,LY,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214208,respiratory asthma,MA,Expats,Male,False,French,NOTSELECTED,45,ND,550,45+
+214209,respiratory asthma,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214210,respiratory asthma,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214211,respiratory asthma,SA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214212,respiratory asthma,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214213,respiratory asthma,TN,Expats,Male,False,French,NOTSELECTED,45,ND,900,45+
+214214,respiratory asthma,AE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214215,respiratory asthma,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214216,respiratory asthma,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+214217,respiratory asthma,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,120,45+
+214219,respiratory asthma,EG,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214220,respiratory asthma,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214221,respiratory asthma,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214222,respiratory asthma,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214223,respiratory asthma,LB,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214224,respiratory asthma,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214225,respiratory asthma,MA,Expats,Male,False,French,NOTSELECTED,45,HS,220,45+
+214226,respiratory asthma,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214227,respiratory asthma,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214228,respiratory asthma,SA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214229,respiratory asthma,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214230,respiratory asthma,TN,Expats,Male,False,French,NOTSELECTED,45,HS,430,45+
+214231,respiratory asthma,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214232,respiratory asthma,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214233,respiratory asthma,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+214234,respiratory asthma,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,450,45+
+214236,respiratory asthma,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+214237,respiratory asthma,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214238,respiratory asthma,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214239,respiratory asthma,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214240,respiratory asthma,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+214241,respiratory asthma,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214242,respiratory asthma,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,550,45+
+214243,respiratory asthma,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214244,respiratory asthma,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214245,respiratory asthma,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,35,45+
+214246,respiratory asthma,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214247,respiratory asthma,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,950,45+
+214248,respiratory asthma,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214249,respiratory asthma,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214250,respiratory asthma,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+214302,respiratory asthma,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,245,45+
+214304,respiratory asthma,EG,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214305,respiratory asthma,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214306,respiratory asthma,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214307,respiratory asthma,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214308,respiratory asthma,LB,Expats,Female,False,French,NOTSELECTED,45,ND,85,45+
+214309,respiratory asthma,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214310,respiratory asthma,MA,Expats,Female,False,French,NOTSELECTED,45,ND,340,45+
+214311,respiratory asthma,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214312,respiratory asthma,QA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214313,respiratory asthma,SA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214314,respiratory asthma,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214315,respiratory asthma,TN,Expats,Female,False,French,NOTSELECTED,45,ND,900,45+
+214316,respiratory asthma,AE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214317,respiratory asthma,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214318,respiratory asthma,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+214319,respiratory asthma,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,55,45+
+214321,respiratory asthma,EG,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+214322,respiratory asthma,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214323,respiratory asthma,JO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214324,respiratory asthma,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214325,respiratory asthma,LB,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+214326,respiratory asthma,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214327,respiratory asthma,MA,Expats,Female,False,French,NOTSELECTED,45,HS,95,45+
+214328,respiratory asthma,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214329,respiratory asthma,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214330,respiratory asthma,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214331,respiratory asthma,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214332,respiratory asthma,TN,Expats,Female,False,French,NOTSELECTED,45,HS,340,45+
+214333,respiratory asthma,AE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214334,respiratory asthma,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214335,respiratory asthma,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+214336,respiratory asthma,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,210,45+
+214338,respiratory asthma,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+214339,respiratory asthma,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214340,respiratory asthma,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214341,respiratory asthma,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214342,respiratory asthma,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+214343,respiratory asthma,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214344,respiratory asthma,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,265,45+
+214345,respiratory asthma,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214346,respiratory asthma,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214347,respiratory asthma,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214348,respiratory asthma,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214349,respiratory asthma,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,600,45+
+214350,respiratory asthma,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214351,respiratory asthma,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214352,respiratory asthma,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+

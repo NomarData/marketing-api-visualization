@@ -2879,6 +2879,582 @@
 58630,diabetes awareness,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,370,45+
 58631,diabetes awareness,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 58632,diabetes awareness,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+201705,fitness and wellness,DZ,Locals,Male,False,French,24.0,18,ND,330000,18-24
+201707,fitness and wellness,EG,Locals,Male,False,French,24.0,18,ND,10000,18-24
+201708,fitness and wellness,IQ,Locals,Male,False,French,24.0,18,ND,1600,18-24
+201709,fitness and wellness,JO,Locals,Male,False,French,24.0,18,ND,900,18-24
+201710,fitness and wellness,KW,Locals,Male,False,French,24.0,18,ND,30,18-24
+201711,fitness and wellness,LB,Locals,Male,False,French,24.0,18,ND,3900,18-24
+201712,fitness and wellness,LY,Locals,Male,False,French,24.0,18,ND,900,18-24
+201713,fitness and wellness,MA,Locals,Male,False,French,24.0,18,ND,290000,18-24
+201714,fitness and wellness,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+201715,fitness and wellness,QA,Locals,Male,False,French,24.0,18,ND,160,18-24
+201716,fitness and wellness,SA,Locals,Male,False,French,24.0,18,ND,2200,18-24
+201717,fitness and wellness,SO,Locals,Male,False,French,24.0,18,ND,80,18-24
+201718,fitness and wellness,TN,Locals,Male,False,French,24.0,18,ND,140000,18-24
+201719,fitness and wellness,AE,Locals,Male,False,French,24.0,18,ND,460,18-24
+201720,fitness and wellness,YE,Locals,Male,False,French,24.0,18,ND,80,18-24
+201721,fitness and wellness,PS,Locals,Male,False,French,24.0,18,ND,160,18-24
+201722,fitness and wellness,DZ,Locals,Male,False,French,24.0,18,HS,160000,18-24
+201724,fitness and wellness,EG,Locals,Male,False,French,24.0,18,HS,70000,18-24
+201725,fitness and wellness,IQ,Locals,Male,False,French,24.0,18,HS,3700,18-24
+201726,fitness and wellness,JO,Locals,Male,False,French,24.0,18,HS,3000,18-24
+201727,fitness and wellness,KW,Locals,Male,False,French,24.0,18,HS,100,18-24
+201728,fitness and wellness,LB,Locals,Male,False,French,24.0,18,HS,8700,18-24
+201729,fitness and wellness,LY,Locals,Male,False,French,24.0,18,HS,760,18-24
+201730,fitness and wellness,MA,Locals,Male,False,French,24.0,18,HS,190000,18-24
+201731,fitness and wellness,OM,Locals,Male,False,French,24.0,18,HS,130,18-24
+201732,fitness and wellness,QA,Locals,Male,False,French,24.0,18,HS,90,18-24
+201733,fitness and wellness,SA,Locals,Male,False,French,24.0,18,HS,1000,18-24
+201734,fitness and wellness,SO,Locals,Male,False,French,24.0,18,HS,100,18-24
+201735,fitness and wellness,TN,Locals,Male,False,French,24.0,18,HS,94000,18-24
+201736,fitness and wellness,AE,Locals,Male,False,French,24.0,18,HS,430,18-24
+201737,fitness and wellness,YE,Locals,Male,False,French,24.0,18,HS,310,18-24
+201738,fitness and wellness,PS,Locals,Male,False,French,24.0,18,HS,530,18-24
+201739,fitness and wellness,DZ,Locals,Male,False,French,24.0,18,GRAD,360000,18-24
+201741,fitness and wellness,EG,Locals,Male,False,French,24.0,18,GRAD,87000,18-24
+201742,fitness and wellness,IQ,Locals,Male,False,French,24.0,18,GRAD,3200,18-24
+201743,fitness and wellness,JO,Locals,Male,False,French,24.0,18,GRAD,3400,18-24
+201744,fitness and wellness,KW,Locals,Male,False,French,24.0,18,GRAD,180,18-24
+201745,fitness and wellness,LB,Locals,Male,False,French,24.0,18,GRAD,8800,18-24
+201746,fitness and wellness,LY,Locals,Male,False,French,24.0,18,GRAD,1200,18-24
+201747,fitness and wellness,MA,Locals,Male,False,French,24.0,18,GRAD,460000,18-24
+201748,fitness and wellness,OM,Locals,Male,False,French,24.0,18,GRAD,110,18-24
+201749,fitness and wellness,QA,Locals,Male,False,French,24.0,18,GRAD,360,18-24
+201750,fitness and wellness,SA,Locals,Male,False,French,24.0,18,GRAD,2000,18-24
+201751,fitness and wellness,SO,Locals,Male,False,French,24.0,18,GRAD,350,18-24
+201752,fitness and wellness,TN,Locals,Male,False,French,24.0,18,GRAD,190000,18-24
+201753,fitness and wellness,AE,Locals,Male,False,French,24.0,18,GRAD,900,18-24
+201754,fitness and wellness,YE,Locals,Male,False,French,24.0,18,GRAD,300,18-24
+201755,fitness and wellness,PS,Locals,Male,False,French,24.0,18,GRAD,810,18-24
+201807,fitness and wellness,DZ,Locals,Female,False,French,24.0,18,ND,260000,18-24
+201809,fitness and wellness,EG,Locals,Female,False,French,24.0,18,ND,9500,18-24
+201810,fitness and wellness,IQ,Locals,Female,False,French,24.0,18,ND,620,18-24
+201811,fitness and wellness,JO,Locals,Female,False,French,24.0,18,ND,820,18-24
+201812,fitness and wellness,KW,Locals,Female,False,French,24.0,18,ND,140,18-24
+201813,fitness and wellness,LB,Locals,Female,False,French,24.0,18,ND,4500,18-24
+201814,fitness and wellness,LY,Locals,Female,False,French,24.0,18,ND,550,18-24
+201815,fitness and wellness,MA,Locals,Female,False,French,24.0,18,ND,240000,18-24
+201816,fitness and wellness,OM,Locals,Female,False,French,24.0,18,ND,50,18-24
+201817,fitness and wellness,QA,Locals,Female,False,French,24.0,18,ND,80,18-24
+201818,fitness and wellness,SA,Locals,Female,False,French,24.0,18,ND,2000,18-24
+201819,fitness and wellness,SO,Locals,Female,False,French,24.0,18,ND,100,18-24
+201820,fitness and wellness,TN,Locals,Female,False,French,24.0,18,ND,150000,18-24
+201821,fitness and wellness,AE,Locals,Female,False,French,24.0,18,ND,410,18-24
+201822,fitness and wellness,YE,Locals,Female,False,French,24.0,18,ND,40,18-24
+201823,fitness and wellness,PS,Locals,Female,False,French,24.0,18,ND,130,18-24
+201824,fitness and wellness,DZ,Locals,Female,False,French,24.0,18,HS,130000,18-24
+201826,fitness and wellness,EG,Locals,Female,False,French,24.0,18,HS,67000,18-24
+201827,fitness and wellness,IQ,Locals,Female,False,French,24.0,18,HS,2200,18-24
+201828,fitness and wellness,JO,Locals,Female,False,French,24.0,18,HS,3300,18-24
+201829,fitness and wellness,KW,Locals,Female,False,French,24.0,18,HS,150,18-24
+201830,fitness and wellness,LB,Locals,Female,False,French,24.0,18,HS,13000,18-24
+201831,fitness and wellness,LY,Locals,Female,False,French,24.0,18,HS,1300,18-24
+201832,fitness and wellness,MA,Locals,Female,False,French,24.0,18,HS,150000,18-24
+201833,fitness and wellness,OM,Locals,Female,False,French,24.0,18,HS,60,18-24
+201834,fitness and wellness,QA,Locals,Female,False,French,24.0,18,HS,90,18-24
+201835,fitness and wellness,SA,Locals,Female,False,French,24.0,18,HS,1100,18-24
+201836,fitness and wellness,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+201837,fitness and wellness,TN,Locals,Female,False,French,24.0,18,HS,100000,18-24
+201838,fitness and wellness,AE,Locals,Female,False,French,24.0,18,HS,450,18-24
+201839,fitness and wellness,YE,Locals,Female,False,French,24.0,18,HS,110,18-24
+201840,fitness and wellness,PS,Locals,Female,False,French,24.0,18,HS,940,18-24
+201841,fitness and wellness,DZ,Locals,Female,False,French,24.0,18,GRAD,260000,18-24
+201843,fitness and wellness,EG,Locals,Female,False,French,24.0,18,GRAD,71000,18-24
+201844,fitness and wellness,IQ,Locals,Female,False,French,24.0,18,GRAD,1400,18-24
+201845,fitness and wellness,JO,Locals,Female,False,French,24.0,18,GRAD,2400,18-24
+201846,fitness and wellness,KW,Locals,Female,False,French,24.0,18,GRAD,110,18-24
+201847,fitness and wellness,LB,Locals,Female,False,French,24.0,18,GRAD,12000,18-24
+201848,fitness and wellness,LY,Locals,Female,False,French,24.0,18,GRAD,1300,18-24
+201849,fitness and wellness,MA,Locals,Female,False,French,24.0,18,GRAD,310000,18-24
+201850,fitness and wellness,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+201851,fitness and wellness,QA,Locals,Female,False,French,24.0,18,GRAD,280,18-24
+201852,fitness and wellness,SA,Locals,Female,False,French,24.0,18,GRAD,1100,18-24
+201853,fitness and wellness,SO,Locals,Female,False,French,24.0,18,GRAD,120,18-24
+201854,fitness and wellness,TN,Locals,Female,False,French,24.0,18,GRAD,200000,18-24
+201855,fitness and wellness,AE,Locals,Female,False,French,24.0,18,GRAD,700,18-24
+201856,fitness and wellness,YE,Locals,Female,False,French,24.0,18,GRAD,100,18-24
+201857,fitness and wellness,PS,Locals,Female,False,French,24.0,18,GRAD,900,18-24
+202011,fitness and wellness,DZ,Locals,Male,False,French,44.0,25,ND,490000,25-44
+202013,fitness and wellness,EG,Locals,Male,False,French,44.0,25,ND,5600,25-44
+202014,fitness and wellness,IQ,Locals,Male,False,French,44.0,25,ND,1200,25-44
+202015,fitness and wellness,JO,Locals,Male,False,French,44.0,25,ND,480,25-44
+202016,fitness and wellness,KW,Locals,Male,False,French,44.0,25,ND,70,25-44
+202017,fitness and wellness,LB,Locals,Male,False,French,44.0,25,ND,5500,25-44
+202018,fitness and wellness,LY,Locals,Male,False,French,44.0,25,ND,1400,25-44
+202019,fitness and wellness,MA,Locals,Male,False,French,44.0,25,ND,400000,25-44
+202020,fitness and wellness,OM,Locals,Male,False,French,44.0,25,ND,110,25-44
+202021,fitness and wellness,QA,Locals,Male,False,French,44.0,25,ND,510,25-44
+202022,fitness and wellness,SA,Locals,Male,False,French,44.0,25,ND,5000,25-44
+202023,fitness and wellness,SO,Locals,Male,False,French,44.0,25,ND,120,25-44
+202024,fitness and wellness,TN,Locals,Male,False,French,44.0,25,ND,240000,25-44
+202025,fitness and wellness,AE,Locals,Male,False,French,44.0,25,ND,1200,25-44
+202026,fitness and wellness,YE,Locals,Male,False,French,44.0,25,ND,60,25-44
+202027,fitness and wellness,PS,Locals,Male,False,French,44.0,25,ND,70,25-44
+202028,fitness and wellness,DZ,Locals,Male,False,French,44.0,25,HS,130000,25-44
+202030,fitness and wellness,EG,Locals,Male,False,French,44.0,25,HS,9200,25-44
+202031,fitness and wellness,IQ,Locals,Male,False,French,44.0,25,HS,850,25-44
+202032,fitness and wellness,JO,Locals,Male,False,French,44.0,25,HS,730,25-44
+202033,fitness and wellness,KW,Locals,Male,False,French,44.0,25,HS,50,25-44
+202034,fitness and wellness,LB,Locals,Male,False,French,44.0,25,HS,4700,25-44
+202035,fitness and wellness,LY,Locals,Male,False,French,44.0,25,HS,560,25-44
+202036,fitness and wellness,MA,Locals,Male,False,French,44.0,25,HS,140000,25-44
+202037,fitness and wellness,OM,Locals,Male,False,French,44.0,25,HS,80,25-44
+202038,fitness and wellness,QA,Locals,Male,False,French,44.0,25,HS,300,25-44
+202039,fitness and wellness,SA,Locals,Male,False,French,44.0,25,HS,1700,25-44
+202040,fitness and wellness,SO,Locals,Male,False,French,44.0,25,HS,40,25-44
+202041,fitness and wellness,TN,Locals,Male,False,French,44.0,25,HS,100000,25-44
+202042,fitness and wellness,AE,Locals,Male,False,French,44.0,25,HS,560,25-44
+202043,fitness and wellness,YE,Locals,Male,False,French,44.0,25,HS,60,25-44
+202044,fitness and wellness,PS,Locals,Male,False,French,44.0,25,HS,110,25-44
+202045,fitness and wellness,DZ,Locals,Male,False,French,44.0,25,GRAD,530000,25-44
+202047,fitness and wellness,EG,Locals,Male,False,French,44.0,25,GRAD,65000,25-44
+202048,fitness and wellness,IQ,Locals,Male,False,French,44.0,25,GRAD,4000,25-44
+202049,fitness and wellness,JO,Locals,Male,False,French,44.0,25,GRAD,3600,25-44
+202050,fitness and wellness,KW,Locals,Male,False,French,44.0,25,GRAD,600,25-44
+202051,fitness and wellness,LB,Locals,Male,False,French,44.0,25,GRAD,18000,25-44
+202052,fitness and wellness,LY,Locals,Male,False,French,44.0,25,GRAD,1800,25-44
+202053,fitness and wellness,MA,Locals,Male,False,French,44.0,25,GRAD,520000,25-44
+202054,fitness and wellness,OM,Locals,Male,False,French,44.0,25,GRAD,540,25-44
+202055,fitness and wellness,QA,Locals,Male,False,French,44.0,25,GRAD,1200,25-44
+202056,fitness and wellness,SA,Locals,Male,False,French,44.0,25,GRAD,7200,25-44
+202057,fitness and wellness,SO,Locals,Male,False,French,44.0,25,GRAD,450,25-44
+202058,fitness and wellness,TN,Locals,Male,False,French,44.0,25,GRAD,340000,25-44
+202059,fitness and wellness,AE,Locals,Male,False,French,44.0,25,GRAD,2700,25-44
+202060,fitness and wellness,YE,Locals,Male,False,French,44.0,25,GRAD,490,25-44
+202061,fitness and wellness,PS,Locals,Male,False,French,44.0,25,GRAD,800,25-44
+202113,fitness and wellness,DZ,Locals,Female,False,French,44.0,25,ND,270000,25-44
+202115,fitness and wellness,EG,Locals,Female,False,French,44.0,25,ND,4700,25-44
+202116,fitness and wellness,IQ,Locals,Female,False,French,44.0,25,ND,440,25-44
+202117,fitness and wellness,JO,Locals,Female,False,French,44.0,25,ND,390,25-44
+202118,fitness and wellness,KW,Locals,Female,False,French,44.0,25,ND,130,25-44
+202119,fitness and wellness,LB,Locals,Female,False,French,44.0,25,ND,10000,25-44
+202120,fitness and wellness,LY,Locals,Female,False,French,44.0,25,ND,450,25-44
+202121,fitness and wellness,MA,Locals,Female,False,French,44.0,25,ND,250000,25-44
+202122,fitness and wellness,OM,Locals,Female,False,French,44.0,25,ND,80,25-44
+202123,fitness and wellness,QA,Locals,Female,False,French,44.0,25,ND,260,25-44
+202124,fitness and wellness,SA,Locals,Female,False,French,44.0,25,ND,3500,25-44
+202125,fitness and wellness,SO,Locals,Female,False,French,44.0,25,ND,60,25-44
+202126,fitness and wellness,TN,Locals,Female,False,French,44.0,25,ND,210000,25-44
+202127,fitness and wellness,AE,Locals,Female,False,French,44.0,25,ND,940,25-44
+202128,fitness and wellness,YE,Locals,Female,False,French,44.0,25,ND,30,25-44
+202129,fitness and wellness,PS,Locals,Female,False,French,44.0,25,ND,120,25-44
+202130,fitness and wellness,DZ,Locals,Female,False,French,44.0,25,HS,65000,25-44
+202132,fitness and wellness,EG,Locals,Female,False,French,44.0,25,HS,6400,25-44
+202133,fitness and wellness,IQ,Locals,Female,False,French,44.0,25,HS,430,25-44
+202134,fitness and wellness,JO,Locals,Female,False,French,44.0,25,HS,430,25-44
+202135,fitness and wellness,KW,Locals,Female,False,French,44.0,25,HS,60,25-44
+202136,fitness and wellness,LB,Locals,Female,False,French,44.0,25,HS,5900,25-44
+202137,fitness and wellness,LY,Locals,Female,False,French,44.0,25,HS,230,25-44
+202138,fitness and wellness,MA,Locals,Female,False,French,44.0,25,HS,79000,25-44
+202139,fitness and wellness,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+202140,fitness and wellness,QA,Locals,Female,False,French,44.0,25,HS,90,25-44
+202141,fitness and wellness,SA,Locals,Female,False,French,44.0,25,HS,860,25-44
+202142,fitness and wellness,SO,Locals,Female,False,French,44.0,25,HS,40,25-44
+202143,fitness and wellness,TN,Locals,Female,False,French,44.0,25,HS,81000,25-44
+202144,fitness and wellness,AE,Locals,Female,False,French,44.0,25,HS,380,25-44
+202145,fitness and wellness,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+202146,fitness and wellness,PS,Locals,Female,False,French,44.0,25,HS,120,25-44
+202147,fitness and wellness,DZ,Locals,Female,False,French,44.0,25,GRAD,300000,25-44
+202149,fitness and wellness,EG,Locals,Female,False,French,44.0,25,GRAD,51000,25-44
+202150,fitness and wellness,IQ,Locals,Female,False,French,44.0,25,GRAD,1800,25-44
+202151,fitness and wellness,JO,Locals,Female,False,French,44.0,25,GRAD,3100,25-44
+202152,fitness and wellness,KW,Locals,Female,False,French,44.0,25,GRAD,450,25-44
+202153,fitness and wellness,LB,Locals,Female,False,French,44.0,25,GRAD,27000,25-44
+202154,fitness and wellness,LY,Locals,Female,False,French,44.0,25,GRAD,1000,25-44
+202155,fitness and wellness,MA,Locals,Female,False,French,44.0,25,GRAD,290000,25-44
+202156,fitness and wellness,OM,Locals,Female,False,French,44.0,25,GRAD,230,25-44
+202157,fitness and wellness,QA,Locals,Female,False,French,44.0,25,GRAD,850,25-44
+202158,fitness and wellness,SA,Locals,Female,False,French,44.0,25,GRAD,3700,25-44
+202159,fitness and wellness,SO,Locals,Female,False,French,44.0,25,GRAD,120,25-44
+202160,fitness and wellness,TN,Locals,Female,False,French,44.0,25,GRAD,330000,25-44
+202161,fitness and wellness,AE,Locals,Female,False,French,44.0,25,GRAD,1700,25-44
+202162,fitness and wellness,YE,Locals,Female,False,French,44.0,25,GRAD,160,25-44
+202163,fitness and wellness,PS,Locals,Female,False,French,44.0,25,GRAD,910,25-44
+202317,fitness and wellness,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,78000,45+
+202319,fitness and wellness,EG,Locals,Male,False,French,NOTSELECTED,45,ND,1100,45+
+202320,fitness and wellness,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,120,45+
+202321,fitness and wellness,JO,Locals,Male,False,French,NOTSELECTED,45,ND,60,45+
+202322,fitness and wellness,KW,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+202323,fitness and wellness,LB,Locals,Male,False,French,NOTSELECTED,45,ND,3600,45+
+202324,fitness and wellness,LY,Locals,Male,False,French,NOTSELECTED,45,ND,160,45+
+202325,fitness and wellness,MA,Locals,Male,False,French,NOTSELECTED,45,ND,90000,45+
+202326,fitness and wellness,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+202327,fitness and wellness,QA,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+202328,fitness and wellness,SA,Locals,Male,False,French,NOTSELECTED,45,ND,1100,45+
+202329,fitness and wellness,SO,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+202330,fitness and wellness,TN,Locals,Male,False,French,NOTSELECTED,45,ND,64000,45+
+202331,fitness and wellness,AE,Locals,Male,False,French,NOTSELECTED,45,ND,160,45+
+202332,fitness and wellness,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+202333,fitness and wellness,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+202334,fitness and wellness,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,22000,45+
+202336,fitness and wellness,EG,Locals,Male,False,French,NOTSELECTED,45,HS,920,45+
+202337,fitness and wellness,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,80,45+
+202338,fitness and wellness,JO,Locals,Male,False,French,NOTSELECTED,45,HS,80,45+
+202339,fitness and wellness,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202340,fitness and wellness,LB,Locals,Male,False,French,NOTSELECTED,45,HS,1300,45+
+202341,fitness and wellness,LY,Locals,Male,False,French,NOTSELECTED,45,HS,70,45+
+202342,fitness and wellness,MA,Locals,Male,False,French,NOTSELECTED,45,HS,24000,45+
+202343,fitness and wellness,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202344,fitness and wellness,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202345,fitness and wellness,SA,Locals,Male,False,French,NOTSELECTED,45,HS,240,45+
+202346,fitness and wellness,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202347,fitness and wellness,TN,Locals,Male,False,French,NOTSELECTED,45,HS,29000,45+
+202348,fitness and wellness,AE,Locals,Male,False,French,NOTSELECTED,45,HS,90,45+
+202349,fitness and wellness,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202350,fitness and wellness,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+202351,fitness and wellness,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,64000,45+
+202353,fitness and wellness,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,5100,45+
+202354,fitness and wellness,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,410,45+
+202355,fitness and wellness,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,420,45+
+202356,fitness and wellness,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+202357,fitness and wellness,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,5800,45+
+202358,fitness and wellness,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,300,45+
+202359,fitness and wellness,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,77000,45+
+202360,fitness and wellness,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+202361,fitness and wellness,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+202362,fitness and wellness,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,880,45+
+202363,fitness and wellness,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+202364,fitness and wellness,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,74000,45+
+202365,fitness and wellness,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,240,45+
+202366,fitness and wellness,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+202367,fitness and wellness,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+202419,fitness and wellness,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,48000,45+
+202421,fitness and wellness,EG,Locals,Female,False,French,NOTSELECTED,45,ND,1600,45+
+202422,fitness and wellness,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,70,45+
+202423,fitness and wellness,JO,Locals,Female,False,French,NOTSELECTED,45,ND,120,45+
+202424,fitness and wellness,KW,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+202425,fitness and wellness,LB,Locals,Female,False,French,NOTSELECTED,45,ND,10000,45+
+202426,fitness and wellness,LY,Locals,Female,False,French,NOTSELECTED,45,ND,70,45+
+202427,fitness and wellness,MA,Locals,Female,False,French,NOTSELECTED,45,ND,57000,45+
+202428,fitness and wellness,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+202429,fitness and wellness,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+202430,fitness and wellness,SA,Locals,Female,False,French,NOTSELECTED,45,ND,470,45+
+202431,fitness and wellness,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+202432,fitness and wellness,TN,Locals,Female,False,French,NOTSELECTED,45,ND,51000,45+
+202433,fitness and wellness,AE,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+202434,fitness and wellness,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+202435,fitness and wellness,PS,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+202436,fitness and wellness,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,13000,45+
+202438,fitness and wellness,EG,Locals,Female,False,French,NOTSELECTED,45,HS,1100,45+
+202439,fitness and wellness,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+202440,fitness and wellness,JO,Locals,Female,False,French,NOTSELECTED,45,HS,80,45+
+202441,fitness and wellness,KW,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+202442,fitness and wellness,LB,Locals,Female,False,French,NOTSELECTED,45,HS,2700,45+
+202443,fitness and wellness,LY,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+202444,fitness and wellness,MA,Locals,Female,False,French,NOTSELECTED,45,HS,15000,45+
+202445,fitness and wellness,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+202446,fitness and wellness,QA,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+202447,fitness and wellness,SA,Locals,Female,False,French,NOTSELECTED,45,HS,120,45+
+202448,fitness and wellness,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+202449,fitness and wellness,TN,Locals,Female,False,French,NOTSELECTED,45,HS,22000,45+
+202450,fitness and wellness,AE,Locals,Female,False,French,NOTSELECTED,45,HS,90,45+
+202451,fitness and wellness,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+202452,fitness and wellness,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+202453,fitness and wellness,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,30000,45+
+202455,fitness and wellness,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,6300,45+
+202456,fitness and wellness,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+202457,fitness and wellness,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,310,45+
+202458,fitness and wellness,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+202459,fitness and wellness,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,9100,45+
+202460,fitness and wellness,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,110,45+
+202461,fitness and wellness,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,38000,45+
+202462,fitness and wellness,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+202463,fitness and wellness,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+202464,fitness and wellness,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,360,45+
+202465,fitness and wellness,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+202466,fitness and wellness,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,41000,45+
+202467,fitness and wellness,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+202468,fitness and wellness,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+202469,fitness and wellness,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+206295,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,ND,18000,18-24
+206297,diabetes awareness,EG,Locals,Male,False,French,24.0,18,ND,660,18-24
+206298,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,ND,160,18-24
+206299,diabetes awareness,JO,Locals,Male,False,French,24.0,18,ND,0,18-24
+206300,diabetes awareness,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+206301,diabetes awareness,LB,Locals,Male,False,French,24.0,18,ND,80,18-24
+206302,diabetes awareness,LY,Locals,Male,False,French,24.0,18,ND,70,18-24
+206303,diabetes awareness,MA,Locals,Male,False,French,24.0,18,ND,8900,18-24
+206304,diabetes awareness,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+206305,diabetes awareness,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+206306,diabetes awareness,SA,Locals,Male,False,French,24.0,18,ND,50,18-24
+206307,diabetes awareness,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+206308,diabetes awareness,TN,Locals,Male,False,French,24.0,18,ND,13000,18-24
+206309,diabetes awareness,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+206310,diabetes awareness,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+206311,diabetes awareness,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+206312,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,HS,10000,18-24
+206314,diabetes awareness,EG,Locals,Male,False,French,24.0,18,HS,5900,18-24
+206315,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,HS,340,18-24
+206316,diabetes awareness,JO,Locals,Male,False,French,24.0,18,HS,100,18-24
+206317,diabetes awareness,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+206318,diabetes awareness,LB,Locals,Male,False,French,24.0,18,HS,300,18-24
+206319,diabetes awareness,LY,Locals,Male,False,French,24.0,18,HS,90,18-24
+206320,diabetes awareness,MA,Locals,Male,False,French,24.0,18,HS,6900,18-24
+206321,diabetes awareness,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+206322,diabetes awareness,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+206323,diabetes awareness,SA,Locals,Male,False,French,24.0,18,HS,50,18-24
+206324,diabetes awareness,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+206325,diabetes awareness,TN,Locals,Male,False,French,24.0,18,HS,9400,18-24
+206326,diabetes awareness,AE,Locals,Male,False,French,24.0,18,HS,30,18-24
+206327,diabetes awareness,YE,Locals,Male,False,French,24.0,18,HS,70,18-24
+206328,diabetes awareness,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+206329,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,GRAD,24000,18-24
+206331,diabetes awareness,EG,Locals,Male,False,French,24.0,18,GRAD,6400,18-24
+206332,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,GRAD,450,18-24
+206333,diabetes awareness,JO,Locals,Male,False,French,24.0,18,GRAD,160,18-24
+206334,diabetes awareness,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206335,diabetes awareness,LB,Locals,Male,False,French,24.0,18,GRAD,360,18-24
+206336,diabetes awareness,LY,Locals,Male,False,French,24.0,18,GRAD,120,18-24
+206337,diabetes awareness,MA,Locals,Male,False,French,24.0,18,GRAD,18000,18-24
+206338,diabetes awareness,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206339,diabetes awareness,QA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206340,diabetes awareness,SA,Locals,Male,False,French,24.0,18,GRAD,110,18-24
+206341,diabetes awareness,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206342,diabetes awareness,TN,Locals,Male,False,French,24.0,18,GRAD,20000,18-24
+206343,diabetes awareness,AE,Locals,Male,False,French,24.0,18,GRAD,50,18-24
+206344,diabetes awareness,YE,Locals,Male,False,French,24.0,18,GRAD,30,18-24
+206345,diabetes awareness,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206397,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,ND,16000,18-24
+206399,diabetes awareness,EG,Locals,Female,False,French,24.0,18,ND,840,18-24
+206400,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,ND,40,18-24
+206401,diabetes awareness,JO,Locals,Female,False,French,24.0,18,ND,50,18-24
+206402,diabetes awareness,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+206403,diabetes awareness,LB,Locals,Female,False,French,24.0,18,ND,190,18-24
+206404,diabetes awareness,LY,Locals,Female,False,French,24.0,18,ND,40,18-24
+206405,diabetes awareness,MA,Locals,Female,False,French,24.0,18,ND,6700,18-24
+206406,diabetes awareness,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+206407,diabetes awareness,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+206408,diabetes awareness,SA,Locals,Female,False,French,24.0,18,ND,110,18-24
+206409,diabetes awareness,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+206410,diabetes awareness,TN,Locals,Female,False,French,24.0,18,ND,10000,18-24
+206411,diabetes awareness,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+206412,diabetes awareness,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+206413,diabetes awareness,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+206414,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,HS,11000,18-24
+206416,diabetes awareness,EG,Locals,Female,False,French,24.0,18,HS,6600,18-24
+206417,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,HS,250,18-24
+206418,diabetes awareness,JO,Locals,Female,False,French,24.0,18,HS,180,18-24
+206419,diabetes awareness,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+206420,diabetes awareness,LB,Locals,Female,False,French,24.0,18,HS,710,18-24
+206421,diabetes awareness,LY,Locals,Female,False,French,24.0,18,HS,110,18-24
+206422,diabetes awareness,MA,Locals,Female,False,French,24.0,18,HS,5600,18-24
+206423,diabetes awareness,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+206424,diabetes awareness,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+206425,diabetes awareness,SA,Locals,Female,False,French,24.0,18,HS,70,18-24
+206426,diabetes awareness,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+206427,diabetes awareness,TN,Locals,Female,False,French,24.0,18,HS,9100,18-24
+206428,diabetes awareness,AE,Locals,Female,False,French,24.0,18,HS,50,18-24
+206429,diabetes awareness,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+206430,diabetes awareness,PS,Locals,Female,False,French,24.0,18,HS,60,18-24
+206431,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,GRAD,24000,18-24
+206433,diabetes awareness,EG,Locals,Female,False,French,24.0,18,GRAD,6600,18-24
+206434,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,GRAD,190,18-24
+206435,diabetes awareness,JO,Locals,Female,False,French,24.0,18,GRAD,110,18-24
+206436,diabetes awareness,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206437,diabetes awareness,LB,Locals,Female,False,French,24.0,18,GRAD,880,18-24
+206438,diabetes awareness,LY,Locals,Female,False,French,24.0,18,GRAD,150,18-24
+206439,diabetes awareness,MA,Locals,Female,False,French,24.0,18,GRAD,12000,18-24
+206440,diabetes awareness,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206441,diabetes awareness,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206442,diabetes awareness,SA,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+206443,diabetes awareness,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206444,diabetes awareness,TN,Locals,Female,False,French,24.0,18,GRAD,18000,18-24
+206445,diabetes awareness,AE,Locals,Female,False,French,24.0,18,GRAD,60,18-24
+206446,diabetes awareness,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206447,diabetes awareness,PS,Locals,Female,False,French,24.0,18,GRAD,70,18-24
+206601,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,ND,27000,25-44
+206603,diabetes awareness,EG,Locals,Male,False,French,44.0,25,ND,360,25-44
+206604,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,ND,80,25-44
+206605,diabetes awareness,JO,Locals,Male,False,French,44.0,25,ND,50,25-44
+206606,diabetes awareness,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+206607,diabetes awareness,LB,Locals,Male,False,French,44.0,25,ND,180,25-44
+206608,diabetes awareness,LY,Locals,Male,False,French,44.0,25,ND,80,25-44
+206609,diabetes awareness,MA,Locals,Male,False,French,44.0,25,ND,14000,25-44
+206610,diabetes awareness,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+206611,diabetes awareness,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+206612,diabetes awareness,SA,Locals,Male,False,French,44.0,25,ND,250,25-44
+206613,diabetes awareness,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+206614,diabetes awareness,TN,Locals,Male,False,French,44.0,25,ND,20000,25-44
+206615,diabetes awareness,AE,Locals,Male,False,French,44.0,25,ND,30,25-44
+206616,diabetes awareness,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+206617,diabetes awareness,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+206618,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,HS,7800,25-44
+206620,diabetes awareness,EG,Locals,Male,False,French,44.0,25,HS,620,25-44
+206621,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,HS,130,25-44
+206622,diabetes awareness,JO,Locals,Male,False,French,44.0,25,HS,50,25-44
+206623,diabetes awareness,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+206624,diabetes awareness,LB,Locals,Male,False,French,44.0,25,HS,140,25-44
+206625,diabetes awareness,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+206626,diabetes awareness,MA,Locals,Male,False,French,44.0,25,HS,5000,25-44
+206627,diabetes awareness,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+206628,diabetes awareness,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+206629,diabetes awareness,SA,Locals,Male,False,French,44.0,25,HS,90,25-44
+206630,diabetes awareness,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+206631,diabetes awareness,TN,Locals,Male,False,French,44.0,25,HS,8500,25-44
+206632,diabetes awareness,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+206633,diabetes awareness,YE,Locals,Male,False,French,44.0,25,HS,40,25-44
+206634,diabetes awareness,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+206635,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,GRAD,35000,25-44
+206637,diabetes awareness,EG,Locals,Male,False,French,44.0,25,GRAD,4700,25-44
+206638,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,GRAD,580,25-44
+206639,diabetes awareness,JO,Locals,Male,False,French,44.0,25,GRAD,220,25-44
+206640,diabetes awareness,KW,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+206641,diabetes awareness,LB,Locals,Male,False,French,44.0,25,GRAD,790,25-44
+206642,diabetes awareness,LY,Locals,Male,False,French,44.0,25,GRAD,190,25-44
+206643,diabetes awareness,MA,Locals,Male,False,French,44.0,25,GRAD,20000,25-44
+206644,diabetes awareness,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+206645,diabetes awareness,QA,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+206646,diabetes awareness,SA,Locals,Male,False,French,44.0,25,GRAD,470,25-44
+206647,diabetes awareness,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+206648,diabetes awareness,TN,Locals,Male,False,French,44.0,25,GRAD,30000,25-44
+206649,diabetes awareness,AE,Locals,Male,False,French,44.0,25,GRAD,170,25-44
+206650,diabetes awareness,YE,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+206651,diabetes awareness,PS,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+206703,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,ND,19000,25-44
+206705,diabetes awareness,EG,Locals,Female,False,French,44.0,25,ND,450,25-44
+206706,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,ND,70,25-44
+206707,diabetes awareness,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+206708,diabetes awareness,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+206709,diabetes awareness,LB,Locals,Female,False,French,44.0,25,ND,370,25-44
+206710,diabetes awareness,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+206711,diabetes awareness,MA,Locals,Female,False,French,44.0,25,ND,8900,25-44
+206712,diabetes awareness,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+206713,diabetes awareness,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+206714,diabetes awareness,SA,Locals,Female,False,French,44.0,25,ND,150,25-44
+206715,diabetes awareness,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+206716,diabetes awareness,TN,Locals,Female,False,French,44.0,25,ND,14000,25-44
+206717,diabetes awareness,AE,Locals,Female,False,French,44.0,25,ND,0,25-44
+206718,diabetes awareness,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+206719,diabetes awareness,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+206720,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,HS,5500,25-44
+206722,diabetes awareness,EG,Locals,Female,False,French,44.0,25,HS,630,25-44
+206723,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,HS,40,25-44
+206724,diabetes awareness,JO,Locals,Female,False,French,44.0,25,HS,30,25-44
+206725,diabetes awareness,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+206726,diabetes awareness,LB,Locals,Female,False,French,44.0,25,HS,280,25-44
+206727,diabetes awareness,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+206728,diabetes awareness,MA,Locals,Female,False,French,44.0,25,HS,3400,25-44
+206729,diabetes awareness,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+206730,diabetes awareness,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+206731,diabetes awareness,SA,Locals,Female,False,French,44.0,25,HS,80,25-44
+206732,diabetes awareness,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+206733,diabetes awareness,TN,Locals,Female,False,French,44.0,25,HS,6100,25-44
+206734,diabetes awareness,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+206735,diabetes awareness,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+206736,diabetes awareness,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+206737,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,GRAD,29000,25-44
+206739,diabetes awareness,EG,Locals,Female,False,French,44.0,25,GRAD,5500,25-44
+206740,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,GRAD,180,25-44
+206741,diabetes awareness,JO,Locals,Female,False,French,44.0,25,GRAD,150,25-44
+206742,diabetes awareness,KW,Locals,Female,False,French,44.0,25,GRAD,40,25-44
+206743,diabetes awareness,LB,Locals,Female,False,French,44.0,25,GRAD,1600,25-44
+206744,diabetes awareness,LY,Locals,Female,False,French,44.0,25,GRAD,130,25-44
+206745,diabetes awareness,MA,Locals,Female,False,French,44.0,25,GRAD,13000,25-44
+206746,diabetes awareness,OM,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+206747,diabetes awareness,QA,Locals,Female,False,French,44.0,25,GRAD,90,25-44
+206748,diabetes awareness,SA,Locals,Female,False,French,44.0,25,GRAD,460,25-44
+206749,diabetes awareness,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206750,diabetes awareness,TN,Locals,Female,False,French,44.0,25,GRAD,25000,25-44
+206751,diabetes awareness,AE,Locals,Female,False,French,44.0,25,GRAD,80,25-44
+206752,diabetes awareness,YE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206753,diabetes awareness,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206907,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,6900,45+
+206909,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+206910,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206911,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206912,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206913,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,ND,190,45+
+206914,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206915,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,ND,4400,45+
+206916,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206917,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206918,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,ND,60,45+
+206919,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206920,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,ND,8300,45+
+206921,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206922,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206923,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206924,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,2200,45+
+206926,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,HS,100,45+
+206927,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206928,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206929,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206930,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,HS,70,45+
+206931,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206932,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,HS,1400,45+
+206933,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206934,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206935,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206936,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206937,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,HS,3800,45+
+206938,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206939,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206940,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206941,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,6600,45+
+206943,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,410,45+
+206944,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+206945,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+206946,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206947,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,310,45+
+206948,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206949,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,4400,45+
+206950,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206951,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206952,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+206953,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206954,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,9200,45+
+206955,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206956,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206957,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207009,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,5600,45+
+207011,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,ND,250,45+
+207012,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207013,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207014,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207015,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,ND,890,45+
+207016,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207017,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,ND,3000,45+
+207018,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207019,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207020,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207021,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207022,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,ND,6300,45+
+207023,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207024,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207025,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207026,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,2000,45+
+207028,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,HS,150,45+
+207029,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207030,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207031,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207032,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,HS,230,45+
+207033,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207034,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,HS,980,45+
+207035,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207036,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207037,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207038,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207039,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,HS,2700,45+
+207040,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207041,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207042,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207043,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,4400,45+
+207045,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,870,45+
+207046,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+207047,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207048,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207049,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,890,45+
+207050,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207051,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,2300,45+
+207052,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207053,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207054,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+207055,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207056,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,4800,45+
+207057,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207058,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207059,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
 3264,fitness and wellness,DZ,Expats,Male,False,Arabic,24.0,18,ND,250000,18-24
 3266,fitness and wellness,EG,Expats,Male,False,Arabic,24.0,18,ND,425000,18-24
 3267,fitness and wellness,IQ,Expats,Male,False,Arabic,24.0,18,ND,355000,18-24
@@ -5759,3 +6335,579 @@
 58222,diabetes awareness,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,3500,45+
 58223,diabetes awareness,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 58224,diabetes awareness,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+201654,fitness and wellness,DZ,Expats,Male,False,French,24.0,18,ND,185000,18-24
+201656,fitness and wellness,EG,Expats,Male,False,French,24.0,18,ND,5500,18-24
+201657,fitness and wellness,IQ,Expats,Male,False,French,24.0,18,ND,900,18-24
+201658,fitness and wellness,JO,Expats,Male,False,French,24.0,18,ND,600,18-24
+201659,fitness and wellness,KW,Expats,Male,False,French,24.0,18,ND,205,18-24
+201660,fitness and wellness,LB,Expats,Male,False,French,24.0,18,ND,2200,18-24
+201661,fitness and wellness,LY,Expats,Male,False,French,24.0,18,ND,1350,18-24
+201662,fitness and wellness,MA,Expats,Male,False,French,24.0,18,ND,150000,18-24
+201663,fitness and wellness,OM,Expats,Male,False,French,24.0,18,ND,70,18-24
+201664,fitness and wellness,QA,Expats,Male,False,French,24.0,18,ND,550,18-24
+201665,fitness and wellness,SA,Expats,Male,False,French,24.0,18,ND,1400,18-24
+201666,fitness and wellness,SO,Expats,Male,False,French,24.0,18,ND,60,18-24
+201667,fitness and wellness,TN,Expats,Male,False,French,24.0,18,ND,80000,18-24
+201668,fitness and wellness,AE,Expats,Male,False,French,24.0,18,ND,1200,18-24
+201669,fitness and wellness,YE,Expats,Male,False,French,24.0,18,ND,45,18-24
+201670,fitness and wellness,PS,Expats,Male,False,French,24.0,18,ND,125,18-24
+201671,fitness and wellness,DZ,Expats,Male,False,French,24.0,18,HS,95000,18-24
+201673,fitness and wellness,EG,Expats,Male,False,French,24.0,18,HS,37000,18-24
+201674,fitness and wellness,IQ,Expats,Male,False,French,24.0,18,HS,2000,18-24
+201675,fitness and wellness,JO,Expats,Male,False,French,24.0,18,HS,2150,18-24
+201676,fitness and wellness,KW,Expats,Male,False,French,24.0,18,HS,215,18-24
+201677,fitness and wellness,LB,Expats,Male,False,French,24.0,18,HS,4950,18-24
+201678,fitness and wellness,LY,Expats,Male,False,French,24.0,18,HS,600,18-24
+201679,fitness and wellness,MA,Expats,Male,False,French,24.0,18,HS,105000,18-24
+201680,fitness and wellness,OM,Expats,Male,False,French,24.0,18,HS,165,18-24
+201681,fitness and wellness,QA,Expats,Male,False,French,24.0,18,HS,430,18-24
+201682,fitness and wellness,SA,Expats,Male,False,French,24.0,18,HS,1350,18-24
+201683,fitness and wellness,SO,Expats,Male,False,French,24.0,18,HS,110,18-24
+201684,fitness and wellness,TN,Expats,Male,False,French,24.0,18,HS,55000,18-24
+201685,fitness and wellness,AE,Expats,Male,False,French,24.0,18,HS,1650,18-24
+201686,fitness and wellness,YE,Expats,Male,False,French,24.0,18,HS,195,18-24
+201687,fitness and wellness,PS,Expats,Male,False,French,24.0,18,HS,360,18-24
+201688,fitness and wellness,DZ,Expats,Male,False,French,24.0,18,GRAD,220000,18-24
+201690,fitness and wellness,EG,Expats,Male,False,French,24.0,18,GRAD,46000,18-24
+201691,fitness and wellness,IQ,Expats,Male,False,French,24.0,18,GRAD,1800,18-24
+201692,fitness and wellness,JO,Expats,Male,False,French,24.0,18,GRAD,2350,18-24
+201693,fitness and wellness,KW,Expats,Male,False,French,24.0,18,GRAD,450,18-24
+201694,fitness and wellness,LB,Expats,Male,False,French,24.0,18,GRAD,5000,18-24
+201695,fitness and wellness,LY,Expats,Male,False,French,24.0,18,GRAD,1200,18-24
+201696,fitness and wellness,MA,Expats,Male,False,French,24.0,18,GRAD,270000,18-24
+201697,fitness and wellness,OM,Expats,Male,False,French,24.0,18,GRAD,225,18-24
+201698,fitness and wellness,QA,Expats,Male,False,French,24.0,18,GRAD,1000,18-24
+201699,fitness and wellness,SA,Expats,Male,False,French,24.0,18,GRAD,2500,18-24
+201700,fitness and wellness,SO,Expats,Male,False,French,24.0,18,GRAD,330,18-24
+201701,fitness and wellness,TN,Expats,Male,False,French,24.0,18,GRAD,110000,18-24
+201702,fitness and wellness,AE,Expats,Male,False,French,24.0,18,GRAD,3150,18-24
+201703,fitness and wellness,YE,Expats,Male,False,French,24.0,18,GRAD,215,18-24
+201704,fitness and wellness,PS,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+201756,fitness and wellness,DZ,Expats,Female,False,French,24.0,18,ND,135000,18-24
+201758,fitness and wellness,EG,Expats,Female,False,French,24.0,18,ND,5000,18-24
+201759,fitness and wellness,IQ,Expats,Female,False,French,24.0,18,ND,410,18-24
+201760,fitness and wellness,JO,Expats,Female,False,French,24.0,18,ND,650,18-24
+201761,fitness and wellness,KW,Expats,Female,False,French,24.0,18,ND,310,18-24
+201762,fitness and wellness,LB,Expats,Female,False,French,24.0,18,ND,2650,18-24
+201763,fitness and wellness,LY,Expats,Female,False,French,24.0,18,ND,410,18-24
+201764,fitness and wellness,MA,Expats,Female,False,French,24.0,18,ND,125000,18-24
+201765,fitness and wellness,OM,Expats,Female,False,French,24.0,18,ND,70,18-24
+201766,fitness and wellness,QA,Expats,Female,False,French,24.0,18,ND,210,18-24
+201767,fitness and wellness,SA,Expats,Female,False,French,24.0,18,ND,1350,18-24
+201768,fitness and wellness,SO,Expats,Female,False,French,24.0,18,ND,65,18-24
+201769,fitness and wellness,TN,Expats,Female,False,French,24.0,18,ND,80000,18-24
+201770,fitness and wellness,AE,Expats,Female,False,French,24.0,18,ND,1100,18-24
+201771,fitness and wellness,YE,Expats,Female,False,French,24.0,18,ND,40,18-24
+201772,fitness and wellness,PS,Expats,Female,False,French,24.0,18,ND,90,18-24
+201773,fitness and wellness,DZ,Expats,Female,False,French,24.0,18,HS,70000,18-24
+201775,fitness and wellness,EG,Expats,Female,False,French,24.0,18,HS,35000,18-24
+201776,fitness and wellness,IQ,Expats,Female,False,French,24.0,18,HS,1200,18-24
+201777,fitness and wellness,JO,Expats,Female,False,French,24.0,18,HS,2450,18-24
+201778,fitness and wellness,KW,Expats,Female,False,French,24.0,18,HS,290,18-24
+201779,fitness and wellness,LB,Expats,Female,False,French,24.0,18,HS,7000,18-24
+201780,fitness and wellness,LY,Expats,Female,False,French,24.0,18,HS,700,18-24
+201781,fitness and wellness,MA,Expats,Female,False,French,24.0,18,HS,80000,18-24
+201782,fitness and wellness,OM,Expats,Female,False,French,24.0,18,HS,125,18-24
+201783,fitness and wellness,QA,Expats,Female,False,French,24.0,18,HS,310,18-24
+201784,fitness and wellness,SA,Expats,Female,False,French,24.0,18,HS,1200,18-24
+201785,fitness and wellness,SO,Expats,Female,False,French,24.0,18,HS,25,18-24
+201786,fitness and wellness,TN,Expats,Female,False,French,24.0,18,HS,55000,18-24
+201787,fitness and wellness,AE,Expats,Female,False,French,24.0,18,HS,1700,18-24
+201788,fitness and wellness,YE,Expats,Female,False,French,24.0,18,HS,75,18-24
+201789,fitness and wellness,PS,Expats,Female,False,French,24.0,18,HS,650,18-24
+201790,fitness and wellness,DZ,Expats,Female,False,French,24.0,18,GRAD,145000,18-24
+201792,fitness and wellness,EG,Expats,Female,False,French,24.0,18,GRAD,37000,18-24
+201793,fitness and wellness,IQ,Expats,Female,False,French,24.0,18,GRAD,850,18-24
+201794,fitness and wellness,JO,Expats,Female,False,French,24.0,18,GRAD,1900,18-24
+201795,fitness and wellness,KW,Expats,Female,False,French,24.0,18,GRAD,330,18-24
+201796,fitness and wellness,LB,Expats,Female,False,French,24.0,18,GRAD,7000,18-24
+201797,fitness and wellness,LY,Expats,Female,False,French,24.0,18,GRAD,750,18-24
+201798,fitness and wellness,MA,Expats,Female,False,French,24.0,18,GRAD,170000,18-24
+201799,fitness and wellness,OM,Expats,Female,False,French,24.0,18,GRAD,55,18-24
+201800,fitness and wellness,QA,Expats,Female,False,French,24.0,18,GRAD,600,18-24
+201801,fitness and wellness,SA,Expats,Female,False,French,24.0,18,GRAD,1450,18-24
+201802,fitness and wellness,SO,Expats,Female,False,French,24.0,18,GRAD,90,18-24
+201803,fitness and wellness,TN,Expats,Female,False,French,24.0,18,GRAD,105000,18-24
+201804,fitness and wellness,AE,Expats,Female,False,French,24.0,18,GRAD,2450,18-24
+201805,fitness and wellness,YE,Expats,Female,False,French,24.0,18,GRAD,80,18-24
+201806,fitness and wellness,PS,Expats,Female,False,French,24.0,18,GRAD,650,18-24
+201960,fitness and wellness,DZ,Expats,Male,False,French,44.0,25,ND,265000,25-44
+201962,fitness and wellness,EG,Expats,Male,False,French,44.0,25,ND,3300,25-44
+201963,fitness and wellness,IQ,Expats,Male,False,French,44.0,25,ND,700,25-44
+201964,fitness and wellness,JO,Expats,Male,False,French,44.0,25,ND,415,25-44
+201965,fitness and wellness,KW,Expats,Male,False,French,44.0,25,ND,480,25-44
+201966,fitness and wellness,LB,Expats,Male,False,French,44.0,25,ND,3150,25-44
+201967,fitness and wellness,LY,Expats,Male,False,French,44.0,25,ND,2250,25-44
+201968,fitness and wellness,MA,Expats,Male,False,French,44.0,25,ND,210000,25-44
+201969,fitness and wellness,OM,Expats,Male,False,French,44.0,25,ND,270,25-44
+201970,fitness and wellness,QA,Expats,Male,False,French,44.0,25,ND,2000,25-44
+201971,fitness and wellness,SA,Expats,Male,False,French,44.0,25,ND,3650,25-44
+201972,fitness and wellness,SO,Expats,Male,False,French,44.0,25,ND,175,25-44
+201973,fitness and wellness,TN,Expats,Male,False,French,44.0,25,ND,130000,25-44
+201974,fitness and wellness,AE,Expats,Male,False,French,44.0,25,ND,3650,25-44
+201975,fitness and wellness,YE,Expats,Male,False,French,44.0,25,ND,35,25-44
+201976,fitness and wellness,PS,Expats,Male,False,French,44.0,25,ND,45,25-44
+201977,fitness and wellness,DZ,Expats,Male,False,French,44.0,25,HS,75000,25-44
+201979,fitness and wellness,EG,Expats,Male,False,French,44.0,25,HS,5000,25-44
+201980,fitness and wellness,IQ,Expats,Male,False,French,44.0,25,HS,550,25-44
+201981,fitness and wellness,JO,Expats,Male,False,French,44.0,25,HS,550,25-44
+201982,fitness and wellness,KW,Expats,Male,False,French,44.0,25,HS,315,25-44
+201983,fitness and wellness,LB,Expats,Male,False,French,44.0,25,HS,2650,25-44
+201984,fitness and wellness,LY,Expats,Male,False,French,44.0,25,HS,650,25-44
+201985,fitness and wellness,MA,Expats,Male,False,French,44.0,25,HS,75000,25-44
+201986,fitness and wellness,OM,Expats,Male,False,French,44.0,25,HS,155,25-44
+201987,fitness and wellness,QA,Expats,Male,False,French,44.0,25,HS,1100,25-44
+201988,fitness and wellness,SA,Expats,Male,False,French,44.0,25,HS,2150,25-44
+201989,fitness and wellness,SO,Expats,Male,False,French,44.0,25,HS,45,25-44
+201990,fitness and wellness,TN,Expats,Male,False,French,44.0,25,HS,55000,25-44
+201991,fitness and wellness,AE,Expats,Male,False,French,44.0,25,HS,2650,25-44
+201992,fitness and wellness,YE,Expats,Male,False,French,44.0,25,HS,65,25-44
+201993,fitness and wellness,PS,Expats,Male,False,French,44.0,25,HS,90,25-44
+201994,fitness and wellness,DZ,Expats,Male,False,French,44.0,25,GRAD,300000,25-44
+201996,fitness and wellness,EG,Expats,Male,False,French,44.0,25,GRAD,35500,25-44
+201997,fitness and wellness,IQ,Expats,Male,False,French,44.0,25,GRAD,2350,25-44
+201998,fitness and wellness,JO,Expats,Male,False,French,44.0,25,GRAD,2600,25-44
+201999,fitness and wellness,KW,Expats,Male,False,French,44.0,25,GRAD,1900,25-44
+202000,fitness and wellness,LB,Expats,Male,False,French,44.0,25,GRAD,10500,25-44
+202001,fitness and wellness,LY,Expats,Male,False,French,44.0,25,GRAD,2300,25-44
+202002,fitness and wellness,MA,Expats,Male,False,French,44.0,25,GRAD,285000,25-44
+202003,fitness and wellness,OM,Expats,Male,False,French,44.0,25,GRAD,1100,25-44
+202004,fitness and wellness,QA,Expats,Male,False,French,44.0,25,GRAD,5500,25-44
+202005,fitness and wellness,SA,Expats,Male,False,French,44.0,25,GRAD,12500,25-44
+202006,fitness and wellness,SO,Expats,Male,False,French,44.0,25,GRAD,465,25-44
+202007,fitness and wellness,TN,Expats,Male,False,French,44.0,25,GRAD,190000,25-44
+202008,fitness and wellness,AE,Expats,Male,False,French,44.0,25,GRAD,14500,25-44
+202009,fitness and wellness,YE,Expats,Male,False,French,44.0,25,GRAD,355,25-44
+202010,fitness and wellness,PS,Expats,Male,False,French,44.0,25,GRAD,600,25-44
+202062,fitness and wellness,DZ,Expats,Female,False,French,44.0,25,ND,140000,25-44
+202064,fitness and wellness,EG,Expats,Female,False,French,44.0,25,ND,3000,25-44
+202065,fitness and wellness,IQ,Expats,Female,False,French,44.0,25,ND,315,25-44
+202066,fitness and wellness,JO,Expats,Female,False,French,44.0,25,ND,390,25-44
+202067,fitness and wellness,KW,Expats,Female,False,French,44.0,25,ND,600,25-44
+202068,fitness and wellness,LB,Expats,Female,False,French,44.0,25,ND,6500,25-44
+202069,fitness and wellness,LY,Expats,Female,False,French,44.0,25,ND,500,25-44
+202070,fitness and wellness,MA,Expats,Female,False,French,44.0,25,ND,130000,25-44
+202071,fitness and wellness,OM,Expats,Female,False,French,44.0,25,ND,250,25-44
+202072,fitness and wellness,QA,Expats,Female,False,French,44.0,25,ND,800,25-44
+202073,fitness and wellness,SA,Expats,Female,False,French,44.0,25,ND,2500,25-44
+202074,fitness and wellness,SO,Expats,Female,False,French,44.0,25,ND,50,25-44
+202075,fitness and wellness,TN,Expats,Female,False,French,44.0,25,ND,110000,25-44
+202076,fitness and wellness,AE,Expats,Female,False,French,44.0,25,ND,3200,25-44
+202077,fitness and wellness,YE,Expats,Female,False,French,44.0,25,ND,20,25-44
+202078,fitness and wellness,PS,Expats,Female,False,French,44.0,25,ND,105,25-44
+202079,fitness and wellness,DZ,Expats,Female,False,French,44.0,25,HS,34500,25-44
+202081,fitness and wellness,EG,Expats,Female,False,French,44.0,25,HS,3700,25-44
+202082,fitness and wellness,IQ,Expats,Female,False,French,44.0,25,HS,245,25-44
+202083,fitness and wellness,JO,Expats,Female,False,French,44.0,25,HS,400,25-44
+202084,fitness and wellness,KW,Expats,Female,False,French,44.0,25,HS,300,25-44
+202085,fitness and wellness,LB,Expats,Female,False,French,44.0,25,HS,3450,25-44
+202086,fitness and wellness,LY,Expats,Female,False,French,44.0,25,HS,185,25-44
+202087,fitness and wellness,MA,Expats,Female,False,French,44.0,25,HS,42500,25-44
+202088,fitness and wellness,OM,Expats,Female,False,French,44.0,25,HS,110,25-44
+202089,fitness and wellness,QA,Expats,Female,False,French,44.0,25,HS,365,25-44
+202090,fitness and wellness,SA,Expats,Female,False,French,44.0,25,HS,1150,25-44
+202091,fitness and wellness,SO,Expats,Female,False,French,44.0,25,HS,35,25-44
+202092,fitness and wellness,TN,Expats,Female,False,French,44.0,25,HS,43000,25-44
+202093,fitness and wellness,AE,Expats,Female,False,French,44.0,25,HS,1950,25-44
+202094,fitness and wellness,YE,Expats,Female,False,French,44.0,25,HS,15,25-44
+202095,fitness and wellness,PS,Expats,Female,False,French,44.0,25,HS,90,25-44
+202096,fitness and wellness,DZ,Expats,Female,False,French,44.0,25,GRAD,160000,25-44
+202098,fitness and wellness,EG,Expats,Female,False,French,44.0,25,GRAD,27500,25-44
+202099,fitness and wellness,IQ,Expats,Female,False,French,44.0,25,GRAD,1100,25-44
+202100,fitness and wellness,JO,Expats,Female,False,French,44.0,25,GRAD,2450,25-44
+202101,fitness and wellness,KW,Expats,Female,False,French,44.0,25,GRAD,1450,25-44
+202102,fitness and wellness,LB,Expats,Female,False,French,44.0,25,GRAD,15000,25-44
+202103,fitness and wellness,LY,Expats,Female,False,French,44.0,25,GRAD,700,25-44
+202104,fitness and wellness,MA,Expats,Female,False,French,44.0,25,GRAD,155000,25-44
+202105,fitness and wellness,OM,Expats,Female,False,French,44.0,25,GRAD,700,25-44
+202106,fitness and wellness,QA,Expats,Female,False,French,44.0,25,GRAD,2700,25-44
+202107,fitness and wellness,SA,Expats,Female,False,French,44.0,25,GRAD,5000,25-44
+202108,fitness and wellness,SO,Expats,Female,False,French,44.0,25,GRAD,105,25-44
+202109,fitness and wellness,TN,Expats,Female,False,French,44.0,25,GRAD,170000,25-44
+202110,fitness and wellness,AE,Expats,Female,False,French,44.0,25,GRAD,10500,25-44
+202111,fitness and wellness,YE,Expats,Female,False,French,44.0,25,GRAD,130,25-44
+202112,fitness and wellness,PS,Expats,Female,False,French,44.0,25,GRAD,650,25-44
+202266,fitness and wellness,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,43500,45+
+202268,fitness and wellness,EG,Expats,Male,False,French,NOTSELECTED,45,ND,700,45+
+202269,fitness and wellness,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,130,45+
+202270,fitness and wellness,JO,Expats,Male,False,French,NOTSELECTED,45,ND,65,45+
+202271,fitness and wellness,KW,Expats,Male,False,French,NOTSELECTED,45,ND,90,45+
+202272,fitness and wellness,LB,Expats,Male,False,French,NOTSELECTED,45,ND,2000,45+
+202273,fitness and wellness,LY,Expats,Male,False,French,NOTSELECTED,45,ND,195,45+
+202274,fitness and wellness,MA,Expats,Male,False,French,NOTSELECTED,45,ND,48000,45+
+202275,fitness and wellness,OM,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+202276,fitness and wellness,QA,Expats,Male,False,French,NOTSELECTED,45,ND,215,45+
+202277,fitness and wellness,SA,Expats,Male,False,French,NOTSELECTED,45,ND,900,45+
+202278,fitness and wellness,SO,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+202279,fitness and wellness,TN,Expats,Male,False,French,NOTSELECTED,45,ND,34500,45+
+202280,fitness and wellness,AE,Expats,Male,False,French,NOTSELECTED,45,ND,650,45+
+202281,fitness and wellness,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+202282,fitness and wellness,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+202283,fitness and wellness,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,13000,45+
+202285,fitness and wellness,EG,Expats,Male,False,French,NOTSELECTED,45,HS,550,45+
+202286,fitness and wellness,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,70,45+
+202287,fitness and wellness,JO,Expats,Male,False,French,NOTSELECTED,45,HS,65,45+
+202288,fitness and wellness,KW,Expats,Male,False,French,NOTSELECTED,45,HS,50,45+
+202289,fitness and wellness,LB,Expats,Male,False,French,NOTSELECTED,45,HS,750,45+
+202290,fitness and wellness,LY,Expats,Male,False,French,NOTSELECTED,45,HS,75,45+
+202291,fitness and wellness,MA,Expats,Male,False,French,NOTSELECTED,45,HS,13500,45+
+202292,fitness and wellness,OM,Expats,Male,False,French,NOTSELECTED,45,HS,45,45+
+202293,fitness and wellness,QA,Expats,Male,False,French,NOTSELECTED,45,HS,110,45+
+202294,fitness and wellness,SA,Expats,Male,False,French,NOTSELECTED,45,HS,325,45+
+202295,fitness and wellness,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+202296,fitness and wellness,TN,Expats,Male,False,French,NOTSELECTED,45,HS,16000,45+
+202297,fitness and wellness,AE,Expats,Male,False,French,NOTSELECTED,45,HS,360,45+
+202298,fitness and wellness,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+202299,fitness and wellness,PS,Expats,Male,False,French,NOTSELECTED,45,HS,15,45+
+202300,fitness and wellness,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,37500,45+
+202302,fitness and wellness,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,2900,45+
+202303,fitness and wellness,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,275,45+
+202304,fitness and wellness,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,360,45+
+202305,fitness and wellness,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,225,45+
+202306,fitness and wellness,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,3350,45+
+202307,fitness and wellness,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,290,45+
+202308,fitness and wellness,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,43000,45+
+202309,fitness and wellness,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,145,45+
+202310,fitness and wellness,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,650,45+
+202311,fitness and wellness,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,1550,45+
+202312,fitness and wellness,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,35,45+
+202313,fitness and wellness,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,40500,45+
+202314,fitness and wellness,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,1600,45+
+202315,fitness and wellness,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+202316,fitness and wellness,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,75,45+
+202368,fitness and wellness,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,26000,45+
+202370,fitness and wellness,EG,Expats,Female,False,French,NOTSELECTED,45,ND,1000,45+
+202371,fitness and wellness,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,50,45+
+202372,fitness and wellness,JO,Expats,Female,False,French,NOTSELECTED,45,ND,145,45+
+202373,fitness and wellness,KW,Expats,Female,False,French,NOTSELECTED,45,ND,100,45+
+202374,fitness and wellness,LB,Expats,Female,False,French,NOTSELECTED,45,ND,5500,45+
+202375,fitness and wellness,LY,Expats,Female,False,French,NOTSELECTED,45,ND,85,45+
+202376,fitness and wellness,MA,Expats,Female,False,French,NOTSELECTED,45,ND,30500,45+
+202377,fitness and wellness,OM,Expats,Female,False,French,NOTSELECTED,45,ND,45,45+
+202378,fitness and wellness,QA,Expats,Female,False,French,NOTSELECTED,45,ND,160,45+
+202379,fitness and wellness,SA,Expats,Female,False,French,NOTSELECTED,45,ND,410,45+
+202380,fitness and wellness,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+202381,fitness and wellness,TN,Expats,Female,False,French,NOTSELECTED,45,ND,27000,45+
+202382,fitness and wellness,AE,Expats,Female,False,French,NOTSELECTED,45,ND,650,45+
+202383,fitness and wellness,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+202384,fitness and wellness,PS,Expats,Female,False,French,NOTSELECTED,45,ND,25,45+
+202385,fitness and wellness,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,7000,45+
+202387,fitness and wellness,EG,Expats,Female,False,French,NOTSELECTED,45,HS,650,45+
+202388,fitness and wellness,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+202389,fitness and wellness,JO,Expats,Female,False,French,NOTSELECTED,45,HS,90,45+
+202390,fitness and wellness,KW,Expats,Female,False,French,NOTSELECTED,45,HS,45,45+
+202391,fitness and wellness,LB,Expats,Female,False,French,NOTSELECTED,45,HS,1550,45+
+202392,fitness and wellness,LY,Expats,Female,False,French,NOTSELECTED,45,HS,30,45+
+202393,fitness and wellness,MA,Expats,Female,False,French,NOTSELECTED,45,HS,8500,45+
+202394,fitness and wellness,OM,Expats,Female,False,French,NOTSELECTED,45,HS,25,45+
+202395,fitness and wellness,QA,Expats,Female,False,French,NOTSELECTED,45,HS,90,45+
+202396,fitness and wellness,SA,Expats,Female,False,French,NOTSELECTED,45,HS,155,45+
+202397,fitness and wellness,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+202398,fitness and wellness,TN,Expats,Female,False,French,NOTSELECTED,45,HS,12000,45+
+202399,fitness and wellness,AE,Expats,Female,False,French,NOTSELECTED,45,HS,250,45+
+202400,fitness and wellness,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+202401,fitness and wellness,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+202402,fitness and wellness,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,17000,45+
+202404,fitness and wellness,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,3450,45+
+202405,fitness and wellness,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,110,45+
+202406,fitness and wellness,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,300,45+
+202407,fitness and wellness,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,210,45+
+202408,fitness and wellness,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,5000,45+
+202409,fitness and wellness,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,100,45+
+202410,fitness and wellness,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,21000,45+
+202411,fitness and wellness,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,75,45+
+202412,fitness and wellness,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,230,45+
+202413,fitness and wellness,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,500,45+
+202414,fitness and wellness,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+202415,fitness and wellness,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,22500,45+
+202416,fitness and wellness,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,1050,45+
+202417,fitness and wellness,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+202418,fitness and wellness,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,75,45+
+206244,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,ND,10000,18-24
+206246,diabetes awareness,EG,Expats,Male,False,French,24.0,18,ND,360,18-24
+206247,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,ND,85,18-24
+206248,diabetes awareness,JO,Expats,Male,False,French,24.0,18,ND,15,18-24
+206249,diabetes awareness,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+206250,diabetes awareness,LB,Expats,Male,False,French,24.0,18,ND,45,18-24
+206251,diabetes awareness,LY,Expats,Male,False,French,24.0,18,ND,90,18-24
+206252,diabetes awareness,MA,Expats,Male,False,French,24.0,18,ND,4800,18-24
+206253,diabetes awareness,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+206254,diabetes awareness,QA,Expats,Male,False,French,24.0,18,ND,0,18-24
+206255,diabetes awareness,SA,Expats,Male,False,French,24.0,18,ND,30,18-24
+206256,diabetes awareness,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+206257,diabetes awareness,TN,Expats,Male,False,French,24.0,18,ND,7000,18-24
+206258,diabetes awareness,AE,Expats,Male,False,French,24.0,18,ND,50,18-24
+206259,diabetes awareness,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+206260,diabetes awareness,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+206261,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,HS,6500,18-24
+206263,diabetes awareness,EG,Expats,Male,False,French,24.0,18,HS,3100,18-24
+206264,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,HS,190,18-24
+206265,diabetes awareness,JO,Expats,Male,False,French,24.0,18,HS,80,18-24
+206266,diabetes awareness,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+206267,diabetes awareness,LB,Expats,Male,False,French,24.0,18,HS,205,18-24
+206268,diabetes awareness,LY,Expats,Male,False,French,24.0,18,HS,70,18-24
+206269,diabetes awareness,MA,Expats,Male,False,French,24.0,18,HS,3850,18-24
+206270,diabetes awareness,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+206271,diabetes awareness,QA,Expats,Male,False,French,24.0,18,HS,15,18-24
+206272,diabetes awareness,SA,Expats,Male,False,French,24.0,18,HS,85,18-24
+206273,diabetes awareness,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+206274,diabetes awareness,TN,Expats,Male,False,French,24.0,18,HS,5500,18-24
+206275,diabetes awareness,AE,Expats,Male,False,French,24.0,18,HS,80,18-24
+206276,diabetes awareness,YE,Expats,Male,False,French,24.0,18,HS,45,18-24
+206277,diabetes awareness,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+206278,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,GRAD,15500,18-24
+206280,diabetes awareness,EG,Expats,Male,False,French,24.0,18,GRAD,3300,18-24
+206281,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,GRAD,260,18-24
+206282,diabetes awareness,JO,Expats,Male,False,French,24.0,18,GRAD,105,18-24
+206283,diabetes awareness,KW,Expats,Male,False,French,24.0,18,GRAD,20,18-24
+206284,diabetes awareness,LB,Expats,Male,False,French,24.0,18,GRAD,215,18-24
+206285,diabetes awareness,LY,Expats,Male,False,French,24.0,18,GRAD,115,18-24
+206286,diabetes awareness,MA,Expats,Male,False,French,24.0,18,GRAD,10000,18-24
+206287,diabetes awareness,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+206288,diabetes awareness,QA,Expats,Male,False,French,24.0,18,GRAD,45,18-24
+206289,diabetes awareness,SA,Expats,Male,False,French,24.0,18,GRAD,150,18-24
+206290,diabetes awareness,SO,Expats,Male,False,French,24.0,18,GRAD,15,18-24
+206291,diabetes awareness,TN,Expats,Male,False,French,24.0,18,GRAD,11500,18-24
+206292,diabetes awareness,AE,Expats,Male,False,French,24.0,18,GRAD,115,18-24
+206293,diabetes awareness,YE,Expats,Male,False,French,24.0,18,GRAD,25,18-24
+206294,diabetes awareness,PS,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+206346,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,ND,8500,18-24
+206348,diabetes awareness,EG,Expats,Female,False,French,24.0,18,ND,440,18-24
+206349,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,ND,25,18-24
+206350,diabetes awareness,JO,Expats,Female,False,French,24.0,18,ND,30,18-24
+206351,diabetes awareness,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+206352,diabetes awareness,LB,Expats,Female,False,French,24.0,18,ND,130,18-24
+206353,diabetes awareness,LY,Expats,Female,False,French,24.0,18,ND,40,18-24
+206354,diabetes awareness,MA,Expats,Female,False,French,24.0,18,ND,3550,18-24
+206355,diabetes awareness,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+206356,diabetes awareness,QA,Expats,Female,False,French,24.0,18,ND,0,18-24
+206357,diabetes awareness,SA,Expats,Female,False,French,24.0,18,ND,75,18-24
+206358,diabetes awareness,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+206359,diabetes awareness,TN,Expats,Female,False,French,24.0,18,ND,5500,18-24
+206360,diabetes awareness,AE,Expats,Female,False,French,24.0,18,ND,55,18-24
+206361,diabetes awareness,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+206362,diabetes awareness,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+206363,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,HS,6000,18-24
+206365,diabetes awareness,EG,Expats,Female,False,French,24.0,18,HS,3500,18-24
+206366,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,HS,130,18-24
+206367,diabetes awareness,JO,Expats,Female,False,French,24.0,18,HS,125,18-24
+206368,diabetes awareness,KW,Expats,Female,False,French,24.0,18,HS,30,18-24
+206369,diabetes awareness,LB,Expats,Female,False,French,24.0,18,HS,380,18-24
+206370,diabetes awareness,LY,Expats,Female,False,French,24.0,18,HS,55,18-24
+206371,diabetes awareness,MA,Expats,Female,False,French,24.0,18,HS,3000,18-24
+206372,diabetes awareness,OM,Expats,Female,False,French,24.0,18,HS,0,18-24
+206373,diabetes awareness,QA,Expats,Female,False,French,24.0,18,HS,30,18-24
+206374,diabetes awareness,SA,Expats,Female,False,French,24.0,18,HS,105,18-24
+206375,diabetes awareness,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+206376,diabetes awareness,TN,Expats,Female,False,French,24.0,18,HS,4900,18-24
+206377,diabetes awareness,AE,Expats,Female,False,French,24.0,18,HS,165,18-24
+206378,diabetes awareness,YE,Expats,Female,False,French,24.0,18,HS,15,18-24
+206379,diabetes awareness,PS,Expats,Female,False,French,24.0,18,HS,40,18-24
+206380,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,GRAD,13000,18-24
+206382,diabetes awareness,EG,Expats,Female,False,French,24.0,18,GRAD,3450,18-24
+206383,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,GRAD,100,18-24
+206384,diabetes awareness,JO,Expats,Female,False,French,24.0,18,GRAD,80,18-24
+206385,diabetes awareness,KW,Expats,Female,False,French,24.0,18,GRAD,30,18-24
+206386,diabetes awareness,LB,Expats,Female,False,French,24.0,18,GRAD,490,18-24
+206387,diabetes awareness,LY,Expats,Female,False,French,24.0,18,GRAD,90,18-24
+206388,diabetes awareness,MA,Expats,Female,False,French,24.0,18,GRAD,6500,18-24
+206389,diabetes awareness,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206390,diabetes awareness,QA,Expats,Female,False,French,24.0,18,GRAD,25,18-24
+206391,diabetes awareness,SA,Expats,Female,False,French,24.0,18,GRAD,150,18-24
+206392,diabetes awareness,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206393,diabetes awareness,TN,Expats,Female,False,French,24.0,18,GRAD,9500,18-24
+206394,diabetes awareness,AE,Expats,Female,False,French,24.0,18,GRAD,180,18-24
+206395,diabetes awareness,YE,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206396,diabetes awareness,PS,Expats,Female,False,French,24.0,18,GRAD,35,18-24
+206550,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,ND,14500,25-44
+206552,diabetes awareness,EG,Expats,Male,False,French,44.0,25,ND,190,25-44
+206553,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,ND,40,25-44
+206554,diabetes awareness,JO,Expats,Male,False,French,44.0,25,ND,30,25-44
+206555,diabetes awareness,KW,Expats,Male,False,French,44.0,25,ND,0,25-44
+206556,diabetes awareness,LB,Expats,Male,False,French,44.0,25,ND,95,25-44
+206557,diabetes awareness,LY,Expats,Male,False,French,44.0,25,ND,120,25-44
+206558,diabetes awareness,MA,Expats,Male,False,French,44.0,25,ND,7000,25-44
+206559,diabetes awareness,OM,Expats,Male,False,French,44.0,25,ND,20,25-44
+206560,diabetes awareness,QA,Expats,Male,False,French,44.0,25,ND,45,25-44
+206561,diabetes awareness,SA,Expats,Male,False,French,44.0,25,ND,165,25-44
+206562,diabetes awareness,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+206563,diabetes awareness,TN,Expats,Male,False,French,44.0,25,ND,10500,25-44
+206564,diabetes awareness,AE,Expats,Male,False,French,44.0,25,ND,155,25-44
+206565,diabetes awareness,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+206566,diabetes awareness,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+206567,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,HS,4400,25-44
+206569,diabetes awareness,EG,Expats,Male,False,French,44.0,25,HS,330,25-44
+206570,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,HS,80,25-44
+206571,diabetes awareness,JO,Expats,Male,False,French,44.0,25,HS,45,25-44
+206572,diabetes awareness,KW,Expats,Male,False,French,44.0,25,HS,15,25-44
+206573,diabetes awareness,LB,Expats,Male,False,French,44.0,25,HS,85,25-44
+206574,diabetes awareness,LY,Expats,Male,False,French,44.0,25,HS,15,25-44
+206575,diabetes awareness,MA,Expats,Male,False,French,44.0,25,HS,2700,25-44
+206576,diabetes awareness,OM,Expats,Male,False,French,44.0,25,HS,20,25-44
+206577,diabetes awareness,QA,Expats,Male,False,French,44.0,25,HS,50,25-44
+206578,diabetes awareness,SA,Expats,Male,False,French,44.0,25,HS,110,25-44
+206579,diabetes awareness,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+206580,diabetes awareness,TN,Expats,Male,False,French,44.0,25,HS,4650,25-44
+206581,diabetes awareness,AE,Expats,Male,False,French,44.0,25,HS,135,25-44
+206582,diabetes awareness,YE,Expats,Male,False,French,44.0,25,HS,25,25-44
+206583,diabetes awareness,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+206584,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,GRAD,20000,25-44
+206586,diabetes awareness,EG,Expats,Male,False,French,44.0,25,GRAD,2500,25-44
+206587,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,GRAD,360,25-44
+206588,diabetes awareness,JO,Expats,Male,False,French,44.0,25,GRAD,155,25-44
+206589,diabetes awareness,KW,Expats,Male,False,French,44.0,25,GRAD,110,25-44
+206590,diabetes awareness,LB,Expats,Male,False,French,44.0,25,GRAD,445,25-44
+206591,diabetes awareness,LY,Expats,Male,False,French,44.0,25,GRAD,220,25-44
+206592,diabetes awareness,MA,Expats,Male,False,French,44.0,25,GRAD,11000,25-44
+206593,diabetes awareness,OM,Expats,Male,False,French,44.0,25,GRAD,65,25-44
+206594,diabetes awareness,QA,Expats,Male,False,French,44.0,25,GRAD,345,25-44
+206595,diabetes awareness,SA,Expats,Male,False,French,44.0,25,GRAD,800,25-44
+206596,diabetes awareness,SO,Expats,Male,False,French,44.0,25,GRAD,30,25-44
+206597,diabetes awareness,TN,Expats,Male,False,French,44.0,25,GRAD,16500,25-44
+206598,diabetes awareness,AE,Expats,Male,False,French,44.0,25,GRAD,800,25-44
+206599,diabetes awareness,YE,Expats,Male,False,French,44.0,25,GRAD,95,25-44
+206600,diabetes awareness,PS,Expats,Male,False,French,44.0,25,GRAD,20,25-44
+206652,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,ND,10000,25-44
+206654,diabetes awareness,EG,Expats,Female,False,French,44.0,25,ND,270,25-44
+206655,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,ND,45,25-44
+206656,diabetes awareness,JO,Expats,Female,False,French,44.0,25,ND,0,25-44
+206657,diabetes awareness,KW,Expats,Female,False,French,44.0,25,ND,0,25-44
+206658,diabetes awareness,LB,Expats,Female,False,French,44.0,25,ND,245,25-44
+206659,diabetes awareness,LY,Expats,Female,False,French,44.0,25,ND,35,25-44
+206660,diabetes awareness,MA,Expats,Female,False,French,44.0,25,ND,4800,25-44
+206661,diabetes awareness,OM,Expats,Female,False,French,44.0,25,ND,15,25-44
+206662,diabetes awareness,QA,Expats,Female,False,French,44.0,25,ND,45,25-44
+206663,diabetes awareness,SA,Expats,Female,False,French,44.0,25,ND,130,25-44
+206664,diabetes awareness,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+206665,diabetes awareness,TN,Expats,Female,False,French,44.0,25,ND,7500,25-44
+206666,diabetes awareness,AE,Expats,Female,False,French,44.0,25,ND,205,25-44
+206667,diabetes awareness,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+206668,diabetes awareness,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+206669,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,HS,2950,25-44
+206671,diabetes awareness,EG,Expats,Female,False,French,44.0,25,HS,355,25-44
+206672,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,HS,20,25-44
+206673,diabetes awareness,JO,Expats,Female,False,French,44.0,25,HS,30,25-44
+206674,diabetes awareness,KW,Expats,Female,False,French,44.0,25,HS,45,25-44
+206675,diabetes awareness,LB,Expats,Female,False,French,44.0,25,HS,160,25-44
+206676,diabetes awareness,LY,Expats,Female,False,French,44.0,25,HS,15,25-44
+206677,diabetes awareness,MA,Expats,Female,False,French,44.0,25,HS,1850,25-44
+206678,diabetes awareness,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+206679,diabetes awareness,QA,Expats,Female,False,French,44.0,25,HS,30,25-44
+206680,diabetes awareness,SA,Expats,Female,False,French,44.0,25,HS,115,25-44
+206681,diabetes awareness,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+206682,diabetes awareness,TN,Expats,Female,False,French,44.0,25,HS,3250,25-44
+206683,diabetes awareness,AE,Expats,Female,False,French,44.0,25,HS,135,25-44
+206684,diabetes awareness,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+206685,diabetes awareness,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+206686,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,GRAD,15000,25-44
+206688,diabetes awareness,EG,Expats,Female,False,French,44.0,25,GRAD,2900,25-44
+206689,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,GRAD,90,25-44
+206690,diabetes awareness,JO,Expats,Female,False,French,44.0,25,GRAD,110,25-44
+206691,diabetes awareness,KW,Expats,Female,False,French,44.0,25,GRAD,150,25-44
+206692,diabetes awareness,LB,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+206693,diabetes awareness,LY,Expats,Female,False,French,44.0,25,GRAD,70,25-44
+206694,diabetes awareness,MA,Expats,Female,False,French,44.0,25,GRAD,7000,25-44
+206695,diabetes awareness,OM,Expats,Female,False,French,44.0,25,GRAD,65,25-44
+206696,diabetes awareness,QA,Expats,Female,False,French,44.0,25,GRAD,240,25-44
+206697,diabetes awareness,SA,Expats,Female,False,French,44.0,25,GRAD,600,25-44
+206698,diabetes awareness,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206699,diabetes awareness,TN,Expats,Female,False,French,44.0,25,GRAD,13500,25-44
+206700,diabetes awareness,AE,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+206701,diabetes awareness,YE,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206702,diabetes awareness,PS,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206856,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,3850,45+
+206858,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+206859,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206860,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206861,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206862,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,ND,105,45+
+206863,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206864,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,ND,2250,45+
+206865,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206866,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206867,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,ND,50,45+
+206868,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206869,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,ND,4350,45+
+206870,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206871,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206872,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206873,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1250,45+
+206875,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,HS,55,45+
+206876,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206877,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206878,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206879,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+206880,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206881,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,HS,750,45+
+206882,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206883,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206884,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,HS,45,45+
+206885,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206886,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,HS,2000,45+
+206887,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206888,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206889,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206890,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,3850,45+
+206892,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,215,45+
+206893,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+206894,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+206895,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+206896,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,170,45+
+206897,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+206898,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,2350,45+
+206899,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206900,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+206901,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+206902,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206903,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,5000,45+
+206904,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+206905,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206906,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206958,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,3050,45+
+206960,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,ND,135,45+
+206961,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,20,45+
+206962,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206963,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206964,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,ND,470,45+
+206965,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206966,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,ND,1650,45+
+206967,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206968,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206969,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,ND,35,45+
+206970,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206971,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,ND,3300,45+
+206972,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,ND,70,45+
+206973,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206974,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206975,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,1050,45+
+206977,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,HS,85,45+
+206978,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206979,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+206980,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206981,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,HS,135,45+
+206982,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206983,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,HS,600,45+
+206984,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206985,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206986,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206987,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206988,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,HS,1400,45+
+206989,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+206990,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206991,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206992,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,2450,45+
+206994,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,455,45+
+206995,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+206996,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206997,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,20,45+
+206998,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,500,45+
+206999,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207000,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,1250,45+
+207001,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207002,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+207003,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,65,45+
+207004,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207005,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,2600,45+
+207006,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+207007,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207008,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
