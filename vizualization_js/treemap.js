@@ -234,7 +234,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .style("left", xPosition + "px")
             .style("top", yPosition + "px");
         d3.select("#tooltip-treemap #category")
-            .text(d.name);
+            .text(getTooltipLabel(d.name));
+        d3.select("#tooltip-treemap #category-type")
+            .text(getTooltipLabel(d.parent.parent.name));
+
     };
     this.mouseoutTooltip = function(d){
         d3.select("#tooltip-treemap").classed("hidden", true);
