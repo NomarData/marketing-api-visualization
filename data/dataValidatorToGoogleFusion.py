@@ -70,14 +70,71 @@ class PandasDataset:
         print "Checking Data Integrity..."
         list_of_categories = {
             "country_code": self.data["country_code"].unique(),
-            "interest" : self.data["interest"].unique(),
+            "topic" : self.data["topic"].unique(),
             "age_range" : self.data["age_range"].unique(),
             "scholarity" : self.data["scholarity"].unique(),
             "language" : self.data["language"].unique(),
-            "gender" : self.data["gender"].unique()
+            "gender" : self.data["gender"].unique(),
+            "citizenship": self.data["citizenship"].unique(),
+            "is_denominator": self.data["is_denominator"].unique(),
         }
-        # for country_code in list_of_categories["country_code"]:
-        print len(self.data)
+        error_counter = 0
+        ok_counter = 0
+        total = len(self.data[~self.data["is_denominator"]])
+        for country_code in list_of_categories["country_code"]:
+            for topic in list_of_categories["topic"]:
+                for scholarity in list_of_categories["scholarity"]:
+                    for language in list_of_categories["language"]:
+                        for gender in list_of_categories["gender"]:
+                            for citizenship in list_of_categories["citizenship"]:
+                                for age_range in list_of_categories["age_range"]:
+                                    instance = self.data[
+                                        (country_code == self.data["country_code"]) &
+                                        (topic == self.data["topic"]) &
+                                        (scholarity == self.data["scholarity"]) &
+                                        (language == self.data["language"]) &
+                                        (gender == self.data["gender"]) &
+                                        (age_range == self.data["age_range"]) &
+                                        (False == self.data["is_denominator"]) &
+                                        (citizenship == self.data["citizenship"])
+                                    ]
+                                    if topic == "demographic_data":
+                                        continue
+                                    if len(instance) != 1:
+                                        if(len(instance) == 2) and instance.iloc[0]["experiment_id"] == instance.iloc[1]["experiment_id"]:
+                                            continue
+                                        import ipdb;ipdb.set_trace()
+                                        error_counter += 1
+                                        print "Error With topic:", country_code, topic, scholarity,language,gender,citizenship,age_range,error_counter, len(instance)
+                                    else:
+                                        ok_counter += 1
+                                        print "{:.2f}%".format(ok_counter/float(total)*100)
+        ok_counter = 0
+        total = len(self.data[self.data["is_denominator"]])
+        for country_code in list_of_categories["country_code"]:
+            for scholarity in list_of_categories["scholarity"]:
+                for language in list_of_categories["language"]:
+                    for gender in list_of_categories["gender"]:
+                        for citizenship in list_of_categories["citizenship"]:
+                            for age_range in list_of_categories["age_range"]:
+                                instance = self.data[
+                                    (country_code == self.data["country_code"]) &
+                                    (scholarity == self.data["scholarity"]) &
+                                    (language == self.data["language"]) &
+                                    (gender == self.data["gender"]) &
+                                    (age_range == self.data["age_range"]) &
+                                    (True == self.data["is_denominator"]) &
+                                    (citizenship == self.data["citizenship"])
+                                ]
+                                if len(instance) != 1:
+                                    error_counter += 1
+                                    import ipdb;ipdb.set_trace()
+                                    print "Error of denominator:", country_code, scholarity,language,gender,citizenship,age_range,error_counter, len(instance)
+                                else:
+                                    ok_counter += 1
+                                    print "{:.2f}%".format(ok_counter / float(total) * 100)
+
+
 
 
 
@@ -112,7 +169,7 @@ class PandasDataset:
         self.replace_specific_key_value("language","English (All)","English")
         self.replace_specific_key_value("language", "Spanish (All),Portuguese (All),Italian,German", "European")
         self.replace_specific_key_value("language", "Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala", "Indian")
-        self.replace_specific_key_value("language", "Indonesian,Filipino,Malayalam,Thai", "English")
+        self.replace_specific_key_value("language", "Indonesian,Filipino,Malayalam,Thai", "SE Asia")
         print len(self.data)
 
     def delete_all_unnamed_columns(self):
@@ -153,36 +210,43 @@ class PandasDataset:
             self.generate_file_for_combination(combination)
 
     def process_data(self):
-        self.list_unique_topics()
-        self.delete_all_unnamed_columns()
-        self.delete_column("languages")
-        self.convert_language_to_language_group()
-        self.delete_specific_key_value("language", "French")
-        self.check_not_permitted_empty_values()
         self.replace_null_values()
+        self.check_not_permitted_empty_values()
+
+        self.rename_column("exclusion_behavior", "citizenship")
+        self.rename_column("analysis_name", "topic")
+
+        self.delete_specific_key_value("gender", 0)
+        self.delete_specific_key_value("topic", "all health")
+        self.delete_all_unnamed_columns()
+        # self.delete_column("languages")
+
+        self.convert_language_to_language_group()
         self.replace_specific_key_value("gender", 1, "Male")
         self.replace_specific_key_value("gender", 2, "Female")
-        self.delete_specific_key_value("gender", 0)
+        self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
+        self.replace_specific_key_value("scholarity",
+                                        "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE",
+                                        "HS")
+        self.replace_specific_key_value("scholarity",
+                                        "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE", "GRAD")
+        self.replace_specific_key_value("citizenship", 6015559470580, "Locals")
+
         self.delete_specific_key_value("language", NULL_VALUE)
         self.delete_specific_key_value("country_code", "BH")
-        self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
-        self.replace_specific_key_value("scholarity", "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE", "HS")
-        self.replace_specific_key_value("scholarity", "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE","GRAD")
         self.delete_specific_key_value("language", "Arabic,English (All),Spanish (All),Portuguese (All),Italian,German,Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala,Indonesian,Filipino,Malayalam,Thai")
         self.delete_specific_key_value("scholarity", NULL_VALUE)
-        self.replace_specific_key_value("exclusion_behavior",6015559470580, "Locals")
-        self.rename_column("exclusion_behavior", "citizenship")
+
         self.insert_expats_native_rows()
         self.delete_specific_key_value("citizenship", "NOTSELECTED")
-        self.delete_specific_key_value("is_denominator", True)
-        self.delete_column("experiment_id")
-        self.delete_column("interest_id")
-        self.delete_column("interest")
-        self.delete_column("interest_query")
-        self.delete_column("placebo_id")
-        self.delete_column("placebo_query")
-        self.delete_column("ground_truth_column")
-        self.rename_column("analysis_name", "interest")
+        # self.delete_specific_key_value("is_denominator", True)
+        # self.delete_column("experiment_id")
+        # self.delete_column("interest_id")
+        # self.delete_column("interest")
+        # self.delete_column("interest_query")
+        # self.delete_column("placebo_id")
+        # self.delete_column("placebo_query")
+        # self.delete_column("ground_truth_column")
         self.insert_age_range_column()
         self.delete_specific_key_value("age_range", "18+")
         self.check_data_integrity()

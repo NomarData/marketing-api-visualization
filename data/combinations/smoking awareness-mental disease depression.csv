@@ -2879,6 +2879,582 @@
 117382,mental disease depression,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,90,45+
 117383,mental disease depression,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 117384,mental disease depression,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+205377,smoking awareness,DZ,Locals,Male,False,French,24.0,18,ND,960,18-24
+205379,smoking awareness,EG,Locals,Male,False,French,24.0,18,ND,150,18-24
+205380,smoking awareness,IQ,Locals,Male,False,French,24.0,18,ND,0,18-24
+205381,smoking awareness,JO,Locals,Male,False,French,24.0,18,ND,0,18-24
+205382,smoking awareness,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+205383,smoking awareness,LB,Locals,Male,False,French,24.0,18,ND,0,18-24
+205384,smoking awareness,LY,Locals,Male,False,French,24.0,18,ND,0,18-24
+205385,smoking awareness,MA,Locals,Male,False,French,24.0,18,ND,630,18-24
+205386,smoking awareness,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+205387,smoking awareness,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+205388,smoking awareness,SA,Locals,Male,False,French,24.0,18,ND,0,18-24
+205389,smoking awareness,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+205390,smoking awareness,TN,Locals,Male,False,French,24.0,18,ND,840,18-24
+205391,smoking awareness,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+205392,smoking awareness,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+205393,smoking awareness,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+205394,smoking awareness,DZ,Locals,Male,False,French,24.0,18,HS,850,18-24
+205396,smoking awareness,EG,Locals,Male,False,French,24.0,18,HS,1700,18-24
+205397,smoking awareness,IQ,Locals,Male,False,French,24.0,18,HS,0,18-24
+205398,smoking awareness,JO,Locals,Male,False,French,24.0,18,HS,70,18-24
+205399,smoking awareness,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+205400,smoking awareness,LB,Locals,Male,False,French,24.0,18,HS,0,18-24
+205401,smoking awareness,LY,Locals,Male,False,French,24.0,18,HS,0,18-24
+205402,smoking awareness,MA,Locals,Male,False,French,24.0,18,HS,740,18-24
+205403,smoking awareness,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+205404,smoking awareness,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+205405,smoking awareness,SA,Locals,Male,False,French,24.0,18,HS,0,18-24
+205406,smoking awareness,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+205407,smoking awareness,TN,Locals,Male,False,French,24.0,18,HS,800,18-24
+205408,smoking awareness,AE,Locals,Male,False,French,24.0,18,HS,0,18-24
+205409,smoking awareness,YE,Locals,Male,False,French,24.0,18,HS,0,18-24
+205410,smoking awareness,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+205411,smoking awareness,DZ,Locals,Male,False,French,24.0,18,GRAD,1900,18-24
+205413,smoking awareness,EG,Locals,Male,False,French,24.0,18,GRAD,1900,18-24
+205414,smoking awareness,IQ,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205415,smoking awareness,JO,Locals,Male,False,French,24.0,18,GRAD,70,18-24
+205416,smoking awareness,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205417,smoking awareness,LB,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205418,smoking awareness,LY,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205419,smoking awareness,MA,Locals,Male,False,French,24.0,18,GRAD,1800,18-24
+205420,smoking awareness,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205421,smoking awareness,QA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205422,smoking awareness,SA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205423,smoking awareness,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205424,smoking awareness,TN,Locals,Male,False,French,24.0,18,GRAD,1800,18-24
+205425,smoking awareness,AE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205426,smoking awareness,YE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205427,smoking awareness,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+205479,smoking awareness,DZ,Locals,Female,False,French,24.0,18,ND,310,18-24
+205481,smoking awareness,EG,Locals,Female,False,French,24.0,18,ND,0,18-24
+205482,smoking awareness,IQ,Locals,Female,False,French,24.0,18,ND,0,18-24
+205483,smoking awareness,JO,Locals,Female,False,French,24.0,18,ND,0,18-24
+205484,smoking awareness,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+205485,smoking awareness,LB,Locals,Female,False,French,24.0,18,ND,0,18-24
+205486,smoking awareness,LY,Locals,Female,False,French,24.0,18,ND,0,18-24
+205487,smoking awareness,MA,Locals,Female,False,French,24.0,18,ND,230,18-24
+205488,smoking awareness,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+205489,smoking awareness,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+205490,smoking awareness,SA,Locals,Female,False,French,24.0,18,ND,0,18-24
+205491,smoking awareness,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+205492,smoking awareness,TN,Locals,Female,False,French,24.0,18,ND,740,18-24
+205493,smoking awareness,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+205494,smoking awareness,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+205495,smoking awareness,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+205496,smoking awareness,DZ,Locals,Female,False,French,24.0,18,HS,250,18-24
+205498,smoking awareness,EG,Locals,Female,False,French,24.0,18,HS,330,18-24
+205499,smoking awareness,IQ,Locals,Female,False,French,24.0,18,HS,0,18-24
+205500,smoking awareness,JO,Locals,Female,False,French,24.0,18,HS,0,18-24
+205501,smoking awareness,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+205502,smoking awareness,LB,Locals,Female,False,French,24.0,18,HS,0,18-24
+205503,smoking awareness,LY,Locals,Female,False,French,24.0,18,HS,0,18-24
+205504,smoking awareness,MA,Locals,Female,False,French,24.0,18,HS,260,18-24
+205505,smoking awareness,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+205506,smoking awareness,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+205507,smoking awareness,SA,Locals,Female,False,French,24.0,18,HS,0,18-24
+205508,smoking awareness,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+205509,smoking awareness,TN,Locals,Female,False,French,24.0,18,HS,630,18-24
+205510,smoking awareness,AE,Locals,Female,False,French,24.0,18,HS,0,18-24
+205511,smoking awareness,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+205512,smoking awareness,PS,Locals,Female,False,French,24.0,18,HS,0,18-24
+205513,smoking awareness,DZ,Locals,Female,False,French,24.0,18,GRAD,520,18-24
+205515,smoking awareness,EG,Locals,Female,False,French,24.0,18,GRAD,320,18-24
+205516,smoking awareness,IQ,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205517,smoking awareness,JO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205518,smoking awareness,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205519,smoking awareness,LB,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205520,smoking awareness,LY,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205521,smoking awareness,MA,Locals,Female,False,French,24.0,18,GRAD,560,18-24
+205522,smoking awareness,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205523,smoking awareness,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205524,smoking awareness,SA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205525,smoking awareness,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205526,smoking awareness,TN,Locals,Female,False,French,24.0,18,GRAD,1300,18-24
+205527,smoking awareness,AE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205528,smoking awareness,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205529,smoking awareness,PS,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+205683,smoking awareness,DZ,Locals,Male,False,French,44.0,25,ND,1800,25-44
+205685,smoking awareness,EG,Locals,Male,False,French,44.0,25,ND,110,25-44
+205686,smoking awareness,IQ,Locals,Male,False,French,44.0,25,ND,0,25-44
+205687,smoking awareness,JO,Locals,Male,False,French,44.0,25,ND,0,25-44
+205688,smoking awareness,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+205689,smoking awareness,LB,Locals,Male,False,French,44.0,25,ND,0,25-44
+205690,smoking awareness,LY,Locals,Male,False,French,44.0,25,ND,0,25-44
+205691,smoking awareness,MA,Locals,Male,False,French,44.0,25,ND,910,25-44
+205692,smoking awareness,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+205693,smoking awareness,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+205694,smoking awareness,SA,Locals,Male,False,French,44.0,25,ND,0,25-44
+205695,smoking awareness,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+205696,smoking awareness,TN,Locals,Male,False,French,44.0,25,ND,2100,25-44
+205697,smoking awareness,AE,Locals,Male,False,French,44.0,25,ND,0,25-44
+205698,smoking awareness,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+205699,smoking awareness,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+205700,smoking awareness,DZ,Locals,Male,False,French,44.0,25,HS,620,25-44
+205702,smoking awareness,EG,Locals,Male,False,French,44.0,25,HS,220,25-44
+205703,smoking awareness,IQ,Locals,Male,False,French,44.0,25,HS,0,25-44
+205704,smoking awareness,JO,Locals,Male,False,French,44.0,25,HS,0,25-44
+205705,smoking awareness,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+205706,smoking awareness,LB,Locals,Male,False,French,44.0,25,HS,0,25-44
+205707,smoking awareness,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+205708,smoking awareness,MA,Locals,Male,False,French,44.0,25,HS,470,25-44
+205709,smoking awareness,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+205710,smoking awareness,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+205711,smoking awareness,SA,Locals,Male,False,French,44.0,25,HS,0,25-44
+205712,smoking awareness,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+205713,smoking awareness,TN,Locals,Male,False,French,44.0,25,HS,1000,25-44
+205714,smoking awareness,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+205715,smoking awareness,YE,Locals,Male,False,French,44.0,25,HS,0,25-44
+205716,smoking awareness,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+205717,smoking awareness,DZ,Locals,Male,False,French,44.0,25,GRAD,2500,25-44
+205719,smoking awareness,EG,Locals,Male,False,French,44.0,25,GRAD,1600,25-44
+205720,smoking awareness,IQ,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205721,smoking awareness,JO,Locals,Male,False,French,44.0,25,GRAD,140,25-44
+205722,smoking awareness,KW,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205723,smoking awareness,LB,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205724,smoking awareness,LY,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205725,smoking awareness,MA,Locals,Male,False,French,44.0,25,GRAD,1900,25-44
+205726,smoking awareness,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205727,smoking awareness,QA,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205728,smoking awareness,SA,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+205729,smoking awareness,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205730,smoking awareness,TN,Locals,Male,False,French,44.0,25,GRAD,3800,25-44
+205731,smoking awareness,AE,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205732,smoking awareness,YE,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205733,smoking awareness,PS,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+205785,smoking awareness,DZ,Locals,Female,False,French,44.0,25,ND,360,25-44
+205787,smoking awareness,EG,Locals,Female,False,French,44.0,25,ND,0,25-44
+205788,smoking awareness,IQ,Locals,Female,False,French,44.0,25,ND,0,25-44
+205789,smoking awareness,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+205790,smoking awareness,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+205791,smoking awareness,LB,Locals,Female,False,French,44.0,25,ND,0,25-44
+205792,smoking awareness,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+205793,smoking awareness,MA,Locals,Female,False,French,44.0,25,ND,320,25-44
+205794,smoking awareness,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+205795,smoking awareness,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+205796,smoking awareness,SA,Locals,Female,False,French,44.0,25,ND,0,25-44
+205797,smoking awareness,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+205798,smoking awareness,TN,Locals,Female,False,French,44.0,25,ND,870,25-44
+205799,smoking awareness,AE,Locals,Female,False,French,44.0,25,ND,0,25-44
+205800,smoking awareness,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+205801,smoking awareness,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+205802,smoking awareness,DZ,Locals,Female,False,French,44.0,25,HS,140,25-44
+205804,smoking awareness,EG,Locals,Female,False,French,44.0,25,HS,40,25-44
+205805,smoking awareness,IQ,Locals,Female,False,French,44.0,25,HS,0,25-44
+205806,smoking awareness,JO,Locals,Female,False,French,44.0,25,HS,0,25-44
+205807,smoking awareness,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+205808,smoking awareness,LB,Locals,Female,False,French,44.0,25,HS,0,25-44
+205809,smoking awareness,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+205810,smoking awareness,MA,Locals,Female,False,French,44.0,25,HS,110,25-44
+205811,smoking awareness,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+205812,smoking awareness,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+205813,smoking awareness,SA,Locals,Female,False,French,44.0,25,HS,0,25-44
+205814,smoking awareness,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+205815,smoking awareness,TN,Locals,Female,False,French,44.0,25,HS,400,25-44
+205816,smoking awareness,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+205817,smoking awareness,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+205818,smoking awareness,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+205819,smoking awareness,DZ,Locals,Female,False,French,44.0,25,GRAD,600,25-44
+205821,smoking awareness,EG,Locals,Female,False,French,44.0,25,GRAD,250,25-44
+205822,smoking awareness,IQ,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205823,smoking awareness,JO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205824,smoking awareness,KW,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205825,smoking awareness,LB,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205826,smoking awareness,LY,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205827,smoking awareness,MA,Locals,Female,False,French,44.0,25,GRAD,460,25-44
+205828,smoking awareness,OM,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205829,smoking awareness,QA,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205830,smoking awareness,SA,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205831,smoking awareness,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205832,smoking awareness,TN,Locals,Female,False,French,44.0,25,GRAD,1700,25-44
+205833,smoking awareness,AE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205834,smoking awareness,YE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205835,smoking awareness,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+205989,smoking awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,330,45+
+205991,smoking awareness,EG,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+205992,smoking awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205993,smoking awareness,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205994,smoking awareness,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205995,smoking awareness,LB,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205996,smoking awareness,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205997,smoking awareness,MA,Locals,Male,False,French,NOTSELECTED,45,ND,210,45+
+205998,smoking awareness,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+205999,smoking awareness,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206000,smoking awareness,SA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206001,smoking awareness,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206002,smoking awareness,TN,Locals,Male,False,French,NOTSELECTED,45,ND,700,45+
+206003,smoking awareness,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206004,smoking awareness,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206005,smoking awareness,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206006,smoking awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,130,45+
+206008,smoking awareness,EG,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206009,smoking awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206010,smoking awareness,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206011,smoking awareness,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206012,smoking awareness,LB,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206013,smoking awareness,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206014,smoking awareness,MA,Locals,Male,False,French,NOTSELECTED,45,HS,70,45+
+206015,smoking awareness,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206016,smoking awareness,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206017,smoking awareness,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206018,smoking awareness,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206019,smoking awareness,TN,Locals,Male,False,French,NOTSELECTED,45,HS,340,45+
+206020,smoking awareness,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206021,smoking awareness,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206022,smoking awareness,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206023,smoking awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,340,45+
+206025,smoking awareness,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,170,45+
+206026,smoking awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206027,smoking awareness,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206028,smoking awareness,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206029,smoking awareness,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206030,smoking awareness,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206031,smoking awareness,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,280,45+
+206032,smoking awareness,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206033,smoking awareness,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206034,smoking awareness,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206035,smoking awareness,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206036,smoking awareness,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,900,45+
+206037,smoking awareness,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206038,smoking awareness,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206039,smoking awareness,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206091,smoking awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,60,45+
+206093,smoking awareness,EG,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206094,smoking awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206095,smoking awareness,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206096,smoking awareness,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206097,smoking awareness,LB,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206098,smoking awareness,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206099,smoking awareness,MA,Locals,Female,False,French,NOTSELECTED,45,ND,80,45+
+206100,smoking awareness,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206101,smoking awareness,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206102,smoking awareness,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206103,smoking awareness,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206104,smoking awareness,TN,Locals,Female,False,French,NOTSELECTED,45,ND,290,45+
+206105,smoking awareness,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206106,smoking awareness,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206107,smoking awareness,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+206108,smoking awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+206110,smoking awareness,EG,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206111,smoking awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206112,smoking awareness,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206113,smoking awareness,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206114,smoking awareness,LB,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206115,smoking awareness,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206116,smoking awareness,MA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206117,smoking awareness,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206118,smoking awareness,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206119,smoking awareness,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206120,smoking awareness,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206121,smoking awareness,TN,Locals,Female,False,French,NOTSELECTED,45,HS,110,45+
+206122,smoking awareness,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206123,smoking awareness,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206124,smoking awareness,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+206125,smoking awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+206127,smoking awareness,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+206128,smoking awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206129,smoking awareness,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206130,smoking awareness,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206131,smoking awareness,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206132,smoking awareness,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206133,smoking awareness,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+206134,smoking awareness,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206135,smoking awareness,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206136,smoking awareness,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206137,smoking awareness,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206138,smoking awareness,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,270,45+
+206139,smoking awareness,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206140,smoking awareness,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206141,smoking awareness,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211803,mental disease depression,DZ,Locals,Male,False,French,24.0,18,ND,34000,18-24
+211805,mental disease depression,EG,Locals,Male,False,French,24.0,18,ND,1400,18-24
+211806,mental disease depression,IQ,Locals,Male,False,French,24.0,18,ND,160,18-24
+211807,mental disease depression,JO,Locals,Male,False,French,24.0,18,ND,60,18-24
+211808,mental disease depression,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+211809,mental disease depression,LB,Locals,Male,False,French,24.0,18,ND,360,18-24
+211810,mental disease depression,LY,Locals,Male,False,French,24.0,18,ND,80,18-24
+211811,mental disease depression,MA,Locals,Male,False,French,24.0,18,ND,57000,18-24
+211812,mental disease depression,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+211813,mental disease depression,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+211814,mental disease depression,SA,Locals,Male,False,French,24.0,18,ND,130,18-24
+211815,mental disease depression,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+211816,mental disease depression,TN,Locals,Male,False,French,24.0,18,ND,12000,18-24
+211817,mental disease depression,AE,Locals,Male,False,French,24.0,18,ND,30,18-24
+211818,mental disease depression,YE,Locals,Male,False,French,24.0,18,ND,30,18-24
+211819,mental disease depression,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+211820,mental disease depression,DZ,Locals,Male,False,French,24.0,18,HS,23000,18-24
+211822,mental disease depression,EG,Locals,Male,False,French,24.0,18,HS,12000,18-24
+211823,mental disease depression,IQ,Locals,Male,False,French,24.0,18,HS,660,18-24
+211824,mental disease depression,JO,Locals,Male,False,French,24.0,18,HS,390,18-24
+211825,mental disease depression,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+211826,mental disease depression,LB,Locals,Male,False,French,24.0,18,HS,900,18-24
+211827,mental disease depression,LY,Locals,Male,False,French,24.0,18,HS,140,18-24
+211828,mental disease depression,MA,Locals,Male,False,French,24.0,18,HS,41000,18-24
+211829,mental disease depression,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+211830,mental disease depression,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+211831,mental disease depression,SA,Locals,Male,False,French,24.0,18,HS,40,18-24
+211832,mental disease depression,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+211833,mental disease depression,TN,Locals,Male,False,French,24.0,18,HS,11000,18-24
+211834,mental disease depression,AE,Locals,Male,False,French,24.0,18,HS,40,18-24
+211835,mental disease depression,YE,Locals,Male,False,French,24.0,18,HS,160,18-24
+211836,mental disease depression,PS,Locals,Male,False,French,24.0,18,HS,30,18-24
+211837,mental disease depression,DZ,Locals,Male,False,French,24.0,18,GRAD,52000,18-24
+211839,mental disease depression,EG,Locals,Male,False,French,24.0,18,GRAD,13000,18-24
+211840,mental disease depression,IQ,Locals,Male,False,French,24.0,18,GRAD,490,18-24
+211841,mental disease depression,JO,Locals,Male,False,French,24.0,18,GRAD,410,18-24
+211842,mental disease depression,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+211843,mental disease depression,LB,Locals,Male,False,French,24.0,18,GRAD,1000,18-24
+211844,mental disease depression,LY,Locals,Male,False,French,24.0,18,GRAD,210,18-24
+211845,mental disease depression,MA,Locals,Male,False,French,24.0,18,GRAD,100000,18-24
+211846,mental disease depression,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+211847,mental disease depression,QA,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+211848,mental disease depression,SA,Locals,Male,False,French,24.0,18,GRAD,180,18-24
+211849,mental disease depression,SO,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+211850,mental disease depression,TN,Locals,Male,False,French,24.0,18,GRAD,23000,18-24
+211851,mental disease depression,AE,Locals,Male,False,French,24.0,18,GRAD,60,18-24
+211852,mental disease depression,YE,Locals,Male,False,French,24.0,18,GRAD,140,18-24
+211853,mental disease depression,PS,Locals,Male,False,French,24.0,18,GRAD,100,18-24
+211905,mental disease depression,DZ,Locals,Female,False,French,24.0,18,ND,37000,18-24
+211907,mental disease depression,EG,Locals,Female,False,French,24.0,18,ND,1700,18-24
+211908,mental disease depression,IQ,Locals,Female,False,French,24.0,18,ND,50,18-24
+211909,mental disease depression,JO,Locals,Female,False,French,24.0,18,ND,80,18-24
+211910,mental disease depression,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+211911,mental disease depression,LB,Locals,Female,False,French,24.0,18,ND,550,18-24
+211912,mental disease depression,LY,Locals,Female,False,French,24.0,18,ND,0,18-24
+211913,mental disease depression,MA,Locals,Female,False,French,24.0,18,ND,36000,18-24
+211914,mental disease depression,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+211915,mental disease depression,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+211916,mental disease depression,SA,Locals,Female,False,French,24.0,18,ND,120,18-24
+211917,mental disease depression,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+211918,mental disease depression,TN,Locals,Female,False,French,24.0,18,ND,19000,18-24
+211919,mental disease depression,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+211920,mental disease depression,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+211921,mental disease depression,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+211922,mental disease depression,DZ,Locals,Female,False,French,24.0,18,HS,24000,18-24
+211924,mental disease depression,EG,Locals,Female,False,French,24.0,18,HS,16000,18-24
+211925,mental disease depression,IQ,Locals,Female,False,French,24.0,18,HS,180,18-24
+211926,mental disease depression,JO,Locals,Female,False,French,24.0,18,HS,290,18-24
+211927,mental disease depression,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+211928,mental disease depression,LB,Locals,Female,False,French,24.0,18,HS,2400,18-24
+211929,mental disease depression,LY,Locals,Female,False,French,24.0,18,HS,260,18-24
+211930,mental disease depression,MA,Locals,Female,False,French,24.0,18,HS,27000,18-24
+211931,mental disease depression,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+211932,mental disease depression,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+211933,mental disease depression,SA,Locals,Female,False,French,24.0,18,HS,180,18-24
+211934,mental disease depression,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+211935,mental disease depression,TN,Locals,Female,False,French,24.0,18,HS,19000,18-24
+211936,mental disease depression,AE,Locals,Female,False,French,24.0,18,HS,0,18-24
+211937,mental disease depression,YE,Locals,Female,False,French,24.0,18,HS,50,18-24
+211938,mental disease depression,PS,Locals,Female,False,French,24.0,18,HS,60,18-24
+211939,mental disease depression,DZ,Locals,Female,False,French,24.0,18,GRAD,51000,18-24
+211941,mental disease depression,EG,Locals,Female,False,French,24.0,18,GRAD,16000,18-24
+211942,mental disease depression,IQ,Locals,Female,False,French,24.0,18,GRAD,160,18-24
+211943,mental disease depression,JO,Locals,Female,False,French,24.0,18,GRAD,250,18-24
+211944,mental disease depression,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+211945,mental disease depression,LB,Locals,Female,False,French,24.0,18,GRAD,2200,18-24
+211946,mental disease depression,LY,Locals,Female,False,French,24.0,18,GRAD,220,18-24
+211947,mental disease depression,MA,Locals,Female,False,French,24.0,18,GRAD,59000,18-24
+211948,mental disease depression,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+211949,mental disease depression,QA,Locals,Female,False,French,24.0,18,GRAD,30,18-24
+211950,mental disease depression,SA,Locals,Female,False,French,24.0,18,GRAD,180,18-24
+211951,mental disease depression,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+211952,mental disease depression,TN,Locals,Female,False,French,24.0,18,GRAD,35000,18-24
+211953,mental disease depression,AE,Locals,Female,False,French,24.0,18,GRAD,140,18-24
+211954,mental disease depression,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+211955,mental disease depression,PS,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+212109,mental disease depression,DZ,Locals,Male,False,French,44.0,25,ND,49000,25-44
+212111,mental disease depression,EG,Locals,Male,False,French,44.0,25,ND,440,25-44
+212112,mental disease depression,IQ,Locals,Male,False,French,44.0,25,ND,80,25-44
+212113,mental disease depression,JO,Locals,Male,False,French,44.0,25,ND,60,25-44
+212114,mental disease depression,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+212115,mental disease depression,LB,Locals,Male,False,French,44.0,25,ND,510,25-44
+212116,mental disease depression,LY,Locals,Male,False,French,44.0,25,ND,70,25-44
+212117,mental disease depression,MA,Locals,Male,False,French,44.0,25,ND,140000,25-44
+212118,mental disease depression,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+212119,mental disease depression,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+212120,mental disease depression,SA,Locals,Male,False,French,44.0,25,ND,240,25-44
+212121,mental disease depression,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+212122,mental disease depression,TN,Locals,Male,False,French,44.0,25,ND,20000,25-44
+212123,mental disease depression,AE,Locals,Male,False,French,44.0,25,ND,70,25-44
+212124,mental disease depression,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+212125,mental disease depression,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+212126,mental disease depression,DZ,Locals,Male,False,French,44.0,25,HS,16000,25-44
+212128,mental disease depression,EG,Locals,Male,False,French,44.0,25,HS,1000,25-44
+212129,mental disease depression,IQ,Locals,Male,False,French,44.0,25,HS,80,25-44
+212130,mental disease depression,JO,Locals,Male,False,French,44.0,25,HS,110,25-44
+212131,mental disease depression,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+212132,mental disease depression,LB,Locals,Male,False,French,44.0,25,HS,460,25-44
+212133,mental disease depression,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+212134,mental disease depression,MA,Locals,Male,False,French,44.0,25,HS,39000,25-44
+212135,mental disease depression,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+212136,mental disease depression,QA,Locals,Male,False,French,44.0,25,HS,30,25-44
+212137,mental disease depression,SA,Locals,Male,False,French,44.0,25,HS,140,25-44
+212138,mental disease depression,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+212139,mental disease depression,TN,Locals,Male,False,French,44.0,25,HS,9800,25-44
+212140,mental disease depression,AE,Locals,Male,False,French,44.0,25,HS,40,25-44
+212141,mental disease depression,YE,Locals,Male,False,French,44.0,25,HS,50,25-44
+212142,mental disease depression,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+212143,mental disease depression,DZ,Locals,Male,False,French,44.0,25,GRAD,63000,25-44
+212145,mental disease depression,EG,Locals,Male,False,French,44.0,25,GRAD,8100,25-44
+212146,mental disease depression,IQ,Locals,Male,False,French,44.0,25,GRAD,550,25-44
+212147,mental disease depression,JO,Locals,Male,False,French,44.0,25,GRAD,390,25-44
+212148,mental disease depression,KW,Locals,Male,False,French,44.0,25,GRAD,40,25-44
+212149,mental disease depression,LB,Locals,Male,False,French,44.0,25,GRAD,1900,25-44
+212150,mental disease depression,LY,Locals,Male,False,French,44.0,25,GRAD,250,25-44
+212151,mental disease depression,MA,Locals,Male,False,French,44.0,25,GRAD,150000,25-44
+212152,mental disease depression,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+212153,mental disease depression,QA,Locals,Male,False,French,44.0,25,GRAD,120,25-44
+212154,mental disease depression,SA,Locals,Male,False,French,44.0,25,GRAD,640,25-44
+212155,mental disease depression,SO,Locals,Male,False,French,44.0,25,GRAD,100,25-44
+212156,mental disease depression,TN,Locals,Male,False,French,44.0,25,GRAD,35000,25-44
+212157,mental disease depression,AE,Locals,Male,False,French,44.0,25,GRAD,240,25-44
+212158,mental disease depression,YE,Locals,Male,False,French,44.0,25,GRAD,280,25-44
+212159,mental disease depression,PS,Locals,Male,False,French,44.0,25,GRAD,50,25-44
+212211,mental disease depression,DZ,Locals,Female,False,French,44.0,25,ND,34000,25-44
+212213,mental disease depression,EG,Locals,Female,False,French,44.0,25,ND,550,25-44
+212214,mental disease depression,IQ,Locals,Female,False,French,44.0,25,ND,0,25-44
+212215,mental disease depression,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+212216,mental disease depression,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+212217,mental disease depression,LB,Locals,Female,False,French,44.0,25,ND,1700,25-44
+212218,mental disease depression,LY,Locals,Female,False,French,44.0,25,ND,60,25-44
+212219,mental disease depression,MA,Locals,Female,False,French,44.0,25,ND,54000,25-44
+212220,mental disease depression,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+212221,mental disease depression,QA,Locals,Female,False,French,44.0,25,ND,50,25-44
+212222,mental disease depression,SA,Locals,Female,False,French,44.0,25,ND,210,25-44
+212223,mental disease depression,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+212224,mental disease depression,TN,Locals,Female,False,French,44.0,25,ND,22000,25-44
+212225,mental disease depression,AE,Locals,Female,False,French,44.0,25,ND,90,25-44
+212226,mental disease depression,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+212227,mental disease depression,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+212228,mental disease depression,DZ,Locals,Female,False,French,44.0,25,HS,9600,25-44
+212230,mental disease depression,EG,Locals,Female,False,French,44.0,25,HS,1100,25-44
+212231,mental disease depression,IQ,Locals,Female,False,French,44.0,25,HS,50,25-44
+212232,mental disease depression,JO,Locals,Female,False,French,44.0,25,HS,30,25-44
+212233,mental disease depression,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+212234,mental disease depression,LB,Locals,Female,False,French,44.0,25,HS,1200,25-44
+212235,mental disease depression,LY,Locals,Female,False,French,44.0,25,HS,30,25-44
+212236,mental disease depression,MA,Locals,Female,False,French,44.0,25,HS,17000,25-44
+212237,mental disease depression,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+212238,mental disease depression,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+212239,mental disease depression,SA,Locals,Female,False,French,44.0,25,HS,90,25-44
+212240,mental disease depression,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+212241,mental disease depression,TN,Locals,Female,False,French,44.0,25,HS,11000,25-44
+212242,mental disease depression,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+212243,mental disease depression,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+212244,mental disease depression,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+212245,mental disease depression,DZ,Locals,Female,False,French,44.0,25,GRAD,48000,25-44
+212247,mental disease depression,EG,Locals,Female,False,French,44.0,25,GRAD,10000,25-44
+212248,mental disease depression,IQ,Locals,Female,False,French,44.0,25,GRAD,150,25-44
+212249,mental disease depression,JO,Locals,Female,False,French,44.0,25,GRAD,280,25-44
+212250,mental disease depression,KW,Locals,Female,False,French,44.0,25,GRAD,90,25-44
+212251,mental disease depression,LB,Locals,Female,False,French,44.0,25,GRAD,6000,25-44
+212252,mental disease depression,LY,Locals,Female,False,French,44.0,25,GRAD,200,25-44
+212253,mental disease depression,MA,Locals,Female,False,French,44.0,25,GRAD,62000,25-44
+212254,mental disease depression,OM,Locals,Female,False,French,44.0,25,GRAD,50,25-44
+212255,mental disease depression,QA,Locals,Female,False,French,44.0,25,GRAD,100,25-44
+212256,mental disease depression,SA,Locals,Female,False,French,44.0,25,GRAD,440,25-44
+212257,mental disease depression,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+212258,mental disease depression,TN,Locals,Female,False,French,44.0,25,GRAD,50000,25-44
+212259,mental disease depression,AE,Locals,Female,False,French,44.0,25,GRAD,210,25-44
+212260,mental disease depression,YE,Locals,Female,False,French,44.0,25,GRAD,60,25-44
+212261,mental disease depression,PS,Locals,Female,False,French,44.0,25,GRAD,80,25-44
+212415,mental disease depression,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,7500,45+
+212417,mental disease depression,EG,Locals,Male,False,French,NOTSELECTED,45,ND,130,45+
+212418,mental disease depression,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212419,mental disease depression,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212420,mental disease depression,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212421,mental disease depression,LB,Locals,Male,False,French,NOTSELECTED,45,ND,360,45+
+212422,mental disease depression,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212423,mental disease depression,MA,Locals,Male,False,French,NOTSELECTED,45,ND,52000,45+
+212424,mental disease depression,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212425,mental disease depression,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212426,mental disease depression,SA,Locals,Male,False,French,NOTSELECTED,45,ND,100,45+
+212427,mental disease depression,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212428,mental disease depression,TN,Locals,Male,False,French,NOTSELECTED,45,ND,5400,45+
+212429,mental disease depression,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212430,mental disease depression,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212431,mental disease depression,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+212432,mental disease depression,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,2300,45+
+212434,mental disease depression,EG,Locals,Male,False,French,NOTSELECTED,45,HS,130,45+
+212435,mental disease depression,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212436,mental disease depression,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212437,mental disease depression,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212438,mental disease depression,LB,Locals,Male,False,French,NOTSELECTED,45,HS,180,45+
+212439,mental disease depression,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212440,mental disease depression,MA,Locals,Male,False,French,NOTSELECTED,45,HS,13000,45+
+212441,mental disease depression,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212442,mental disease depression,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212443,mental disease depression,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212444,mental disease depression,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212445,mental disease depression,TN,Locals,Male,False,French,NOTSELECTED,45,HS,2500,45+
+212446,mental disease depression,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212447,mental disease depression,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212448,mental disease depression,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+212449,mental disease depression,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,6200,45+
+212451,mental disease depression,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,590,45+
+212452,mental disease depression,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+212453,mental disease depression,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+212454,mental disease depression,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212455,mental disease depression,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,480,45+
+212456,mental disease depression,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212457,mental disease depression,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,38000,45+
+212458,mental disease depression,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212459,mental disease depression,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212460,mental disease depression,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+212461,mental disease depression,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212462,mental disease depression,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,7500,45+
+212463,mental disease depression,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+212464,mental disease depression,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212465,mental disease depression,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212517,mental disease depression,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,6100,45+
+212519,mental disease depression,EG,Locals,Female,False,French,NOTSELECTED,45,ND,180,45+
+212520,mental disease depression,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212521,mental disease depression,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212522,mental disease depression,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212523,mental disease depression,LB,Locals,Female,False,French,NOTSELECTED,45,ND,1400,45+
+212524,mental disease depression,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212525,mental disease depression,MA,Locals,Female,False,French,NOTSELECTED,45,ND,21000,45+
+212526,mental disease depression,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212527,mental disease depression,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212528,mental disease depression,SA,Locals,Female,False,French,NOTSELECTED,45,ND,60,45+
+212529,mental disease depression,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212530,mental disease depression,TN,Locals,Female,False,French,NOTSELECTED,45,ND,5000,45+
+212531,mental disease depression,AE,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+212532,mental disease depression,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212533,mental disease depression,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+212534,mental disease depression,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,1800,45+
+212536,mental disease depression,EG,Locals,Female,False,French,NOTSELECTED,45,HS,160,45+
+212537,mental disease depression,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212538,mental disease depression,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212539,mental disease depression,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212540,mental disease depression,LB,Locals,Female,False,French,NOTSELECTED,45,HS,380,45+
+212541,mental disease depression,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212542,mental disease depression,MA,Locals,Female,False,French,NOTSELECTED,45,HS,5700,45+
+212543,mental disease depression,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212544,mental disease depression,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212545,mental disease depression,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212546,mental disease depression,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212547,mental disease depression,TN,Locals,Female,False,French,NOTSELECTED,45,HS,2600,45+
+212548,mental disease depression,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212549,mental disease depression,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212550,mental disease depression,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+212551,mental disease depression,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,4500,45+
+212553,mental disease depression,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,850,45+
+212554,mental disease depression,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212555,mental disease depression,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+212556,mental disease depression,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212557,mental disease depression,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,1400,45+
+212558,mental disease depression,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+212559,mental disease depression,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,13000,45+
+212560,mental disease depression,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212561,mental disease depression,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212562,mental disease depression,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+212563,mental disease depression,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212564,mental disease depression,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,5800,45+
+212565,mental disease depression,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+212566,mental disease depression,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212567,mental disease depression,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
 42432,smoking awareness,DZ,Expats,Male,False,Arabic,24.0,18,ND,650,18-24
 42434,smoking awareness,EG,Expats,Male,False,Arabic,24.0,18,ND,1900,18-24
 42435,smoking awareness,IQ,Expats,Male,False,Arabic,24.0,18,ND,1000,18-24
@@ -5759,3 +6335,579 @@
 116974,mental disease depression,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,2150,45+
 116975,mental disease depression,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 116976,mental disease depression,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+205326,smoking awareness,DZ,Expats,Male,False,French,24.0,18,ND,550,18-24
+205328,smoking awareness,EG,Expats,Male,False,French,24.0,18,ND,85,18-24
+205329,smoking awareness,IQ,Expats,Male,False,French,24.0,18,ND,0,18-24
+205330,smoking awareness,JO,Expats,Male,False,French,24.0,18,ND,15,18-24
+205331,smoking awareness,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+205332,smoking awareness,LB,Expats,Male,False,French,24.0,18,ND,0,18-24
+205333,smoking awareness,LY,Expats,Male,False,French,24.0,18,ND,0,18-24
+205334,smoking awareness,MA,Expats,Male,False,French,24.0,18,ND,350,18-24
+205335,smoking awareness,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+205336,smoking awareness,QA,Expats,Male,False,French,24.0,18,ND,0,18-24
+205337,smoking awareness,SA,Expats,Male,False,French,24.0,18,ND,0,18-24
+205338,smoking awareness,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+205339,smoking awareness,TN,Expats,Male,False,French,24.0,18,ND,475,18-24
+205340,smoking awareness,AE,Expats,Male,False,French,24.0,18,ND,0,18-24
+205341,smoking awareness,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+205342,smoking awareness,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+205343,smoking awareness,DZ,Expats,Male,False,French,24.0,18,HS,550,18-24
+205345,smoking awareness,EG,Expats,Male,False,French,24.0,18,HS,850,18-24
+205346,smoking awareness,IQ,Expats,Male,False,French,24.0,18,HS,0,18-24
+205347,smoking awareness,JO,Expats,Male,False,French,24.0,18,HS,50,18-24
+205348,smoking awareness,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+205349,smoking awareness,LB,Expats,Male,False,French,24.0,18,HS,0,18-24
+205350,smoking awareness,LY,Expats,Male,False,French,24.0,18,HS,0,18-24
+205351,smoking awareness,MA,Expats,Male,False,French,24.0,18,HS,420,18-24
+205352,smoking awareness,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+205353,smoking awareness,QA,Expats,Male,False,French,24.0,18,HS,0,18-24
+205354,smoking awareness,SA,Expats,Male,False,French,24.0,18,HS,0,18-24
+205355,smoking awareness,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+205356,smoking awareness,TN,Expats,Male,False,French,24.0,18,HS,455,18-24
+205357,smoking awareness,AE,Expats,Male,False,French,24.0,18,HS,0,18-24
+205358,smoking awareness,YE,Expats,Male,False,French,24.0,18,HS,0,18-24
+205359,smoking awareness,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+205360,smoking awareness,DZ,Expats,Male,False,French,24.0,18,GRAD,1200,18-24
+205362,smoking awareness,EG,Expats,Male,False,French,24.0,18,GRAD,1000,18-24
+205363,smoking awareness,IQ,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205364,smoking awareness,JO,Expats,Male,False,French,24.0,18,GRAD,50,18-24
+205365,smoking awareness,KW,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205366,smoking awareness,LB,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205367,smoking awareness,LY,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205368,smoking awareness,MA,Expats,Male,False,French,24.0,18,GRAD,1050,18-24
+205369,smoking awareness,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205370,smoking awareness,QA,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205371,smoking awareness,SA,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205372,smoking awareness,SO,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205373,smoking awareness,TN,Expats,Male,False,French,24.0,18,GRAD,1050,18-24
+205374,smoking awareness,AE,Expats,Male,False,French,24.0,18,GRAD,30,18-24
+205375,smoking awareness,YE,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205376,smoking awareness,PS,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+205428,smoking awareness,DZ,Expats,Female,False,French,24.0,18,ND,165,18-24
+205430,smoking awareness,EG,Expats,Female,False,French,24.0,18,ND,15,18-24
+205431,smoking awareness,IQ,Expats,Female,False,French,24.0,18,ND,0,18-24
+205432,smoking awareness,JO,Expats,Female,False,French,24.0,18,ND,0,18-24
+205433,smoking awareness,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+205434,smoking awareness,LB,Expats,Female,False,French,24.0,18,ND,0,18-24
+205435,smoking awareness,LY,Expats,Female,False,French,24.0,18,ND,0,18-24
+205436,smoking awareness,MA,Expats,Female,False,French,24.0,18,ND,120,18-24
+205437,smoking awareness,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+205438,smoking awareness,QA,Expats,Female,False,French,24.0,18,ND,0,18-24
+205439,smoking awareness,SA,Expats,Female,False,French,24.0,18,ND,0,18-24
+205440,smoking awareness,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+205441,smoking awareness,TN,Expats,Female,False,French,24.0,18,ND,390,18-24
+205442,smoking awareness,AE,Expats,Female,False,French,24.0,18,ND,0,18-24
+205443,smoking awareness,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+205444,smoking awareness,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+205445,smoking awareness,DZ,Expats,Female,False,French,24.0,18,HS,140,18-24
+205447,smoking awareness,EG,Expats,Female,False,French,24.0,18,HS,170,18-24
+205448,smoking awareness,IQ,Expats,Female,False,French,24.0,18,HS,0,18-24
+205449,smoking awareness,JO,Expats,Female,False,French,24.0,18,HS,0,18-24
+205450,smoking awareness,KW,Expats,Female,False,French,24.0,18,HS,0,18-24
+205451,smoking awareness,LB,Expats,Female,False,French,24.0,18,HS,0,18-24
+205452,smoking awareness,LY,Expats,Female,False,French,24.0,18,HS,0,18-24
+205453,smoking awareness,MA,Expats,Female,False,French,24.0,18,HS,140,18-24
+205454,smoking awareness,OM,Expats,Female,False,French,24.0,18,HS,0,18-24
+205455,smoking awareness,QA,Expats,Female,False,French,24.0,18,HS,0,18-24
+205456,smoking awareness,SA,Expats,Female,False,French,24.0,18,HS,0,18-24
+205457,smoking awareness,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+205458,smoking awareness,TN,Expats,Female,False,French,24.0,18,HS,345,18-24
+205459,smoking awareness,AE,Expats,Female,False,French,24.0,18,HS,0,18-24
+205460,smoking awareness,YE,Expats,Female,False,French,24.0,18,HS,0,18-24
+205461,smoking awareness,PS,Expats,Female,False,French,24.0,18,HS,0,18-24
+205462,smoking awareness,DZ,Expats,Female,False,French,24.0,18,GRAD,300,18-24
+205464,smoking awareness,EG,Expats,Female,False,French,24.0,18,GRAD,165,18-24
+205465,smoking awareness,IQ,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205466,smoking awareness,JO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205467,smoking awareness,KW,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205468,smoking awareness,LB,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205469,smoking awareness,LY,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205470,smoking awareness,MA,Expats,Female,False,French,24.0,18,GRAD,305,18-24
+205471,smoking awareness,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205472,smoking awareness,QA,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205473,smoking awareness,SA,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205474,smoking awareness,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205475,smoking awareness,TN,Expats,Female,False,French,24.0,18,GRAD,700,18-24
+205476,smoking awareness,AE,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+205477,smoking awareness,YE,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205478,smoking awareness,PS,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+205632,smoking awareness,DZ,Expats,Male,False,French,44.0,25,ND,950,25-44
+205634,smoking awareness,EG,Expats,Male,False,French,44.0,25,ND,60,25-44
+205635,smoking awareness,IQ,Expats,Male,False,French,44.0,25,ND,0,25-44
+205636,smoking awareness,JO,Expats,Male,False,French,44.0,25,ND,0,25-44
+205637,smoking awareness,KW,Expats,Male,False,French,44.0,25,ND,0,25-44
+205638,smoking awareness,LB,Expats,Male,False,French,44.0,25,ND,0,25-44
+205639,smoking awareness,LY,Expats,Male,False,French,44.0,25,ND,0,25-44
+205640,smoking awareness,MA,Expats,Male,False,French,44.0,25,ND,490,25-44
+205641,smoking awareness,OM,Expats,Male,False,French,44.0,25,ND,0,25-44
+205642,smoking awareness,QA,Expats,Male,False,French,44.0,25,ND,0,25-44
+205643,smoking awareness,SA,Expats,Male,False,French,44.0,25,ND,0,25-44
+205644,smoking awareness,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+205645,smoking awareness,TN,Expats,Male,False,French,44.0,25,ND,1100,25-44
+205646,smoking awareness,AE,Expats,Male,False,French,44.0,25,ND,30,25-44
+205647,smoking awareness,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+205648,smoking awareness,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+205649,smoking awareness,DZ,Expats,Male,False,French,44.0,25,HS,345,25-44
+205651,smoking awareness,EG,Expats,Male,False,French,44.0,25,HS,120,25-44
+205652,smoking awareness,IQ,Expats,Male,False,French,44.0,25,HS,0,25-44
+205653,smoking awareness,JO,Expats,Male,False,French,44.0,25,HS,20,25-44
+205654,smoking awareness,KW,Expats,Male,False,French,44.0,25,HS,0,25-44
+205655,smoking awareness,LB,Expats,Male,False,French,44.0,25,HS,0,25-44
+205656,smoking awareness,LY,Expats,Male,False,French,44.0,25,HS,0,25-44
+205657,smoking awareness,MA,Expats,Male,False,French,44.0,25,HS,270,25-44
+205658,smoking awareness,OM,Expats,Male,False,French,44.0,25,HS,0,25-44
+205659,smoking awareness,QA,Expats,Male,False,French,44.0,25,HS,0,25-44
+205660,smoking awareness,SA,Expats,Male,False,French,44.0,25,HS,0,25-44
+205661,smoking awareness,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+205662,smoking awareness,TN,Expats,Male,False,French,44.0,25,HS,550,25-44
+205663,smoking awareness,AE,Expats,Male,False,French,44.0,25,HS,25,25-44
+205664,smoking awareness,YE,Expats,Male,False,French,44.0,25,HS,0,25-44
+205665,smoking awareness,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+205666,smoking awareness,DZ,Expats,Male,False,French,44.0,25,GRAD,1450,25-44
+205668,smoking awareness,EG,Expats,Male,False,French,44.0,25,GRAD,850,25-44
+205669,smoking awareness,IQ,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205670,smoking awareness,JO,Expats,Male,False,French,44.0,25,GRAD,100,25-44
+205671,smoking awareness,KW,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205672,smoking awareness,LB,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205673,smoking awareness,LY,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205674,smoking awareness,MA,Expats,Male,False,French,44.0,25,GRAD,1050,25-44
+205675,smoking awareness,OM,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205676,smoking awareness,QA,Expats,Male,False,French,44.0,25,GRAD,20,25-44
+205677,smoking awareness,SA,Expats,Male,False,French,44.0,25,GRAD,55,25-44
+205678,smoking awareness,SO,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205679,smoking awareness,TN,Expats,Male,False,French,44.0,25,GRAD,2100,25-44
+205680,smoking awareness,AE,Expats,Male,False,French,44.0,25,GRAD,145,25-44
+205681,smoking awareness,YE,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205682,smoking awareness,PS,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+205734,smoking awareness,DZ,Expats,Female,False,French,44.0,25,ND,190,25-44
+205736,smoking awareness,EG,Expats,Female,False,French,44.0,25,ND,15,25-44
+205737,smoking awareness,IQ,Expats,Female,False,French,44.0,25,ND,0,25-44
+205738,smoking awareness,JO,Expats,Female,False,French,44.0,25,ND,0,25-44
+205739,smoking awareness,KW,Expats,Female,False,French,44.0,25,ND,0,25-44
+205740,smoking awareness,LB,Expats,Female,False,French,44.0,25,ND,0,25-44
+205741,smoking awareness,LY,Expats,Female,False,French,44.0,25,ND,0,25-44
+205742,smoking awareness,MA,Expats,Female,False,French,44.0,25,ND,175,25-44
+205743,smoking awareness,OM,Expats,Female,False,French,44.0,25,ND,0,25-44
+205744,smoking awareness,QA,Expats,Female,False,French,44.0,25,ND,0,25-44
+205745,smoking awareness,SA,Expats,Female,False,French,44.0,25,ND,0,25-44
+205746,smoking awareness,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+205747,smoking awareness,TN,Expats,Female,False,French,44.0,25,ND,465,25-44
+205748,smoking awareness,AE,Expats,Female,False,French,44.0,25,ND,40,25-44
+205749,smoking awareness,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+205750,smoking awareness,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+205751,smoking awareness,DZ,Expats,Female,False,French,44.0,25,HS,80,25-44
+205753,smoking awareness,EG,Expats,Female,False,French,44.0,25,HS,25,25-44
+205754,smoking awareness,IQ,Expats,Female,False,French,44.0,25,HS,0,25-44
+205755,smoking awareness,JO,Expats,Female,False,French,44.0,25,HS,0,25-44
+205756,smoking awareness,KW,Expats,Female,False,French,44.0,25,HS,0,25-44
+205757,smoking awareness,LB,Expats,Female,False,French,44.0,25,HS,0,25-44
+205758,smoking awareness,LY,Expats,Female,False,French,44.0,25,HS,0,25-44
+205759,smoking awareness,MA,Expats,Female,False,French,44.0,25,HS,60,25-44
+205760,smoking awareness,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+205761,smoking awareness,QA,Expats,Female,False,French,44.0,25,HS,0,25-44
+205762,smoking awareness,SA,Expats,Female,False,French,44.0,25,HS,0,25-44
+205763,smoking awareness,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+205764,smoking awareness,TN,Expats,Female,False,French,44.0,25,HS,215,25-44
+205765,smoking awareness,AE,Expats,Female,False,French,44.0,25,HS,15,25-44
+205766,smoking awareness,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+205767,smoking awareness,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+205768,smoking awareness,DZ,Expats,Female,False,French,44.0,25,GRAD,320,25-44
+205770,smoking awareness,EG,Expats,Female,False,French,44.0,25,GRAD,135,25-44
+205771,smoking awareness,IQ,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205772,smoking awareness,JO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205773,smoking awareness,KW,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205774,smoking awareness,LB,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205775,smoking awareness,LY,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205776,smoking awareness,MA,Expats,Female,False,French,44.0,25,GRAD,250,25-44
+205777,smoking awareness,OM,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205778,smoking awareness,QA,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205779,smoking awareness,SA,Expats,Female,False,French,44.0,25,GRAD,15,25-44
+205780,smoking awareness,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205781,smoking awareness,TN,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+205782,smoking awareness,AE,Expats,Female,False,French,44.0,25,GRAD,110,25-44
+205783,smoking awareness,YE,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205784,smoking awareness,PS,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+205938,smoking awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,185,45+
+205940,smoking awareness,EG,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+205941,smoking awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205942,smoking awareness,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205943,smoking awareness,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205944,smoking awareness,LB,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205945,smoking awareness,LY,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205946,smoking awareness,MA,Expats,Male,False,French,NOTSELECTED,45,ND,120,45+
+205947,smoking awareness,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205948,smoking awareness,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205949,smoking awareness,SA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205950,smoking awareness,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205951,smoking awareness,TN,Expats,Male,False,French,NOTSELECTED,45,ND,370,45+
+205952,smoking awareness,AE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205953,smoking awareness,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205954,smoking awareness,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+205955,smoking awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,75,45+
+205957,smoking awareness,EG,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205958,smoking awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205959,smoking awareness,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205960,smoking awareness,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205961,smoking awareness,LB,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205962,smoking awareness,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205963,smoking awareness,MA,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+205964,smoking awareness,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205965,smoking awareness,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205966,smoking awareness,SA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205967,smoking awareness,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205968,smoking awareness,TN,Expats,Male,False,French,NOTSELECTED,45,HS,180,45+
+205969,smoking awareness,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205970,smoking awareness,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205971,smoking awareness,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+205972,smoking awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,205,45+
+205974,smoking awareness,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+205975,smoking awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205976,smoking awareness,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205977,smoking awareness,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205978,smoking awareness,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205979,smoking awareness,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205980,smoking awareness,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,160,45+
+205981,smoking awareness,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205982,smoking awareness,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205983,smoking awareness,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205984,smoking awareness,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205985,smoking awareness,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,495,45+
+205986,smoking awareness,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+205987,smoking awareness,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+205988,smoking awareness,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206040,smoking awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,40,45+
+206042,smoking awareness,EG,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206043,smoking awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206044,smoking awareness,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206045,smoking awareness,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206046,smoking awareness,LB,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206047,smoking awareness,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206048,smoking awareness,MA,Expats,Female,False,French,NOTSELECTED,45,ND,45,45+
+206049,smoking awareness,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206050,smoking awareness,QA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206051,smoking awareness,SA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206052,smoking awareness,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206053,smoking awareness,TN,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+206054,smoking awareness,AE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206055,smoking awareness,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206056,smoking awareness,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206057,smoking awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+206059,smoking awareness,EG,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206060,smoking awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206061,smoking awareness,JO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206062,smoking awareness,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206063,smoking awareness,LB,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206064,smoking awareness,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206065,smoking awareness,MA,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+206066,smoking awareness,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206067,smoking awareness,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206068,smoking awareness,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206069,smoking awareness,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206070,smoking awareness,TN,Expats,Female,False,French,NOTSELECTED,45,HS,60,45+
+206071,smoking awareness,AE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206072,smoking awareness,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206073,smoking awareness,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206074,smoking awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+206076,smoking awareness,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+206077,smoking awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206078,smoking awareness,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206079,smoking awareness,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206080,smoking awareness,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206081,smoking awareness,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206082,smoking awareness,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+206083,smoking awareness,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206084,smoking awareness,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206085,smoking awareness,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206086,smoking awareness,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206087,smoking awareness,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,150,45+
+206088,smoking awareness,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,20,45+
+206089,smoking awareness,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206090,smoking awareness,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211752,mental disease depression,DZ,Expats,Male,False,French,24.0,18,ND,19500,18-24
+211754,mental disease depression,EG,Expats,Male,False,French,24.0,18,ND,800,18-24
+211755,mental disease depression,IQ,Expats,Male,False,French,24.0,18,ND,95,18-24
+211756,mental disease depression,JO,Expats,Male,False,French,24.0,18,ND,45,18-24
+211757,mental disease depression,KW,Expats,Male,False,French,24.0,18,ND,25,18-24
+211758,mental disease depression,LB,Expats,Male,False,French,24.0,18,ND,195,18-24
+211759,mental disease depression,LY,Expats,Male,False,French,24.0,18,ND,90,18-24
+211760,mental disease depression,MA,Expats,Male,False,French,24.0,18,ND,31000,18-24
+211761,mental disease depression,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+211762,mental disease depression,QA,Expats,Male,False,French,24.0,18,ND,25,18-24
+211763,mental disease depression,SA,Expats,Male,False,French,24.0,18,ND,95,18-24
+211764,mental disease depression,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+211765,mental disease depression,TN,Expats,Male,False,French,24.0,18,ND,6500,18-24
+211766,mental disease depression,AE,Expats,Male,False,French,24.0,18,ND,65,18-24
+211767,mental disease depression,YE,Expats,Male,False,French,24.0,18,ND,20,18-24
+211768,mental disease depression,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+211769,mental disease depression,DZ,Expats,Male,False,French,24.0,18,HS,13500,18-24
+211771,mental disease depression,EG,Expats,Male,False,French,24.0,18,HS,6500,18-24
+211772,mental disease depression,IQ,Expats,Male,False,French,24.0,18,HS,360,18-24
+211773,mental disease depression,JO,Expats,Male,False,French,24.0,18,HS,285,18-24
+211774,mental disease depression,KW,Expats,Male,False,French,24.0,18,HS,20,18-24
+211775,mental disease depression,LB,Expats,Male,False,French,24.0,18,HS,550,18-24
+211776,mental disease depression,LY,Expats,Male,False,French,24.0,18,HS,95,18-24
+211777,mental disease depression,MA,Expats,Male,False,French,24.0,18,HS,23000,18-24
+211778,mental disease depression,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+211779,mental disease depression,QA,Expats,Male,False,French,24.0,18,HS,15,18-24
+211780,mental disease depression,SA,Expats,Male,False,French,24.0,18,HS,70,18-24
+211781,mental disease depression,SO,Expats,Male,False,French,24.0,18,HS,25,18-24
+211782,mental disease depression,TN,Expats,Male,False,French,24.0,18,HS,6500,18-24
+211783,mental disease depression,AE,Expats,Male,False,French,24.0,18,HS,155,18-24
+211784,mental disease depression,YE,Expats,Male,False,French,24.0,18,HS,95,18-24
+211785,mental disease depression,PS,Expats,Male,False,French,24.0,18,HS,25,18-24
+211786,mental disease depression,DZ,Expats,Male,False,French,24.0,18,GRAD,32500,18-24
+211788,mental disease depression,EG,Expats,Male,False,French,24.0,18,GRAD,6500,18-24
+211789,mental disease depression,IQ,Expats,Male,False,French,24.0,18,GRAD,270,18-24
+211790,mental disease depression,JO,Expats,Male,False,French,24.0,18,GRAD,290,18-24
+211791,mental disease depression,KW,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+211792,mental disease depression,LB,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+211793,mental disease depression,LY,Expats,Male,False,French,24.0,18,GRAD,130,18-24
+211794,mental disease depression,MA,Expats,Male,False,French,24.0,18,GRAD,60000,18-24
+211795,mental disease depression,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+211796,mental disease depression,QA,Expats,Male,False,French,24.0,18,GRAD,90,18-24
+211797,mental disease depression,SA,Expats,Male,False,French,24.0,18,GRAD,280,18-24
+211798,mental disease depression,SO,Expats,Male,False,French,24.0,18,GRAD,80,18-24
+211799,mental disease depression,TN,Expats,Male,False,French,24.0,18,GRAD,13500,18-24
+211800,mental disease depression,AE,Expats,Male,False,French,24.0,18,GRAD,220,18-24
+211801,mental disease depression,YE,Expats,Male,False,French,24.0,18,GRAD,80,18-24
+211802,mental disease depression,PS,Expats,Male,False,French,24.0,18,GRAD,60,18-24
+211854,mental disease depression,DZ,Expats,Female,False,French,24.0,18,ND,19500,18-24
+211856,mental disease depression,EG,Expats,Female,False,French,24.0,18,ND,950,18-24
+211857,mental disease depression,IQ,Expats,Female,False,French,24.0,18,ND,30,18-24
+211858,mental disease depression,JO,Expats,Female,False,French,24.0,18,ND,55,18-24
+211859,mental disease depression,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+211860,mental disease depression,LB,Expats,Female,False,French,24.0,18,ND,315,18-24
+211861,mental disease depression,LY,Expats,Female,False,French,24.0,18,ND,15,18-24
+211862,mental disease depression,MA,Expats,Female,False,French,24.0,18,ND,18500,18-24
+211863,mental disease depression,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+211864,mental disease depression,QA,Expats,Female,False,French,24.0,18,ND,20,18-24
+211865,mental disease depression,SA,Expats,Female,False,French,24.0,18,ND,110,18-24
+211866,mental disease depression,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+211867,mental disease depression,TN,Expats,Female,False,French,24.0,18,ND,10000,18-24
+211868,mental disease depression,AE,Expats,Female,False,French,24.0,18,ND,85,18-24
+211869,mental disease depression,YE,Expats,Female,False,French,24.0,18,ND,15,18-24
+211870,mental disease depression,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+211871,mental disease depression,DZ,Expats,Female,False,French,24.0,18,HS,13500,18-24
+211873,mental disease depression,EG,Expats,Female,False,French,24.0,18,HS,8500,18-24
+211874,mental disease depression,IQ,Expats,Female,False,French,24.0,18,HS,90,18-24
+211875,mental disease depression,JO,Expats,Female,False,French,24.0,18,HS,225,18-24
+211876,mental disease depression,KW,Expats,Female,False,French,24.0,18,HS,50,18-24
+211877,mental disease depression,LB,Expats,Female,False,French,24.0,18,HS,1300,18-24
+211878,mental disease depression,LY,Expats,Female,False,French,24.0,18,HS,145,18-24
+211879,mental disease depression,MA,Expats,Female,False,French,24.0,18,HS,14500,18-24
+211880,mental disease depression,OM,Expats,Female,False,French,24.0,18,HS,15,18-24
+211881,mental disease depression,QA,Expats,Female,False,French,24.0,18,HS,35,18-24
+211882,mental disease depression,SA,Expats,Female,False,French,24.0,18,HS,220,18-24
+211883,mental disease depression,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+211884,mental disease depression,TN,Expats,Female,False,French,24.0,18,HS,10500,18-24
+211885,mental disease depression,AE,Expats,Female,False,French,24.0,18,HS,175,18-24
+211886,mental disease depression,YE,Expats,Female,False,French,24.0,18,HS,40,18-24
+211887,mental disease depression,PS,Expats,Female,False,French,24.0,18,HS,45,18-24
+211888,mental disease depression,DZ,Expats,Female,False,French,24.0,18,GRAD,28500,18-24
+211890,mental disease depression,EG,Expats,Female,False,French,24.0,18,GRAD,8000,18-24
+211891,mental disease depression,IQ,Expats,Female,False,French,24.0,18,GRAD,95,18-24
+211892,mental disease depression,JO,Expats,Female,False,French,24.0,18,GRAD,205,18-24
+211893,mental disease depression,KW,Expats,Female,False,French,24.0,18,GRAD,45,18-24
+211894,mental disease depression,LB,Expats,Female,False,French,24.0,18,GRAD,1200,18-24
+211895,mental disease depression,LY,Expats,Female,False,French,24.0,18,GRAD,135,18-24
+211896,mental disease depression,MA,Expats,Female,False,French,24.0,18,GRAD,31500,18-24
+211897,mental disease depression,OM,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+211898,mental disease depression,QA,Expats,Female,False,French,24.0,18,GRAD,55,18-24
+211899,mental disease depression,SA,Expats,Female,False,French,24.0,18,GRAD,205,18-24
+211900,mental disease depression,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+211901,mental disease depression,TN,Expats,Female,False,French,24.0,18,GRAD,19000,18-24
+211902,mental disease depression,AE,Expats,Female,False,French,24.0,18,GRAD,295,18-24
+211903,mental disease depression,YE,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+211904,mental disease depression,PS,Expats,Female,False,French,24.0,18,GRAD,50,18-24
+212058,mental disease depression,DZ,Expats,Male,False,French,44.0,25,ND,27000,25-44
+212060,mental disease depression,EG,Expats,Male,False,French,44.0,25,ND,250,25-44
+212061,mental disease depression,IQ,Expats,Male,False,French,44.0,25,ND,55,25-44
+212062,mental disease depression,JO,Expats,Male,False,French,44.0,25,ND,45,25-44
+212063,mental disease depression,KW,Expats,Male,False,French,44.0,25,ND,45,25-44
+212064,mental disease depression,LB,Expats,Male,False,French,44.0,25,ND,290,25-44
+212065,mental disease depression,LY,Expats,Male,False,French,44.0,25,ND,155,25-44
+212066,mental disease depression,MA,Expats,Male,False,French,44.0,25,ND,75000,25-44
+212067,mental disease depression,OM,Expats,Male,False,French,44.0,25,ND,20,25-44
+212068,mental disease depression,QA,Expats,Male,False,French,44.0,25,ND,115,25-44
+212069,mental disease depression,SA,Expats,Male,False,French,44.0,25,ND,185,25-44
+212070,mental disease depression,SO,Expats,Male,False,French,44.0,25,ND,45,25-44
+212071,mental disease depression,TN,Expats,Male,False,French,44.0,25,ND,10500,25-44
+212072,mental disease depression,AE,Expats,Male,False,French,44.0,25,ND,180,25-44
+212073,mental disease depression,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+212074,mental disease depression,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+212075,mental disease depression,DZ,Expats,Male,False,French,44.0,25,HS,8500,25-44
+212077,mental disease depression,EG,Expats,Male,False,French,44.0,25,HS,600,25-44
+212078,mental disease depression,IQ,Expats,Male,False,French,44.0,25,HS,70,25-44
+212079,mental disease depression,JO,Expats,Male,False,French,44.0,25,HS,90,25-44
+212080,mental disease depression,KW,Expats,Male,False,French,44.0,25,HS,20,25-44
+212081,mental disease depression,LB,Expats,Male,False,French,44.0,25,HS,270,25-44
+212082,mental disease depression,LY,Expats,Male,False,French,44.0,25,HS,75,25-44
+212083,mental disease depression,MA,Expats,Male,False,French,44.0,25,HS,21500,25-44
+212084,mental disease depression,OM,Expats,Male,False,French,44.0,25,HS,20,25-44
+212085,mental disease depression,QA,Expats,Male,False,French,44.0,25,HS,75,25-44
+212086,mental disease depression,SA,Expats,Male,False,French,44.0,25,HS,170,25-44
+212087,mental disease depression,SO,Expats,Male,False,French,44.0,25,HS,15,25-44
+212088,mental disease depression,TN,Expats,Male,False,French,44.0,25,HS,5500,25-44
+212089,mental disease depression,AE,Expats,Male,False,French,44.0,25,HS,155,25-44
+212090,mental disease depression,YE,Expats,Male,False,French,44.0,25,HS,30,25-44
+212091,mental disease depression,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+212092,mental disease depression,DZ,Expats,Male,False,French,44.0,25,GRAD,36000,25-44
+212094,mental disease depression,EG,Expats,Male,False,French,44.0,25,GRAD,4400,25-44
+212095,mental disease depression,IQ,Expats,Male,False,French,44.0,25,GRAD,305,25-44
+212096,mental disease depression,JO,Expats,Male,False,French,44.0,25,GRAD,285,25-44
+212097,mental disease depression,KW,Expats,Male,False,French,44.0,25,GRAD,180,25-44
+212098,mental disease depression,LB,Expats,Male,False,French,44.0,25,GRAD,1100,25-44
+212099,mental disease depression,LY,Expats,Male,False,French,44.0,25,GRAD,215,25-44
+212100,mental disease depression,MA,Expats,Male,False,French,44.0,25,GRAD,85000,25-44
+212101,mental disease depression,OM,Expats,Male,False,French,44.0,25,GRAD,70,25-44
+212102,mental disease depression,QA,Expats,Male,False,French,44.0,25,GRAD,440,25-44
+212103,mental disease depression,SA,Expats,Male,False,French,44.0,25,GRAD,1150,25-44
+212104,mental disease depression,SO,Expats,Male,False,French,44.0,25,GRAD,105,25-44
+212105,mental disease depression,TN,Expats,Male,False,French,44.0,25,GRAD,19500,25-44
+212106,mental disease depression,AE,Expats,Male,False,French,44.0,25,GRAD,850,25-44
+212107,mental disease depression,YE,Expats,Male,False,French,44.0,25,GRAD,210,25-44
+212108,mental disease depression,PS,Expats,Male,False,French,44.0,25,GRAD,45,25-44
+212160,mental disease depression,DZ,Expats,Female,False,French,44.0,25,ND,18000,25-44
+212162,mental disease depression,EG,Expats,Female,False,French,44.0,25,ND,360,25-44
+212163,mental disease depression,IQ,Expats,Female,False,French,44.0,25,ND,20,25-44
+212164,mental disease depression,JO,Expats,Female,False,French,44.0,25,ND,15,25-44
+212165,mental disease depression,KW,Expats,Female,False,French,44.0,25,ND,50,25-44
+212166,mental disease depression,LB,Expats,Female,False,French,44.0,25,ND,950,25-44
+212167,mental disease depression,LY,Expats,Female,False,French,44.0,25,ND,60,25-44
+212168,mental disease depression,MA,Expats,Female,False,French,44.0,25,ND,28500,25-44
+212169,mental disease depression,OM,Expats,Female,False,French,44.0,25,ND,30,25-44
+212170,mental disease depression,QA,Expats,Female,False,French,44.0,25,ND,85,25-44
+212171,mental disease depression,SA,Expats,Female,False,French,44.0,25,ND,175,25-44
+212172,mental disease depression,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+212173,mental disease depression,TN,Expats,Female,False,French,44.0,25,ND,11500,25-44
+212174,mental disease depression,AE,Expats,Female,False,French,44.0,25,ND,325,25-44
+212175,mental disease depression,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+212176,mental disease depression,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+212177,mental disease depression,DZ,Expats,Female,False,French,44.0,25,HS,5000,25-44
+212179,mental disease depression,EG,Expats,Female,False,French,44.0,25,HS,600,25-44
+212180,mental disease depression,IQ,Expats,Female,False,French,44.0,25,HS,25,25-44
+212181,mental disease depression,JO,Expats,Female,False,French,44.0,25,HS,35,25-44
+212182,mental disease depression,KW,Expats,Female,False,French,44.0,25,HS,60,25-44
+212183,mental disease depression,LB,Expats,Female,False,French,44.0,25,HS,700,25-44
+212184,mental disease depression,LY,Expats,Female,False,French,44.0,25,HS,15,25-44
+212185,mental disease depression,MA,Expats,Female,False,French,44.0,25,HS,9000,25-44
+212186,mental disease depression,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+212187,mental disease depression,QA,Expats,Female,False,French,44.0,25,HS,60,25-44
+212188,mental disease depression,SA,Expats,Female,False,French,44.0,25,HS,100,25-44
+212189,mental disease depression,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+212190,mental disease depression,TN,Expats,Female,False,French,44.0,25,HS,6000,25-44
+212191,mental disease depression,AE,Expats,Female,False,French,44.0,25,HS,170,25-44
+212192,mental disease depression,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+212193,mental disease depression,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+212194,mental disease depression,DZ,Expats,Female,False,French,44.0,25,GRAD,25500,25-44
+212196,mental disease depression,EG,Expats,Female,False,French,44.0,25,GRAD,5500,25-44
+212197,mental disease depression,IQ,Expats,Female,False,French,44.0,25,GRAD,90,25-44
+212198,mental disease depression,JO,Expats,Female,False,French,44.0,25,GRAD,260,25-44
+212199,mental disease depression,KW,Expats,Female,False,French,44.0,25,GRAD,215,25-44
+212200,mental disease depression,LB,Expats,Female,False,French,44.0,25,GRAD,3300,25-44
+212201,mental disease depression,LY,Expats,Female,False,French,44.0,25,GRAD,145,25-44
+212202,mental disease depression,MA,Expats,Female,False,French,44.0,25,GRAD,33500,25-44
+212203,mental disease depression,OM,Expats,Female,False,French,44.0,25,GRAD,75,25-44
+212204,mental disease depression,QA,Expats,Female,False,French,44.0,25,GRAD,385,25-44
+212205,mental disease depression,SA,Expats,Female,False,French,44.0,25,GRAD,650,25-44
+212206,mental disease depression,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+212207,mental disease depression,TN,Expats,Female,False,French,44.0,25,GRAD,26500,25-44
+212208,mental disease depression,AE,Expats,Female,False,French,44.0,25,GRAD,1250,25-44
+212209,mental disease depression,YE,Expats,Female,False,French,44.0,25,GRAD,50,25-44
+212210,mental disease depression,PS,Expats,Female,False,French,44.0,25,GRAD,55,25-44
+212364,mental disease depression,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,4250,45+
+212366,mental disease depression,EG,Expats,Male,False,French,NOTSELECTED,45,ND,70,45+
+212367,mental disease depression,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212368,mental disease depression,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212369,mental disease depression,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212370,mental disease depression,LB,Expats,Male,False,French,NOTSELECTED,45,ND,205,45+
+212371,mental disease depression,LY,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212372,mental disease depression,MA,Expats,Male,False,French,NOTSELECTED,45,ND,27000,45+
+212373,mental disease depression,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212374,mental disease depression,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212375,mental disease depression,SA,Expats,Male,False,French,NOTSELECTED,45,ND,75,45+
+212376,mental disease depression,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212377,mental disease depression,TN,Expats,Male,False,French,NOTSELECTED,45,ND,2900,45+
+212378,mental disease depression,AE,Expats,Male,False,French,NOTSELECTED,45,ND,40,45+
+212379,mental disease depression,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212380,mental disease depression,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+212381,mental disease depression,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1400,45+
+212383,mental disease depression,EG,Expats,Male,False,French,NOTSELECTED,45,HS,70,45+
+212384,mental disease depression,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212385,mental disease depression,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212386,mental disease depression,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212387,mental disease depression,LB,Expats,Male,False,French,NOTSELECTED,45,HS,95,45+
+212388,mental disease depression,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212389,mental disease depression,MA,Expats,Male,False,French,NOTSELECTED,45,HS,7000,45+
+212390,mental disease depression,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212391,mental disease depression,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212392,mental disease depression,SA,Expats,Male,False,French,NOTSELECTED,45,HS,35,45+
+212393,mental disease depression,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212394,mental disease depression,TN,Expats,Male,False,French,NOTSELECTED,45,HS,1400,45+
+212395,mental disease depression,AE,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+212396,mental disease depression,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212397,mental disease depression,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+212398,mental disease depression,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,3800,45+
+212400,mental disease depression,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,335,45+
+212401,mental disease depression,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+212402,mental disease depression,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,35,45+
+212403,mental disease depression,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+212404,mental disease depression,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,270,45+
+212405,mental disease depression,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+212406,mental disease depression,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,20500,45+
+212407,mental disease depression,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212408,mental disease depression,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+212409,mental disease depression,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,120,45+
+212410,mental disease depression,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212411,mental disease depression,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,4200,45+
+212412,mental disease depression,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+212413,mental disease depression,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212414,mental disease depression,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+212466,mental disease depression,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,3350,45+
+212468,mental disease depression,EG,Expats,Female,False,French,NOTSELECTED,45,ND,105,45+
+212469,mental disease depression,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212470,mental disease depression,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212471,mental disease depression,KW,Expats,Female,False,French,NOTSELECTED,45,ND,15,45+
+212472,mental disease depression,LB,Expats,Female,False,French,NOTSELECTED,45,ND,750,45+
+212473,mental disease depression,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212474,mental disease depression,MA,Expats,Female,False,French,NOTSELECTED,45,ND,11500,45+
+212475,mental disease depression,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212476,mental disease depression,QA,Expats,Female,False,French,NOTSELECTED,45,ND,20,45+
+212477,mental disease depression,SA,Expats,Female,False,French,NOTSELECTED,45,ND,60,45+
+212478,mental disease depression,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212479,mental disease depression,TN,Expats,Female,False,French,NOTSELECTED,45,ND,2700,45+
+212480,mental disease depression,AE,Expats,Female,False,French,NOTSELECTED,45,ND,65,45+
+212481,mental disease depression,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212482,mental disease depression,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+212483,mental disease depression,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,1050,45+
+212485,mental disease depression,EG,Expats,Female,False,French,NOTSELECTED,45,HS,100,45+
+212486,mental disease depression,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212487,mental disease depression,JO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212488,mental disease depression,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212489,mental disease depression,LB,Expats,Female,False,French,NOTSELECTED,45,HS,220,45+
+212490,mental disease depression,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212491,mental disease depression,MA,Expats,Female,False,French,NOTSELECTED,45,HS,3100,45+
+212492,mental disease depression,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212493,mental disease depression,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212494,mental disease depression,SA,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+212495,mental disease depression,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212496,mental disease depression,TN,Expats,Female,False,French,NOTSELECTED,45,HS,1450,45+
+212497,mental disease depression,AE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212498,mental disease depression,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212499,mental disease depression,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+212500,mental disease depression,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,2550,45+
+212502,mental disease depression,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,485,45+
+212503,mental disease depression,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212504,mental disease depression,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+212505,mental disease depression,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,15,45+
+212506,mental disease depression,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,750,45+
+212507,mental disease depression,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,15,45+
+212508,mental disease depression,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,7000,45+
+212509,mental disease depression,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,20,45+
+212510,mental disease depression,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+212511,mental disease depression,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,75,45+
+212512,mental disease depression,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212513,mental disease depression,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,3100,45+
+212514,mental disease depression,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,135,45+
+212515,mental disease depression,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+212516,mental disease depression,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,25,45+
