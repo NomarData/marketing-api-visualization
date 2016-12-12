@@ -2879,6 +2879,582 @@
 107590,mobile phones gadgets,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,1200,45+
 107591,mobile phones gadgets,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 107592,mobile phones gadgets,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+206295,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,ND,18000,18-24
+206297,diabetes awareness,EG,Locals,Male,False,French,24.0,18,ND,660,18-24
+206298,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,ND,160,18-24
+206299,diabetes awareness,JO,Locals,Male,False,French,24.0,18,ND,0,18-24
+206300,diabetes awareness,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+206301,diabetes awareness,LB,Locals,Male,False,French,24.0,18,ND,80,18-24
+206302,diabetes awareness,LY,Locals,Male,False,French,24.0,18,ND,70,18-24
+206303,diabetes awareness,MA,Locals,Male,False,French,24.0,18,ND,8900,18-24
+206304,diabetes awareness,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+206305,diabetes awareness,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+206306,diabetes awareness,SA,Locals,Male,False,French,24.0,18,ND,50,18-24
+206307,diabetes awareness,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+206308,diabetes awareness,TN,Locals,Male,False,French,24.0,18,ND,13000,18-24
+206309,diabetes awareness,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+206310,diabetes awareness,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+206311,diabetes awareness,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+206312,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,HS,10000,18-24
+206314,diabetes awareness,EG,Locals,Male,False,French,24.0,18,HS,5900,18-24
+206315,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,HS,340,18-24
+206316,diabetes awareness,JO,Locals,Male,False,French,24.0,18,HS,100,18-24
+206317,diabetes awareness,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+206318,diabetes awareness,LB,Locals,Male,False,French,24.0,18,HS,300,18-24
+206319,diabetes awareness,LY,Locals,Male,False,French,24.0,18,HS,90,18-24
+206320,diabetes awareness,MA,Locals,Male,False,French,24.0,18,HS,6900,18-24
+206321,diabetes awareness,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+206322,diabetes awareness,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+206323,diabetes awareness,SA,Locals,Male,False,French,24.0,18,HS,50,18-24
+206324,diabetes awareness,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+206325,diabetes awareness,TN,Locals,Male,False,French,24.0,18,HS,9400,18-24
+206326,diabetes awareness,AE,Locals,Male,False,French,24.0,18,HS,30,18-24
+206327,diabetes awareness,YE,Locals,Male,False,French,24.0,18,HS,70,18-24
+206328,diabetes awareness,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+206329,diabetes awareness,DZ,Locals,Male,False,French,24.0,18,GRAD,24000,18-24
+206331,diabetes awareness,EG,Locals,Male,False,French,24.0,18,GRAD,6400,18-24
+206332,diabetes awareness,IQ,Locals,Male,False,French,24.0,18,GRAD,450,18-24
+206333,diabetes awareness,JO,Locals,Male,False,French,24.0,18,GRAD,160,18-24
+206334,diabetes awareness,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206335,diabetes awareness,LB,Locals,Male,False,French,24.0,18,GRAD,360,18-24
+206336,diabetes awareness,LY,Locals,Male,False,French,24.0,18,GRAD,120,18-24
+206337,diabetes awareness,MA,Locals,Male,False,French,24.0,18,GRAD,18000,18-24
+206338,diabetes awareness,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206339,diabetes awareness,QA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206340,diabetes awareness,SA,Locals,Male,False,French,24.0,18,GRAD,110,18-24
+206341,diabetes awareness,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206342,diabetes awareness,TN,Locals,Male,False,French,24.0,18,GRAD,20000,18-24
+206343,diabetes awareness,AE,Locals,Male,False,French,24.0,18,GRAD,50,18-24
+206344,diabetes awareness,YE,Locals,Male,False,French,24.0,18,GRAD,30,18-24
+206345,diabetes awareness,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+206397,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,ND,16000,18-24
+206399,diabetes awareness,EG,Locals,Female,False,French,24.0,18,ND,840,18-24
+206400,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,ND,40,18-24
+206401,diabetes awareness,JO,Locals,Female,False,French,24.0,18,ND,50,18-24
+206402,diabetes awareness,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+206403,diabetes awareness,LB,Locals,Female,False,French,24.0,18,ND,190,18-24
+206404,diabetes awareness,LY,Locals,Female,False,French,24.0,18,ND,40,18-24
+206405,diabetes awareness,MA,Locals,Female,False,French,24.0,18,ND,6700,18-24
+206406,diabetes awareness,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+206407,diabetes awareness,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+206408,diabetes awareness,SA,Locals,Female,False,French,24.0,18,ND,110,18-24
+206409,diabetes awareness,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+206410,diabetes awareness,TN,Locals,Female,False,French,24.0,18,ND,10000,18-24
+206411,diabetes awareness,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+206412,diabetes awareness,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+206413,diabetes awareness,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+206414,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,HS,11000,18-24
+206416,diabetes awareness,EG,Locals,Female,False,French,24.0,18,HS,6600,18-24
+206417,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,HS,250,18-24
+206418,diabetes awareness,JO,Locals,Female,False,French,24.0,18,HS,180,18-24
+206419,diabetes awareness,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+206420,diabetes awareness,LB,Locals,Female,False,French,24.0,18,HS,710,18-24
+206421,diabetes awareness,LY,Locals,Female,False,French,24.0,18,HS,110,18-24
+206422,diabetes awareness,MA,Locals,Female,False,French,24.0,18,HS,5600,18-24
+206423,diabetes awareness,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+206424,diabetes awareness,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+206425,diabetes awareness,SA,Locals,Female,False,French,24.0,18,HS,70,18-24
+206426,diabetes awareness,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+206427,diabetes awareness,TN,Locals,Female,False,French,24.0,18,HS,9100,18-24
+206428,diabetes awareness,AE,Locals,Female,False,French,24.0,18,HS,50,18-24
+206429,diabetes awareness,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+206430,diabetes awareness,PS,Locals,Female,False,French,24.0,18,HS,60,18-24
+206431,diabetes awareness,DZ,Locals,Female,False,French,24.0,18,GRAD,24000,18-24
+206433,diabetes awareness,EG,Locals,Female,False,French,24.0,18,GRAD,6600,18-24
+206434,diabetes awareness,IQ,Locals,Female,False,French,24.0,18,GRAD,190,18-24
+206435,diabetes awareness,JO,Locals,Female,False,French,24.0,18,GRAD,110,18-24
+206436,diabetes awareness,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206437,diabetes awareness,LB,Locals,Female,False,French,24.0,18,GRAD,880,18-24
+206438,diabetes awareness,LY,Locals,Female,False,French,24.0,18,GRAD,150,18-24
+206439,diabetes awareness,MA,Locals,Female,False,French,24.0,18,GRAD,12000,18-24
+206440,diabetes awareness,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206441,diabetes awareness,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206442,diabetes awareness,SA,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+206443,diabetes awareness,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206444,diabetes awareness,TN,Locals,Female,False,French,24.0,18,GRAD,18000,18-24
+206445,diabetes awareness,AE,Locals,Female,False,French,24.0,18,GRAD,60,18-24
+206446,diabetes awareness,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+206447,diabetes awareness,PS,Locals,Female,False,French,24.0,18,GRAD,70,18-24
+206601,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,ND,27000,25-44
+206603,diabetes awareness,EG,Locals,Male,False,French,44.0,25,ND,360,25-44
+206604,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,ND,80,25-44
+206605,diabetes awareness,JO,Locals,Male,False,French,44.0,25,ND,50,25-44
+206606,diabetes awareness,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+206607,diabetes awareness,LB,Locals,Male,False,French,44.0,25,ND,180,25-44
+206608,diabetes awareness,LY,Locals,Male,False,French,44.0,25,ND,80,25-44
+206609,diabetes awareness,MA,Locals,Male,False,French,44.0,25,ND,14000,25-44
+206610,diabetes awareness,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+206611,diabetes awareness,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+206612,diabetes awareness,SA,Locals,Male,False,French,44.0,25,ND,250,25-44
+206613,diabetes awareness,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+206614,diabetes awareness,TN,Locals,Male,False,French,44.0,25,ND,20000,25-44
+206615,diabetes awareness,AE,Locals,Male,False,French,44.0,25,ND,30,25-44
+206616,diabetes awareness,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+206617,diabetes awareness,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+206618,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,HS,7800,25-44
+206620,diabetes awareness,EG,Locals,Male,False,French,44.0,25,HS,620,25-44
+206621,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,HS,130,25-44
+206622,diabetes awareness,JO,Locals,Male,False,French,44.0,25,HS,50,25-44
+206623,diabetes awareness,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+206624,diabetes awareness,LB,Locals,Male,False,French,44.0,25,HS,140,25-44
+206625,diabetes awareness,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+206626,diabetes awareness,MA,Locals,Male,False,French,44.0,25,HS,5000,25-44
+206627,diabetes awareness,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+206628,diabetes awareness,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+206629,diabetes awareness,SA,Locals,Male,False,French,44.0,25,HS,90,25-44
+206630,diabetes awareness,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+206631,diabetes awareness,TN,Locals,Male,False,French,44.0,25,HS,8500,25-44
+206632,diabetes awareness,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+206633,diabetes awareness,YE,Locals,Male,False,French,44.0,25,HS,40,25-44
+206634,diabetes awareness,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+206635,diabetes awareness,DZ,Locals,Male,False,French,44.0,25,GRAD,35000,25-44
+206637,diabetes awareness,EG,Locals,Male,False,French,44.0,25,GRAD,4700,25-44
+206638,diabetes awareness,IQ,Locals,Male,False,French,44.0,25,GRAD,580,25-44
+206639,diabetes awareness,JO,Locals,Male,False,French,44.0,25,GRAD,220,25-44
+206640,diabetes awareness,KW,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+206641,diabetes awareness,LB,Locals,Male,False,French,44.0,25,GRAD,790,25-44
+206642,diabetes awareness,LY,Locals,Male,False,French,44.0,25,GRAD,190,25-44
+206643,diabetes awareness,MA,Locals,Male,False,French,44.0,25,GRAD,20000,25-44
+206644,diabetes awareness,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+206645,diabetes awareness,QA,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+206646,diabetes awareness,SA,Locals,Male,False,French,44.0,25,GRAD,470,25-44
+206647,diabetes awareness,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+206648,diabetes awareness,TN,Locals,Male,False,French,44.0,25,GRAD,30000,25-44
+206649,diabetes awareness,AE,Locals,Male,False,French,44.0,25,GRAD,170,25-44
+206650,diabetes awareness,YE,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+206651,diabetes awareness,PS,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+206703,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,ND,19000,25-44
+206705,diabetes awareness,EG,Locals,Female,False,French,44.0,25,ND,450,25-44
+206706,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,ND,70,25-44
+206707,diabetes awareness,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+206708,diabetes awareness,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+206709,diabetes awareness,LB,Locals,Female,False,French,44.0,25,ND,370,25-44
+206710,diabetes awareness,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+206711,diabetes awareness,MA,Locals,Female,False,French,44.0,25,ND,8900,25-44
+206712,diabetes awareness,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+206713,diabetes awareness,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+206714,diabetes awareness,SA,Locals,Female,False,French,44.0,25,ND,150,25-44
+206715,diabetes awareness,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+206716,diabetes awareness,TN,Locals,Female,False,French,44.0,25,ND,14000,25-44
+206717,diabetes awareness,AE,Locals,Female,False,French,44.0,25,ND,0,25-44
+206718,diabetes awareness,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+206719,diabetes awareness,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+206720,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,HS,5500,25-44
+206722,diabetes awareness,EG,Locals,Female,False,French,44.0,25,HS,630,25-44
+206723,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,HS,40,25-44
+206724,diabetes awareness,JO,Locals,Female,False,French,44.0,25,HS,30,25-44
+206725,diabetes awareness,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+206726,diabetes awareness,LB,Locals,Female,False,French,44.0,25,HS,280,25-44
+206727,diabetes awareness,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+206728,diabetes awareness,MA,Locals,Female,False,French,44.0,25,HS,3400,25-44
+206729,diabetes awareness,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+206730,diabetes awareness,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+206731,diabetes awareness,SA,Locals,Female,False,French,44.0,25,HS,80,25-44
+206732,diabetes awareness,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+206733,diabetes awareness,TN,Locals,Female,False,French,44.0,25,HS,6100,25-44
+206734,diabetes awareness,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+206735,diabetes awareness,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+206736,diabetes awareness,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+206737,diabetes awareness,DZ,Locals,Female,False,French,44.0,25,GRAD,29000,25-44
+206739,diabetes awareness,EG,Locals,Female,False,French,44.0,25,GRAD,5500,25-44
+206740,diabetes awareness,IQ,Locals,Female,False,French,44.0,25,GRAD,180,25-44
+206741,diabetes awareness,JO,Locals,Female,False,French,44.0,25,GRAD,150,25-44
+206742,diabetes awareness,KW,Locals,Female,False,French,44.0,25,GRAD,40,25-44
+206743,diabetes awareness,LB,Locals,Female,False,French,44.0,25,GRAD,1600,25-44
+206744,diabetes awareness,LY,Locals,Female,False,French,44.0,25,GRAD,130,25-44
+206745,diabetes awareness,MA,Locals,Female,False,French,44.0,25,GRAD,13000,25-44
+206746,diabetes awareness,OM,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+206747,diabetes awareness,QA,Locals,Female,False,French,44.0,25,GRAD,90,25-44
+206748,diabetes awareness,SA,Locals,Female,False,French,44.0,25,GRAD,460,25-44
+206749,diabetes awareness,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206750,diabetes awareness,TN,Locals,Female,False,French,44.0,25,GRAD,25000,25-44
+206751,diabetes awareness,AE,Locals,Female,False,French,44.0,25,GRAD,80,25-44
+206752,diabetes awareness,YE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206753,diabetes awareness,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+206907,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,6900,45+
+206909,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+206910,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206911,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206912,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206913,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,ND,190,45+
+206914,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206915,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,ND,4400,45+
+206916,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206917,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206918,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,ND,60,45+
+206919,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206920,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,ND,8300,45+
+206921,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206922,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206923,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+206924,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,2200,45+
+206926,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,HS,100,45+
+206927,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206928,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206929,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206930,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,HS,70,45+
+206931,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206932,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,HS,1400,45+
+206933,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206934,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206935,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206936,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206937,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,HS,3800,45+
+206938,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206939,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206940,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+206941,diabetes awareness,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,6600,45+
+206943,diabetes awareness,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,410,45+
+206944,diabetes awareness,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+206945,diabetes awareness,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+206946,diabetes awareness,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206947,diabetes awareness,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,310,45+
+206948,diabetes awareness,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206949,diabetes awareness,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,4400,45+
+206950,diabetes awareness,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206951,diabetes awareness,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206952,diabetes awareness,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+206953,diabetes awareness,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206954,diabetes awareness,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,9200,45+
+206955,diabetes awareness,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206956,diabetes awareness,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206957,diabetes awareness,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207009,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,5600,45+
+207011,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,ND,250,45+
+207012,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207013,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207014,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207015,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,ND,890,45+
+207016,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207017,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,ND,3000,45+
+207018,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207019,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207020,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207021,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207022,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,ND,6300,45+
+207023,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207024,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207025,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207026,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,2000,45+
+207028,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,HS,150,45+
+207029,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207030,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207031,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207032,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,HS,230,45+
+207033,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207034,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,HS,980,45+
+207035,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207036,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207037,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207038,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207039,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,HS,2700,45+
+207040,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207041,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207042,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207043,diabetes awareness,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,4400,45+
+207045,diabetes awareness,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,870,45+
+207046,diabetes awareness,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+207047,diabetes awareness,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207048,diabetes awareness,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207049,diabetes awareness,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,890,45+
+207050,diabetes awareness,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207051,diabetes awareness,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,2300,45+
+207052,diabetes awareness,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207053,diabetes awareness,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207054,diabetes awareness,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+207055,diabetes awareness,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207056,diabetes awareness,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,4800,45+
+207057,diabetes awareness,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207058,diabetes awareness,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207059,diabetes awareness,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210885,mobile phones gadgets,DZ,Locals,Male,False,French,24.0,18,ND,820000,18-24
+210887,mobile phones gadgets,EG,Locals,Male,False,French,24.0,18,ND,14000,18-24
+210888,mobile phones gadgets,IQ,Locals,Male,False,French,24.0,18,ND,3000,18-24
+210889,mobile phones gadgets,JO,Locals,Male,False,French,24.0,18,ND,1300,18-24
+210890,mobile phones gadgets,KW,Locals,Male,False,French,24.0,18,ND,90,18-24
+210891,mobile phones gadgets,LB,Locals,Male,False,French,24.0,18,ND,5500,18-24
+210892,mobile phones gadgets,LY,Locals,Male,False,French,24.0,18,ND,2800,18-24
+210893,mobile phones gadgets,MA,Locals,Male,False,French,24.0,18,ND,560000,18-24
+210894,mobile phones gadgets,OM,Locals,Male,False,French,24.0,18,ND,90,18-24
+210895,mobile phones gadgets,QA,Locals,Male,False,French,24.0,18,ND,430,18-24
+210896,mobile phones gadgets,SA,Locals,Male,False,French,24.0,18,ND,4000,18-24
+210897,mobile phones gadgets,SO,Locals,Male,False,French,24.0,18,ND,260,18-24
+210898,mobile phones gadgets,TN,Locals,Male,False,French,24.0,18,ND,290000,18-24
+210899,mobile phones gadgets,AE,Locals,Male,False,French,24.0,18,ND,940,18-24
+210900,mobile phones gadgets,YE,Locals,Male,False,French,24.0,18,ND,210,18-24
+210901,mobile phones gadgets,PS,Locals,Male,False,French,24.0,18,ND,300,18-24
+210902,mobile phones gadgets,DZ,Locals,Male,False,French,24.0,18,HS,250000,18-24
+210904,mobile phones gadgets,EG,Locals,Male,False,French,24.0,18,HS,78000,18-24
+210905,mobile phones gadgets,IQ,Locals,Male,False,French,24.0,18,HS,4200,18-24
+210906,mobile phones gadgets,JO,Locals,Male,False,French,24.0,18,HS,3400,18-24
+210907,mobile phones gadgets,KW,Locals,Male,False,French,24.0,18,HS,110,18-24
+210908,mobile phones gadgets,LB,Locals,Male,False,French,24.0,18,HS,9800,18-24
+210909,mobile phones gadgets,LY,Locals,Male,False,French,24.0,18,HS,1200,18-24
+210910,mobile phones gadgets,MA,Locals,Male,False,French,24.0,18,HS,260000,18-24
+210911,mobile phones gadgets,OM,Locals,Male,False,French,24.0,18,HS,190,18-24
+210912,mobile phones gadgets,QA,Locals,Male,False,French,24.0,18,HS,120,18-24
+210913,mobile phones gadgets,SA,Locals,Male,False,French,24.0,18,HS,1300,18-24
+210914,mobile phones gadgets,SO,Locals,Male,False,French,24.0,18,HS,160,18-24
+210915,mobile phones gadgets,TN,Locals,Male,False,French,24.0,18,HS,130000,18-24
+210916,mobile phones gadgets,AE,Locals,Male,False,French,24.0,18,HS,570,18-24
+210917,mobile phones gadgets,YE,Locals,Male,False,French,24.0,18,HS,390,18-24
+210918,mobile phones gadgets,PS,Locals,Male,False,French,24.0,18,HS,650,18-24
+210919,mobile phones gadgets,DZ,Locals,Male,False,French,24.0,18,GRAD,560000,18-24
+210921,mobile phones gadgets,EG,Locals,Male,False,French,24.0,18,GRAD,100000,18-24
+210922,mobile phones gadgets,IQ,Locals,Male,False,French,24.0,18,GRAD,4000,18-24
+210923,mobile phones gadgets,JO,Locals,Male,False,French,24.0,18,GRAD,4100,18-24
+210924,mobile phones gadgets,KW,Locals,Male,False,French,24.0,18,GRAD,270,18-24
+210925,mobile phones gadgets,LB,Locals,Male,False,French,24.0,18,GRAD,10000,18-24
+210926,mobile phones gadgets,LY,Locals,Male,False,French,24.0,18,GRAD,1800,18-24
+210927,mobile phones gadgets,MA,Locals,Male,False,French,24.0,18,GRAD,620000,18-24
+210928,mobile phones gadgets,OM,Locals,Male,False,French,24.0,18,GRAD,150,18-24
+210929,mobile phones gadgets,QA,Locals,Male,False,French,24.0,18,GRAD,410,18-24
+210930,mobile phones gadgets,SA,Locals,Male,False,French,24.0,18,GRAD,2600,18-24
+210931,mobile phones gadgets,SO,Locals,Male,False,French,24.0,18,GRAD,720,18-24
+210932,mobile phones gadgets,TN,Locals,Male,False,French,24.0,18,GRAD,260000,18-24
+210933,mobile phones gadgets,AE,Locals,Male,False,French,24.0,18,GRAD,1300,18-24
+210934,mobile phones gadgets,YE,Locals,Male,False,French,24.0,18,GRAD,380,18-24
+210935,mobile phones gadgets,PS,Locals,Male,False,French,24.0,18,GRAD,1000,18-24
+210987,mobile phones gadgets,DZ,Locals,Female,False,French,24.0,18,ND,690000,18-24
+210989,mobile phones gadgets,EG,Locals,Female,False,French,24.0,18,ND,13000,18-24
+210990,mobile phones gadgets,IQ,Locals,Female,False,French,24.0,18,ND,1400,18-24
+210991,mobile phones gadgets,JO,Locals,Female,False,French,24.0,18,ND,1200,18-24
+210992,mobile phones gadgets,KW,Locals,Female,False,French,24.0,18,ND,380,18-24
+210993,mobile phones gadgets,LB,Locals,Female,False,French,24.0,18,ND,6500,18-24
+210994,mobile phones gadgets,LY,Locals,Female,False,French,24.0,18,ND,1200,18-24
+210995,mobile phones gadgets,MA,Locals,Female,False,French,24.0,18,ND,430000,18-24
+210996,mobile phones gadgets,OM,Locals,Female,False,French,24.0,18,ND,50,18-24
+210997,mobile phones gadgets,QA,Locals,Female,False,French,24.0,18,ND,200,18-24
+210998,mobile phones gadgets,SA,Locals,Female,False,French,24.0,18,ND,3200,18-24
+210999,mobile phones gadgets,SO,Locals,Female,False,French,24.0,18,ND,260,18-24
+211000,mobile phones gadgets,TN,Locals,Female,False,French,24.0,18,ND,270000,18-24
+211001,mobile phones gadgets,AE,Locals,Female,False,French,24.0,18,ND,710,18-24
+211002,mobile phones gadgets,YE,Locals,Female,False,French,24.0,18,ND,60,18-24
+211003,mobile phones gadgets,PS,Locals,Female,False,French,24.0,18,ND,260,18-24
+211004,mobile phones gadgets,DZ,Locals,Female,False,French,24.0,18,HS,210000,18-24
+211006,mobile phones gadgets,EG,Locals,Female,False,French,24.0,18,HS,75000,18-24
+211007,mobile phones gadgets,IQ,Locals,Female,False,French,24.0,18,HS,2800,18-24
+211008,mobile phones gadgets,JO,Locals,Female,False,French,24.0,18,HS,3600,18-24
+211009,mobile phones gadgets,KW,Locals,Female,False,French,24.0,18,HS,160,18-24
+211010,mobile phones gadgets,LB,Locals,Female,False,French,24.0,18,HS,13000,18-24
+211011,mobile phones gadgets,LY,Locals,Female,False,French,24.0,18,HS,1600,18-24
+211012,mobile phones gadgets,MA,Locals,Female,False,French,24.0,18,HS,200000,18-24
+211013,mobile phones gadgets,OM,Locals,Female,False,French,24.0,18,HS,70,18-24
+211014,mobile phones gadgets,QA,Locals,Female,False,French,24.0,18,HS,90,18-24
+211015,mobile phones gadgets,SA,Locals,Female,False,French,24.0,18,HS,1400,18-24
+211016,mobile phones gadgets,SO,Locals,Female,False,French,24.0,18,HS,40,18-24
+211017,mobile phones gadgets,TN,Locals,Female,False,French,24.0,18,HS,140000,18-24
+211018,mobile phones gadgets,AE,Locals,Female,False,French,24.0,18,HS,530,18-24
+211019,mobile phones gadgets,YE,Locals,Female,False,French,24.0,18,HS,150,18-24
+211020,mobile phones gadgets,PS,Locals,Female,False,French,24.0,18,HS,1200,18-24
+211021,mobile phones gadgets,DZ,Locals,Female,False,French,24.0,18,GRAD,440000,18-24
+211023,mobile phones gadgets,EG,Locals,Female,False,French,24.0,18,GRAD,81000,18-24
+211024,mobile phones gadgets,IQ,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+211025,mobile phones gadgets,JO,Locals,Female,False,French,24.0,18,GRAD,3000,18-24
+211026,mobile phones gadgets,KW,Locals,Female,False,French,24.0,18,GRAD,180,18-24
+211027,mobile phones gadgets,LB,Locals,Female,False,French,24.0,18,GRAD,13000,18-24
+211028,mobile phones gadgets,LY,Locals,Female,False,French,24.0,18,GRAD,1700,18-24
+211029,mobile phones gadgets,MA,Locals,Female,False,French,24.0,18,GRAD,410000,18-24
+211030,mobile phones gadgets,OM,Locals,Female,False,French,24.0,18,GRAD,70,18-24
+211031,mobile phones gadgets,QA,Locals,Female,False,French,24.0,18,GRAD,350,18-24
+211032,mobile phones gadgets,SA,Locals,Female,False,French,24.0,18,GRAD,1500,18-24
+211033,mobile phones gadgets,SO,Locals,Female,False,French,24.0,18,GRAD,270,18-24
+211034,mobile phones gadgets,TN,Locals,Female,False,French,24.0,18,GRAD,250000,18-24
+211035,mobile phones gadgets,AE,Locals,Female,False,French,24.0,18,GRAD,810,18-24
+211036,mobile phones gadgets,YE,Locals,Female,False,French,24.0,18,GRAD,150,18-24
+211037,mobile phones gadgets,PS,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+211191,mobile phones gadgets,DZ,Locals,Male,False,French,44.0,25,ND,1200000,25-44
+211193,mobile phones gadgets,EG,Locals,Male,False,French,44.0,25,ND,9700,25-44
+211194,mobile phones gadgets,IQ,Locals,Male,False,French,44.0,25,ND,2200,25-44
+211195,mobile phones gadgets,JO,Locals,Male,False,French,44.0,25,ND,830,25-44
+211196,mobile phones gadgets,KW,Locals,Male,False,French,44.0,25,ND,280,25-44
+211197,mobile phones gadgets,LB,Locals,Male,False,French,44.0,25,ND,7700,25-44
+211198,mobile phones gadgets,LY,Locals,Male,False,French,44.0,25,ND,3600,25-44
+211199,mobile phones gadgets,MA,Locals,Male,False,French,44.0,25,ND,800000,25-44
+211200,mobile phones gadgets,OM,Locals,Male,False,French,44.0,25,ND,230,25-44
+211201,mobile phones gadgets,QA,Locals,Male,False,French,44.0,25,ND,1200,25-44
+211202,mobile phones gadgets,SA,Locals,Male,False,French,44.0,25,ND,8400,25-44
+211203,mobile phones gadgets,SO,Locals,Male,False,French,44.0,25,ND,630,25-44
+211204,mobile phones gadgets,TN,Locals,Male,False,French,44.0,25,ND,470000,25-44
+211205,mobile phones gadgets,AE,Locals,Male,False,French,44.0,25,ND,2200,25-44
+211206,mobile phones gadgets,YE,Locals,Male,False,French,44.0,25,ND,290,25-44
+211207,mobile phones gadgets,PS,Locals,Male,False,French,44.0,25,ND,140,25-44
+211208,mobile phones gadgets,DZ,Locals,Male,False,French,44.0,25,HS,230000,25-44
+211210,mobile phones gadgets,EG,Locals,Male,False,French,44.0,25,HS,11000,25-44
+211211,mobile phones gadgets,IQ,Locals,Male,False,French,44.0,25,HS,1100,25-44
+211212,mobile phones gadgets,JO,Locals,Male,False,French,44.0,25,HS,980,25-44
+211213,mobile phones gadgets,KW,Locals,Male,False,French,44.0,25,HS,100,25-44
+211214,mobile phones gadgets,LB,Locals,Male,False,French,44.0,25,HS,5500,25-44
+211215,mobile phones gadgets,LY,Locals,Male,False,French,44.0,25,HS,740,25-44
+211216,mobile phones gadgets,MA,Locals,Male,False,French,44.0,25,HS,200000,25-44
+211217,mobile phones gadgets,OM,Locals,Male,False,French,44.0,25,HS,100,25-44
+211218,mobile phones gadgets,QA,Locals,Male,False,French,44.0,25,HS,420,25-44
+211219,mobile phones gadgets,SA,Locals,Male,False,French,44.0,25,HS,2200,25-44
+211220,mobile phones gadgets,SO,Locals,Male,False,French,44.0,25,HS,80,25-44
+211221,mobile phones gadgets,TN,Locals,Male,False,French,44.0,25,HS,150000,25-44
+211222,mobile phones gadgets,AE,Locals,Male,False,French,44.0,25,HS,820,25-44
+211223,mobile phones gadgets,YE,Locals,Male,False,French,44.0,25,HS,110,25-44
+211224,mobile phones gadgets,PS,Locals,Male,False,French,44.0,25,HS,180,25-44
+211225,mobile phones gadgets,DZ,Locals,Male,False,French,44.0,25,GRAD,850000,25-44
+211227,mobile phones gadgets,EG,Locals,Male,False,French,44.0,25,GRAD,79000,25-44
+211228,mobile phones gadgets,IQ,Locals,Male,False,French,44.0,25,GRAD,4800,25-44
+211229,mobile phones gadgets,JO,Locals,Male,False,French,44.0,25,GRAD,4600,25-44
+211230,mobile phones gadgets,KW,Locals,Male,False,French,44.0,25,GRAD,720,25-44
+211231,mobile phones gadgets,LB,Locals,Male,False,French,44.0,25,GRAD,22000,25-44
+211232,mobile phones gadgets,LY,Locals,Male,False,French,44.0,25,GRAD,2700,25-44
+211233,mobile phones gadgets,MA,Locals,Male,False,French,44.0,25,GRAD,740000,25-44
+211234,mobile phones gadgets,OM,Locals,Male,False,French,44.0,25,GRAD,750,25-44
+211235,mobile phones gadgets,QA,Locals,Male,False,French,44.0,25,GRAD,1500,25-44
+211236,mobile phones gadgets,SA,Locals,Male,False,French,44.0,25,GRAD,9200,25-44
+211237,mobile phones gadgets,SO,Locals,Male,False,French,44.0,25,GRAD,860,25-44
+211238,mobile phones gadgets,TN,Locals,Male,False,French,44.0,25,GRAD,490000,25-44
+211239,mobile phones gadgets,AE,Locals,Male,False,French,44.0,25,GRAD,3700,25-44
+211240,mobile phones gadgets,YE,Locals,Male,False,French,44.0,25,GRAD,880,25-44
+211241,mobile phones gadgets,PS,Locals,Male,False,French,44.0,25,GRAD,1200,25-44
+211293,mobile phones gadgets,DZ,Locals,Female,False,French,44.0,25,ND,570000,25-44
+211295,mobile phones gadgets,EG,Locals,Female,False,French,44.0,25,ND,6700,25-44
+211296,mobile phones gadgets,IQ,Locals,Female,False,French,44.0,25,ND,810,25-44
+211297,mobile phones gadgets,JO,Locals,Female,False,French,44.0,25,ND,610,25-44
+211298,mobile phones gadgets,KW,Locals,Female,False,French,44.0,25,ND,340,25-44
+211299,mobile phones gadgets,LB,Locals,Female,False,French,44.0,25,ND,12000,25-44
+211300,mobile phones gadgets,LY,Locals,Female,False,French,44.0,25,ND,850,25-44
+211301,mobile phones gadgets,MA,Locals,Female,False,French,44.0,25,ND,400000,25-44
+211302,mobile phones gadgets,OM,Locals,Female,False,French,44.0,25,ND,160,25-44
+211303,mobile phones gadgets,QA,Locals,Female,False,French,44.0,25,ND,450,25-44
+211304,mobile phones gadgets,SA,Locals,Female,False,French,44.0,25,ND,5200,25-44
+211305,mobile phones gadgets,SO,Locals,Female,False,French,44.0,25,ND,100,25-44
+211306,mobile phones gadgets,TN,Locals,Female,False,French,44.0,25,ND,310000,25-44
+211307,mobile phones gadgets,AE,Locals,Female,False,French,44.0,25,ND,1300,25-44
+211308,mobile phones gadgets,YE,Locals,Female,False,French,44.0,25,ND,90,25-44
+211309,mobile phones gadgets,PS,Locals,Female,False,French,44.0,25,ND,200,25-44
+211310,mobile phones gadgets,DZ,Locals,Female,False,French,44.0,25,HS,99000,25-44
+211312,mobile phones gadgets,EG,Locals,Female,False,French,44.0,25,HS,7400,25-44
+211313,mobile phones gadgets,IQ,Locals,Female,False,French,44.0,25,HS,570,25-44
+211314,mobile phones gadgets,JO,Locals,Female,False,French,44.0,25,HS,450,25-44
+211315,mobile phones gadgets,KW,Locals,Female,False,French,44.0,25,HS,90,25-44
+211316,mobile phones gadgets,LB,Locals,Female,False,French,44.0,25,HS,6500,25-44
+211317,mobile phones gadgets,LY,Locals,Female,False,French,44.0,25,HS,250,25-44
+211318,mobile phones gadgets,MA,Locals,Female,False,French,44.0,25,HS,100000,25-44
+211319,mobile phones gadgets,OM,Locals,Female,False,French,44.0,25,HS,30,25-44
+211320,mobile phones gadgets,QA,Locals,Female,False,French,44.0,25,HS,110,25-44
+211321,mobile phones gadgets,SA,Locals,Female,False,French,44.0,25,HS,1200,25-44
+211322,mobile phones gadgets,SO,Locals,Female,False,French,44.0,25,HS,70,25-44
+211323,mobile phones gadgets,TN,Locals,Female,False,French,44.0,25,HS,99000,25-44
+211324,mobile phones gadgets,AE,Locals,Female,False,French,44.0,25,HS,510,25-44
+211325,mobile phones gadgets,YE,Locals,Female,False,French,44.0,25,HS,50,25-44
+211326,mobile phones gadgets,PS,Locals,Female,False,French,44.0,25,HS,180,25-44
+211327,mobile phones gadgets,DZ,Locals,Female,False,French,44.0,25,GRAD,440000,25-44
+211329,mobile phones gadgets,EG,Locals,Female,False,French,44.0,25,GRAD,56000,25-44
+211330,mobile phones gadgets,IQ,Locals,Female,False,French,44.0,25,GRAD,2300,25-44
+211331,mobile phones gadgets,JO,Locals,Female,False,French,44.0,25,GRAD,3300,25-44
+211332,mobile phones gadgets,KW,Locals,Female,False,French,44.0,25,GRAD,540,25-44
+211333,mobile phones gadgets,LB,Locals,Female,False,French,44.0,25,GRAD,29000,25-44
+211334,mobile phones gadgets,LY,Locals,Female,False,French,44.0,25,GRAD,1200,25-44
+211335,mobile phones gadgets,MA,Locals,Female,False,French,44.0,25,GRAD,350000,25-44
+211336,mobile phones gadgets,OM,Locals,Female,False,French,44.0,25,GRAD,260,25-44
+211337,mobile phones gadgets,QA,Locals,Female,False,French,44.0,25,GRAD,960,25-44
+211338,mobile phones gadgets,SA,Locals,Female,False,French,44.0,25,GRAD,4400,25-44
+211339,mobile phones gadgets,SO,Locals,Female,False,French,44.0,25,GRAD,150,25-44
+211340,mobile phones gadgets,TN,Locals,Female,False,French,44.0,25,GRAD,370000,25-44
+211341,mobile phones gadgets,AE,Locals,Female,False,French,44.0,25,GRAD,2000,25-44
+211342,mobile phones gadgets,YE,Locals,Female,False,French,44.0,25,GRAD,230,25-44
+211343,mobile phones gadgets,PS,Locals,Female,False,French,44.0,25,GRAD,1100,25-44
+211497,mobile phones gadgets,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,200000,45+
+211499,mobile phones gadgets,EG,Locals,Male,False,French,NOTSELECTED,45,ND,2300,45+
+211500,mobile phones gadgets,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,280,45+
+211501,mobile phones gadgets,JO,Locals,Male,False,French,NOTSELECTED,45,ND,180,45+
+211502,mobile phones gadgets,KW,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+211503,mobile phones gadgets,LB,Locals,Male,False,French,NOTSELECTED,45,ND,5500,45+
+211504,mobile phones gadgets,LY,Locals,Male,False,French,NOTSELECTED,45,ND,410,45+
+211505,mobile phones gadgets,MA,Locals,Male,False,French,NOTSELECTED,45,ND,200000,45+
+211506,mobile phones gadgets,OM,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+211507,mobile phones gadgets,QA,Locals,Male,False,French,NOTSELECTED,45,ND,180,45+
+211508,mobile phones gadgets,SA,Locals,Male,False,French,NOTSELECTED,45,ND,1900,45+
+211509,mobile phones gadgets,SO,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+211510,mobile phones gadgets,TN,Locals,Male,False,French,NOTSELECTED,45,ND,120000,45+
+211511,mobile phones gadgets,AE,Locals,Male,False,French,NOTSELECTED,45,ND,480,45+
+211512,mobile phones gadgets,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+211513,mobile phones gadgets,PS,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+211514,mobile phones gadgets,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,39000,45+
+211516,mobile phones gadgets,EG,Locals,Male,False,French,NOTSELECTED,45,HS,1300,45+
+211517,mobile phones gadgets,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+211518,mobile phones gadgets,JO,Locals,Male,False,French,NOTSELECTED,45,HS,120,45+
+211519,mobile phones gadgets,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+211520,mobile phones gadgets,LB,Locals,Male,False,French,NOTSELECTED,45,HS,1600,45+
+211521,mobile phones gadgets,LY,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+211522,mobile phones gadgets,MA,Locals,Male,False,French,NOTSELECTED,45,HS,40000,45+
+211523,mobile phones gadgets,OM,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+211524,mobile phones gadgets,QA,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+211525,mobile phones gadgets,SA,Locals,Male,False,French,NOTSELECTED,45,HS,360,45+
+211526,mobile phones gadgets,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+211527,mobile phones gadgets,TN,Locals,Male,False,French,NOTSELECTED,45,HS,40000,45+
+211528,mobile phones gadgets,AE,Locals,Male,False,French,NOTSELECTED,45,HS,130,45+
+211529,mobile phones gadgets,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+211530,mobile phones gadgets,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+211531,mobile phones gadgets,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,100000,45+
+211533,mobile phones gadgets,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,7000,45+
+211534,mobile phones gadgets,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,550,45+
+211535,mobile phones gadgets,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,550,45+
+211536,mobile phones gadgets,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+211537,mobile phones gadgets,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,7800,45+
+211538,mobile phones gadgets,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,430,45+
+211539,mobile phones gadgets,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,120000,45+
+211540,mobile phones gadgets,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+211541,mobile phones gadgets,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,140,45+
+211542,mobile phones gadgets,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,1200,45+
+211543,mobile phones gadgets,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+211544,mobile phones gadgets,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,100000,45+
+211545,mobile phones gadgets,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,360,45+
+211546,mobile phones gadgets,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+211547,mobile phones gadgets,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,120,45+
+211599,mobile phones gadgets,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,93000,45+
+211601,mobile phones gadgets,EG,Locals,Female,False,French,NOTSELECTED,45,ND,2100,45+
+211602,mobile phones gadgets,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,150,45+
+211603,mobile phones gadgets,JO,Locals,Female,False,French,NOTSELECTED,45,ND,160,45+
+211604,mobile phones gadgets,KW,Locals,Female,False,French,NOTSELECTED,45,ND,50,45+
+211605,mobile phones gadgets,LB,Locals,Female,False,French,NOTSELECTED,45,ND,12000,45+
+211606,mobile phones gadgets,LY,Locals,Female,False,French,NOTSELECTED,45,ND,160,45+
+211607,mobile phones gadgets,MA,Locals,Female,False,French,NOTSELECTED,45,ND,91000,45+
+211608,mobile phones gadgets,OM,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+211609,mobile phones gadgets,QA,Locals,Female,False,French,NOTSELECTED,45,ND,60,45+
+211610,mobile phones gadgets,SA,Locals,Female,False,French,NOTSELECTED,45,ND,750,45+
+211611,mobile phones gadgets,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+211612,mobile phones gadgets,TN,Locals,Female,False,French,NOTSELECTED,45,ND,73000,45+
+211613,mobile phones gadgets,AE,Locals,Female,False,French,NOTSELECTED,45,ND,190,45+
+211614,mobile phones gadgets,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+211615,mobile phones gadgets,PS,Locals,Female,False,French,NOTSELECTED,45,ND,50,45+
+211616,mobile phones gadgets,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,17000,45+
+211618,mobile phones gadgets,EG,Locals,Female,False,French,NOTSELECTED,45,HS,1300,45+
+211619,mobile phones gadgets,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+211620,mobile phones gadgets,JO,Locals,Female,False,French,NOTSELECTED,45,HS,90,45+
+211621,mobile phones gadgets,KW,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+211622,mobile phones gadgets,LB,Locals,Female,False,French,NOTSELECTED,45,HS,3000,45+
+211623,mobile phones gadgets,LY,Locals,Female,False,French,NOTSELECTED,45,HS,60,45+
+211624,mobile phones gadgets,MA,Locals,Female,False,French,NOTSELECTED,45,HS,19000,45+
+211625,mobile phones gadgets,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+211626,mobile phones gadgets,QA,Locals,Female,False,French,NOTSELECTED,45,HS,40,45+
+211627,mobile phones gadgets,SA,Locals,Female,False,French,NOTSELECTED,45,HS,130,45+
+211628,mobile phones gadgets,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+211629,mobile phones gadgets,TN,Locals,Female,False,French,NOTSELECTED,45,HS,25000,45+
+211630,mobile phones gadgets,AE,Locals,Female,False,French,NOTSELECTED,45,HS,90,45+
+211631,mobile phones gadgets,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+211632,mobile phones gadgets,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+211633,mobile phones gadgets,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,41000,45+
+211635,mobile phones gadgets,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,6900,45+
+211636,mobile phones gadgets,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,210,45+
+211637,mobile phones gadgets,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,310,45+
+211638,mobile phones gadgets,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+211639,mobile phones gadgets,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,9600,45+
+211640,mobile phones gadgets,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+211641,mobile phones gadgets,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,46000,45+
+211642,mobile phones gadgets,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+211643,mobile phones gadgets,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+211644,mobile phones gadgets,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,390,45+
+211645,mobile phones gadgets,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211646,mobile phones gadgets,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,45000,45+
+211647,mobile phones gadgets,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+211648,mobile phones gadgets,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211649,mobile phones gadgets,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
 52224,diabetes awareness,DZ,Expats,Male,False,Arabic,24.0,18,ND,18000,18-24
 52226,diabetes awareness,EG,Expats,Male,False,Arabic,24.0,18,ND,18000,18-24
 52227,diabetes awareness,IQ,Expats,Male,False,Arabic,24.0,18,ND,35500,18-24
@@ -5759,3 +6335,579 @@
 107182,mobile phones gadgets,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,15000,45+
 107183,mobile phones gadgets,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,50,45+
 107184,mobile phones gadgets,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+206244,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,ND,10000,18-24
+206246,diabetes awareness,EG,Expats,Male,False,French,24.0,18,ND,360,18-24
+206247,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,ND,85,18-24
+206248,diabetes awareness,JO,Expats,Male,False,French,24.0,18,ND,15,18-24
+206249,diabetes awareness,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+206250,diabetes awareness,LB,Expats,Male,False,French,24.0,18,ND,45,18-24
+206251,diabetes awareness,LY,Expats,Male,False,French,24.0,18,ND,90,18-24
+206252,diabetes awareness,MA,Expats,Male,False,French,24.0,18,ND,4800,18-24
+206253,diabetes awareness,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+206254,diabetes awareness,QA,Expats,Male,False,French,24.0,18,ND,0,18-24
+206255,diabetes awareness,SA,Expats,Male,False,French,24.0,18,ND,30,18-24
+206256,diabetes awareness,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+206257,diabetes awareness,TN,Expats,Male,False,French,24.0,18,ND,7000,18-24
+206258,diabetes awareness,AE,Expats,Male,False,French,24.0,18,ND,50,18-24
+206259,diabetes awareness,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+206260,diabetes awareness,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+206261,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,HS,6500,18-24
+206263,diabetes awareness,EG,Expats,Male,False,French,24.0,18,HS,3100,18-24
+206264,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,HS,190,18-24
+206265,diabetes awareness,JO,Expats,Male,False,French,24.0,18,HS,80,18-24
+206266,diabetes awareness,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+206267,diabetes awareness,LB,Expats,Male,False,French,24.0,18,HS,205,18-24
+206268,diabetes awareness,LY,Expats,Male,False,French,24.0,18,HS,70,18-24
+206269,diabetes awareness,MA,Expats,Male,False,French,24.0,18,HS,3850,18-24
+206270,diabetes awareness,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+206271,diabetes awareness,QA,Expats,Male,False,French,24.0,18,HS,15,18-24
+206272,diabetes awareness,SA,Expats,Male,False,French,24.0,18,HS,85,18-24
+206273,diabetes awareness,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+206274,diabetes awareness,TN,Expats,Male,False,French,24.0,18,HS,5500,18-24
+206275,diabetes awareness,AE,Expats,Male,False,French,24.0,18,HS,80,18-24
+206276,diabetes awareness,YE,Expats,Male,False,French,24.0,18,HS,45,18-24
+206277,diabetes awareness,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+206278,diabetes awareness,DZ,Expats,Male,False,French,24.0,18,GRAD,15500,18-24
+206280,diabetes awareness,EG,Expats,Male,False,French,24.0,18,GRAD,3300,18-24
+206281,diabetes awareness,IQ,Expats,Male,False,French,24.0,18,GRAD,260,18-24
+206282,diabetes awareness,JO,Expats,Male,False,French,24.0,18,GRAD,105,18-24
+206283,diabetes awareness,KW,Expats,Male,False,French,24.0,18,GRAD,20,18-24
+206284,diabetes awareness,LB,Expats,Male,False,French,24.0,18,GRAD,215,18-24
+206285,diabetes awareness,LY,Expats,Male,False,French,24.0,18,GRAD,115,18-24
+206286,diabetes awareness,MA,Expats,Male,False,French,24.0,18,GRAD,10000,18-24
+206287,diabetes awareness,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+206288,diabetes awareness,QA,Expats,Male,False,French,24.0,18,GRAD,45,18-24
+206289,diabetes awareness,SA,Expats,Male,False,French,24.0,18,GRAD,150,18-24
+206290,diabetes awareness,SO,Expats,Male,False,French,24.0,18,GRAD,15,18-24
+206291,diabetes awareness,TN,Expats,Male,False,French,24.0,18,GRAD,11500,18-24
+206292,diabetes awareness,AE,Expats,Male,False,French,24.0,18,GRAD,115,18-24
+206293,diabetes awareness,YE,Expats,Male,False,French,24.0,18,GRAD,25,18-24
+206294,diabetes awareness,PS,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+206346,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,ND,8500,18-24
+206348,diabetes awareness,EG,Expats,Female,False,French,24.0,18,ND,440,18-24
+206349,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,ND,25,18-24
+206350,diabetes awareness,JO,Expats,Female,False,French,24.0,18,ND,30,18-24
+206351,diabetes awareness,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+206352,diabetes awareness,LB,Expats,Female,False,French,24.0,18,ND,130,18-24
+206353,diabetes awareness,LY,Expats,Female,False,French,24.0,18,ND,40,18-24
+206354,diabetes awareness,MA,Expats,Female,False,French,24.0,18,ND,3550,18-24
+206355,diabetes awareness,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+206356,diabetes awareness,QA,Expats,Female,False,French,24.0,18,ND,0,18-24
+206357,diabetes awareness,SA,Expats,Female,False,French,24.0,18,ND,75,18-24
+206358,diabetes awareness,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+206359,diabetes awareness,TN,Expats,Female,False,French,24.0,18,ND,5500,18-24
+206360,diabetes awareness,AE,Expats,Female,False,French,24.0,18,ND,55,18-24
+206361,diabetes awareness,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+206362,diabetes awareness,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+206363,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,HS,6000,18-24
+206365,diabetes awareness,EG,Expats,Female,False,French,24.0,18,HS,3500,18-24
+206366,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,HS,130,18-24
+206367,diabetes awareness,JO,Expats,Female,False,French,24.0,18,HS,125,18-24
+206368,diabetes awareness,KW,Expats,Female,False,French,24.0,18,HS,30,18-24
+206369,diabetes awareness,LB,Expats,Female,False,French,24.0,18,HS,380,18-24
+206370,diabetes awareness,LY,Expats,Female,False,French,24.0,18,HS,55,18-24
+206371,diabetes awareness,MA,Expats,Female,False,French,24.0,18,HS,3000,18-24
+206372,diabetes awareness,OM,Expats,Female,False,French,24.0,18,HS,0,18-24
+206373,diabetes awareness,QA,Expats,Female,False,French,24.0,18,HS,30,18-24
+206374,diabetes awareness,SA,Expats,Female,False,French,24.0,18,HS,105,18-24
+206375,diabetes awareness,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+206376,diabetes awareness,TN,Expats,Female,False,French,24.0,18,HS,4900,18-24
+206377,diabetes awareness,AE,Expats,Female,False,French,24.0,18,HS,165,18-24
+206378,diabetes awareness,YE,Expats,Female,False,French,24.0,18,HS,15,18-24
+206379,diabetes awareness,PS,Expats,Female,False,French,24.0,18,HS,40,18-24
+206380,diabetes awareness,DZ,Expats,Female,False,French,24.0,18,GRAD,13000,18-24
+206382,diabetes awareness,EG,Expats,Female,False,French,24.0,18,GRAD,3450,18-24
+206383,diabetes awareness,IQ,Expats,Female,False,French,24.0,18,GRAD,100,18-24
+206384,diabetes awareness,JO,Expats,Female,False,French,24.0,18,GRAD,80,18-24
+206385,diabetes awareness,KW,Expats,Female,False,French,24.0,18,GRAD,30,18-24
+206386,diabetes awareness,LB,Expats,Female,False,French,24.0,18,GRAD,490,18-24
+206387,diabetes awareness,LY,Expats,Female,False,French,24.0,18,GRAD,90,18-24
+206388,diabetes awareness,MA,Expats,Female,False,French,24.0,18,GRAD,6500,18-24
+206389,diabetes awareness,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206390,diabetes awareness,QA,Expats,Female,False,French,24.0,18,GRAD,25,18-24
+206391,diabetes awareness,SA,Expats,Female,False,French,24.0,18,GRAD,150,18-24
+206392,diabetes awareness,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206393,diabetes awareness,TN,Expats,Female,False,French,24.0,18,GRAD,9500,18-24
+206394,diabetes awareness,AE,Expats,Female,False,French,24.0,18,GRAD,180,18-24
+206395,diabetes awareness,YE,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+206396,diabetes awareness,PS,Expats,Female,False,French,24.0,18,GRAD,35,18-24
+206550,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,ND,14500,25-44
+206552,diabetes awareness,EG,Expats,Male,False,French,44.0,25,ND,190,25-44
+206553,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,ND,40,25-44
+206554,diabetes awareness,JO,Expats,Male,False,French,44.0,25,ND,30,25-44
+206555,diabetes awareness,KW,Expats,Male,False,French,44.0,25,ND,0,25-44
+206556,diabetes awareness,LB,Expats,Male,False,French,44.0,25,ND,95,25-44
+206557,diabetes awareness,LY,Expats,Male,False,French,44.0,25,ND,120,25-44
+206558,diabetes awareness,MA,Expats,Male,False,French,44.0,25,ND,7000,25-44
+206559,diabetes awareness,OM,Expats,Male,False,French,44.0,25,ND,20,25-44
+206560,diabetes awareness,QA,Expats,Male,False,French,44.0,25,ND,45,25-44
+206561,diabetes awareness,SA,Expats,Male,False,French,44.0,25,ND,165,25-44
+206562,diabetes awareness,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+206563,diabetes awareness,TN,Expats,Male,False,French,44.0,25,ND,10500,25-44
+206564,diabetes awareness,AE,Expats,Male,False,French,44.0,25,ND,155,25-44
+206565,diabetes awareness,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+206566,diabetes awareness,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+206567,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,HS,4400,25-44
+206569,diabetes awareness,EG,Expats,Male,False,French,44.0,25,HS,330,25-44
+206570,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,HS,80,25-44
+206571,diabetes awareness,JO,Expats,Male,False,French,44.0,25,HS,45,25-44
+206572,diabetes awareness,KW,Expats,Male,False,French,44.0,25,HS,15,25-44
+206573,diabetes awareness,LB,Expats,Male,False,French,44.0,25,HS,85,25-44
+206574,diabetes awareness,LY,Expats,Male,False,French,44.0,25,HS,15,25-44
+206575,diabetes awareness,MA,Expats,Male,False,French,44.0,25,HS,2700,25-44
+206576,diabetes awareness,OM,Expats,Male,False,French,44.0,25,HS,20,25-44
+206577,diabetes awareness,QA,Expats,Male,False,French,44.0,25,HS,50,25-44
+206578,diabetes awareness,SA,Expats,Male,False,French,44.0,25,HS,110,25-44
+206579,diabetes awareness,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+206580,diabetes awareness,TN,Expats,Male,False,French,44.0,25,HS,4650,25-44
+206581,diabetes awareness,AE,Expats,Male,False,French,44.0,25,HS,135,25-44
+206582,diabetes awareness,YE,Expats,Male,False,French,44.0,25,HS,25,25-44
+206583,diabetes awareness,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+206584,diabetes awareness,DZ,Expats,Male,False,French,44.0,25,GRAD,20000,25-44
+206586,diabetes awareness,EG,Expats,Male,False,French,44.0,25,GRAD,2500,25-44
+206587,diabetes awareness,IQ,Expats,Male,False,French,44.0,25,GRAD,360,25-44
+206588,diabetes awareness,JO,Expats,Male,False,French,44.0,25,GRAD,155,25-44
+206589,diabetes awareness,KW,Expats,Male,False,French,44.0,25,GRAD,110,25-44
+206590,diabetes awareness,LB,Expats,Male,False,French,44.0,25,GRAD,445,25-44
+206591,diabetes awareness,LY,Expats,Male,False,French,44.0,25,GRAD,220,25-44
+206592,diabetes awareness,MA,Expats,Male,False,French,44.0,25,GRAD,11000,25-44
+206593,diabetes awareness,OM,Expats,Male,False,French,44.0,25,GRAD,65,25-44
+206594,diabetes awareness,QA,Expats,Male,False,French,44.0,25,GRAD,345,25-44
+206595,diabetes awareness,SA,Expats,Male,False,French,44.0,25,GRAD,800,25-44
+206596,diabetes awareness,SO,Expats,Male,False,French,44.0,25,GRAD,30,25-44
+206597,diabetes awareness,TN,Expats,Male,False,French,44.0,25,GRAD,16500,25-44
+206598,diabetes awareness,AE,Expats,Male,False,French,44.0,25,GRAD,800,25-44
+206599,diabetes awareness,YE,Expats,Male,False,French,44.0,25,GRAD,95,25-44
+206600,diabetes awareness,PS,Expats,Male,False,French,44.0,25,GRAD,20,25-44
+206652,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,ND,10000,25-44
+206654,diabetes awareness,EG,Expats,Female,False,French,44.0,25,ND,270,25-44
+206655,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,ND,45,25-44
+206656,diabetes awareness,JO,Expats,Female,False,French,44.0,25,ND,0,25-44
+206657,diabetes awareness,KW,Expats,Female,False,French,44.0,25,ND,0,25-44
+206658,diabetes awareness,LB,Expats,Female,False,French,44.0,25,ND,245,25-44
+206659,diabetes awareness,LY,Expats,Female,False,French,44.0,25,ND,35,25-44
+206660,diabetes awareness,MA,Expats,Female,False,French,44.0,25,ND,4800,25-44
+206661,diabetes awareness,OM,Expats,Female,False,French,44.0,25,ND,15,25-44
+206662,diabetes awareness,QA,Expats,Female,False,French,44.0,25,ND,45,25-44
+206663,diabetes awareness,SA,Expats,Female,False,French,44.0,25,ND,130,25-44
+206664,diabetes awareness,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+206665,diabetes awareness,TN,Expats,Female,False,French,44.0,25,ND,7500,25-44
+206666,diabetes awareness,AE,Expats,Female,False,French,44.0,25,ND,205,25-44
+206667,diabetes awareness,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+206668,diabetes awareness,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+206669,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,HS,2950,25-44
+206671,diabetes awareness,EG,Expats,Female,False,French,44.0,25,HS,355,25-44
+206672,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,HS,20,25-44
+206673,diabetes awareness,JO,Expats,Female,False,French,44.0,25,HS,30,25-44
+206674,diabetes awareness,KW,Expats,Female,False,French,44.0,25,HS,45,25-44
+206675,diabetes awareness,LB,Expats,Female,False,French,44.0,25,HS,160,25-44
+206676,diabetes awareness,LY,Expats,Female,False,French,44.0,25,HS,15,25-44
+206677,diabetes awareness,MA,Expats,Female,False,French,44.0,25,HS,1850,25-44
+206678,diabetes awareness,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+206679,diabetes awareness,QA,Expats,Female,False,French,44.0,25,HS,30,25-44
+206680,diabetes awareness,SA,Expats,Female,False,French,44.0,25,HS,115,25-44
+206681,diabetes awareness,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+206682,diabetes awareness,TN,Expats,Female,False,French,44.0,25,HS,3250,25-44
+206683,diabetes awareness,AE,Expats,Female,False,French,44.0,25,HS,135,25-44
+206684,diabetes awareness,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+206685,diabetes awareness,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+206686,diabetes awareness,DZ,Expats,Female,False,French,44.0,25,GRAD,15000,25-44
+206688,diabetes awareness,EG,Expats,Female,False,French,44.0,25,GRAD,2900,25-44
+206689,diabetes awareness,IQ,Expats,Female,False,French,44.0,25,GRAD,90,25-44
+206690,diabetes awareness,JO,Expats,Female,False,French,44.0,25,GRAD,110,25-44
+206691,diabetes awareness,KW,Expats,Female,False,French,44.0,25,GRAD,150,25-44
+206692,diabetes awareness,LB,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+206693,diabetes awareness,LY,Expats,Female,False,French,44.0,25,GRAD,70,25-44
+206694,diabetes awareness,MA,Expats,Female,False,French,44.0,25,GRAD,7000,25-44
+206695,diabetes awareness,OM,Expats,Female,False,French,44.0,25,GRAD,65,25-44
+206696,diabetes awareness,QA,Expats,Female,False,French,44.0,25,GRAD,240,25-44
+206697,diabetes awareness,SA,Expats,Female,False,French,44.0,25,GRAD,600,25-44
+206698,diabetes awareness,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206699,diabetes awareness,TN,Expats,Female,False,French,44.0,25,GRAD,13500,25-44
+206700,diabetes awareness,AE,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+206701,diabetes awareness,YE,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206702,diabetes awareness,PS,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+206856,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,3850,45+
+206858,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+206859,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206860,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206861,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206862,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,ND,105,45+
+206863,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206864,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,ND,2250,45+
+206865,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206866,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206867,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,ND,50,45+
+206868,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206869,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,ND,4350,45+
+206870,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+206871,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206872,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+206873,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1250,45+
+206875,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,HS,55,45+
+206876,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206877,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206878,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206879,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+206880,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206881,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,HS,750,45+
+206882,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206883,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206884,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,HS,45,45+
+206885,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206886,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,HS,2000,45+
+206887,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206888,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206889,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+206890,diabetes awareness,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,3850,45+
+206892,diabetes awareness,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,215,45+
+206893,diabetes awareness,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+206894,diabetes awareness,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+206895,diabetes awareness,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+206896,diabetes awareness,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,170,45+
+206897,diabetes awareness,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+206898,diabetes awareness,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,2350,45+
+206899,diabetes awareness,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206900,diabetes awareness,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+206901,diabetes awareness,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+206902,diabetes awareness,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206903,diabetes awareness,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,5000,45+
+206904,diabetes awareness,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+206905,diabetes awareness,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206906,diabetes awareness,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+206958,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,3050,45+
+206960,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,ND,135,45+
+206961,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,20,45+
+206962,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206963,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206964,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,ND,470,45+
+206965,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206966,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,ND,1650,45+
+206967,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206968,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206969,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,ND,35,45+
+206970,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206971,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,ND,3300,45+
+206972,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,ND,70,45+
+206973,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206974,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+206975,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,1050,45+
+206977,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,HS,85,45+
+206978,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206979,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+206980,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206981,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,HS,135,45+
+206982,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206983,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,HS,600,45+
+206984,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206985,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206986,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206987,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206988,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,HS,1400,45+
+206989,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+206990,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206991,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+206992,diabetes awareness,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,2450,45+
+206994,diabetes awareness,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,455,45+
+206995,diabetes awareness,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+206996,diabetes awareness,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+206997,diabetes awareness,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,20,45+
+206998,diabetes awareness,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,500,45+
+206999,diabetes awareness,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207000,diabetes awareness,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,1250,45+
+207001,diabetes awareness,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207002,diabetes awareness,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+207003,diabetes awareness,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,65,45+
+207004,diabetes awareness,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207005,diabetes awareness,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,2600,45+
+207006,diabetes awareness,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+207007,diabetes awareness,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207008,diabetes awareness,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210834,mobile phones gadgets,DZ,Expats,Male,False,French,24.0,18,ND,445000,18-24
+210836,mobile phones gadgets,EG,Expats,Male,False,French,24.0,18,ND,8000,18-24
+210837,mobile phones gadgets,IQ,Expats,Male,False,French,24.0,18,ND,1700,18-24
+210838,mobile phones gadgets,JO,Expats,Male,False,French,24.0,18,ND,850,18-24
+210839,mobile phones gadgets,KW,Expats,Male,False,French,24.0,18,ND,315,18-24
+210840,mobile phones gadgets,LB,Expats,Male,False,French,24.0,18,ND,3050,18-24
+210841,mobile phones gadgets,LY,Expats,Male,False,French,24.0,18,ND,3700,18-24
+210842,mobile phones gadgets,MA,Expats,Male,False,French,24.0,18,ND,295000,18-24
+210843,mobile phones gadgets,OM,Expats,Male,False,French,24.0,18,ND,165,18-24
+210844,mobile phones gadgets,QA,Expats,Male,False,French,24.0,18,ND,900,18-24
+210845,mobile phones gadgets,SA,Expats,Male,False,French,24.0,18,ND,2400,18-24
+210846,mobile phones gadgets,SO,Expats,Male,False,French,24.0,18,ND,180,18-24
+210847,mobile phones gadgets,TN,Expats,Male,False,French,24.0,18,ND,155000,18-24
+210848,mobile phones gadgets,AE,Expats,Male,False,French,24.0,18,ND,1800,18-24
+210849,mobile phones gadgets,YE,Expats,Male,False,French,24.0,18,ND,135,18-24
+210850,mobile phones gadgets,PS,Expats,Male,False,French,24.0,18,ND,215,18-24
+210851,mobile phones gadgets,DZ,Expats,Male,False,French,24.0,18,HS,145000,18-24
+210853,mobile phones gadgets,EG,Expats,Male,False,French,24.0,18,HS,41000,18-24
+210854,mobile phones gadgets,IQ,Expats,Male,False,French,24.0,18,HS,2300,18-24
+210855,mobile phones gadgets,JO,Expats,Male,False,French,24.0,18,HS,2400,18-24
+210856,mobile phones gadgets,KW,Expats,Male,False,French,24.0,18,HS,265,18-24
+210857,mobile phones gadgets,LB,Expats,Male,False,French,24.0,18,HS,5500,18-24
+210858,mobile phones gadgets,LY,Expats,Male,False,French,24.0,18,HS,900,18-24
+210859,mobile phones gadgets,MA,Expats,Male,False,French,24.0,18,HS,145000,18-24
+210860,mobile phones gadgets,OM,Expats,Male,False,French,24.0,18,HS,225,18-24
+210861,mobile phones gadgets,QA,Expats,Male,False,French,24.0,18,HS,490,18-24
+210862,mobile phones gadgets,SA,Expats,Male,False,French,24.0,18,HS,1600,18-24
+210863,mobile phones gadgets,SO,Expats,Male,False,French,24.0,18,HS,155,18-24
+210864,mobile phones gadgets,TN,Expats,Male,False,French,24.0,18,HS,75000,18-24
+210865,mobile phones gadgets,AE,Expats,Male,False,French,24.0,18,HS,1950,18-24
+210866,mobile phones gadgets,YE,Expats,Male,False,French,24.0,18,HS,255,18-24
+210867,mobile phones gadgets,PS,Expats,Male,False,French,24.0,18,HS,445,18-24
+210868,mobile phones gadgets,DZ,Expats,Male,False,French,24.0,18,GRAD,340000,18-24
+210870,mobile phones gadgets,EG,Expats,Male,False,French,24.0,18,GRAD,55000,18-24
+210871,mobile phones gadgets,IQ,Expats,Male,False,French,24.0,18,GRAD,2350,18-24
+210872,mobile phones gadgets,JO,Expats,Male,False,French,24.0,18,GRAD,2750,18-24
+210873,mobile phones gadgets,KW,Expats,Male,False,French,24.0,18,GRAD,550,18-24
+210874,mobile phones gadgets,LB,Expats,Male,False,French,24.0,18,GRAD,6000,18-24
+210875,mobile phones gadgets,LY,Expats,Male,False,French,24.0,18,GRAD,1900,18-24
+210876,mobile phones gadgets,MA,Expats,Male,False,French,24.0,18,GRAD,355000,18-24
+210877,mobile phones gadgets,OM,Expats,Male,False,French,24.0,18,GRAD,325,18-24
+210878,mobile phones gadgets,QA,Expats,Male,False,French,24.0,18,GRAD,1150,18-24
+210879,mobile phones gadgets,SA,Expats,Male,False,French,24.0,18,GRAD,3000,18-24
+210880,mobile phones gadgets,SO,Expats,Male,False,French,24.0,18,GRAD,650,18-24
+210881,mobile phones gadgets,TN,Expats,Male,False,French,24.0,18,GRAD,150000,18-24
+210882,mobile phones gadgets,AE,Expats,Male,False,French,24.0,18,GRAD,3750,18-24
+210883,mobile phones gadgets,YE,Expats,Male,False,French,24.0,18,GRAD,300,18-24
+210884,mobile phones gadgets,PS,Expats,Male,False,French,24.0,18,GRAD,800,18-24
+210936,mobile phones gadgets,DZ,Expats,Female,False,French,24.0,18,ND,360000,18-24
+210938,mobile phones gadgets,EG,Expats,Female,False,French,24.0,18,ND,7000,18-24
+210939,mobile phones gadgets,IQ,Expats,Female,False,French,24.0,18,ND,850,18-24
+210940,mobile phones gadgets,JO,Expats,Female,False,French,24.0,18,ND,950,18-24
+210941,mobile phones gadgets,KW,Expats,Female,False,French,24.0,18,ND,600,18-24
+210942,mobile phones gadgets,LB,Expats,Female,False,French,24.0,18,ND,3800,18-24
+210943,mobile phones gadgets,LY,Expats,Female,False,French,24.0,18,ND,800,18-24
+210944,mobile phones gadgets,MA,Expats,Female,False,French,24.0,18,ND,225000,18-24
+210945,mobile phones gadgets,OM,Expats,Female,False,French,24.0,18,ND,120,18-24
+210946,mobile phones gadgets,QA,Expats,Female,False,French,24.0,18,ND,320,18-24
+210947,mobile phones gadgets,SA,Expats,Female,False,French,24.0,18,ND,2050,18-24
+210948,mobile phones gadgets,SO,Expats,Female,False,French,24.0,18,ND,155,18-24
+210949,mobile phones gadgets,TN,Expats,Female,False,French,24.0,18,ND,140000,18-24
+210950,mobile phones gadgets,AE,Expats,Female,False,French,24.0,18,ND,1400,18-24
+210951,mobile phones gadgets,YE,Expats,Female,False,French,24.0,18,ND,85,18-24
+210952,mobile phones gadgets,PS,Expats,Female,False,French,24.0,18,ND,175,18-24
+210953,mobile phones gadgets,DZ,Expats,Female,False,French,24.0,18,HS,115000,18-24
+210955,mobile phones gadgets,EG,Expats,Female,False,French,24.0,18,HS,39000,18-24
+210956,mobile phones gadgets,IQ,Expats,Female,False,French,24.0,18,HS,1550,18-24
+210957,mobile phones gadgets,JO,Expats,Female,False,French,24.0,18,HS,2650,18-24
+210958,mobile phones gadgets,KW,Expats,Female,False,French,24.0,18,HS,365,18-24
+210959,mobile phones gadgets,LB,Expats,Female,False,French,24.0,18,HS,7500,18-24
+210960,mobile phones gadgets,LY,Expats,Female,False,French,24.0,18,HS,850,18-24
+210961,mobile phones gadgets,MA,Expats,Female,False,French,24.0,18,HS,110000,18-24
+210962,mobile phones gadgets,OM,Expats,Female,False,French,24.0,18,HS,160,18-24
+210963,mobile phones gadgets,QA,Expats,Female,False,French,24.0,18,HS,360,18-24
+210964,mobile phones gadgets,SA,Expats,Female,False,French,24.0,18,HS,1500,18-24
+210965,mobile phones gadgets,SO,Expats,Female,False,French,24.0,18,HS,55,18-24
+210966,mobile phones gadgets,TN,Expats,Female,False,French,24.0,18,HS,75000,18-24
+210967,mobile phones gadgets,AE,Expats,Female,False,French,24.0,18,HS,1850,18-24
+210968,mobile phones gadgets,YE,Expats,Female,False,French,24.0,18,HS,105,18-24
+210969,mobile phones gadgets,PS,Expats,Female,False,French,24.0,18,HS,800,18-24
+210970,mobile phones gadgets,DZ,Expats,Female,False,French,24.0,18,GRAD,245000,18-24
+210972,mobile phones gadgets,EG,Expats,Female,False,French,24.0,18,GRAD,42000,18-24
+210973,mobile phones gadgets,IQ,Expats,Female,False,French,24.0,18,GRAD,1050,18-24
+210974,mobile phones gadgets,JO,Expats,Female,False,French,24.0,18,GRAD,2300,18-24
+210975,mobile phones gadgets,KW,Expats,Female,False,French,24.0,18,GRAD,420,18-24
+210976,mobile phones gadgets,LB,Expats,Female,False,French,24.0,18,GRAD,7500,18-24
+210977,mobile phones gadgets,LY,Expats,Female,False,French,24.0,18,GRAD,1050,18-24
+210978,mobile phones gadgets,MA,Expats,Female,False,French,24.0,18,GRAD,220000,18-24
+210979,mobile phones gadgets,OM,Expats,Female,False,French,24.0,18,GRAD,105,18-24
+210980,mobile phones gadgets,QA,Expats,Female,False,French,24.0,18,GRAD,700,18-24
+210981,mobile phones gadgets,SA,Expats,Female,False,French,24.0,18,GRAD,1750,18-24
+210982,mobile phones gadgets,SO,Expats,Female,False,French,24.0,18,GRAD,200,18-24
+210983,mobile phones gadgets,TN,Expats,Female,False,French,24.0,18,GRAD,135000,18-24
+210984,mobile phones gadgets,AE,Expats,Female,False,French,24.0,18,GRAD,2750,18-24
+210985,mobile phones gadgets,YE,Expats,Female,False,French,24.0,18,GRAD,125,18-24
+210986,mobile phones gadgets,PS,Expats,Female,False,French,24.0,18,GRAD,800,18-24
+211140,mobile phones gadgets,DZ,Expats,Male,False,French,44.0,25,ND,650000,25-44
+211142,mobile phones gadgets,EG,Expats,Male,False,French,44.0,25,ND,5500,25-44
+211143,mobile phones gadgets,IQ,Expats,Male,False,French,44.0,25,ND,1350,25-44
+211144,mobile phones gadgets,JO,Expats,Male,False,French,44.0,25,ND,650,25-44
+211145,mobile phones gadgets,KW,Expats,Male,False,French,44.0,25,ND,850,25-44
+211146,mobile phones gadgets,LB,Expats,Male,False,French,44.0,25,ND,4500,25-44
+211147,mobile phones gadgets,LY,Expats,Male,False,French,44.0,25,ND,5500,25-44
+211148,mobile phones gadgets,MA,Expats,Male,False,French,44.0,25,ND,425000,25-44
+211149,mobile phones gadgets,OM,Expats,Male,False,French,44.0,25,ND,495,25-44
+211150,mobile phones gadgets,QA,Expats,Male,False,French,44.0,25,ND,3000,25-44
+211151,mobile phones gadgets,SA,Expats,Male,False,French,44.0,25,ND,5500,25-44
+211152,mobile phones gadgets,SO,Expats,Male,False,French,44.0,25,ND,650,25-44
+211153,mobile phones gadgets,TN,Expats,Male,False,French,44.0,25,ND,250000,25-44
+211154,mobile phones gadgets,AE,Expats,Male,False,French,44.0,25,ND,5500,25-44
+211155,mobile phones gadgets,YE,Expats,Male,False,French,44.0,25,ND,180,25-44
+211156,mobile phones gadgets,PS,Expats,Male,False,French,44.0,25,ND,125,25-44
+211157,mobile phones gadgets,DZ,Expats,Male,False,French,44.0,25,HS,125000,25-44
+211159,mobile phones gadgets,EG,Expats,Male,False,French,44.0,25,HS,6500,25-44
+211160,mobile phones gadgets,IQ,Expats,Male,False,French,44.0,25,HS,750,25-44
+211161,mobile phones gadgets,JO,Expats,Male,False,French,44.0,25,HS,700,25-44
+211162,mobile phones gadgets,KW,Expats,Male,False,French,44.0,25,HS,445,25-44
+211163,mobile phones gadgets,LB,Expats,Male,False,French,44.0,25,HS,3150,25-44
+211164,mobile phones gadgets,LY,Expats,Male,False,French,44.0,25,HS,1150,25-44
+211165,mobile phones gadgets,MA,Expats,Male,False,French,44.0,25,HS,110000,25-44
+211166,mobile phones gadgets,OM,Expats,Male,False,French,44.0,25,HS,230,25-44
+211167,mobile phones gadgets,QA,Expats,Male,False,French,44.0,25,HS,1450,25-44
+211168,mobile phones gadgets,SA,Expats,Male,False,French,44.0,25,HS,2650,25-44
+211169,mobile phones gadgets,SO,Expats,Male,False,French,44.0,25,HS,95,25-44
+211170,mobile phones gadgets,TN,Expats,Male,False,French,44.0,25,HS,80000,25-44
+211171,mobile phones gadgets,AE,Expats,Male,False,French,44.0,25,HS,3350,25-44
+211172,mobile phones gadgets,YE,Expats,Male,False,French,44.0,25,HS,135,25-44
+211173,mobile phones gadgets,PS,Expats,Male,False,French,44.0,25,HS,135,25-44
+211174,mobile phones gadgets,DZ,Expats,Male,False,French,44.0,25,GRAD,480000,25-44
+211176,mobile phones gadgets,EG,Expats,Male,False,French,44.0,25,GRAD,43500,25-44
+211177,mobile phones gadgets,IQ,Expats,Male,False,French,44.0,25,GRAD,3000,25-44
+211178,mobile phones gadgets,JO,Expats,Male,False,French,44.0,25,GRAD,3250,25-44
+211179,mobile phones gadgets,KW,Expats,Male,False,French,44.0,25,GRAD,2400,25-44
+211180,mobile phones gadgets,LB,Expats,Male,False,French,44.0,25,GRAD,13000,25-44
+211181,mobile phones gadgets,LY,Expats,Male,False,French,44.0,25,GRAD,3900,25-44
+211182,mobile phones gadgets,MA,Expats,Male,False,French,44.0,25,GRAD,410000,25-44
+211183,mobile phones gadgets,OM,Expats,Male,False,French,44.0,25,GRAD,1600,25-44
+211184,mobile phones gadgets,QA,Expats,Male,False,French,44.0,25,GRAD,6000,25-44
+211185,mobile phones gadgets,SA,Expats,Male,False,French,44.0,25,GRAD,15000,25-44
+211186,mobile phones gadgets,SO,Expats,Male,False,French,44.0,25,GRAD,850,25-44
+211187,mobile phones gadgets,TN,Expats,Male,False,French,44.0,25,GRAD,265000,25-44
+211188,mobile phones gadgets,AE,Expats,Male,False,French,44.0,25,GRAD,17000,25-44
+211189,mobile phones gadgets,YE,Expats,Male,False,French,44.0,25,GRAD,600,25-44
+211190,mobile phones gadgets,PS,Expats,Male,False,French,44.0,25,GRAD,950,25-44
+211242,mobile phones gadgets,DZ,Expats,Female,False,French,44.0,25,ND,300000,25-44
+211244,mobile phones gadgets,EG,Expats,Female,False,French,44.0,25,ND,4300,25-44
+211245,mobile phones gadgets,IQ,Expats,Female,False,French,44.0,25,ND,550,25-44
+211246,mobile phones gadgets,JO,Expats,Female,False,French,44.0,25,ND,550,25-44
+211247,mobile phones gadgets,KW,Expats,Female,False,French,44.0,25,ND,900,25-44
+211248,mobile phones gadgets,LB,Expats,Female,False,French,44.0,25,ND,7500,25-44
+211249,mobile phones gadgets,LY,Expats,Female,False,French,44.0,25,ND,900,25-44
+211250,mobile phones gadgets,MA,Expats,Female,False,French,44.0,25,ND,215000,25-44
+211251,mobile phones gadgets,OM,Expats,Female,False,French,44.0,25,ND,390,25-44
+211252,mobile phones gadgets,QA,Expats,Female,False,French,44.0,25,ND,1000,25-44
+211253,mobile phones gadgets,SA,Expats,Female,False,French,44.0,25,ND,3450,25-44
+211254,mobile phones gadgets,SO,Expats,Female,False,French,44.0,25,ND,105,25-44
+211255,mobile phones gadgets,TN,Expats,Female,False,French,44.0,25,ND,165000,25-44
+211256,mobile phones gadgets,AE,Expats,Female,False,French,44.0,25,ND,3850,25-44
+211257,mobile phones gadgets,YE,Expats,Female,False,French,44.0,25,ND,65,25-44
+211258,mobile phones gadgets,PS,Expats,Female,False,French,44.0,25,ND,155,25-44
+211259,mobile phones gadgets,DZ,Expats,Female,False,French,44.0,25,HS,55000,25-44
+211261,mobile phones gadgets,EG,Expats,Female,False,French,44.0,25,HS,4300,25-44
+211262,mobile phones gadgets,IQ,Expats,Female,False,French,44.0,25,HS,330,25-44
+211263,mobile phones gadgets,JO,Expats,Female,False,French,44.0,25,HS,415,25-44
+211264,mobile phones gadgets,KW,Expats,Female,False,French,44.0,25,HS,350,25-44
+211265,mobile phones gadgets,LB,Expats,Female,False,French,44.0,25,HS,3800,25-44
+211266,mobile phones gadgets,LY,Expats,Female,False,French,44.0,25,HS,235,25-44
+211267,mobile phones gadgets,MA,Expats,Female,False,French,44.0,25,HS,55000,25-44
+211268,mobile phones gadgets,OM,Expats,Female,False,French,44.0,25,HS,130,25-44
+211269,mobile phones gadgets,QA,Expats,Female,False,French,44.0,25,HS,380,25-44
+211270,mobile phones gadgets,SA,Expats,Female,False,French,44.0,25,HS,1400,25-44
+211271,mobile phones gadgets,SO,Expats,Female,False,French,44.0,25,HS,50,25-44
+211272,mobile phones gadgets,TN,Expats,Female,False,French,44.0,25,HS,55000,25-44
+211273,mobile phones gadgets,AE,Expats,Female,False,French,44.0,25,HS,2100,25-44
+211274,mobile phones gadgets,YE,Expats,Female,False,French,44.0,25,HS,45,25-44
+211275,mobile phones gadgets,PS,Expats,Female,False,French,44.0,25,HS,135,25-44
+211276,mobile phones gadgets,DZ,Expats,Female,False,French,44.0,25,GRAD,235000,25-44
+211278,mobile phones gadgets,EG,Expats,Female,False,French,44.0,25,GRAD,30500,25-44
+211279,mobile phones gadgets,IQ,Expats,Female,False,French,44.0,25,GRAD,1350,25-44
+211280,mobile phones gadgets,JO,Expats,Female,False,French,44.0,25,GRAD,2600,25-44
+211281,mobile phones gadgets,KW,Expats,Female,False,French,44.0,25,GRAD,1600,25-44
+211282,mobile phones gadgets,LB,Expats,Female,False,French,44.0,25,GRAD,16500,25-44
+211283,mobile phones gadgets,LY,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+211284,mobile phones gadgets,MA,Expats,Female,False,French,44.0,25,GRAD,190000,25-44
+211285,mobile phones gadgets,OM,Expats,Female,False,French,44.0,25,GRAD,850,25-44
+211286,mobile phones gadgets,QA,Expats,Female,False,French,44.0,25,GRAD,2850,25-44
+211287,mobile phones gadgets,SA,Expats,Female,False,French,44.0,25,GRAD,5500,25-44
+211288,mobile phones gadgets,SO,Expats,Female,False,French,44.0,25,GRAD,160,25-44
+211289,mobile phones gadgets,TN,Expats,Female,False,French,44.0,25,GRAD,195000,25-44
+211290,mobile phones gadgets,AE,Expats,Female,False,French,44.0,25,GRAD,11000,25-44
+211291,mobile phones gadgets,YE,Expats,Female,False,French,44.0,25,GRAD,195,25-44
+211292,mobile phones gadgets,PS,Expats,Female,False,French,44.0,25,GRAD,800,25-44
+211446,mobile phones gadgets,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,110000,45+
+211448,mobile phones gadgets,EG,Expats,Male,False,French,NOTSELECTED,45,ND,1350,45+
+211449,mobile phones gadgets,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,225,45+
+211450,mobile phones gadgets,JO,Expats,Male,False,French,NOTSELECTED,45,ND,160,45+
+211451,mobile phones gadgets,KW,Expats,Male,False,French,NOTSELECTED,45,ND,120,45+
+211452,mobile phones gadgets,LB,Expats,Male,False,French,NOTSELECTED,45,ND,3050,45+
+211453,mobile phones gadgets,LY,Expats,Male,False,French,NOTSELECTED,45,ND,455,45+
+211454,mobile phones gadgets,MA,Expats,Male,False,French,NOTSELECTED,45,ND,105000,45+
+211455,mobile phones gadgets,OM,Expats,Male,False,French,NOTSELECTED,45,ND,95,45+
+211456,mobile phones gadgets,QA,Expats,Male,False,French,NOTSELECTED,45,ND,400,45+
+211457,mobile phones gadgets,SA,Expats,Male,False,French,NOTSELECTED,45,ND,1450,45+
+211458,mobile phones gadgets,SO,Expats,Male,False,French,NOTSELECTED,45,ND,75,45+
+211459,mobile phones gadgets,TN,Expats,Male,False,French,NOTSELECTED,45,ND,60000,45+
+211460,mobile phones gadgets,AE,Expats,Male,False,French,NOTSELECTED,45,ND,1000,45+
+211461,mobile phones gadgets,YE,Expats,Male,False,French,NOTSELECTED,45,ND,15,45+
+211462,mobile phones gadgets,PS,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+211463,mobile phones gadgets,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,22000,45+
+211465,mobile phones gadgets,EG,Expats,Male,False,French,NOTSELECTED,45,HS,750,45+
+211466,mobile phones gadgets,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,80,45+
+211467,mobile phones gadgets,JO,Expats,Male,False,French,NOTSELECTED,45,HS,100,45+
+211468,mobile phones gadgets,KW,Expats,Male,False,French,NOTSELECTED,45,HS,80,45+
+211469,mobile phones gadgets,LB,Expats,Male,False,French,NOTSELECTED,45,HS,1000,45+
+211470,mobile phones gadgets,LY,Expats,Male,False,French,NOTSELECTED,45,HS,170,45+
+211471,mobile phones gadgets,MA,Expats,Male,False,French,NOTSELECTED,45,HS,22000,45+
+211472,mobile phones gadgets,OM,Expats,Male,False,French,NOTSELECTED,45,HS,65,45+
+211473,mobile phones gadgets,QA,Expats,Male,False,French,NOTSELECTED,45,HS,140,45+
+211474,mobile phones gadgets,SA,Expats,Male,False,French,NOTSELECTED,45,HS,465,45+
+211475,mobile phones gadgets,SO,Expats,Male,False,French,NOTSELECTED,45,HS,30,45+
+211476,mobile phones gadgets,TN,Expats,Male,False,French,NOTSELECTED,45,HS,21500,45+
+211477,mobile phones gadgets,AE,Expats,Male,False,French,NOTSELECTED,45,HS,485,45+
+211478,mobile phones gadgets,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+211479,mobile phones gadgets,PS,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+211480,mobile phones gadgets,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,60000,45+
+211482,mobile phones gadgets,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,4100,45+
+211483,mobile phones gadgets,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,385,45+
+211484,mobile phones gadgets,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,480,45+
+211485,mobile phones gadgets,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,330,45+
+211486,mobile phones gadgets,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,4550,45+
+211487,mobile phones gadgets,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,415,45+
+211488,mobile phones gadgets,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,65000,45+
+211489,mobile phones gadgets,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,210,45+
+211490,mobile phones gadgets,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,850,45+
+211491,mobile phones gadgets,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,2050,45+
+211492,mobile phones gadgets,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,75,45+
+211493,mobile phones gadgets,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,55000,45+
+211494,mobile phones gadgets,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,2100,45+
+211495,mobile phones gadgets,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+211496,mobile phones gadgets,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,115,45+
+211548,mobile phones gadgets,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,49500,45+
+211550,mobile phones gadgets,EG,Expats,Female,False,French,NOTSELECTED,45,ND,1300,45+
+211551,mobile phones gadgets,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,105,45+
+211552,mobile phones gadgets,JO,Expats,Female,False,French,NOTSELECTED,45,ND,165,45+
+211553,mobile phones gadgets,KW,Expats,Female,False,French,NOTSELECTED,45,ND,145,45+
+211554,mobile phones gadgets,LB,Expats,Female,False,French,NOTSELECTED,45,ND,6500,45+
+211555,mobile phones gadgets,LY,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+211556,mobile phones gadgets,MA,Expats,Female,False,French,NOTSELECTED,45,ND,48000,45+
+211557,mobile phones gadgets,OM,Expats,Female,False,French,NOTSELECTED,45,ND,60,45+
+211558,mobile phones gadgets,QA,Expats,Female,False,French,NOTSELECTED,45,ND,180,45+
+211559,mobile phones gadgets,SA,Expats,Female,False,French,NOTSELECTED,45,ND,600,45+
+211560,mobile phones gadgets,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+211561,mobile phones gadgets,TN,Expats,Female,False,French,NOTSELECTED,45,ND,38500,45+
+211562,mobile phones gadgets,AE,Expats,Female,False,French,NOTSELECTED,45,ND,750,45+
+211563,mobile phones gadgets,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+211564,mobile phones gadgets,PS,Expats,Female,False,French,NOTSELECTED,45,ND,45,45+
+211565,mobile phones gadgets,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,9500,45+
+211567,mobile phones gadgets,EG,Expats,Female,False,French,NOTSELECTED,45,HS,750,45+
+211568,mobile phones gadgets,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+211569,mobile phones gadgets,JO,Expats,Female,False,French,NOTSELECTED,45,HS,95,45+
+211570,mobile phones gadgets,KW,Expats,Female,False,French,NOTSELECTED,45,HS,55,45+
+211571,mobile phones gadgets,LB,Expats,Female,False,French,NOTSELECTED,45,HS,1700,45+
+211572,mobile phones gadgets,LY,Expats,Female,False,French,NOTSELECTED,45,HS,55,45+
+211573,mobile phones gadgets,MA,Expats,Female,False,French,NOTSELECTED,45,HS,10500,45+
+211574,mobile phones gadgets,OM,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+211575,mobile phones gadgets,QA,Expats,Female,False,French,NOTSELECTED,45,HS,90,45+
+211576,mobile phones gadgets,SA,Expats,Female,False,French,NOTSELECTED,45,HS,180,45+
+211577,mobile phones gadgets,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+211578,mobile phones gadgets,TN,Expats,Female,False,French,NOTSELECTED,45,HS,13500,45+
+211579,mobile phones gadgets,AE,Expats,Female,False,French,NOTSELECTED,45,HS,285,45+
+211580,mobile phones gadgets,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+211581,mobile phones gadgets,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+211582,mobile phones gadgets,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,23000,45+
+211584,mobile phones gadgets,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,3800,45+
+211585,mobile phones gadgets,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,155,45+
+211586,mobile phones gadgets,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,315,45+
+211587,mobile phones gadgets,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,205,45+
+211588,mobile phones gadgets,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,5500,45+
+211589,mobile phones gadgets,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,150,45+
+211590,mobile phones gadgets,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,25000,45+
+211591,mobile phones gadgets,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,115,45+
+211592,mobile phones gadgets,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,225,45+
+211593,mobile phones gadgets,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,600,45+
+211594,mobile phones gadgets,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211595,mobile phones gadgets,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,24500,45+
+211596,mobile phones gadgets,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,1050,45+
+211597,mobile phones gadgets,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+211598,mobile phones gadgets,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,90,45+

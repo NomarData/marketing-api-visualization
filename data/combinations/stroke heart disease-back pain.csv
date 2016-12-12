@@ -2879,6 +2879,582 @@
 146758,back pain,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,100,45+
 146759,back pain,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 146760,back pain,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+212721,stroke heart disease,DZ,Locals,Male,False,French,24.0,18,ND,13000,18-24
+212723,stroke heart disease,EG,Locals,Male,False,French,24.0,18,ND,540,18-24
+212724,stroke heart disease,IQ,Locals,Male,False,French,24.0,18,ND,60,18-24
+212725,stroke heart disease,JO,Locals,Male,False,French,24.0,18,ND,50,18-24
+212726,stroke heart disease,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+212727,stroke heart disease,LB,Locals,Male,False,French,24.0,18,ND,180,18-24
+212728,stroke heart disease,LY,Locals,Male,False,French,24.0,18,ND,40,18-24
+212729,stroke heart disease,MA,Locals,Male,False,French,24.0,18,ND,3000,18-24
+212730,stroke heart disease,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+212731,stroke heart disease,QA,Locals,Male,False,French,24.0,18,ND,30,18-24
+212732,stroke heart disease,SA,Locals,Male,False,French,24.0,18,ND,100,18-24
+212733,stroke heart disease,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+212734,stroke heart disease,TN,Locals,Male,False,French,24.0,18,ND,4000,18-24
+212735,stroke heart disease,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+212736,stroke heart disease,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+212737,stroke heart disease,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+212738,stroke heart disease,DZ,Locals,Male,False,French,24.0,18,HS,8100,18-24
+212740,stroke heart disease,EG,Locals,Male,False,French,24.0,18,HS,5600,18-24
+212741,stroke heart disease,IQ,Locals,Male,False,French,24.0,18,HS,290,18-24
+212742,stroke heart disease,JO,Locals,Male,False,French,24.0,18,HS,190,18-24
+212743,stroke heart disease,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+212744,stroke heart disease,LB,Locals,Male,False,French,24.0,18,HS,420,18-24
+212745,stroke heart disease,LY,Locals,Male,False,French,24.0,18,HS,50,18-24
+212746,stroke heart disease,MA,Locals,Male,False,French,24.0,18,HS,2400,18-24
+212747,stroke heart disease,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+212748,stroke heart disease,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+212749,stroke heart disease,SA,Locals,Male,False,French,24.0,18,HS,100,18-24
+212750,stroke heart disease,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+212751,stroke heart disease,TN,Locals,Male,False,French,24.0,18,HS,4100,18-24
+212752,stroke heart disease,AE,Locals,Male,False,French,24.0,18,HS,0,18-24
+212753,stroke heart disease,YE,Locals,Male,False,French,24.0,18,HS,140,18-24
+212754,stroke heart disease,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+212755,stroke heart disease,DZ,Locals,Male,False,French,24.0,18,GRAD,19000,18-24
+212757,stroke heart disease,EG,Locals,Male,False,French,24.0,18,GRAD,6300,18-24
+212758,stroke heart disease,IQ,Locals,Male,False,French,24.0,18,GRAD,280,18-24
+212759,stroke heart disease,JO,Locals,Male,False,French,24.0,18,GRAD,150,18-24
+212760,stroke heart disease,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+212761,stroke heart disease,LB,Locals,Male,False,French,24.0,18,GRAD,410,18-24
+212762,stroke heart disease,LY,Locals,Male,False,French,24.0,18,GRAD,70,18-24
+212763,stroke heart disease,MA,Locals,Male,False,French,24.0,18,GRAD,6200,18-24
+212764,stroke heart disease,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+212765,stroke heart disease,QA,Locals,Male,False,French,24.0,18,GRAD,60,18-24
+212766,stroke heart disease,SA,Locals,Male,False,French,24.0,18,GRAD,150,18-24
+212767,stroke heart disease,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+212768,stroke heart disease,TN,Locals,Male,False,French,24.0,18,GRAD,8100,18-24
+212769,stroke heart disease,AE,Locals,Male,False,French,24.0,18,GRAD,30,18-24
+212770,stroke heart disease,YE,Locals,Male,False,French,24.0,18,GRAD,100,18-24
+212771,stroke heart disease,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+212823,stroke heart disease,DZ,Locals,Female,False,French,24.0,18,ND,9500,18-24
+212825,stroke heart disease,EG,Locals,Female,False,French,24.0,18,ND,510,18-24
+212826,stroke heart disease,IQ,Locals,Female,False,French,24.0,18,ND,60,18-24
+212827,stroke heart disease,JO,Locals,Female,False,French,24.0,18,ND,0,18-24
+212828,stroke heart disease,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+212829,stroke heart disease,LB,Locals,Female,False,French,24.0,18,ND,270,18-24
+212830,stroke heart disease,LY,Locals,Female,False,French,24.0,18,ND,40,18-24
+212831,stroke heart disease,MA,Locals,Female,False,French,24.0,18,ND,3200,18-24
+212832,stroke heart disease,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+212833,stroke heart disease,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+212834,stroke heart disease,SA,Locals,Female,False,French,24.0,18,ND,50,18-24
+212835,stroke heart disease,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+212836,stroke heart disease,TN,Locals,Female,False,French,24.0,18,ND,5900,18-24
+212837,stroke heart disease,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+212838,stroke heart disease,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+212839,stroke heart disease,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+212840,stroke heart disease,DZ,Locals,Female,False,French,24.0,18,HS,6600,18-24
+212842,stroke heart disease,EG,Locals,Female,False,French,24.0,18,HS,5600,18-24
+212843,stroke heart disease,IQ,Locals,Female,False,French,24.0,18,HS,250,18-24
+212844,stroke heart disease,JO,Locals,Female,False,French,24.0,18,HS,320,18-24
+212845,stroke heart disease,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+212846,stroke heart disease,LB,Locals,Female,False,French,24.0,18,HS,1100,18-24
+212847,stroke heart disease,LY,Locals,Female,False,French,24.0,18,HS,120,18-24
+212848,stroke heart disease,MA,Locals,Female,False,French,24.0,18,HS,2900,18-24
+212849,stroke heart disease,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+212850,stroke heart disease,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+212851,stroke heart disease,SA,Locals,Female,False,French,24.0,18,HS,60,18-24
+212852,stroke heart disease,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+212853,stroke heart disease,TN,Locals,Female,False,French,24.0,18,HS,6100,18-24
+212854,stroke heart disease,AE,Locals,Female,False,French,24.0,18,HS,40,18-24
+212855,stroke heart disease,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+212856,stroke heart disease,PS,Locals,Female,False,French,24.0,18,HS,40,18-24
+212857,stroke heart disease,DZ,Locals,Female,False,French,24.0,18,GRAD,13000,18-24
+212859,stroke heart disease,EG,Locals,Female,False,French,24.0,18,GRAD,5800,18-24
+212860,stroke heart disease,IQ,Locals,Female,False,French,24.0,18,GRAD,170,18-24
+212861,stroke heart disease,JO,Locals,Female,False,French,24.0,18,GRAD,100,18-24
+212862,stroke heart disease,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+212863,stroke heart disease,LB,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+212864,stroke heart disease,LY,Locals,Female,False,French,24.0,18,GRAD,150,18-24
+212865,stroke heart disease,MA,Locals,Female,False,French,24.0,18,GRAD,6300,18-24
+212866,stroke heart disease,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+212867,stroke heart disease,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+212868,stroke heart disease,SA,Locals,Female,False,French,24.0,18,GRAD,130,18-24
+212869,stroke heart disease,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+212870,stroke heart disease,TN,Locals,Female,False,French,24.0,18,GRAD,12000,18-24
+212871,stroke heart disease,AE,Locals,Female,False,French,24.0,18,GRAD,70,18-24
+212872,stroke heart disease,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+212873,stroke heart disease,PS,Locals,Female,False,French,24.0,18,GRAD,50,18-24
+213027,stroke heart disease,DZ,Locals,Male,False,French,44.0,25,ND,24000,25-44
+213029,stroke heart disease,EG,Locals,Male,False,French,44.0,25,ND,180,25-44
+213030,stroke heart disease,IQ,Locals,Male,False,French,44.0,25,ND,0,25-44
+213031,stroke heart disease,JO,Locals,Male,False,French,44.0,25,ND,40,25-44
+213032,stroke heart disease,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+213033,stroke heart disease,LB,Locals,Male,False,French,44.0,25,ND,140,25-44
+213034,stroke heart disease,LY,Locals,Male,False,French,44.0,25,ND,80,25-44
+213035,stroke heart disease,MA,Locals,Male,False,French,44.0,25,ND,5800,25-44
+213036,stroke heart disease,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+213037,stroke heart disease,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+213038,stroke heart disease,SA,Locals,Male,False,French,44.0,25,ND,270,25-44
+213039,stroke heart disease,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+213040,stroke heart disease,TN,Locals,Male,False,French,44.0,25,ND,6800,25-44
+213041,stroke heart disease,AE,Locals,Male,False,French,44.0,25,ND,0,25-44
+213042,stroke heart disease,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+213043,stroke heart disease,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+213044,stroke heart disease,DZ,Locals,Male,False,French,44.0,25,HS,7400,25-44
+213046,stroke heart disease,EG,Locals,Male,False,French,44.0,25,HS,640,25-44
+213047,stroke heart disease,IQ,Locals,Male,False,French,44.0,25,HS,70,25-44
+213048,stroke heart disease,JO,Locals,Male,False,French,44.0,25,HS,70,25-44
+213049,stroke heart disease,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+213050,stroke heart disease,LB,Locals,Male,False,French,44.0,25,HS,170,25-44
+213051,stroke heart disease,LY,Locals,Male,False,French,44.0,25,HS,30,25-44
+213052,stroke heart disease,MA,Locals,Male,False,French,44.0,25,HS,2500,25-44
+213053,stroke heart disease,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+213054,stroke heart disease,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+213055,stroke heart disease,SA,Locals,Male,False,French,44.0,25,HS,140,25-44
+213056,stroke heart disease,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+213057,stroke heart disease,TN,Locals,Male,False,French,44.0,25,HS,3300,25-44
+213058,stroke heart disease,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+213059,stroke heart disease,YE,Locals,Male,False,French,44.0,25,HS,40,25-44
+213060,stroke heart disease,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+213061,stroke heart disease,DZ,Locals,Male,False,French,44.0,25,GRAD,29000,25-44
+213063,stroke heart disease,EG,Locals,Male,False,French,44.0,25,GRAD,4700,25-44
+213064,stroke heart disease,IQ,Locals,Male,False,French,44.0,25,GRAD,340,25-44
+213065,stroke heart disease,JO,Locals,Male,False,French,44.0,25,GRAD,250,25-44
+213066,stroke heart disease,KW,Locals,Male,False,French,44.0,25,GRAD,80,25-44
+213067,stroke heart disease,LB,Locals,Male,False,French,44.0,25,GRAD,850,25-44
+213068,stroke heart disease,LY,Locals,Male,False,French,44.0,25,GRAD,150,25-44
+213069,stroke heart disease,MA,Locals,Male,False,French,44.0,25,GRAD,9100,25-44
+213070,stroke heart disease,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213071,stroke heart disease,QA,Locals,Male,False,French,44.0,25,GRAD,110,25-44
+213072,stroke heart disease,SA,Locals,Male,False,French,44.0,25,GRAD,600,25-44
+213073,stroke heart disease,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213074,stroke heart disease,TN,Locals,Male,False,French,44.0,25,GRAD,12000,25-44
+213075,stroke heart disease,AE,Locals,Male,False,French,44.0,25,GRAD,100,25-44
+213076,stroke heart disease,YE,Locals,Male,False,French,44.0,25,GRAD,170,25-44
+213077,stroke heart disease,PS,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+213129,stroke heart disease,DZ,Locals,Female,False,French,44.0,25,ND,11000,25-44
+213131,stroke heart disease,EG,Locals,Female,False,French,44.0,25,ND,300,25-44
+213132,stroke heart disease,IQ,Locals,Female,False,French,44.0,25,ND,70,25-44
+213133,stroke heart disease,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+213134,stroke heart disease,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+213135,stroke heart disease,LB,Locals,Female,False,French,44.0,25,ND,540,25-44
+213136,stroke heart disease,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+213137,stroke heart disease,MA,Locals,Female,False,French,44.0,25,ND,5300,25-44
+213138,stroke heart disease,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+213139,stroke heart disease,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+213140,stroke heart disease,SA,Locals,Female,False,French,44.0,25,ND,120,25-44
+213141,stroke heart disease,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+213142,stroke heart disease,TN,Locals,Female,False,French,44.0,25,ND,8600,25-44
+213143,stroke heart disease,AE,Locals,Female,False,French,44.0,25,ND,90,25-44
+213144,stroke heart disease,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+213145,stroke heart disease,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+213146,stroke heart disease,DZ,Locals,Female,False,French,44.0,25,HS,3400,25-44
+213148,stroke heart disease,EG,Locals,Female,False,French,44.0,25,HS,510,25-44
+213149,stroke heart disease,IQ,Locals,Female,False,French,44.0,25,HS,80,25-44
+213150,stroke heart disease,JO,Locals,Female,False,French,44.0,25,HS,70,25-44
+213151,stroke heart disease,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+213152,stroke heart disease,LB,Locals,Female,False,French,44.0,25,HS,360,25-44
+213153,stroke heart disease,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+213154,stroke heart disease,MA,Locals,Female,False,French,44.0,25,HS,2000,25-44
+213155,stroke heart disease,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+213156,stroke heart disease,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+213157,stroke heart disease,SA,Locals,Female,False,French,44.0,25,HS,40,25-44
+213158,stroke heart disease,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+213159,stroke heart disease,TN,Locals,Female,False,French,44.0,25,HS,3600,25-44
+213160,stroke heart disease,AE,Locals,Female,False,French,44.0,25,HS,30,25-44
+213161,stroke heart disease,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+213162,stroke heart disease,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+213163,stroke heart disease,DZ,Locals,Female,False,French,44.0,25,GRAD,16000,25-44
+213165,stroke heart disease,EG,Locals,Female,False,French,44.0,25,GRAD,4400,25-44
+213166,stroke heart disease,IQ,Locals,Female,False,French,44.0,25,GRAD,260,25-44
+213167,stroke heart disease,JO,Locals,Female,False,French,44.0,25,GRAD,180,25-44
+213168,stroke heart disease,KW,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+213169,stroke heart disease,LB,Locals,Female,False,French,44.0,25,GRAD,2400,25-44
+213170,stroke heart disease,LY,Locals,Female,False,French,44.0,25,GRAD,80,25-44
+213171,stroke heart disease,MA,Locals,Female,False,French,44.0,25,GRAD,7200,25-44
+213172,stroke heart disease,OM,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+213173,stroke heart disease,QA,Locals,Female,False,French,44.0,25,GRAD,90,25-44
+213174,stroke heart disease,SA,Locals,Female,False,French,44.0,25,GRAD,270,25-44
+213175,stroke heart disease,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+213176,stroke heart disease,TN,Locals,Female,False,French,44.0,25,GRAD,15000,25-44
+213177,stroke heart disease,AE,Locals,Female,False,French,44.0,25,GRAD,120,25-44
+213178,stroke heart disease,YE,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+213179,stroke heart disease,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+213333,stroke heart disease,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,5300,45+
+213335,stroke heart disease,EG,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+213336,stroke heart disease,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213337,stroke heart disease,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213338,stroke heart disease,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213339,stroke heart disease,LB,Locals,Male,False,French,NOTSELECTED,45,ND,110,45+
+213340,stroke heart disease,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213341,stroke heart disease,MA,Locals,Male,False,French,NOTSELECTED,45,ND,1900,45+
+213342,stroke heart disease,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213343,stroke heart disease,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213344,stroke heart disease,SA,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+213345,stroke heart disease,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213346,stroke heart disease,TN,Locals,Male,False,French,NOTSELECTED,45,ND,2000,45+
+213347,stroke heart disease,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213348,stroke heart disease,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213349,stroke heart disease,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+213350,stroke heart disease,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,2000,45+
+213352,stroke heart disease,EG,Locals,Male,False,French,NOTSELECTED,45,HS,60,45+
+213353,stroke heart disease,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213354,stroke heart disease,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213355,stroke heart disease,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213356,stroke heart disease,LB,Locals,Male,False,French,NOTSELECTED,45,HS,60,45+
+213357,stroke heart disease,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213358,stroke heart disease,MA,Locals,Male,False,French,NOTSELECTED,45,HS,630,45+
+213359,stroke heart disease,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213360,stroke heart disease,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213361,stroke heart disease,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213362,stroke heart disease,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213363,stroke heart disease,TN,Locals,Male,False,French,NOTSELECTED,45,HS,1100,45+
+213364,stroke heart disease,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213365,stroke heart disease,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213366,stroke heart disease,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+213367,stroke heart disease,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,5000,45+
+213369,stroke heart disease,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,370,45+
+213370,stroke heart disease,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213371,stroke heart disease,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213372,stroke heart disease,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213373,stroke heart disease,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,270,45+
+213374,stroke heart disease,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213375,stroke heart disease,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,2200,45+
+213376,stroke heart disease,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213377,stroke heart disease,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+213378,stroke heart disease,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+213379,stroke heart disease,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213380,stroke heart disease,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,3300,45+
+213381,stroke heart disease,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213382,stroke heart disease,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213383,stroke heart disease,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213435,stroke heart disease,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,3500,45+
+213437,stroke heart disease,EG,Locals,Female,False,French,NOTSELECTED,45,ND,120,45+
+213438,stroke heart disease,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213439,stroke heart disease,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213440,stroke heart disease,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213441,stroke heart disease,LB,Locals,Female,False,French,NOTSELECTED,45,ND,1100,45+
+213442,stroke heart disease,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213443,stroke heart disease,MA,Locals,Female,False,French,NOTSELECTED,45,ND,2000,45+
+213444,stroke heart disease,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213445,stroke heart disease,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213446,stroke heart disease,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213447,stroke heart disease,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213448,stroke heart disease,TN,Locals,Female,False,French,NOTSELECTED,45,ND,2400,45+
+213449,stroke heart disease,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213450,stroke heart disease,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213451,stroke heart disease,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+213452,stroke heart disease,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,1100,45+
+213454,stroke heart disease,EG,Locals,Female,False,French,NOTSELECTED,45,HS,130,45+
+213455,stroke heart disease,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213456,stroke heart disease,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213457,stroke heart disease,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213458,stroke heart disease,LB,Locals,Female,False,French,NOTSELECTED,45,HS,370,45+
+213459,stroke heart disease,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213460,stroke heart disease,MA,Locals,Female,False,French,NOTSELECTED,45,HS,560,45+
+213461,stroke heart disease,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213462,stroke heart disease,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213463,stroke heart disease,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213464,stroke heart disease,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213465,stroke heart disease,TN,Locals,Female,False,French,NOTSELECTED,45,HS,1000,45+
+213466,stroke heart disease,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213467,stroke heart disease,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213468,stroke heart disease,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+213469,stroke heart disease,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,2700,45+
+213471,stroke heart disease,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,690,45+
+213472,stroke heart disease,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213473,stroke heart disease,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+213474,stroke heart disease,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213475,stroke heart disease,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,1000,45+
+213476,stroke heart disease,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213477,stroke heart disease,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,1200,45+
+213478,stroke heart disease,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213479,stroke heart disease,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213480,stroke heart disease,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+213481,stroke heart disease,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213482,stroke heart disease,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,2300,45+
+213483,stroke heart disease,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213484,stroke heart disease,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213485,stroke heart disease,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214557,back pain,DZ,Locals,Male,False,French,24.0,18,ND,21000,18-24
+214559,back pain,EG,Locals,Male,False,French,24.0,18,ND,90,18-24
+214560,back pain,IQ,Locals,Male,False,French,24.0,18,ND,40,18-24
+214561,back pain,JO,Locals,Male,False,French,24.0,18,ND,0,18-24
+214562,back pain,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+214563,back pain,LB,Locals,Male,False,French,24.0,18,ND,130,18-24
+214564,back pain,LY,Locals,Male,False,French,24.0,18,ND,130,18-24
+214565,back pain,MA,Locals,Male,False,French,24.0,18,ND,580,18-24
+214566,back pain,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+214567,back pain,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+214568,back pain,SA,Locals,Male,False,French,24.0,18,ND,30,18-24
+214569,back pain,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+214570,back pain,TN,Locals,Male,False,French,24.0,18,ND,3200,18-24
+214571,back pain,AE,Locals,Male,False,French,24.0,18,ND,0,18-24
+214572,back pain,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+214573,back pain,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+214574,back pain,DZ,Locals,Male,False,French,24.0,18,HS,9600,18-24
+214576,back pain,EG,Locals,Male,False,French,24.0,18,HS,730,18-24
+214577,back pain,IQ,Locals,Male,False,French,24.0,18,HS,90,18-24
+214578,back pain,JO,Locals,Male,False,French,24.0,18,HS,50,18-24
+214579,back pain,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+214580,back pain,LB,Locals,Male,False,French,24.0,18,HS,330,18-24
+214581,back pain,LY,Locals,Male,False,French,24.0,18,HS,80,18-24
+214582,back pain,MA,Locals,Male,False,French,24.0,18,HS,460,18-24
+214583,back pain,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+214584,back pain,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+214585,back pain,SA,Locals,Male,False,French,24.0,18,HS,0,18-24
+214586,back pain,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+214587,back pain,TN,Locals,Male,False,French,24.0,18,HS,2700,18-24
+214588,back pain,AE,Locals,Male,False,French,24.0,18,HS,0,18-24
+214589,back pain,YE,Locals,Male,False,French,24.0,18,HS,0,18-24
+214590,back pain,PS,Locals,Male,False,French,24.0,18,HS,0,18-24
+214591,back pain,DZ,Locals,Male,False,French,24.0,18,GRAD,22000,18-24
+214593,back pain,EG,Locals,Male,False,French,24.0,18,GRAD,920,18-24
+214594,back pain,IQ,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+214595,back pain,JO,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+214596,back pain,KW,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214597,back pain,LB,Locals,Male,False,French,24.0,18,GRAD,320,18-24
+214598,back pain,LY,Locals,Male,False,French,24.0,18,GRAD,110,18-24
+214599,back pain,MA,Locals,Male,False,French,24.0,18,GRAD,980,18-24
+214600,back pain,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214601,back pain,QA,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214602,back pain,SA,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+214603,back pain,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214604,back pain,TN,Locals,Male,False,French,24.0,18,GRAD,5400,18-24
+214605,back pain,AE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214606,back pain,YE,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214607,back pain,PS,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+214659,back pain,DZ,Locals,Female,False,French,24.0,18,ND,13000,18-24
+214661,back pain,EG,Locals,Female,False,French,24.0,18,ND,110,18-24
+214662,back pain,IQ,Locals,Female,False,French,24.0,18,ND,0,18-24
+214663,back pain,JO,Locals,Female,False,French,24.0,18,ND,0,18-24
+214664,back pain,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+214665,back pain,LB,Locals,Female,False,French,24.0,18,ND,110,18-24
+214666,back pain,LY,Locals,Female,False,French,24.0,18,ND,0,18-24
+214667,back pain,MA,Locals,Female,False,French,24.0,18,ND,1600,18-24
+214668,back pain,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+214669,back pain,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+214670,back pain,SA,Locals,Female,False,French,24.0,18,ND,0,18-24
+214671,back pain,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+214672,back pain,TN,Locals,Female,False,French,24.0,18,ND,750,18-24
+214673,back pain,AE,Locals,Female,False,French,24.0,18,ND,0,18-24
+214674,back pain,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+214675,back pain,PS,Locals,Female,False,French,24.0,18,ND,0,18-24
+214676,back pain,DZ,Locals,Female,False,French,24.0,18,HS,6100,18-24
+214678,back pain,EG,Locals,Female,False,French,24.0,18,HS,1200,18-24
+214679,back pain,IQ,Locals,Female,False,French,24.0,18,HS,0,18-24
+214680,back pain,JO,Locals,Female,False,French,24.0,18,HS,30,18-24
+214681,back pain,KW,Locals,Female,False,French,24.0,18,HS,0,18-24
+214682,back pain,LB,Locals,Female,False,French,24.0,18,HS,350,18-24
+214683,back pain,LY,Locals,Female,False,French,24.0,18,HS,70,18-24
+214684,back pain,MA,Locals,Female,False,French,24.0,18,HS,1200,18-24
+214685,back pain,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+214686,back pain,QA,Locals,Female,False,French,24.0,18,HS,0,18-24
+214687,back pain,SA,Locals,Female,False,French,24.0,18,HS,0,18-24
+214688,back pain,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+214689,back pain,TN,Locals,Female,False,French,24.0,18,HS,720,18-24
+214690,back pain,AE,Locals,Female,False,French,24.0,18,HS,0,18-24
+214691,back pain,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+214692,back pain,PS,Locals,Female,False,French,24.0,18,HS,0,18-24
+214693,back pain,DZ,Locals,Female,False,French,24.0,18,GRAD,13000,18-24
+214695,back pain,EG,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+214696,back pain,IQ,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214697,back pain,JO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214698,back pain,KW,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214699,back pain,LB,Locals,Female,False,French,24.0,18,GRAD,320,18-24
+214700,back pain,LY,Locals,Female,False,French,24.0,18,GRAD,60,18-24
+214701,back pain,MA,Locals,Female,False,French,24.0,18,GRAD,2500,18-24
+214702,back pain,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214703,back pain,QA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214704,back pain,SA,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214705,back pain,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214706,back pain,TN,Locals,Female,False,French,24.0,18,GRAD,1400,18-24
+214707,back pain,AE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214708,back pain,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214709,back pain,PS,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+214863,back pain,DZ,Locals,Male,False,French,44.0,25,ND,34000,25-44
+214865,back pain,EG,Locals,Male,False,French,44.0,25,ND,40,25-44
+214866,back pain,IQ,Locals,Male,False,French,44.0,25,ND,0,25-44
+214867,back pain,JO,Locals,Male,False,French,44.0,25,ND,0,25-44
+214868,back pain,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+214869,back pain,LB,Locals,Male,False,French,44.0,25,ND,150,25-44
+214870,back pain,LY,Locals,Male,False,French,44.0,25,ND,110,25-44
+214871,back pain,MA,Locals,Male,False,French,44.0,25,ND,650,25-44
+214872,back pain,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+214873,back pain,QA,Locals,Male,False,French,44.0,25,ND,0,25-44
+214874,back pain,SA,Locals,Male,False,French,44.0,25,ND,80,25-44
+214875,back pain,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+214876,back pain,TN,Locals,Male,False,French,44.0,25,ND,6100,25-44
+214877,back pain,AE,Locals,Male,False,French,44.0,25,ND,0,25-44
+214878,back pain,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+214879,back pain,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+214880,back pain,DZ,Locals,Male,False,French,44.0,25,HS,8500,25-44
+214882,back pain,EG,Locals,Male,False,French,44.0,25,HS,90,25-44
+214883,back pain,IQ,Locals,Male,False,French,44.0,25,HS,0,25-44
+214884,back pain,JO,Locals,Male,False,French,44.0,25,HS,0,25-44
+214885,back pain,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+214886,back pain,LB,Locals,Male,False,French,44.0,25,HS,150,25-44
+214887,back pain,LY,Locals,Male,False,French,44.0,25,HS,0,25-44
+214888,back pain,MA,Locals,Male,False,French,44.0,25,HS,290,25-44
+214889,back pain,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+214890,back pain,QA,Locals,Male,False,French,44.0,25,HS,0,25-44
+214891,back pain,SA,Locals,Male,False,French,44.0,25,HS,0,25-44
+214892,back pain,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+214893,back pain,TN,Locals,Male,False,French,44.0,25,HS,3000,25-44
+214894,back pain,AE,Locals,Male,False,French,44.0,25,HS,0,25-44
+214895,back pain,YE,Locals,Male,False,French,44.0,25,HS,0,25-44
+214896,back pain,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+214897,back pain,DZ,Locals,Male,False,French,44.0,25,GRAD,32000,25-44
+214899,back pain,EG,Locals,Male,False,French,44.0,25,GRAD,700,25-44
+214900,back pain,IQ,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+214901,back pain,JO,Locals,Male,False,French,44.0,25,GRAD,60,25-44
+214902,back pain,KW,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214903,back pain,LB,Locals,Male,False,French,44.0,25,GRAD,550,25-44
+214904,back pain,LY,Locals,Male,False,French,44.0,25,GRAD,120,25-44
+214905,back pain,MA,Locals,Male,False,French,44.0,25,GRAD,1100,25-44
+214906,back pain,OM,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214907,back pain,QA,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+214908,back pain,SA,Locals,Male,False,French,44.0,25,GRAD,150,25-44
+214909,back pain,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214910,back pain,TN,Locals,Male,False,French,44.0,25,GRAD,10000,25-44
+214911,back pain,AE,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+214912,back pain,YE,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214913,back pain,PS,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+214965,back pain,DZ,Locals,Female,False,French,44.0,25,ND,16000,25-44
+214967,back pain,EG,Locals,Female,False,French,44.0,25,ND,40,25-44
+214968,back pain,IQ,Locals,Female,False,French,44.0,25,ND,0,25-44
+214969,back pain,JO,Locals,Female,False,French,44.0,25,ND,0,25-44
+214970,back pain,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+214971,back pain,LB,Locals,Female,False,French,44.0,25,ND,230,25-44
+214972,back pain,LY,Locals,Female,False,French,44.0,25,ND,0,25-44
+214973,back pain,MA,Locals,Female,False,French,44.0,25,ND,1900,25-44
+214974,back pain,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+214975,back pain,QA,Locals,Female,False,French,44.0,25,ND,0,25-44
+214976,back pain,SA,Locals,Female,False,French,44.0,25,ND,40,25-44
+214977,back pain,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+214978,back pain,TN,Locals,Female,False,French,44.0,25,ND,1600,25-44
+214979,back pain,AE,Locals,Female,False,French,44.0,25,ND,0,25-44
+214980,back pain,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+214981,back pain,PS,Locals,Female,False,French,44.0,25,ND,0,25-44
+214982,back pain,DZ,Locals,Female,False,French,44.0,25,HS,3800,25-44
+214984,back pain,EG,Locals,Female,False,French,44.0,25,HS,90,25-44
+214985,back pain,IQ,Locals,Female,False,French,44.0,25,HS,0,25-44
+214986,back pain,JO,Locals,Female,False,French,44.0,25,HS,0,25-44
+214987,back pain,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+214988,back pain,LB,Locals,Female,False,French,44.0,25,HS,140,25-44
+214989,back pain,LY,Locals,Female,False,French,44.0,25,HS,0,25-44
+214990,back pain,MA,Locals,Female,False,French,44.0,25,HS,700,25-44
+214991,back pain,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+214992,back pain,QA,Locals,Female,False,French,44.0,25,HS,0,25-44
+214993,back pain,SA,Locals,Female,False,French,44.0,25,HS,0,25-44
+214994,back pain,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+214995,back pain,TN,Locals,Female,False,French,44.0,25,HS,680,25-44
+214996,back pain,AE,Locals,Female,False,French,44.0,25,HS,0,25-44
+214997,back pain,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+214998,back pain,PS,Locals,Female,False,French,44.0,25,HS,0,25-44
+214999,back pain,DZ,Locals,Female,False,French,44.0,25,GRAD,17000,25-44
+215001,back pain,EG,Locals,Female,False,French,44.0,25,GRAD,870,25-44
+215002,back pain,IQ,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215003,back pain,JO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215004,back pain,KW,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215005,back pain,LB,Locals,Female,False,French,44.0,25,GRAD,690,25-44
+215006,back pain,LY,Locals,Female,False,French,44.0,25,GRAD,50,25-44
+215007,back pain,MA,Locals,Female,False,French,44.0,25,GRAD,2800,25-44
+215008,back pain,OM,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215009,back pain,QA,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215010,back pain,SA,Locals,Female,False,French,44.0,25,GRAD,60,25-44
+215011,back pain,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215012,back pain,TN,Locals,Female,False,French,44.0,25,GRAD,2700,25-44
+215013,back pain,AE,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+215014,back pain,YE,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215015,back pain,PS,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+215169,back pain,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,8300,45+
+215171,back pain,EG,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215172,back pain,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215173,back pain,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215174,back pain,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215175,back pain,LB,Locals,Male,False,French,NOTSELECTED,45,ND,80,45+
+215176,back pain,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215177,back pain,MA,Locals,Male,False,French,NOTSELECTED,45,ND,160,45+
+215178,back pain,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215179,back pain,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215180,back pain,SA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215181,back pain,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215182,back pain,TN,Locals,Male,False,French,NOTSELECTED,45,ND,1700,45+
+215183,back pain,AE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215184,back pain,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215185,back pain,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+215186,back pain,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,1900,45+
+215188,back pain,EG,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215189,back pain,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215190,back pain,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215191,back pain,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215192,back pain,LB,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+215193,back pain,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215194,back pain,MA,Locals,Male,False,French,NOTSELECTED,45,HS,60,45+
+215195,back pain,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215196,back pain,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215197,back pain,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215198,back pain,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215199,back pain,TN,Locals,Male,False,French,NOTSELECTED,45,HS,840,45+
+215200,back pain,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215201,back pain,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215202,back pain,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+215203,back pain,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,4800,45+
+215205,back pain,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+215206,back pain,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215207,back pain,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215208,back pain,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215209,back pain,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,150,45+
+215210,back pain,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215211,back pain,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,180,45+
+215212,back pain,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215213,back pain,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215214,back pain,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215215,back pain,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215216,back pain,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,2100,45+
+215217,back pain,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215218,back pain,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215219,back pain,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215271,back pain,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,4100,45+
+215273,back pain,EG,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215274,back pain,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215275,back pain,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215276,back pain,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215277,back pain,LB,Locals,Female,False,French,NOTSELECTED,45,ND,230,45+
+215278,back pain,LY,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215279,back pain,MA,Locals,Female,False,French,NOTSELECTED,45,ND,740,45+
+215280,back pain,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215281,back pain,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215282,back pain,SA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215283,back pain,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215284,back pain,TN,Locals,Female,False,French,NOTSELECTED,45,ND,740,45+
+215285,back pain,AE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215286,back pain,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215287,back pain,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+215288,back pain,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,980,45+
+215290,back pain,EG,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215291,back pain,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215292,back pain,JO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215293,back pain,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215294,back pain,LB,Locals,Female,False,French,NOTSELECTED,45,HS,50,45+
+215295,back pain,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215296,back pain,MA,Locals,Female,False,French,NOTSELECTED,45,HS,270,45+
+215297,back pain,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215298,back pain,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215299,back pain,SA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215300,back pain,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215301,back pain,TN,Locals,Female,False,French,NOTSELECTED,45,HS,340,45+
+215302,back pain,AE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215303,back pain,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215304,back pain,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+215305,back pain,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,2200,45+
+215307,back pain,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,140,45+
+215308,back pain,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215309,back pain,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215310,back pain,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215311,back pain,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,220,45+
+215312,back pain,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215313,back pain,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,620,45+
+215314,back pain,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215315,back pain,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215316,back pain,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215317,back pain,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215318,back pain,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,480,45+
+215319,back pain,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215320,back pain,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215321,back pain,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
 120768,stroke heart disease,DZ,Expats,Male,False,Arabic,24.0,18,ND,10500,18-24
 120770,stroke heart disease,EG,Expats,Male,False,Arabic,24.0,18,ND,16000,18-24
 120771,stroke heart disease,IQ,Expats,Male,False,Arabic,24.0,18,ND,20000,18-24
@@ -5759,3 +6335,579 @@
 146350,back pain,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,600,45+
 146351,back pain,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 146352,back pain,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+212670,stroke heart disease,DZ,Expats,Male,False,French,24.0,18,ND,7500,18-24
+212672,stroke heart disease,EG,Expats,Male,False,French,24.0,18,ND,295,18-24
+212673,stroke heart disease,IQ,Expats,Male,False,French,24.0,18,ND,35,18-24
+212674,stroke heart disease,JO,Expats,Male,False,French,24.0,18,ND,30,18-24
+212675,stroke heart disease,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+212676,stroke heart disease,LB,Expats,Male,False,French,24.0,18,ND,90,18-24
+212677,stroke heart disease,LY,Expats,Male,False,French,24.0,18,ND,35,18-24
+212678,stroke heart disease,MA,Expats,Male,False,French,24.0,18,ND,1650,18-24
+212679,stroke heart disease,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+212680,stroke heart disease,QA,Expats,Male,False,French,24.0,18,ND,40,18-24
+212681,stroke heart disease,SA,Expats,Male,False,French,24.0,18,ND,85,18-24
+212682,stroke heart disease,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+212683,stroke heart disease,TN,Expats,Male,False,French,24.0,18,ND,2300,18-24
+212684,stroke heart disease,AE,Expats,Male,False,French,24.0,18,ND,15,18-24
+212685,stroke heart disease,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+212686,stroke heart disease,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+212687,stroke heart disease,DZ,Expats,Male,False,French,24.0,18,HS,4950,18-24
+212689,stroke heart disease,EG,Expats,Male,False,French,24.0,18,HS,2850,18-24
+212690,stroke heart disease,IQ,Expats,Male,False,French,24.0,18,HS,165,18-24
+212691,stroke heart disease,JO,Expats,Male,False,French,24.0,18,HS,140,18-24
+212692,stroke heart disease,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+212693,stroke heart disease,LB,Expats,Male,False,French,24.0,18,HS,245,18-24
+212694,stroke heart disease,LY,Expats,Male,False,French,24.0,18,HS,50,18-24
+212695,stroke heart disease,MA,Expats,Male,False,French,24.0,18,HS,1450,18-24
+212696,stroke heart disease,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+212697,stroke heart disease,QA,Expats,Male,False,French,24.0,18,HS,20,18-24
+212698,stroke heart disease,SA,Expats,Male,False,French,24.0,18,HS,125,18-24
+212699,stroke heart disease,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+212700,stroke heart disease,TN,Expats,Male,False,French,24.0,18,HS,2400,18-24
+212701,stroke heart disease,AE,Expats,Male,False,French,24.0,18,HS,0,18-24
+212702,stroke heart disease,YE,Expats,Male,False,French,24.0,18,HS,80,18-24
+212703,stroke heart disease,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+212704,stroke heart disease,DZ,Expats,Male,False,French,24.0,18,GRAD,12500,18-24
+212706,stroke heart disease,EG,Expats,Male,False,French,24.0,18,GRAD,3350,18-24
+212707,stroke heart disease,IQ,Expats,Male,False,French,24.0,18,GRAD,155,18-24
+212708,stroke heart disease,JO,Expats,Male,False,French,24.0,18,GRAD,90,18-24
+212709,stroke heart disease,KW,Expats,Male,False,French,24.0,18,GRAD,50,18-24
+212710,stroke heart disease,LB,Expats,Male,False,French,24.0,18,GRAD,235,18-24
+212711,stroke heart disease,LY,Expats,Male,False,French,24.0,18,GRAD,70,18-24
+212712,stroke heart disease,MA,Expats,Male,False,French,24.0,18,GRAD,3600,18-24
+212713,stroke heart disease,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+212714,stroke heart disease,QA,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+212715,stroke heart disease,SA,Expats,Male,False,French,24.0,18,GRAD,240,18-24
+212716,stroke heart disease,SO,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+212717,stroke heart disease,TN,Expats,Male,False,French,24.0,18,GRAD,4850,18-24
+212718,stroke heart disease,AE,Expats,Male,False,French,24.0,18,GRAD,60,18-24
+212719,stroke heart disease,YE,Expats,Male,False,French,24.0,18,GRAD,60,18-24
+212720,stroke heart disease,PS,Expats,Male,False,French,24.0,18,GRAD,15,18-24
+212772,stroke heart disease,DZ,Expats,Female,False,French,24.0,18,ND,5000,18-24
+212774,stroke heart disease,EG,Expats,Female,False,French,24.0,18,ND,270,18-24
+212775,stroke heart disease,IQ,Expats,Female,False,French,24.0,18,ND,45,18-24
+212776,stroke heart disease,JO,Expats,Female,False,French,24.0,18,ND,20,18-24
+212777,stroke heart disease,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+212778,stroke heart disease,LB,Expats,Female,False,French,24.0,18,ND,165,18-24
+212779,stroke heart disease,LY,Expats,Female,False,French,24.0,18,ND,30,18-24
+212780,stroke heart disease,MA,Expats,Female,False,French,24.0,18,ND,1700,18-24
+212781,stroke heart disease,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+212782,stroke heart disease,QA,Expats,Female,False,French,24.0,18,ND,35,18-24
+212783,stroke heart disease,SA,Expats,Female,False,French,24.0,18,ND,45,18-24
+212784,stroke heart disease,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+212785,stroke heart disease,TN,Expats,Female,False,French,24.0,18,ND,3100,18-24
+212786,stroke heart disease,AE,Expats,Female,False,French,24.0,18,ND,65,18-24
+212787,stroke heart disease,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+212788,stroke heart disease,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+212789,stroke heart disease,DZ,Expats,Female,False,French,24.0,18,HS,3600,18-24
+212791,stroke heart disease,EG,Expats,Female,False,French,24.0,18,HS,2900,18-24
+212792,stroke heart disease,IQ,Expats,Female,False,French,24.0,18,HS,145,18-24
+212793,stroke heart disease,JO,Expats,Female,False,French,24.0,18,HS,225,18-24
+212794,stroke heart disease,KW,Expats,Female,False,French,24.0,18,HS,25,18-24
+212795,stroke heart disease,LB,Expats,Female,False,French,24.0,18,HS,600,18-24
+212796,stroke heart disease,LY,Expats,Female,False,French,24.0,18,HS,65,18-24
+212797,stroke heart disease,MA,Expats,Female,False,French,24.0,18,HS,1550,18-24
+212798,stroke heart disease,OM,Expats,Female,False,French,24.0,18,HS,15,18-24
+212799,stroke heart disease,QA,Expats,Female,False,French,24.0,18,HS,45,18-24
+212800,stroke heart disease,SA,Expats,Female,False,French,24.0,18,HS,85,18-24
+212801,stroke heart disease,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+212802,stroke heart disease,TN,Expats,Female,False,French,24.0,18,HS,3250,18-24
+212803,stroke heart disease,AE,Expats,Female,False,French,24.0,18,HS,215,18-24
+212804,stroke heart disease,YE,Expats,Female,False,French,24.0,18,HS,0,18-24
+212805,stroke heart disease,PS,Expats,Female,False,French,24.0,18,HS,35,18-24
+212806,stroke heart disease,DZ,Expats,Female,False,French,24.0,18,GRAD,7500,18-24
+212808,stroke heart disease,EG,Expats,Female,False,French,24.0,18,GRAD,2950,18-24
+212809,stroke heart disease,IQ,Expats,Female,False,French,24.0,18,GRAD,90,18-24
+212810,stroke heart disease,JO,Expats,Female,False,French,24.0,18,GRAD,70,18-24
+212811,stroke heart disease,KW,Expats,Female,False,French,24.0,18,GRAD,35,18-24
+212812,stroke heart disease,LB,Expats,Female,False,French,24.0,18,GRAD,650,18-24
+212813,stroke heart disease,LY,Expats,Female,False,French,24.0,18,GRAD,75,18-24
+212814,stroke heart disease,MA,Expats,Female,False,French,24.0,18,GRAD,3450,18-24
+212815,stroke heart disease,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+212816,stroke heart disease,QA,Expats,Female,False,French,24.0,18,GRAD,90,18-24
+212817,stroke heart disease,SA,Expats,Female,False,French,24.0,18,GRAD,140,18-24
+212818,stroke heart disease,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+212819,stroke heart disease,TN,Expats,Female,False,French,24.0,18,GRAD,6500,18-24
+212820,stroke heart disease,AE,Expats,Female,False,French,24.0,18,GRAD,210,18-24
+212821,stroke heart disease,YE,Expats,Female,False,French,24.0,18,GRAD,25,18-24
+212822,stroke heart disease,PS,Expats,Female,False,French,24.0,18,GRAD,35,18-24
+212976,stroke heart disease,DZ,Expats,Male,False,French,44.0,25,ND,13000,25-44
+212978,stroke heart disease,EG,Expats,Male,False,French,44.0,25,ND,110,25-44
+212979,stroke heart disease,IQ,Expats,Male,False,French,44.0,25,ND,15,25-44
+212980,stroke heart disease,JO,Expats,Male,False,French,44.0,25,ND,30,25-44
+212981,stroke heart disease,KW,Expats,Male,False,French,44.0,25,ND,45,25-44
+212982,stroke heart disease,LB,Expats,Male,False,French,44.0,25,ND,75,25-44
+212983,stroke heart disease,LY,Expats,Male,False,French,44.0,25,ND,165,25-44
+212984,stroke heart disease,MA,Expats,Male,False,French,44.0,25,ND,3150,25-44
+212985,stroke heart disease,OM,Expats,Male,False,French,44.0,25,ND,0,25-44
+212986,stroke heart disease,QA,Expats,Male,False,French,44.0,25,ND,55,25-44
+212987,stroke heart disease,SA,Expats,Male,False,French,44.0,25,ND,225,25-44
+212988,stroke heart disease,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+212989,stroke heart disease,TN,Expats,Male,False,French,44.0,25,ND,3650,25-44
+212990,stroke heart disease,AE,Expats,Male,False,French,44.0,25,ND,25,25-44
+212991,stroke heart disease,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+212992,stroke heart disease,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+212993,stroke heart disease,DZ,Expats,Male,False,French,44.0,25,HS,4150,25-44
+212995,stroke heart disease,EG,Expats,Male,False,French,44.0,25,HS,360,25-44
+212996,stroke heart disease,IQ,Expats,Male,False,French,44.0,25,HS,40,25-44
+212997,stroke heart disease,JO,Expats,Male,False,French,44.0,25,HS,50,25-44
+212998,stroke heart disease,KW,Expats,Male,False,French,44.0,25,HS,20,25-44
+212999,stroke heart disease,LB,Expats,Male,False,French,44.0,25,HS,90,25-44
+213000,stroke heart disease,LY,Expats,Male,False,French,44.0,25,HS,60,25-44
+213001,stroke heart disease,MA,Expats,Male,False,French,44.0,25,HS,1350,25-44
+213002,stroke heart disease,OM,Expats,Male,False,French,44.0,25,HS,0,25-44
+213003,stroke heart disease,QA,Expats,Male,False,French,44.0,25,HS,65,25-44
+213004,stroke heart disease,SA,Expats,Male,False,French,44.0,25,HS,145,25-44
+213005,stroke heart disease,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+213006,stroke heart disease,TN,Expats,Male,False,French,44.0,25,HS,1800,25-44
+213007,stroke heart disease,AE,Expats,Male,False,French,44.0,25,HS,55,25-44
+213008,stroke heart disease,YE,Expats,Male,False,French,44.0,25,HS,30,25-44
+213009,stroke heart disease,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+213010,stroke heart disease,DZ,Expats,Male,False,French,44.0,25,GRAD,16500,25-44
+213012,stroke heart disease,EG,Expats,Male,False,French,44.0,25,GRAD,2550,25-44
+213013,stroke heart disease,IQ,Expats,Male,False,French,44.0,25,GRAD,195,25-44
+213014,stroke heart disease,JO,Expats,Male,False,French,44.0,25,GRAD,175,25-44
+213015,stroke heart disease,KW,Expats,Male,False,French,44.0,25,GRAD,185,25-44
+213016,stroke heart disease,LB,Expats,Male,False,French,44.0,25,GRAD,480,25-44
+213017,stroke heart disease,LY,Expats,Male,False,French,44.0,25,GRAD,155,25-44
+213018,stroke heart disease,MA,Expats,Male,False,French,44.0,25,GRAD,5000,25-44
+213019,stroke heart disease,OM,Expats,Male,False,French,44.0,25,GRAD,35,25-44
+213020,stroke heart disease,QA,Expats,Male,False,French,44.0,25,GRAD,395,25-44
+213021,stroke heart disease,SA,Expats,Male,False,French,44.0,25,GRAD,1200,25-44
+213022,stroke heart disease,SO,Expats,Male,False,French,44.0,25,GRAD,35,25-44
+213023,stroke heart disease,TN,Expats,Male,False,French,44.0,25,GRAD,7000,25-44
+213024,stroke heart disease,AE,Expats,Male,False,French,44.0,25,GRAD,230,25-44
+213025,stroke heart disease,YE,Expats,Male,False,French,44.0,25,GRAD,125,25-44
+213026,stroke heart disease,PS,Expats,Male,False,French,44.0,25,GRAD,15,25-44
+213078,stroke heart disease,DZ,Expats,Female,False,French,44.0,25,ND,6000,25-44
+213080,stroke heart disease,EG,Expats,Female,False,French,44.0,25,ND,180,25-44
+213081,stroke heart disease,IQ,Expats,Female,False,French,44.0,25,ND,40,25-44
+213082,stroke heart disease,JO,Expats,Female,False,French,44.0,25,ND,25,25-44
+213083,stroke heart disease,KW,Expats,Female,False,French,44.0,25,ND,15,25-44
+213084,stroke heart disease,LB,Expats,Female,False,French,44.0,25,ND,325,25-44
+213085,stroke heart disease,LY,Expats,Female,False,French,44.0,25,ND,25,25-44
+213086,stroke heart disease,MA,Expats,Female,False,French,44.0,25,ND,2850,25-44
+213087,stroke heart disease,OM,Expats,Female,False,French,44.0,25,ND,15,25-44
+213088,stroke heart disease,QA,Expats,Female,False,French,44.0,25,ND,60,25-44
+213089,stroke heart disease,SA,Expats,Female,False,French,44.0,25,ND,120,25-44
+213090,stroke heart disease,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+213091,stroke heart disease,TN,Expats,Female,False,French,44.0,25,ND,4500,25-44
+213092,stroke heart disease,AE,Expats,Female,False,French,44.0,25,ND,300,25-44
+213093,stroke heart disease,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+213094,stroke heart disease,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+213095,stroke heart disease,DZ,Expats,Female,False,French,44.0,25,HS,1800,25-44
+213097,stroke heart disease,EG,Expats,Female,False,French,44.0,25,HS,270,25-44
+213098,stroke heart disease,IQ,Expats,Female,False,French,44.0,25,HS,40,25-44
+213099,stroke heart disease,JO,Expats,Female,False,French,44.0,25,HS,45,25-44
+213100,stroke heart disease,KW,Expats,Female,False,French,44.0,25,HS,20,25-44
+213101,stroke heart disease,LB,Expats,Female,False,French,44.0,25,HS,210,25-44
+213102,stroke heart disease,LY,Expats,Female,False,French,44.0,25,HS,0,25-44
+213103,stroke heart disease,MA,Expats,Female,False,French,44.0,25,HS,1100,25-44
+213104,stroke heart disease,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+213105,stroke heart disease,QA,Expats,Female,False,French,44.0,25,HS,50,25-44
+213106,stroke heart disease,SA,Expats,Female,False,French,44.0,25,HS,80,25-44
+213107,stroke heart disease,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+213108,stroke heart disease,TN,Expats,Female,False,French,44.0,25,HS,2000,25-44
+213109,stroke heart disease,AE,Expats,Female,False,French,44.0,25,HS,175,25-44
+213110,stroke heart disease,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+213111,stroke heart disease,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+213112,stroke heart disease,DZ,Expats,Female,False,French,44.0,25,GRAD,8500,25-44
+213114,stroke heart disease,EG,Expats,Female,False,French,44.0,25,GRAD,2300,25-44
+213115,stroke heart disease,IQ,Expats,Female,False,French,44.0,25,GRAD,135,25-44
+213116,stroke heart disease,JO,Expats,Female,False,French,44.0,25,GRAD,150,25-44
+213117,stroke heart disease,KW,Expats,Female,False,French,44.0,25,GRAD,55,25-44
+213118,stroke heart disease,LB,Expats,Female,False,French,44.0,25,GRAD,1350,25-44
+213119,stroke heart disease,LY,Expats,Female,False,French,44.0,25,GRAD,45,25-44
+213120,stroke heart disease,MA,Expats,Female,False,French,44.0,25,GRAD,3950,25-44
+213121,stroke heart disease,OM,Expats,Female,False,French,44.0,25,GRAD,50,25-44
+213122,stroke heart disease,QA,Expats,Female,False,French,44.0,25,GRAD,320,25-44
+213123,stroke heart disease,SA,Expats,Female,False,French,44.0,25,GRAD,425,25-44
+213124,stroke heart disease,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+213125,stroke heart disease,TN,Expats,Female,False,French,44.0,25,GRAD,8000,25-44
+213126,stroke heart disease,AE,Expats,Female,False,French,44.0,25,GRAD,1050,25-44
+213127,stroke heart disease,YE,Expats,Female,False,French,44.0,25,GRAD,40,25-44
+213128,stroke heart disease,PS,Expats,Female,False,French,44.0,25,GRAD,25,25-44
+213282,stroke heart disease,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,2950,45+
+213284,stroke heart disease,EG,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+213285,stroke heart disease,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213286,stroke heart disease,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213287,stroke heart disease,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213288,stroke heart disease,LB,Expats,Male,False,French,NOTSELECTED,45,ND,55,45+
+213289,stroke heart disease,LY,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213290,stroke heart disease,MA,Expats,Male,False,French,NOTSELECTED,45,ND,1050,45+
+213291,stroke heart disease,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213292,stroke heart disease,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213293,stroke heart disease,SA,Expats,Male,False,French,NOTSELECTED,45,ND,50,45+
+213294,stroke heart disease,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213295,stroke heart disease,TN,Expats,Male,False,French,NOTSELECTED,45,ND,1050,45+
+213296,stroke heart disease,AE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213297,stroke heart disease,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213298,stroke heart disease,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+213299,stroke heart disease,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1100,45+
+213301,stroke heart disease,EG,Expats,Male,False,French,NOTSELECTED,45,HS,35,45+
+213302,stroke heart disease,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213303,stroke heart disease,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213304,stroke heart disease,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213305,stroke heart disease,LB,Expats,Male,False,French,NOTSELECTED,45,HS,30,45+
+213306,stroke heart disease,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213307,stroke heart disease,MA,Expats,Male,False,French,NOTSELECTED,45,HS,350,45+
+213308,stroke heart disease,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213309,stroke heart disease,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213310,stroke heart disease,SA,Expats,Male,False,French,NOTSELECTED,45,HS,35,45+
+213311,stroke heart disease,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213312,stroke heart disease,TN,Expats,Male,False,French,NOTSELECTED,45,HS,550,45+
+213313,stroke heart disease,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213314,stroke heart disease,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213315,stroke heart disease,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+213316,stroke heart disease,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,2900,45+
+213318,stroke heart disease,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,205,45+
+213319,stroke heart disease,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+213320,stroke heart disease,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+213321,stroke heart disease,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213322,stroke heart disease,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,160,45+
+213323,stroke heart disease,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213324,stroke heart disease,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,1200,45+
+213325,stroke heart disease,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213326,stroke heart disease,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+213327,stroke heart disease,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,150,45+
+213328,stroke heart disease,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213329,stroke heart disease,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,1850,45+
+213330,stroke heart disease,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+213331,stroke heart disease,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+213332,stroke heart disease,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,15,45+
+213384,stroke heart disease,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,1950,45+
+213386,stroke heart disease,EG,Expats,Female,False,French,NOTSELECTED,45,ND,70,45+
+213387,stroke heart disease,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213388,stroke heart disease,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213389,stroke heart disease,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213390,stroke heart disease,LB,Expats,Female,False,French,NOTSELECTED,45,ND,600,45+
+213391,stroke heart disease,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213392,stroke heart disease,MA,Expats,Female,False,French,NOTSELECTED,45,ND,1050,45+
+213393,stroke heart disease,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213394,stroke heart disease,QA,Expats,Female,False,French,NOTSELECTED,45,ND,15,45+
+213395,stroke heart disease,SA,Expats,Female,False,French,NOTSELECTED,45,ND,30,45+
+213396,stroke heart disease,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213397,stroke heart disease,TN,Expats,Female,False,French,NOTSELECTED,45,ND,1300,45+
+213398,stroke heart disease,AE,Expats,Female,False,French,NOTSELECTED,45,ND,55,45+
+213399,stroke heart disease,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213400,stroke heart disease,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+213401,stroke heart disease,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,600,45+
+213403,stroke heart disease,EG,Expats,Female,False,French,NOTSELECTED,45,HS,85,45+
+213404,stroke heart disease,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213405,stroke heart disease,JO,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+213406,stroke heart disease,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213407,stroke heart disease,LB,Expats,Female,False,French,NOTSELECTED,45,HS,205,45+
+213408,stroke heart disease,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213409,stroke heart disease,MA,Expats,Female,False,French,NOTSELECTED,45,HS,315,45+
+213410,stroke heart disease,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213411,stroke heart disease,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213412,stroke heart disease,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213413,stroke heart disease,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213414,stroke heart disease,TN,Expats,Female,False,French,NOTSELECTED,45,HS,550,45+
+213415,stroke heart disease,AE,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+213416,stroke heart disease,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213417,stroke heart disease,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+213418,stroke heart disease,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,1550,45+
+213420,stroke heart disease,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,365,45+
+213421,stroke heart disease,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213422,stroke heart disease,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+213423,stroke heart disease,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213424,stroke heart disease,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,600,45+
+213425,stroke heart disease,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213426,stroke heart disease,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,700,45+
+213427,stroke heart disease,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213428,stroke heart disease,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+213429,stroke heart disease,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+213430,stroke heart disease,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213431,stroke heart disease,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,1250,45+
+213432,stroke heart disease,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+213433,stroke heart disease,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+213434,stroke heart disease,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+214506,back pain,DZ,Expats,Male,False,French,24.0,18,ND,11500,18-24
+214508,back pain,EG,Expats,Male,False,French,24.0,18,ND,50,18-24
+214509,back pain,IQ,Expats,Male,False,French,24.0,18,ND,20,18-24
+214510,back pain,JO,Expats,Male,False,French,24.0,18,ND,0,18-24
+214511,back pain,KW,Expats,Male,False,French,24.0,18,ND,0,18-24
+214512,back pain,LB,Expats,Male,False,French,24.0,18,ND,75,18-24
+214513,back pain,LY,Expats,Male,False,French,24.0,18,ND,165,18-24
+214514,back pain,MA,Expats,Male,False,French,24.0,18,ND,315,18-24
+214515,back pain,OM,Expats,Male,False,French,24.0,18,ND,0,18-24
+214516,back pain,QA,Expats,Male,False,French,24.0,18,ND,0,18-24
+214517,back pain,SA,Expats,Male,False,French,24.0,18,ND,25,18-24
+214518,back pain,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+214519,back pain,TN,Expats,Male,False,French,24.0,18,ND,1750,18-24
+214520,back pain,AE,Expats,Male,False,French,24.0,18,ND,15,18-24
+214521,back pain,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+214522,back pain,PS,Expats,Male,False,French,24.0,18,ND,0,18-24
+214523,back pain,DZ,Expats,Male,False,French,24.0,18,HS,6000,18-24
+214525,back pain,EG,Expats,Male,False,French,24.0,18,HS,390,18-24
+214526,back pain,IQ,Expats,Male,False,French,24.0,18,HS,45,18-24
+214527,back pain,JO,Expats,Male,False,French,24.0,18,HS,35,18-24
+214528,back pain,KW,Expats,Male,False,French,24.0,18,HS,0,18-24
+214529,back pain,LB,Expats,Male,False,French,24.0,18,HS,185,18-24
+214530,back pain,LY,Expats,Male,False,French,24.0,18,HS,55,18-24
+214531,back pain,MA,Expats,Male,False,French,24.0,18,HS,260,18-24
+214532,back pain,OM,Expats,Male,False,French,24.0,18,HS,0,18-24
+214533,back pain,QA,Expats,Male,False,French,24.0,18,HS,0,18-24
+214534,back pain,SA,Expats,Male,False,French,24.0,18,HS,35,18-24
+214535,back pain,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+214536,back pain,TN,Expats,Male,False,French,24.0,18,HS,1550,18-24
+214537,back pain,AE,Expats,Male,False,French,24.0,18,HS,35,18-24
+214538,back pain,YE,Expats,Male,False,French,24.0,18,HS,0,18-24
+214539,back pain,PS,Expats,Male,False,French,24.0,18,HS,0,18-24
+214540,back pain,DZ,Expats,Male,False,French,24.0,18,GRAD,13500,18-24
+214542,back pain,EG,Expats,Male,False,French,24.0,18,GRAD,485,18-24
+214543,back pain,IQ,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+214544,back pain,JO,Expats,Male,False,French,24.0,18,GRAD,30,18-24
+214545,back pain,KW,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+214546,back pain,LB,Expats,Male,False,French,24.0,18,GRAD,185,18-24
+214547,back pain,LY,Expats,Male,False,French,24.0,18,GRAD,100,18-24
+214548,back pain,MA,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+214549,back pain,OM,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+214550,back pain,QA,Expats,Male,False,French,24.0,18,GRAD,15,18-24
+214551,back pain,SA,Expats,Male,False,French,24.0,18,GRAD,60,18-24
+214552,back pain,SO,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+214553,back pain,TN,Expats,Male,False,French,24.0,18,GRAD,3150,18-24
+214554,back pain,AE,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+214555,back pain,YE,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+214556,back pain,PS,Expats,Male,False,French,24.0,18,GRAD,0,18-24
+214608,back pain,DZ,Expats,Female,False,French,24.0,18,ND,7000,18-24
+214610,back pain,EG,Expats,Female,False,French,24.0,18,ND,60,18-24
+214611,back pain,IQ,Expats,Female,False,French,24.0,18,ND,0,18-24
+214612,back pain,JO,Expats,Female,False,French,24.0,18,ND,0,18-24
+214613,back pain,KW,Expats,Female,False,French,24.0,18,ND,0,18-24
+214614,back pain,LB,Expats,Female,False,French,24.0,18,ND,55,18-24
+214615,back pain,LY,Expats,Female,False,French,24.0,18,ND,15,18-24
+214616,back pain,MA,Expats,Female,False,French,24.0,18,ND,850,18-24
+214617,back pain,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+214618,back pain,QA,Expats,Female,False,French,24.0,18,ND,0,18-24
+214619,back pain,SA,Expats,Female,False,French,24.0,18,ND,0,18-24
+214620,back pain,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+214621,back pain,TN,Expats,Female,False,French,24.0,18,ND,395,18-24
+214622,back pain,AE,Expats,Female,False,French,24.0,18,ND,15,18-24
+214623,back pain,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+214624,back pain,PS,Expats,Female,False,French,24.0,18,ND,0,18-24
+214625,back pain,DZ,Expats,Female,False,French,24.0,18,HS,3400,18-24
+214627,back pain,EG,Expats,Female,False,French,24.0,18,HS,600,18-24
+214628,back pain,IQ,Expats,Female,False,French,24.0,18,HS,0,18-24
+214629,back pain,JO,Expats,Female,False,French,24.0,18,HS,25,18-24
+214630,back pain,KW,Expats,Female,False,French,24.0,18,HS,0,18-24
+214631,back pain,LB,Expats,Female,False,French,24.0,18,HS,190,18-24
+214632,back pain,LY,Expats,Female,False,French,24.0,18,HS,40,18-24
+214633,back pain,MA,Expats,Female,False,French,24.0,18,HS,650,18-24
+214634,back pain,OM,Expats,Female,False,French,24.0,18,HS,0,18-24
+214635,back pain,QA,Expats,Female,False,French,24.0,18,HS,0,18-24
+214636,back pain,SA,Expats,Female,False,French,24.0,18,HS,25,18-24
+214637,back pain,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+214638,back pain,TN,Expats,Female,False,French,24.0,18,HS,390,18-24
+214639,back pain,AE,Expats,Female,False,French,24.0,18,HS,30,18-24
+214640,back pain,YE,Expats,Female,False,French,24.0,18,HS,0,18-24
+214641,back pain,PS,Expats,Female,False,French,24.0,18,HS,15,18-24
+214642,back pain,DZ,Expats,Female,False,French,24.0,18,GRAD,7000,18-24
+214644,back pain,EG,Expats,Female,False,French,24.0,18,GRAD,600,18-24
+214645,back pain,IQ,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+214646,back pain,JO,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+214647,back pain,KW,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+214648,back pain,LB,Expats,Female,False,French,24.0,18,GRAD,185,18-24
+214649,back pain,LY,Expats,Female,False,French,24.0,18,GRAD,40,18-24
+214650,back pain,MA,Expats,Female,False,French,24.0,18,GRAD,1350,18-24
+214651,back pain,OM,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+214652,back pain,QA,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+214653,back pain,SA,Expats,Female,False,French,24.0,18,GRAD,30,18-24
+214654,back pain,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+214655,back pain,TN,Expats,Female,False,French,24.0,18,GRAD,750,18-24
+214656,back pain,AE,Expats,Female,False,French,24.0,18,GRAD,40,18-24
+214657,back pain,YE,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+214658,back pain,PS,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+214812,back pain,DZ,Expats,Male,False,French,44.0,25,ND,18500,25-44
+214814,back pain,EG,Expats,Male,False,French,44.0,25,ND,25,25-44
+214815,back pain,IQ,Expats,Male,False,French,44.0,25,ND,0,25-44
+214816,back pain,JO,Expats,Male,False,French,44.0,25,ND,0,25-44
+214817,back pain,KW,Expats,Male,False,French,44.0,25,ND,0,25-44
+214818,back pain,LB,Expats,Male,False,French,44.0,25,ND,85,25-44
+214819,back pain,LY,Expats,Male,False,French,44.0,25,ND,240,25-44
+214820,back pain,MA,Expats,Male,False,French,44.0,25,ND,345,25-44
+214821,back pain,OM,Expats,Male,False,French,44.0,25,ND,0,25-44
+214822,back pain,QA,Expats,Male,False,French,44.0,25,ND,25,25-44
+214823,back pain,SA,Expats,Male,False,French,44.0,25,ND,60,25-44
+214824,back pain,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+214825,back pain,TN,Expats,Male,False,French,44.0,25,ND,3200,25-44
+214826,back pain,AE,Expats,Male,False,French,44.0,25,ND,40,25-44
+214827,back pain,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+214828,back pain,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+214829,back pain,DZ,Expats,Male,False,French,44.0,25,HS,4750,25-44
+214831,back pain,EG,Expats,Male,False,French,44.0,25,HS,50,25-44
+214832,back pain,IQ,Expats,Male,False,French,44.0,25,HS,0,25-44
+214833,back pain,JO,Expats,Male,False,French,44.0,25,HS,0,25-44
+214834,back pain,KW,Expats,Male,False,French,44.0,25,HS,0,25-44
+214835,back pain,LB,Expats,Male,False,French,44.0,25,HS,85,25-44
+214836,back pain,LY,Expats,Male,False,French,44.0,25,HS,30,25-44
+214837,back pain,MA,Expats,Male,False,French,44.0,25,HS,160,25-44
+214838,back pain,OM,Expats,Male,False,French,44.0,25,HS,0,25-44
+214839,back pain,QA,Expats,Male,False,French,44.0,25,HS,0,25-44
+214840,back pain,SA,Expats,Male,False,French,44.0,25,HS,40,25-44
+214841,back pain,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+214842,back pain,TN,Expats,Male,False,French,44.0,25,HS,1600,25-44
+214843,back pain,AE,Expats,Male,False,French,44.0,25,HS,30,25-44
+214844,back pain,YE,Expats,Male,False,French,44.0,25,HS,0,25-44
+214845,back pain,PS,Expats,Male,False,French,44.0,25,HS,0,25-44
+214846,back pain,DZ,Expats,Male,False,French,44.0,25,GRAD,18500,25-44
+214848,back pain,EG,Expats,Male,False,French,44.0,25,GRAD,385,25-44
+214849,back pain,IQ,Expats,Male,False,French,44.0,25,GRAD,60,25-44
+214850,back pain,JO,Expats,Male,False,French,44.0,25,GRAD,40,25-44
+214851,back pain,KW,Expats,Male,False,French,44.0,25,GRAD,25,25-44
+214852,back pain,LB,Expats,Male,False,French,44.0,25,GRAD,320,25-44
+214853,back pain,LY,Expats,Male,False,French,44.0,25,GRAD,155,25-44
+214854,back pain,MA,Expats,Male,False,French,44.0,25,GRAD,650,25-44
+214855,back pain,OM,Expats,Male,False,French,44.0,25,GRAD,35,25-44
+214856,back pain,QA,Expats,Male,False,French,44.0,25,GRAD,85,25-44
+214857,back pain,SA,Expats,Male,False,French,44.0,25,GRAD,305,25-44
+214858,back pain,SO,Expats,Male,False,French,44.0,25,GRAD,0,25-44
+214859,back pain,TN,Expats,Male,False,French,44.0,25,GRAD,5500,25-44
+214860,back pain,AE,Expats,Male,False,French,44.0,25,GRAD,195,25-44
+214861,back pain,YE,Expats,Male,False,French,44.0,25,GRAD,15,25-44
+214862,back pain,PS,Expats,Male,False,French,44.0,25,GRAD,20,25-44
+214914,back pain,DZ,Expats,Female,False,French,44.0,25,ND,8500,25-44
+214916,back pain,EG,Expats,Female,False,French,44.0,25,ND,30,25-44
+214917,back pain,IQ,Expats,Female,False,French,44.0,25,ND,0,25-44
+214918,back pain,JO,Expats,Female,False,French,44.0,25,ND,0,25-44
+214919,back pain,KW,Expats,Female,False,French,44.0,25,ND,0,25-44
+214920,back pain,LB,Expats,Female,False,French,44.0,25,ND,130,25-44
+214921,back pain,LY,Expats,Female,False,French,44.0,25,ND,20,25-44
+214922,back pain,MA,Expats,Female,False,French,44.0,25,ND,1000,25-44
+214923,back pain,OM,Expats,Female,False,French,44.0,25,ND,0,25-44
+214924,back pain,QA,Expats,Female,False,French,44.0,25,ND,15,25-44
+214925,back pain,SA,Expats,Female,False,French,44.0,25,ND,30,25-44
+214926,back pain,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+214927,back pain,TN,Expats,Female,False,French,44.0,25,ND,800,25-44
+214928,back pain,AE,Expats,Female,False,French,44.0,25,ND,40,25-44
+214929,back pain,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+214930,back pain,PS,Expats,Female,False,French,44.0,25,ND,0,25-44
+214931,back pain,DZ,Expats,Female,False,French,44.0,25,HS,2050,25-44
+214933,back pain,EG,Expats,Female,False,French,44.0,25,HS,45,25-44
+214934,back pain,IQ,Expats,Female,False,French,44.0,25,HS,0,25-44
+214935,back pain,JO,Expats,Female,False,French,44.0,25,HS,0,25-44
+214936,back pain,KW,Expats,Female,False,French,44.0,25,HS,0,25-44
+214937,back pain,LB,Expats,Female,False,French,44.0,25,HS,80,25-44
+214938,back pain,LY,Expats,Female,False,French,44.0,25,HS,0,25-44
+214939,back pain,MA,Expats,Female,False,French,44.0,25,HS,375,25-44
+214940,back pain,OM,Expats,Female,False,French,44.0,25,HS,0,25-44
+214941,back pain,QA,Expats,Female,False,French,44.0,25,HS,0,25-44
+214942,back pain,SA,Expats,Female,False,French,44.0,25,HS,15,25-44
+214943,back pain,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+214944,back pain,TN,Expats,Female,False,French,44.0,25,HS,360,25-44
+214945,back pain,AE,Expats,Female,False,French,44.0,25,HS,15,25-44
+214946,back pain,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+214947,back pain,PS,Expats,Female,False,French,44.0,25,HS,0,25-44
+214948,back pain,DZ,Expats,Female,False,French,44.0,25,GRAD,9000,25-44
+214950,back pain,EG,Expats,Female,False,French,44.0,25,GRAD,455,25-44
+214951,back pain,IQ,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214952,back pain,JO,Expats,Female,False,French,44.0,25,GRAD,15,25-44
+214953,back pain,KW,Expats,Female,False,French,44.0,25,GRAD,20,25-44
+214954,back pain,LB,Expats,Female,False,French,44.0,25,GRAD,390,25-44
+214955,back pain,LY,Expats,Female,False,French,44.0,25,GRAD,30,25-44
+214956,back pain,MA,Expats,Female,False,French,44.0,25,GRAD,1500,25-44
+214957,back pain,OM,Expats,Female,False,French,44.0,25,GRAD,25,25-44
+214958,back pain,QA,Expats,Female,False,French,44.0,25,GRAD,70,25-44
+214959,back pain,SA,Expats,Female,False,French,44.0,25,GRAD,85,25-44
+214960,back pain,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214961,back pain,TN,Expats,Female,False,French,44.0,25,GRAD,1400,25-44
+214962,back pain,AE,Expats,Female,False,French,44.0,25,GRAD,150,25-44
+214963,back pain,YE,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+214964,back pain,PS,Expats,Female,False,French,44.0,25,GRAD,15,25-44
+215118,back pain,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,4550,45+
+215120,back pain,EG,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215121,back pain,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215122,back pain,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215123,back pain,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215124,back pain,LB,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+215125,back pain,LY,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+215126,back pain,MA,Expats,Male,False,French,NOTSELECTED,45,ND,95,45+
+215127,back pain,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215128,back pain,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215129,back pain,SA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215130,back pain,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215131,back pain,TN,Expats,Male,False,French,NOTSELECTED,45,ND,900,45+
+215132,back pain,AE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215133,back pain,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215134,back pain,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+215135,back pain,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1050,45+
+215137,back pain,EG,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215138,back pain,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215139,back pain,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215140,back pain,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215141,back pain,LB,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+215142,back pain,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215143,back pain,MA,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+215144,back pain,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215145,back pain,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215146,back pain,SA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215147,back pain,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215148,back pain,TN,Expats,Male,False,French,NOTSELECTED,45,HS,455,45+
+215149,back pain,AE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215150,back pain,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215151,back pain,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+215152,back pain,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,2800,45+
+215154,back pain,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+215155,back pain,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215156,back pain,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215157,back pain,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215158,back pain,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+215159,back pain,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+215160,back pain,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,105,45+
+215161,back pain,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215162,back pain,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215163,back pain,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+215164,back pain,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215165,back pain,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,1150,45+
+215166,back pain,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+215167,back pain,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215168,back pain,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+215220,back pain,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,2200,45+
+215222,back pain,EG,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215223,back pain,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215224,back pain,JO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215225,back pain,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215226,back pain,LB,Expats,Female,False,French,NOTSELECTED,45,ND,125,45+
+215227,back pain,LY,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215228,back pain,MA,Expats,Female,False,French,NOTSELECTED,45,ND,395,45+
+215229,back pain,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215230,back pain,QA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215231,back pain,SA,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215232,back pain,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215233,back pain,TN,Expats,Female,False,French,NOTSELECTED,45,ND,390,45+
+215234,back pain,AE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215235,back pain,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215236,back pain,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+215237,back pain,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,550,45+
+215239,back pain,EG,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+215240,back pain,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215241,back pain,JO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215242,back pain,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215243,back pain,LB,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+215244,back pain,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215245,back pain,MA,Expats,Female,False,French,NOTSELECTED,45,HS,145,45+
+215246,back pain,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215247,back pain,QA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215248,back pain,SA,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215249,back pain,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215250,back pain,TN,Expats,Female,False,French,NOTSELECTED,45,HS,180,45+
+215251,back pain,AE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215252,back pain,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215253,back pain,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+215254,back pain,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,1200,45+
+215256,back pain,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,80,45+
+215257,back pain,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215258,back pain,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215259,back pain,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215260,back pain,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,125,45+
+215261,back pain,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215262,back pain,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,335,45+
+215263,back pain,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215264,back pain,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215265,back pain,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215266,back pain,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215267,back pain,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,260,45+
+215268,back pain,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,15,45+
+215269,back pain,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+215270,back pain,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+

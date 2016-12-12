@@ -2879,6 +2879,582 @@
 97798,fast food,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,670,45+
 97799,fast food,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 97800,fast food,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+203541,obesity,DZ,Locals,Male,False,French,24.0,18,ND,56000,18-24
+203543,obesity,EG,Locals,Male,False,French,24.0,18,ND,3600,18-24
+203544,obesity,IQ,Locals,Male,False,French,24.0,18,ND,630,18-24
+203545,obesity,JO,Locals,Male,False,French,24.0,18,ND,200,18-24
+203546,obesity,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+203547,obesity,LB,Locals,Male,False,French,24.0,18,ND,1100,18-24
+203548,obesity,LY,Locals,Male,False,French,24.0,18,ND,480,18-24
+203549,obesity,MA,Locals,Male,False,French,24.0,18,ND,57000,18-24
+203550,obesity,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+203551,obesity,QA,Locals,Male,False,French,24.0,18,ND,0,18-24
+203552,obesity,SA,Locals,Male,False,French,24.0,18,ND,320,18-24
+203553,obesity,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+203554,obesity,TN,Locals,Male,False,French,24.0,18,ND,28000,18-24
+203555,obesity,AE,Locals,Male,False,French,24.0,18,ND,90,18-24
+203556,obesity,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+203557,obesity,PS,Locals,Male,False,French,24.0,18,ND,0,18-24
+203558,obesity,DZ,Locals,Male,False,French,24.0,18,HS,31000,18-24
+203560,obesity,EG,Locals,Male,False,French,24.0,18,HS,29000,18-24
+203561,obesity,IQ,Locals,Male,False,French,24.0,18,HS,1700,18-24
+203562,obesity,JO,Locals,Male,False,French,24.0,18,HS,890,18-24
+203563,obesity,KW,Locals,Male,False,French,24.0,18,HS,0,18-24
+203564,obesity,LB,Locals,Male,False,French,24.0,18,HS,2400,18-24
+203565,obesity,LY,Locals,Male,False,French,24.0,18,HS,380,18-24
+203566,obesity,MA,Locals,Male,False,French,24.0,18,HS,40000,18-24
+203567,obesity,OM,Locals,Male,False,French,24.0,18,HS,0,18-24
+203568,obesity,QA,Locals,Male,False,French,24.0,18,HS,0,18-24
+203569,obesity,SA,Locals,Male,False,French,24.0,18,HS,210,18-24
+203570,obesity,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+203571,obesity,TN,Locals,Male,False,French,24.0,18,HS,24000,18-24
+203572,obesity,AE,Locals,Male,False,French,24.0,18,HS,130,18-24
+203573,obesity,YE,Locals,Male,False,French,24.0,18,HS,70,18-24
+203574,obesity,PS,Locals,Male,False,French,24.0,18,HS,140,18-24
+203575,obesity,DZ,Locals,Male,False,French,24.0,18,GRAD,69000,18-24
+203577,obesity,EG,Locals,Male,False,French,24.0,18,GRAD,32000,18-24
+203578,obesity,IQ,Locals,Male,False,French,24.0,18,GRAD,1500,18-24
+203579,obesity,JO,Locals,Male,False,French,24.0,18,GRAD,950,18-24
+203580,obesity,KW,Locals,Male,False,French,24.0,18,GRAD,50,18-24
+203581,obesity,LB,Locals,Male,False,French,24.0,18,GRAD,2400,18-24
+203582,obesity,LY,Locals,Male,False,French,24.0,18,GRAD,460,18-24
+203583,obesity,MA,Locals,Male,False,French,24.0,18,GRAD,99000,18-24
+203584,obesity,OM,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+203585,obesity,QA,Locals,Male,False,French,24.0,18,GRAD,150,18-24
+203586,obesity,SA,Locals,Male,False,French,24.0,18,GRAD,390,18-24
+203587,obesity,SO,Locals,Male,False,French,24.0,18,GRAD,50,18-24
+203588,obesity,TN,Locals,Male,False,French,24.0,18,GRAD,49000,18-24
+203589,obesity,AE,Locals,Male,False,French,24.0,18,GRAD,300,18-24
+203590,obesity,YE,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+203591,obesity,PS,Locals,Male,False,French,24.0,18,GRAD,110,18-24
+203643,obesity,DZ,Locals,Female,False,French,24.0,18,ND,60000,18-24
+203645,obesity,EG,Locals,Female,False,French,24.0,18,ND,4500,18-24
+203646,obesity,IQ,Locals,Female,False,French,24.0,18,ND,210,18-24
+203647,obesity,JO,Locals,Female,False,French,24.0,18,ND,240,18-24
+203648,obesity,KW,Locals,Female,False,French,24.0,18,ND,0,18-24
+203649,obesity,LB,Locals,Female,False,French,24.0,18,ND,1600,18-24
+203650,obesity,LY,Locals,Female,False,French,24.0,18,ND,290,18-24
+203651,obesity,MA,Locals,Female,False,French,24.0,18,ND,65000,18-24
+203652,obesity,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+203653,obesity,QA,Locals,Female,False,French,24.0,18,ND,0,18-24
+203654,obesity,SA,Locals,Female,False,French,24.0,18,ND,410,18-24
+203655,obesity,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+203656,obesity,TN,Locals,Female,False,French,24.0,18,ND,38000,18-24
+203657,obesity,AE,Locals,Female,False,French,24.0,18,ND,100,18-24
+203658,obesity,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+203659,obesity,PS,Locals,Female,False,French,24.0,18,ND,50,18-24
+203660,obesity,DZ,Locals,Female,False,French,24.0,18,HS,33000,18-24
+203662,obesity,EG,Locals,Female,False,French,24.0,18,HS,39000,18-24
+203663,obesity,IQ,Locals,Female,False,French,24.0,18,HS,990,18-24
+203664,obesity,JO,Locals,Female,False,French,24.0,18,HS,1400,18-24
+203665,obesity,KW,Locals,Female,False,French,24.0,18,HS,30,18-24
+203666,obesity,LB,Locals,Female,False,French,24.0,18,HS,6100,18-24
+203667,obesity,LY,Locals,Female,False,French,24.0,18,HS,600,18-24
+203668,obesity,MA,Locals,Female,False,French,24.0,18,HS,42000,18-24
+203669,obesity,OM,Locals,Female,False,French,24.0,18,HS,0,18-24
+203670,obesity,QA,Locals,Female,False,French,24.0,18,HS,40,18-24
+203671,obesity,SA,Locals,Female,False,French,24.0,18,HS,310,18-24
+203672,obesity,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+203673,obesity,TN,Locals,Female,False,French,24.0,18,HS,33000,18-24
+203674,obesity,AE,Locals,Female,False,French,24.0,18,HS,120,18-24
+203675,obesity,YE,Locals,Female,False,French,24.0,18,HS,0,18-24
+203676,obesity,PS,Locals,Female,False,French,24.0,18,HS,280,18-24
+203677,obesity,DZ,Locals,Female,False,French,24.0,18,GRAD,67000,18-24
+203679,obesity,EG,Locals,Female,False,French,24.0,18,GRAD,40000,18-24
+203680,obesity,IQ,Locals,Female,False,French,24.0,18,GRAD,800,18-24
+203681,obesity,JO,Locals,Female,False,French,24.0,18,GRAD,1100,18-24
+203682,obesity,KW,Locals,Female,False,French,24.0,18,GRAD,30,18-24
+203683,obesity,LB,Locals,Female,False,French,24.0,18,GRAD,5400,18-24
+203684,obesity,LY,Locals,Female,False,French,24.0,18,GRAD,720,18-24
+203685,obesity,MA,Locals,Female,False,French,24.0,18,GRAD,87000,18-24
+203686,obesity,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+203687,obesity,QA,Locals,Female,False,French,24.0,18,GRAD,110,18-24
+203688,obesity,SA,Locals,Female,False,French,24.0,18,GRAD,300,18-24
+203689,obesity,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+203690,obesity,TN,Locals,Female,False,French,24.0,18,GRAD,63000,18-24
+203691,obesity,AE,Locals,Female,False,French,24.0,18,GRAD,350,18-24
+203692,obesity,YE,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+203693,obesity,PS,Locals,Female,False,French,24.0,18,GRAD,390,18-24
+203847,obesity,DZ,Locals,Male,False,French,44.0,25,ND,82000,25-44
+203849,obesity,EG,Locals,Male,False,French,44.0,25,ND,1500,25-44
+203850,obesity,IQ,Locals,Male,False,French,44.0,25,ND,420,25-44
+203851,obesity,JO,Locals,Male,False,French,44.0,25,ND,80,25-44
+203852,obesity,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+203853,obesity,LB,Locals,Male,False,French,44.0,25,ND,1200,25-44
+203854,obesity,LY,Locals,Male,False,French,44.0,25,ND,590,25-44
+203855,obesity,MA,Locals,Male,False,French,44.0,25,ND,63000,25-44
+203856,obesity,OM,Locals,Male,False,French,44.0,25,ND,0,25-44
+203857,obesity,QA,Locals,Male,False,French,44.0,25,ND,110,25-44
+203858,obesity,SA,Locals,Male,False,French,44.0,25,ND,540,25-44
+203859,obesity,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+203860,obesity,TN,Locals,Male,False,French,44.0,25,ND,38000,25-44
+203861,obesity,AE,Locals,Male,False,French,44.0,25,ND,240,25-44
+203862,obesity,YE,Locals,Male,False,French,44.0,25,ND,30,25-44
+203863,obesity,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+203864,obesity,DZ,Locals,Male,False,French,44.0,25,HS,24000,25-44
+203866,obesity,EG,Locals,Male,False,French,44.0,25,HS,3300,25-44
+203867,obesity,IQ,Locals,Male,False,French,44.0,25,HS,390,25-44
+203868,obesity,JO,Locals,Male,False,French,44.0,25,HS,260,25-44
+203869,obesity,KW,Locals,Male,False,French,44.0,25,HS,0,25-44
+203870,obesity,LB,Locals,Male,False,French,44.0,25,HS,1000,25-44
+203871,obesity,LY,Locals,Male,False,French,44.0,25,HS,160,25-44
+203872,obesity,MA,Locals,Male,False,French,44.0,25,HS,21000,25-44
+203873,obesity,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+203874,obesity,QA,Locals,Male,False,French,44.0,25,HS,70,25-44
+203875,obesity,SA,Locals,Male,False,French,44.0,25,HS,270,25-44
+203876,obesity,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+203877,obesity,TN,Locals,Male,False,French,44.0,25,HS,18000,25-44
+203878,obesity,AE,Locals,Male,False,French,44.0,25,HS,170,25-44
+203879,obesity,YE,Locals,Male,False,French,44.0,25,HS,0,25-44
+203880,obesity,PS,Locals,Male,False,French,44.0,25,HS,0,25-44
+203881,obesity,DZ,Locals,Male,False,French,44.0,25,GRAD,93000,25-44
+203883,obesity,EG,Locals,Male,False,French,44.0,25,GRAD,23000,25-44
+203884,obesity,IQ,Locals,Male,False,French,44.0,25,GRAD,1600,25-44
+203885,obesity,JO,Locals,Male,False,French,44.0,25,GRAD,1100,25-44
+203886,obesity,KW,Locals,Male,False,French,44.0,25,GRAD,140,25-44
+203887,obesity,LB,Locals,Male,False,French,44.0,25,GRAD,4300,25-44
+203888,obesity,LY,Locals,Male,False,French,44.0,25,GRAD,720,25-44
+203889,obesity,MA,Locals,Male,False,French,44.0,25,GRAD,84000,25-44
+203890,obesity,OM,Locals,Male,False,French,44.0,25,GRAD,150,25-44
+203891,obesity,QA,Locals,Male,False,French,44.0,25,GRAD,340,25-44
+203892,obesity,SA,Locals,Male,False,French,44.0,25,GRAD,1200,25-44
+203893,obesity,SO,Locals,Male,False,French,44.0,25,GRAD,0,25-44
+203894,obesity,TN,Locals,Male,False,French,44.0,25,GRAD,63000,25-44
+203895,obesity,AE,Locals,Male,False,French,44.0,25,GRAD,780,25-44
+203896,obesity,YE,Locals,Male,False,French,44.0,25,GRAD,110,25-44
+203897,obesity,PS,Locals,Male,False,French,44.0,25,GRAD,160,25-44
+203949,obesity,DZ,Locals,Female,False,French,44.0,25,ND,64000,25-44
+203951,obesity,EG,Locals,Female,False,French,44.0,25,ND,2000,25-44
+203952,obesity,IQ,Locals,Female,False,French,44.0,25,ND,120,25-44
+203953,obesity,JO,Locals,Female,False,French,44.0,25,ND,140,25-44
+203954,obesity,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+203955,obesity,LB,Locals,Female,False,French,44.0,25,ND,3700,25-44
+203956,obesity,LY,Locals,Female,False,French,44.0,25,ND,170,25-44
+203957,obesity,MA,Locals,Female,False,French,44.0,25,ND,64000,25-44
+203958,obesity,OM,Locals,Female,False,French,44.0,25,ND,30,25-44
+203959,obesity,QA,Locals,Female,False,French,44.0,25,ND,90,25-44
+203960,obesity,SA,Locals,Female,False,French,44.0,25,ND,660,25-44
+203961,obesity,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+203962,obesity,TN,Locals,Female,False,French,44.0,25,ND,55000,25-44
+203963,obesity,AE,Locals,Female,False,French,44.0,25,ND,340,25-44
+203964,obesity,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+203965,obesity,PS,Locals,Female,False,French,44.0,25,ND,40,25-44
+203966,obesity,DZ,Locals,Female,False,French,44.0,25,HS,16000,25-44
+203968,obesity,EG,Locals,Female,False,French,44.0,25,HS,3600,25-44
+203969,obesity,IQ,Locals,Female,False,French,44.0,25,HS,260,25-44
+203970,obesity,JO,Locals,Female,False,French,44.0,25,HS,220,25-44
+203971,obesity,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+203972,obesity,LB,Locals,Female,False,French,44.0,25,HS,2500,25-44
+203973,obesity,LY,Locals,Female,False,French,44.0,25,HS,90,25-44
+203974,obesity,MA,Locals,Female,False,French,44.0,25,HS,21000,25-44
+203975,obesity,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+203976,obesity,QA,Locals,Female,False,French,44.0,25,HS,40,25-44
+203977,obesity,SA,Locals,Female,False,French,44.0,25,HS,240,25-44
+203978,obesity,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+203979,obesity,TN,Locals,Female,False,French,44.0,25,HS,25000,25-44
+203980,obesity,AE,Locals,Female,False,French,44.0,25,HS,190,25-44
+203981,obesity,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+203982,obesity,PS,Locals,Female,False,French,44.0,25,HS,30,25-44
+203983,obesity,DZ,Locals,Female,False,French,44.0,25,GRAD,76000,25-44
+203985,obesity,EG,Locals,Female,False,French,44.0,25,GRAD,31000,25-44
+203986,obesity,IQ,Locals,Female,False,French,44.0,25,GRAD,990,25-44
+203987,obesity,JO,Locals,Female,False,French,44.0,25,GRAD,1600,25-44
+203988,obesity,KW,Locals,Female,False,French,44.0,25,GRAD,130,25-44
+203989,obesity,LB,Locals,Female,False,French,44.0,25,GRAD,12000,25-44
+203990,obesity,LY,Locals,Female,False,French,44.0,25,GRAD,550,25-44
+203991,obesity,MA,Locals,Female,False,French,44.0,25,GRAD,80000,25-44
+203992,obesity,OM,Locals,Female,False,French,44.0,25,GRAD,60,25-44
+203993,obesity,QA,Locals,Female,False,French,44.0,25,GRAD,350,25-44
+203994,obesity,SA,Locals,Female,False,French,44.0,25,GRAD,1200,25-44
+203995,obesity,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+203996,obesity,TN,Locals,Female,False,French,44.0,25,GRAD,110000,25-44
+203997,obesity,AE,Locals,Female,False,French,44.0,25,GRAD,790,25-44
+203998,obesity,YE,Locals,Female,False,French,44.0,25,GRAD,30,25-44
+203999,obesity,PS,Locals,Female,False,French,44.0,25,GRAD,270,25-44
+204153,obesity,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,13000,45+
+204155,obesity,EG,Locals,Male,False,French,NOTSELECTED,45,ND,190,45+
+204156,obesity,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+204157,obesity,JO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204158,obesity,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204159,obesity,LB,Locals,Male,False,French,NOTSELECTED,45,ND,570,45+
+204160,obesity,LY,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+204161,obesity,MA,Locals,Male,False,French,NOTSELECTED,45,ND,12000,45+
+204162,obesity,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204163,obesity,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204164,obesity,SA,Locals,Male,False,French,NOTSELECTED,45,ND,140,45+
+204165,obesity,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204166,obesity,TN,Locals,Male,False,French,NOTSELECTED,45,ND,7600,45+
+204167,obesity,AE,Locals,Male,False,French,NOTSELECTED,45,ND,30,45+
+204168,obesity,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204169,obesity,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+204170,obesity,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,3400,45+
+204172,obesity,EG,Locals,Male,False,French,NOTSELECTED,45,HS,200,45+
+204173,obesity,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204174,obesity,JO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204175,obesity,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204176,obesity,LB,Locals,Male,False,French,NOTSELECTED,45,HS,340,45+
+204177,obesity,LY,Locals,Male,False,French,NOTSELECTED,45,HS,40,45+
+204178,obesity,MA,Locals,Male,False,French,NOTSELECTED,45,HS,3700,45+
+204179,obesity,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204180,obesity,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204181,obesity,SA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204182,obesity,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204183,obesity,TN,Locals,Male,False,French,NOTSELECTED,45,HS,4200,45+
+204184,obesity,AE,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+204185,obesity,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204186,obesity,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+204187,obesity,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,9700,45+
+204189,obesity,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,1500,45+
+204190,obesity,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+204191,obesity,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+204192,obesity,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204193,obesity,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,1400,45+
+204194,obesity,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+204195,obesity,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,11000,45+
+204196,obesity,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204197,obesity,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204198,obesity,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,120,45+
+204199,obesity,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204200,obesity,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,11000,45+
+204201,obesity,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+204202,obesity,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204203,obesity,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204255,obesity,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,11000,45+
+204257,obesity,EG,Locals,Female,False,French,NOTSELECTED,45,ND,720,45+
+204258,obesity,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204259,obesity,JO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204260,obesity,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204261,obesity,LB,Locals,Female,False,French,NOTSELECTED,45,ND,3500,45+
+204262,obesity,LY,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+204263,obesity,MA,Locals,Female,False,French,NOTSELECTED,45,ND,15000,45+
+204264,obesity,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204265,obesity,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204266,obesity,SA,Locals,Female,False,French,NOTSELECTED,45,ND,90,45+
+204267,obesity,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204268,obesity,TN,Locals,Female,False,French,NOTSELECTED,45,ND,12000,45+
+204269,obesity,AE,Locals,Female,False,French,NOTSELECTED,45,ND,50,45+
+204270,obesity,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204271,obesity,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+204272,obesity,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,2900,45+
+204274,obesity,EG,Locals,Female,False,French,NOTSELECTED,45,HS,630,45+
+204275,obesity,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204276,obesity,JO,Locals,Female,False,French,NOTSELECTED,45,HS,70,45+
+204277,obesity,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204278,obesity,LB,Locals,Female,False,French,NOTSELECTED,45,HS,1100,45+
+204279,obesity,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204280,obesity,MA,Locals,Female,False,French,NOTSELECTED,45,HS,4200,45+
+204281,obesity,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204282,obesity,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204283,obesity,SA,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+204284,obesity,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204285,obesity,TN,Locals,Female,False,French,NOTSELECTED,45,HS,6000,45+
+204286,obesity,AE,Locals,Female,False,French,NOTSELECTED,45,HS,40,45+
+204287,obesity,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204288,obesity,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+204289,obesity,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,7100,45+
+204291,obesity,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,3500,45+
+204292,obesity,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+204293,obesity,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,160,45+
+204294,obesity,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204295,obesity,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,3700,45+
+204296,obesity,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,80,45+
+204297,obesity,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,10000,45+
+204298,obesity,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204299,obesity,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204300,obesity,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,110,45+
+204301,obesity,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204302,obesity,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,11000,45+
+204303,obesity,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+204304,obesity,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204305,obesity,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+209967,fast food,DZ,Locals,Male,False,French,24.0,18,ND,49000,18-24
+209969,fast food,EG,Locals,Male,False,French,24.0,18,ND,6400,18-24
+209970,fast food,IQ,Locals,Male,False,French,24.0,18,ND,460,18-24
+209971,fast food,JO,Locals,Male,False,French,24.0,18,ND,520,18-24
+209972,fast food,KW,Locals,Male,False,French,24.0,18,ND,0,18-24
+209973,fast food,LB,Locals,Male,False,French,24.0,18,ND,1800,18-24
+209974,fast food,LY,Locals,Male,False,French,24.0,18,ND,210,18-24
+209975,fast food,MA,Locals,Male,False,French,24.0,18,ND,47000,18-24
+209976,fast food,OM,Locals,Male,False,French,24.0,18,ND,0,18-24
+209977,fast food,QA,Locals,Male,False,French,24.0,18,ND,80,18-24
+209978,fast food,SA,Locals,Male,False,French,24.0,18,ND,1000,18-24
+209979,fast food,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+209980,fast food,TN,Locals,Male,False,French,24.0,18,ND,26000,18-24
+209981,fast food,AE,Locals,Male,False,French,24.0,18,ND,180,18-24
+209982,fast food,YE,Locals,Male,False,French,24.0,18,ND,30,18-24
+209983,fast food,PS,Locals,Male,False,French,24.0,18,ND,30,18-24
+209984,fast food,DZ,Locals,Male,False,French,24.0,18,HS,35000,18-24
+209986,fast food,EG,Locals,Male,False,French,24.0,18,HS,51000,18-24
+209987,fast food,IQ,Locals,Male,False,French,24.0,18,HS,1900,18-24
+209988,fast food,JO,Locals,Male,False,French,24.0,18,HS,2000,18-24
+209989,fast food,KW,Locals,Male,False,French,24.0,18,HS,70,18-24
+209990,fast food,LB,Locals,Male,False,French,24.0,18,HS,5000,18-24
+209991,fast food,LY,Locals,Male,False,French,24.0,18,HS,370,18-24
+209992,fast food,MA,Locals,Male,False,French,24.0,18,HS,43000,18-24
+209993,fast food,OM,Locals,Male,False,French,24.0,18,HS,80,18-24
+209994,fast food,QA,Locals,Male,False,French,24.0,18,HS,50,18-24
+209995,fast food,SA,Locals,Male,False,French,24.0,18,HS,800,18-24
+209996,fast food,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+209997,fast food,TN,Locals,Male,False,French,24.0,18,HS,22000,18-24
+209998,fast food,AE,Locals,Male,False,French,24.0,18,HS,280,18-24
+209999,fast food,YE,Locals,Male,False,French,24.0,18,HS,120,18-24
+210000,fast food,PS,Locals,Male,False,French,24.0,18,HS,340,18-24
+210001,fast food,DZ,Locals,Male,False,French,24.0,18,GRAD,76000,18-24
+210003,fast food,EG,Locals,Male,False,French,24.0,18,GRAD,60000,18-24
+210004,fast food,IQ,Locals,Male,False,French,24.0,18,GRAD,1200,18-24
+210005,fast food,JO,Locals,Male,False,French,24.0,18,GRAD,2100,18-24
+210006,fast food,KW,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+210007,fast food,LB,Locals,Male,False,French,24.0,18,GRAD,5100,18-24
+210008,fast food,LY,Locals,Male,False,French,24.0,18,GRAD,510,18-24
+210009,fast food,MA,Locals,Male,False,French,24.0,18,GRAD,100000,18-24
+210010,fast food,OM,Locals,Male,False,French,24.0,18,GRAD,80,18-24
+210011,fast food,QA,Locals,Male,False,French,24.0,18,GRAD,190,18-24
+210012,fast food,SA,Locals,Male,False,French,24.0,18,GRAD,1200,18-24
+210013,fast food,SO,Locals,Male,False,French,24.0,18,GRAD,0,18-24
+210014,fast food,TN,Locals,Male,False,French,24.0,18,GRAD,45000,18-24
+210015,fast food,AE,Locals,Male,False,French,24.0,18,GRAD,460,18-24
+210016,fast food,YE,Locals,Male,False,French,24.0,18,GRAD,90,18-24
+210017,fast food,PS,Locals,Male,False,French,24.0,18,GRAD,370,18-24
+210069,fast food,DZ,Locals,Female,False,French,24.0,18,ND,56000,18-24
+210071,fast food,EG,Locals,Female,False,French,24.0,18,ND,6800,18-24
+210072,fast food,IQ,Locals,Female,False,French,24.0,18,ND,290,18-24
+210073,fast food,JO,Locals,Female,False,French,24.0,18,ND,540,18-24
+210074,fast food,KW,Locals,Female,False,French,24.0,18,ND,40,18-24
+210075,fast food,LB,Locals,Female,False,French,24.0,18,ND,2300,18-24
+210076,fast food,LY,Locals,Female,False,French,24.0,18,ND,160,18-24
+210077,fast food,MA,Locals,Female,False,French,24.0,18,ND,53000,18-24
+210078,fast food,OM,Locals,Female,False,French,24.0,18,ND,0,18-24
+210079,fast food,QA,Locals,Female,False,French,24.0,18,ND,40,18-24
+210080,fast food,SA,Locals,Female,False,French,24.0,18,ND,1200,18-24
+210081,fast food,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+210082,fast food,TN,Locals,Female,False,French,24.0,18,ND,40000,18-24
+210083,fast food,AE,Locals,Female,False,French,24.0,18,ND,170,18-24
+210084,fast food,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+210085,fast food,PS,Locals,Female,False,French,24.0,18,ND,80,18-24
+210086,fast food,DZ,Locals,Female,False,French,24.0,18,HS,38000,18-24
+210088,fast food,EG,Locals,Female,False,French,24.0,18,HS,55000,18-24
+210089,fast food,IQ,Locals,Female,False,French,24.0,18,HS,1200,18-24
+210090,fast food,JO,Locals,Female,False,French,24.0,18,HS,2400,18-24
+210091,fast food,KW,Locals,Female,False,French,24.0,18,HS,90,18-24
+210092,fast food,LB,Locals,Female,False,French,24.0,18,HS,8200,18-24
+210093,fast food,LY,Locals,Female,False,French,24.0,18,HS,690,18-24
+210094,fast food,MA,Locals,Female,False,French,24.0,18,HS,46000,18-24
+210095,fast food,OM,Locals,Female,False,French,24.0,18,HS,30,18-24
+210096,fast food,QA,Locals,Female,False,French,24.0,18,HS,40,18-24
+210097,fast food,SA,Locals,Female,False,French,24.0,18,HS,850,18-24
+210098,fast food,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+210099,fast food,TN,Locals,Female,False,French,24.0,18,HS,37000,18-24
+210100,fast food,AE,Locals,Female,False,French,24.0,18,HS,230,18-24
+210101,fast food,YE,Locals,Female,False,French,24.0,18,HS,60,18-24
+210102,fast food,PS,Locals,Female,False,French,24.0,18,HS,650,18-24
+210103,fast food,DZ,Locals,Female,False,French,24.0,18,GRAD,76000,18-24
+210105,fast food,EG,Locals,Female,False,French,24.0,18,GRAD,57000,18-24
+210106,fast food,IQ,Locals,Female,False,French,24.0,18,GRAD,830,18-24
+210107,fast food,JO,Locals,Female,False,French,24.0,18,GRAD,1800,18-24
+210108,fast food,KW,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+210109,fast food,LB,Locals,Female,False,French,24.0,18,GRAD,6900,18-24
+210110,fast food,LY,Locals,Female,False,French,24.0,18,GRAD,720,18-24
+210111,fast food,MA,Locals,Female,False,French,24.0,18,GRAD,96000,18-24
+210112,fast food,OM,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+210113,fast food,QA,Locals,Female,False,French,24.0,18,GRAD,160,18-24
+210114,fast food,SA,Locals,Female,False,French,24.0,18,GRAD,910,18-24
+210115,fast food,SO,Locals,Female,False,French,24.0,18,GRAD,0,18-24
+210116,fast food,TN,Locals,Female,False,French,24.0,18,GRAD,68000,18-24
+210117,fast food,AE,Locals,Female,False,French,24.0,18,GRAD,470,18-24
+210118,fast food,YE,Locals,Female,False,French,24.0,18,GRAD,40,18-24
+210119,fast food,PS,Locals,Female,False,French,24.0,18,GRAD,610,18-24
+210273,fast food,DZ,Locals,Male,False,French,44.0,25,ND,67000,25-44
+210275,fast food,EG,Locals,Male,False,French,44.0,25,ND,2800,25-44
+210276,fast food,IQ,Locals,Male,False,French,44.0,25,ND,210,25-44
+210277,fast food,JO,Locals,Male,False,French,44.0,25,ND,260,25-44
+210278,fast food,KW,Locals,Male,False,French,44.0,25,ND,0,25-44
+210279,fast food,LB,Locals,Male,False,French,44.0,25,ND,1900,25-44
+210280,fast food,LY,Locals,Male,False,French,44.0,25,ND,200,25-44
+210281,fast food,MA,Locals,Male,False,French,44.0,25,ND,56000,25-44
+210282,fast food,OM,Locals,Male,False,French,44.0,25,ND,30,25-44
+210283,fast food,QA,Locals,Male,False,French,44.0,25,ND,130,25-44
+210284,fast food,SA,Locals,Male,False,French,44.0,25,ND,2300,25-44
+210285,fast food,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+210286,fast food,TN,Locals,Male,False,French,44.0,25,ND,39000,25-44
+210287,fast food,AE,Locals,Male,False,French,44.0,25,ND,350,25-44
+210288,fast food,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+210289,fast food,PS,Locals,Male,False,French,44.0,25,ND,0,25-44
+210290,fast food,DZ,Locals,Male,False,French,44.0,25,HS,24000,25-44
+210292,fast food,EG,Locals,Male,False,French,44.0,25,HS,5600,25-44
+210293,fast food,IQ,Locals,Male,False,French,44.0,25,HS,340,25-44
+210294,fast food,JO,Locals,Male,False,French,44.0,25,HS,420,25-44
+210295,fast food,KW,Locals,Male,False,French,44.0,25,HS,50,25-44
+210296,fast food,LB,Locals,Male,False,French,44.0,25,HS,2200,25-44
+210297,fast food,LY,Locals,Male,False,French,44.0,25,HS,150,25-44
+210298,fast food,MA,Locals,Male,False,French,44.0,25,HS,24000,25-44
+210299,fast food,OM,Locals,Male,False,French,44.0,25,HS,0,25-44
+210300,fast food,QA,Locals,Male,False,French,44.0,25,HS,130,25-44
+210301,fast food,SA,Locals,Male,False,French,44.0,25,HS,1000,25-44
+210302,fast food,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+210303,fast food,TN,Locals,Male,False,French,44.0,25,HS,20000,25-44
+210304,fast food,AE,Locals,Male,False,French,44.0,25,HS,300,25-44
+210305,fast food,YE,Locals,Male,False,French,44.0,25,HS,0,25-44
+210306,fast food,PS,Locals,Male,False,French,44.0,25,HS,50,25-44
+210307,fast food,DZ,Locals,Male,False,French,44.0,25,GRAD,95000,25-44
+210309,fast food,EG,Locals,Male,False,French,44.0,25,GRAD,40000,25-44
+210310,fast food,IQ,Locals,Male,False,French,44.0,25,GRAD,1500,25-44
+210311,fast food,JO,Locals,Male,False,French,44.0,25,GRAD,2100,25-44
+210312,fast food,KW,Locals,Male,False,French,44.0,25,GRAD,240,25-44
+210313,fast food,LB,Locals,Male,False,French,44.0,25,GRAD,8200,25-44
+210314,fast food,LY,Locals,Male,False,French,44.0,25,GRAD,570,25-44
+210315,fast food,MA,Locals,Male,False,French,44.0,25,GRAD,92000,25-44
+210316,fast food,OM,Locals,Male,False,French,44.0,25,GRAD,240,25-44
+210317,fast food,QA,Locals,Male,False,French,44.0,25,GRAD,410,25-44
+210318,fast food,SA,Locals,Male,False,French,44.0,25,GRAD,4600,25-44
+210319,fast food,SO,Locals,Male,False,French,44.0,25,GRAD,30,25-44
+210320,fast food,TN,Locals,Male,False,French,44.0,25,GRAD,75000,25-44
+210321,fast food,AE,Locals,Male,False,French,44.0,25,GRAD,1400,25-44
+210322,fast food,YE,Locals,Male,False,French,44.0,25,GRAD,90,25-44
+210323,fast food,PS,Locals,Male,False,French,44.0,25,GRAD,450,25-44
+210375,fast food,DZ,Locals,Female,False,French,44.0,25,ND,60000,25-44
+210377,fast food,EG,Locals,Female,False,French,44.0,25,ND,2800,25-44
+210378,fast food,IQ,Locals,Female,False,French,44.0,25,ND,150,25-44
+210379,fast food,JO,Locals,Female,False,French,44.0,25,ND,210,25-44
+210380,fast food,KW,Locals,Female,False,French,44.0,25,ND,0,25-44
+210381,fast food,LB,Locals,Female,False,French,44.0,25,ND,3300,25-44
+210382,fast food,LY,Locals,Female,False,French,44.0,25,ND,120,25-44
+210383,fast food,MA,Locals,Female,False,French,44.0,25,ND,48000,25-44
+210384,fast food,OM,Locals,Female,False,French,44.0,25,ND,0,25-44
+210385,fast food,QA,Locals,Female,False,French,44.0,25,ND,90,25-44
+210386,fast food,SA,Locals,Female,False,French,44.0,25,ND,2100,25-44
+210387,fast food,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+210388,fast food,TN,Locals,Female,False,French,44.0,25,ND,48000,25-44
+210389,fast food,AE,Locals,Female,False,French,44.0,25,ND,410,25-44
+210390,fast food,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+210391,fast food,PS,Locals,Female,False,French,44.0,25,ND,60,25-44
+210392,fast food,DZ,Locals,Female,False,French,44.0,25,HS,17000,25-44
+210394,fast food,EG,Locals,Female,False,French,44.0,25,HS,5000,25-44
+210395,fast food,IQ,Locals,Female,False,French,44.0,25,HS,230,25-44
+210396,fast food,JO,Locals,Female,False,French,44.0,25,HS,270,25-44
+210397,fast food,KW,Locals,Female,False,French,44.0,25,HS,0,25-44
+210398,fast food,LB,Locals,Female,False,French,44.0,25,HS,2600,25-44
+210399,fast food,LY,Locals,Female,False,French,44.0,25,HS,90,25-44
+210400,fast food,MA,Locals,Female,False,French,44.0,25,HS,20000,25-44
+210401,fast food,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+210402,fast food,QA,Locals,Female,False,French,44.0,25,HS,50,25-44
+210403,fast food,SA,Locals,Female,False,French,44.0,25,HS,650,25-44
+210404,fast food,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+210405,fast food,TN,Locals,Female,False,French,44.0,25,HS,23000,25-44
+210406,fast food,AE,Locals,Female,False,French,44.0,25,HS,230,25-44
+210407,fast food,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+210408,fast food,PS,Locals,Female,False,French,44.0,25,HS,90,25-44
+210409,fast food,DZ,Locals,Female,False,French,44.0,25,GRAD,81000,25-44
+210411,fast food,EG,Locals,Female,False,French,44.0,25,GRAD,38000,25-44
+210412,fast food,IQ,Locals,Female,False,French,44.0,25,GRAD,1000,25-44
+210413,fast food,JO,Locals,Female,False,French,44.0,25,GRAD,2000,25-44
+210414,fast food,KW,Locals,Female,False,French,44.0,25,GRAD,180,25-44
+210415,fast food,LB,Locals,Female,False,French,44.0,25,GRAD,12000,25-44
+210416,fast food,LY,Locals,Female,False,French,44.0,25,GRAD,440,25-44
+210417,fast food,MA,Locals,Female,False,French,44.0,25,GRAD,74000,25-44
+210418,fast food,OM,Locals,Female,False,French,44.0,25,GRAD,100,25-44
+210419,fast food,QA,Locals,Female,False,French,44.0,25,GRAD,450,25-44
+210420,fast food,SA,Locals,Female,False,French,44.0,25,GRAD,2500,25-44
+210421,fast food,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+210422,fast food,TN,Locals,Female,False,French,44.0,25,GRAD,100000,25-44
+210423,fast food,AE,Locals,Female,False,French,44.0,25,GRAD,970,25-44
+210424,fast food,YE,Locals,Female,False,French,44.0,25,GRAD,90,25-44
+210425,fast food,PS,Locals,Female,False,French,44.0,25,GRAD,530,25-44
+210579,fast food,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,9000,45+
+210581,fast food,EG,Locals,Male,False,French,NOTSELECTED,45,ND,380,45+
+210582,fast food,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210583,fast food,JO,Locals,Male,False,French,NOTSELECTED,45,ND,60,45+
+210584,fast food,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210585,fast food,LB,Locals,Male,False,French,NOTSELECTED,45,ND,870,45+
+210586,fast food,LY,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210587,fast food,MA,Locals,Male,False,French,NOTSELECTED,45,ND,12000,45+
+210588,fast food,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210589,fast food,QA,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210590,fast food,SA,Locals,Male,False,French,NOTSELECTED,45,ND,390,45+
+210591,fast food,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210592,fast food,TN,Locals,Male,False,French,NOTSELECTED,45,ND,9400,45+
+210593,fast food,AE,Locals,Male,False,French,NOTSELECTED,45,ND,50,45+
+210594,fast food,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210595,fast food,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+210596,fast food,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,2900,45+
+210598,fast food,EG,Locals,Male,False,French,NOTSELECTED,45,HS,360,45+
+210599,fast food,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210600,fast food,JO,Locals,Male,False,French,NOTSELECTED,45,HS,40,45+
+210601,fast food,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210602,fast food,LB,Locals,Male,False,French,NOTSELECTED,45,HS,360,45+
+210603,fast food,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210604,fast food,MA,Locals,Male,False,French,NOTSELECTED,45,HS,3400,45+
+210605,fast food,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210606,fast food,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210607,fast food,SA,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+210608,fast food,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210609,fast food,TN,Locals,Male,False,French,NOTSELECTED,45,HS,4900,45+
+210610,fast food,AE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210611,fast food,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210612,fast food,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+210613,fast food,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,8800,45+
+210615,fast food,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,2100,45+
+210616,fast food,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+210617,fast food,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,150,45+
+210618,fast food,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210619,fast food,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,1900,45+
+210620,fast food,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+210621,fast food,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,11000,45+
+210622,fast food,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+210623,fast food,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+210624,fast food,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,400,45+
+210625,fast food,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210626,fast food,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,12000,45+
+210627,fast food,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+210628,fast food,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210629,fast food,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210681,fast food,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,9100,45+
+210683,fast food,EG,Locals,Female,False,French,NOTSELECTED,45,ND,810,45+
+210684,fast food,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210685,fast food,JO,Locals,Female,False,French,NOTSELECTED,45,ND,40,45+
+210686,fast food,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210687,fast food,LB,Locals,Female,False,French,NOTSELECTED,45,ND,2500,45+
+210688,fast food,LY,Locals,Female,False,French,NOTSELECTED,45,ND,50,45+
+210689,fast food,MA,Locals,Female,False,French,NOTSELECTED,45,ND,9700,45+
+210690,fast food,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210691,fast food,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210692,fast food,SA,Locals,Female,False,French,NOTSELECTED,45,ND,320,45+
+210693,fast food,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210694,fast food,TN,Locals,Female,False,French,NOTSELECTED,45,ND,10000,45+
+210695,fast food,AE,Locals,Female,False,French,NOTSELECTED,45,ND,60,45+
+210696,fast food,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210697,fast food,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+210698,fast food,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,2700,45+
+210700,fast food,EG,Locals,Female,False,French,NOTSELECTED,45,HS,650,45+
+210701,fast food,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210702,fast food,JO,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+210703,fast food,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210704,fast food,LB,Locals,Female,False,French,NOTSELECTED,45,HS,940,45+
+210705,fast food,LY,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210706,fast food,MA,Locals,Female,False,French,NOTSELECTED,45,HS,3100,45+
+210707,fast food,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210708,fast food,QA,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210709,fast food,SA,Locals,Female,False,French,NOTSELECTED,45,HS,90,45+
+210710,fast food,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210711,fast food,TN,Locals,Female,False,French,NOTSELECTED,45,HS,5100,45+
+210712,fast food,AE,Locals,Female,False,French,NOTSELECTED,45,HS,40,45+
+210713,fast food,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210714,fast food,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+210715,fast food,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,6900,45+
+210717,fast food,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,3600,45+
+210718,fast food,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+210719,fast food,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,200,45+
+210720,fast food,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210721,fast food,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,3000,45+
+210722,fast food,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210723,fast food,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,7500,45+
+210724,fast food,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210725,fast food,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210726,fast food,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+210727,fast food,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210728,fast food,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,10000,45+
+210729,fast food,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+210730,fast food,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210731,fast food,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
 22848,obesity,DZ,Expats,Male,False,Arabic,24.0,18,ND,60000,18-24
 22850,obesity,EG,Expats,Male,False,Arabic,24.0,18,ND,100000,18-24
 22851,obesity,IQ,Expats,Male,False,Arabic,24.0,18,ND,125000,18-24
@@ -5759,3 +6335,579 @@
 97390,fast food,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,10500,45+
 97391,fast food,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 97392,fast food,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+203490,obesity,DZ,Expats,Male,False,French,24.0,18,ND,31500,18-24
+203492,obesity,EG,Expats,Male,False,French,24.0,18,ND,1900,18-24
+203493,obesity,IQ,Expats,Male,False,French,24.0,18,ND,340,18-24
+203494,obesity,JO,Expats,Male,False,French,24.0,18,ND,145,18-24
+203495,obesity,KW,Expats,Male,False,French,24.0,18,ND,40,18-24
+203496,obesity,LB,Expats,Male,False,French,24.0,18,ND,600,18-24
+203497,obesity,LY,Expats,Male,False,French,24.0,18,ND,600,18-24
+203498,obesity,MA,Expats,Male,False,French,24.0,18,ND,30500,18-24
+203499,obesity,OM,Expats,Male,False,French,24.0,18,ND,25,18-24
+203500,obesity,QA,Expats,Male,False,French,24.0,18,ND,115,18-24
+203501,obesity,SA,Expats,Male,False,French,24.0,18,ND,180,18-24
+203502,obesity,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+203503,obesity,TN,Expats,Male,False,French,24.0,18,ND,15500,18-24
+203504,obesity,AE,Expats,Male,False,French,24.0,18,ND,365,18-24
+203505,obesity,YE,Expats,Male,False,French,24.0,18,ND,0,18-24
+203506,obesity,PS,Expats,Male,False,French,24.0,18,ND,30,18-24
+203507,obesity,DZ,Expats,Male,False,French,24.0,18,HS,18500,18-24
+203509,obesity,EG,Expats,Male,False,French,24.0,18,HS,15000,18-24
+203510,obesity,IQ,Expats,Male,False,French,24.0,18,HS,950,18-24
+203511,obesity,JO,Expats,Male,False,French,24.0,18,HS,600,18-24
+203512,obesity,KW,Expats,Male,False,French,24.0,18,HS,40,18-24
+203513,obesity,LB,Expats,Male,False,French,24.0,18,HS,1400,18-24
+203514,obesity,LY,Expats,Male,False,French,24.0,18,HS,260,18-24
+203515,obesity,MA,Expats,Male,False,French,24.0,18,HS,22500,18-24
+203516,obesity,OM,Expats,Male,False,French,24.0,18,HS,45,18-24
+203517,obesity,QA,Expats,Male,False,French,24.0,18,HS,115,18-24
+203518,obesity,SA,Expats,Male,False,French,24.0,18,HS,280,18-24
+203519,obesity,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+203520,obesity,TN,Expats,Male,False,French,24.0,18,HS,13500,18-24
+203521,obesity,AE,Expats,Male,False,French,24.0,18,HS,600,18-24
+203522,obesity,YE,Expats,Male,False,French,24.0,18,HS,45,18-24
+203523,obesity,PS,Expats,Male,False,French,24.0,18,HS,90,18-24
+203524,obesity,DZ,Expats,Male,False,French,24.0,18,GRAD,43500,18-24
+203526,obesity,EG,Expats,Male,False,French,24.0,18,GRAD,17000,18-24
+203527,obesity,IQ,Expats,Male,False,French,24.0,18,GRAD,800,18-24
+203528,obesity,JO,Expats,Male,False,French,24.0,18,GRAD,700,18-24
+203529,obesity,KW,Expats,Male,False,French,24.0,18,GRAD,100,18-24
+203530,obesity,LB,Expats,Male,False,French,24.0,18,GRAD,1350,18-24
+203531,obesity,LY,Expats,Male,False,French,24.0,18,GRAD,380,18-24
+203532,obesity,MA,Expats,Male,False,French,24.0,18,GRAD,55000,18-24
+203533,obesity,OM,Expats,Male,False,French,24.0,18,GRAD,40,18-24
+203534,obesity,QA,Expats,Male,False,French,24.0,18,GRAD,325,18-24
+203535,obesity,SA,Expats,Male,False,French,24.0,18,GRAD,550,18-24
+203536,obesity,SO,Expats,Male,False,French,24.0,18,GRAD,35,18-24
+203537,obesity,TN,Expats,Male,False,French,24.0,18,GRAD,28500,18-24
+203538,obesity,AE,Expats,Male,False,French,24.0,18,GRAD,1100,18-24
+203539,obesity,YE,Expats,Male,False,French,24.0,18,GRAD,55,18-24
+203540,obesity,PS,Expats,Male,False,French,24.0,18,GRAD,100,18-24
+203592,obesity,DZ,Expats,Female,False,French,24.0,18,ND,31500,18-24
+203594,obesity,EG,Expats,Female,False,French,24.0,18,ND,2450,18-24
+203595,obesity,IQ,Expats,Female,False,French,24.0,18,ND,165,18-24
+203596,obesity,JO,Expats,Female,False,French,24.0,18,ND,220,18-24
+203597,obesity,KW,Expats,Female,False,French,24.0,18,ND,50,18-24
+203598,obesity,LB,Expats,Female,False,French,24.0,18,ND,900,18-24
+203599,obesity,LY,Expats,Female,False,French,24.0,18,ND,210,18-24
+203600,obesity,MA,Expats,Female,False,French,24.0,18,ND,34000,18-24
+203601,obesity,OM,Expats,Female,False,French,24.0,18,ND,0,18-24
+203602,obesity,QA,Expats,Female,False,French,24.0,18,ND,55,18-24
+203603,obesity,SA,Expats,Female,False,French,24.0,18,ND,320,18-24
+203604,obesity,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+203605,obesity,TN,Expats,Female,False,French,24.0,18,ND,19500,18-24
+203606,obesity,AE,Expats,Female,False,French,24.0,18,ND,375,18-24
+203607,obesity,YE,Expats,Female,False,French,24.0,18,ND,0,18-24
+203608,obesity,PS,Expats,Female,False,French,24.0,18,ND,40,18-24
+203609,obesity,DZ,Expats,Female,False,French,24.0,18,HS,18000,18-24
+203611,obesity,EG,Expats,Female,False,French,24.0,18,HS,20000,18-24
+203612,obesity,IQ,Expats,Female,False,French,24.0,18,HS,550,18-24
+203613,obesity,JO,Expats,Female,False,French,24.0,18,HS,1100,18-24
+203614,obesity,KW,Expats,Female,False,French,24.0,18,HS,85,18-24
+203615,obesity,LB,Expats,Female,False,French,24.0,18,HS,3350,18-24
+203616,obesity,LY,Expats,Female,False,French,24.0,18,HS,335,18-24
+203617,obesity,MA,Expats,Female,False,French,24.0,18,HS,22500,18-24
+203618,obesity,OM,Expats,Female,False,French,24.0,18,HS,45,18-24
+203619,obesity,QA,Expats,Female,False,French,24.0,18,HS,130,18-24
+203620,obesity,SA,Expats,Female,False,French,24.0,18,HS,370,18-24
+203621,obesity,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+203622,obesity,TN,Expats,Female,False,French,24.0,18,HS,17500,18-24
+203623,obesity,AE,Expats,Female,False,French,24.0,18,HS,750,18-24
+203624,obesity,YE,Expats,Female,False,French,24.0,18,HS,20,18-24
+203625,obesity,PS,Expats,Female,False,French,24.0,18,HS,205,18-24
+203626,obesity,DZ,Expats,Female,False,French,24.0,18,GRAD,37000,18-24
+203628,obesity,EG,Expats,Female,False,French,24.0,18,GRAD,21000,18-24
+203629,obesity,IQ,Expats,Female,False,French,24.0,18,GRAD,450,18-24
+203630,obesity,JO,Expats,Female,False,French,24.0,18,GRAD,800,18-24
+203631,obesity,KW,Expats,Female,False,French,24.0,18,GRAD,85,18-24
+203632,obesity,LB,Expats,Female,False,French,24.0,18,GRAD,3000,18-24
+203633,obesity,LY,Expats,Female,False,French,24.0,18,GRAD,425,18-24
+203634,obesity,MA,Expats,Female,False,French,24.0,18,GRAD,47000,18-24
+203635,obesity,OM,Expats,Female,False,French,24.0,18,GRAD,30,18-24
+203636,obesity,QA,Expats,Female,False,French,24.0,18,GRAD,235,18-24
+203637,obesity,SA,Expats,Female,False,French,24.0,18,GRAD,480,18-24
+203638,obesity,SO,Expats,Female,False,French,24.0,18,GRAD,25,18-24
+203639,obesity,TN,Expats,Female,False,French,24.0,18,GRAD,33500,18-24
+203640,obesity,AE,Expats,Female,False,French,24.0,18,GRAD,1250,18-24
+203641,obesity,YE,Expats,Female,False,French,24.0,18,GRAD,15,18-24
+203642,obesity,PS,Expats,Female,False,French,24.0,18,GRAD,250,18-24
+203796,obesity,DZ,Expats,Male,False,French,44.0,25,ND,44500,25-44
+203798,obesity,EG,Expats,Male,False,French,44.0,25,ND,850,25-44
+203799,obesity,IQ,Expats,Male,False,French,44.0,25,ND,255,25-44
+203800,obesity,JO,Expats,Male,False,French,44.0,25,ND,75,25-44
+203801,obesity,KW,Expats,Male,False,French,44.0,25,ND,65,25-44
+203802,obesity,LB,Expats,Male,False,French,44.0,25,ND,650,25-44
+203803,obesity,LY,Expats,Male,False,French,44.0,25,ND,950,25-44
+203804,obesity,MA,Expats,Male,False,French,44.0,25,ND,33500,25-44
+203805,obesity,OM,Expats,Male,False,French,44.0,25,ND,30,25-44
+203806,obesity,QA,Expats,Male,False,French,44.0,25,ND,360,25-44
+203807,obesity,SA,Expats,Male,False,French,44.0,25,ND,445,25-44
+203808,obesity,SO,Expats,Male,False,French,44.0,25,ND,15,25-44
+203809,obesity,TN,Expats,Male,False,French,44.0,25,ND,20000,25-44
+203810,obesity,AE,Expats,Male,False,French,44.0,25,ND,1050,25-44
+203811,obesity,YE,Expats,Male,False,French,44.0,25,ND,15,25-44
+203812,obesity,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+203813,obesity,DZ,Expats,Male,False,French,44.0,25,HS,13500,25-44
+203815,obesity,EG,Expats,Male,False,French,44.0,25,HS,1850,25-44
+203816,obesity,IQ,Expats,Male,False,French,44.0,25,HS,240,25-44
+203817,obesity,JO,Expats,Male,False,French,44.0,25,HS,180,25-44
+203818,obesity,KW,Expats,Male,False,French,44.0,25,HS,45,25-44
+203819,obesity,LB,Expats,Male,False,French,44.0,25,HS,550,25-44
+203820,obesity,LY,Expats,Male,False,French,44.0,25,HS,250,25-44
+203821,obesity,MA,Expats,Male,False,French,44.0,25,HS,11500,25-44
+203822,obesity,OM,Expats,Male,False,French,44.0,25,HS,30,25-44
+203823,obesity,QA,Expats,Male,False,French,44.0,25,HS,220,25-44
+203824,obesity,SA,Expats,Male,False,French,44.0,25,HS,370,25-44
+203825,obesity,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+203826,obesity,TN,Expats,Male,False,French,44.0,25,HS,10000,25-44
+203827,obesity,AE,Expats,Male,False,French,44.0,25,HS,900,25-44
+203828,obesity,YE,Expats,Male,False,French,44.0,25,HS,0,25-44
+203829,obesity,PS,Expats,Male,False,French,44.0,25,HS,15,25-44
+203830,obesity,DZ,Expats,Male,False,French,44.0,25,GRAD,55000,25-44
+203832,obesity,EG,Expats,Male,False,French,44.0,25,GRAD,12500,25-44
+203833,obesity,IQ,Expats,Male,False,French,44.0,25,GRAD,950,25-44
+203834,obesity,JO,Expats,Male,False,French,44.0,25,GRAD,750,25-44
+203835,obesity,KW,Expats,Male,False,French,44.0,25,GRAD,370,25-44
+203836,obesity,LB,Expats,Male,False,French,44.0,25,GRAD,2500,25-44
+203837,obesity,LY,Expats,Male,False,French,44.0,25,GRAD,850,25-44
+203838,obesity,MA,Expats,Male,False,French,44.0,25,GRAD,47000,25-44
+203839,obesity,OM,Expats,Male,False,French,44.0,25,GRAD,275,25-44
+203840,obesity,QA,Expats,Male,False,French,44.0,25,GRAD,1400,25-44
+203841,obesity,SA,Expats,Male,False,French,44.0,25,GRAD,2350,25-44
+203842,obesity,SO,Expats,Male,False,French,44.0,25,GRAD,45,25-44
+203843,obesity,TN,Expats,Male,False,French,44.0,25,GRAD,35000,25-44
+203844,obesity,AE,Expats,Male,False,French,44.0,25,GRAD,5500,25-44
+203845,obesity,YE,Expats,Male,False,French,44.0,25,GRAD,85,25-44
+203846,obesity,PS,Expats,Male,False,French,44.0,25,GRAD,125,25-44
+203898,obesity,DZ,Expats,Female,False,French,44.0,25,ND,34000,25-44
+203900,obesity,EG,Expats,Female,False,French,44.0,25,ND,1250,25-44
+203901,obesity,IQ,Expats,Female,False,French,44.0,25,ND,105,25-44
+203902,obesity,JO,Expats,Female,False,French,44.0,25,ND,135,25-44
+203903,obesity,KW,Expats,Female,False,French,44.0,25,ND,145,25-44
+203904,obesity,LB,Expats,Female,False,French,44.0,25,ND,2100,25-44
+203905,obesity,LY,Expats,Female,False,French,44.0,25,ND,225,25-44
+203906,obesity,MA,Expats,Female,False,French,44.0,25,ND,33500,25-44
+203907,obesity,OM,Expats,Female,False,French,44.0,25,ND,70,25-44
+203908,obesity,QA,Expats,Female,False,French,44.0,25,ND,245,25-44
+203909,obesity,SA,Expats,Female,False,French,44.0,25,ND,550,25-44
+203910,obesity,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+203911,obesity,TN,Expats,Female,False,French,44.0,25,ND,29000,25-44
+203912,obesity,AE,Expats,Female,False,French,44.0,25,ND,1400,25-44
+203913,obesity,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+203914,obesity,PS,Expats,Female,False,French,44.0,25,ND,20,25-44
+203915,obesity,DZ,Expats,Female,False,French,44.0,25,HS,9000,25-44
+203917,obesity,EG,Expats,Female,False,French,44.0,25,HS,2050,25-44
+203918,obesity,IQ,Expats,Female,False,French,44.0,25,HS,135,25-44
+203919,obesity,JO,Expats,Female,False,French,44.0,25,HS,180,25-44
+203920,obesity,KW,Expats,Female,False,French,44.0,25,HS,120,25-44
+203921,obesity,LB,Expats,Female,False,French,44.0,25,HS,1450,25-44
+203922,obesity,LY,Expats,Female,False,French,44.0,25,HS,90,25-44
+203923,obesity,MA,Expats,Female,False,French,44.0,25,HS,11500,25-44
+203924,obesity,OM,Expats,Female,False,French,44.0,25,HS,20,25-44
+203925,obesity,QA,Expats,Female,False,French,44.0,25,HS,145,25-44
+203926,obesity,SA,Expats,Female,False,French,44.0,25,HS,360,25-44
+203927,obesity,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+203928,obesity,TN,Expats,Female,False,French,44.0,25,HS,13500,25-44
+203929,obesity,AE,Expats,Female,False,French,44.0,25,HS,950,25-44
+203930,obesity,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+203931,obesity,PS,Expats,Female,False,French,44.0,25,HS,35,25-44
+203932,obesity,DZ,Expats,Female,False,French,44.0,25,GRAD,40500,25-44
+203934,obesity,EG,Expats,Female,False,French,44.0,25,GRAD,16500,25-44
+203935,obesity,IQ,Expats,Female,False,French,44.0,25,GRAD,600,25-44
+203936,obesity,JO,Expats,Female,False,French,44.0,25,GRAD,1300,25-44
+203937,obesity,KW,Expats,Female,False,French,44.0,25,GRAD,490,25-44
+203938,obesity,LB,Expats,Female,False,French,44.0,25,GRAD,7000,25-44
+203939,obesity,LY,Expats,Female,False,French,44.0,25,GRAD,360,25-44
+203940,obesity,MA,Expats,Female,False,French,44.0,25,GRAD,43000,25-44
+203941,obesity,OM,Expats,Female,False,French,44.0,25,GRAD,255,25-44
+203942,obesity,QA,Expats,Female,False,French,44.0,25,GRAD,1200,25-44
+203943,obesity,SA,Expats,Female,False,French,44.0,25,GRAD,1800,25-44
+203944,obesity,SO,Expats,Female,False,French,44.0,25,GRAD,20,25-44
+203945,obesity,TN,Expats,Female,False,French,44.0,25,GRAD,55000,25-44
+203946,obesity,AE,Expats,Female,False,French,44.0,25,GRAD,5500,25-44
+203947,obesity,YE,Expats,Female,False,French,44.0,25,GRAD,30,25-44
+203948,obesity,PS,Expats,Female,False,French,44.0,25,GRAD,245,25-44
+204102,obesity,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,7000,45+
+204104,obesity,EG,Expats,Male,False,French,NOTSELECTED,45,ND,110,45+
+204105,obesity,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+204106,obesity,JO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204107,obesity,KW,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204108,obesity,LB,Expats,Male,False,French,NOTSELECTED,45,ND,335,45+
+204109,obesity,LY,Expats,Male,False,French,NOTSELECTED,45,ND,55,45+
+204110,obesity,MA,Expats,Male,False,French,NOTSELECTED,45,ND,6500,45+
+204111,obesity,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204112,obesity,QA,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204113,obesity,SA,Expats,Male,False,French,NOTSELECTED,45,ND,105,45+
+204114,obesity,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204115,obesity,TN,Expats,Male,False,French,NOTSELECTED,45,ND,4100,45+
+204116,obesity,AE,Expats,Male,False,French,NOTSELECTED,45,ND,165,45+
+204117,obesity,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204118,obesity,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+204119,obesity,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,2050,45+
+204121,obesity,EG,Expats,Male,False,French,NOTSELECTED,45,HS,130,45+
+204122,obesity,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204123,obesity,JO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204124,obesity,KW,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204125,obesity,LB,Expats,Male,False,French,NOTSELECTED,45,HS,190,45+
+204126,obesity,LY,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+204127,obesity,MA,Expats,Male,False,French,NOTSELECTED,45,HS,2100,45+
+204128,obesity,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204129,obesity,QA,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204130,obesity,SA,Expats,Male,False,French,NOTSELECTED,45,HS,25,45+
+204131,obesity,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204132,obesity,TN,Expats,Male,False,French,NOTSELECTED,45,HS,2250,45+
+204133,obesity,AE,Expats,Male,False,French,NOTSELECTED,45,HS,100,45+
+204134,obesity,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204135,obesity,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+204136,obesity,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,6000,45+
+204138,obesity,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,850,45+
+204139,obesity,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+204140,obesity,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+204141,obesity,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,25,45+
+204142,obesity,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,800,45+
+204143,obesity,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+204144,obesity,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,6000,45+
+204145,obesity,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+204146,obesity,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+204147,obesity,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,220,45+
+204148,obesity,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204149,obesity,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,6000,45+
+204150,obesity,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,550,45+
+204151,obesity,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204152,obesity,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+204204,obesity,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,6000,45+
+204206,obesity,EG,Expats,Female,False,French,NOTSELECTED,45,ND,415,45+
+204207,obesity,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,15,45+
+204208,obesity,JO,Expats,Female,False,French,NOTSELECTED,45,ND,45,45+
+204209,obesity,KW,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+204210,obesity,LB,Expats,Female,False,French,NOTSELECTED,45,ND,1900,45+
+204211,obesity,LY,Expats,Female,False,French,NOTSELECTED,45,ND,35,45+
+204212,obesity,MA,Expats,Female,False,French,NOTSELECTED,45,ND,8000,45+
+204213,obesity,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+204214,obesity,QA,Expats,Female,False,French,NOTSELECTED,45,ND,50,45+
+204215,obesity,SA,Expats,Female,False,French,NOTSELECTED,45,ND,105,45+
+204216,obesity,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+204217,obesity,TN,Expats,Female,False,French,NOTSELECTED,45,ND,6500,45+
+204218,obesity,AE,Expats,Female,False,French,NOTSELECTED,45,ND,315,45+
+204219,obesity,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+204220,obesity,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+204221,obesity,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,1600,45+
+204223,obesity,EG,Expats,Female,False,French,NOTSELECTED,45,HS,350,45+
+204224,obesity,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204225,obesity,JO,Expats,Female,False,French,NOTSELECTED,45,HS,60,45+
+204226,obesity,KW,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204227,obesity,LB,Expats,Female,False,French,NOTSELECTED,45,HS,650,45+
+204228,obesity,LY,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+204229,obesity,MA,Expats,Female,False,French,NOTSELECTED,45,HS,2300,45+
+204230,obesity,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204231,obesity,QA,Expats,Female,False,French,NOTSELECTED,45,HS,40,45+
+204232,obesity,SA,Expats,Female,False,French,NOTSELECTED,45,HS,45,45+
+204233,obesity,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204234,obesity,TN,Expats,Female,False,French,NOTSELECTED,45,HS,3200,45+
+204235,obesity,AE,Expats,Female,False,French,NOTSELECTED,45,HS,100,45+
+204236,obesity,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204237,obesity,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+204238,obesity,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,4100,45+
+204240,obesity,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,1900,45+
+204241,obesity,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,65,45+
+204242,obesity,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,160,45+
+204243,obesity,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+204244,obesity,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,2150,45+
+204245,obesity,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,65,45+
+204246,obesity,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,5500,45+
+204247,obesity,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,25,45+
+204248,obesity,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,80,45+
+204249,obesity,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,180,45+
+204250,obesity,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204251,obesity,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,6000,45+
+204252,obesity,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,500,45+
+204253,obesity,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+204254,obesity,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+209916,fast food,DZ,Expats,Male,False,French,24.0,18,ND,28000,18-24
+209918,fast food,EG,Expats,Male,False,French,24.0,18,ND,3450,18-24
+209919,fast food,IQ,Expats,Male,False,French,24.0,18,ND,250,18-24
+209920,fast food,JO,Expats,Male,False,French,24.0,18,ND,380,18-24
+209921,fast food,KW,Expats,Male,False,French,24.0,18,ND,80,18-24
+209922,fast food,LB,Expats,Male,False,French,24.0,18,ND,1000,18-24
+209923,fast food,LY,Expats,Male,False,French,24.0,18,ND,225,18-24
+209924,fast food,MA,Expats,Male,False,French,24.0,18,ND,25500,18-24
+209925,fast food,OM,Expats,Male,False,French,24.0,18,ND,40,18-24
+209926,fast food,QA,Expats,Male,False,French,24.0,18,ND,205,18-24
+209927,fast food,SA,Expats,Male,False,French,24.0,18,ND,700,18-24
+209928,fast food,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+209929,fast food,TN,Expats,Male,False,French,24.0,18,ND,14000,18-24
+209930,fast food,AE,Expats,Male,False,French,24.0,18,ND,600,18-24
+209931,fast food,YE,Expats,Male,False,French,24.0,18,ND,15,18-24
+209932,fast food,PS,Expats,Male,False,French,24.0,18,ND,40,18-24
+209933,fast food,DZ,Expats,Male,False,French,24.0,18,HS,21500,18-24
+209935,fast food,EG,Expats,Male,False,French,24.0,18,HS,26500,18-24
+209936,fast food,IQ,Expats,Male,False,French,24.0,18,HS,1000,18-24
+209937,fast food,JO,Expats,Male,False,French,24.0,18,HS,1500,18-24
+209938,fast food,KW,Expats,Male,False,French,24.0,18,HS,135,18-24
+209939,fast food,LB,Expats,Male,False,French,24.0,18,HS,2900,18-24
+209940,fast food,LY,Expats,Male,False,French,24.0,18,HS,270,18-24
+209941,fast food,MA,Expats,Male,False,French,24.0,18,HS,24500,18-24
+209942,fast food,OM,Expats,Male,False,French,24.0,18,HS,80,18-24
+209943,fast food,QA,Expats,Male,False,French,24.0,18,HS,250,18-24
+209944,fast food,SA,Expats,Male,False,French,24.0,18,HS,1050,18-24
+209945,fast food,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+209946,fast food,TN,Expats,Male,False,French,24.0,18,HS,12500,18-24
+209947,fast food,AE,Expats,Male,False,French,24.0,18,HS,1150,18-24
+209948,fast food,YE,Expats,Male,False,French,24.0,18,HS,90,18-24
+209949,fast food,PS,Expats,Male,False,French,24.0,18,HS,225,18-24
+209950,fast food,DZ,Expats,Male,False,French,24.0,18,GRAD,49000,18-24
+209952,fast food,EG,Expats,Male,False,French,24.0,18,GRAD,31500,18-24
+209953,fast food,IQ,Expats,Male,False,French,24.0,18,GRAD,650,18-24
+209954,fast food,JO,Expats,Male,False,French,24.0,18,GRAD,1500,18-24
+209955,fast food,KW,Expats,Male,False,French,24.0,18,GRAD,235,18-24
+209956,fast food,LB,Expats,Male,False,French,24.0,18,GRAD,3000,18-24
+209957,fast food,LY,Expats,Male,False,French,24.0,18,GRAD,360,18-24
+209958,fast food,MA,Expats,Male,False,French,24.0,18,GRAD,60000,18-24
+209959,fast food,OM,Expats,Male,False,French,24.0,18,GRAD,150,18-24
+209960,fast food,QA,Expats,Male,False,French,24.0,18,GRAD,450,18-24
+209961,fast food,SA,Expats,Male,False,French,24.0,18,GRAD,1800,18-24
+209962,fast food,SO,Expats,Male,False,French,24.0,18,GRAD,20,18-24
+209963,fast food,TN,Expats,Male,False,French,24.0,18,GRAD,26500,18-24
+209964,fast food,AE,Expats,Male,False,French,24.0,18,GRAD,1900,18-24
+209965,fast food,YE,Expats,Male,False,French,24.0,18,GRAD,65,18-24
+209966,fast food,PS,Expats,Male,False,French,24.0,18,GRAD,280,18-24
+210018,fast food,DZ,Expats,Female,False,French,24.0,18,ND,29500,18-24
+210020,fast food,EG,Expats,Female,False,French,24.0,18,ND,3650,18-24
+210021,fast food,IQ,Expats,Female,False,French,24.0,18,ND,190,18-24
+210022,fast food,JO,Expats,Female,False,French,24.0,18,ND,425,18-24
+210023,fast food,KW,Expats,Female,False,French,24.0,18,ND,150,18-24
+210024,fast food,LB,Expats,Female,False,French,24.0,18,ND,1350,18-24
+210025,fast food,LY,Expats,Female,False,French,24.0,18,ND,100,18-24
+210026,fast food,MA,Expats,Female,False,French,24.0,18,ND,28000,18-24
+210027,fast food,OM,Expats,Female,False,French,24.0,18,ND,20,18-24
+210028,fast food,QA,Expats,Female,False,French,24.0,18,ND,105,18-24
+210029,fast food,SA,Expats,Female,False,French,24.0,18,ND,900,18-24
+210030,fast food,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+210031,fast food,TN,Expats,Female,False,French,24.0,18,ND,21000,18-24
+210032,fast food,AE,Expats,Female,False,French,24.0,18,ND,550,18-24
+210033,fast food,YE,Expats,Female,False,French,24.0,18,ND,15,18-24
+210034,fast food,PS,Expats,Female,False,French,24.0,18,ND,45,18-24
+210035,fast food,DZ,Expats,Female,False,French,24.0,18,HS,21000,18-24
+210037,fast food,EG,Expats,Female,False,French,24.0,18,HS,28500,18-24
+210038,fast food,IQ,Expats,Female,False,French,24.0,18,HS,650,18-24
+210039,fast food,JO,Expats,Female,False,French,24.0,18,HS,1750,18-24
+210040,fast food,KW,Expats,Female,False,French,24.0,18,HS,210,18-24
+210041,fast food,LB,Expats,Female,False,French,24.0,18,HS,4600,18-24
+210042,fast food,LY,Expats,Female,False,French,24.0,18,HS,380,18-24
+210043,fast food,MA,Expats,Female,False,French,24.0,18,HS,25000,18-24
+210044,fast food,OM,Expats,Female,False,French,24.0,18,HS,85,18-24
+210045,fast food,QA,Expats,Female,False,French,24.0,18,HS,180,18-24
+210046,fast food,SA,Expats,Female,False,French,24.0,18,HS,1050,18-24
+210047,fast food,SO,Expats,Female,False,French,24.0,18,HS,15,18-24
+210048,fast food,TN,Expats,Female,False,French,24.0,18,HS,20000,18-24
+210049,fast food,AE,Expats,Female,False,French,24.0,18,HS,1200,18-24
+210050,fast food,YE,Expats,Female,False,French,24.0,18,HS,40,18-24
+210051,fast food,PS,Expats,Female,False,French,24.0,18,HS,430,18-24
+210052,fast food,DZ,Expats,Female,False,French,24.0,18,GRAD,42500,18-24
+210054,fast food,EG,Expats,Female,False,French,24.0,18,GRAD,29500,18-24
+210055,fast food,IQ,Expats,Female,False,French,24.0,18,GRAD,460,18-24
+210056,fast food,JO,Expats,Female,False,French,24.0,18,GRAD,1400,18-24
+210057,fast food,KW,Expats,Female,False,French,24.0,18,GRAD,200,18-24
+210058,fast food,LB,Expats,Female,False,French,24.0,18,GRAD,3900,18-24
+210059,fast food,LY,Expats,Female,False,French,24.0,18,GRAD,410,18-24
+210060,fast food,MA,Expats,Female,False,French,24.0,18,GRAD,50000,18-24
+210061,fast food,OM,Expats,Female,False,French,24.0,18,GRAD,40,18-24
+210062,fast food,QA,Expats,Female,False,French,24.0,18,GRAD,385,18-24
+210063,fast food,SA,Expats,Female,False,French,24.0,18,GRAD,1150,18-24
+210064,fast food,SO,Expats,Female,False,French,24.0,18,GRAD,0,18-24
+210065,fast food,TN,Expats,Female,False,French,24.0,18,GRAD,37000,18-24
+210066,fast food,AE,Expats,Female,False,French,24.0,18,GRAD,1650,18-24
+210067,fast food,YE,Expats,Female,False,French,24.0,18,GRAD,30,18-24
+210068,fast food,PS,Expats,Female,False,French,24.0,18,GRAD,405,18-24
+210222,fast food,DZ,Expats,Male,False,French,44.0,25,ND,37000,25-44
+210224,fast food,EG,Expats,Male,False,French,44.0,25,ND,1550,25-44
+210225,fast food,IQ,Expats,Male,False,French,44.0,25,ND,145,25-44
+210226,fast food,JO,Expats,Male,False,French,44.0,25,ND,190,25-44
+210227,fast food,KW,Expats,Male,False,French,44.0,25,ND,155,25-44
+210228,fast food,LB,Expats,Male,False,French,44.0,25,ND,1100,25-44
+210229,fast food,LY,Expats,Male,False,French,44.0,25,ND,290,25-44
+210230,fast food,MA,Expats,Male,False,French,44.0,25,ND,30000,25-44
+210231,fast food,OM,Expats,Male,False,French,44.0,25,ND,80,25-44
+210232,fast food,QA,Expats,Male,False,French,44.0,25,ND,550,25-44
+210233,fast food,SA,Expats,Male,False,French,44.0,25,ND,1850,25-44
+210234,fast food,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+210235,fast food,TN,Expats,Male,False,French,44.0,25,ND,21000,25-44
+210236,fast food,AE,Expats,Male,False,French,44.0,25,ND,1400,25-44
+210237,fast food,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+210238,fast food,PS,Expats,Male,False,French,44.0,25,ND,0,25-44
+210239,fast food,DZ,Expats,Male,False,French,44.0,25,HS,13500,25-44
+210241,fast food,EG,Expats,Male,False,French,44.0,25,HS,3100,25-44
+210242,fast food,IQ,Expats,Male,False,French,44.0,25,HS,195,25-44
+210243,fast food,JO,Expats,Male,False,French,44.0,25,HS,290,25-44
+210244,fast food,KW,Expats,Male,False,French,44.0,25,HS,160,25-44
+210245,fast food,LB,Expats,Male,False,French,44.0,25,HS,1250,25-44
+210246,fast food,LY,Expats,Male,False,French,44.0,25,HS,155,25-44
+210247,fast food,MA,Expats,Male,False,French,44.0,25,HS,13500,25-44
+210248,fast food,OM,Expats,Male,False,French,44.0,25,HS,70,25-44
+210249,fast food,QA,Expats,Male,False,French,44.0,25,HS,460,25-44
+210250,fast food,SA,Expats,Male,False,French,44.0,25,HS,1350,25-44
+210251,fast food,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+210252,fast food,TN,Expats,Male,False,French,44.0,25,HS,11000,25-44
+210253,fast food,AE,Expats,Male,False,French,44.0,25,HS,1400,25-44
+210254,fast food,YE,Expats,Male,False,French,44.0,25,HS,30,25-44
+210255,fast food,PS,Expats,Male,False,French,44.0,25,HS,40,25-44
+210256,fast food,DZ,Expats,Male,False,French,44.0,25,GRAD,55000,25-44
+210258,fast food,EG,Expats,Male,False,French,44.0,25,GRAD,21500,25-44
+210259,fast food,IQ,Expats,Male,False,French,44.0,25,GRAD,900,25-44
+210260,fast food,JO,Expats,Male,False,French,44.0,25,GRAD,1500,25-44
+210261,fast food,KW,Expats,Male,False,French,44.0,25,GRAD,900,25-44
+210262,fast food,LB,Expats,Male,False,French,44.0,25,GRAD,4650,25-44
+210263,fast food,LY,Expats,Male,False,French,44.0,25,GRAD,600,25-44
+210264,fast food,MA,Expats,Male,False,French,44.0,25,GRAD,50000,25-44
+210265,fast food,OM,Expats,Male,False,French,44.0,25,GRAD,500,25-44
+210266,fast food,QA,Expats,Male,False,French,44.0,25,GRAD,2050,25-44
+210267,fast food,SA,Expats,Male,False,French,44.0,25,GRAD,8500,25-44
+210268,fast food,SO,Expats,Male,False,French,44.0,25,GRAD,30,25-44
+210269,fast food,TN,Expats,Male,False,French,44.0,25,GRAD,41500,25-44
+210270,fast food,AE,Expats,Male,False,French,44.0,25,GRAD,8000,25-44
+210271,fast food,YE,Expats,Male,False,French,44.0,25,GRAD,90,25-44
+210272,fast food,PS,Expats,Male,False,French,44.0,25,GRAD,315,25-44
+210324,fast food,DZ,Expats,Female,False,French,44.0,25,ND,31500,25-44
+210326,fast food,EG,Expats,Female,False,French,44.0,25,ND,1700,25-44
+210327,fast food,IQ,Expats,Female,False,French,44.0,25,ND,90,25-44
+210328,fast food,JO,Expats,Female,False,French,44.0,25,ND,190,25-44
+210329,fast food,KW,Expats,Female,False,French,44.0,25,ND,135,25-44
+210330,fast food,LB,Expats,Female,False,French,44.0,25,ND,1950,25-44
+210331,fast food,LY,Expats,Female,False,French,44.0,25,ND,120,25-44
+210332,fast food,MA,Expats,Female,False,French,44.0,25,ND,25500,25-44
+210333,fast food,OM,Expats,Female,False,French,44.0,25,ND,70,25-44
+210334,fast food,QA,Expats,Female,False,French,44.0,25,ND,245,25-44
+210335,fast food,SA,Expats,Female,False,French,44.0,25,ND,1550,25-44
+210336,fast food,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+210337,fast food,TN,Expats,Female,False,French,44.0,25,ND,25000,25-44
+210338,fast food,AE,Expats,Female,False,French,44.0,25,ND,1700,25-44
+210339,fast food,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+210340,fast food,PS,Expats,Female,False,French,44.0,25,ND,50,25-44
+210341,fast food,DZ,Expats,Female,False,French,44.0,25,HS,9500,25-44
+210343,fast food,EG,Expats,Female,False,French,44.0,25,HS,2750,25-44
+210344,fast food,IQ,Expats,Female,False,French,44.0,25,HS,125,25-44
+210345,fast food,JO,Expats,Female,False,French,44.0,25,HS,240,25-44
+210346,fast food,KW,Expats,Female,False,French,44.0,25,HS,130,25-44
+210347,fast food,LB,Expats,Female,False,French,44.0,25,HS,1550,25-44
+210348,fast food,LY,Expats,Female,False,French,44.0,25,HS,80,25-44
+210349,fast food,MA,Expats,Female,False,French,44.0,25,HS,11000,25-44
+210350,fast food,OM,Expats,Female,False,French,44.0,25,HS,55,25-44
+210351,fast food,QA,Expats,Female,False,French,44.0,25,HS,190,25-44
+210352,fast food,SA,Expats,Female,False,French,44.0,25,HS,850,25-44
+210353,fast food,SO,Expats,Female,False,French,44.0,25,HS,15,25-44
+210354,fast food,TN,Expats,Female,False,French,44.0,25,HS,12500,25-44
+210355,fast food,AE,Expats,Female,False,French,44.0,25,HS,1150,25-44
+210356,fast food,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+210357,fast food,PS,Expats,Female,False,French,44.0,25,HS,75,25-44
+210358,fast food,DZ,Expats,Female,False,French,44.0,25,GRAD,43500,25-44
+210360,fast food,EG,Expats,Female,False,French,44.0,25,GRAD,20000,25-44
+210361,fast food,IQ,Expats,Female,False,French,44.0,25,GRAD,600,25-44
+210362,fast food,JO,Expats,Female,False,French,44.0,25,GRAD,1550,25-44
+210363,fast food,KW,Expats,Female,False,French,44.0,25,GRAD,700,25-44
+210364,fast food,LB,Expats,Female,False,French,44.0,25,GRAD,7000,25-44
+210365,fast food,LY,Expats,Female,False,French,44.0,25,GRAD,325,25-44
+210366,fast food,MA,Expats,Female,False,French,44.0,25,GRAD,40000,25-44
+210367,fast food,OM,Expats,Female,False,French,44.0,25,GRAD,350,25-44
+210368,fast food,QA,Expats,Female,False,French,44.0,25,GRAD,1250,25-44
+210369,fast food,SA,Expats,Female,False,French,44.0,25,GRAD,3950,25-44
+210370,fast food,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+210371,fast food,TN,Expats,Female,False,French,44.0,25,GRAD,50000,25-44
+210372,fast food,AE,Expats,Female,False,French,44.0,25,GRAD,6500,25-44
+210373,fast food,YE,Expats,Female,False,French,44.0,25,GRAD,75,25-44
+210374,fast food,PS,Expats,Female,False,French,44.0,25,GRAD,355,25-44
+210528,fast food,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,5000,45+
+210530,fast food,EG,Expats,Male,False,French,NOTSELECTED,45,ND,225,45+
+210531,fast food,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+210532,fast food,JO,Expats,Male,False,French,NOTSELECTED,45,ND,35,45+
+210533,fast food,KW,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+210534,fast food,LB,Expats,Male,False,French,NOTSELECTED,45,ND,490,45+
+210535,fast food,LY,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+210536,fast food,MA,Expats,Male,False,French,NOTSELECTED,45,ND,6500,45+
+210537,fast food,OM,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+210538,fast food,QA,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+210539,fast food,SA,Expats,Male,False,French,NOTSELECTED,45,ND,365,45+
+210540,fast food,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+210541,fast food,TN,Expats,Male,False,French,NOTSELECTED,45,ND,5000,45+
+210542,fast food,AE,Expats,Male,False,French,NOTSELECTED,45,ND,245,45+
+210543,fast food,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+210544,fast food,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+210545,fast food,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,1700,45+
+210547,fast food,EG,Expats,Male,False,French,NOTSELECTED,45,HS,195,45+
+210548,fast food,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,25,45+
+210549,fast food,JO,Expats,Male,False,French,NOTSELECTED,45,HS,35,45+
+210550,fast food,KW,Expats,Male,False,French,NOTSELECTED,45,HS,25,45+
+210551,fast food,LB,Expats,Male,False,French,NOTSELECTED,45,HS,215,45+
+210552,fast food,LY,Expats,Male,False,French,NOTSELECTED,45,HS,15,45+
+210553,fast food,MA,Expats,Male,False,French,NOTSELECTED,45,HS,1950,45+
+210554,fast food,OM,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+210555,fast food,QA,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+210556,fast food,SA,Expats,Male,False,French,NOTSELECTED,45,HS,180,45+
+210557,fast food,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+210558,fast food,TN,Expats,Male,False,French,NOTSELECTED,45,HS,2650,45+
+210559,fast food,AE,Expats,Male,False,French,NOTSELECTED,45,HS,135,45+
+210560,fast food,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+210561,fast food,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+210562,fast food,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,5500,45+
+210564,fast food,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,1150,45+
+210565,fast food,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,50,45+
+210566,fast food,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,145,45+
+210567,fast food,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+210568,fast food,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,1100,45+
+210569,fast food,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,35,45+
+210570,fast food,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,6000,45+
+210571,fast food,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,45,45+
+210572,fast food,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,255,45+
+210573,fast food,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,850,45+
+210574,fast food,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210575,fast food,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,7000,45+
+210576,fast food,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,750,45+
+210577,fast food,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+210578,fast food,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,20,45+
+210630,fast food,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,4950,45+
+210632,fast food,EG,Expats,Female,False,French,NOTSELECTED,45,ND,485,45+
+210633,fast food,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+210634,fast food,JO,Expats,Female,False,French,NOTSELECTED,45,ND,60,45+
+210635,fast food,KW,Expats,Female,False,French,NOTSELECTED,45,ND,15,45+
+210636,fast food,LB,Expats,Female,False,French,NOTSELECTED,45,ND,1350,45+
+210637,fast food,LY,Expats,Female,False,French,NOTSELECTED,45,ND,30,45+
+210638,fast food,MA,Expats,Female,False,French,NOTSELECTED,45,ND,5000,45+
+210639,fast food,OM,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+210640,fast food,QA,Expats,Female,False,French,NOTSELECTED,45,ND,35,45+
+210641,fast food,SA,Expats,Female,False,French,NOTSELECTED,45,ND,280,45+
+210642,fast food,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+210643,fast food,TN,Expats,Female,False,French,NOTSELECTED,45,ND,5500,45+
+210644,fast food,AE,Expats,Female,False,French,NOTSELECTED,45,ND,395,45+
+210645,fast food,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+210646,fast food,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+210647,fast food,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,1600,45+
+210649,fast food,EG,Expats,Female,False,French,NOTSELECTED,45,HS,380,45+
+210650,fast food,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210651,fast food,JO,Expats,Female,False,French,NOTSELECTED,45,HS,40,45+
+210652,fast food,KW,Expats,Female,False,French,NOTSELECTED,45,HS,25,45+
+210653,fast food,LB,Expats,Female,False,French,NOTSELECTED,45,HS,500,45+
+210654,fast food,LY,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210655,fast food,MA,Expats,Female,False,French,NOTSELECTED,45,HS,1750,45+
+210656,fast food,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210657,fast food,QA,Expats,Female,False,French,NOTSELECTED,45,HS,40,45+
+210658,fast food,SA,Expats,Female,False,French,NOTSELECTED,45,HS,120,45+
+210659,fast food,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210660,fast food,TN,Expats,Female,False,French,NOTSELECTED,45,HS,2750,45+
+210661,fast food,AE,Expats,Female,False,French,NOTSELECTED,45,HS,130,45+
+210662,fast food,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210663,fast food,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+210664,fast food,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,4050,45+
+210666,fast food,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,1950,45+
+210667,fast food,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+210668,fast food,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,180,45+
+210669,fast food,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,80,45+
+210670,fast food,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,1750,45+
+210671,fast food,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
+210672,fast food,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,4150,45+
+210673,fast food,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+210674,fast food,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,70,45+
+210675,fast food,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,305,45+
+210676,fast food,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210677,fast food,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,5500,45+
+210678,fast food,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,600,45+
+210679,fast food,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+210680,fast food,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,35,45+
