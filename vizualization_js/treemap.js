@@ -58,6 +58,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.root = treemapData;
     this.node = treemapData;
     this.treemapContainer = treemapContainer;
+    this.tooltip_margin = 10;
 
     this.getSelectedCell = function(){
         var cells = this.svg.selectAll("g")[0];
@@ -224,6 +225,20 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             treemapManager.unselectTreemapOption(currentInstance);
         }
     };
+    this.mousemoveTooltip = function(d){
+        d3.select("#tooltip-treemap").classed("hidden", false);
+        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
+        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+
+        d3.select("#tooltip-treemap")
+            .style("left", xPosition + "px")
+            .style("top", yPosition + "px");
+        d3.select("#tooltip-treemap #category")
+            .text(d.name);
+    };
+    this.mouseoutTooltip = function(d){
+        d3.select("#tooltip-treemap").classed("hidden", true);
+    };
 
     this.init = function(){
         var currentInstance = this;
@@ -251,7 +266,9 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
                 currentInstance.onClickCell(d);
-            });
+            })
+            .on("mousemove", currentInstance.mousemoveTooltip)
+            .on("mouseout", currentInstance.mouseoutTooltip);
 
         cell.append("svg:rect")
             .attr("width", function(d) { return d.dx > 1 ? d.dx - 1 : d.dx; })
@@ -266,6 +283,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .style("opacity", function(d) {
                 return currentInstance.getOpacityBasedOnData(d,this);
             });
+
+
 
     }
 

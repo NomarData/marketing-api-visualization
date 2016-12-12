@@ -2879,6 +2879,582 @@
 88006,shopping,AE,Locals,Female,False,English,NOTSELECTED,45,GRAD,1200,45+
 88007,shopping,YE,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
 88008,shopping,PS,Locals,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+207213,luxury goods,DZ,Locals,Male,False,French,24.0,18,ND,130000,18-24
+207215,luxury goods,EG,Locals,Male,False,French,24.0,18,ND,6300,18-24
+207216,luxury goods,IQ,Locals,Male,False,French,24.0,18,ND,520,18-24
+207217,luxury goods,JO,Locals,Male,False,French,24.0,18,ND,660,18-24
+207218,luxury goods,KW,Locals,Male,False,French,24.0,18,ND,30,18-24
+207219,luxury goods,LB,Locals,Male,False,French,24.0,18,ND,2800,18-24
+207220,luxury goods,LY,Locals,Male,False,French,24.0,18,ND,260,18-24
+207221,luxury goods,MA,Locals,Male,False,French,24.0,18,ND,110000,18-24
+207222,luxury goods,OM,Locals,Male,False,French,24.0,18,ND,50,18-24
+207223,luxury goods,QA,Locals,Male,False,French,24.0,18,ND,130,18-24
+207224,luxury goods,SA,Locals,Male,False,French,24.0,18,ND,1500,18-24
+207225,luxury goods,SO,Locals,Male,False,French,24.0,18,ND,0,18-24
+207226,luxury goods,TN,Locals,Male,False,French,24.0,18,ND,71000,18-24
+207227,luxury goods,AE,Locals,Male,False,French,24.0,18,ND,220,18-24
+207228,luxury goods,YE,Locals,Male,False,French,24.0,18,ND,0,18-24
+207229,luxury goods,PS,Locals,Male,False,French,24.0,18,ND,80,18-24
+207230,luxury goods,DZ,Locals,Male,False,French,24.0,18,HS,79000,18-24
+207232,luxury goods,EG,Locals,Male,False,French,24.0,18,HS,47000,18-24
+207233,luxury goods,IQ,Locals,Male,False,French,24.0,18,HS,1900,18-24
+207234,luxury goods,JO,Locals,Male,False,French,24.0,18,HS,2300,18-24
+207235,luxury goods,KW,Locals,Male,False,French,24.0,18,HS,80,18-24
+207236,luxury goods,LB,Locals,Male,False,French,24.0,18,HS,6200,18-24
+207237,luxury goods,LY,Locals,Male,False,French,24.0,18,HS,450,18-24
+207238,luxury goods,MA,Locals,Male,False,French,24.0,18,HS,92000,18-24
+207239,luxury goods,OM,Locals,Male,False,French,24.0,18,HS,140,18-24
+207240,luxury goods,QA,Locals,Male,False,French,24.0,18,HS,60,18-24
+207241,luxury goods,SA,Locals,Male,False,French,24.0,18,HS,710,18-24
+207242,luxury goods,SO,Locals,Male,False,French,24.0,18,HS,0,18-24
+207243,luxury goods,TN,Locals,Male,False,French,24.0,18,HS,53000,18-24
+207244,luxury goods,AE,Locals,Male,False,French,24.0,18,HS,260,18-24
+207245,luxury goods,YE,Locals,Male,False,French,24.0,18,HS,80,18-24
+207246,luxury goods,PS,Locals,Male,False,French,24.0,18,HS,270,18-24
+207247,luxury goods,DZ,Locals,Male,False,French,24.0,18,GRAD,180000,18-24
+207249,luxury goods,EG,Locals,Male,False,French,24.0,18,GRAD,56000,18-24
+207250,luxury goods,IQ,Locals,Male,False,French,24.0,18,GRAD,1600,18-24
+207251,luxury goods,JO,Locals,Male,False,French,24.0,18,GRAD,2500,18-24
+207252,luxury goods,KW,Locals,Male,False,French,24.0,18,GRAD,180,18-24
+207253,luxury goods,LB,Locals,Male,False,French,24.0,18,GRAD,5900,18-24
+207254,luxury goods,LY,Locals,Male,False,French,24.0,18,GRAD,710,18-24
+207255,luxury goods,MA,Locals,Male,False,French,24.0,18,GRAD,220000,18-24
+207256,luxury goods,OM,Locals,Male,False,French,24.0,18,GRAD,80,18-24
+207257,luxury goods,QA,Locals,Male,False,French,24.0,18,GRAD,330,18-24
+207258,luxury goods,SA,Locals,Male,False,French,24.0,18,GRAD,1400,18-24
+207259,luxury goods,SO,Locals,Male,False,French,24.0,18,GRAD,40,18-24
+207260,luxury goods,TN,Locals,Male,False,French,24.0,18,GRAD,110000,18-24
+207261,luxury goods,AE,Locals,Male,False,French,24.0,18,GRAD,560,18-24
+207262,luxury goods,YE,Locals,Male,False,French,24.0,18,GRAD,100,18-24
+207263,luxury goods,PS,Locals,Male,False,French,24.0,18,GRAD,370,18-24
+207315,luxury goods,DZ,Locals,Female,False,French,24.0,18,ND,160000,18-24
+207317,luxury goods,EG,Locals,Female,False,French,24.0,18,ND,6000,18-24
+207318,luxury goods,IQ,Locals,Female,False,French,24.0,18,ND,420,18-24
+207319,luxury goods,JO,Locals,Female,False,French,24.0,18,ND,660,18-24
+207320,luxury goods,KW,Locals,Female,False,French,24.0,18,ND,120,18-24
+207321,luxury goods,LB,Locals,Female,False,French,24.0,18,ND,4300,18-24
+207322,luxury goods,LY,Locals,Female,False,French,24.0,18,ND,270,18-24
+207323,luxury goods,MA,Locals,Female,False,French,24.0,18,ND,190000,18-24
+207324,luxury goods,OM,Locals,Female,False,French,24.0,18,ND,30,18-24
+207325,luxury goods,QA,Locals,Female,False,French,24.0,18,ND,50,18-24
+207326,luxury goods,SA,Locals,Female,False,French,24.0,18,ND,1600,18-24
+207327,luxury goods,SO,Locals,Female,False,French,24.0,18,ND,0,18-24
+207328,luxury goods,TN,Locals,Female,False,French,24.0,18,ND,120000,18-24
+207329,luxury goods,AE,Locals,Female,False,French,24.0,18,ND,230,18-24
+207330,luxury goods,YE,Locals,Female,False,French,24.0,18,ND,0,18-24
+207331,luxury goods,PS,Locals,Female,False,French,24.0,18,ND,90,18-24
+207332,luxury goods,DZ,Locals,Female,False,French,24.0,18,HS,90000,18-24
+207334,luxury goods,EG,Locals,Female,False,French,24.0,18,HS,50000,18-24
+207335,luxury goods,IQ,Locals,Female,False,French,24.0,18,HS,1700,18-24
+207336,luxury goods,JO,Locals,Female,False,French,24.0,18,HS,2700,18-24
+207337,luxury goods,KW,Locals,Female,False,French,24.0,18,HS,110,18-24
+207338,luxury goods,LB,Locals,Female,False,French,24.0,18,HS,12000,18-24
+207339,luxury goods,LY,Locals,Female,False,French,24.0,18,HS,1000,18-24
+207340,luxury goods,MA,Locals,Female,False,French,24.0,18,HS,130000,18-24
+207341,luxury goods,OM,Locals,Female,False,French,24.0,18,HS,50,18-24
+207342,luxury goods,QA,Locals,Female,False,French,24.0,18,HS,70,18-24
+207343,luxury goods,SA,Locals,Female,False,French,24.0,18,HS,880,18-24
+207344,luxury goods,SO,Locals,Female,False,French,24.0,18,HS,0,18-24
+207345,luxury goods,TN,Locals,Female,False,French,24.0,18,HS,87000,18-24
+207346,luxury goods,AE,Locals,Female,False,French,24.0,18,HS,260,18-24
+207347,luxury goods,YE,Locals,Female,False,French,24.0,18,HS,30,18-24
+207348,luxury goods,PS,Locals,Female,False,French,24.0,18,HS,750,18-24
+207349,luxury goods,DZ,Locals,Female,False,French,24.0,18,GRAD,190000,18-24
+207351,luxury goods,EG,Locals,Female,False,French,24.0,18,GRAD,52000,18-24
+207352,luxury goods,IQ,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+207353,luxury goods,JO,Locals,Female,False,French,24.0,18,GRAD,2000,18-24
+207354,luxury goods,KW,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+207355,luxury goods,LB,Locals,Female,False,French,24.0,18,GRAD,11000,18-24
+207356,luxury goods,LY,Locals,Female,False,French,24.0,18,GRAD,950,18-24
+207357,luxury goods,MA,Locals,Female,False,French,24.0,18,GRAD,260000,18-24
+207358,luxury goods,OM,Locals,Female,False,French,24.0,18,GRAD,40,18-24
+207359,luxury goods,QA,Locals,Female,False,French,24.0,18,GRAD,230,18-24
+207360,luxury goods,SA,Locals,Female,False,French,24.0,18,GRAD,1100,18-24
+207361,luxury goods,SO,Locals,Female,False,French,24.0,18,GRAD,50,18-24
+207362,luxury goods,TN,Locals,Female,False,French,24.0,18,GRAD,160000,18-24
+207363,luxury goods,AE,Locals,Female,False,French,24.0,18,GRAD,510,18-24
+207364,luxury goods,YE,Locals,Female,False,French,24.0,18,GRAD,30,18-24
+207365,luxury goods,PS,Locals,Female,False,French,24.0,18,GRAD,600,18-24
+207519,luxury goods,DZ,Locals,Male,False,French,44.0,25,ND,210000,25-44
+207521,luxury goods,EG,Locals,Male,False,French,44.0,25,ND,3000,25-44
+207522,luxury goods,IQ,Locals,Male,False,French,44.0,25,ND,250,25-44
+207523,luxury goods,JO,Locals,Male,False,French,44.0,25,ND,380,25-44
+207524,luxury goods,KW,Locals,Male,False,French,44.0,25,ND,80,25-44
+207525,luxury goods,LB,Locals,Male,False,French,44.0,25,ND,3600,25-44
+207526,luxury goods,LY,Locals,Male,False,French,44.0,25,ND,350,25-44
+207527,luxury goods,MA,Locals,Male,False,French,44.0,25,ND,150000,25-44
+207528,luxury goods,OM,Locals,Male,False,French,44.0,25,ND,70,25-44
+207529,luxury goods,QA,Locals,Male,False,French,44.0,25,ND,300,25-44
+207530,luxury goods,SA,Locals,Male,False,French,44.0,25,ND,3700,25-44
+207531,luxury goods,SO,Locals,Male,False,French,44.0,25,ND,0,25-44
+207532,luxury goods,TN,Locals,Male,False,French,44.0,25,ND,130000,25-44
+207533,luxury goods,AE,Locals,Male,False,French,44.0,25,ND,600,25-44
+207534,luxury goods,YE,Locals,Male,False,French,44.0,25,ND,0,25-44
+207535,luxury goods,PS,Locals,Male,False,French,44.0,25,ND,30,25-44
+207536,luxury goods,DZ,Locals,Male,False,French,44.0,25,HS,65000,25-44
+207538,luxury goods,EG,Locals,Male,False,French,44.0,25,HS,5600,25-44
+207539,luxury goods,IQ,Locals,Male,False,French,44.0,25,HS,370,25-44
+207540,luxury goods,JO,Locals,Male,False,French,44.0,25,HS,590,25-44
+207541,luxury goods,KW,Locals,Male,False,French,44.0,25,HS,50,25-44
+207542,luxury goods,LB,Locals,Male,False,French,44.0,25,HS,3400,25-44
+207543,luxury goods,LY,Locals,Male,False,French,44.0,25,HS,270,25-44
+207544,luxury goods,MA,Locals,Male,False,French,44.0,25,HS,59000,25-44
+207545,luxury goods,OM,Locals,Male,False,French,44.0,25,HS,60,25-44
+207546,luxury goods,QA,Locals,Male,False,French,44.0,25,HS,240,25-44
+207547,luxury goods,SA,Locals,Male,False,French,44.0,25,HS,1100,25-44
+207548,luxury goods,SO,Locals,Male,False,French,44.0,25,HS,0,25-44
+207549,luxury goods,TN,Locals,Male,False,French,44.0,25,HS,58000,25-44
+207550,luxury goods,AE,Locals,Male,False,French,44.0,25,HS,360,25-44
+207551,luxury goods,YE,Locals,Male,False,French,44.0,25,HS,40,25-44
+207552,luxury goods,PS,Locals,Male,False,French,44.0,25,HS,70,25-44
+207553,luxury goods,DZ,Locals,Male,False,French,44.0,25,GRAD,260000,25-44
+207555,luxury goods,EG,Locals,Male,False,French,44.0,25,GRAD,39000,25-44
+207556,luxury goods,IQ,Locals,Male,False,French,44.0,25,GRAD,1900,25-44
+207557,luxury goods,JO,Locals,Male,False,French,44.0,25,GRAD,2900,25-44
+207558,luxury goods,KW,Locals,Male,False,French,44.0,25,GRAD,420,25-44
+207559,luxury goods,LB,Locals,Male,False,French,44.0,25,GRAD,13000,25-44
+207560,luxury goods,LY,Locals,Male,False,French,44.0,25,GRAD,830,25-44
+207561,luxury goods,MA,Locals,Male,False,French,44.0,25,GRAD,240000,25-44
+207562,luxury goods,OM,Locals,Male,False,French,44.0,25,GRAD,560,25-44
+207563,luxury goods,QA,Locals,Male,False,French,44.0,25,GRAD,910,25-44
+207564,luxury goods,SA,Locals,Male,False,French,44.0,25,GRAD,5300,25-44
+207565,luxury goods,SO,Locals,Male,False,French,44.0,25,GRAD,40,25-44
+207566,luxury goods,TN,Locals,Male,False,French,44.0,25,GRAD,210000,25-44
+207567,luxury goods,AE,Locals,Male,False,French,44.0,25,GRAD,1500,25-44
+207568,luxury goods,YE,Locals,Male,False,French,44.0,25,GRAD,100,25-44
+207569,luxury goods,PS,Locals,Male,False,French,44.0,25,GRAD,420,25-44
+207621,luxury goods,DZ,Locals,Female,False,French,44.0,25,ND,160000,25-44
+207623,luxury goods,EG,Locals,Female,False,French,44.0,25,ND,2500,25-44
+207624,luxury goods,IQ,Locals,Female,False,French,44.0,25,ND,190,25-44
+207625,luxury goods,JO,Locals,Female,False,French,44.0,25,ND,250,25-44
+207626,luxury goods,KW,Locals,Female,False,French,44.0,25,ND,110,25-44
+207627,luxury goods,LB,Locals,Female,False,French,44.0,25,ND,9100,25-44
+207628,luxury goods,LY,Locals,Female,False,French,44.0,25,ND,260,25-44
+207629,luxury goods,MA,Locals,Female,False,French,44.0,25,ND,180000,25-44
+207630,luxury goods,OM,Locals,Female,False,French,44.0,25,ND,90,25-44
+207631,luxury goods,QA,Locals,Female,False,French,44.0,25,ND,220,25-44
+207632,luxury goods,SA,Locals,Female,False,French,44.0,25,ND,2500,25-44
+207633,luxury goods,SO,Locals,Female,False,French,44.0,25,ND,0,25-44
+207634,luxury goods,TN,Locals,Female,False,French,44.0,25,ND,160000,25-44
+207635,luxury goods,AE,Locals,Female,False,French,44.0,25,ND,430,25-44
+207636,luxury goods,YE,Locals,Female,False,French,44.0,25,ND,0,25-44
+207637,luxury goods,PS,Locals,Female,False,French,44.0,25,ND,40,25-44
+207638,luxury goods,DZ,Locals,Female,False,French,44.0,25,HS,44000,25-44
+207640,luxury goods,EG,Locals,Female,False,French,44.0,25,HS,4500,25-44
+207641,luxury goods,IQ,Locals,Female,False,French,44.0,25,HS,330,25-44
+207642,luxury goods,JO,Locals,Female,False,French,44.0,25,HS,300,25-44
+207643,luxury goods,KW,Locals,Female,False,French,44.0,25,HS,60,25-44
+207644,luxury goods,LB,Locals,Female,False,French,44.0,25,HS,5200,25-44
+207645,luxury goods,LY,Locals,Female,False,French,44.0,25,HS,130,25-44
+207646,luxury goods,MA,Locals,Female,False,French,44.0,25,HS,63000,25-44
+207647,luxury goods,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+207648,luxury goods,QA,Locals,Female,False,French,44.0,25,HS,60,25-44
+207649,luxury goods,SA,Locals,Female,False,French,44.0,25,HS,730,25-44
+207650,luxury goods,SO,Locals,Female,False,French,44.0,25,HS,0,25-44
+207651,luxury goods,TN,Locals,Female,False,French,44.0,25,HS,66000,25-44
+207652,luxury goods,AE,Locals,Female,False,French,44.0,25,HS,290,25-44
+207653,luxury goods,YE,Locals,Female,False,French,44.0,25,HS,0,25-44
+207654,luxury goods,PS,Locals,Female,False,French,44.0,25,HS,100,25-44
+207655,luxury goods,DZ,Locals,Female,False,French,44.0,25,GRAD,210000,25-44
+207657,luxury goods,EG,Locals,Female,False,French,44.0,25,GRAD,36000,25-44
+207658,luxury goods,IQ,Locals,Female,False,French,44.0,25,GRAD,1400,25-44
+207659,luxury goods,JO,Locals,Female,False,French,44.0,25,GRAD,2500,25-44
+207660,luxury goods,KW,Locals,Female,False,French,44.0,25,GRAD,460,25-44
+207661,luxury goods,LB,Locals,Female,False,French,44.0,25,GRAD,24000,25-44
+207662,luxury goods,LY,Locals,Female,False,French,44.0,25,GRAD,790,25-44
+207663,luxury goods,MA,Locals,Female,False,French,44.0,25,GRAD,240000,25-44
+207664,luxury goods,OM,Locals,Female,False,French,44.0,25,GRAD,250,25-44
+207665,luxury goods,QA,Locals,Female,False,French,44.0,25,GRAD,690,25-44
+207666,luxury goods,SA,Locals,Female,False,French,44.0,25,GRAD,3100,25-44
+207667,luxury goods,SO,Locals,Female,False,French,44.0,25,GRAD,0,25-44
+207668,luxury goods,TN,Locals,Female,False,French,44.0,25,GRAD,270000,25-44
+207669,luxury goods,AE,Locals,Female,False,French,44.0,25,GRAD,1200,25-44
+207670,luxury goods,YE,Locals,Female,False,French,44.0,25,GRAD,60,25-44
+207671,luxury goods,PS,Locals,Female,False,French,44.0,25,GRAD,660,25-44
+207825,luxury goods,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,27000,45+
+207827,luxury goods,EG,Locals,Male,False,French,NOTSELECTED,45,ND,570,45+
+207828,luxury goods,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207829,luxury goods,JO,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+207830,luxury goods,KW,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207831,luxury goods,LB,Locals,Male,False,French,NOTSELECTED,45,ND,2300,45+
+207832,luxury goods,LY,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+207833,luxury goods,MA,Locals,Male,False,French,NOTSELECTED,45,ND,28000,45+
+207834,luxury goods,OM,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207835,luxury goods,QA,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+207836,luxury goods,SA,Locals,Male,False,French,NOTSELECTED,45,ND,720,45+
+207837,luxury goods,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207838,luxury goods,TN,Locals,Male,False,French,NOTSELECTED,45,ND,30000,45+
+207839,luxury goods,AE,Locals,Male,False,French,NOTSELECTED,45,ND,70,45+
+207840,luxury goods,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207841,luxury goods,PS,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+207842,luxury goods,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,8900,45+
+207844,luxury goods,EG,Locals,Male,False,French,NOTSELECTED,45,HS,530,45+
+207845,luxury goods,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207846,luxury goods,JO,Locals,Male,False,French,NOTSELECTED,45,HS,50,45+
+207847,luxury goods,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207848,luxury goods,LB,Locals,Male,False,French,NOTSELECTED,45,HS,900,45+
+207849,luxury goods,LY,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207850,luxury goods,MA,Locals,Male,False,French,NOTSELECTED,45,HS,8500,45+
+207851,luxury goods,OM,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207852,luxury goods,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207853,luxury goods,SA,Locals,Male,False,French,NOTSELECTED,45,HS,180,45+
+207854,luxury goods,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207855,luxury goods,TN,Locals,Male,False,French,NOTSELECTED,45,HS,15000,45+
+207856,luxury goods,AE,Locals,Male,False,French,NOTSELECTED,45,HS,40,45+
+207857,luxury goods,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207858,luxury goods,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+207859,luxury goods,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,25000,45+
+207861,luxury goods,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,2600,45+
+207862,luxury goods,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+207863,luxury goods,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,310,45+
+207864,luxury goods,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+207865,luxury goods,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,4200,45+
+207866,luxury goods,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,90,45+
+207867,luxury goods,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,28000,45+
+207868,luxury goods,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,40,45+
+207869,luxury goods,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,60,45+
+207870,luxury goods,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,520,45+
+207871,luxury goods,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207872,luxury goods,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,38000,45+
+207873,luxury goods,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+207874,luxury goods,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207875,luxury goods,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207927,luxury goods,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,25000,45+
+207929,luxury goods,EG,Locals,Female,False,French,NOTSELECTED,45,ND,860,45+
+207930,luxury goods,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207931,luxury goods,JO,Locals,Female,False,French,NOTSELECTED,45,ND,70,45+
+207932,luxury goods,KW,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207933,luxury goods,LB,Locals,Female,False,French,NOTSELECTED,45,ND,7800,45+
+207934,luxury goods,LY,Locals,Female,False,French,NOTSELECTED,45,ND,60,45+
+207935,luxury goods,MA,Locals,Female,False,French,NOTSELECTED,45,ND,34000,45+
+207936,luxury goods,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207937,luxury goods,QA,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207938,luxury goods,SA,Locals,Female,False,French,NOTSELECTED,45,ND,360,45+
+207939,luxury goods,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207940,luxury goods,TN,Locals,Female,False,French,NOTSELECTED,45,ND,35000,45+
+207941,luxury goods,AE,Locals,Female,False,French,NOTSELECTED,45,ND,80,45+
+207942,luxury goods,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207943,luxury goods,PS,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+207944,luxury goods,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,7600,45+
+207946,luxury goods,EG,Locals,Female,False,French,NOTSELECTED,45,HS,650,45+
+207947,luxury goods,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207948,luxury goods,JO,Locals,Female,False,French,NOTSELECTED,45,HS,50,45+
+207949,luxury goods,KW,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207950,luxury goods,LB,Locals,Female,False,French,NOTSELECTED,45,HS,2000,45+
+207951,luxury goods,LY,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+207952,luxury goods,MA,Locals,Female,False,French,NOTSELECTED,45,HS,11000,45+
+207953,luxury goods,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207954,luxury goods,QA,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+207955,luxury goods,SA,Locals,Female,False,French,NOTSELECTED,45,HS,90,45+
+207956,luxury goods,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207957,luxury goods,TN,Locals,Female,False,French,NOTSELECTED,45,HS,16000,45+
+207958,luxury goods,AE,Locals,Female,False,French,NOTSELECTED,45,HS,60,45+
+207959,luxury goods,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207960,luxury goods,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+207961,luxury goods,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,18000,45+
+207963,luxury goods,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,4200,45+
+207964,luxury goods,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+207965,luxury goods,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,220,45+
+207966,luxury goods,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+207967,luxury goods,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,7200,45+
+207968,luxury goods,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,90,45+
+207969,luxury goods,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,27000,45+
+207970,luxury goods,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+207971,luxury goods,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+207972,luxury goods,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,270,45+
+207973,luxury goods,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207974,luxury goods,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,30000,45+
+207975,luxury goods,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,80,45+
+207976,luxury goods,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207977,luxury goods,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,30,45+
+209049,shopping,DZ,Locals,Male,False,French,24.0,18,ND,640000,18-24
+209051,shopping,EG,Locals,Male,False,French,24.0,18,ND,13000,18-24
+209052,shopping,IQ,Locals,Male,False,French,24.0,18,ND,2700,18-24
+209053,shopping,JO,Locals,Male,False,French,24.0,18,ND,1300,18-24
+209054,shopping,KW,Locals,Male,False,French,24.0,18,ND,130,18-24
+209055,shopping,LB,Locals,Male,False,French,24.0,18,ND,5100,18-24
+209056,shopping,LY,Locals,Male,False,French,24.0,18,ND,1900,18-24
+209057,shopping,MA,Locals,Male,False,French,24.0,18,ND,480000,18-24
+209058,shopping,OM,Locals,Male,False,French,24.0,18,ND,90,18-24
+209059,shopping,QA,Locals,Male,False,French,24.0,18,ND,300,18-24
+209060,shopping,SA,Locals,Male,False,French,24.0,18,ND,3600,18-24
+209061,shopping,SO,Locals,Male,False,French,24.0,18,ND,140,18-24
+209062,shopping,TN,Locals,Male,False,French,24.0,18,ND,260000,18-24
+209063,shopping,AE,Locals,Male,False,French,24.0,18,ND,940,18-24
+209064,shopping,YE,Locals,Male,False,French,24.0,18,ND,130,18-24
+209065,shopping,PS,Locals,Male,False,French,24.0,18,ND,310,18-24
+209066,shopping,DZ,Locals,Male,False,French,24.0,18,HS,230000,18-24
+209068,shopping,EG,Locals,Male,False,French,24.0,18,HS,77000,18-24
+209069,shopping,IQ,Locals,Male,False,French,24.0,18,HS,4100,18-24
+209070,shopping,JO,Locals,Male,False,French,24.0,18,HS,3500,18-24
+209071,shopping,KW,Locals,Male,False,French,24.0,18,HS,150,18-24
+209072,shopping,LB,Locals,Male,False,French,24.0,18,HS,9700,18-24
+209073,shopping,LY,Locals,Male,False,French,24.0,18,HS,1100,18-24
+209074,shopping,MA,Locals,Male,False,French,24.0,18,HS,250000,18-24
+209075,shopping,OM,Locals,Male,False,French,24.0,18,HS,200,18-24
+209076,shopping,QA,Locals,Male,False,French,24.0,18,HS,130,18-24
+209077,shopping,SA,Locals,Male,False,French,24.0,18,HS,1400,18-24
+209078,shopping,SO,Locals,Male,False,French,24.0,18,HS,100,18-24
+209079,shopping,TN,Locals,Male,False,French,24.0,18,HS,130000,18-24
+209080,shopping,AE,Locals,Male,False,French,24.0,18,HS,610,18-24
+209081,shopping,YE,Locals,Male,False,French,24.0,18,HS,420,18-24
+209082,shopping,PS,Locals,Male,False,French,24.0,18,HS,630,18-24
+209083,shopping,DZ,Locals,Male,False,French,24.0,18,GRAD,520000,18-24
+209085,shopping,EG,Locals,Male,False,French,24.0,18,GRAD,99000,18-24
+209086,shopping,IQ,Locals,Male,False,French,24.0,18,GRAD,3900,18-24
+209087,shopping,JO,Locals,Male,False,French,24.0,18,GRAD,4000,18-24
+209088,shopping,KW,Locals,Male,False,French,24.0,18,GRAD,320,18-24
+209089,shopping,LB,Locals,Male,False,French,24.0,18,GRAD,10000,18-24
+209090,shopping,LY,Locals,Male,False,French,24.0,18,GRAD,1700,18-24
+209091,shopping,MA,Locals,Male,False,French,24.0,18,GRAD,600000,18-24
+209092,shopping,OM,Locals,Male,False,French,24.0,18,GRAD,190,18-24
+209093,shopping,QA,Locals,Male,False,French,24.0,18,GRAD,390,18-24
+209094,shopping,SA,Locals,Male,False,French,24.0,18,GRAD,2700,18-24
+209095,shopping,SO,Locals,Male,False,French,24.0,18,GRAD,540,18-24
+209096,shopping,TN,Locals,Male,False,French,24.0,18,GRAD,250000,18-24
+209097,shopping,AE,Locals,Male,False,French,24.0,18,GRAD,1300,18-24
+209098,shopping,YE,Locals,Male,False,French,24.0,18,GRAD,360,18-24
+209099,shopping,PS,Locals,Male,False,French,24.0,18,GRAD,1000,18-24
+209151,shopping,DZ,Locals,Female,False,French,24.0,18,ND,630000,18-24
+209153,shopping,EG,Locals,Female,False,French,24.0,18,ND,13000,18-24
+209154,shopping,IQ,Locals,Female,False,French,24.0,18,ND,1300,18-24
+209155,shopping,JO,Locals,Female,False,French,24.0,18,ND,1400,18-24
+209156,shopping,KW,Locals,Female,False,French,24.0,18,ND,360,18-24
+209157,shopping,LB,Locals,Female,False,French,24.0,18,ND,6800,18-24
+209158,shopping,LY,Locals,Female,False,French,24.0,18,ND,1000,18-24
+209159,shopping,MA,Locals,Female,False,French,24.0,18,ND,430000,18-24
+209160,shopping,OM,Locals,Female,False,French,24.0,18,ND,60,18-24
+209161,shopping,QA,Locals,Female,False,French,24.0,18,ND,200,18-24
+209162,shopping,SA,Locals,Female,False,French,24.0,18,ND,3500,18-24
+209163,shopping,SO,Locals,Female,False,French,24.0,18,ND,180,18-24
+209164,shopping,TN,Locals,Female,False,French,24.0,18,ND,280000,18-24
+209165,shopping,AE,Locals,Female,False,French,24.0,18,ND,800,18-24
+209166,shopping,YE,Locals,Female,False,French,24.0,18,ND,90,18-24
+209167,shopping,PS,Locals,Female,False,French,24.0,18,ND,260,18-24
+209168,shopping,DZ,Locals,Female,False,French,24.0,18,HS,210000,18-24
+209170,shopping,EG,Locals,Female,False,French,24.0,18,HS,76000,18-24
+209171,shopping,IQ,Locals,Female,False,French,24.0,18,HS,2800,18-24
+209172,shopping,JO,Locals,Female,False,French,24.0,18,HS,3800,18-24
+209173,shopping,KW,Locals,Female,False,French,24.0,18,HS,220,18-24
+209174,shopping,LB,Locals,Female,False,French,24.0,18,HS,15000,18-24
+209175,shopping,LY,Locals,Female,False,French,24.0,18,HS,1600,18-24
+209176,shopping,MA,Locals,Female,False,French,24.0,18,HS,210000,18-24
+209177,shopping,OM,Locals,Female,False,French,24.0,18,HS,80,18-24
+209178,shopping,QA,Locals,Female,False,French,24.0,18,HS,100,18-24
+209179,shopping,SA,Locals,Female,False,French,24.0,18,HS,1600,18-24
+209180,shopping,SO,Locals,Female,False,French,24.0,18,HS,40,18-24
+209181,shopping,TN,Locals,Female,False,French,24.0,18,HS,150000,18-24
+209182,shopping,AE,Locals,Female,False,French,24.0,18,HS,640,18-24
+209183,shopping,YE,Locals,Female,False,French,24.0,18,HS,130,18-24
+209184,shopping,PS,Locals,Female,False,French,24.0,18,HS,1200,18-24
+209185,shopping,DZ,Locals,Female,False,French,24.0,18,GRAD,450000,18-24
+209187,shopping,EG,Locals,Female,False,French,24.0,18,GRAD,83000,18-24
+209188,shopping,IQ,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+209189,shopping,JO,Locals,Female,False,French,24.0,18,GRAD,3100,18-24
+209190,shopping,KW,Locals,Female,False,French,24.0,18,GRAD,190,18-24
+209191,shopping,LB,Locals,Female,False,French,24.0,18,GRAD,14000,18-24
+209192,shopping,LY,Locals,Female,False,French,24.0,18,GRAD,1700,18-24
+209193,shopping,MA,Locals,Female,False,French,24.0,18,GRAD,430000,18-24
+209194,shopping,OM,Locals,Female,False,French,24.0,18,GRAD,90,18-24
+209195,shopping,QA,Locals,Female,False,French,24.0,18,GRAD,330,18-24
+209196,shopping,SA,Locals,Female,False,French,24.0,18,GRAD,1900,18-24
+209197,shopping,SO,Locals,Female,False,French,24.0,18,GRAD,270,18-24
+209198,shopping,TN,Locals,Female,False,French,24.0,18,GRAD,260000,18-24
+209199,shopping,AE,Locals,Female,False,French,24.0,18,GRAD,990,18-24
+209200,shopping,YE,Locals,Female,False,French,24.0,18,GRAD,160,18-24
+209201,shopping,PS,Locals,Female,False,French,24.0,18,GRAD,1200,18-24
+209355,shopping,DZ,Locals,Male,False,French,44.0,25,ND,920000,25-44
+209357,shopping,EG,Locals,Male,False,French,44.0,25,ND,8600,25-44
+209358,shopping,IQ,Locals,Male,False,French,44.0,25,ND,2000,25-44
+209359,shopping,JO,Locals,Male,False,French,44.0,25,ND,800,25-44
+209360,shopping,KW,Locals,Male,False,French,44.0,25,ND,290,25-44
+209361,shopping,LB,Locals,Male,False,French,44.0,25,ND,7700,25-44
+209362,shopping,LY,Locals,Male,False,French,44.0,25,ND,2700,25-44
+209363,shopping,MA,Locals,Male,False,French,44.0,25,ND,710000,25-44
+209364,shopping,OM,Locals,Male,False,French,44.0,25,ND,170,25-44
+209365,shopping,QA,Locals,Male,False,French,44.0,25,ND,910,25-44
+209366,shopping,SA,Locals,Male,False,French,44.0,25,ND,8400,25-44
+209367,shopping,SO,Locals,Male,False,French,44.0,25,ND,320,25-44
+209368,shopping,TN,Locals,Male,False,French,44.0,25,ND,430000,25-44
+209369,shopping,AE,Locals,Male,False,French,44.0,25,ND,2100,25-44
+209370,shopping,YE,Locals,Male,False,French,44.0,25,ND,200,25-44
+209371,shopping,PS,Locals,Male,False,French,44.0,25,ND,140,25-44
+209372,shopping,DZ,Locals,Male,False,French,44.0,25,HS,210000,25-44
+209374,shopping,EG,Locals,Male,False,French,44.0,25,HS,11000,25-44
+209375,shopping,IQ,Locals,Male,False,French,44.0,25,HS,1000,25-44
+209376,shopping,JO,Locals,Male,False,French,44.0,25,HS,950,25-44
+209377,shopping,KW,Locals,Male,False,French,44.0,25,HS,90,25-44
+209378,shopping,LB,Locals,Male,False,French,44.0,25,HS,5500,25-44
+209379,shopping,LY,Locals,Male,False,French,44.0,25,HS,780,25-44
+209380,shopping,MA,Locals,Male,False,French,44.0,25,HS,190000,25-44
+209381,shopping,OM,Locals,Male,False,French,44.0,25,HS,90,25-44
+209382,shopping,QA,Locals,Male,False,French,44.0,25,HS,440,25-44
+209383,shopping,SA,Locals,Male,False,French,44.0,25,HS,2200,25-44
+209384,shopping,SO,Locals,Male,False,French,44.0,25,HS,70,25-44
+209385,shopping,TN,Locals,Male,False,French,44.0,25,HS,150000,25-44
+209386,shopping,AE,Locals,Male,False,French,44.0,25,HS,830,25-44
+209387,shopping,YE,Locals,Male,False,French,44.0,25,HS,120,25-44
+209388,shopping,PS,Locals,Male,False,French,44.0,25,HS,180,25-44
+209389,shopping,DZ,Locals,Male,False,French,44.0,25,GRAD,800000,25-44
+209391,shopping,EG,Locals,Male,False,French,44.0,25,GRAD,79000,25-44
+209392,shopping,IQ,Locals,Male,False,French,44.0,25,GRAD,4800,25-44
+209393,shopping,JO,Locals,Male,False,French,44.0,25,GRAD,4600,25-44
+209394,shopping,KW,Locals,Male,False,French,44.0,25,GRAD,770,25-44
+209395,shopping,LB,Locals,Male,False,French,44.0,25,GRAD,23000,25-44
+209396,shopping,LY,Locals,Male,False,French,44.0,25,GRAD,2600,25-44
+209397,shopping,MA,Locals,Male,False,French,44.0,25,GRAD,720000,25-44
+209398,shopping,OM,Locals,Male,False,French,44.0,25,GRAD,730,25-44
+209399,shopping,QA,Locals,Male,False,French,44.0,25,GRAD,1500,25-44
+209400,shopping,SA,Locals,Male,False,French,44.0,25,GRAD,9400,25-44
+209401,shopping,SO,Locals,Male,False,French,44.0,25,GRAD,660,25-44
+209402,shopping,TN,Locals,Male,False,French,44.0,25,GRAD,490000,25-44
+209403,shopping,AE,Locals,Male,False,French,44.0,25,GRAD,3900,25-44
+209404,shopping,YE,Locals,Male,False,French,44.0,25,GRAD,790,25-44
+209405,shopping,PS,Locals,Male,False,French,44.0,25,GRAD,1200,25-44
+209457,shopping,DZ,Locals,Female,False,French,44.0,25,ND,550000,25-44
+209459,shopping,EG,Locals,Female,False,French,44.0,25,ND,7100,25-44
+209460,shopping,IQ,Locals,Female,False,French,44.0,25,ND,790,25-44
+209461,shopping,JO,Locals,Female,False,French,44.0,25,ND,660,25-44
+209462,shopping,KW,Locals,Female,False,French,44.0,25,ND,430,25-44
+209463,shopping,LB,Locals,Female,False,French,44.0,25,ND,14000,25-44
+209464,shopping,LY,Locals,Female,False,French,44.0,25,ND,810,25-44
+209465,shopping,MA,Locals,Female,False,French,44.0,25,ND,410000,25-44
+209466,shopping,OM,Locals,Female,False,French,44.0,25,ND,130,25-44
+209467,shopping,QA,Locals,Female,False,French,44.0,25,ND,510,25-44
+209468,shopping,SA,Locals,Female,False,French,44.0,25,ND,5900,25-44
+209469,shopping,SO,Locals,Female,False,French,44.0,25,ND,100,25-44
+209470,shopping,TN,Locals,Female,False,French,44.0,25,ND,340000,25-44
+209471,shopping,AE,Locals,Female,False,French,44.0,25,ND,1500,25-44
+209472,shopping,YE,Locals,Female,False,French,44.0,25,ND,60,25-44
+209473,shopping,PS,Locals,Female,False,French,44.0,25,ND,180,25-44
+209474,shopping,DZ,Locals,Female,False,French,44.0,25,HS,100000,25-44
+209476,shopping,EG,Locals,Female,False,French,44.0,25,HS,7600,25-44
+209477,shopping,IQ,Locals,Female,False,French,44.0,25,HS,550,25-44
+209478,shopping,JO,Locals,Female,False,French,44.0,25,HS,510,25-44
+209479,shopping,KW,Locals,Female,False,French,44.0,25,HS,110,25-44
+209480,shopping,LB,Locals,Female,False,French,44.0,25,HS,7200,25-44
+209481,shopping,LY,Locals,Female,False,French,44.0,25,HS,290,25-44
+209482,shopping,MA,Locals,Female,False,French,44.0,25,HS,110000,25-44
+209483,shopping,OM,Locals,Female,False,French,44.0,25,HS,0,25-44
+209484,shopping,QA,Locals,Female,False,French,44.0,25,HS,150,25-44
+209485,shopping,SA,Locals,Female,False,French,44.0,25,HS,1300,25-44
+209486,shopping,SO,Locals,Female,False,French,44.0,25,HS,80,25-44
+209487,shopping,TN,Locals,Female,False,French,44.0,25,HS,110000,25-44
+209488,shopping,AE,Locals,Female,False,French,44.0,25,HS,530,25-44
+209489,shopping,YE,Locals,Female,False,French,44.0,25,HS,40,25-44
+209490,shopping,PS,Locals,Female,False,French,44.0,25,HS,190,25-44
+209491,shopping,DZ,Locals,Female,False,French,44.0,25,GRAD,460000,25-44
+209493,shopping,EG,Locals,Female,False,French,44.0,25,GRAD,58000,25-44
+209494,shopping,IQ,Locals,Female,False,French,44.0,25,GRAD,2300,25-44
+209495,shopping,JO,Locals,Female,False,French,44.0,25,GRAD,3600,25-44
+209496,shopping,KW,Locals,Female,False,French,44.0,25,GRAD,590,25-44
+209497,shopping,LB,Locals,Female,False,French,44.0,25,GRAD,32000,25-44
+209498,shopping,LY,Locals,Female,False,French,44.0,25,GRAD,1300,25-44
+209499,shopping,MA,Locals,Female,False,French,44.0,25,GRAD,380000,25-44
+209500,shopping,OM,Locals,Female,False,French,44.0,25,GRAD,300,25-44
+209501,shopping,QA,Locals,Female,False,French,44.0,25,GRAD,1100,25-44
+209502,shopping,SA,Locals,Female,False,French,44.0,25,GRAD,5000,25-44
+209503,shopping,SO,Locals,Female,False,French,44.0,25,GRAD,140,25-44
+209504,shopping,TN,Locals,Female,False,French,44.0,25,GRAD,410000,25-44
+209505,shopping,AE,Locals,Female,False,French,44.0,25,GRAD,2400,25-44
+209506,shopping,YE,Locals,Female,False,French,44.0,25,GRAD,220,25-44
+209507,shopping,PS,Locals,Female,False,French,44.0,25,GRAD,1200,25-44
+209661,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,ND,160000,45+
+209663,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,ND,2000,45+
+209664,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,ND,240,45+
+209665,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,ND,170,45+
+209666,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,ND,50,45+
+209667,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,ND,5700,45+
+209668,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,ND,350,45+
+209669,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,ND,170000,45+
+209670,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+209671,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,ND,150,45+
+209672,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,ND,1900,45+
+209673,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+209674,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,ND,110000,45+
+209675,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,ND,360,45+
+209676,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,ND,0,45+
+209677,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,ND,40,45+
+209678,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,HS,36000,45+
+209680,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,HS,1200,45+
+209681,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,HS,80,45+
+209682,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+209683,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209684,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,HS,1800,45+
+209685,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,HS,110,45+
+209686,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,HS,38000,45+
+209687,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,HS,30,45+
+209688,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209689,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,HS,360,45+
+209690,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209691,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,HS,42000,45+
+209692,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,HS,120,45+
+209693,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209694,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,HS,0,45+
+209695,shopping,DZ,Locals,Male,False,French,NOTSELECTED,45,GRAD,99000,45+
+209697,shopping,EG,Locals,Male,False,French,NOTSELECTED,45,GRAD,7100,45+
+209698,shopping,IQ,Locals,Male,False,French,NOTSELECTED,45,GRAD,570,45+
+209699,shopping,JO,Locals,Male,False,French,NOTSELECTED,45,GRAD,560,45+
+209700,shopping,KW,Locals,Male,False,French,NOTSELECTED,45,GRAD,150,45+
+209701,shopping,LB,Locals,Male,False,French,NOTSELECTED,45,GRAD,8300,45+
+209702,shopping,LY,Locals,Male,False,French,NOTSELECTED,45,GRAD,440,45+
+209703,shopping,MA,Locals,Male,False,French,NOTSELECTED,45,GRAD,120000,45+
+209704,shopping,OM,Locals,Male,False,French,NOTSELECTED,45,GRAD,110,45+
+209705,shopping,QA,Locals,Male,False,French,NOTSELECTED,45,GRAD,170,45+
+209706,shopping,SA,Locals,Male,False,French,NOTSELECTED,45,GRAD,1200,45+
+209707,shopping,SO,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+209708,shopping,TN,Locals,Male,False,French,NOTSELECTED,45,GRAD,100000,45+
+209709,shopping,AE,Locals,Male,False,French,NOTSELECTED,45,GRAD,340,45+
+209710,shopping,YE,Locals,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+209711,shopping,PS,Locals,Male,False,French,NOTSELECTED,45,GRAD,100,45+
+209763,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,ND,88000,45+
+209765,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,ND,2300,45+
+209766,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+209767,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,ND,170,45+
+209768,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,ND,30,45+
+209769,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,ND,14000,45+
+209770,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,ND,180,45+
+209771,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,ND,91000,45+
+209772,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209773,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,ND,100,45+
+209774,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,ND,850,45+
+209775,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209776,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,ND,83000,45+
+209777,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,ND,280,45+
+209778,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,ND,0,45+
+209779,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,ND,40,45+
+209780,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,HS,18000,45+
+209782,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,HS,1300,45+
+209783,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209784,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,HS,100,45+
+209785,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,HS,30,45+
+209786,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,HS,3300,45+
+209787,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,HS,60,45+
+209788,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,HS,20000,45+
+209789,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209790,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,HS,40,45+
+209791,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,HS,130,45+
+209792,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209793,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,HS,29000,45+
+209794,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,HS,120,45+
+209795,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209796,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,HS,0,45+
+209797,shopping,DZ,Locals,Female,False,French,NOTSELECTED,45,GRAD,44000,45+
+209799,shopping,EG,Locals,Female,False,French,NOTSELECTED,45,GRAD,7500,45+
+209800,shopping,IQ,Locals,Female,False,French,NOTSELECTED,45,GRAD,210,45+
+209801,shopping,JO,Locals,Female,False,French,NOTSELECTED,45,GRAD,340,45+
+209802,shopping,KW,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
+209803,shopping,LB,Locals,Female,False,French,NOTSELECTED,45,GRAD,11000,45+
+209804,shopping,LY,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+209805,shopping,MA,Locals,Female,False,French,NOTSELECTED,45,GRAD,49000,45+
+209806,shopping,OM,Locals,Female,False,French,NOTSELECTED,45,GRAD,40,45+
+209807,shopping,QA,Locals,Female,False,French,NOTSELECTED,45,GRAD,50,45+
+209808,shopping,SA,Locals,Female,False,French,NOTSELECTED,45,GRAD,480,45+
+209809,shopping,SO,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209810,shopping,TN,Locals,Female,False,French,NOTSELECTED,45,GRAD,52000,45+
+209811,shopping,AE,Locals,Female,False,French,NOTSELECTED,45,GRAD,170,45+
+209812,shopping,YE,Locals,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209813,shopping,PS,Locals,Female,False,French,NOTSELECTED,45,GRAD,60,45+
 62016,luxury goods,DZ,Expats,Male,False,Arabic,24.0,18,ND,140000,18-24
 62018,luxury goods,EG,Expats,Male,False,Arabic,24.0,18,ND,410000,18-24
 62019,luxury goods,IQ,Expats,Male,False,Arabic,24.0,18,ND,70000,18-24
@@ -5759,3 +6335,579 @@
 87598,shopping,AE,Expats,Female,False,English,NOTSELECTED,45,GRAD,15000,45+
 87599,shopping,YE,Expats,Female,False,English,NOTSELECTED,45,GRAD,45,45+
 87600,shopping,PS,Expats,Female,False,English,NOTSELECTED,45,GRAD,0,45+
+207162,luxury goods,DZ,Expats,Male,False,French,24.0,18,ND,75000,18-24
+207164,luxury goods,EG,Expats,Male,False,French,24.0,18,ND,3450,18-24
+207165,luxury goods,IQ,Expats,Male,False,French,24.0,18,ND,290,18-24
+207166,luxury goods,JO,Expats,Male,False,French,24.0,18,ND,430,18-24
+207167,luxury goods,KW,Expats,Male,False,French,24.0,18,ND,190,18-24
+207168,luxury goods,LB,Expats,Male,False,French,24.0,18,ND,1550,18-24
+207169,luxury goods,LY,Expats,Male,False,French,24.0,18,ND,360,18-24
+207170,luxury goods,MA,Expats,Male,False,French,24.0,18,ND,60000,18-24
+207171,luxury goods,OM,Expats,Male,False,French,24.0,18,ND,90,18-24
+207172,luxury goods,QA,Expats,Male,False,French,24.0,18,ND,435,18-24
+207173,luxury goods,SA,Expats,Male,False,French,24.0,18,ND,950,18-24
+207174,luxury goods,SO,Expats,Male,False,French,24.0,18,ND,0,18-24
+207175,luxury goods,TN,Expats,Male,False,French,24.0,18,ND,39000,18-24
+207176,luxury goods,AE,Expats,Male,False,French,24.0,18,ND,750,18-24
+207177,luxury goods,YE,Expats,Male,False,French,24.0,18,ND,15,18-24
+207178,luxury goods,PS,Expats,Male,False,French,24.0,18,ND,75,18-24
+207179,luxury goods,DZ,Expats,Male,False,French,24.0,18,HS,47500,18-24
+207181,luxury goods,EG,Expats,Male,False,French,24.0,18,HS,24500,18-24
+207182,luxury goods,IQ,Expats,Male,False,French,24.0,18,HS,1050,18-24
+207183,luxury goods,JO,Expats,Male,False,French,24.0,18,HS,1650,18-24
+207184,luxury goods,KW,Expats,Male,False,French,24.0,18,HS,165,18-24
+207185,luxury goods,LB,Expats,Male,False,French,24.0,18,HS,3500,18-24
+207186,luxury goods,LY,Expats,Male,False,French,24.0,18,HS,315,18-24
+207187,luxury goods,MA,Expats,Male,False,French,24.0,18,HS,50000,18-24
+207188,luxury goods,OM,Expats,Male,False,French,24.0,18,HS,170,18-24
+207189,luxury goods,QA,Expats,Male,False,French,24.0,18,HS,300,18-24
+207190,luxury goods,SA,Expats,Male,False,French,24.0,18,HS,950,18-24
+207191,luxury goods,SO,Expats,Male,False,French,24.0,18,HS,0,18-24
+207192,luxury goods,TN,Expats,Male,False,French,24.0,18,HS,30500,18-24
+207193,luxury goods,AE,Expats,Male,False,French,24.0,18,HS,1100,18-24
+207194,luxury goods,YE,Expats,Male,False,French,24.0,18,HS,65,18-24
+207195,luxury goods,PS,Expats,Male,False,French,24.0,18,HS,210,18-24
+207196,luxury goods,DZ,Expats,Male,False,French,24.0,18,GRAD,110000,18-24
+207198,luxury goods,EG,Expats,Male,False,French,24.0,18,GRAD,29500,18-24
+207199,luxury goods,IQ,Expats,Male,False,French,24.0,18,GRAD,850,18-24
+207200,luxury goods,JO,Expats,Male,False,French,24.0,18,GRAD,1750,18-24
+207201,luxury goods,KW,Expats,Male,False,French,24.0,18,GRAD,410,18-24
+207202,luxury goods,LB,Expats,Male,False,French,24.0,18,GRAD,3450,18-24
+207203,luxury goods,LY,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+207204,luxury goods,MA,Expats,Male,False,French,24.0,18,GRAD,125000,18-24
+207205,luxury goods,OM,Expats,Male,False,French,24.0,18,GRAD,190,18-24
+207206,luxury goods,QA,Expats,Male,False,French,24.0,18,GRAD,800,18-24
+207207,luxury goods,SA,Expats,Male,False,French,24.0,18,GRAD,1800,18-24
+207208,luxury goods,SO,Expats,Male,False,French,24.0,18,GRAD,35,18-24
+207209,luxury goods,TN,Expats,Male,False,French,24.0,18,GRAD,65000,18-24
+207210,luxury goods,AE,Expats,Male,False,French,24.0,18,GRAD,2150,18-24
+207211,luxury goods,YE,Expats,Male,False,French,24.0,18,GRAD,60,18-24
+207212,luxury goods,PS,Expats,Male,False,French,24.0,18,GRAD,295,18-24
+207264,luxury goods,DZ,Expats,Female,False,French,24.0,18,ND,85000,18-24
+207266,luxury goods,EG,Expats,Female,False,French,24.0,18,ND,3350,18-24
+207267,luxury goods,IQ,Expats,Female,False,French,24.0,18,ND,275,18-24
+207268,luxury goods,JO,Expats,Female,False,French,24.0,18,ND,485,18-24
+207269,luxury goods,KW,Expats,Female,False,French,24.0,18,ND,335,18-24
+207270,luxury goods,LB,Expats,Female,False,French,24.0,18,ND,2550,18-24
+207271,luxury goods,LY,Expats,Female,False,French,24.0,18,ND,190,18-24
+207272,luxury goods,MA,Expats,Female,False,French,24.0,18,ND,100000,18-24
+207273,luxury goods,OM,Expats,Female,False,French,24.0,18,ND,80,18-24
+207274,luxury goods,QA,Expats,Female,False,French,24.0,18,ND,150,18-24
+207275,luxury goods,SA,Expats,Female,False,French,24.0,18,ND,1100,18-24
+207276,luxury goods,SO,Expats,Female,False,French,24.0,18,ND,0,18-24
+207277,luxury goods,TN,Expats,Female,False,French,24.0,18,ND,65000,18-24
+207278,luxury goods,AE,Expats,Female,False,French,24.0,18,ND,700,18-24
+207279,luxury goods,YE,Expats,Female,False,French,24.0,18,ND,20,18-24
+207280,luxury goods,PS,Expats,Female,False,French,24.0,18,ND,60,18-24
+207281,luxury goods,DZ,Expats,Female,False,French,24.0,18,HS,49500,18-24
+207283,luxury goods,EG,Expats,Female,False,French,24.0,18,HS,26000,18-24
+207284,luxury goods,IQ,Expats,Female,False,French,24.0,18,HS,950,18-24
+207285,luxury goods,JO,Expats,Female,False,French,24.0,18,HS,2050,18-24
+207286,luxury goods,KW,Expats,Female,False,French,24.0,18,HS,270,18-24
+207287,luxury goods,LB,Expats,Female,False,French,24.0,18,HS,6500,18-24
+207288,luxury goods,LY,Expats,Female,False,French,24.0,18,HS,550,18-24
+207289,luxury goods,MA,Expats,Female,False,French,24.0,18,HS,70000,18-24
+207290,luxury goods,OM,Expats,Female,False,French,24.0,18,HS,125,18-24
+207291,luxury goods,QA,Expats,Female,False,French,24.0,18,HS,275,18-24
+207292,luxury goods,SA,Expats,Female,False,French,24.0,18,HS,1000,18-24
+207293,luxury goods,SO,Expats,Female,False,French,24.0,18,HS,0,18-24
+207294,luxury goods,TN,Expats,Female,False,French,24.0,18,HS,46500,18-24
+207295,luxury goods,AE,Expats,Female,False,French,24.0,18,HS,1150,18-24
+207296,luxury goods,YE,Expats,Female,False,French,24.0,18,HS,35,18-24
+207297,luxury goods,PS,Expats,Female,False,French,24.0,18,HS,495,18-24
+207298,luxury goods,DZ,Expats,Female,False,French,24.0,18,GRAD,105000,18-24
+207300,luxury goods,EG,Expats,Female,False,French,24.0,18,GRAD,27000,18-24
+207301,luxury goods,IQ,Expats,Female,False,French,24.0,18,GRAD,700,18-24
+207302,luxury goods,JO,Expats,Female,False,French,24.0,18,GRAD,1550,18-24
+207303,luxury goods,KW,Expats,Female,False,French,24.0,18,GRAD,290,18-24
+207304,luxury goods,LB,Expats,Female,False,French,24.0,18,GRAD,6000,18-24
+207305,luxury goods,LY,Expats,Female,False,French,24.0,18,GRAD,550,18-24
+207306,luxury goods,MA,Expats,Female,False,French,24.0,18,GRAD,145000,18-24
+207307,luxury goods,OM,Expats,Female,False,French,24.0,18,GRAD,80,18-24
+207308,luxury goods,QA,Expats,Female,False,French,24.0,18,GRAD,550,18-24
+207309,luxury goods,SA,Expats,Female,False,French,24.0,18,GRAD,1300,18-24
+207310,luxury goods,SO,Expats,Female,False,French,24.0,18,GRAD,45,18-24
+207311,luxury goods,TN,Expats,Female,False,French,24.0,18,GRAD,90000,18-24
+207312,luxury goods,AE,Expats,Female,False,French,24.0,18,GRAD,1700,18-24
+207313,luxury goods,YE,Expats,Female,False,French,24.0,18,GRAD,35,18-24
+207314,luxury goods,PS,Expats,Female,False,French,24.0,18,GRAD,440,18-24
+207468,luxury goods,DZ,Expats,Male,False,French,44.0,25,ND,115000,25-44
+207470,luxury goods,EG,Expats,Male,False,French,44.0,25,ND,1700,25-44
+207471,luxury goods,IQ,Expats,Male,False,French,44.0,25,ND,170,25-44
+207472,luxury goods,JO,Expats,Male,False,French,44.0,25,ND,300,25-44
+207473,luxury goods,KW,Expats,Male,False,French,44.0,25,ND,490,25-44
+207474,luxury goods,LB,Expats,Male,False,French,44.0,25,ND,2050,25-44
+207475,luxury goods,LY,Expats,Male,False,French,44.0,25,ND,650,25-44
+207476,luxury goods,MA,Expats,Male,False,French,44.0,25,ND,80000,25-44
+207477,luxury goods,OM,Expats,Male,False,French,44.0,25,ND,305,25-44
+207478,luxury goods,QA,Expats,Male,False,French,44.0,25,ND,1600,25-44
+207479,luxury goods,SA,Expats,Male,False,French,44.0,25,ND,2650,25-44
+207480,luxury goods,SO,Expats,Male,False,French,44.0,25,ND,0,25-44
+207481,luxury goods,TN,Expats,Male,False,French,44.0,25,ND,70000,25-44
+207482,luxury goods,AE,Expats,Male,False,French,44.0,25,ND,2200,25-44
+207483,luxury goods,YE,Expats,Male,False,French,44.0,25,ND,0,25-44
+207484,luxury goods,PS,Expats,Male,False,French,44.0,25,ND,20,25-44
+207485,luxury goods,DZ,Expats,Male,False,French,44.0,25,HS,37000,25-44
+207487,luxury goods,EG,Expats,Male,False,French,44.0,25,HS,3150,25-44
+207488,luxury goods,IQ,Expats,Male,False,French,44.0,25,HS,240,25-44
+207489,luxury goods,JO,Expats,Male,False,French,44.0,25,HS,455,25-44
+207490,luxury goods,KW,Expats,Male,False,French,44.0,25,HS,290,25-44
+207491,luxury goods,LB,Expats,Male,False,French,44.0,25,HS,1900,25-44
+207492,luxury goods,LY,Expats,Male,False,French,44.0,25,HS,300,25-44
+207493,luxury goods,MA,Expats,Male,False,French,44.0,25,HS,33000,25-44
+207494,luxury goods,OM,Expats,Male,False,French,44.0,25,HS,165,25-44
+207495,luxury goods,QA,Expats,Male,False,French,44.0,25,HS,900,25-44
+207496,luxury goods,SA,Expats,Male,False,French,44.0,25,HS,1550,25-44
+207497,luxury goods,SO,Expats,Male,False,French,44.0,25,HS,0,25-44
+207498,luxury goods,TN,Expats,Male,False,French,44.0,25,HS,31500,25-44
+207499,luxury goods,AE,Expats,Male,False,French,44.0,25,HS,1700,25-44
+207500,luxury goods,YE,Expats,Male,False,French,44.0,25,HS,40,25-44
+207501,luxury goods,PS,Expats,Male,False,French,44.0,25,HS,45,25-44
+207502,luxury goods,DZ,Expats,Male,False,French,44.0,25,GRAD,150000,25-44
+207504,luxury goods,EG,Expats,Male,False,French,44.0,25,GRAD,21000,25-44
+207505,luxury goods,IQ,Expats,Male,False,French,44.0,25,GRAD,1050,25-44
+207506,luxury goods,JO,Expats,Male,False,French,44.0,25,GRAD,2050,25-44
+207507,luxury goods,KW,Expats,Male,False,French,44.0,25,GRAD,1650,25-44
+207508,luxury goods,LB,Expats,Male,False,French,44.0,25,GRAD,7500,25-44
+207509,luxury goods,LY,Expats,Male,False,French,44.0,25,GRAD,950,25-44
+207510,luxury goods,MA,Expats,Male,False,French,44.0,25,GRAD,130000,25-44
+207511,luxury goods,OM,Expats,Male,False,French,44.0,25,GRAD,1200,25-44
+207512,luxury goods,QA,Expats,Male,False,French,44.0,25,GRAD,4100,25-44
+207513,luxury goods,SA,Expats,Male,False,French,44.0,25,GRAD,9500,25-44
+207514,luxury goods,SO,Expats,Male,False,French,44.0,25,GRAD,40,25-44
+207515,luxury goods,TN,Expats,Male,False,French,44.0,25,GRAD,115000,25-44
+207516,luxury goods,AE,Expats,Male,False,French,44.0,25,GRAD,9000,25-44
+207517,luxury goods,YE,Expats,Male,False,French,44.0,25,GRAD,95,25-44
+207518,luxury goods,PS,Expats,Male,False,French,44.0,25,GRAD,330,25-44
+207570,luxury goods,DZ,Expats,Female,False,French,44.0,25,ND,85000,25-44
+207572,luxury goods,EG,Expats,Female,False,French,44.0,25,ND,1650,25-44
+207573,luxury goods,IQ,Expats,Female,False,French,44.0,25,ND,145,25-44
+207574,luxury goods,JO,Expats,Female,False,French,44.0,25,ND,245,25-44
+207575,luxury goods,KW,Expats,Female,False,French,44.0,25,ND,550,25-44
+207576,luxury goods,LB,Expats,Female,False,French,44.0,25,ND,5500,25-44
+207577,luxury goods,LY,Expats,Female,False,French,44.0,25,ND,260,25-44
+207578,luxury goods,MA,Expats,Female,False,French,44.0,25,ND,95000,25-44
+207579,luxury goods,OM,Expats,Female,False,French,44.0,25,ND,225,25-44
+207580,luxury goods,QA,Expats,Female,False,French,44.0,25,ND,600,25-44
+207581,luxury goods,SA,Expats,Female,False,French,44.0,25,ND,1850,25-44
+207582,luxury goods,SO,Expats,Female,False,French,44.0,25,ND,0,25-44
+207583,luxury goods,TN,Expats,Female,False,French,44.0,25,ND,85000,25-44
+207584,luxury goods,AE,Expats,Female,False,French,44.0,25,ND,2100,25-44
+207585,luxury goods,YE,Expats,Female,False,French,44.0,25,ND,0,25-44
+207586,luxury goods,PS,Expats,Female,False,French,44.0,25,ND,25,25-44
+207587,luxury goods,DZ,Expats,Female,False,French,44.0,25,HS,23500,25-44
+207589,luxury goods,EG,Expats,Female,False,French,44.0,25,HS,2600,25-44
+207590,luxury goods,IQ,Expats,Female,False,French,44.0,25,HS,180,25-44
+207591,luxury goods,JO,Expats,Female,False,French,44.0,25,HS,315,25-44
+207592,luxury goods,KW,Expats,Female,False,French,44.0,25,HS,285,25-44
+207593,luxury goods,LB,Expats,Female,False,French,44.0,25,HS,3000,25-44
+207594,luxury goods,LY,Expats,Female,False,French,44.0,25,HS,100,25-44
+207595,luxury goods,MA,Expats,Female,False,French,44.0,25,HS,34000,25-44
+207596,luxury goods,OM,Expats,Female,False,French,44.0,25,HS,105,25-44
+207597,luxury goods,QA,Expats,Female,False,French,44.0,25,HS,305,25-44
+207598,luxury goods,SA,Expats,Female,False,French,44.0,25,HS,950,25-44
+207599,luxury goods,SO,Expats,Female,False,French,44.0,25,HS,0,25-44
+207600,luxury goods,TN,Expats,Female,False,French,44.0,25,HS,35000,25-44
+207601,luxury goods,AE,Expats,Female,False,French,44.0,25,HS,1250,25-44
+207602,luxury goods,YE,Expats,Female,False,French,44.0,25,HS,0,25-44
+207603,luxury goods,PS,Expats,Female,False,French,44.0,25,HS,80,25-44
+207604,luxury goods,DZ,Expats,Female,False,French,44.0,25,GRAD,110000,25-44
+207606,luxury goods,EG,Expats,Female,False,French,44.0,25,GRAD,19000,25-44
+207607,luxury goods,IQ,Expats,Female,False,French,44.0,25,GRAD,800,25-44
+207608,luxury goods,JO,Expats,Female,False,French,44.0,25,GRAD,1950,25-44
+207609,luxury goods,KW,Expats,Female,False,French,44.0,25,GRAD,1400,25-44
+207610,luxury goods,LB,Expats,Female,False,French,44.0,25,GRAD,13500,25-44
+207611,luxury goods,LY,Expats,Female,False,French,44.0,25,GRAD,550,25-44
+207612,luxury goods,MA,Expats,Female,False,French,44.0,25,GRAD,130000,25-44
+207613,luxury goods,OM,Expats,Female,False,French,44.0,25,GRAD,700,25-44
+207614,luxury goods,QA,Expats,Female,False,French,44.0,25,GRAD,2250,25-44
+207615,luxury goods,SA,Expats,Female,False,French,44.0,25,GRAD,4400,25-44
+207616,luxury goods,SO,Expats,Female,False,French,44.0,25,GRAD,0,25-44
+207617,luxury goods,TN,Expats,Female,False,French,44.0,25,GRAD,140000,25-44
+207618,luxury goods,AE,Expats,Female,False,French,44.0,25,GRAD,7000,25-44
+207619,luxury goods,YE,Expats,Female,False,French,44.0,25,GRAD,45,25-44
+207620,luxury goods,PS,Expats,Female,False,French,44.0,25,GRAD,485,25-44
+207774,luxury goods,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,15500,45+
+207776,luxury goods,EG,Expats,Male,False,French,NOTSELECTED,45,ND,350,45+
+207777,luxury goods,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,20,45+
+207778,luxury goods,JO,Expats,Male,False,French,NOTSELECTED,45,ND,55,45+
+207779,luxury goods,KW,Expats,Male,False,French,NOTSELECTED,45,ND,75,45+
+207780,luxury goods,LB,Expats,Male,False,French,NOTSELECTED,45,ND,1300,45+
+207781,luxury goods,LY,Expats,Male,False,French,NOTSELECTED,45,ND,65,45+
+207782,luxury goods,MA,Expats,Male,False,French,NOTSELECTED,45,ND,15000,45+
+207783,luxury goods,OM,Expats,Male,False,French,NOTSELECTED,45,ND,45,45+
+207784,luxury goods,QA,Expats,Male,False,French,NOTSELECTED,45,ND,190,45+
+207785,luxury goods,SA,Expats,Male,False,French,NOTSELECTED,45,ND,600,45+
+207786,luxury goods,SO,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+207787,luxury goods,TN,Expats,Male,False,French,NOTSELECTED,45,ND,16000,45+
+207788,luxury goods,AE,Expats,Male,False,French,NOTSELECTED,45,ND,365,45+
+207789,luxury goods,YE,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+207790,luxury goods,PS,Expats,Male,False,French,NOTSELECTED,45,ND,0,45+
+207791,luxury goods,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,5000,45+
+207793,luxury goods,EG,Expats,Male,False,French,NOTSELECTED,45,HS,295,45+
+207794,luxury goods,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,15,45+
+207795,luxury goods,JO,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+207796,luxury goods,KW,Expats,Male,False,French,NOTSELECTED,45,HS,65,45+
+207797,luxury goods,LB,Expats,Male,False,French,NOTSELECTED,45,HS,550,45+
+207798,luxury goods,LY,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+207799,luxury goods,MA,Expats,Male,False,French,NOTSELECTED,45,HS,4800,45+
+207800,luxury goods,OM,Expats,Male,False,French,NOTSELECTED,45,HS,40,45+
+207801,luxury goods,QA,Expats,Male,False,French,NOTSELECTED,45,HS,70,45+
+207802,luxury goods,SA,Expats,Male,False,French,NOTSELECTED,45,HS,255,45+
+207803,luxury goods,SO,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+207804,luxury goods,TN,Expats,Male,False,French,NOTSELECTED,45,HS,8000,45+
+207805,luxury goods,AE,Expats,Male,False,French,NOTSELECTED,45,HS,195,45+
+207806,luxury goods,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+207807,luxury goods,PS,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+207808,luxury goods,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,15000,45+
+207810,luxury goods,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,1500,45+
+207811,luxury goods,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,65,45+
+207812,luxury goods,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,250,45+
+207813,luxury goods,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,220,45+
+207814,luxury goods,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,2400,45+
+207815,luxury goods,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,80,45+
+207816,luxury goods,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,15500,45+
+207817,luxury goods,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,155,45+
+207818,luxury goods,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,500,45+
+207819,luxury goods,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,1050,45+
+207820,luxury goods,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207821,luxury goods,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,21000,45+
+207822,luxury goods,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,900,45+
+207823,luxury goods,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,0,45+
+207824,luxury goods,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,35,45+
+207876,luxury goods,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,13500,45+
+207878,luxury goods,EG,Expats,Female,False,French,NOTSELECTED,45,ND,500,45+
+207879,luxury goods,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,15,45+
+207880,luxury goods,JO,Expats,Female,False,French,NOTSELECTED,45,ND,90,45+
+207881,luxury goods,KW,Expats,Female,False,French,NOTSELECTED,45,ND,100,45+
+207882,luxury goods,LB,Expats,Female,False,French,NOTSELECTED,45,ND,4300,45+
+207883,luxury goods,LY,Expats,Female,False,French,NOTSELECTED,45,ND,50,45+
+207884,luxury goods,MA,Expats,Female,False,French,NOTSELECTED,45,ND,18000,45+
+207885,luxury goods,OM,Expats,Female,False,French,NOTSELECTED,45,ND,30,45+
+207886,luxury goods,QA,Expats,Female,False,French,NOTSELECTED,45,ND,135,45+
+207887,luxury goods,SA,Expats,Female,False,French,NOTSELECTED,45,ND,315,45+
+207888,luxury goods,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+207889,luxury goods,TN,Expats,Female,False,French,NOTSELECTED,45,ND,18500,45+
+207890,luxury goods,AE,Expats,Female,False,French,NOTSELECTED,45,ND,370,45+
+207891,luxury goods,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+207892,luxury goods,PS,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+207893,luxury goods,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,4250,45+
+207895,luxury goods,EG,Expats,Female,False,French,NOTSELECTED,45,HS,360,45+
+207896,luxury goods,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+207897,luxury goods,JO,Expats,Female,False,French,NOTSELECTED,45,HS,75,45+
+207898,luxury goods,KW,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+207899,luxury goods,LB,Expats,Female,False,French,NOTSELECTED,45,HS,1150,45+
+207900,luxury goods,LY,Expats,Female,False,French,NOTSELECTED,45,HS,15,45+
+207901,luxury goods,MA,Expats,Female,False,French,NOTSELECTED,45,HS,6000,45+
+207902,luxury goods,OM,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+207903,luxury goods,QA,Expats,Female,False,French,NOTSELECTED,45,HS,85,45+
+207904,luxury goods,SA,Expats,Female,False,French,NOTSELECTED,45,HS,120,45+
+207905,luxury goods,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+207906,luxury goods,TN,Expats,Female,False,French,NOTSELECTED,45,HS,8500,45+
+207907,luxury goods,AE,Expats,Female,False,French,NOTSELECTED,45,HS,180,45+
+207908,luxury goods,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+207909,luxury goods,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+207910,luxury goods,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,10000,45+
+207912,luxury goods,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,2250,45+
+207913,luxury goods,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,65,45+
+207914,luxury goods,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,240,45+
+207915,luxury goods,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,160,45+
+207916,luxury goods,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,4100,45+
+207917,luxury goods,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,85,45+
+207918,luxury goods,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,14500,45+
+207919,luxury goods,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,85,45+
+207920,luxury goods,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,180,45+
+207921,luxury goods,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,405,45+
+207922,luxury goods,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207923,luxury goods,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,16000,45+
+207924,luxury goods,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,650,45+
+207925,luxury goods,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+207926,luxury goods,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,25,45+
+208998,shopping,DZ,Expats,Male,False,French,24.0,18,ND,350000,18-24
+209000,shopping,EG,Expats,Male,False,French,24.0,18,ND,7500,18-24
+209001,shopping,IQ,Expats,Male,False,French,24.0,18,ND,1500,18-24
+209002,shopping,JO,Expats,Male,False,French,24.0,18,ND,900,18-24
+209003,shopping,KW,Expats,Male,False,French,24.0,18,ND,360,18-24
+209004,shopping,LB,Expats,Male,False,French,24.0,18,ND,2850,18-24
+209005,shopping,LY,Expats,Male,False,French,24.0,18,ND,2900,18-24
+209006,shopping,MA,Expats,Male,False,French,24.0,18,ND,250000,18-24
+209007,shopping,OM,Expats,Male,False,French,24.0,18,ND,160,18-24
+209008,shopping,QA,Expats,Male,False,French,24.0,18,ND,850,18-24
+209009,shopping,SA,Expats,Male,False,French,24.0,18,ND,2250,18-24
+209010,shopping,SO,Expats,Male,False,French,24.0,18,ND,110,18-24
+209011,shopping,TN,Expats,Male,False,French,24.0,18,ND,140000,18-24
+209012,shopping,AE,Expats,Male,False,French,24.0,18,ND,1750,18-24
+209013,shopping,YE,Expats,Male,False,French,24.0,18,ND,90,18-24
+209014,shopping,PS,Expats,Male,False,French,24.0,18,ND,225,18-24
+209015,shopping,DZ,Expats,Male,False,French,24.0,18,HS,135000,18-24
+209017,shopping,EG,Expats,Male,False,French,24.0,18,HS,41000,18-24
+209018,shopping,IQ,Expats,Male,False,French,24.0,18,HS,2300,18-24
+209019,shopping,JO,Expats,Male,False,French,24.0,18,HS,2450,18-24
+209020,shopping,KW,Expats,Male,False,French,24.0,18,HS,280,18-24
+209021,shopping,LB,Expats,Male,False,French,24.0,18,HS,5500,18-24
+209022,shopping,LY,Expats,Male,False,French,24.0,18,HS,850,18-24
+209023,shopping,MA,Expats,Male,False,French,24.0,18,HS,140000,18-24
+209024,shopping,OM,Expats,Male,False,French,24.0,18,HS,225,18-24
+209025,shopping,QA,Expats,Male,False,French,24.0,18,HS,550,18-24
+209026,shopping,SA,Expats,Male,False,French,24.0,18,HS,1650,18-24
+209027,shopping,SO,Expats,Male,False,French,24.0,18,HS,125,18-24
+209028,shopping,TN,Expats,Male,False,French,24.0,18,HS,75000,18-24
+209029,shopping,AE,Expats,Male,False,French,24.0,18,HS,1950,18-24
+209030,shopping,YE,Expats,Male,False,French,24.0,18,HS,250,18-24
+209031,shopping,PS,Expats,Male,False,French,24.0,18,HS,430,18-24
+209032,shopping,DZ,Expats,Male,False,French,24.0,18,GRAD,320000,18-24
+209034,shopping,EG,Expats,Male,False,French,24.0,18,GRAD,50000,18-24
+209035,shopping,IQ,Expats,Male,False,French,24.0,18,GRAD,2250,18-24
+209036,shopping,JO,Expats,Male,False,French,24.0,18,GRAD,2750,18-24
+209037,shopping,KW,Expats,Male,False,French,24.0,18,GRAD,600,18-24
+209038,shopping,LB,Expats,Male,False,French,24.0,18,GRAD,6000,18-24
+209039,shopping,LY,Expats,Male,False,French,24.0,18,GRAD,1800,18-24
+209040,shopping,MA,Expats,Male,False,French,24.0,18,GRAD,345000,18-24
+209041,shopping,OM,Expats,Male,False,French,24.0,18,GRAD,345,18-24
+209042,shopping,QA,Expats,Male,False,French,24.0,18,GRAD,1150,18-24
+209043,shopping,SA,Expats,Male,False,French,24.0,18,GRAD,3100,18-24
+209044,shopping,SO,Expats,Male,False,French,24.0,18,GRAD,500,18-24
+209045,shopping,TN,Expats,Male,False,French,24.0,18,GRAD,150000,18-24
+209046,shopping,AE,Expats,Male,False,French,24.0,18,GRAD,3850,18-24
+209047,shopping,YE,Expats,Male,False,French,24.0,18,GRAD,285,18-24
+209048,shopping,PS,Expats,Male,False,French,24.0,18,GRAD,800,18-24
+209100,shopping,DZ,Expats,Female,False,French,24.0,18,ND,335000,18-24
+209102,shopping,EG,Expats,Female,False,French,24.0,18,ND,7500,18-24
+209103,shopping,IQ,Expats,Female,False,French,24.0,18,ND,800,18-24
+209104,shopping,JO,Expats,Female,False,French,24.0,18,ND,1050,18-24
+209105,shopping,KW,Expats,Female,False,French,24.0,18,ND,650,18-24
+209106,shopping,LB,Expats,Female,False,French,24.0,18,ND,4100,18-24
+209107,shopping,LY,Expats,Female,False,French,24.0,18,ND,750,18-24
+209108,shopping,MA,Expats,Female,False,French,24.0,18,ND,225000,18-24
+209109,shopping,OM,Expats,Female,False,French,24.0,18,ND,135,18-24
+209110,shopping,QA,Expats,Female,False,French,24.0,18,ND,350,18-24
+209111,shopping,SA,Expats,Female,False,French,24.0,18,ND,2250,18-24
+209112,shopping,SO,Expats,Female,False,French,24.0,18,ND,120,18-24
+209113,shopping,TN,Expats,Female,False,French,24.0,18,ND,150000,18-24
+209114,shopping,AE,Expats,Female,False,French,24.0,18,ND,1650,18-24
+209115,shopping,YE,Expats,Female,False,French,24.0,18,ND,85,18-24
+209116,shopping,PS,Expats,Female,False,French,24.0,18,ND,180,18-24
+209117,shopping,DZ,Expats,Female,False,French,24.0,18,HS,115000,18-24
+209119,shopping,EG,Expats,Female,False,French,24.0,18,HS,40000,18-24
+209120,shopping,IQ,Expats,Female,False,French,24.0,18,HS,1550,18-24
+209121,shopping,JO,Expats,Female,False,French,24.0,18,HS,2800,18-24
+209122,shopping,KW,Expats,Female,False,French,24.0,18,HS,405,18-24
+209123,shopping,LB,Expats,Female,False,French,24.0,18,HS,8000,18-24
+209124,shopping,LY,Expats,Female,False,French,24.0,18,HS,900,18-24
+209125,shopping,MA,Expats,Female,False,French,24.0,18,HS,115000,18-24
+209126,shopping,OM,Expats,Female,False,French,24.0,18,HS,160,18-24
+209127,shopping,QA,Expats,Female,False,French,24.0,18,HS,365,18-24
+209128,shopping,SA,Expats,Female,False,French,24.0,18,HS,1600,18-24
+209129,shopping,SO,Expats,Female,False,French,24.0,18,HS,50,18-24
+209130,shopping,TN,Expats,Female,False,French,24.0,18,HS,80000,18-24
+209131,shopping,AE,Expats,Female,False,French,24.0,18,HS,2150,18-24
+209132,shopping,YE,Expats,Female,False,French,24.0,18,HS,95,18-24
+209133,shopping,PS,Expats,Female,False,French,24.0,18,HS,800,18-24
+209134,shopping,DZ,Expats,Female,False,French,24.0,18,GRAD,245000,18-24
+209136,shopping,EG,Expats,Female,False,French,24.0,18,GRAD,43500,18-24
+209137,shopping,IQ,Expats,Female,False,French,24.0,18,GRAD,1100,18-24
+209138,shopping,JO,Expats,Female,False,French,24.0,18,GRAD,2350,18-24
+209139,shopping,KW,Expats,Female,False,French,24.0,18,GRAD,455,18-24
+209140,shopping,LB,Expats,Female,False,French,24.0,18,GRAD,8000,18-24
+209141,shopping,LY,Expats,Female,False,French,24.0,18,GRAD,1050,18-24
+209142,shopping,MA,Expats,Female,False,French,24.0,18,GRAD,230000,18-24
+209143,shopping,OM,Expats,Female,False,French,24.0,18,GRAD,110,18-24
+209144,shopping,QA,Expats,Female,False,French,24.0,18,GRAD,700,18-24
+209145,shopping,SA,Expats,Female,False,French,24.0,18,GRAD,1950,18-24
+209146,shopping,SO,Expats,Female,False,French,24.0,18,GRAD,210,18-24
+209147,shopping,TN,Expats,Female,False,French,24.0,18,GRAD,140000,18-24
+209148,shopping,AE,Expats,Female,False,French,24.0,18,GRAD,3100,18-24
+209149,shopping,YE,Expats,Female,False,French,24.0,18,GRAD,120,18-24
+209150,shopping,PS,Expats,Female,False,French,24.0,18,GRAD,850,18-24
+209304,shopping,DZ,Expats,Male,False,French,44.0,25,ND,500000,25-44
+209306,shopping,EG,Expats,Male,False,French,44.0,25,ND,5000,25-44
+209307,shopping,IQ,Expats,Male,False,French,44.0,25,ND,1200,25-44
+209308,shopping,JO,Expats,Male,False,French,44.0,25,ND,650,25-44
+209309,shopping,KW,Expats,Male,False,French,44.0,25,ND,850,25-44
+209310,shopping,LB,Expats,Male,False,French,44.0,25,ND,4550,25-44
+209311,shopping,LY,Expats,Male,False,French,44.0,25,ND,4750,25-44
+209312,shopping,MA,Expats,Male,False,French,44.0,25,ND,375000,25-44
+209313,shopping,OM,Expats,Male,False,French,44.0,25,ND,450,25-44
+209314,shopping,QA,Expats,Male,False,French,44.0,25,ND,2850,25-44
+209315,shopping,SA,Expats,Male,False,French,44.0,25,ND,5500,25-44
+209316,shopping,SO,Expats,Male,False,French,44.0,25,ND,390,25-44
+209317,shopping,TN,Expats,Male,False,French,44.0,25,ND,235000,25-44
+209318,shopping,AE,Expats,Male,False,French,44.0,25,ND,5500,25-44
+209319,shopping,YE,Expats,Male,False,French,44.0,25,ND,110,25-44
+209320,shopping,PS,Expats,Male,False,French,44.0,25,ND,115,25-44
+209321,shopping,DZ,Expats,Male,False,French,44.0,25,HS,115000,25-44
+209323,shopping,EG,Expats,Male,False,French,44.0,25,HS,6500,25-44
+209324,shopping,IQ,Expats,Male,False,French,44.0,25,HS,700,25-44
+209325,shopping,JO,Expats,Male,False,French,44.0,25,HS,700,25-44
+209326,shopping,KW,Expats,Male,False,French,44.0,25,HS,445,25-44
+209327,shopping,LB,Expats,Male,False,French,44.0,25,HS,3150,25-44
+209328,shopping,LY,Expats,Male,False,French,44.0,25,HS,1100,25-44
+209329,shopping,MA,Expats,Male,False,French,44.0,25,HS,105000,25-44
+209330,shopping,OM,Expats,Male,False,French,44.0,25,HS,260,25-44
+209331,shopping,QA,Expats,Male,False,French,44.0,25,HS,1450,25-44
+209332,shopping,SA,Expats,Male,False,French,44.0,25,HS,2700,25-44
+209333,shopping,SO,Expats,Male,False,French,44.0,25,HS,85,25-44
+209334,shopping,TN,Expats,Male,False,French,44.0,25,HS,80000,25-44
+209335,shopping,AE,Expats,Male,False,French,44.0,25,HS,3350,25-44
+209336,shopping,YE,Expats,Male,False,French,44.0,25,HS,125,25-44
+209337,shopping,PS,Expats,Male,False,French,44.0,25,HS,135,25-44
+209338,shopping,DZ,Expats,Male,False,French,44.0,25,GRAD,455000,25-44
+209340,shopping,EG,Expats,Male,False,French,44.0,25,GRAD,44000,25-44
+209341,shopping,IQ,Expats,Male,False,French,44.0,25,GRAD,2950,25-44
+209342,shopping,JO,Expats,Male,False,French,44.0,25,GRAD,3300,25-44
+209343,shopping,KW,Expats,Male,False,French,44.0,25,GRAD,2500,25-44
+209344,shopping,LB,Expats,Male,False,French,44.0,25,GRAD,13000,25-44
+209345,shopping,LY,Expats,Male,False,French,44.0,25,GRAD,3750,25-44
+209346,shopping,MA,Expats,Male,False,French,44.0,25,GRAD,405000,25-44
+209347,shopping,OM,Expats,Male,False,French,44.0,25,GRAD,1600,25-44
+209348,shopping,QA,Expats,Male,False,French,44.0,25,GRAD,6500,25-44
+209349,shopping,SA,Expats,Male,False,French,44.0,25,GRAD,15500,25-44
+209350,shopping,SO,Expats,Male,False,French,44.0,25,GRAD,700,25-44
+209351,shopping,TN,Expats,Male,False,French,44.0,25,GRAD,265000,25-44
+209352,shopping,AE,Expats,Male,False,French,44.0,25,GRAD,18000,25-44
+209353,shopping,YE,Expats,Male,False,French,44.0,25,GRAD,550,25-44
+209354,shopping,PS,Expats,Male,False,French,44.0,25,GRAD,950,25-44
+209406,shopping,DZ,Expats,Female,False,French,44.0,25,ND,295000,25-44
+209408,shopping,EG,Expats,Female,False,French,44.0,25,ND,4600,25-44
+209409,shopping,IQ,Expats,Female,False,French,44.0,25,ND,550,25-44
+209410,shopping,JO,Expats,Female,False,French,44.0,25,ND,600,25-44
+209411,shopping,KW,Expats,Female,False,French,44.0,25,ND,1050,25-44
+209412,shopping,LB,Expats,Female,False,French,44.0,25,ND,8500,25-44
+209413,shopping,LY,Expats,Female,False,French,44.0,25,ND,900,25-44
+209414,shopping,MA,Expats,Female,False,French,44.0,25,ND,220000,25-44
+209415,shopping,OM,Expats,Female,False,French,44.0,25,ND,370,25-44
+209416,shopping,QA,Expats,Female,False,French,44.0,25,ND,1100,25-44
+209417,shopping,SA,Expats,Female,False,French,44.0,25,ND,3900,25-44
+209418,shopping,SO,Expats,Female,False,French,44.0,25,ND,100,25-44
+209419,shopping,TN,Expats,Female,False,French,44.0,25,ND,180000,25-44
+209420,shopping,AE,Expats,Female,False,French,44.0,25,ND,4450,25-44
+209421,shopping,YE,Expats,Female,False,French,44.0,25,ND,50,25-44
+209422,shopping,PS,Expats,Female,False,French,44.0,25,ND,160,25-44
+209423,shopping,DZ,Expats,Female,False,French,44.0,25,HS,55000,25-44
+209425,shopping,EG,Expats,Female,False,French,44.0,25,HS,4450,25-44
+209426,shopping,IQ,Expats,Female,False,French,44.0,25,HS,325,25-44
+209427,shopping,JO,Expats,Female,False,French,44.0,25,HS,470,25-44
+209428,shopping,KW,Expats,Female,False,French,44.0,25,HS,395,25-44
+209429,shopping,LB,Expats,Female,False,French,44.0,25,HS,4200,25-44
+209430,shopping,LY,Expats,Female,False,French,44.0,25,HS,245,25-44
+209431,shopping,MA,Expats,Female,False,French,44.0,25,HS,60000,25-44
+209432,shopping,OM,Expats,Female,False,French,44.0,25,HS,135,25-44
+209433,shopping,QA,Expats,Female,False,French,44.0,25,HS,440,25-44
+209434,shopping,SA,Expats,Female,False,French,44.0,25,HS,1500,25-44
+209435,shopping,SO,Expats,Female,False,French,44.0,25,HS,55,25-44
+209436,shopping,TN,Expats,Female,False,French,44.0,25,HS,60000,25-44
+209437,shopping,AE,Expats,Female,False,French,44.0,25,HS,2300,25-44
+209438,shopping,YE,Expats,Female,False,French,44.0,25,HS,40,25-44
+209439,shopping,PS,Expats,Female,False,French,44.0,25,HS,140,25-44
+209440,shopping,DZ,Expats,Female,False,French,44.0,25,GRAD,245000,25-44
+209442,shopping,EG,Expats,Female,False,French,44.0,25,GRAD,32000,25-44
+209443,shopping,IQ,Expats,Female,False,French,44.0,25,GRAD,1400,25-44
+209444,shopping,JO,Expats,Female,False,French,44.0,25,GRAD,2850,25-44
+209445,shopping,KW,Expats,Female,False,French,44.0,25,GRAD,1750,25-44
+209446,shopping,LB,Expats,Female,False,French,44.0,25,GRAD,18000,25-44
+209447,shopping,LY,Expats,Female,False,French,44.0,25,GRAD,950,25-44
+209448,shopping,MA,Expats,Female,False,French,44.0,25,GRAD,205000,25-44
+209449,shopping,OM,Expats,Female,False,French,44.0,25,GRAD,900,25-44
+209450,shopping,QA,Expats,Female,False,French,44.0,25,GRAD,3200,25-44
+209451,shopping,SA,Expats,Female,False,French,44.0,25,GRAD,6500,25-44
+209452,shopping,SO,Expats,Female,False,French,44.0,25,GRAD,155,25-44
+209453,shopping,TN,Expats,Female,False,French,44.0,25,GRAD,215000,25-44
+209454,shopping,AE,Expats,Female,False,French,44.0,25,GRAD,12000,25-44
+209455,shopping,YE,Expats,Female,False,French,44.0,25,GRAD,190,25-44
+209456,shopping,PS,Expats,Female,False,French,44.0,25,GRAD,850,25-44
+209610,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,ND,85000,45+
+209612,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,ND,1200,45+
+209613,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,ND,220,45+
+209614,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,ND,160,45+
+209615,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,ND,135,45+
+209616,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,ND,3200,45+
+209617,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,ND,420,45+
+209618,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,ND,90000,45+
+209619,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,ND,90,45+
+209620,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,ND,390,45+
+209621,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,ND,1450,45+
+209622,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,ND,55,45+
+209623,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,ND,60000,45+
+209624,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,ND,950,45+
+209625,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+209626,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,ND,25,45+
+209627,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,HS,20500,45+
+209629,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,HS,700,45+
+209630,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,HS,70,45+
+209631,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,HS,105,45+
+209632,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,HS,90,45+
+209633,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,HS,1050,45+
+209634,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,HS,135,45+
+209635,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,HS,21000,45+
+209636,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,HS,55,45+
+209637,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,HS,140,45+
+209638,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,HS,485,45+
+209639,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,HS,15,45+
+209640,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,HS,23000,45+
+209641,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,HS,550,45+
+209642,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,HS,0,45+
+209643,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,HS,20,45+
+209644,shopping,DZ,Expats,Male,False,French,NOTSELECTED,45,GRAD,55000,45+
+209646,shopping,EG,Expats,Male,False,French,NOTSELECTED,45,GRAD,4200,45+
+209647,shopping,IQ,Expats,Male,False,French,NOTSELECTED,45,GRAD,400,45+
+209648,shopping,JO,Expats,Male,False,French,NOTSELECTED,45,GRAD,480,45+
+209649,shopping,KW,Expats,Male,False,French,NOTSELECTED,45,GRAD,320,45+
+209650,shopping,LB,Expats,Male,False,French,NOTSELECTED,45,GRAD,4750,45+
+209651,shopping,LY,Expats,Male,False,French,NOTSELECTED,45,GRAD,415,45+
+209652,shopping,MA,Expats,Male,False,French,NOTSELECTED,45,GRAD,65000,45+
+209653,shopping,OM,Expats,Male,False,French,NOTSELECTED,45,GRAD,235,45+
+209654,shopping,QA,Expats,Male,False,French,NOTSELECTED,45,GRAD,850,45+
+209655,shopping,SA,Expats,Male,False,French,NOTSELECTED,45,GRAD,2100,45+
+209656,shopping,SO,Expats,Male,False,French,NOTSELECTED,45,GRAD,70,45+
+209657,shopping,TN,Expats,Male,False,French,NOTSELECTED,45,GRAD,60000,45+
+209658,shopping,AE,Expats,Male,False,French,NOTSELECTED,45,GRAD,2150,45+
+209659,shopping,YE,Expats,Male,False,French,NOTSELECTED,45,GRAD,30,45+
+209660,shopping,PS,Expats,Male,False,French,NOTSELECTED,45,GRAD,125,45+
+209712,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,ND,47500,45+
+209714,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,ND,1500,45+
+209715,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,ND,105,45+
+209716,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,ND,170,45+
+209717,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+209718,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,ND,7500,45+
+209719,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,ND,150,45+
+209720,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,ND,48500,45+
+209721,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,ND,55,45+
+209722,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,ND,240,45+
+209723,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,ND,650,45+
+209724,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+209725,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,ND,44000,45+
+209726,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,ND,950,45+
+209727,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,ND,0,45+
+209728,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,ND,40,45+
+209729,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,HS,10500,45+
+209731,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,HS,750,45+
+209732,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,HS,20,45+
+209733,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,HS,115,45+
+209734,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,HS,60,45+
+209735,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,HS,1900,45+
+209736,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,HS,55,45+
+209737,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,HS,11000,45+
+209738,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,HS,35,45+
+209739,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,HS,120,45+
+209740,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,HS,180,45+
+209741,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209742,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,HS,15500,45+
+209743,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,HS,345,45+
+209744,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209745,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,HS,0,45+
+209746,shopping,DZ,Expats,Female,False,French,NOTSELECTED,45,GRAD,25000,45+
+209748,shopping,EG,Expats,Female,False,French,NOTSELECTED,45,GRAD,4150,45+
+209749,shopping,IQ,Expats,Female,False,French,NOTSELECTED,45,GRAD,145,45+
+209750,shopping,JO,Expats,Female,False,French,NOTSELECTED,45,GRAD,355,45+
+209751,shopping,KW,Expats,Female,False,French,NOTSELECTED,45,GRAD,225,45+
+209752,shopping,LB,Expats,Female,False,French,NOTSELECTED,45,GRAD,6500,45+
+209753,shopping,LY,Expats,Female,False,French,NOTSELECTED,45,GRAD,150,45+
+209754,shopping,MA,Expats,Female,False,French,NOTSELECTED,45,GRAD,27000,45+
+209755,shopping,OM,Expats,Female,False,French,NOTSELECTED,45,GRAD,105,45+
+209756,shopping,QA,Expats,Female,False,French,NOTSELECTED,45,GRAD,270,45+
+209757,shopping,SA,Expats,Female,False,French,NOTSELECTED,45,GRAD,700,45+
+209758,shopping,SO,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209759,shopping,TN,Expats,Female,False,French,NOTSELECTED,45,GRAD,28000,45+
+209760,shopping,AE,Expats,Female,False,French,NOTSELECTED,45,GRAD,1200,45+
+209761,shopping,YE,Expats,Female,False,French,NOTSELECTED,45,GRAD,0,45+
+209762,shopping,PS,Expats,Female,False,French,NOTSELECTED,45,GRAD,95,45+
