@@ -22,6 +22,7 @@ text {
 rect {
     fill: none;
     stroke: #fff;
+    cursor: pointer;
 }
 
 rect.parent,
