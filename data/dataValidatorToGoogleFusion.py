@@ -127,6 +127,8 @@ class PandasDataset:
                                     (citizenship == self.data["citizenship"])
                                 ]
                                 if len(instance) != 1:
+                                    if (len(instance) == 2) and instance.iloc[0]["audience"] == instance.iloc[1]["audience"]:
+                                        continue
                                     error_counter += 1
                                     import ipdb;ipdb.set_trace()
                                     print "Error of denominator:", country_code, scholarity,language,gender,citizenship,age_range,error_counter, len(instance)
