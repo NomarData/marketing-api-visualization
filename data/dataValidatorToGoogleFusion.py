@@ -1,6 +1,7 @@
 import argparse
 import pandas as pd
 import itertools
+import time
 
 NULL_VALUE = "NOTSELECTED"
 
@@ -12,11 +13,11 @@ class PandasDataset:
         min_age = row["min_age"]
         max_age = row["max_age"]
         if max_age == NULL_VALUE and min_age == 18:
-            return "{}+".format(int(min_age))
+            return "{}+".format(int(float(min_age)))
         if max_age == NULL_VALUE and min_age == 45:
-            return "{}+".format(int(min_age))
+            return "{}+".format(int(float(min_age)))
         else:
-            return "{}-{}".format(int(min_age), int(max_age))
+            return "{}-{}".format(int(float(min_age)), int(float(max_age)))
 
     @staticmethod
     def get_pandas_dataset_from_file(filepointer):
@@ -78,30 +79,31 @@ class PandasDataset:
             "citizenship": self.data["citizenship"].unique(),
             "is_denominator": self.data["is_denominator"].unique(),
         }
+        # Check integrity per interest 'is_denominator=False'
         error_counter = 0
         ok_counter = 0
         total = len(self.data[~self.data["is_denominator"]])
+        instances_to_remove = []
         for country_code in list_of_categories["country_code"]:
+            country_instances = self.data[country_code == self.data["country_code"]]
             for topic in list_of_categories["topic"]:
+                topic_instances = country_instances[topic == country_instances["topic"]]
                 for scholarity in list_of_categories["scholarity"]:
+                    scholarity_instances = topic_instances[scholarity == topic_instances["scholarity"]]
                     for language in list_of_categories["language"]:
+                        language_instances = scholarity_instances[language == scholarity_instances["language"]]
                         for gender in list_of_categories["gender"]:
+                            gender_instances = language_instances[gender == language_instances["gender"]]
                             for citizenship in list_of_categories["citizenship"]:
+                                citizenship_instances = gender_instances[citizenship == gender_instances["citizenship"]]
                                 for age_range in list_of_categories["age_range"]:
-                                    instance = self.data[
-                                        (country_code == self.data["country_code"]) &
-                                        (topic == self.data["topic"]) &
-                                        (scholarity == self.data["scholarity"]) &
-                                        (language == self.data["language"]) &
-                                        (gender == self.data["gender"]) &
-                                        (age_range == self.data["age_range"]) &
-                                        (False == self.data["is_denominator"]) &
-                                        (citizenship == self.data["citizenship"])
-                                    ]
+                                    age_range_instances = citizenship_instances[age_range == citizenship_instances["age_range"]]
+                                    instance = age_range_instances[False == age_range_instances["is_denominator"]]
                                     if topic == "demographic_data":
                                         continue
                                     if len(instance) != 1:
                                         if(len(instance) == 2) and instance.iloc[0]["experiment_id"] == instance.iloc[1]["experiment_id"]:
+                                            instances_to_remove.append(instance.iloc[0])
                                             continue
                                         import ipdb;ipdb.set_trace()
                                         error_counter += 1
@@ -110,24 +112,31 @@ class PandasDataset:
                                         ok_counter += 1
                                         print "{:.2f}%".format(ok_counter/float(total)*100)
         ok_counter = 0
+        # Check integrity where there is no interest, just facebook population 'is_denominator=True'
         total = len(self.data[self.data["is_denominator"]])
         for country_code in list_of_categories["country_code"]:
+            country_instances = self.data[country_code == self.data["country_code"]]
             for scholarity in list_of_categories["scholarity"]:
+                scholarity_instances = country_instances[scholarity == country_instances["scholarity"]]
                 for language in list_of_categories["language"]:
+                    language_instances = scholarity_instances[language == scholarity_instances["language"]]
                     for gender in list_of_categories["gender"]:
+                        gender_instances = language_instances[gender == language_instances["gender"]]
                         for citizenship in list_of_categories["citizenship"]:
+                            citizenship_instances = gender_instances[citizenship == gender_instances["citizenship"]]
                             for age_range in list_of_categories["age_range"]:
-                                instance = self.data[
-                                    (country_code == self.data["country_code"]) &
-                                    (scholarity == self.data["scholarity"]) &
-                                    (language == self.data["language"]) &
-                                    (gender == self.data["gender"]) &
-                                    (age_range == self.data["age_range"]) &
-                                    (True == self.data["is_denominator"]) &
-                                    (citizenship == self.data["citizenship"])
-                                ]
+                                age_range_instances = citizenship_instances[age_range == citizenship_instances["age_range"]]
+                                instance = age_range_instances[True == age_range_instances["is_denominator"]]
                                 if len(instance) != 1:
                                     if (len(instance) == 2) and instance.iloc[0]["audience"] == instance.iloc[1]["audience"]:
+                                        ok_counter += 1
+                                        print "{:.2f}%".format(ok_counter / float(total) * 100)
+                                        instances_to_remove.append(instance.iloc[0])
+                                        continue
+                                    if len(instance) == 2:
+                                        ok_counter += 1
+                                        print "{:.2f}%".format(ok_counter / float(total) * 100)
+                                        instances_to_remove.append(instance.iloc[0])
                                         continue
                                     error_counter += 1
                                     import ipdb;ipdb.set_trace()
@@ -135,6 +144,13 @@ class PandasDataset:
                                 else:
                                     ok_counter += 1
                                     print "{:.2f}%".format(ok_counter / float(total) * 100)
+
+        for instance in instances_to_remove:
+            print "Deleting", instance.name, len(self.data)
+            self.data = self.data.drop(instance.name)
+        self.data.to_csv("after_drop_duplicates_clean_data_" + str(int(time.time())) +".csv")
+
+
 
 
 
@@ -200,18 +216,34 @@ class PandasDataset:
         print "Unique Topics"
         print self.data["analysis_name"].unique()
 
+    def save_denominator_file(self):
+        print "Save denominator file"
+        denominator_instances = self.data[self.data["is_denominator"]]
+        denominator_instances.to_csv("denominator_file.csv")
+
+
     def generate_file_for_combination(self,combination):
-        filtered_dataframe = self.data[(self.data["interest"] == combination[0]) | (self.data["interest"] == combination[1])]
-        filtered_dataframe.to_csv("combinations/" + combination[0] + "-" + combination[1] + ".csv")
+        if len(combination) == 2:
+            filtered_dataframe = self.data[(self.data["topic"] == combination[0]) | (self.data["topic"] == combination[1])]
+            filtered_dataframe.to_csv("combinations/" + combination[0] + "-" + combination[1] + ".csv")
+        elif len(combination) == 1:
+            filtered_dataframe = self.data[(self.data["topic"] == combination[0])]
+            filtered_dataframe.to_csv("combinations/" + combination[0] + ".csv")
+        else:
+            import ipdb;ipdb.set_trace()
+            raise Exception("No combination found")
 
     def generate_combinations_files(self):
         print "Generating Combinations Files"
-        interest_list = self.data["interest"].unique().tolist()
+        interest_list = self.data["topic"].unique().tolist()
         for combination in itertools.combinations(interest_list,2):
             print combination[0],combination[1]
             self.generate_file_for_combination(combination)
+        for interest in interest_list:
+            self.generate_file_for_combination((interest,))
 
     def process_data(self):
+        self.data = self.data.drop_duplicates()
         self.replace_null_values()
         self.check_not_permitted_empty_values()
 
@@ -242,18 +274,19 @@ class PandasDataset:
         self.insert_expats_native_rows()
         self.delete_specific_key_value("citizenship", "NOTSELECTED")
         # self.delete_specific_key_value("is_denominator", True)
-        # self.delete_column("experiment_id")
-        # self.delete_column("interest_id")
-        # self.delete_column("interest")
-        # self.delete_column("interest_query")
-        # self.delete_column("placebo_id")
-        # self.delete_column("placebo_query")
-        # self.delete_column("ground_truth_column")
+        self.delete_column("experiment_id")
+        self.delete_column("interest_id")
+        self.delete_column("interest")
+        self.delete_column("interest_query")
+        self.delete_column("placebo_id")
+        self.delete_column("placebo_query")
+        self.delete_column("ground_truth_column")
         self.insert_age_range_column()
         self.delete_specific_key_value("age_range", "18+")
         self.check_data_integrity()
         self.compress()
         self.generate_combinations_files()
+        self.save_denominator_file()
 
     def save_file(self,filename):
         print "Saving file: {}".format(filename)
@@ -281,7 +314,7 @@ if __name__ == '__main__':
         pd_dataset = PandasDataset(filepointer)
         pd_dataset.process_data()
         pd_dataset.save_file("googlefusion.csv")
-        filter = {"interest" : ["health","luxury"]}
+        filter = {"topic" : ["health","luxury"]}
         pd_dataset.export_json(filter,"data.json")
     else:
         raise Exception("No input data")
