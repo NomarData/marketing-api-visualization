@@ -62,14 +62,14 @@ $(document).ready(function () {
         var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
-            btnsSelectors = new BtnsTopicsSelectors();
-            btnsSelectors.init();
             fusionAPI.updateCountriesList().done(function(){
                 $(".countryItem").click(function(){
                     onClickCountryFunction($(this));
                 });
                 $(".loader").fadeOut();
             });
+            btnsTopicsSelectors = new BtnsTopicsSelectors();
+            btnsTopicsSelectors.init();
         });
     });
 
