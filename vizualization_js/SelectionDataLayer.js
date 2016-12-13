@@ -19,13 +19,24 @@ function SelectionDataLayer(){
         })
     }
     this.updateSelectedLuxury = function(luxuryInterest){
-        currentInstance.selectedLuxury = luxuryInterest;
-        currentInstance.updateDataset();
-    }
+        if(currentInstance.selectedLuxury != luxuryInterest){
+            currentInstance.selectedLuxury = luxuryInterest;
+            currentInstance.updateDataset();
+        } else if (currentInstance.selectedHealth != null){
+            currentInstance.selectedLuxury = null;
+            currentInstance.updateDataset();
+        }
+
+    };
     this.updateSelectedHealth = function(healthInterest){
-        currentInstance.selectedHealth = healthInterest;
-        currentInstance.updateDataset();
-    }
+        if(currentInstance.selectedHealth != healthInterest) {
+            currentInstance.selectedHealth = healthInterest;
+            currentInstance.updateDataset();
+        } else if (currentInstance.selectedLuxury != null){
+            currentInstance.selectedHealth = null;
+            currentInstance.updateDataset();
+        }
+    };
     this.deselectAllCountries = function(){
         for(var countryCode in countryCodeMap){
             if(currentInstance.isCountryAlreadySelected(countryCode)) onClickCountryFunctionBy2LettersCode(countryCode);
