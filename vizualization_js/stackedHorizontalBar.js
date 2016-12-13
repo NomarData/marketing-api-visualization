@@ -38,11 +38,12 @@ function stackedHorizontalBar(){
 
         currentInstance.data.greenValue = data.greenAudience;
         currentInstance.data.redValue = data.redAudience;
-        greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(currentInstance.data.greenValue) - currentInstance.x(0))});
+        greenBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.greenValue ));});
+        greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(-currentInstance.data.greenValue) - currentInstance.x(0))});
         greenBar.attr("style", function(d){return "fill: #1a9850"});
 
-        redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
-        redBar.attr("width", function (d) { return Math.abs(currentInstance.x(-currentInstance.data.redValue ) - currentInstance.x(0)); })
+        // redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
+        redBar.attr("width", function (d) { return Math.abs(currentInstance.x(currentInstance.data.redValue ) - currentInstance.x(0)); })
         redBar.attr("style", function(d){ return "fill: #d73027"});
 
     };
@@ -88,19 +89,19 @@ function stackedHorizontalBar(){
             .enter().append("rect")
             .attr("class", "greenBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(d.greenValue)
+                return "fill: " + getGreenOrRedColorByInclination(-d.greenValue)
             })
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(d.greenValue)
+                return "fill: " + getGreenOrRedColorByInclination(-d.greenValue)
             })
             .attr("x", function (d) {
-                return x(Math.min(0, d.greenValue));
+                return x(Math.min(0, -d.greenValue));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(d.greenValue) - x(0));
+                return Math.abs(x(-d.greenValue) - x(0));
             })
             .attr("height", y.rangeBand());
 
@@ -109,16 +110,16 @@ function stackedHorizontalBar(){
             .enter().append("rect")
             .attr("class", "redBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(-d.redValue)
+                return "fill: " + getGreenOrRedColorByInclination(d.redValue)
             })
             .attr("x", function (d) {
-                return x(Math.min(0, -d.redValue));
+                return x(Math.min(0, d.redValue));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(-d.redValue) - x(0));
+                return Math.abs(x(d.redValue) - x(0));
             })
             .attr("height", y.rangeBand());
 
