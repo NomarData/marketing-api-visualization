@@ -101,22 +101,47 @@
 
         this.getPromiseToUpdateDatasetBySelection = function(luxurySelection, healthSelection){
             var defer = $.Deferred();
-            //Try to load file healthSelection first, or luxurySelection first
-            d3.csv("data/combinations/" + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {
-                if(error){
-                    d3.csv("data/combinations/" + luxurySelection  + "-" +  healthSelection + ".csv", function(error, data) {
-                        if(error){
-                            throw Error("Error loading csv : " + error);
-                        } else{
-                            defer.resolve({instances:data});
-                        }
-                    });
-                } else{
-                    defer.resolve({instances:data});
-                }
-            });
-            var promise = defer.promise();
-            return promise;
+            if(luxurySelection != null && healthSelection != null){
+                //Try to load file healthSelection first, or luxurySelection first
+                d3.csv("data/combinations/" + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {
+                    if(error){
+                        d3.csv("data/combinations/" + luxurySelection  + "-" +  healthSelection + ".csv", function(error, data) {
+                            if(error){
+                                throw Error("Error loading csv : " + error);
+                            } else{
+                                defer.resolve({instances:data});
+                            }
+                        });
+                    } else{
+                        defer.resolve({instances:data});
+                    }
+                });
+                var promise = defer.promise();
+                return promise;
+            } else if(luxurySelection != null){
+                d3.csv("data/combinations/" + luxurySelection + ".csv", function(error, data) {
+                    if(error){
+                        throw Error("Error loading csv : " + error);
+                    } else {
+                        defer.resolve({instances:data});
+                    }
+                });
+                var promise = defer.promise();
+                return promise;
+            }else if (healthSelection != null){
+                d3.csv("data/combinations/" + healthSelection + ".csv", function(error, data) {
+                    if(error){
+                        throw Error("Error loading csv : " + error);
+                    } else {
+                        defer.resolve({instances:data});
+                    }
+                });
+                var promise = defer.promise();
+                return promise;
+            } else {
+                throw Error("Undetermined case.")
+            }
+
         };
 
         this.getPromiseCurrentSelection = function(){
