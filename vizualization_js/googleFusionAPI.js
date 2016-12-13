@@ -54,7 +54,15 @@
         };
 
         this.currentSelection = cloneObject(this.defaultSelection);
-        this.init = function(){}
+        this.updateFacebookPopulationData = function(){
+            var facebookPopulationDataPromise = currentInstance.getPromiseOfFacebookPopulationData();
+            facebookPopulationDataPromise.done(function(d){
+                currentInstance.setFacebookPopulationList(d.facebookPopulation);
+            });
+            return facebookPopulationDataPromise;
+        }
+        this.init = function(){
+        }
         this.cleanCurrentDataByKeyValue = function (key, value) {
             var newData = []
             for(var instanceIndex in currentData){
@@ -75,6 +83,20 @@
             var stringQuery = squelQuery.toString();
             stringQuery = removeAllParentheses(stringQuery);
             return stringQuery;
+        };
+
+        this.getPromiseOfFacebookPopulationData = function(){
+            var defer = $.Deferred();
+            //Try to load file healthSelection first, or luxurySelection first
+            d3.csv("data/facebook_population.csv", function(error, data) {
+                if(error){
+                    throw Error("Error loading csv : " + error);
+                } else{
+                    defer.resolve({facebookPopulation:data});
+                }
+            });
+            var promise = defer.promise();
+            return promise;
         };
 
         this.getPromiseToUpdateDatasetBySelection = function(luxurySelection, healthSelection){
@@ -208,6 +230,14 @@
                     interestsListContainer.append(interestTag);
                 }
             });
+        };
+
+        this.setFacebookPopulationList = function(instances){
+            var parsedInstances = $.map(instances,function(instance){
+                instance.audience = parseInt(instance.audience);
+                return instance;
+            });
+            facebookPopulation = parsedInstances;
         };
 
         this.setInstanceList = function(instances){

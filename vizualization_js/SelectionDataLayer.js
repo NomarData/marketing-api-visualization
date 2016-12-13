@@ -3,8 +3,10 @@ function SelectionDataLayer(){
     this.country_codes = [];
     this.categories = {};
     this.selected_instances = [];
+    this.selectedFacebookPopulationInstances = [];
     this.selectedHealth = healthTopics[3];
     this.selectedLuxury = luxuryTopics[4];
+    this.selectedFacebookPopulationSum = 0;
     this.loader = $(".loader");
 
     this.updateDataset = function(){
@@ -55,14 +57,51 @@ function SelectionDataLayer(){
      this.setSelectedInstances = function(){
          console.log("Selecting Instances")
         var instances = [];
+        var facebookPopulationInstances = [];
         for(var indexData in currentData){
             var instance = currentData[indexData];
             if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
                 instances.push(instance)
             }
         }
+         for(var indexFacebookPopulation in facebookPopulation){
+             var instance = facebookPopulation[indexFacebookPopulation];
+             if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
+                 facebookPopulationInstances.push(instance)
+             }
+         }
         currentInstance.selected_instances = instances;
-         console.log("Instances Selected")
+        currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
+        currentInstance.updateSumSelectedFacebookPopulation();
+        console.log("Instances and Facebook Population Selected");
+    }
+
+    this.updateSumSelectedFacebookPopulation = function(){
+        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
+            var total = currentInstance.selectedFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+            currentInstance.selectedFacebookPopulationSum = total;
+        } else {
+            currentInstance.selectedFacebookPopulationSum = 0;
+        }
+
+
+    }
+
+    this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
+        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
+            var total = 0;
+            for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
+                var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
+                if(instance.country_code = countryCode){
+                    total += instance.audience;
+                }
+            }
+            return total;
+        } else {
+            return 0;
+        }
+
+
     }
 
     this.update = function(){

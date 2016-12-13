@@ -1,4 +1,5 @@
 currentData = [];
+facebookPopulation = [];
 
 healthTopics = ['health','fitness and wellness', 'health care', 'obesity', 'physical activity',
     'smoking awareness', 'diabetes awareness', 'mental disease depression','stroke heart disease',

@@ -203,9 +203,11 @@ function processSubCategoryList(subCategoryList){
         }
         totalAudience += instance.audience;
     }
+
     return {
         "size" : totalAudience,
-        "inclination" : (healthAudience - jewelAudience) / totalAudience
+        // "inclination" : (healthAudience - jewelAudience) / totalAudience
+        "inclination" : (healthAudience - jewelAudience) / (NODES_SELECTED.selectedFacebookPopulationSum + 1)
     }
 
 }
@@ -227,11 +229,11 @@ function generateTreemapChidren(categoryAudience){
 }
 
 function getInstancePolarity(instance){
-    var instancePolarity = getInterestPolarity(instance.interest);
+    var instancePolarity = getInterestPolarity(instance.topic);
     return instancePolarity;
 }
 function hasSubstringFromList(list,stringValue){
-    if(stringValue === undefined) throw Error("String should be undefined: " + stringValue );
+    if(stringValue === undefined) throw Error("String shouldn't be undefined: " + stringValue );
     stringValue = stringValue.toLowerCase();
     for(var index in list){
         var substring = list[index].toLowerCase();
@@ -290,13 +292,14 @@ function TreemapManager(){
             return averageInclination;
         } else{
             var selectedInstances = NODES_SELECTED.getSelectedInstances();
-            var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+            // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+            var total = NODES_SELECTED.selectedFacebookPopulationSum;
             averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.greenInclination = averageInclination.greenAudience / total;
             averageInclination.redInclination = averageInclination.redAudience  / total;
             // averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
-            averageInclination.average = ((averageInclination.greenAudience) - (averageInclination.redAudience)) / total;
+            averageInclination.average = averageInclination.greenInclination - averageInclination.redInclination;
             return averageInclination
         }
 
