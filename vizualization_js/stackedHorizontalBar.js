@@ -7,11 +7,11 @@ function stackedHorizontalBar(){
     this.data = null;
     this.margin = {
         top: 30,
-        right: 10,
+        right: 50,
         bottom: 10,
-        left: 10
+        left: 50
     };
-    this.width = 600 - this.margin.left - this.margin.right;
+    this.width = 900 - this.margin.left - this.margin.right;
     this.height = 20;
     this.x = d3.scale.linear().range([0, this.width]);
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height], .2);
@@ -29,9 +29,15 @@ function stackedHorizontalBar(){
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
+        currentInstance.updateDomain(NODES_SELECTED.selectedFacebookPopulationSum);
+        $(".x.axis").remove();
+        currentInstance.svg.append("g")
+            .attr("class", "x axis")
+            .call(currentInstance.xAxis);
 
-        currentInstance.data.greenValue = data.greenInclination;
-        currentInstance.data.redValue = data.redInclination;
+
+        currentInstance.data.greenValue = data.greenAudience;
+        currentInstance.data.redValue = data.redAudience;
         greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(currentInstance.data.greenValue) - currentInstance.x(0))});
         greenBar.attr("style", function(d){return "fill: #1a9850"});
 
@@ -47,9 +53,13 @@ function stackedHorizontalBar(){
             .attr("height", this.height + this.margin.top + this.margin.bottom)
             .append("g")
             .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
-        this.svg = svg;
+        currentInstance.svg = svg;
         return svg
-    }
+    };
+
+    this.updateDomain = function(max){
+      currentInstance.x.domain([-max,max])
+    };
 
     this.init = function(){
         var x = this.x;
@@ -68,7 +78,7 @@ function stackedHorizontalBar(){
         this.data = data;
 
 
-        x.domain([-1,1]);
+        currentInstance.updateDomain(1);
         y.domain(data.map(function (d) {
             return d.name;
         }));

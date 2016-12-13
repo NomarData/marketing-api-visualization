@@ -46,10 +46,12 @@ function CountriesDataDatamap(){
     }
 
     this.getCountryInclination = function(country){
-        return (currentInstance.countries[country].healthAudience - currentInstance.countries[country].jewelAudience) / (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
+        return (currentInstance.countries[country].healthAudience - currentInstance.countries[country].jewelAudience) / currentInstance.getCountryAudience(country);
     }
     this.getCountryAudience = function(country){
-        return  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
+        // var audience =  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
+        var _2letterCode = convert3to2LettersCode(country);
+        return NODES_SELECTED.getSumSelectedFacebookPopulationByCountry(_2letterCode);
     }
 
     this.getDataMapColor = function(){
