@@ -26,6 +26,17 @@ function SelectionDataLayer(){
         currentInstance.selectedHealth = healthInterest;
         currentInstance.updateDataset();
     }
+    this.deselectAllCountries = function(){
+        for(var countryCode in countryCodeMap){
+            if(currentInstance.isCountryAlreadySelected(countryCode)) onClickCountryFunctionBy2LettersCode(countryCode);
+        }
+    };
+    this.selectAllCountries = function(){
+        for(var countryCode in countryCodeMap){
+            if(currentInstance.isCountryAlreadySelected(countryCode)) continue;
+            onClickCountryFunctionBy2LettersCode(countryCode);
+        }
+    };
     this.selectDefaultCountries = function(){
         // onClickCountryFunctionBy2LettersCode("AE");
         // onClickCountryFunctionBy2LettersCode("DZ");
