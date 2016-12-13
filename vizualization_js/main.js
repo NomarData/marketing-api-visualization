@@ -63,9 +63,7 @@ $(document).ready(function () {
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
             fusionAPI.updateCountriesList().done(function(){
-                $(".countryItem").click(function(){
-                    onClickCountryFunction($(this));
-                });
+                arabMap.applyClickFunctionToCountryBtns();
                 $(".loader").fadeOut();
             });
             btnsTopicsSelectors = new BtnsTopicsSelectors();
