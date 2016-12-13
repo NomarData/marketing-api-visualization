@@ -60,8 +60,9 @@ $(document).ready(function () {
         fusionAPI.setInstanceList(data.instances);
         NODES_SELECTED.setSelectedInstances();
         var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
+        buildAndInitVisualComponents();
         updateFacebookPopulationDataPromise.done(function(d){
-            buildAndInitVisualComponents();
+
         });
 
     });
