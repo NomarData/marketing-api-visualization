@@ -60,30 +60,30 @@ $(document).ready(function () {
         fusionAPI.setInstanceList(data.instances);
         NODES_SELECTED.setSelectedInstances();
         var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
-        buildAndInitVisualComponents();
         updateFacebookPopulationDataPromise.done(function(d){
-
+            buildAndInitVisualComponents();
+            btnsSelectors = new BtnsTopicsSelectors();
+            btnsSelectors.init();
+            fusionAPI.updateCountriesList().done(function(){
+                $(".countryItem").click(function(){
+                    onClickCountryFunction($(this));
+                });
+                $(".loader").fadeOut();
+            });
         });
-
-    });
-    fusionAPI.updateCountriesList().done(function(){
-        $(".countryItem").click(function(){
-            onClickCountryFunction($(this));
-        });
-        $(".loader").fadeOut();
     });
 
-    btnsSelectors = new BtnsTopicsSelectors();
-    btnsSelectors.init();
+
+
     // NODES_SELECTED.selectDefaultCountries();
 
-
-
-
-    // CountriesBarCharts();
-    // CountriesBarCharts2();
-
-    var instances = fusionAPI.getDefaultData();
+    //
+    //
+    //
+    // // CountriesBarCharts();
+    // // CountriesBarCharts2();
+    //
+    // var instances = fusionAPI.getDefaultData();
 
 
 });
