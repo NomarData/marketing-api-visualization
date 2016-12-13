@@ -39,8 +39,8 @@ function getGreenOrRedColorByInclination(inclination){
 }
 
 function getGreenOrRedColorByInclination(inclination){
-    // var colorFunction = d3.scale.linear().domain([-1,-0.15,-0.05,0,0.05,0.15,1])
-    var colorFunction = d3.scale.linear().domain([-1,-0.66,-0.33,0,0.33,0.66,1])
+    var colorFunction = d3.scale.linear().domain([-1,-0.15,-0.05,0,0.05,0.15,1])
+    // var colorFunction = d3.scale.linear().domain([-1,-0.66,-0.33,0,0.33,0.66,1])
         .interpolate(d3.interpolateRgb)
         .range([d3.rgb("#d73027"),d3.rgb("#fc8d59"),d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')]);
     return colorFunction(inclination);
