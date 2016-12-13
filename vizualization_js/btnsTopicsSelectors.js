@@ -10,8 +10,12 @@ function BtnsTopicsSelectors(){
     };
     this.updateData = function(){
         $(".btn-selected").removeClass("btn-selected"); //Remove all selected
-        $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
-        $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        if(NODES_SELECTED.selectedLuxury){
+            $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
+        }
+        if(NODES_SELECTED.selectedHealth){
+            $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        }
     };
 
     this.setSelectedByBtnsClick = function(){
