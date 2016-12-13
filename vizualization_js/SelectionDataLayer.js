@@ -66,13 +66,14 @@ function SelectionDataLayer(){
         }
          for(var indexFacebookPopulation in facebookPopulation){
              var instance = facebookPopulation[indexFacebookPopulation];
-             if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
+             if(currentInstance.isInstanceAgreeWithSelected(instance)){
                  facebookPopulationInstances.push(instance)
              }
          }
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
         currentInstance.updateSumSelectedFacebookPopulation();
+         console.log(currentInstance.selectedFacebookPopulationSum)
         console.log("Instances and Facebook Population Selected");
     }
 
@@ -92,7 +93,7 @@ function SelectionDataLayer(){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
                 var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
-                if(instance.country_code = countryCode){
+                if(instance.country_code == countryCode){
                     total += instance.audience;
                 }
             }
@@ -123,12 +124,14 @@ function SelectionDataLayer(){
     this.isInstanceAgreeWithSelected = function(instance){
         for(var key in currentInstance.categories){
             if(instance[key] != currentInstance.categories[key]){
+                // console.log(instance[key] + "!=" + currentInstance.categories[key]);
                 return false;
             }
         }
         //Check Country code
         if(currentInstance.country_codes.length > 0){
             if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
+                // console.log("Country Not Selected");
                 return false;
             }
         }
