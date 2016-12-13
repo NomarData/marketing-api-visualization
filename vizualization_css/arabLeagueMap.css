@@ -25,3 +25,12 @@
     border-width: 3px;
     border-color: rgba(0, 0, 0, 0.2);
 }
+
+.btn-multiple-countries{
+    margin-top: 2px;
+    color: #000;
+}
+
+.btn-multiple-countries:hover{
+    color: #000;
+}
