@@ -105,6 +105,12 @@ function arabLeagueMap(){
 
         return {path: path, projection: projection};
     }
+    this.applyClickFunctionToCountryBtns = function(){
+        $(".countryItem").click(function(){
+            onClickCountryFunction($(this));
+        });
+    }
+
 
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
