@@ -34,3 +34,7 @@
 .btn-multiple-countries:hover{
     color: #000;
 }
+#countriesList{
+    top: -50px;
+    position: relative;
+}

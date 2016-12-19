@@ -41,7 +41,8 @@ function checkAllDefined(...variables){
 function generateUUID(a){return a?(a^Math.random()*16>>a/4).toString(16):([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,generateUUID)}
 
 function isDemographicCategoryName(name){
-    demographicCategoriesNames = ["age_range","gender","language","exclude_expats","scholarity"]
+    // demographicCategoriesNames = ["age_range","gender","language","exclude_expats","scholarity"]
+    demographicCategoriesNames = ["age_range","gender","exclude_expats","scholarity"];
     return demographicCategoriesNames.indexOf(name) >= 0;
 }
 
@@ -119,7 +120,13 @@ function isArabCountryCode3Letters(countryCode){
     }
     return false;
 }
-
+function updateFilteringCountryCodeMap(list_country_codes){
+    for(var countryCode in countryCodeMap){
+        if(list_country_codes.indexOf(countryCode) == -1){
+            delete countryCodeMap[countryCode];
+        }
+    }
+}
 countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",
