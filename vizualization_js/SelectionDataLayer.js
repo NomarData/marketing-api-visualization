@@ -9,6 +9,18 @@ function SelectionDataLayer(){
     this.selectedFacebookPopulationSum = 0;
     this.loader = $(".loader");
 
+    this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
+        var total = 0;
+        for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
+            var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
+            if(instance[categoryName] == subCategoryName){
+                total += instance.audience
+            }
+            console.log(total + " " + instanceIndex)
+        }
+        return total;
+    }
+
     this.updateDataset = function(){
         currentInstance.loader.fadeIn();
         fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
