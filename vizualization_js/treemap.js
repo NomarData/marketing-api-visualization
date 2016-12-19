@@ -300,7 +300,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         cell.append("svg:rect")
             .attr("width", function(d) { return d.dx > 1 ? d.dx - 1 : d.dx; })
             .attr("height", function(d) { return d.dy > 1 ? d.dy - 1 : d.dy; })
-            .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); });
+            .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); })
+            .attr("class","treemapRect");
 
         var text = cell.append("svg:text")
             .attr("x", function(d) { return d.dx / 2; })
