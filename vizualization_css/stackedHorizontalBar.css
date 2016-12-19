@@ -34,3 +34,18 @@
     margin-top: 20px;//This 20px is the margin of .pagination class so to match that else you have to alter pagination class
 float:left;
 }
+
+
+#tooltip-stackedbar {
+    position: absolute;
+    /*padding: 4px;*/
+    /*border-radius: 1px;*/
+    /*background-color: #FFF;*/
+    /*box-shadow: 1px 1px 5px #CCC;*/
+    /*font-size: 12px;*/
+    /*border: 1px solid #CCC;*/
+}
+
+#tooltip-stackedbar.hidden {
+    display: none;
+}
