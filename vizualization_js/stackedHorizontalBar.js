@@ -5,6 +5,9 @@
 function stackedHorizontalBar(){
     var currentInstance = this;
     this.data = null;
+    this.redData = null;
+    this.greenData = null;
+    this.tooltip_margin = 10;
     this.margin = {
         top: 30,
         right: 50,
@@ -23,9 +26,17 @@ function stackedHorizontalBar(){
         greenBar.attr("x", function (d) {return currentInstance.x(Math.min(0, greenValue));});
     }
 
+    this.getFormattedAudience = function(audience){
+        if( audience >= 1000){
+            return numeral(audience).format('0.00a')
+        } else{
+            return audience
+        }
+    }
+
     this.updateData = function(){
         var data = treemapManager.getAverageSelectedInclination();
-
+        var svg = currentInstance.svg;
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
@@ -36,15 +47,21 @@ function stackedHorizontalBar(){
             .call(currentInstance.xAxis);
 
 
-        currentInstance.data.greenValue = data.greenAudience;
-        currentInstance.data.redValue = data.redAudience;
-        greenBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.greenValue ));});
-        greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(-currentInstance.data.greenValue) - currentInstance.x(0))});
+        currentInstance.greenData[0].audience = data.greenAudience;
+        currentInstance.redData[0].audience = data.redAudience;
+        currentInstance.greenData[0].score = data.greenInclination;
+        currentInstance.redData[0].score = data.redInclination;
+
+        svg.selectAll(".greenBar").data(currentInstance.greenData);
+
+        greenBar.attr("x", function (d) { return  currentInstance.x(Math.min(0, -data.greenAudience ));});
+        greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(-data.greenAudience) - currentInstance.x(0))});
         greenBar.attr("style", function(d){return "fill: #1a9850"});
 
         // redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
-        redBar.attr("width", function (d) { return Math.abs(currentInstance.x(currentInstance.data.redValue ) - currentInstance.x(0)); })
+        redBar.attr("width", function (d) { return Math.abs(currentInstance.x(data.redAudience ) - currentInstance.x(0)); });
         redBar.attr("style", function(d){ return "fill: #d73027"});
+        svg.selectAll(".redBar").data(currentInstance.redData);
 
     };
 
@@ -62,6 +79,40 @@ function stackedHorizontalBar(){
       currentInstance.x.domain([-max,max])
     };
 
+    this.mousemoveTooltip = function(d){
+        d3.select("#tooltip-stackedbar").classed("hidden", false);
+        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
+        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+        d3.select("#tooltip-stackedbar")
+            .style("left", xPosition + "px")
+            .style("top", yPosition + "px");
+
+        d3.select("#tooltip-stackedbar #categoryNameTooltip")
+            .text(getTooltipLabel(d.name));
+
+        d3.select("#tooltip-stackedbar #audienceStackedBarTooltip")
+            .text(currentInstance.getFormattedAudience(d.audience));
+
+        d3.select("#tooltip-stackedbar #fbTotalAudienceSelectedStackedBar")
+            .text(currentInstance.getFormattedAudience(NODES_SELECTED.selectedFacebookPopulationSum));
+
+        d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
+            .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
+        //
+        // d3.select("#tooltip-treemap #luxuryAudienceTooltip")
+        //     .text(currentInstance.getFormattedAudience(d.luxuryAudience));
+        //
+        // d3.select("#tooltip-treemap #healthAudienceTooltip")
+        //     .text(currentInstance.getFormattedAudience(d.healthAudience));
+        //
+        // d3.select("#tooltip-treemap #fbPopulationTooltip")
+        //     .text(currentInstance.getFormattedAudience(d.fbPopulation));
+
+    };
+    this.mouseoutTooltip = function(d){
+        d3.select("#tooltip-stackedbar").classed("hidden", true);
+    };
+
     this.init = function(){
         var x = this.x;
         var y = this.y;
@@ -76,7 +127,19 @@ function stackedHorizontalBar(){
             greenValue: averageInclination.greenInclination,
             redValue: averageInclination.redInclination
         }];
+        var greenData = [{
+            name: "Health Audience",
+            score: averageInclination.greenInclination,
+            audience: averageInclination.greenAudience,
+        }];
+        var redData = [{
+            name: "Luxury Audience",
+            score: averageInclination.greenInclination,
+            audience: averageInclination.greenAudience,
+        }];
         this.data = data;
+        this.greenData = greenData;
+        this.redData = redData;
 
 
         currentInstance.updateDomain(1);
@@ -85,43 +148,47 @@ function stackedHorizontalBar(){
         }));
 
         svg.selectAll(".greenBar")
-            .data(data)
+            .data(greenData)
             .enter().append("rect")
             .attr("class", "greenBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(-d.greenValue)
+                return "fill: " + getGreenOrRedColorByInclination(-d.audience)
             })
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(-d.greenValue)
+                return "fill: " + getGreenOrRedColorByInclination(-d.audience)
             })
             .attr("x", function (d) {
-                return x(Math.min(0, -d.greenValue));
+                return x(Math.min(0, -d.audience));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(-d.greenValue) - x(0));
+                return Math.abs(x(-d.audience) - x(0));
             })
-            .attr("height", y.rangeBand());
+            .attr("height", y.rangeBand())
+            .on("mousemove", currentInstance.mousemoveTooltip)
+            .on("mouseout", currentInstance.mouseoutTooltip);
 
         svg.selectAll(".redBar")
-            .data(data)
+            .data(redData)
             .enter().append("rect")
             .attr("class", "redBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(d.redValue)
+                return "fill: " + getGreenOrRedColorByInclination(d.audience)
             })
             .attr("x", function (d) {
-                return x(Math.min(0, d.redValue));
+                return x(Math.min(0, d.audience));
             })
             .attr("y", function (d) {
                 return y(d.name);
             })
             .attr("width", function (d) {
-                return Math.abs(x(d.redValue) - x(0));
+                return Math.abs(x(d.audience) - x(0));
             })
-            .attr("height", y.rangeBand());
+            .attr("height", y.rangeBand())
+            .on("mousemove", currentInstance.mousemoveTooltip)
+            .on("mouseout", currentInstance.mouseoutTooltip);
 
         svg.append("g")
             .attr("class", "x axis")
