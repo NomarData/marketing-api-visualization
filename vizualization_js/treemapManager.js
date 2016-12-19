@@ -177,51 +177,62 @@ function updateTreemaps(treemapTrigger) {
 
 function getTreemapDataFromInstancesList(category){
     var categoryAudience = {};
+    categoryAudience["name"] = category;
+    categoryAudience["data"] = {}
     var instancesList = NODES_SELECTED.getSelectedInstances();
     for(var index in instancesList){
         var instance = instancesList[index];
-        if(instance[category] in categoryAudience){
-            categoryAudience[instance[category]].push(instance);
+        if(instance[category] in categoryAudience["data"]){
+            categoryAudience["data"][instance[category]].push(instance);
         } else {
-            categoryAudience[instance[category]] = [instance];
+            categoryAudience["data"][instance[category]] = [instance];
         }
     }
     var children = generateTreemapChidren(categoryAudience);
     return {"name" : category , "children" : children};
 }
 
-function processSubCategoryList(subCategoryList){
-    var jewelAudience = 0.0;
+function processSubCategoryList(categoryAudience, subCategoryName){
+    var luxuryAudience = 0.0;
     var healthAudience = 0.0;
-    var totalAudience = 0.0;
+    var totalAudienceWithInterest = 0.0;
+    var subCategoryList = categoryAudience["data"][subCategoryName];
+
+    var totalAudienceGivenSelection = NODES_SELECTED.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory(categoryAudience["name"], subCategoryName);
+
     for(var index in subCategoryList){
         var instance = subCategoryList[index];
         if (getInstancePolarity(instance) == -1){
-            jewelAudience += instance.audience;
+            luxuryAudience += instance.audience;
         } else if (getInstancePolarity(instance) == 1){
             healthAudience += instance.audience;
         }
-        totalAudience += instance.audience;
+        totalAudienceWithInterest += instance.audience;
     }
-
     return {
-        "size" : totalAudience,
-        // "inclination" : (healthAudience - jewelAudience) / totalAudience
-        "inclination" : (healthAudience - jewelAudience) / (NODES_SELECTED.selectedFacebookPopulationSum + 1)
+        "size" : totalAudienceWithInterest,
+        "fbPopulation" : totalAudienceGivenSelection,
+        // "inclination" : (healthAudience - jewelAudience) / totalAudienceWithInterest
+        "inclination" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero,
+        "healthAudience" : healthAudience,
+        "luxuryAudience" : luxuryAudience
     }
 
 }
 
 function generateTreemapChidren(categoryAudience){
     var children = []
-    for (var subCategory in categoryAudience){
-        var treemapDataCell = processSubCategoryList(categoryAudience[subCategory]);
+    for (var subCategoryName in categoryAudience["data"]){
+        var treemapDataCell = processSubCategoryList(categoryAudience, subCategoryName);
         children.push({
-            "name" : subCategory,
+            "name" : subCategoryName,
             "children" : [{
-                "name": subCategory,
+                "name": subCategoryName,
                 "size" : treemapDataCell.size,
-                "inclination" : treemapDataCell.inclination
+                "inclination" : treemapDataCell.inclination,
+                "healthAudience" : treemapDataCell.healthAudience,
+                "luxuryAudience" : treemapDataCell.luxuryAudience,
+                "fbPopulation" : treemapDataCell.fbPopulation
             }]
         });
     }
@@ -272,8 +283,8 @@ function TreemapManager(){
         var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("scholarity"));
         scholarityTreemap.init();
 
-        var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("language"));
-        languageTreemap.init();
+        // var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("language"));
+        // languageTreemap.init();
 
         var citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("citizenship"));
         citizenshipTreemap.init();
@@ -281,7 +292,7 @@ function TreemapManager(){
         this.treemaps.push(genderTreemap);
         this.treemaps.push(ageRangeTreemap);
         this.treemaps.push(scholarityTreemap);
-        this.treemaps.push(languageTreemap);
+        // this.treemaps.push(languageTreemap);
         this.treemaps.push(citizenshipTreemap);
     }
 

@@ -54,16 +54,18 @@ $(document).ready(function () {
     $(".loader").fadeIn();
     NODES_SELECTED = new SelectionDataLayer();
     fusionAPI = new GoogleFusionAPI();
+    var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
     fusionAPI.init();
     var promiseForDefaultState = fusionAPI.getPromiseToUpdateDatasetBySelection(NODES_SELECTED.selectedLuxury, NODES_SELECTED.selectedHealth);
     promiseForDefaultState.done(function(data){
         fusionAPI.setInstanceList(data.instances);
         NODES_SELECTED.setSelectedInstances();
-        var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
+
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
             fusionAPI.updateCountriesList().done(function(){
                 arabMap.applyClickFunctionToCountryBtns();
+                NODES_SELECTED.selectDefaultCountries();
                 $(".loader").fadeOut();
             });
             btnsTopicsSelectors = new BtnsTopicsSelectors();
