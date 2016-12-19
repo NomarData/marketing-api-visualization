@@ -210,7 +210,8 @@ function processSubCategoryList(categoryAudience, subCategoryName){
         totalAudienceWithInterest += instance.audience;
     }
     return {
-        "size" : totalAudienceWithInterest,
+        "size" : totalAudienceGivenSelection + 1,
+        "audienceWithInterest" : totalAudienceWithInterest,
         "fbPopulation" : totalAudienceGivenSelection,
         // "inclination" : (healthAudience - jewelAudience) / totalAudienceWithInterest
         "inclination" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero,
@@ -229,6 +230,7 @@ function generateTreemapChidren(categoryAudience){
             "children" : [{
                 "name": subCategoryName,
                 "size" : treemapDataCell.size,
+                "audienceWithInterest" : treemapDataCell.audienceWithInterest,
                 "inclination" : treemapDataCell.inclination,
                 "healthAudience" : treemapDataCell.healthAudience,
                 "luxuryAudience" : treemapDataCell.luxuryAudience,
