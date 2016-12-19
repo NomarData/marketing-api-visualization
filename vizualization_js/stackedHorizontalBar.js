@@ -40,12 +40,20 @@ function stackedHorizontalBar(){
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
+
+
         currentInstance.updateDomain(NODES_SELECTED.selectedFacebookPopulationSum);
         $(".x.axis").remove();
         currentInstance.svg.append("g")
             .attr("class", "x axis")
             .call(currentInstance.xAxis);
 
+        // currentInstance.svg.append("g")
+        //     .attr("class", "y axis")
+        //     .append("line")
+        //     .attr("x1", x(0))
+        //     .attr("x2", x(0))
+        //     .attr("y2", height);
 
         currentInstance.greenData[0].audience = data.greenAudience;
         currentInstance.redData[0].audience = data.redAudience;
@@ -76,7 +84,7 @@ function stackedHorizontalBar(){
     };
 
     this.updateDomain = function(max){
-      currentInstance.x.domain([-max,max])
+      currentInstance.x.domain([-max,max]).nice();
     };
 
     this.mousemoveTooltip = function(d){
