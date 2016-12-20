@@ -33,33 +33,9 @@ function BtnsTopicsSelectors(){
         });
     };
     this.init = function(){
-        var luxuryBtnsContainer = $("#btnsLuxuryContainer");
-        var luxuryBtnsContainerHeader = $("#btnsLuxuryContainerHeader");
-        var healthBtnsContainer = $("#btnsHealthContainer");
-        var healthBtnsContainerHeader = $("#btnsHealthContainerHeader");
-        var newBtn;
+        currentInstance.addTopicsBtns(luxuryTopics, "luxury");
+        currentInstance.addTopicsBtns(healthTopics, "health");
 
-        for(var luxuryIndex in luxuryTopics){
-            var luxuryTopic = luxuryTopics[luxuryIndex];
-            newBtn = $("<span class='btn btn-interest btn-luxury ' data-interest='" + luxuryTopic + "'>" + luxuryTopic + "</span>");
-            if(luxuryTopic == "luxury"){
-                newBtn.addClass("btn-interest-header");
-                luxuryBtnsContainerHeader.append(newBtn);
-            } else {
-                luxuryBtnsContainer.append(newBtn);
-            }
-        }
-        for(var healthIndex in healthTopics){
-            var healthTopic = healthTopics[healthIndex];
-            newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + healthTopic + "'>" + healthTopic + "</span>");
-            if(healthTopic == "health"){
-                newBtn.addClass("btn-interest-header");
-                healthBtnsContainerHeader.append(newBtn);
-            } else{
-                newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + healthTopic + "'>" + healthTopic + "</span>");
-                healthBtnsContainer.append(newBtn);
-            }
-        }
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();
 
@@ -70,5 +46,65 @@ function BtnsTopicsSelectors(){
         $("#unSelectedAllCountriesBtn").click(function(){
             NODES_SELECTED.deselectAllCountries();
         })
+    }
+
+    this.addTopicsBtns = function(listTopicsNames, topicType){
+        var luxuryBtnsContainer = $("#btnsLuxuryContainer");
+        var luxuryBtnsContainerHeader = $("#btnsLuxuryContainerHeader");
+        var healthBtnsContainer = $("#btnsHealthContainer");
+        var healthBtnsContainerHeader = $("#btnsHealthContainerHeader");
+        for(var topicIndex in listTopicsNames){
+            var topicName = listTopicsNames[topicIndex];
+            if(topicType == "luxury"){
+                var newBtn = $("<span class='btn btn-interest btn-luxury ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
+                if(topicName == "luxury"){
+                    newBtn.addClass("btn-interest-header");
+                    luxuryBtnsContainerHeader.append(newBtn);
+                } else {
+                    luxuryBtnsContainer.append(newBtn);
+                }
+            } else if (topicType == "health"){
+                var newBtn = $("<span class='btn btn-interest btn-health ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
+                if(topicName == "health"){
+                    newBtn.addClass("btn-interest-header");
+                    healthBtnsContainerHeader.append(newBtn);
+                } else{
+                    newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
+                    healthBtnsContainer.append(newBtn);
+                }
+            } else{
+                throw Error("Should be health or luxury");
+            }
+
+
+        }
+    }
+
+    this.convertBtnTopicName = function(topicName){
+        var topicNameMap = {
+            "luxury": "All Luxury Interests",
+            'luxury goods' : "Luxury Goods",
+            'cars vehicles' : "Buy Cars or Vehicles",
+            'shopping' : "Shopping",
+            'fast food' : "Fast Foods",
+            'mobile phones gadgets' : "Mobile Devices",
+            "health": "All Health Interests",
+            "obesity": "Obesity Awareness",
+            'fitness and wellness' : "Fitness and Wellness",
+            'health care' : "Health Care",
+            'physical activity' : "Physical Activity",
+            'smoking awareness' : "Smoking Awareness",
+            'diabetes awareness' : "Diabetes Awareness",
+            'mental disease depression' : "Mental Disease Aw.",
+            'stroke heart disease' : "Stroke Heart Disease Aw.",
+            'respiratory asthma' : "Respiratory Asthma Aw.",
+            'back pain' : "Back Pain Aw."
+        }
+
+        if(topicName in topicNameMap){
+            return topicNameMap[topicName];
+        } else {
+            return topicName;
+        }
     }
 }
