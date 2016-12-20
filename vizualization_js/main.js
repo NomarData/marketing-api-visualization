@@ -72,10 +72,4 @@ $(document).ready(function () {
             btnsTopicsSelectors.init();
         });
     });
-
-
-
-
-
-
 });
