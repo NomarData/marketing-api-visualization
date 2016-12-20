@@ -274,7 +274,6 @@ function TreemapManager(){
     this.treemaps = [];
     this.initTreemaps = function(){
         var treemapDefaultHeight = 100;
-        var colorFunction = getRandomGreenOrRedColor;
 
         var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender"));
         genderTreemap.init();

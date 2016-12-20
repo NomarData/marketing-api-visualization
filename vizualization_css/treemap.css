@@ -26,9 +26,10 @@ text {
 }
 
 .treemapSpanContainer{
-    padding-bottom: 11px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     margin-left: 0px;
-    background-color: #d6d6d6;
+    background-color: #F7F7F7;
 }
 
 .treemapRect {
@@ -81,6 +82,41 @@ rect.parent {
 #tooltip-treemap.hidden {
     display: none;
 }
+
+/*-----------------------------------------*/
+.clear {
+    clear:both;
+}
+
+.cell {
+    min-width: 0px;
+    min-height: 0px;
+    margin: 0px;
+    float: left;
+    text-align: center;
+    color: black;
+    padding: 1px;
+    font-size: 10px;
+
+}
+
+/*.stop-left {*/
+    /*stop-color: red;  !* Indigo *!*/
+/*}*/
+
+/*.stop-right {*/
+    /*stop-color: green;  !* Teal *!*/
+/*}*/
+
+/*.filled {*/
+    /*fill: url(#mainGradient);*/
+/*}*/
+
+/*.outlined {*/
+    /*fill:   none;*/
+    /*stroke: url(#mainGradient);*/
+    /*stroke-width: 4;*/
+/*}*/
 
 /*#tooltip-treemap p {*/
     /*margin: 0;*/
