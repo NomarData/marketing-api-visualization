@@ -15,22 +15,37 @@
     <link href="vizualization_css/interestsSelection.css" rel="stylesheet" />
     <link href="vizualization_css/btnsTopicsSelectors.css" rel="stylesheet" />
     <link href="vizualization_css/inclinationScore.css" rel="stylesheet" />
+    <link href="vizualization_css/utils.css" rel="stylesheet" />
 </head>
 <body>
 <div class=".datamaps-style-block">
 <!--//Avoid datamaps create rewrite css-->
 </div>
+
+
     <div class="container">
+        <div class="page-header text-center">
+            <h1>Health Awareness in the Arab World</h1>
+        </div>
+        <div class="row">
+            <div class="span12">
+                <dl class="dl-horizontal">
+                    <dt>Description:</dt>
+                    <dd>Onse sentence summary of the tool than link to <a href="about.html">about page</a></dd>
+                </dl>
+            </div>
+        </div>
+
         <div id="tooltip-treemap" class="hidden hoverinfo">
             <div>
                 <span id="category-type"></span>: <strong id="category"></strong>
             </div>
             <div>
-                <div>
+                <div class="hidden">
                     <span>Audience</span>: <strong id="audience"></strong>
                 </div>
                 <div>
-                    <span>FB Population in category</span>: <strong id="fbPopulationTooltip"></strong>
+                    <span>Facebook Audience</span>: <strong id="fbPopulationTooltip"></strong>
                 </div>
                 <div>
                     <span>Score</span>: <strong id="scoreTooltip"></strong>
@@ -57,12 +72,6 @@
                 </div>
             </div>
 
-        </div>
-
-        <div class="row">
-            <div class="span12 text-center">
-                <h1>Health Awareness in the Arab World</h1>
-            </div>
         </div>
 
 
@@ -169,10 +178,10 @@
                     </div>
                     <div class="row text-center">
                         <div id="selectedAllCountriesBtn" class="offset1 span2 btn btn-multiple-countries">
-                            Select All
+                            All countries
                         </div>
                         <div id="unSelectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
-                            Deselect All
+                            No countries
                         </div>
                     </div>
 
