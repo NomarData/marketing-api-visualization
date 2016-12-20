@@ -5,8 +5,9 @@
  * Created by maraujo on 11/22/16.
  */
 function buildTreemapLegends(colorFunction){
+    var numberOfSteps = 93; //It should be dynamic according to the size of the display. It's good for now
     var max=1, data = [], min=-1;
-    var step = (max-min)/93;
+    var step = (max-min)/numberOfSteps;
     for (var i=-1.0 + step;i<max;i=i+step){
         data.push(i);
     }
