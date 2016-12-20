@@ -83,12 +83,10 @@ rect.parent {
     display: none;
 }
 
-/*-----------------------------------------*/
-.clear {
-    clear:both;
-}
 
-.cell {
+.legendCell {
+    /*width: 5px;*/
+    height: 15px;
     min-width: 0px;
     min-height: 0px;
     margin: 0px;
@@ -97,30 +95,5 @@ rect.parent {
     color: black;
     padding: 1px;
     font-size: 10px;
-
+    vertical-align: middle;
 }
-
-/*.stop-left {*/
-    /*stop-color: red;  !* Indigo *!*/
-/*}*/
-
-/*.stop-right {*/
-    /*stop-color: green;  !* Teal *!*/
-/*}*/
-
-/*.filled {*/
-    /*fill: url(#mainGradient);*/
-/*}*/
-
-/*.outlined {*/
-    /*fill:   none;*/
-    /*stroke: url(#mainGradient);*/
-    /*stroke-width: 4;*/
-/*}*/
-
-/*#tooltip-treemap p {*/
-    /*margin: 0;*/
-    /*font-family: sans-serif;*/
-    /*font-size: 16px;*/
-    /*line-height: 20px;*/
-/*}*/
