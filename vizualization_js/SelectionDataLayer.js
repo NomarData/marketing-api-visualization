@@ -16,7 +16,6 @@ function SelectionDataLayer(){
             if(instance[categoryName] == subCategoryName){
                 total += instance.audience
             }
-            console.log(total + " " + instanceIndex)
         }
         return total;
     }
