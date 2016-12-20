@@ -4,6 +4,35 @@
 /**
  * Created by maraujo on 11/22/16.
  */
+function buildTreemapLegends(colorFunction){
+    var max=1, data = [], min=-1;
+    var step = (max-min)/93;
+    for (var i=-1.0 + step;i<max;i=i+step){
+        data.push(i);
+    }
+
+    var selection =  d3.select("#treemapLegend").selectAll("div.cell").data(data);
+    selection.enter()
+        .append("div")
+        .classed("legendCell",true)
+        .append("div.test")
+        .append("span");
+    selection.data(data).exit().remove();
+    selection.style("display","inline-block")
+        .style("background-color",function(d){
+            return colorFunction(d);
+        })
+        .select("span")
+        .text(function(d,i){
+            if(i%5 == 4){
+                return d.toFixed(1);
+            } else {
+                return " ";
+            }
+
+        });
+}
+
 var treemapDataGender = function(){
     return  {
         "name": "Gender",
@@ -295,6 +324,9 @@ function TreemapManager(){
         this.treemaps.push(scholarityTreemap);
         // this.treemaps.push(languageTreemap);
         this.treemaps.push(citizenshipTreemap);
+
+        //    Build Legend
+        buildTreemapLegends(colorFunction);
     }
 
 
