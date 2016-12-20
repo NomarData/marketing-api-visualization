@@ -72,33 +72,9 @@ $(document).ready(function () {
             btnsTopicsSelectors.init();
         });
     });
-    //----------------------------------------------------------------------------
 
 
-    function render(scale,selector) {
-        var max=1, data = [], min=-1;
-        var step = (max-min)/20;
-        for (var i=-1.0 + step;i<max;i=i+step){
-            data.push(i);
-        }
 
-        var selection =  d3.select(selector).selectAll("div.cell").data(data);
-        selection.enter()
-            .append("div")
-            .classed("cell",true)
-            .append("div.test")
-            .append("span");
-        selection.data(data).exit().remove();
-        selection.style("display","inline-block")
-            .style("background-color",function(d){
-                return scale(d);
-            })
-            .select("span")
-                .text(function(d,i){return d.toFixed(2);});
-
-
-    }
-    render(colorFunction, "#color");
 
 
 

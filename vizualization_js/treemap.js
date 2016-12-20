@@ -1,4 +1,5 @@
 
+
 function getRedColor(position){
     function redColorGenerator(){
         return d3.scale.linear().domain([-0,-0.5,-1])
@@ -289,8 +290,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .style("opacity", function(d) {
                 return currentInstance.getOpacityBasedOnData(d,this);
             });
-
-
 
     }
 
