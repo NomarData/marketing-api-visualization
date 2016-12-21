@@ -10,15 +10,35 @@ function stackedHorizontalBar(){
     this.tooltip_margin = 10;
     this.margin = {
         top: 30,
-        right: 50,
+        right: 100,
         bottom: 10,
-        left: 50
+        left: 100
     };
-    this.width = 900 - this.margin.left - this.margin.right;
+    this.marginInsideSvg = 50;
+    this.parentWidth = $("#horizontalStackedBar").parent().width();
+    this.width = this.parentWidth - this.margin.left - this.margin.right;
     this.height = 20;
-    this.x = d3.scale.linear().range([0, this.width]);
-    this.y = d3.scale.ordinal().rangeRoundBands([0, this.height], .2);
-    this.xAxis = d3.svg.axis().scale(this.x).orient("top");
+    this.x = d3.scale.linear().range([this.marginInsideSvg, this.width - this.marginInsideSvg]);
+    this.y = d3.scale.ordinal().rangeRoundBands([0, this.height]);
+    this.xAxis = function(self){
+        if(currentInstance.width < 500){
+            return d3.svg.axis().scale(currentInstance.x)
+                .ticks(3)
+                .orient("top")
+                .tickFormat(function(d) {
+                    return convertIntegerToReadable(d);
+                    });
+        } else{
+            return d3.svg.axis().scale(currentInstance.x)
+                .ticks(10)
+                .orient("top")
+                .tickFormat(function(d) {
+                    return convertIntegerToReadable(d);
+                });
+        }
+
+    };
+
     this.svg = null;
 
     this.setGreenSize = function(greenValue){
@@ -46,7 +66,7 @@ function stackedHorizontalBar(){
         $(".x.axis").remove();
         currentInstance.svg.append("g")
             .attr("class", "x axis")
-            .call(currentInstance.xAxis);
+            .call(currentInstance.xAxis());
 
         // currentInstance.svg.append("g")
         //     .attr("class", "y axis")
@@ -75,10 +95,10 @@ function stackedHorizontalBar(){
 
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
-            .attr("width", this.width + this.margin.left + this.margin.right)
+            .attr("width", this.width)
             .attr("height", this.height + this.margin.top + this.margin.bottom)
             .append("g")
-            .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
+            .attr("transform", "translate(" + 0 + "," + this.margin.top + ")");
         currentInstance.svg = svg;
         return svg
     };
@@ -124,7 +144,7 @@ function stackedHorizontalBar(){
     this.init = function(){
         var x = this.x;
         var y = this.y;
-        var xAxis = this.xAxis;
+        var xAxis = this.xAxis();
         var svg = this.createAndSetSVG();
         var data = this.data;
         var height = this.height;
