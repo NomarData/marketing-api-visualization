@@ -5,25 +5,20 @@
     height: 400px;
 }
 
-.countryItem:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
 
 .btn-country {
     margin-top: 2px;
     width: 100%;
     color: #000;
     font-size: 12px;
-}
-.btn-country:hover{
-    cursor: pointer;
-    color: #000;
+    font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
 }
 
-.hover-country{
-    border-width: 3px;
-    border-color: rgba(0, 0, 0, 0.2);
+.btn-country:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #000;
+    /*border: 2px solid #d1d1d1;*/
 }
 
 .btn-multiple-countries{
