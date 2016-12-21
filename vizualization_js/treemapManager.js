@@ -4,8 +4,17 @@
 /**
  * Created by maraujo on 11/22/16.
  */
+
+function putTreemapLegendsInCenter(){
+    var firstCell = $($(".legendCell")[0]);
+    var lastCell = $($(".legendCell")[$(".legendCell").size() -1]);
+    var scaleWidth = lastCell.position().left - firstCell.position().left;
+    var parentWidth = $("#treemapLegend").width() - 30;
+    var scaleLeftMargin = (parentWidth - scaleWidth) / 2;
+    d3.select("#treemapLegend").attr("style", "margin-left:" + scaleLeftMargin + "px");
+}
 function buildTreemapLegends(colorFunction){
-    var numberOfSteps = 93; //It should be dynamic according to the size of the display. It's good for now
+    var numberOfSteps = 50; //It should be dynamic according to the size of the display. It's good for now
     var max=1, data = [], min=-1;
     var step = (max-min)/numberOfSteps;
     for (var i=-1.0 + step;i<max;i=i+step){
@@ -14,7 +23,7 @@ function buildTreemapLegends(colorFunction){
 
     var selection =  d3.select("#treemapLegend").selectAll("div.cell").data(data);
     selection.enter()
-        .append("div")
+        .append("rect")
         .classed("legendCell",true)
         .append("div.test")
         .append("span");
@@ -32,6 +41,7 @@ function buildTreemapLegends(colorFunction){
             }
 
         });
+    putTreemapLegendsInCenter();
 }
 
 var treemapDataGender = function(){
