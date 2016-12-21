@@ -113,7 +113,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     // d.w = this.getComputedTextLength();
                     // console.log(d.w + " " + d.dx);
                     // return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
-                    return currentInstance.getOpacityBasedOnData(d,this)
+                    return currentInstance.getOpacityBasedOnData(d,this,d.dx,d.dy)
                 });
             this.node =  rootData;
             this.root =  rootData;
@@ -139,9 +139,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("text-anchor", "middle")
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d) {
-                    d.w = this.getComputedTextLength();
-                    // console.log(d.w + " " + d.dx);
-                    return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
+                    console.log(d.w + " " + d.dx);
+                    return currentInstance.getOpacityBasedOnData(d,this,d.dx,d.dy); //This 1.5 should be specified before
                 });
             this.node =  rootData.children[0];
         }
@@ -156,12 +155,12 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return d.size;
         });
 
-    this.getOpacityBasedOnData = function(d, textElement,kx,ky){
+    this.getOpacityBasedOnData = function(d, textElement,newWidth,newHeight){
 
         var labelWidth = textElement.getComputedTextLength();
-        var labelHeight = $(textElement.treemapContainer).find("text:contains('"+ d.name +"')").height() + 15;
-        var showDueWidth = labelWidth / 2 > d.dx ? 0 : 1;
-        var showDueHeight = labelHeight > d.dy ? 0 : 1;
+        var labelHeight = 34;
+        var showDueWidth = labelWidth > newWidth ? 0 : 1;
+        var showDueHeight = labelHeight > newHeight ? 0 : 1;
         if(showDueWidth == 0){
             console.log("Hidden due width: " + d.name + " : " + labelWidth);
         }
@@ -174,8 +173,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var kx = currentInstance.w / focusNode.dx, ky = currentInstance.h / focusNode.dy;
         currentInstance.x.domain([focusNode.x, focusNode.x + focusNode.dx]);
         currentInstance.y.domain([focusNode.y, focusNode.y + focusNode.dy]);
+
         var t = currentInstance.svg.selectAll("g.cell").transition()
-                .duration(d3.event.altKey ? 7500 : 750)
                 .attr("transform", function(d) { return "translate(" + currentInstance.x(d.x) + "," + currentInstance.y(d.y) + ")"; });
 
             t.select("rect")
@@ -187,18 +186,31 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("y", function(d) { return ky * d.dy / 2; })
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d){
-                    return focusNode.name == d.name ? 1 : currentInstance.getOpacityBasedOnData(d,this,kx,ky);
+                    if(focusNode == currentInstance.root){
+                        var cellNode = currentInstance.getChildFromRootNode(d.name);
+                        return currentInstance.getOpacityBasedOnData(d,this,cellNode.dx,cellNode.dy);
+                    }
+                    return focusNode.name == d.name ? 1 : 0;
                 });
         currentInstance.node = focusNode;
         d3.event.stopPropagation();
 
+    };
+    this.getChildFromRootNode = function(childName){
+        for(var childIndex in currentInstance.root.children){
+            var child =  currentInstance.root.children[childIndex];
+            if (child.name == childName){
+                return child;
+            }
+        }
+        throw Error("Child Not Found");
     }
     this.size = function(){
         this.d.size;
-    }
+    };
     this.count = function () {
         return 1;
-    }
+    };
 
     this.isSelected = function (self, d) {
         return self.node.name == d.parent.name;
@@ -285,6 +297,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var text = cell.append("svg:text")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", function(d) { return d.dy / 2; })
+            .attr("class", "treemapText")
             .attr("text-anchor", "middle")
             .each(currentInstance.setTextLines)
             .style("opacity", function(d) {

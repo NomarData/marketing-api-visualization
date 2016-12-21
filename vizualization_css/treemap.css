@@ -38,6 +38,10 @@ text {
     cursor: pointer;
 }
 
+.treemapText{
+    font-size: 14px;
+}
+
 rect.parent,
 .grandparent rect {
     stroke-width: 2px;
