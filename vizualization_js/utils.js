@@ -119,7 +119,7 @@ function updateBtnColor(countryCode3Letters, color){
 function onClickCountryFunction(countryItem){
     var countryCode2Letters = countryItem.data("code");
     if(NODES_SELECTED.isCountryAlreadySelected(countryCode2Letters)){
-        countryItem.css("text-decoration","none");
+        countryItem.css("text-decoration","");
         NODES_SELECTED.removeCountryCode(countryCode2Letters);
         countryItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
     } else{
