@@ -22,22 +22,21 @@ function stackedHorizontalBar(){
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height]);
     this.xAxis = function(self){
         if(currentInstance.width < 500){
-            return d3.svg.axis().scale(currentInstance.x)
-                .ticks(3)
-                .orient("top")
-                .tickFormat(function(d) {
-                    return convertIntegerToReadable(d);
-                    });
+            return currentInstance.buildScaleGivenNumberOfTicks(3);
         } else{
-            return d3.svg.axis().scale(currentInstance.x)
-                .ticks(10)
-                .orient("top")
-                .tickFormat(function(d) {
-                    return convertIntegerToReadable(d);
-                });
+            return currentInstance.buildScaleGivenNumberOfTicks(10);
         }
 
     };
+
+    this.buildScaleGivenNumberOfTicks = function(numberOfTicks){
+        return d3.svg.axis().scale(currentInstance.x)
+            .ticks(numberOfTicks)
+            .orient("top")
+            .tickFormat(function(d) {
+                return convertIntegerToReadable(d).replace("-","");
+            });
+    }
 
     this.svg = null;
 
