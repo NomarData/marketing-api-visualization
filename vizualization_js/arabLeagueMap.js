@@ -45,8 +45,8 @@ function CountriesDataDatamap(){
         }
     }
 
-    this.getCountryInclination = function(country){
-        return (currentInstance.countries[country].healthAudience - currentInstance.countries[country].jewelAudience) / currentInstance.getCountryAudience(country);
+    this.getCountryInclination = function(country3Letters){
+        return (currentInstance.countries[country3Letters].healthAudience - currentInstance.countries[country3Letters].jewelAudience) / currentInstance.getCountryAudience(country3Letters);
     }
     this.getCountryAudience = function(country){
         // var audience =  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
@@ -85,7 +85,7 @@ function CountriesDataDatamap(){
     }
 }
 
-countriesDataDatamap = new CountriesDataDatamap();
+countriesDataDatamap = new CountriesDataDatamap(); //Put this in a better place
 
 
 function emptyCountriesDatamap(){
@@ -105,13 +105,7 @@ function arabLeagueMap(){
             .projection(projection);
 
         return {path: path, projection: projection};
-    }
-    this.applyClickFunctionToCountryBtns = function(){
-        $(".countryItem").click(function(){
-            onClickCountryFunction($(this));
-        });
-    }
-
+    };
 
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
@@ -193,13 +187,17 @@ function arabLeagueMap(){
 
         });
     };
+    this.addClickFunctionToCountriesBtns = function(){
+        $(".countryItem").click(function(){
+            onClickCountryFunction($(this));
+        });
+    };
     this.addTooltipToCountriesPath =  function(){
         currentInstance.datamap.svg.selectAll('.datamaps-subunit').on('mousemove', function(geography) {
+            currentInstance.removeHoverIfNotArabCountry(geography);
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
                 currentInstance.mousemoveTooltip(countryCode3Letters);
-            } else{
-                console.log("Only arab countries supported");
             }
         });
 
@@ -235,6 +233,9 @@ function arabLeagueMap(){
     };
 
     this.mousemoveTooltip = function(countryCode3Letters){
+        var code2Letters = convert3to2LettersCode(countryCode3Letters);
+        var score = countriesDataDatamap.getCountryInclination(countryCode3Letters);
+        var countryName = convert2LettersCodeToName(code2Letters);
         d3.select("#tooltip-countries").classed("hidden", false);
         var xPosition = d3.event.pageX + currentInstance.tooltipMargin;
         var yPosition = d3.event.pageY + currentInstance.tooltipMargin;
@@ -243,10 +244,11 @@ function arabLeagueMap(){
             .style("top", yPosition + "px");
 
         d3.select("#tooltip-countries  #countryNameTooltip")
-            .text(getTooltipLabel(countryCode3Letters));
+            .text(countryName);
+
 
         d3.select("#tooltip-countries #countryScoreTooltip")
-            .text(0.5);
+            .text(score.toFixed(2));
 
     };
     this.mouseoutTooltip = function(d){
@@ -307,6 +309,7 @@ function arabLeagueMap(){
     this.initCountriesBtns = function () {
         fusionAPI.updateCountriesList().done(function(){
             currentInstance.addClickFunctionToCountries();
+            currentInstance.addClickFunctionToCountriesBtns();
             currentInstance.addTooltipToCountriesPath();
             currentInstance.addTooltipToCountriesBtns();
             NODES_SELECTED.selectDefaultCountries();
