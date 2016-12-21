@@ -33,20 +33,15 @@ function buildAndInitVisualComponents(){
     luxuriousHealthBar.init();
     console.log("Builded luxuriousHealthBar");
 
-    arabMap = new arabLeagueMap();
-    arabMap.init();
-
-    // selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
-    // selectedInstancesTable.init();
-    // selectedInstancesTable.updateData();
-
-    // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
-    // currentDataInstancesTable.init();
-
     inclinationScore = new InclinationScore();
     inclinationScore.init();
 
-    // currentDataInstancesTable.updateDataGivenInstances(currentData);
+    arabMap = new arabLeagueMap();
+    arabMap.init();
+    arabMap.initCountriesBtns();
+
+
+
 }
 
 $(document).ready(function () {
@@ -63,11 +58,7 @@ $(document).ready(function () {
 
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
-            fusionAPI.updateCountriesList().done(function(){
-                arabMap.applyClickFunctionToCountryBtns();
-                NODES_SELECTED.selectDefaultCountries();
-                $(".loader").fadeOut();
-            });
+
             btnsTopicsSelectors = new BtnsTopicsSelectors();
             btnsTopicsSelectors.init();
         });
