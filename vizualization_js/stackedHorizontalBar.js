@@ -14,11 +14,13 @@ function stackedHorizontalBar(){
         bottom: 10,
         left: 100
     };
-    this.marginInsideSvg = 50;
+    this.selectedBefore = null;
+    this.marginAxisX = 50;
+    this.marginAxisY = 10;
     this.parentWidth = $("#horizontalStackedBar").parent().width();
     this.width = this.parentWidth - this.margin.left - this.margin.right;
-    this.height = 20;
-    this.x = d3.scale.linear().range([this.marginInsideSvg, this.width - this.marginInsideSvg]);
+    this.height = 15;
+    this.x = d3.scale.linear().range([this.marginAxisX, this.width - this.marginAxisX]);
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height]);
     this.xAxis = function(self){
         if(currentInstance.width < 500){
@@ -67,17 +69,10 @@ function stackedHorizontalBar(){
             .attr("class", "x axis")
             .call(currentInstance.xAxis());
 
-        // currentInstance.svg.append("g")
-        //     .attr("class", "y axis")
-        //     .append("line")
-        //     .attr("x1", x(0))
-        //     .attr("x2", x(0))
-        //     .attr("y2", height);
-
         currentInstance.greenData[0].audience = data.greenAudience;
         currentInstance.redData[0].audience = data.redAudience;
         currentInstance.greenData[0].score = data.greenInclination;
-        currentInstance.redData[0].score = data.redInclination;
+        currentInstance.redData[0].score = -data.redInclination;
 
         svg.selectAll(".greenBar").data(currentInstance.greenData);
 
@@ -136,6 +131,25 @@ function stackedHorizontalBar(){
         //     .text(currentInstance.getFormattedAudience(d.fbPopulation));
 
     };
+    this.mouseClick = function(d){
+        if(d.score > 0){
+            var luxurySelectedTopic = $(".btn-luxury.btn-selected");
+            if(luxurySelectedTopic.size() == 0){
+                currentInstance.selectedBefore.click();
+            } else {
+                currentInstance.selectedBefore = luxurySelectedTopic;
+                luxurySelectedTopic.click();
+            }
+        } else {
+            var healthSelectedTopic = $(".btn-health.btn-selected");
+            if(healthSelectedTopic.size() == 0){
+                currentInstance.selectedBefore.click();
+            } else {
+                currentInstance.selectedBefore = healthSelectedTopic;
+                healthSelectedTopic.click();
+            }
+        }
+    };
     this.mouseoutTooltip = function(d){
         d3.select("#tooltip-stackedbar").classed("hidden", true);
     };
@@ -161,8 +175,8 @@ function stackedHorizontalBar(){
         }];
         var redData = [{
             name: "Luxury Audience",
-            score: averageInclination.greenInclination,
-            audience: averageInclination.greenAudience,
+            score: averageInclination.redInclination,
+            audience: averageInclination.redAudience,
         }];
         this.data = data;
         this.greenData = greenData;
@@ -195,7 +209,8 @@ function stackedHorizontalBar(){
             })
             .attr("height", y.rangeBand())
             .on("mousemove", currentInstance.mousemoveTooltip)
-            .on("mouseout", currentInstance.mouseoutTooltip);
+            .on("mouseout", currentInstance.mouseoutTooltip)
+            .on("click", currentInstance.mouseClick);
 
         svg.selectAll(".redBar")
             .data(redData)
@@ -215,7 +230,8 @@ function stackedHorizontalBar(){
             })
             .attr("height", y.rangeBand())
             .on("mousemove", currentInstance.mousemoveTooltip)
-            .on("mouseout", currentInstance.mouseoutTooltip);
+            .on("mouseout", currentInstance.mouseoutTooltip)
+            .on("click", currentInstance.mouseClick);
 
         svg.append("g")
             .attr("class", "x axis")
