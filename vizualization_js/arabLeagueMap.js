@@ -94,6 +94,8 @@ function emptyCountriesDatamap(){
 
 function arabLeagueMap(){
     var currentInstance = this;
+    this.datamap = null;
+    this.qatarBahreinDatamap = null;
     this.tooltipMargin = 10;
     this.setProjection = function(element){
         var projection = d3.geo.equirectangular()
@@ -173,10 +175,36 @@ function arabLeagueMap(){
         });
         currentInstance.datamap = datamap;
         // currentInstance.addTooltipToCountriesAndBtns();
+
+
+        var qatarBahreinDatamap = new Datamap({
+            element: document.getElementById('qatarBahreinMapDiv'),
+            scope: 'world',
+            width:  "75px",
+            height:'75px',
+            setProjection : function(element){
+                var projection = d3.geo.equirectangular()
+                    .center([51.2, 25.4])
+                    .rotate([0, 0])
+                    .scale(2400)
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+                var path = d3.geo.path()
+                    .projection(projection);
+
+                return {path: path, projection: projection};
+            },
+            geographyConfig : currentInstance.geographyConfig,
+            fills: currentInstance.fills,
+            data: currentInstance.data,
+        });
+        currentInstance.qatarBahreinDatamap = qatarBahreinDatamap;
+        var sau2 = qatarBahreinDatamap.svg.selectAll(".datamaps-subunit.SAU");
+        sau2.style("display","none");
+
         currentInstance.updateData();
     };
     this.addClickFunctionToCountries = function(){
-        currentInstance.datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+        d3.selectAll('.datamaps-subunit').on('click', function(geography) {
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
                 onClickCountryFunctionBy3LettersCode(geography.id);
@@ -193,7 +221,7 @@ function arabLeagueMap(){
         });
     };
     this.addTooltipToCountriesPath =  function(){
-        currentInstance.datamap.svg.selectAll('.datamaps-subunit').on('mousemove', function(geography) {
+        d3.selectAll('.datamaps-subunit').on('mousemove', function(geography) {
             currentInstance.removeHoverIfNotArabCountry(geography);
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
@@ -201,7 +229,7 @@ function arabLeagueMap(){
             }
         });
 
-        currentInstance.datamap.svg.selectAll('.datamaps-subunit').on('mouseout', function(geography) {
+        d3.selectAll('.datamaps-subunit').on('mouseout', function(geography) {
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
                 currentInstance.mouseoutTooltip();
@@ -285,6 +313,7 @@ function arabLeagueMap(){
         // var dataField = currentInstace.getDataField(dataColor);
         // currentInstace.datamap.fills = dataColor;
         currentInstance.datamap.updateChoropleth(dataColor,{reset:true});
+        currentInstance.qatarBahreinDatamap.updateChoropleth(dataColor,{reset:true});
     }
 
     this.giveLife = function(){
