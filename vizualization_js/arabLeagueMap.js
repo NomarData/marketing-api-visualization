@@ -169,14 +169,7 @@ function arabLeagueMap(){
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,
             data: currentInstance.data,
-            done: function(datamap) {
-                    // currentInstance.addClickFunctionToCountries(datamap);
-            }
         });
-        currentInstance.datamap = datamap;
-        // currentInstance.addTooltipToCountriesAndBtns();
-
-
         var qatarBahreinDatamap = new Datamap({
             element: document.getElementById('qatarBahreinMapDiv'),
             scope: 'world',
@@ -196,11 +189,13 @@ function arabLeagueMap(){
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,
             data: currentInstance.data,
+            done: function(datamap) {
+                var saudiArabia = datamap.svg.selectAll(".datamaps-subunit.SAU");
+                saudiArabia.style("display","none");
+            }
         });
+        currentInstance.datamap = datamap;
         currentInstance.qatarBahreinDatamap = qatarBahreinDatamap;
-        var sau2 = qatarBahreinDatamap.svg.selectAll(".datamaps-subunit.SAU");
-        sau2.style("display","none");
-
         currentInstance.updateData();
     };
     this.addClickFunctionToCountries = function(){
