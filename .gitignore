@@ -2,4 +2,6 @@
 vizualization_js/datamaps-0.5.0/
 data/full_original_format.csv
 data/good_vs_bad.csv
-added by them:   data/output_1478189396.csv
+data/data.js
+data/after_drop_duplicates_clean_data*
+data/all_languages.csv
