@@ -49,15 +49,15 @@ function SelectionDataLayer(){
         }
     };
     this.deselectAllCountries = function(){
-        for(var countryCode in countryCodeMap){
-            if(currentInstance.isCountryAlreadySelected(countryCode)) onClickCountryFunctionBy2LettersCode(countryCode);
-        }
+        currentInstance.country_codes2letters = [];
+        currentInstance.update();
     };
     this.selectAllCountries = function(){
+        currentInstance.country_codes2letters = [];
         for(var countryCode in countryCodeMap){
-            if(currentInstance.isCountryAlreadySelected(countryCode)) continue;
-            onClickCountryFunctionBy2LettersCode(countryCode);
+            currentInstance.country_codes2letters.push(countryCode);
         }
+        currentInstance.update();
     };
     this.selectDefaultCountries = function(){
         // onClickCountryFunctionBy2LettersCode("AE");
