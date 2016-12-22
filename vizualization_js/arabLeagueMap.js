@@ -64,8 +64,8 @@ function CountriesDataDatamap(){
         }
 
         //Paint all selected countries as selected
-        for(var selectedCountryIndex in NODES_SELECTED.country_codes){
-            var _2_letters_country_code = NODES_SELECTED.country_codes[selectedCountryIndex];
+        for(var selectedCountryIndex in NODES_SELECTED.country_codes2letters){
+            var _2_letters_country_code = NODES_SELECTED.country_codes2letters[selectedCountryIndex];
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
@@ -144,7 +144,7 @@ function arabLeagueMap(){
         highlightOnHover: false,
         highlightFillColor: 'rgb(0, 0, 0, 0)',
         highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
-        highlightBorderWidth: 3,
+        highlightBorderWidth: 2,
         highlightBorderOpacity: 1,
     }
 
@@ -256,7 +256,9 @@ function arabLeagueMap(){
     };
 
     this.mousemoveTooltip = function(countryCode3Letters){
+        NODES_SELECTED.isCountryAlreadySelected()
         var code2Letters = convert3to2LettersCode(countryCode3Letters);
+
         var score = countriesDataDatamap.getCountryInclination(countryCode3Letters);
         var countryName = convert2LettersCodeToName(code2Letters);
         d3.select("#tooltip-countries").classed("hidden", false);
@@ -269,9 +271,14 @@ function arabLeagueMap(){
         d3.select("#tooltip-countries  #countryNameTooltip")
             .text(countryName);
 
+        if(isNaN(score)){
+            d3.select("#countryScoreTooltipContainer").classed("hidden",true);
 
-        d3.select("#tooltip-countries #countryScoreTooltip")
-            .text(score.toFixed(2));
+        } else {
+            d3.select("#countryScoreTooltipContainer").classed("hidden",false);
+            d3.select("#tooltip-countries #countryScoreTooltip").text(score.toFixed(2));
+        }
+
 
     };
     this.mouseoutTooltip = function(d){

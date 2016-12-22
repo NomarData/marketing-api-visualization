@@ -1,6 +1,6 @@
 function SelectionDataLayer(){
     var currentInstance = this;
-    this.country_codes = [];
+    this.country_codes2letters = [];
     this.categories = {};
     this.selected_instances = [];
     this.selectedFacebookPopulationInstances = [];
@@ -63,7 +63,6 @@ function SelectionDataLayer(){
         // onClickCountryFunctionBy2LettersCode("AE");
         // onClickCountryFunctionBy2LettersCode("DZ");
         for(var countryCode in countryCodeMap){
-            if(countryCode == "BH") continue;
             onClickCountryFunctionBy2LettersCode(countryCode);
         }
     };
@@ -72,11 +71,11 @@ function SelectionDataLayer(){
     }
     this.insertCountryCode = function(countryCode){
         console.log("Inserting:" + countryCode);
-        currentInstance.country_codes.push(countryCode);
+        currentInstance.country_codes2letters.push(countryCode);
         currentInstance.update();
     }
     this.removeCountryCode = function(country_code){
-        currentInstance.country_codes = removeValueFromArray(currentInstance.country_codes, country_code);
+        currentInstance.country_codes2letters = removeValueFromArray(currentInstance.country_codes2letters, country_code);
         currentInstance.update();
     }
     this.setCategoryValueSelected = function(category, value){
@@ -152,7 +151,7 @@ function SelectionDataLayer(){
     }
 
     this.isCountryAlreadySelected = function(country_code) {
-        return currentInstance.country_codes.indexOf(country_code) != -1 ? true : false;
+        return currentInstance.country_codes2letters.indexOf(country_code) != -1 ? true : false;
     };
     this.isInstanceAgreeWithSelected = function(instance){
         for(var key in currentInstance.categories){
@@ -162,7 +161,7 @@ function SelectionDataLayer(){
             }
         }
         //Check Country code
-        if(currentInstance.country_codes.length > 0){
+        if(currentInstance.country_codes2letters.length > 0){
             if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
                 // console.log("Country Not Selected");
                 return false;

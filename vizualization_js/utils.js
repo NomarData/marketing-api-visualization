@@ -126,14 +126,13 @@ function onClickCountryFunction(countryItem){
         countryItem.css("text-decoration","underline");
         NODES_SELECTED.insertCountryCode(countryCode2Letters);
     }
-    console.log(NODES_SELECTED.country_codes);
+    console.log(NODES_SELECTED.country_codes2letters);
 }
 
 function getAll3LettersCodeArabCountry(){
     var countryCodes = $.map(countryCodeMap,function (item) {
         return item._3letter_code;
     });
-    countryCodes = removeValueFromArray(countryCodes,"BHR") //removing bahrein for now
     return countryCodes;
 }
 
@@ -159,10 +158,10 @@ countryCodeMap = {
         "name" : "Algeria",
         "_3letter_code" : "DZA"
     },
-    // "BH"  : {
-    //     "name" : "Bahrain",
-    //     "_3letter_code" : "BHR"
-    // },
+    "BH"  : {
+        "name" : "Bahrain",
+        "_3letter_code" : "BHR"
+    },
     "EG"  : {
         "name" : "Egypt",
         "_3letter_code" : "EGY"

@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Health Awareness in the Arab World</title>
     <!-- Bootstrap Css-->
     <!--<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />-->
@@ -79,7 +80,7 @@
                 <div>
                     <strong id="countryNameTooltip"></strong>
                 </div>
-                <div>
+                <div id="countryScoreTooltipContainer">
                     <span>Score</span>: <strong id="countryScoreTooltip"></strong>
                 </div>
             </div>
@@ -189,7 +190,7 @@
                         <div id="arabLeagueMapDiv" class="arabLeagueMap"></div>
                         <div id="qatarBahreinMapDiv" class="qatarBahreinMap"></div>
                     </div>
-                    <div class="row text-center mapBtns">
+                    <div class="row text-center mapSelectDeselectAllBtns">
                         <div id="selectedAllCountriesBtn" class="offset1 span2 btn btn-multiple-countries">
                             All countries
                         </div>

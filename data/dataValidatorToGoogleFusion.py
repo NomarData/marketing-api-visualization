@@ -328,7 +328,7 @@ class PandasDataset:
     def process_data(self):
         self.data = self.data.drop_duplicates()
         self.replace_null_values()
-        # self.remove_all_languages()
+        self.remove_all_languages()
         self.check_not_permitted_empty_values()
 
         self.rename_column("exclusion_behavior", "citizenship")
@@ -352,7 +352,7 @@ class PandasDataset:
         self.replace_specific_key_value("citizenship", 6015559470580, "Locals")
 
         # self.delete_specific_key_value("language", NULL_VALUE)
-        self.delete_specific_key_value("country_code", "BH")
+        # self.delete_specific_key_value("country_code", "BH")
         # self.delete_specific_key_value("language", "Arabic,English (All),Spanish (All),Portuguese (All),Italian,German,Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala,Indonesian,Filipino,Malayalam,Thai")
         self.delete_specific_key_value("scholarity", NULL_VALUE)
 

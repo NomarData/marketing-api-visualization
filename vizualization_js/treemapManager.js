@@ -343,7 +343,7 @@ function TreemapManager(){
 
     this.getAverageSelectedInclination = function(){
         var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
-        if(NODES_SELECTED.country_codes.length == 0){
+        if(NODES_SELECTED.country_codes2letters.length == 0){
             return averageInclination;
         } else{
             var selectedInstances = NODES_SELECTED.getSelectedInstances();
@@ -385,7 +385,7 @@ function TreemapManager(){
     }
 
     this.checkIfNeedToHideTreemaps = function(){
-        if(NODES_SELECTED.country_codes.length > 0){
+        if(NODES_SELECTED.country_codes2letters.length > 0){
             if(!$(".chart").is(":visible")){
                 currentInstance.showTreemaps();
             }
