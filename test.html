@@ -1,0 +1,51 @@
+<html>
+<meta charset="utf-8">
+<body>
+<!--<script src="vizualization_js/d3.v3.min.js"></script>-->
+<!--<script src="vizualization_js/datamaps-master/topojson.v2.min.js"></script>-->
+<!--<script src="vizualization_js/datamaps-master/dist/datamaps.world.min.js"></script>-->
+<script src="bootstrap/js/jquery.min.js" rel="stylesheet"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+<script src="vizualization_js/datamaps-master/dist/datamaps.all.hires.min.js"></script>
+<div id="map" style="position: relative; border: 1px solid green; width: 500px; height: 400px;"></div>
+<div id="map2" style="position: relative; border: 1px solid green; width: 75px; height: 75px;"></div>
+<script>
+    var datamap = new Datamap({
+        element: document.getElementById('map'),
+        scope: 'world',
+        width:  "500px",
+        height:'400px',
+        setProjection : function(element){
+            var projection = d3.geo.equirectangular()
+                    .center([25, 24])
+                    .rotate([0, 0])
+                    .scale(425)
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+            var path = d3.geo.path()
+                    .projection(projection);
+
+            return {path: path, projection: projection};
+        },
+    });
+    var datamap2 = new Datamap({
+        element: document.getElementById('map2'),
+        scope: 'world',
+        width:  "75px",
+        height:'75px',
+        setProjection : function(element){
+            var projection = d3.geo.equirectangular()
+                    .center([51, 25.4])
+                    .rotate([0, 0])
+                    .scale(2000)
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+            var path = d3.geo.path()
+                    .projection(projection);
+
+            return {path: path, projection: projection};
+        },
+    });
+</script>
+</body>
+</html>
