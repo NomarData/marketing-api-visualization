@@ -369,13 +369,13 @@ function TreemapManager(){
             var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
             var containerHeight = treemapContainer.height();
             var chart = treemapContainer.find(".chart");
-            treemapContainer.append("<div class='selectCountriesMessage text-center' height='" + containerHeight + "'>Select at least one country</div>")
+            $("#alertToSelectCountry").removeClass("hidden");
             chart.hide();
         }
     }
     
     this.showTreemaps = function () {
-        $(".selectCountriesMessage").remove();
+        $("#alertToSelectCountry").addClass("hidden");
         for(var treemapIndex in currentInstance.treemaps){
             var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
             var containerHeight = treemapContainer.height();

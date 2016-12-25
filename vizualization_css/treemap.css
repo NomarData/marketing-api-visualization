@@ -29,9 +29,10 @@ text {
     padding-bottom: 5px;
     padding-top: 5px;
     margin-left: 0px;
+}
+.treemapContainer{
     background-color: #F7F7F7;
 }
-
 .treemapRect {
     fill: none;
     stroke: #fff;
@@ -101,4 +102,9 @@ rect.parent {
     font-size: 10px;
     vertical-align: middle;
     cursor:default
+}
+
+#alertToSelectCountry{
+    position: relative;
+    top: -30px;
 }
