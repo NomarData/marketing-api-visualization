@@ -21,7 +21,7 @@ function CountriesDataDatamap(){
                 healthAudience: 0
             }
         }
-    }
+    };
 
     this.addInstance = function(instance){
         var country_code = instance.country_code;
@@ -43,23 +43,36 @@ function CountriesDataDatamap(){
         for(var i in instances){
             currentInstance.addInstance(instances[i]);
         }
-    }
+    };
 
     this.getCountryInclination = function(country3Letters){
-        return (currentInstance.countries[country3Letters].healthAudience - currentInstance.countries[country3Letters].jewelAudience) / currentInstance.getCountryAudience(country3Letters);
-    }
+        return currentInstance.getCountrySelectedData(country3Letters)["score"];
+    };
+    this.getCountrySelectedData = function(country3Letters){
+        var healthAudience = currentInstance.countries[country3Letters].healthAudience;
+        var jewelAudience = currentInstance.countries[country3Letters].jewelAudience;
+        var audienceCoverage = currentInstance.getCountryAudience(country3Letters);
+        return {
+                "healthAudience" : healthAudience,
+                "jewelAudience" : jewelAudience,
+                "audienceCoverage" : audienceCoverage,
+                "score" : (healthAudience - jewelAudience) / audienceCoverage
+            }
+    };
     this.getCountryAudience = function(country){
         // var audience =  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
         var _2letterCode = convert3to2LettersCode(country);
         return NODES_SELECTED.getSumSelectedFacebookPopulationByCountry(_2letterCode);
-    }
+    };
 
     this.getDataMapColor = function(){
         var dataColor = {};
         var countryCodes = getAll3LettersCodeArabCountry();
+        var countryCodeIndex;
+        var countryCode;
         //Paint all arab countries as unselected
-        for(var countryCodeIndex in countryCodes){
-            var countryCode = countryCodes[countryCodeIndex];
+        for(countryCodeIndex in countryCodes){
+            countryCode = countryCodes[countryCodeIndex];
             dataColor[countryCode] = DEFAULT_MAP_ARAB_BACKGROUND_COLOR;
         }
 
@@ -75,8 +88,8 @@ function CountriesDataDatamap(){
         }
 
         //Update Btn Colors
-        for(var countryCodeIndex in countryCodes){
-            var countryCode = countryCodes[countryCodeIndex];
+        for(countryCodeIndex in countryCodes){
+            countryCode = countryCodes[countryCodeIndex];
             updateBtnColor(countryCode, dataColor[countryCode]);
         }
 
@@ -259,8 +272,9 @@ function arabLeagueMap(){
         NODES_SELECTED.isCountryAlreadySelected()
         var code2Letters = convert3to2LettersCode(countryCode3Letters);
 
-        var score = countriesDataDatamap.getCountryInclination(countryCode3Letters);
+        var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letters);
         var countryName = convert2LettersCodeToName(code2Letters);
+
         d3.select("#tooltip-countries").classed("hidden", false);
         var xPosition = d3.event.pageX + currentInstance.tooltipMargin;
         var yPosition = d3.event.pageY + currentInstance.tooltipMargin;
@@ -271,13 +285,23 @@ function arabLeagueMap(){
         d3.select("#tooltip-countries  #countryNameTooltip")
             .text(countryName);
 
-        if(isNaN(score)){
-            d3.select("#countryScoreTooltipContainer").classed("hidden",true);
+        if(isNaN(countryData.score)){
+            d3.select("#countryDataTooltipContainer").classed("hidden",true);
 
         } else {
             d3.select("#countryScoreTooltipContainer").classed("hidden",false);
-            d3.select("#tooltip-countries #countryScoreTooltip").text(score.toFixed(2));
+            d3.select("#tooltip-countries #countryScoreTooltip").text(countryData.score.toFixed(2));
+            d3.select("#tooltip-countries  #countryFacebookCoverage")
+                .text(convertIntegerToReadable(countryData.audienceCoverage));
+
+            d3.select("#tooltip-countries  #healthAudienceCountryTooltip")
+                .text(convertIntegerToReadable(countryData.healthAudience));
+
+            d3.select("#tooltip-countries  #luxuryAudienceCountryTooltip")
+                .text(convertIntegerToReadable(countryData.jewelAudience));
         }
+
+
 
 
     };

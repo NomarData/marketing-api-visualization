@@ -33,6 +33,7 @@ function BtnsTopicsSelectors(){
         });
     };
     this.init = function(){
+
         currentInstance.addTopicsBtns(luxuryTopics, "luxury");
         currentInstance.addTopicsBtns(healthTopics, "health");
 

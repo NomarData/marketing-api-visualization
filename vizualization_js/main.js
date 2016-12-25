@@ -40,8 +40,6 @@ function buildAndInitVisualComponents(){
     arabMap.init();
     arabMap.initCountriesBtns();
 
-
-
 }
 
 $(document).ready(function () {
