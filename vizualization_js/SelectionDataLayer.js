@@ -62,9 +62,7 @@ function SelectionDataLayer(){
     this.selectDefaultCountries = function(){
         // onClickCountryFunctionBy2LettersCode("AE");
         // onClickCountryFunctionBy2LettersCode("DZ");
-        for(var countryCode in countryCodeMap){
-            onClickCountryFunctionBy2LettersCode(countryCode);
-        }
+        currentInstance.selectAllCountries();
     };
     this.getSelectedInstances = function(){
         return currentInstance.selected_instances;
@@ -144,6 +142,7 @@ function SelectionDataLayer(){
         inclinationScore.updateData();
         arabMap.updateData();
         luxuriousHealthBar.updateData();
+        sharebleLink.updateData();
     };
 
     this.updateDesign = function(){

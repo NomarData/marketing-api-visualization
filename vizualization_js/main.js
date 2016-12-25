@@ -53,12 +53,13 @@ $(document).ready(function () {
     promiseForDefaultState.done(function(data){
         fusionAPI.setInstanceList(data.instances);
         NODES_SELECTED.setSelectedInstances();
-
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
-
             btnsTopicsSelectors = new BtnsTopicsSelectors();
             btnsTopicsSelectors.init();
         });
+    }).done(function () {
+        sharebleLink = new SharebleLink();
+        sharebleLink.init();
     });
 });
