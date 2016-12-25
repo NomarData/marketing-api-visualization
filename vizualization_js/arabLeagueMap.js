@@ -285,7 +285,7 @@ function arabLeagueMap(){
         d3.select("#tooltip-countries  #countryNameTooltip")
             .text(countryName);
 
-        if(isNaN(countryData.score)){
+        if(!NODES_SELECTED.isCountryAlreadySelected(code2Letters)){
             d3.select("#countryDataTooltipContainer").classed("hidden",true);
 
         } else {
