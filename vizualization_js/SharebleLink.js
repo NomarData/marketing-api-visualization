@@ -155,7 +155,6 @@ function SharebleLink(){
         } catch(Exception){
             $("#alertCouldntParseParams").removeClass("hidden");
             setTimeout(function(){ $("#alertCouldntParseParams").fadeOut(); }, 8000);
-            debugger; TODO! Finish this, this is still breaked!
             console.log("Couldn't parse parameters. Default parameters applied.")
         }
     };
