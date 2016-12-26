@@ -2,3 +2,10 @@ body {
     font-size: 14px;
     font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
 }
+
+#alertCouldntParseParams{
+    background-color: #ffd1d1;
+    padding: 5px;
+    border-radius: 5px;
+    color: #af0000;
+}

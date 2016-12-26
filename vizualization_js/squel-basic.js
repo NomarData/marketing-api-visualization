@@ -2786,7 +2786,7 @@ function _buildSquel() {
       /**
       # Update query builder options
       #
-      # This will update the options for all blocks too. Use this method with caution as it allows you to change the
+      # This will updateVisualComponents the options for all blocks too. Use this method with caution as it allows you to change the
       # behaviour of your query builder mid-build.
       */
 

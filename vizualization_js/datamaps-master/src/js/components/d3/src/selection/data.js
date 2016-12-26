@@ -81,7 +81,7 @@ d3_selectionPrototype.data = function(value, key) {
       }
     }
 
-    enterNodes.update
+    enterNodes.updateVisualComponents
         = updateNodes;
 
     enterNodes.parentNode

@@ -209,6 +209,7 @@ function arabLeagueMap(){
         });
         currentInstance.datamap = datamap;
         currentInstance.qatarBahreinDatamap = qatarBahreinDatamap;
+        currentInstance.initCountriesBtns();
         currentInstance.updateData();
     };
     this.addClickFunctionToCountries = function(){
@@ -256,15 +257,6 @@ function arabLeagueMap(){
         d3.selectAll('.countryItem').on('mouseout',function () {
             currentInstance.mouseoutTooltip();
         });
-
-        // var allCountriesBtns = $(".countryItem");
-        // for(var btnIndex in allCountriesBtns){
-        //     var countryBtn = $(allCountriesBtns[btnIndex]);
-        //     var countryCode2Letters = countryBtn.data("code");
-        //     var countryCode3Letters = convert2to3LettersCode(countryCode2Letters);
-        //     countryBtn.mousemove(currentInstance.mousemoveTooltip(countryCode3Letters));
-        //     countryBtn.mouseout(currentInstance.mouseoutTooltip());
-        // }
 
     };
 
@@ -362,13 +354,11 @@ function arabLeagueMap(){
     };
 
     this.initCountriesBtns = function () {
-        fusionAPI.updateCountriesList().done(function(){
-            currentInstance.addClickFunctionToCountries();
-            currentInstance.addClickFunctionToCountriesBtns();
-            currentInstance.addTooltipToCountriesPath();
-            currentInstance.addTooltipToCountriesBtns();
-            NODES_SELECTED.selectDefaultCountries();
-            $(".loader").fadeOut();
-        });
+        fusionAPI.updateCountriesList(facebookPopulation);
+        currentInstance.addClickFunctionToCountries();
+        currentInstance.addClickFunctionToCountriesBtns();
+        currentInstance.addTooltipToCountriesPath();
+        currentInstance.addTooltipToCountriesBtns();
+        $(".loader").fadeOut();
     }
 }

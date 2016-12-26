@@ -10,7 +10,7 @@ d3_selection_enterPrototype.select = function(selector) {
       node;
 
   for (var j = -1, m = this.length; ++j < m;) {
-    upgroup = (group = this[j]).update;
+    upgroup = (group = this[j]).updateVisualComponents;
     subgroups.push(subgroup = []);
     subgroup.parentNode = group.parentNode;
     for (var i = -1, n = group.length; ++i < n;) {

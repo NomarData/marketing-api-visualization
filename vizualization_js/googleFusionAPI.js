@@ -214,13 +214,12 @@
             return promise;
         };
 
-        this.updateCountriesList =function(){
+        this.updateCountriesList =function(data){
             // var promise = currentInstance.getPromiseListCountries();
-            var promise = currentInstance.getPromiseOfFacebookPopulationData();
-            return promise.done(function (data) {
+
                 var countries_code = [];
-                for(var instanceIndex in data.facebookPopulation){
-                    var instance = data.facebookPopulation[instanceIndex];
+                for(var instanceIndex in data){
+                    var instance = data[instanceIndex];
                     if(countries_code.indexOf(instance.country_code) == -1){
                         countries_code.push(instance.country_code);
                     }
@@ -237,7 +236,6 @@
                     }
                     countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</div>");
                 }
-            });
         };
 
         this.buildInterestTag = function(interest){
@@ -274,12 +272,12 @@
         };
 
         this.setInstanceList = function(instances){
-            console.log("Parsing int");
+            // console.log("Parsing int");
             var parsedInstances = $.map(instances,function(instance){
                 instance.audience = parseInt(instance.audience);
                 return instance;
             });
-            console.log("Parsing done")
+            // console.log("Parsing done")
             currentData = parsedInstances;
         };
 

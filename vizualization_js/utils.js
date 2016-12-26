@@ -224,34 +224,6 @@ countryCodeMap = {
     },
 };
 
-function getValueFromListIgnoreCase(givenValue, array){
-    if(givenValue){
-        //reference can be code 2 letter, code 3 letters or country name
-        var givenValue = givenValue.toLowerCase();
-        for(var index in array){
-            var valueInArrayLow = array[index].toLowerCase();;
-            if(givenValue == valueInArrayLow){
-                return array[index];
-            }
-        }
-    }
-    return null;
-}
-
-function getCountryCodeFromReference(reference){
-    //reference can be code 2 letter, code 3 letters or country name
-    var reference = reference.toLowerCase();
-    for(var countryCode2Letters in countryCodeMap){
-        var code2Letters = countryCode2Letters.toLowerCase();
-        var code3Letters = countryCodeMap[countryCode2Letters]._3letter_code.toLowerCase();
-        var name = countryCodeMap[countryCode2Letters].name.toLowerCase();
-        if(reference == code2Letters || reference == code3Letters || reference == name){
-            return countryCode2Letters;
-        }
-    }
-    return null;
-}
-
 function convert2to3LettersCode(_2letters_code){
     _2letters_code = _2letters_code.toUpperCase();
     try{

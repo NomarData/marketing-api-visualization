@@ -780,7 +780,7 @@ d3 = function() {
           exitNodes[i] = group[i];
         }
       }
-      enterNodes.update = updateNodes;
+      enterNodes.updateVisualComponents = updateNodes;
       enterNodes.parentNode = updateNodes.parentNode = exitNodes.parentNode = group.parentNode;
       enter.push(enterNodes);
       update.push(updateNodes);
@@ -906,7 +906,7 @@ d3 = function() {
   d3_selection_enterPrototype.select = function(selector) {
     var subgroups = [], subgroup, subnode, upgroup, group, node;
     for (var j = -1, m = this.length; ++j < m; ) {
-      upgroup = (group = this[j]).update;
+      upgroup = (group = this[j]).updateVisualComponents;
       subgroups.push(subgroup = []);
       subgroup.parentNode = group.parentNode;
       for (var i = -1, n = group.length; ++i < n; ) {

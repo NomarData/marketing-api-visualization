@@ -131,7 +131,7 @@ suite.addBatch({
         assert.equal(enter[0][2], null);
         assert.equal(enter[0][3], null);
 
-        // update    - [ aa (a),   null, ba (b),   null]
+        // updateVisualComponents    - [ aa (a),   null, ba (b),   null]
         assert.equal(update[0].length, 4);
         assert.strictEqual(update[0][0], div[0][0]);
         assert.equal(update[0][1], null);

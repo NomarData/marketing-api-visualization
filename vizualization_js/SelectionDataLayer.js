@@ -9,6 +9,7 @@ function SelectionDataLayer(){
     this.selectedFacebookPopulationSum = 0;
     this.loader = $(".loader");
 
+
     this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
         var total = 0;
         for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
@@ -18,46 +19,51 @@ function SelectionDataLayer(){
             }
         }
         return total;
-    }
+    };
 
     this.updateDataset = function(){
         currentInstance.loader.fadeIn();
         fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
             fusionAPI.setInstanceList(data.instances);
             currentInstance.loader.fadeOut();
-            currentInstance.update();
+            currentInstance.updateVisualComponents();
             // waitingDialog.hide()
         })
-    }
-    this.updateSelectedLuxury = function(luxuryInterest){
-        if(currentInstance.selectedLuxury != luxuryInterest){
-            currentInstance.selectedLuxury = luxuryInterest;
-            currentInstance.updateDataset();
-        } else if (currentInstance.selectedHealth != null){
-            currentInstance.selectedLuxury = null;
-            currentInstance.updateDataset();
-        }
-
     };
-    this.updateSelectedHealth = function(healthInterest){
+    this.setLuxuryTopic = function(luxuryInterest){
+        currentInstance.selectedLuxury = luxuryInterest;
+        currentInstance.updateDataset();
+    };
+    this.setHealthTopic = function(healthInterest){
+        currentInstance.selectedHealth = healthInterest;
+        currentInstance.updateDataset();
+    };
+    this.flipSelectedLuxury = function(luxuryInterest){
+        if(!luxuryInterest) return;
+        if(currentInstance.selectedLuxury != luxuryInterest){
+            currentInstance.setLuxuryTopic(luxuryInterest);
+        } else if (currentInstance.selectedHealth != null){
+            currentInstance.setLuxuryTopic(null);
+        }
+    };
+    this.flipSelectedHealth = function(healthInterest){
+        if(!healthInterest) return;
         if(currentInstance.selectedHealth != healthInterest) {
-            currentInstance.selectedHealth = healthInterest;
-            currentInstance.updateDataset();
+            currentInstance.setHealthTopic(healthInterest);
         } else if (currentInstance.selectedLuxury != null){
-            currentInstance.selectedHealth = null;
-            currentInstance.updateDataset();
+            currentInstance.setHealthTopic(healthInterest);
         }
     };
     this.deselectAllCountries = function(){
         currentInstance.country_codes2letters = [];
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     };
     this.selectAllCountries = function(){
         currentInstance.country_codes2letters = [];
         for(var countryCode in countryCodeMap){
             currentInstance.country_codes2letters.push(countryCode);
         }
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     };
     this.selectDefaultCountries = function(){
         // onClickCountryFunctionBy2LettersCode("AE");
@@ -67,22 +73,27 @@ function SelectionDataLayer(){
     this.getSelectedInstances = function(){
         return currentInstance.selected_instances;
     }
+    this.setCountryCodeList = function(countryCodeList){
+        currentInstance.country_codes2letters = countryCodeList;
+        currentInstance.updateVisualComponents();
+    }
     this.insertCountryCode = function(countryCode){
         console.log("Inserting:" + countryCode);
         currentInstance.country_codes2letters.push(countryCode);
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     }
     this.removeCountryCode = function(country_code){
         currentInstance.country_codes2letters = removeValueFromArray(currentInstance.country_codes2letters, country_code);
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     }
     this.setCategoryValueSelected = function(category, value){
+        if(!value) return;
         currentInstance.categories[category] = value;
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     }
     this.unsetCategory = function(category){
         delete currentInstance.categories[category];
-        currentInstance.update();
+        currentInstance.updateVisualComponents();
     }
      this.setSelectedInstances = function(){
          console.log("Selecting Instances")
@@ -131,23 +142,18 @@ function SelectionDataLayer(){
         } else {
             return 0;
         }
+    };
 
-
-    }
-
-    this.update = function(){
+    this.updateVisualComponents = function(){
         currentInstance.setSelectedInstances();
         // selectedInstancesTable.updateData();
         treemapManager.updateTreemaps();
         inclinationScore.updateData();
         arabMap.updateData();
         luxuriousHealthBar.updateData();
+        btnsTopicsSelectors.updateData();
         sharebleLink.updateData();
     };
-
-    this.updateDesign = function(){
-
-    }
 
     this.isCountryAlreadySelected = function(country_code) {
         return currentInstance.country_codes2letters.indexOf(country_code) != -1 ? true : false;

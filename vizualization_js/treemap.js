@@ -1,4 +1,8 @@
 
+function noSelectedCellException(){
+    this.name = "noSelectedCellException"
+    this.message = "No selected cell in the treemap;"
+}
 
 function getRedColor(position){
     function redColorGenerator(){
@@ -57,7 +61,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 return d3.select(cells[indexCell]);
             }
         }
-        throw Error("No cell found as selected")
+        throw new noSelectedCellException();
     };
 
     this.deleteOrCreateNewCellsForNewData = function(newData){
@@ -93,7 +97,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     return "translate(" + d.x + "," + d.y + ")";
                 });
 
-            console.log("Is on Root");
             //Update All Cells
             var rects = cells.select("rect")
                 .attr("width", function(d) { return d.dx; })
@@ -139,7 +142,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("text-anchor", "middle")
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d) {
-                    console.log(d.w + " " + d.dx);
                     return currentInstance.getOpacityBasedOnData(d,this,d.dx,d.dy); //This 1.5 should be specified before
                 });
             this.node =  rootData.children[0];
@@ -161,12 +163,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var labelHeight = 34;
         var showDueWidth = labelWidth > newWidth ? 0 : 1;
         var showDueHeight = labelHeight > newHeight ? 0 : 1;
-        if(showDueWidth == 0){
-            console.log("Hidden due width: " + d.name + " : " + labelWidth);
-        }
-        if(showDueHeight == 0){
-            console.log("Hidden due height: " + d.name + " : " + labelHeight);
-        }
         return showDueHeight && showDueWidth;
     };
     this.zoom = function(self,focusNode){
@@ -193,8 +189,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     return focusNode.name == d.name ? 1 : 0;
                 });
         currentInstance.node = focusNode;
-        d3.event.stopPropagation();
 
+        if(d3.event){ //Stop click propagation if was a d3 event.
+            d3.event.stopPropagation();
+        }
     };
     this.getChildFromRootNode = function(childName){
         for(var childIndex in currentInstance.root.children){
@@ -367,6 +365,59 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return [this.node]
         }
 
+    };
+
+    this.selectRootCell = function(){
+        try{
+            var selectedCell = currentInstance.getSelectedCell();
+            currentInstance.onClickCell(selectedCell.datum());
+        } catch(Exception) {
+            if(Exception instanceof noSelectedCellException){
+                return;
+            } else {
+                throw Exception;
+            }
+        }
+    };
+
+    this.clickGivenValue = function(value){
+        if(!value) throw Error("Should have a value");
+        var cells = currentInstance.svg.selectAll(".cell");
+        var cellWithValue = cells.filter(function(d){
+            return d.name == value;
+        });
+        currentInstance.onClickCell(cellWithValue.datum());
+    }
+
+    this.selectCellGivenValue = function(value){
+        try{
+            var selectedCell = currentInstance.getSelectedCell();
+            if(selectedCell.name == selectedCell.datum().name){
+                return;
+            } else {
+                //The selected cell is not what we want, so we go to the root
+                currentInstance.onClickCell(selectedCell.datum());
+                //Then select what we want
+                currentInstance.clickGivenValue(value);
+            }
+        } catch (Exception){
+            if(Exception instanceof noSelectedCellException){
+                //If no selected cell, we just select what we want
+                currentInstance.clickGivenValue(value);
+            } else {
+                throw Exception;
+            }
+        }
+    };
+
+    this.activateCellGivenValue = function(value){
+        //If value null, the treemap should have no selection.
+        //If the treemal has a selected cell, it should go back (by clicking on it again)
+        if(value == null){
+            currentInstance.selectRootCell();
+        } else{
+            currentInstance.selectCellGivenValue(value);
+        }
     }
 }
 

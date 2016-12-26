@@ -22,10 +22,10 @@ function BtnsTopicsSelectors(){
         $(".btn-interest").click(function(){
             var btnElement = $(this);
             if(btnElement.hasClass("btn-luxury")){
-                NODES_SELECTED.updateSelectedLuxury(btnElement.data("interest"));
+                NODES_SELECTED.flipSelectedLuxury(btnElement.data("interest"));
                 currentInstance.updateData();
             } else if(btnElement.hasClass("btn-health")){
-                NODES_SELECTED.updateSelectedHealth(btnElement.data("interest"));
+                NODES_SELECTED.flipSelectedHealth(btnElement.data("interest"));
                 currentInstance.updateData();
             } else {
                 throw Error("Should be luxury or health");

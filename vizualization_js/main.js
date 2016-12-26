@@ -38,8 +38,9 @@ function buildAndInitVisualComponents(){
 
     arabMap = new arabLeagueMap();
     arabMap.init();
-    arabMap.initCountriesBtns();
 
+    btnsTopicsSelectors = new BtnsTopicsSelectors();
+    btnsTopicsSelectors.init();
 }
 
 $(document).ready(function () {
@@ -55,11 +56,10 @@ $(document).ready(function () {
         NODES_SELECTED.setSelectedInstances();
         updateFacebookPopulationDataPromise.done(function(d){
             buildAndInitVisualComponents();
-            btnsTopicsSelectors = new BtnsTopicsSelectors();
-            btnsTopicsSelectors.init();
+        }).done(function () {
+            sharebleLink = new SharebleLink();
+            sharebleLink.init();
         });
-    }).done(function () {
-        sharebleLink = new SharebleLink();
-        sharebleLink.init();
     });
 });
+

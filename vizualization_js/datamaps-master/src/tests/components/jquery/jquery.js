@@ -2232,7 +2232,7 @@ jQuery.extend({
 				for ( ; i < max; i++ ) {
 					option = options[ i ];
 
-					// oldIE doesn't update selected after form reset (#2551)
+					// oldIE doesn't updateVisualComponents selected after form reset (#2551)
 					if ( ( option.selected || i === index ) &&
 							// Don't return options that are disabled or in a disabled optgroup
 							( jQuery.support.optDisabled ? !option.disabled : option.getAttribute("disabled") === null ) &&

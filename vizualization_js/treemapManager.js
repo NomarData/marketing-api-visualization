@@ -395,7 +395,7 @@ function TreemapManager(){
             }
             return;
         }
-    }
+    };
 
     this.updateTreemaps = function(selectedTreemap){
        currentInstance.checkIfNeedToHideTreemaps();
@@ -403,10 +403,10 @@ function TreemapManager(){
             var currentTreemap = this.treemaps[index];
             if (currentTreemap == selectedTreemap) continue;
             var updatedData =  getTreemapDataFromInstancesList(currentTreemap.root.name);
-            console.log(currentTreemap.root.name);
             currentTreemap.updateData(updatedData);
         }
-    }
+    };
+
     this.selectTreemapOption = function(treemap, node){
         NODES_SELECTED.setCategoryValueSelected(treemap.root.name, node.name);
     };
@@ -414,4 +414,17 @@ function TreemapManager(){
     this.unselectTreemapOption = function(treemap){
         NODES_SELECTED.unsetCategory(treemap.root.name);
     };
+    this.getTreemapByName = function(treemapName){
+        for(var treemapIndex in currentInstance.treemaps){
+            var treemap = currentInstance.treemaps[treemapIndex];
+            if(treemap.root.name == treemapName){
+                return treemap;
+            }
+        }
+        return Error("Treemap name not found.")
+    }
+    this.clickOnTreemapGivenNameAndValue = function(treemapName, treemapValue){
+        var treemap = currentInstance.getTreemapByName(treemapName);
+        treemap.activateCellGivenValue(treemapValue);
+    }
 }
