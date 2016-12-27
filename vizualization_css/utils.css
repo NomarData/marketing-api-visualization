@@ -13,6 +13,7 @@ body {
 ul.share-buttons{
     list-style: none;
     padding: 0;
+    margin: 0 0 10px 0px;
 }
 
 ul.share-buttons li{
