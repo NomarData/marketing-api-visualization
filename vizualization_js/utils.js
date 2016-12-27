@@ -224,6 +224,11 @@ countryCodeMap = {
     },
 };
 
+function updateSocialLinkFields(){
+    $("#openGraphImg").attr("content", window.location.origin + window.location.pathname + "imgs/opengraph_sample.png");
+    $("#openGraphUrl").attr("content", window.location.href);
+}
+
 function convert2to3LettersCode(_2letters_code){
     _2letters_code = _2letters_code.toUpperCase();
     try{

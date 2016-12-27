@@ -153,6 +153,7 @@ function SelectionDataLayer(){
         luxuriousHealthBar.updateData();
         btnsTopicsSelectors.updateData();
         sharebleLink.updateData();
+        updateSocialLinkFields();
     };
 
     this.isCountryAlreadySelected = function(country_code) {
