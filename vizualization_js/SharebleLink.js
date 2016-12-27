@@ -131,6 +131,7 @@ function SharebleLink(){
         if(currentInstance.reversingState == false){
             currentInstance.updateSharebleLinkAsUrl();
         }
+        updateSocialLinkFields();
     };
     this.paramFromUrlParams = function (paramName, urlParams) {
         var valueInOurData;

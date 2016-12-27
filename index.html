@@ -43,24 +43,25 @@
                 Sorry, we couldn't parse yours parameters. Default parameters were applied.
             </div>
             <div class="span12 text-center">
-                <!-- Load Facebook SDK for JavaScript -->
-                <div id="fb-root"></div>
-                <script>(function(d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (d.getElementById(id)) return;
-                    js = d.createElement(s); js.id = id;
-                    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));</script>
+                <!--&lt;!&ndash; Load Facebook SDK for JavaScript &ndash;&gt;-->
+                <!--<div id="fb-root"></div>-->
+                <!--<script>(function(d, s, id) {-->
+                    <!--var js, fjs = d.getElementsByTagName(s)[0];-->
+                    <!--if (d.getElementById(id)) return;-->
+                    <!--js = d.createElement(s); js.id = id;-->
+                    <!--js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";-->
+                    <!--fjs.parentNode.insertBefore(js, fjs);-->
+                <!--}(document, 'script', 'facebook-jssdk'));</script>-->
 
-                <!-- Your share button code -->
-                <div class="fb-share-button share-buttons"
-                     data-size = "large">
-                </div>
-                <!--<ul class="share-buttons">-->
-                    <!--<li><a href="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmaraujo.github.io%2Fif-health-metters%2F%3Fhealth%3Dobesity%26luxury%3Dfast%2Bfood%26country%3DDZ%26country%3DBH%26country%3DEG%26country%3DIQ%26country%3DJO%26country%3DKW%26country%3DLB%26country%3DLY%26country%3DMA%26country%3DOM%26country%3DPS%26country%3DQA%26country%3DSA%26country%3DSO%26country%3DTN%26country%3DAE%26country%3DYE" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="imgs/social_flat_rounded_rects_svg/Facebook.svg"></a></li>-->
-                    <!--<li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fmaraujo.github.io%2Fif-health-metters%2F%3Fhealth%3Dobesity%26luxury%3Dfast%2Bfood%26country%3DDZ%26country%3DBH%26country%3DEG%26country%3DIQ%26country%3DJO%26country%3DKW%26country%3DLB%26country%3DLY%26country%3DMA%26country%3DOM%26country%3DPS%26country%3DQA%26country%3DSA%26country%3DSO%26country%3DTN%26country%3DAE%26country%3DYE&text=Health%20Awareness%20in%20the%20Arab%20World:%20https%3A%2F%2Fmaraujo.github.io%2Fif-health-metters%2F%3Fhealth%3Dobesity%26luxury%3Dfast%2Bfood%26country%3DDZ%26country%3DBH%26country%3DEG%26country%3DIQ%26country%3DJO%26country%3DKW%26country%3DLB%26country%3DLY%26country%3DMA%26country%3DOM%26country%3DPS%26country%3DQA%26country%3DSA%26country%3DSO%26country%3DTN%26country%3DAE%26country%3DYE" target="_blank" title="Tweet"><img alt="Tweet" src="imgs/social_flat_rounded_rects_svg/Twitter.svg"></a></li>-->
-                <!--</ul>-->
+                <!--&lt;!&ndash; Your share button code &ndash;&gt;-->
+                <!--<div class="fb-share-button share-buttons"-->
+                     <!--data-size = "large">-->
+                <!--</div>-->
+                <ul class="share-buttons">
+                    <li><a id="facebookShareLink" href="https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="imgs/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
+                    <li><a id="twitterShareLink" href="https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK" target="_blank" title="Tweet"><img alt="Tweet" src="imgs/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
+                    <li><a id="emailShareLink" href="mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK" target="_blank" title="Send email"><img alt="Send email" src="imgs/social_flat_rounded_rects_svg/Email.svg"></a></li>
+                </ul>
             </div>
             <div class="span12">
                 <dl class="dl-horizontal">

@@ -225,8 +225,19 @@ countryCodeMap = {
 };
 
 function updateSocialLinkFields(){
+    var currentUrl = encodeURIComponent(window.location.href);
     $("#openGraphImg").attr("content", window.location.origin + window.location.pathname + "imgs/opengraph_sample.png");
     $("#openGraphUrl").attr("content", window.location.href);
+    var currentFbHref = $("#facebookShareLink").attr("href");
+    var currentTwitterHref = $("#twitterShareLink").attr("href");
+    var currentEmailHref = $("#emailShareLink").attr("href");
+    currentFbHref = currentFbHref.replace("$LINK", currentUrl);
+    currentTwitterHref = currentTwitterHref.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
+    currentEmailHref = currentEmailHref.replace("$LINK", currentUrl);
+
+    $("#facebookShareLink").attr("href",currentFbHref);
+    $("#twitterShareLink").attr("href",currentTwitterHref);
+    $("#emailShareLink").attr("href",currentEmailHref);
 }
 
 function convert2to3LettersCode(_2letters_code){
