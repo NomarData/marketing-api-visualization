@@ -71,6 +71,7 @@ function SharebleLink(){
             sharebleLink.updateSharebleLinkAsUrl();
         }
         currentInstance.applyBackBtnFunctionality();
+        updateSocialLinkFields();
     };
     this.applyStateGivenUrl = function (url) {
         var params = currentInstance.getUrlParamsGivenUrl(url);
