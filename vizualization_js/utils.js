@@ -225,19 +225,20 @@ countryCodeMap = {
 };
 
 function updateSocialLinkFields(){
+    var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World";
+    var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK";
+    var emailOriginalUrl = "mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK";
     var currentUrl = encodeURIComponent(window.location.href);
-    $("#openGraphImg").attr("content", window.location.origin + window.location.pathname + "imgs/opengraph_sample.png");
-    $("#openGraphUrl").attr("content", window.location.href);
-    var currentFbHref = $("#facebookShareLink").attr("href");
-    var currentTwitterHref = $("#twitterShareLink").attr("href");
-    var currentEmailHref = $("#emailShareLink").attr("href");
-    currentFbHref = currentFbHref.replace("$LINK", currentUrl);
-    currentTwitterHref = currentTwitterHref.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
-    currentEmailHref = currentEmailHref.replace("$LINK", currentUrl);
+    var currentFbHref = fbOriginalURL.replace("$LINK", currentUrl);
+    var currentTwitterHref = twitterOriginalUrl.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
+    var currentEmailHref = emailOriginalUrl.replace("$LINK", currentUrl);
 
     $("#facebookShareLink").attr("href",currentFbHref);
     $("#twitterShareLink").attr("href",currentTwitterHref);
     $("#emailShareLink").attr("href",currentEmailHref);
+
+    $("#openGraphImg").attr("content", window.location.origin + window.location.pathname + "imgs/opengraph_sample.png");
+    $("#openGraphUrl").attr("content", window.location.href);
 }
 
 function convert2to3LettersCode(_2letters_code){
