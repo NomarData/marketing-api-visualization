@@ -105,10 +105,7 @@ function SharebleLink(){
         var urlParams = new URLSearchParams();
         urlParams.append('health', state.health);
         urlParams.append('luxury', state.luxury);
-        for(var countryIndex = 0; countryIndex < state.countries.length; countryIndex++){
-            var countryCode = state.countries[countryIndex];
-            urlParams.append("country",countryCode);
-        }
+        urlParams.append("country",state.countries.join("-"));
         for(var categoryKey in state.categories){
             urlParams.append(categoryKey,state.categories[categoryKey]);
         }
@@ -133,6 +130,7 @@ function SharebleLink(){
         }
         updateSocialLinkFields();
     };
+
     this.paramFromUrlParams = function (paramName, urlParams) {
         var valueInOurData;
         var valueInParams;
@@ -148,11 +146,17 @@ function SharebleLink(){
                 break;
             case "country":
                 valueInOurData = [];
-                var referencesToCountryList = urlParams.getAll("country");
-                for(var referenceIndex in referencesToCountryList){
-                    var reference = referencesToCountryList[referenceIndex];
-                    valueInOurData.push(currentInstance.getCountryCodeFromReference(reference));
+                valueInParams = urlParams.get("country");
+                if(valueInParams){
+                    var referencesToCountryList = valueInParams.split("-");
+                    for(var referenceIndex in referencesToCountryList){
+                        var reference = referencesToCountryList[referenceIndex];
+                        valueInOurData.push(currentInstance.getCountryCodeFromReference(reference));
+                    }
+                } else {
+                    valueInOurData = [];
                 }
+
                 break;
             case "gender":
                 valueInParams = urlParams.get("gender");
