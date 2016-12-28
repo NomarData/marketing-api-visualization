@@ -17,7 +17,8 @@
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec",
     "test-shippable": "mkdir -p shippable/testresults && mocha --reporter xunit ./test/* > shippable/testresults/result.xml",
-    "test-coverage": "istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/*"
+    "test-coverage": "istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/*",
+    "shippable-cobertura": "istanbul report cobertura --dir shippable/codecoverage/"
   },
   "keywords": [],
   "author": "",
