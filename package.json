@@ -15,7 +15,9 @@
     "nyc": "^10.0.0"
   },
   "scripts": {
-    "test": "istanbul cover _mocha -- -R spec"
+    "test": "istanbul cover _mocha -- -R spec",
+    "test-shippable": "mkdir -p shippable/testresults && mocha --reporter xunit ./test/* > shippable/testresults/result.xml",
+    "test-coverage": "istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/*"
   },
   "keywords": [],
   "author": "",

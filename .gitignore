@@ -8,3 +8,5 @@ data/all_languages.csv
 data/data.csv
 data/output_1478189396.csv
 node_modules/
+shippable/
+coverage/
