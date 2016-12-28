@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "unit.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jquery": "^3.1.1",
+    "jsdom": "9.9.1",
+    "jsdom-global": "2.1.1",
+    "mocha": "^3.2.0",
+    "nyc": "^10.0.0"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maraujo/if-health-metters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maraujo/if-health-metters/issues"
+  },
+  "homepage": "https://github.com/maraujo/if-health-metters#readme"
+}

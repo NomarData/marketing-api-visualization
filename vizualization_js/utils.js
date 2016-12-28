@@ -129,7 +129,7 @@ function onClickCountryFunction(countryItem){
     console.log(NODES_SELECTED.country_codes2letters);
 }
 
-function getAll3LettersCodeArabCountry(){
+getAll3LettersCodeArabCountry = function(){
     var countryCodes = $.map(countryCodeMap,function (item) {
         return item._3letter_code;
     });
