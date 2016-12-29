@@ -337,7 +337,6 @@ class PandasDataset:
         self.delete_specific_key_value("gender", 0)
         self.delete_specific_key_value("topic", "all health")
         self.delete_all_unnamed_columns()
-        # self.delete_column("languages")
 
         # self.convert_language_to_language_group()
         self.replace_specific_key_value("gender", 1, "Male")
@@ -385,7 +384,10 @@ class PandasDataset:
                 json_dataset = json_dataset.append(self.data[self.data[key] == value])
         json_dataset.to_json(filename, orient="records")
 
-
+    def append_dataset_save(self,datasetname):
+        new_data = pd.read_csv(datasetname)
+        self.data = self.data.append(new_data,ignore_index=True)
+        self.data.to_csv("new_dataset.csv")
 
     def __init__(self, filepointer):
         self.data = self.get_pandas_dataset_from_file(filepointer)
