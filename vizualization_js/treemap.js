@@ -163,7 +163,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var labelHeight = 34;
         var showDueWidth = labelWidth > newWidth ? 0 : 1;
         var showDueHeight = labelHeight > newHeight ? 0 : 1;
-        return showDueHeight && showDueWidth;
+        if(showDueHeight && showDueWidth){
+            return "1"
+        } else {
+            return "0"
+        };
     };
     this.zoom = function(self,focusNode){
         var kx = currentInstance.w / focusNode.dx, ky = currentInstance.h / focusNode.dy;
