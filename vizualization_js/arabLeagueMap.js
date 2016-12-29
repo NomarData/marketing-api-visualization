@@ -359,6 +359,15 @@ function arabLeagueMap(){
         currentInstance.addClickFunctionToCountriesBtns();
         currentInstance.addTooltipToCountriesPath();
         currentInstance.addTooltipToCountriesBtns();
+
+        //Select All and Deselect All Behavior
+        $("#selectedAllCountriesBtn").click(function(){
+            NODES_SELECTED.selectAllCountries();
+        })
+        $("#unSelectedAllCountriesBtn").click(function(){
+            NODES_SELECTED.deselectAllCountries();
+        })
+
         $(".loader").fadeOut();
     }
 }

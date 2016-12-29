@@ -62,7 +62,6 @@ function stackedHorizontalBar(){
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
 
-
         currentInstance.updateDomain(NODES_SELECTED.selectedFacebookPopulationSum);
         $(".x.axis").remove();
         currentInstance.svg.append("g")

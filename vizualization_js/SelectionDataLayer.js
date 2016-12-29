@@ -21,22 +21,27 @@ function SelectionDataLayer(){
         return total;
     };
 
-    this.updateDataset = function(){
+    this.updateDatasetAndGetPromise = function(){
         currentInstance.loader.fadeIn();
-        fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
+        return fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
             fusionAPI.setInstanceList(data.instances);
             currentInstance.loader.fadeOut();
             currentInstance.updateVisualComponents();
             // waitingDialog.hide()
-        })
+        });
     };
     this.setLuxuryTopic = function(luxuryInterest){
         currentInstance.selectedLuxury = luxuryInterest;
-        currentInstance.updateDataset();
+        currentInstance.updateDatasetAndGetPromise();
     };
     this.setHealthTopic = function(healthInterest){
         currentInstance.selectedHealth = healthInterest;
-        currentInstance.updateDataset();
+        currentInstance.updateDatasetAndGetPromise();
+    };
+    this.setHealthAndLuxuryTopicAndGetPromise = function(healthInterest, luxuryInterest){
+        currentInstance.selectedHealth = healthInterest;
+        currentInstance.selectedLuxury = luxuryInterest;
+        return currentInstance.updateDatasetAndGetPromise();
     };
     this.flipSelectedLuxury = function(luxuryInterest){
         if(!luxuryInterest) return;
@@ -51,7 +56,7 @@ function SelectionDataLayer(){
         if(currentInstance.selectedHealth != healthInterest) {
             currentInstance.setHealthTopic(healthInterest);
         } else if (currentInstance.selectedLuxury != null){
-            currentInstance.setHealthTopic(healthInterest);
+            currentInstance.setHealthTopic(null);
         }
     };
     this.deselectAllCountries = function(){
@@ -114,7 +119,7 @@ function SelectionDataLayer(){
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
         currentInstance.updateSumSelectedFacebookPopulation();
-         console.log(currentInstance.selectedFacebookPopulationSum)
+        console.log(currentInstance.selectedFacebookPopulationSum)
         console.log("Instances and Facebook Population Selected");
     }
 
@@ -146,12 +151,11 @@ function SelectionDataLayer(){
 
     this.updateVisualComponents = function(){
         currentInstance.setSelectedInstances();
-        // selectedInstancesTable.updateData();
         treemapManager.updateTreemaps();
         inclinationScore.updateData();
         arabMap.updateData();
-        luxuriousHealthBar.updateData();
         btnsTopicsSelectors.updateData();
+        luxuriousHealthBar.updateData();
         sharebleLink.updateData();
     };
 

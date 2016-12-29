@@ -53,8 +53,8 @@ $(document).ready(function () {
     var promiseForDefaultState = fusionAPI.getPromiseToUpdateDatasetBySelection(NODES_SELECTED.selectedLuxury, NODES_SELECTED.selectedHealth);
     promiseForDefaultState.done(function(data){
         fusionAPI.setInstanceList(data.instances);
-        NODES_SELECTED.setSelectedInstances();
         updateFacebookPopulationDataPromise.done(function(d){
+            NODES_SELECTED.setSelectedInstances();
             buildAndInitVisualComponents();
         }).done(function () {
             sharebleLink = new SharebleLink();

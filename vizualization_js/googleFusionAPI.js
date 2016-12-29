@@ -286,7 +286,6 @@
             promise.done(function(data){
 
                 currentInstance.setInstanceList(data.instances);
-                NODES_SELECTED.setSelectedInstances();
 
                 console.log("Building Treemaps");
                 treemapManager = new TreemapManager();

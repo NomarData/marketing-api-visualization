@@ -40,13 +40,7 @@ function BtnsTopicsSelectors(){
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();
 
-        //Select All and Deselect All Behavior
-        $("#selectedAllCountriesBtn").click(function(){
-            NODES_SELECTED.selectAllCountries();
-        })
-        $("#unSelectedAllCountriesBtn").click(function(){
-            NODES_SELECTED.deselectAllCountries();
-        })
+
     }
 
     this.addTopicsBtns = function(listTopicsNames, topicType){

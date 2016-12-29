@@ -1,7 +1,6 @@
 /**
  * Created by maraujo on 12/25/16.
  */
-COUNT_SETURL = 0;
 function InvalidParameterValueException(value, arrayName){
     this.name = "InvalidParameterValueException";
     this.value = value;
@@ -66,7 +65,7 @@ function SharebleLink(){
         if(currentInstance.hasParamsGivenUrl(url)){
             currentInstance.applyStateGivenUrl(url);
         } else {
-            NODES_SELECTED.updateDataset();
+            NODES_SELECTED.updateDatasetAndGetPromise();
             NODES_SELECTED.selectDefaultCountries();
             sharebleLink.updateSharebleLinkAsUrl();
         }
@@ -84,15 +83,17 @@ function SharebleLink(){
     this.applyState = function(newState){
         console.log(newState);
         currentInstance.reversingState = true;
-        NODES_SELECTED.setHealthTopic(newState["health"]);
-        NODES_SELECTED.setLuxuryTopic(newState["luxury"]);
-        treemapManager.clickOnTreemapGivenNameAndValue("gender", newState["gender"]);
-        treemapManager.clickOnTreemapGivenNameAndValue("age_range", newState["age_range"]);
-        treemapManager.clickOnTreemapGivenNameAndValue("scholarity", newState["scholarity"]);
-        treemapManager.clickOnTreemapGivenNameAndValue("citizenship", newState["citizenship"]);
-        NODES_SELECTED.setCountryCodeList(newState["countries"]);
-        currentInstance.reversingState = false;
-        currentInstance.updateData();
+        NODES_SELECTED.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
+            treemapManager.clickOnTreemapGivenNameAndValue("gender", newState["gender"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("age_range", newState["age_range"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("scholarity", newState["scholarity"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("citizenship", newState["citizenship"]);
+            NODES_SELECTED.setCountryCodeList(newState["countries"]);
+            currentInstance.reversingState = false;
+            currentInstance.updateData();
+        });
+
+
     };
     this.getApplycationState = function(){
         return {
@@ -120,8 +121,6 @@ function SharebleLink(){
     this.updateSharebleLinkAsUrl = function(){
         var newUrl = currentInstance.getCurrentSharebleLink();
         if(newUrl != window.location.href){
-            console.log(".\nSETTING URL: " + COUNT_SETURL + "\n.");
-            COUNT_SETURL += 1;
             history.pushState({}, null, newUrl);
         }
     };
