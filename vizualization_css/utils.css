@@ -34,3 +34,6 @@ ul.share-buttons .sr-only {
 ul.share-buttons img{
     width: 32px;
 }
+svg{
+    overflow: hidden;
+}
