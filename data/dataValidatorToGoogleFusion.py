@@ -31,15 +31,14 @@ class PandasDataset:
         expat_row = row_with_all.copy()
         expat_row["citizenship"] = "Expats"
 
-        # same_necessary_columns = ["scholarity","interest","country_code","gender","language","min_age","max_age"]
-        # for column in same_necessary_columns:
-        #     rows_with_locals = rows_with_locals[rows_with_locals[column] == row_with_all[column]]
-        # if len(rows_with_locals) != 1 and len(rows_with_locals) != 2:
-        #     import ipdb;ipdb.set_trace()
-        #     raise Exception("Should have 1 and only 1 local_row that matchs")
-        # row_with_local = rows_with_locals.iloc[0]
-        # expat_row["audience"] = row_with_all["audience"] - row_with_local["audience"]
-        expat_row["audience"] = row_with_all["audience"]/2
+        same_necessary_columns = ["scholarity","interest","country_code","gender","language","min_age","max_age"]
+        for column in same_necessary_columns:
+            rows_with_locals = rows_with_locals[rows_with_locals[column] == row_with_all[column]]
+        if len(rows_with_locals) != 1:
+            import ipdb;ipdb.set_trace()
+            raise Exception("Should have 1 and only 1 local_row that matchs")
+        row_with_local = rows_with_locals.iloc[0]
+        expat_row["audience"] = row_with_all["audience"] - row_with_local["audience"]
         if expat_row["audience"] < 0:
             expat_row["audience"] = 0
         return expat_row
