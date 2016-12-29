@@ -15,22 +15,6 @@ function getSubcategoryItemByID(searchedID){
     return null;
 }
 
-function generateHTMLGoogleFusionListItemWithCheckbox(name, audience, googleFusionValue, googleFusionColumn){
-    checkAllDefined(name,audience, googleFusionValue, googleFusionColumn);
-    var listItem = '<li><input type="checkbox" data-dbcolumn="$googleFusionColumn" data-dbvalue="$googleFusionValue" value="$item_name"> $name $audience</li>';
-    listItem = listItem.replace("$name", name).replace("$googleFusionColumn", googleFusionColumn).replace("$googleFusionValue", googleFusionValue);
-    if( audience == "" || audience == null ){
-        listItem = listItem.replace("$audience", "")
-    } else {
-        listItem = listItem.replace("$audience", "(" + audience + ")")
-    }
-    return listItem
-}
-
-function generateHTMLItemListGivenName(name){
-    checkAllDefined(name);
-    return $('<li id="$nameItemList">$name</li>'.replace(/\$name/g, name));
-}
 
 // function getItemTag(name, checkbox_id, label_id, class_checkbox, value){
 //     if (typeof(name)==='undefined' || name == null) throw new Error("getItemTag should have parameter name");

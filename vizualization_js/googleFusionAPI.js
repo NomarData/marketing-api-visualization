@@ -53,7 +53,6 @@
             return expression;
         };
 
-        this.currentSelection = cloneObject(this.defaultSelection);
         this.updateFacebookPopulationData = function(){
             var facebookPopulationDataPromise = currentInstance.getPromiseOfFacebookPopulationData();
             facebookPopulationDataPromise.done(function(d){
@@ -75,15 +74,7 @@
         }
         this.setCurrentSelection = function(){};
 
-        this.buildSQLQueryForSelection = function(){
-            var selection = currentInstance.currentSelection;
-            var squelQuery = squel.select()
-                    .from(TABLE)
-                    .where( currentInstance.getWhereExpressionForSelection(selection));
-            var stringQuery = squelQuery.toString();
-            stringQuery = removeAllParentheses(stringQuery);
-            return stringQuery;
-        };
+
 
         this.getPromiseOfFacebookPopulationData = function(){
             var defer = $.Deferred();
@@ -142,44 +133,6 @@
                 throw Error("Undetermined case.")
             }
 
-        };
-
-        this.getPromiseCurrentSelection = function(){
-            var sql = currentInstance.buildSQLQueryForSelection();
-            var sql_uri = encodeURIComponent(sql);
-            var url = currentInstance.URL_sql.replace("$key",API_KEY).replace("$query",sql_uri);
-            console.log(sql);
-            console.log(url);
-            // var promise = $.get(url, function (data) {
-            //     var instances = $.map(data.rows, function(row){
-            //         var instance = {}
-            //         for(var columnIndex in data.columns){
-            //             var column = data.columns[columnIndex];
-            //             var value = row[columnIndex];
-            //             if(!isNaN(value)) value = parseFloat(value);
-            //             instance[column] = value;
-            //         }
-            //         return instance;
-            //     });
-            //     if(instances == []){
-            //         console.log("Instances should never return [], ignore it for while");
-            //     }
-            //     data.instances = instances;
-            // }).fail(function(data){
-            //     currentInstance.failPromise(data);
-            // });
-
-            //Fake Promise
-            var defer = $.Deferred();
-            d3.csv("data/googlefusion.csv", function(error, data) {
-                if(error){
-                    throw Error("Error loading csv : " + error)
-                } else{
-                    defer.resolve({instances:data});
-                }
-            });
-            var promise = defer.promise();
-            return promise;
         };
 
 
@@ -281,50 +234,7 @@
             currentData = parsedInstances;
         };
 
-        this.updateInstancesDataBasedOnSelection = function(){
-            var promise = currentInstance.getPromiseCurrentSelection();
-            promise.done(function(data){
 
-                currentInstance.setInstanceList(data.instances);
-
-                console.log("Building Treemaps");
-                treemapManager = new TreemapManager();
-                treemapManager.initTreemaps();
-                console.log("Treemaps builded");
-
-                console.log("Building luxuriousHealthBar");
-                luxuriousHealthBar = new stackedHorizontalBar();
-                luxuriousHealthBar.init();
-                console.log("Builded luxuriousHealthBar");
-
-                arabMap = new arabLeagueMap();
-                arabMap.init();
-
-                // selectedInstancesTable = new SelectedInstancesTable("#selectedDataInstancesTable");
-                // selectedInstancesTable.init();
-                // selectedInstancesTable.updateData();
-
-                // currentDataInstancesTable = new SelectedInstancesTable("#currentDataTable");
-                // currentDataInstancesTable.init();
-
-                inclinationScore = new InclinationScore();
-                inclinationScore.init();
-
-                // currentDataInstancesTable.updateDataGivenInstances(currentData);
-
-                fusionAPI.updateCountriesList().done(function(){
-                    $(".countryItem").click(function(){
-                        onClickCountryFunction($(this));
-                    });
-
-                });
-                fusionAPI.updateInterestsAudienceList();
-
-
-            });
-        }
-        this.getDefaultData = function(){
-
-        }
+  
 
     }
