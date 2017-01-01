@@ -1,7 +1,7 @@
 function DataManager(){
     var currentInstance = this;
-    this.country_codes2letters = [];
-    this.categories = {};
+    this.selectedCountries_2letters = [];
+    this.selectedCategoriesAndValues = {};
     this.selected_instances = [];
     this.selectedFacebookPopulationInstances = [];
     this.selectedHealth = healthTopics[3];
@@ -60,13 +60,13 @@ function DataManager(){
         }
     };
     this.deselectAllCountries = function(){
-        currentInstance.country_codes2letters = [];
+        currentInstance.selectedCountries_2letters = [];
         currentInstance.updateVisualComponents();
     };
     this.selectAllCountries = function(){
-        currentInstance.country_codes2letters = [];
+        currentInstance.selectedCountries_2letters = [];
         for(var countryCode in countryCodeMap){
-            currentInstance.country_codes2letters.push(countryCode);
+            currentInstance.selectedCountries_2letters.push(countryCode);
         }
         currentInstance.updateVisualComponents();
     };
@@ -79,25 +79,25 @@ function DataManager(){
         return currentInstance.selected_instances;
     }
     this.setCountryCodeList = function(countryCodeList){
-        currentInstance.country_codes2letters = countryCodeList;
+        currentInstance.selectedCountries_2letters = countryCodeList;
         currentInstance.updateVisualComponents();
     }
     this.insertCountryCode = function(countryCode){
         console.log("Inserting:" + countryCode);
-        currentInstance.country_codes2letters.push(countryCode);
+        currentInstance.selectedCountries_2letters.push(countryCode);
         currentInstance.updateVisualComponents();
     }
     this.removeCountryCode = function(country_code){
-        currentInstance.country_codes2letters = removeValueFromArray(currentInstance.country_codes2letters, country_code);
+        currentInstance.selectedCountries_2letters = removeValueFromArray(currentInstance.selectedCountries_2letters, country_code);
         currentInstance.updateVisualComponents();
     }
     this.setCategoryValueSelected = function(category, value){
         if(!value) return;
-        currentInstance.categories[category] = value;
+        currentInstance.selectedCategoriesAndValues[category] = value;
         currentInstance.updateVisualComponents();
     }
     this.unsetCategory = function(category){
-        delete currentInstance.categories[category];
+        delete currentInstance.selectedCategoriesAndValues[category];
         currentInstance.updateVisualComponents();
     }
      this.setSelectedInstances = function(){
@@ -112,10 +112,12 @@ function DataManager(){
         }
          for(var indexFacebookPopulation in facebookPopulation){
              var instance = facebookPopulation[indexFacebookPopulation];
+             if(currentInstance.hasAllInAnyCategory(instance)) continue;
              if(currentInstance.isInstanceAgreeWithSelected(instance)){
                  facebookPopulationInstances.push(instance)
              }
          }
+         console.log(facebookPopulationInstances.length);
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
         currentInstance.updateSumSelectedFacebookPopulation();
@@ -160,23 +162,53 @@ function DataManager(){
     };
 
     this.isCountryAlreadySelected = function(country_code) {
-        return currentInstance.country_codes2letters.indexOf(country_code) != -1 ? true : false;
+        return currentInstance.selectedCountries_2letters.indexOf(country_code) != -1 ? true : false;
     };
     this.isInstanceAgreeWithSelected = function(instance){
-        for(var key in currentInstance.categories){
-            if(instance[key] != currentInstance.categories[key]){
-                // console.log(instance[key] + "!=" + currentInstance.categories[key]);
+        for(var key in currentInstance.selectedCategoriesAndValues){
+            if(instance[key] != currentInstance.selectedCategoriesAndValues[key]){
                 return false;
             }
         }
         //Check Country code
-        if(currentInstance.country_codes2letters.length > 0){
+        if(currentInstance.selectedCountries_2letters.length > 0){
             if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
-                // console.log("Country Not Selected");
                 return false;
             }
         }
-
+        return true;
+    };
+    this.hasAllInAnyCategory = function(instance){
+        var categories = ["gender", "age_range", "scholarity", "citizenship"];
+        for(var categoryIndex in categories){
+            var categoryName = categories[categoryIndex];
+            if(instance[categoryName] == "ALL"){
+                return true;
+            }
+        }
+        return false;
+    }
+    this.isFacebookPopulationInstanceAgreeWithSelected = function(instance){
+        // var categories = treemapManager.getCategoriesNames();
+        var categories = ["gender", "age_range", "scholarity", "citizenship"];
+        for(var categoryIndex in categories){
+            var categoryName = categories[categoryIndex];
+            if(categoryName in currentInstance.selectedCategoriesAndValues){
+                if(instance[categoryName] != currentInstance.selectedCategoriesAndValues[categoryName]){
+                    return false;
+                }
+            }else{
+                if(instance[categoryName] != ALL_VALUE){
+                    return false;
+                }
+            }
+        }
+        //Check Country code
+        if(currentInstance.selectedCountries_2letters.length > 0){
+            if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
+                return false;
+            }
+        }
         return true;
     }
 }

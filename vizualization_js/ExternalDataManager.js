@@ -7,7 +7,7 @@
         this.updateFacebookPopulationData = function(){
             var facebookPopulationDataPromise = currentInstance.getPromiseOfFacebookPopulationData();
             facebookPopulationDataPromise.done(function(d){
-                currentInstance.setFacebookPopulationList(d.facebookPopulation);
+                currentInstance.setFacebookInitialPopulationList(d.facebookPopulation);
             });
             return facebookPopulationDataPromise;
         };
@@ -94,7 +94,7 @@
                     countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</div>");
                 }
         };
-        this.setFacebookPopulationList = function(instances){
+        this.setFacebookInitialPopulationList = function(instances){
             var parsedInstances = $.map(instances,function(instance){
                 instance.audience = parseInt(instance.audience);
                 return instance;

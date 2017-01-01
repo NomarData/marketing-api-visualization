@@ -77,8 +77,8 @@ function CountriesDataDatamap(){
         }
 
         //Paint all selected countries as selected
-        for(var selectedCountryIndex in dataManager.country_codes2letters){
-            var _2_letters_country_code = dataManager.country_codes2letters[selectedCountryIndex];
+        for(var selectedCountryIndex in dataManager.selectedCountries_2letters){
+            var _2_letters_country_code = dataManager.selectedCountries_2letters[selectedCountryIndex];
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){

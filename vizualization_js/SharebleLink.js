@@ -99,8 +99,8 @@ function SharebleLink(){
         return {
             "health": dataManager.selectedHealth,
             "luxury": dataManager.selectedLuxury,
-            "categories" : dataManager.categories,
-            "countries" : dataManager.country_codes2letters
+            "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
+            "countries" : dataManager.selectedCountries_2letters
         }
     };
     this.buildUrlFromState = function (state) {
@@ -108,8 +108,8 @@ function SharebleLink(){
         urlParams.append('health', state.health);
         urlParams.append('luxury', state.luxury);
         urlParams.append("country",state.countries.join("-"));
-        for(var categoryKey in state.categories){
-            urlParams.append(categoryKey,state.categories[categoryKey]);
+        for(var categoryKey in state.selectedCategoriesAndValues){
+            urlParams.append(categoryKey,state.selectedCategoriesAndValues[categoryKey]);
         }
         var currentRootUrl = window.location.origin + window.location.pathname + "?";
         return currentRootUrl + urlParams.toString();
@@ -181,10 +181,10 @@ function SharebleLink(){
         return valueInOurData;
     };
     this.printState = function(){
-        var categories = dataManager.categories;
+        var categories = dataManager.selectedCategoriesAndValues;
         console.log("Selected Health:" + dataManager.selectedHealth);
         console.log("Selected Luxury:" + dataManager.selectedLuxury);
-        console.log("Selected Countries:" + dataManager.country_codes2letters);
+        console.log("Selected Countries:" + dataManager.selectedCountries_2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));
         console.log("Selected Age Range:" + ("age_range" in categories ? categories["age_range"] : null));
@@ -255,5 +255,4 @@ function SharebleLink(){
         }
         return null;
     }
-    this.init();
 }

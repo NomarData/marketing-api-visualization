@@ -52,6 +52,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.treemapContainer = treemapContainer;
     this.tooltip_margin = 10;
 
+    this.getCategoryName = function () {
+      return currentInstance.root.name;
+    };
+
     this.getSelectedCell = function(){
         var cells = this.svg.selectAll("g")[0];
         var cellsData = this.svg.selectAll("g").data();

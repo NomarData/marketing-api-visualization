@@ -312,6 +312,15 @@ function getInterestPolarity(interestName){
 function TreemapManager(){
     var currentInstance = this;
     this.treemaps = [];
+
+    this.getCategoriesNames = function(){
+        var categoriesNames = [];
+        for(var treemapIndex in currentInstance.treemaps){
+            var treemap = currentInstance.treemaps[treemapIndex];
+            categoriesNames.push(treemap.root.name);
+        }
+        return categoriesNames;
+    };
     this.init = function(){
         var treemapDefaultHeight = 100;
 
@@ -343,7 +352,7 @@ function TreemapManager(){
 
     this.getAverageSelectedInclination = function(){
         var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
-        if(dataManager.country_codes2letters.length == 0){
+        if(dataManager.selectedCountries_2letters.length == 0){
             return averageInclination;
         } else{
             var selectedInstances = dataManager.getSelectedInstances();
@@ -385,7 +394,7 @@ function TreemapManager(){
     }
 
     this.checkIfNeedToHideTreemaps = function(){
-        if(dataManager.country_codes2letters.length > 0){
+        if(dataManager.selectedCountries_2letters.length > 0){
             if(!$(".chart").is(":visible")){
                 currentInstance.showTreemaps();
             }

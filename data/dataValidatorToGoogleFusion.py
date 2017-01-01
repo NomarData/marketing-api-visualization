@@ -5,6 +5,7 @@ import time
 import sys
 
 NULL_VALUE = "NOTSELECTED"
+ALL_VALUE = "ALL"
 
 
 class PandasDataset:
@@ -60,10 +61,16 @@ class PandasDataset:
         for column in no_nan_columns:
             if self.data[column].isnull().values.any():
                 raise Exception("Not Allowed Null at:" + column)
-        print len(self.data)
+        print "Number of Lines:", len(self.data)
 
     def replace_null_values(self):
         print "Replace Null Values..."
+        null_values_means_all_columns = ["citizenship","scholarity"]
+        #Gender Case
+        self.data["gender"] = self.data["gender"].replace(0, "ALL")
+        # Replace necessary NULL's to ALL
+        for column in null_values_means_all_columns:
+            self.data[column] = self.data[column].fillna(ALL_VALUE)
         self.data = self.data.fillna(NULL_VALUE)
         print len(self.data)
 
@@ -246,7 +253,7 @@ class PandasDataset:
 
     def insert_expats_native_rows(self):
         print "Adding Not Native Rows"
-        rows_with_all = self.data[self.data["citizenship"] == NULL_VALUE]
+        rows_with_all = self.data[self.data["citizenship"] == ALL_VALUE]
         rows_with_locals = self.data[self.data["citizenship"] == "Locals"]
         rows_with_expats = rows_with_all.apply(lambda row_with_all: self.get_expat_row(row_with_all, rows_with_locals), axis=1)
         self.data = self.data.append(rows_with_expats)
@@ -301,9 +308,13 @@ class PandasDataset:
     def generate_file_for_combination(self,combination):
         if len(combination) == 2:
             filtered_dataframe = self.data[(self.data["topic"] == combination[0]) | (self.data["topic"] == combination[1])]
+            filtered_dataframe = filtered_dataframe[(filtered_dataframe["gender"] != ALL_VALUE) & (filtered_dataframe["age_range"] != ALL_VALUE) &  (filtered_dataframe["scholarity"] != ALL_VALUE) & (filtered_dataframe["citizenship"] != ALL_VALUE) ]
             filtered_dataframe.to_csv("application_data/" + combination[0] + "-" + combination[1] + ".csv")
         elif len(combination) == 1:
             filtered_dataframe = self.data[(self.data["topic"] == combination[0])]
+            filtered_dataframe = filtered_dataframe[
+                (filtered_dataframe["gender"] != ALL_VALUE) & (filtered_dataframe["age_range"] != ALL_VALUE) & (
+                filtered_dataframe["scholarity"] != ALL_VALUE) & (filtered_dataframe["citizenship"] != ALL_VALUE)]
             filtered_dataframe.to_csv("application_data/" + combination[0] + ".csv")
         else:
             import ipdb;ipdb.set_trace()
@@ -323,22 +334,18 @@ class PandasDataset:
 
 
     def process_data(self):
-        self.data = self.data.drop_duplicates()
-        self.replace_null_values()
-        self.remove_all_languages()
-        self.check_not_permitted_empty_values()
-
         self.rename_column("exclusion_behavior", "citizenship")
         self.rename_column("analysis_name", "topic")
-
+        self.data = self.data.drop_duplicates()
+        self.check_not_permitted_empty_values()
+        self.replace_null_values()
+        self.remove_all_languages()
         self.delete_specific_key_value("gender", 0)
         self.delete_specific_key_value("topic", "all health")
+        self.delete_specific_key_value("citizenship", "NOTSELECTED")
         self.delete_all_unnamed_columns()
-
-        # self.convert_language_to_language_group()
         self.replace_specific_key_value("gender", 1, "Male")
         self.replace_specific_key_value("gender", 2, "Female")
-        self.delete_specific_key_value("scholarity", "None")
         self.replace_specific_key_value("scholarity", "HIGH_SCHOOL,UNSPECIFIED,SOME_HIGH_SCHOOL", "ND")
         self.replace_specific_key_value("scholarity",
                                         "UNDERGRAD,HIGH_SCHOOL_GRAD,SOME_COLLEGE,ASSOCIATE_DEGREE,PROFESSIONAL_DEGREE",
@@ -346,24 +353,23 @@ class PandasDataset:
         self.replace_specific_key_value("scholarity",
                                         "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE", "GRAD")
         self.replace_specific_key_value("citizenship", 6015559470580, "Locals")
-
-        # self.delete_specific_key_value("language", NULL_VALUE)
-        # self.delete_specific_key_value("country_code", "BH")
-        # self.delete_specific_key_value("language", "Arabic,English (All),Spanish (All),Portuguese (All),Italian,German,Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala,Indonesian,Filipino,Malayalam,Thai")
-        self.delete_specific_key_value("scholarity", NULL_VALUE)
+        self.delete_specific_key_value("scholarity","None")
 
         self.insert_expats_native_rows()
-        self.delete_specific_key_value("citizenship", "NOTSELECTED")
-        # self.delete_specific_key_value("is_denominator", True)
-        # self.delete_column("experiment_id")
-        # self.delete_column("interest_id")
-        # self.delete_column("interest")
-        # self.delete_column("interest_query")
-        # self.delete_column("placebo_id")
-        # self.delete_column("placebo_query")
-        # self.delete_column("ground_truth_column")
+
         self.insert_age_range_column()
-        self.delete_specific_key_value("age_range", "18+")
+        self.replace_specific_key_value("age_range", "18+", "ALL")
+        self.delete_column("experiment_id")
+        self.delete_column("ground_truth_column")
+        self.delete_column("interest")
+        self.delete_column("interest_id")
+        self.delete_column("interest_query")
+        self.delete_column("max_age")
+        self.delete_column("min_age")
+        self.delete_column("placebo_query")
+        self.delete_column("placebo_id")
+        self.delete_column("target_request")
+        self.delete_column("language")
         self.check_data_integrity_without_language()
         self.compress()
         self.generate_combinations_files()
@@ -388,6 +394,7 @@ class PandasDataset:
 
     def __init__(self, filepointer):
         self.data = self.get_pandas_dataset_from_file(filepointer)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

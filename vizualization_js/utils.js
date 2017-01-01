@@ -106,9 +106,10 @@ function buildAndInitVisualComponents(){
     luxuriousHealthBar = new stackedHorizontalBar();
     inclinationScore = new InclinationScore();
     arabMap = new arabLeagueMap();
-    btnsTopicsSelectors = new BtnsTopicsSelectors();
     sharebleLink = new SharebleLink();
+    btnsTopicsSelectors = new BtnsTopicsSelectors();
     console.log("Builded visual components");
+    sharebleLink.init();
 }
 
 
@@ -194,7 +195,7 @@ function onClickCountryFunction(countryItem){
         countryItem.css("text-decoration","underline");
         dataManager.insertCountryCode(countryCode2Letters);
     }
-    console.log(dataManager.country_codes2letters);
+    console.log(dataManager.selectedCountries_2letters);
 }
 
 getAll3LettersCodeArabCountry = function(){
