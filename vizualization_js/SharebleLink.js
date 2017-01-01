@@ -65,8 +65,8 @@ function SharebleLink(){
         if(currentInstance.hasParamsGivenUrl(url)){
             currentInstance.applyStateGivenUrl(url);
         } else {
-            NODES_SELECTED.updateDatasetAndGetPromise();
-            NODES_SELECTED.selectDefaultCountries();
+            dataManager.updateDatasetAndGetPromise();
+            dataManager.selectDefaultCountries();
             sharebleLink.updateSharebleLinkAsUrl();
         }
         currentInstance.applyBackBtnFunctionality();
@@ -83,12 +83,12 @@ function SharebleLink(){
     this.applyState = function(newState){
         console.log(newState);
         currentInstance.reversingState = true;
-        NODES_SELECTED.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
+        dataManager.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
             treemapManager.clickOnTreemapGivenNameAndValue("gender", newState["gender"]);
             treemapManager.clickOnTreemapGivenNameAndValue("age_range", newState["age_range"]);
             treemapManager.clickOnTreemapGivenNameAndValue("scholarity", newState["scholarity"]);
             treemapManager.clickOnTreemapGivenNameAndValue("citizenship", newState["citizenship"]);
-            NODES_SELECTED.setCountryCodeList(newState["countries"]);
+            dataManager.setCountryCodeList(newState["countries"]);
             currentInstance.reversingState = false;
             currentInstance.updateData();
         });
@@ -97,10 +97,10 @@ function SharebleLink(){
     };
     this.getApplycationState = function(){
         return {
-            "health": NODES_SELECTED.selectedHealth,
-            "luxury": NODES_SELECTED.selectedLuxury,
-            "categories" : NODES_SELECTED.categories,
-            "countries" : NODES_SELECTED.country_codes2letters
+            "health": dataManager.selectedHealth,
+            "luxury": dataManager.selectedLuxury,
+            "categories" : dataManager.categories,
+            "countries" : dataManager.country_codes2letters
         }
     };
     this.buildUrlFromState = function (state) {
@@ -181,10 +181,10 @@ function SharebleLink(){
         return valueInOurData;
     };
     this.printState = function(){
-        var categories = NODES_SELECTED.categories;
-        console.log("Selected Health:" + NODES_SELECTED.selectedHealth);
-        console.log("Selected Luxury:" + NODES_SELECTED.selectedLuxury);
-        console.log("Selected Countries:" + NODES_SELECTED.country_codes2letters);
+        var categories = dataManager.categories;
+        console.log("Selected Health:" + dataManager.selectedHealth);
+        console.log("Selected Luxury:" + dataManager.selectedLuxury);
+        console.log("Selected Countries:" + dataManager.country_codes2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));
         console.log("Selected Age Range:" + ("age_range" in categories ? categories["age_range"] : null));
@@ -211,7 +211,7 @@ function SharebleLink(){
                 $("#alertCouldntParseParams").removeClass("hidden");
                 $("#alertCouldntParseParams").html(Exception.message);
                 setTimeout(function(){ $("#alertCouldntParseParams").fadeOut(); }, 8000);
-                NODES_SELECTED.selectAllCountries();
+                dataManager.selectAllCountries();
                 console.log("Exception Name:\n" + Exception.name);
                 console.log("Exception Message:\n" + Exception.message);
                 console.log(newState);
@@ -255,4 +255,5 @@ function SharebleLink(){
         }
         return null;
     }
+    this.init();
 }

@@ -11,4 +11,6 @@ function InclinationScore(){
         currentInstance.element.css("color",getGreenOrRedColorByInclination(averageInclination.average));
         currentInstance.element.html(averageInclination.average.toFixed(2));
     }
+
+    this.init();
 }

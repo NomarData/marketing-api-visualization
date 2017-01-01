@@ -1,4 +1,4 @@
-function SelectionDataLayer(){
+function DataManager(){
     var currentInstance = this;
     this.country_codes2letters = [];
     this.categories = {};
@@ -23,8 +23,8 @@ function SelectionDataLayer(){
 
     this.updateDatasetAndGetPromise = function(){
         currentInstance.loader.fadeIn();
-        return fusionAPI.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
-            fusionAPI.setInstanceList(data.instances);
+        return externalDataManager.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
+            externalDataManager.setInstanceList(data.instances);
             currentInstance.loader.fadeOut();
             currentInstance.updateVisualComponents();
             // waitingDialog.hide()
@@ -106,7 +106,7 @@ function SelectionDataLayer(){
         var facebookPopulationInstances = [];
         for(var indexData in currentData){
             var instance = currentData[indexData];
-            if(NODES_SELECTED.isInstanceAgreeWithSelected(instance)){
+            if(dataManager.isInstanceAgreeWithSelected(instance)){
                 instances.push(instance)
             }
         }

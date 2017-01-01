@@ -2,63 +2,29 @@
  * Created by maraujo on 11/20/16.
  */
 //Global Variables
-var INTEREST_COLUMN_NAME = "topic";
-var COUNTRY_COLUMN_NAME = "location";
-var countries_container = $("#countries_list");
-var interests_container = $("#interests_list");
-var demographicCategoriesContainer = $("#demographic_categories_list");
-var countries_interest_data = [];
-var defaultsPropertiesTreemap = {
-    margin: {top: 24, right: 0, bottom: 0, left: 0},
-    rootname: "TOP",
-    format: ",d",
-    title: "",
-    height: 100
-};
 
-function removeValueFromArray(array,valueToRemove){
-    return $.grep(array, function(value) {
-        return value != valueToRemove;
-    });
-}
 
-function buildAndInitVisualComponents(){
-    console.log("Building Treemaps");
-    treemapManager = new TreemapManager();
-    treemapManager.initTreemaps();
-    console.log("Treemaps builded");
+colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
+colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
+domainLinear = [-1, -0.66, -0.33, 0, 0.33, 0.66, 1];
+domainNotLinear = [-0.7, -0.3, -0.05, 0, 0.05, 0.3, 0.7];
+breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
+colorFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
+colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
+colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 
-    console.log("Building luxuriousHealthBar");
-    luxuriousHealthBar = new stackedHorizontalBar();
-    luxuriousHealthBar.init();
-    console.log("Builded luxuriousHealthBar");
-
-    inclinationScore = new InclinationScore();
-    inclinationScore.init();
-
-    arabMap = new arabLeagueMap();
-    arabMap.init();
-
-    btnsTopicsSelectors = new BtnsTopicsSelectors();
-    btnsTopicsSelectors.init();
-}
 
 $(document).ready(function () {
-    // var treemapProperties = generateTreemapProperties(1280 - 80,800 - 180);
     $(".loader").fadeIn();
-    NODES_SELECTED = new SelectionDataLayer();
-    fusionAPI = new GoogleFusionAPI();
-    var updateFacebookPopulationDataPromise = fusionAPI.updateFacebookPopulationData();
-    fusionAPI.init();
-    var promiseForDefaultState = fusionAPI.getPromiseToUpdateDatasetBySelection(NODES_SELECTED.selectedLuxury, NODES_SELECTED.selectedHealth);
+    dataManager = new DataManager();
+    externalDataManager = new ExternalDataManager();
+    var updateFacebookPopulationDataPromise = externalDataManager.updateFacebookPopulationData();
+    var promiseForDefaultState = externalDataManager.getPromiseToUpdateDatasetBySelection(dataManager.selectedLuxury, dataManager.selectedHealth);
     promiseForDefaultState.done(function(data){
-        fusionAPI.setInstanceList(data.instances);
+        externalDataManager.setInstanceList(data.instances);
         updateFacebookPopulationDataPromise.done(function(d){
-            NODES_SELECTED.setSelectedInstances();
+            dataManager.setSelectedInstances();
             buildAndInitVisualComponents();
-        }).done(function () {
-            sharebleLink = new SharebleLink();
-            sharebleLink.init();
         });
     });
 });

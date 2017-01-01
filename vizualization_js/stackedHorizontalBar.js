@@ -62,7 +62,7 @@ function stackedHorizontalBar(){
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
 
-        currentInstance.updateDomain(NODES_SELECTED.selectedFacebookPopulationSum);
+        currentInstance.updateDomain(dataManager.selectedFacebookPopulationSum);
         $(".x.axis").remove();
         currentInstance.svg.append("g")
             .attr("class", "x axis")
@@ -115,7 +115,7 @@ function stackedHorizontalBar(){
             .text(currentInstance.getFormattedAudience(d.audience));
 
         d3.select("#tooltip-stackedbar #fbTotalAudienceSelectedStackedBar")
-            .text(currentInstance.getFormattedAudience(NODES_SELECTED.selectedFacebookPopulationSum));
+            .text(currentInstance.getFormattedAudience(dataManager.selectedFacebookPopulationSum));
 
         d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
             .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
@@ -244,6 +244,8 @@ function stackedHorizontalBar(){
             .attr("y2", height);
 
     }
+
+    this.init();
 
 }
 

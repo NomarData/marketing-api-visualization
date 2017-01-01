@@ -18,7 +18,7 @@ function SelectedInstancesTable(elementContainerSelector){
 
     this.addHeader = function() {
         var keys = [];
-        var data = NODES_SELECTED.getSelectedInstances();
+        var data = dataManager.getSelectedInstances();
         for(var instanceIndex in data){
             var instance = data[instanceIndex];
             for( var key in instance){
@@ -56,7 +56,7 @@ function SelectedInstancesTable(elementContainerSelector){
 
     this.updateData = function(){
         currentInstance.empty();
-        var instances = NODES_SELECTED.getSelectedInstances();
+        var instances = dataManager.getSelectedInstances();
         $.map(instances,function (instance) {
             var html = currentInstance.instanceToItemRow(instance);
             currentInstance.element.append(html);

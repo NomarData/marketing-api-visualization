@@ -62,7 +62,7 @@ function CountriesDataDatamap(){
     this.getCountryAudience = function(country){
         // var audience =  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
         var _2letterCode = convert3to2LettersCode(country);
-        return NODES_SELECTED.getSumSelectedFacebookPopulationByCountry(_2letterCode);
+        return dataManager.getSumSelectedFacebookPopulationByCountry(_2letterCode);
     };
 
     this.getDataMapColor = function(){
@@ -77,8 +77,8 @@ function CountriesDataDatamap(){
         }
 
         //Paint all selected countries as selected
-        for(var selectedCountryIndex in NODES_SELECTED.country_codes2letters){
-            var _2_letters_country_code = NODES_SELECTED.country_codes2letters[selectedCountryIndex];
+        for(var selectedCountryIndex in dataManager.country_codes2letters){
+            var _2_letters_country_code = dataManager.country_codes2letters[selectedCountryIndex];
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
@@ -261,7 +261,7 @@ function arabLeagueMap(){
     };
 
     this.mousemoveTooltip = function(countryCode3Letters){
-        NODES_SELECTED.isCountryAlreadySelected()
+        dataManager.isCountryAlreadySelected()
         var code2Letters = convert3to2LettersCode(countryCode3Letters);
 
         var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letters);
@@ -277,7 +277,7 @@ function arabLeagueMap(){
         d3.select("#tooltip-countries  #countryNameTooltip")
             .text(countryName);
 
-        if(!NODES_SELECTED.isCountryAlreadySelected(code2Letters)){
+        if(!dataManager.isCountryAlreadySelected(code2Letters)){
             d3.select("#countryDataTooltipContainer").classed("hidden",true);
 
         } else {
@@ -323,7 +323,7 @@ function arabLeagueMap(){
 
 
     this.updateData = function(){
-        var instances = NODES_SELECTED.getSelectedInstances();
+        var instances = dataManager.getSelectedInstances();
         countriesDataDatamap.empty();
         countriesDataDatamap.addInstances(instances);
         var dataColor = countriesDataDatamap.getDataMapColor();
@@ -354,7 +354,7 @@ function arabLeagueMap(){
     };
 
     this.initCountriesBtns = function () {
-        fusionAPI.updateCountriesList(facebookPopulation);
+        externalDataManager.updateCountriesList(facebookPopulation);
         currentInstance.addClickFunctionToCountries();
         currentInstance.addClickFunctionToCountriesBtns();
         currentInstance.addTooltipToCountriesPath();
@@ -362,12 +362,14 @@ function arabLeagueMap(){
 
         //Select All and Deselect All Behavior
         $("#selectedAllCountriesBtn").click(function(){
-            NODES_SELECTED.selectAllCountries();
+            dataManager.selectAllCountries();
         })
         $("#unSelectedAllCountriesBtn").click(function(){
-            NODES_SELECTED.deselectAllCountries();
+            dataManager.deselectAllCountries();
         })
 
         $(".loader").fadeOut();
     }
+
+    this.init();
 }

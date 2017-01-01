@@ -219,7 +219,7 @@ function getTreemapDataFromInstancesList(category){
     var categoryAudience = {};
     categoryAudience["name"] = category;
     categoryAudience["data"] = {}
-    var instancesList = NODES_SELECTED.getSelectedInstances();
+    var instancesList = dataManager.getSelectedInstances();
     for(var index in instancesList){
         var instance = instancesList[index];
         if(instance[category] in categoryAudience["data"]){
@@ -238,7 +238,7 @@ function processSubCategoryList(categoryAudience, subCategoryName){
     var totalAudienceWithInterest = 0.0;
     var subCategoryList = categoryAudience["data"][subCategoryName];
 
-    var totalAudienceGivenSelection = NODES_SELECTED.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory(categoryAudience["name"], subCategoryName);
+    var totalAudienceGivenSelection = dataManager.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory(categoryAudience["name"], subCategoryName);
 
     for(var index in subCategoryList){
         var instance = subCategoryList[index];
@@ -312,7 +312,7 @@ function getInterestPolarity(interestName){
 function TreemapManager(){
     var currentInstance = this;
     this.treemaps = [];
-    this.initTreemaps = function(){
+    this.init = function(){
         var treemapDefaultHeight = 100;
 
         var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender"));
@@ -343,12 +343,12 @@ function TreemapManager(){
 
     this.getAverageSelectedInclination = function(){
         var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
-        if(NODES_SELECTED.country_codes2letters.length == 0){
+        if(dataManager.country_codes2letters.length == 0){
             return averageInclination;
         } else{
-            var selectedInstances = NODES_SELECTED.getSelectedInstances();
+            var selectedInstances = dataManager.getSelectedInstances();
             // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
-            var total = NODES_SELECTED.selectedFacebookPopulationSum;
+            var total = dataManager.selectedFacebookPopulationSum;
             averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
             averageInclination.greenInclination = averageInclination.greenAudience / total;
@@ -385,7 +385,7 @@ function TreemapManager(){
     }
 
     this.checkIfNeedToHideTreemaps = function(){
-        if(NODES_SELECTED.country_codes2letters.length > 0){
+        if(dataManager.country_codes2letters.length > 0){
             if(!$(".chart").is(":visible")){
                 currentInstance.showTreemaps();
             }
@@ -408,11 +408,11 @@ function TreemapManager(){
     };
 
     this.selectTreemapOption = function(treemap, node){
-        NODES_SELECTED.setCategoryValueSelected(treemap.root.name, node.name);
+        dataManager.setCategoryValueSelected(treemap.root.name, node.name);
     };
 
     this.unselectTreemapOption = function(treemap){
-        NODES_SELECTED.unsetCategory(treemap.root.name);
+        dataManager.unsetCategory(treemap.root.name);
     };
     this.getTreemapByName = function(treemapName){
         for(var treemapIndex in currentInstance.treemaps){
@@ -427,4 +427,6 @@ function TreemapManager(){
         var treemap = currentInstance.getTreemapByName(treemapName);
         treemap.activateCellGivenValue(treemapValue);
     }
+
+    this.init();
 }

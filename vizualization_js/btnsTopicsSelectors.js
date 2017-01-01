@@ -5,16 +5,16 @@ function BtnsTopicsSelectors(){
     var currentInstance = this;
 
     this.setDefault = function(){
-        $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
-        $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
+        $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
     };
     this.updateData = function(){
         $(".btn-selected").removeClass("btn-selected"); //Remove all selected
-        if(NODES_SELECTED.selectedLuxury){
-            $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
+        if(dataManager.selectedLuxury){
+            $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
         }
-        if(NODES_SELECTED.selectedHealth){
-            $(".btn-interest[data-interest='"+ NODES_SELECTED.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        if(dataManager.selectedHealth){
+            $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
         }
     };
 
@@ -22,10 +22,10 @@ function BtnsTopicsSelectors(){
         $(".btn-interest").click(function(){
             var btnElement = $(this);
             if(btnElement.hasClass("btn-luxury")){
-                NODES_SELECTED.flipSelectedLuxury(btnElement.data("interest"));
+                dataManager.flipSelectedLuxury(btnElement.data("interest"));
                 currentInstance.updateData();
             } else if(btnElement.hasClass("btn-health")){
-                NODES_SELECTED.flipSelectedHealth(btnElement.data("interest"));
+                dataManager.flipSelectedHealth(btnElement.data("interest"));
                 currentInstance.updateData();
             } else {
                 throw Error("Should be luxury or health");
@@ -102,4 +102,6 @@ function BtnsTopicsSelectors(){
             return topicName;
         }
     }
+
+    this.init();
 }
