@@ -117,6 +117,7 @@ function DataManager(){
                  facebookPopulationInstances.push(instance)
              }
          }
+
          console.log(facebookPopulationInstances.length);
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
