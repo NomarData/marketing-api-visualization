@@ -94,6 +94,17 @@ mapValuesStringsTooltip = {
     "gender" : "Gender",
 };
 
+function getFacebookPopulationInstanceByValue(value){
+    for(var instanceIndex in facebookPopulation){
+        var instance = facebookPopulation[instanceIndex];
+        if(instance[""] == value.toString()){
+            return instance;
+        }
+    }
+    return null;
+}
+
+
 function removeValueFromArray(array,valueToRemove){
     return $.grep(array, function(value) {
         return value != valueToRemove;

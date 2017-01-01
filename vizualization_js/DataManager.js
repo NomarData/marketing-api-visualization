@@ -4,6 +4,7 @@ function DataManager(){
     this.selectedCategoriesAndValues = {};
     this.selected_instances = [];
     this.selectedFacebookPopulationInstances = [];
+    this.selectedOverallFacebookPopulationInstances = [];
     this.selectedHealth = healthTopics[3];
     this.selectedLuxury = luxuryTopics[4];
     this.selectedFacebookPopulationSum = 0;
@@ -104,6 +105,8 @@ function DataManager(){
          console.log("Selecting Instances")
         var instances = [];
         var facebookPopulationInstances = [];
+        var overallFacebookPopulationInstances = [];
+
         for(var indexData in currentData){
             var instance = currentData[indexData];
             if(dataManager.isInstanceAgreeWithSelected(instance)){
@@ -112,23 +115,28 @@ function DataManager(){
         }
          for(var indexFacebookPopulation in facebookPopulation){
              var instance = facebookPopulation[indexFacebookPopulation];
-             if(currentInstance.hasAllInAnyCategory(instance)) continue;
-             if(currentInstance.isInstanceAgreeWithSelected(instance)){
-                 facebookPopulationInstances.push(instance)
+             if(currentInstance.isFacebookPopulationInstanceAgreeWithSelected(instance)){
+                 overallFacebookPopulationInstances.push(instance)
+             }
+             if(!currentInstance.hasAllInAnyCategory(instance)){
+                 if(currentInstance.isInstanceAgreeWithSelected(instance)){
+                     facebookPopulationInstances.push(instance)
+                 }
              }
          }
 
-         console.log(facebookPopulationInstances.length);
+        console.log(facebookPopulationInstances.length);
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
+        currentInstance.selectedOverallFacebookPopulationInstances = overallFacebookPopulationInstances;
         currentInstance.updateSumSelectedFacebookPopulation();
-        console.log(currentInstance.selectedFacebookPopulationSum)
+        console.log(currentInstance.selectedFacebookPopulationSum);
         console.log("Instances and Facebook Population Selected");
     }
 
     this.updateSumSelectedFacebookPopulation = function(){
-        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
-            var total = currentInstance.selectedFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+        if(currentInstance.selectedOverallFacebookPopulationInstances.length > 0){
+            var total = currentInstance.selectedOverallFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
             currentInstance.selectedFacebookPopulationSum = total;
         } else {
             currentInstance.selectedFacebookPopulationSum = 0;
@@ -138,10 +146,10 @@ function DataManager(){
     }
 
     this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
-        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
+        if(currentInstance.selectedOverallFacebookPopulationInstances.length > 0){
             var total = 0;
-            for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
-                var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
+            for(var instanceIndex in currentInstance.selectedOverallFacebookPopulationInstances){
+                var instance = currentInstance.selectedOverallFacebookPopulationInstances[instanceIndex];
                 if(instance.country_code == countryCode){
                     total += instance.audience;
                 }
@@ -180,9 +188,8 @@ function DataManager(){
         return true;
     };
     this.hasAllInAnyCategory = function(instance){
-        var categories = ["gender", "age_range", "scholarity", "citizenship"];
-        for(var categoryIndex in categories){
-            var categoryName = categories[categoryIndex];
+        for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
+            var categoryName = DEFAULT_CATEGORIES_NAMES[categoryIndex];
             if(instance[categoryName] == "ALL"){
                 return true;
             }
@@ -190,15 +197,14 @@ function DataManager(){
         return false;
     }
     this.isFacebookPopulationInstanceAgreeWithSelected = function(instance){
-        // var categories = treemapManager.getCategoriesNames();
-        var categories = ["gender", "age_range", "scholarity", "citizenship"];
-        for(var categoryIndex in categories){
-            var categoryName = categories[categoryIndex];
+        for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
+            var categoryName = DEFAULT_CATEGORIES_NAMES[categoryIndex];
+            //Check user selection
             if(categoryName in currentInstance.selectedCategoriesAndValues){
                 if(instance[categoryName] != currentInstance.selectedCategoriesAndValues[categoryName]){
                     return false;
                 }
-            }else{
+            } else{
                 if(instance[categoryName] != ALL_VALUE){
                     return false;
                 }
@@ -209,6 +215,8 @@ function DataManager(){
             if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
                 return false;
             }
+        } else{
+            //When no countries is selected, per default all instances are valid. (nothing to do here)
         }
         return true;
     }

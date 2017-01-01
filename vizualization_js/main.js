@@ -16,6 +16,7 @@ colorFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpo
 colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 ALL_VALUE = "ALL";
+DEFAULT_CATEGORIES_NAMES = ["gender", "age_range", "scholarity", "citizenship"];
 
 $(document).ready(function () {
     $(".loader").fadeIn();
