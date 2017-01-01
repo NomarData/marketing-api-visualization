@@ -368,7 +368,7 @@ class PandasDataset:
         self.delete_column("min_age")
         self.delete_column("placebo_query")
         self.delete_column("placebo_id")
-        self.delete_column("target_request")
+        # self.delete_column("target_request")
         self.delete_column("language")
         self.check_data_integrity_without_language()
         self.compress()
