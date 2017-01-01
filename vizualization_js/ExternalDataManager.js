@@ -47,7 +47,7 @@
                 var promise = defer.promise();
                 return promise;
             } else if(luxurySelection != null){
-                d3.csv("data/combinations/" + luxurySelection + ".csv", function(error, data) {
+                d3.csv("data/application_data/" + luxurySelection + ".csv", function(error, data) {
                     if(error){
                         throw Error("Error loading csv : " + error);
                     } else {
@@ -57,7 +57,7 @@
                 var promise = defer.promise();
                 return promise;
             }else if (healthSelection != null){
-                d3.csv("data/combinations/" + healthSelection + ".csv", function(error, data) {
+                d3.csv("data/application_data/" + healthSelection + ".csv", function(error, data) {
                     if(error){
                         throw Error("Error loading csv : " + error);
                     } else {
