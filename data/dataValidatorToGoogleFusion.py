@@ -148,7 +148,6 @@ class PandasDataset:
         for instance in instances_to_remove:
             print "Deleting", instance.name, len(self.data)
             self.data = self.data.drop(instance.name)
-        self.data.to_csv("after_drop_duplicates_clean_data_" + str(int(time.time())) +".csv")
 
 
     def check_data_integrity_without_language(self):
@@ -229,7 +228,6 @@ class PandasDataset:
         for instance in instances_to_remove:
             print "Deleting", instance.name, len(self.data)
             self.data = self.data.drop(instance.name)
-        self.data.to_csv("after_drop_duplicates_clean_data_" + str(int(time.time())) +".csv")
 
 
 
@@ -297,16 +295,16 @@ class PandasDataset:
     def save_denominator_file(self):
         print "Save denominator file"
         denominator_instances = self.data[self.data["is_denominator"]]
-        denominator_instances.to_csv("denominator_file.csv")
+        denominator_instances.to_csv("application_data/facebook_population.csv")
 
 
     def generate_file_for_combination(self,combination):
         if len(combination) == 2:
             filtered_dataframe = self.data[(self.data["topic"] == combination[0]) | (self.data["topic"] == combination[1])]
-            filtered_dataframe.to_csv("combinations/" + combination[0] + "-" + combination[1] + ".csv")
+            filtered_dataframe.to_csv("application_data/" + combination[0] + "-" + combination[1] + ".csv")
         elif len(combination) == 1:
             filtered_dataframe = self.data[(self.data["topic"] == combination[0])]
-            filtered_dataframe.to_csv("combinations/" + combination[0] + ".csv")
+            filtered_dataframe.to_csv("application_data/" + combination[0] + ".csv")
         else:
             import ipdb;ipdb.set_trace()
             raise Exception("No combination found")
@@ -399,8 +397,5 @@ if __name__ == '__main__':
         filepointer = open(args.input, "r")
         pd_dataset = PandasDataset(filepointer)
         pd_dataset.process_data()
-        pd_dataset.save_file("googlefusion.csv")
-        filter = {"topic" : ["health","luxury"]}
-        pd_dataset.export_json(filter,"data.json")
     else:
         raise Exception("No input data")
