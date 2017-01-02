@@ -210,17 +210,20 @@ function onClickCountryFunctionBy2LettersCode(_2_letters_code){
 function updateBtnColor(countryCode3Letters, color){
     var _2LetterCountryCode = convert3to2LettersCode(countryCode3Letters);
     var countryItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
-    return countryItem.css("background-color",color);
+    countryItem.css("background-color",color);
+    if(color == DEFAULT_MAP_ARAB_BACKGROUND_COLOR){
+        countryItem.css("text-decoration","");
+    } else {
+        countryItem.css("text-decoration","underline");
+    }
 }
 
 function onClickCountryFunction(countryItem){
     var countryCode2Letters = countryItem.data("code");
     if(dataManager.isCountryAlreadySelected(countryCode2Letters)){
-        countryItem.css("text-decoration","");
         dataManager.removeCountryCode(countryCode2Letters);
         countryItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
     } else{
-        countryItem.css("text-decoration","underline");
         dataManager.insertCountryCode(countryCode2Letters);
     }
     console.log(dataManager.selectedCountries_2letters);

@@ -363,6 +363,7 @@ function arabLeagueMap(){
         //Select All and Deselect All Behavior
         $("#selectedAllCountriesBtn").click(function(){
             dataManager.selectAllCountries();
+
         })
         $("#unSelectedAllCountriesBtn").click(function(){
             dataManager.deselectAllCountries();
