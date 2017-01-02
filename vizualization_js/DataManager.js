@@ -4,7 +4,6 @@ function DataManager(){
     this.selectedCategoriesAndValues = {};
     this.selected_instances = [];
     this.selectedFacebookPopulationInstances = [];
-    this.selectedOverallFacebookPopulationInstances = [];
     this.selectedHealth = healthTopics[3];
     this.selectedLuxury = luxuryTopics[4];
     this.selectedFacebookPopulationSum = 0;
@@ -105,7 +104,6 @@ function DataManager(){
          console.log("Selecting Instances")
         var instances = [];
         var facebookPopulationInstances = [];
-        var overallFacebookPopulationInstances = [];
 
         for(var indexData in currentData){
             var instance = currentData[indexData];
@@ -115,28 +113,25 @@ function DataManager(){
         }
          for(var indexFacebookPopulation in facebookPopulation){
              var instance = facebookPopulation[indexFacebookPopulation];
-             if(currentInstance.isFacebookPopulationInstanceAgreeWithSelected(instance)){
-                 overallFacebookPopulationInstances.push(instance)
-             }
              if(!currentInstance.hasAllInAnyCategory(instance)){
                  if(currentInstance.isInstanceAgreeWithSelected(instance)){
                      facebookPopulationInstances.push(instance)
                  }
              }
+
          }
 
         console.log(facebookPopulationInstances.length);
         currentInstance.selected_instances = instances;
         currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
-        currentInstance.selectedOverallFacebookPopulationInstances = overallFacebookPopulationInstances;
         currentInstance.updateSumSelectedFacebookPopulation();
         console.log(currentInstance.selectedFacebookPopulationSum);
         console.log("Instances and Facebook Population Selected");
     }
 
     this.updateSumSelectedFacebookPopulation = function(){
-        if(currentInstance.selectedOverallFacebookPopulationInstances.length > 0){
-            var total = currentInstance.selectedOverallFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
+            var total = currentInstance.selectedFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
             currentInstance.selectedFacebookPopulationSum = total;
         } else {
             currentInstance.selectedFacebookPopulationSum = 0;
@@ -146,10 +141,10 @@ function DataManager(){
     }
 
     this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
-        if(currentInstance.selectedOverallFacebookPopulationInstances.length > 0){
+        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
             var total = 0;
-            for(var instanceIndex in currentInstance.selectedOverallFacebookPopulationInstances){
-                var instance = currentInstance.selectedOverallFacebookPopulationInstances[instanceIndex];
+            for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
+                var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
                 if(instance.country_code == countryCode){
                     total += instance.audience;
                 }
