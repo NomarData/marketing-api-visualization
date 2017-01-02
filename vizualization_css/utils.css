@@ -61,3 +61,14 @@ a{
     color: #3B5998;
 }
 
+.btn-primary{
+    background-color: #3B5998;
+}
+
+.btn-primary:hover{
+    background-color: #324b80;
+}
+
+.thumbnail .caption{
+    color: #080808;
+}
