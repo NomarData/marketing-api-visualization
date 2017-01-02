@@ -73,7 +73,6 @@
         };
         this.updateCountriesList =function(data){
             // var promise = currentInstance.getPromiseListCountries();
-
                 var countries_code = [];
                 for(var instanceIndex in data){
                     var instance = data[instanceIndex];
@@ -81,17 +80,12 @@
                         countries_code.push(instance.country_code);
                     }
                 }
-                updateFilteringCountryCodeMap(countries_code);
+                var sortedListCountries = getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(countries_code);
                 var countriesListContainer = $("#countriesList");
                 countriesListContainer.empty();
-                for(var countriesIndex in countries_code){
-                    var country_code = countries_code[countriesIndex];
-                    try {
-                        convert2LettersCodeToName(country_code)
-                    } catch (err){
-                        continue
-                    }
-                    countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country_code +"\">" + convert2LettersCodeToName(country_code) + "</div>");
+                for(var countriesIndex in sortedListCountries){
+                    var country = sortedListCountries[countriesIndex];
+                    countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country._2letter_code +"\">" + country.name + "</div>");
                 }
         };
         this.setFacebookInitialPopulationList = function(instances){

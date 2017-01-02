@@ -5,71 +5,88 @@
 countryCodeMap = {
     "DZ"  : {
         "name" : "Algeria",
-        "_3letter_code" : "DZA"
+        "_3letter_code" : "DZA",
+        "_2letter_code" : "DZ"
     },
     "BH"  : {
         "name" : "Bahrain",
-        "_3letter_code" : "BHR"
+        "_3letter_code" : "BHR",
+        "_2letter_code" : "BH"
     },
     "EG"  : {
         "name" : "Egypt",
-        "_3letter_code" : "EGY"
+        "_3letter_code" : "EGY",
+        "_2letter_code" : "EG"
     },
     "IQ"  : {
         "name" : "Iraq",
-        "_3letter_code" : "IRQ"
+        "_3letter_code" : "IRQ",
+        "_2letter_code" : "IQ"
     },
     "JO"  : {
         "name" : "Jordan",
-        "_3letter_code" : "JOR"
+        "_3letter_code" : "JOR",
+        "_2letter_code" : "JO"
     },
     "KW"  : {
         "name" : "Kuwait",
-        "_3letter_code" : "KWT"
+        "_3letter_code" : "KWT",
+        "_2letter_code" : "KW"
     },
     "LB"  : {
         "name" : "Lebanon",
-        "_3letter_code" : "LBN"
+        "_3letter_code" : "LBN",
+        "_2letter_code" : "LB"
     },
     "LY"  : {
         "name" : "Libya",
-        "_3letter_code" : "LBY"
+        "_3letter_code" : "LBY",
+        "_2letter_code" : "LY"
     },
     "MA"  : {
         "name" : "Morocco",
-        "_3letter_code" : "MAR"
+        "_3letter_code" : "MAR",
+        "_2letter_code" : "MA"
     },
     "OM"  : {
         "name" : "Oman",
-        "_3letter_code" : "OMN"
+        "_3letter_code" : "OMN",
+        "_2letter_code" : "OM"
     },
     "PS"  : {
         "name" : "Palestine",
-        "_3letter_code" : "PSE"
+        "_3letter_code" : "PSE",
+        "_2letter_code" : "PS"
     },
     "QA"  : {
         "name" : "Qatar",
-        "_3letter_code" : "QAT"
+        "_3letter_code" : "QAT",
+        "_2letter_code" : "QA"
     },
     "SA"  : {
         "name" : "Saudi Arabia",
-        "_3letter_code" : "SAU"
+        "_3letter_code" : "SAU",
+        "_2letter_code" : "SA"
     },
     "SO"  : {
         "name" : "Somalia",
-        "_3letter_code" : "SOM"
+        "_3letter_code" : "SOM",
+        "_2letter_code" : "SO"
     },
     "TN"  : {
         "name" : "Tunisia",
-        "_3letter_code" : "TUN"
+        "_3letter_code" : "TUN",
+        "_2letter_code" : "TN"
     },
     "AE"  : {
         "name" : "United Arab Emirates",
-        "_3letter_code" : "ARE"
+        "_3letter_code" : "ARE",
+        "_2letter_code" : "AE"
     },
     "YE"  : {
         "name" : "Yemen",
-        "_3letter_code" : "YEM"
+        "_3letter_code" : "YEM",
+        "_2letter_code" : "YE"
     },
 };
 
@@ -232,6 +249,32 @@ function updateFilteringCountryCodeMap(list_country_codes){
             delete countryCodeMap[countryCode];
         }
     }
+}
+
+function getCountriesGivenCodes(listCountryCodes){
+    var listCountries = [];
+    for(var countryIndex in listCountryCodes){
+        var countryCode = listCountryCodes[countryIndex];
+        if(countryCode in countryCodeMap){
+            listCountries.push(countryCodeMap[countryCode]);
+        }
+    }
+    return listCountries
+}
+
+function sortDictListGivenAttribute(list, attribute) {
+    return list.sort(function(a, b) {
+        var x = a[attribute]; var y = b[attribute];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+}
+
+function getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(list_country_codes){
+    updateFilteringCountryCodeMap(list_country_codes);
+    var list_countries = getCountriesGivenCodes(list_country_codes);
+    var sortedListCountries = sortDictListGivenAttribute(list_countries,"name");
+    return sortedListCountries;
+
 }
 
 
