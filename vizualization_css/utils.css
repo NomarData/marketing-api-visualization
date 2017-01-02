@@ -37,3 +37,27 @@ ul.share-buttons img{
 svg{
     overflow: hidden;
 }
+
+.subHeader{
+    margin-top:18px;
+    font-size: 22px;
+}
+.facebookHighlight{
+    font-weight: bold;
+    color: #3B5998;
+}
+.facebookHighlight:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: #3B5998;
+}
+.facebookHighlight:focus{
+    text-decoration: none;
+    font-weight: bold;
+    color: #3B5998;
+}
+
+a{
+    color: #3B5998;
+}
+
