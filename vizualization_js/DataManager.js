@@ -190,30 +190,6 @@ function DataManager(){
             }
         }
         return false;
-    }
-    this.isFacebookPopulationInstanceAgreeWithSelected = function(instance){
-        for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
-            var categoryName = DEFAULT_CATEGORIES_NAMES[categoryIndex];
-            //Check user selection
-            if(categoryName in currentInstance.selectedCategoriesAndValues){
-                if(instance[categoryName] != currentInstance.selectedCategoriesAndValues[categoryName]){
-                    return false;
-                }
-            } else{
-                if(instance[categoryName] != ALL_VALUE){
-                    return false;
-                }
-            }
-        }
-        //Check Country code
-        if(currentInstance.selectedCountries_2letters.length > 0){
-            if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
-                return false;
-            }
-        } else{
-            //When no countries is selected, per default all instances are valid. (nothing to do here)
-        }
-        return true;
-    }
+    };
 }
 

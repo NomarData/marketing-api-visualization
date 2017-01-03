@@ -80,7 +80,7 @@
                         countries_code.push(instance.country_code);
                     }
                 }
-                var sortedListCountries = getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(countries_code);
+                var sortedListCountries = currentInstance.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(countries_code);
                 var countriesListContainer = $("#countriesList");
                 countriesListContainer.empty();
                 for(var countriesIndex in sortedListCountries){
@@ -104,6 +104,14 @@
             });
             // console.log("Parsing done")
             currentData = parsedInstances;
+        };
+
+        this.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName = function(list_country_codes){
+            updateFilteringCountryCodeMap(list_country_codes);
+            var list_countries = getCountriesGivenCodes(list_country_codes);
+            var sortedListCountries = sortDictListGivenAttribute(list_countries,"name");
+            return sortedListCountries;
+
         };
 
         this.init = function(){};

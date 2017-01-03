@@ -133,7 +133,7 @@ function buildAndInitVisualComponents(){
     treemapManager = new TreemapManager();
     luxuriousHealthBar = new stackedHorizontalBar();
     inclinationScore = new InclinationScore();
-    arabMap = new arabLeagueMap();
+    arabMap = new arabLeagueDatamap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     console.log("Builded visual components");
@@ -272,13 +272,6 @@ function sortDictListGivenAttribute(list, attribute) {
     });
 }
 
-function getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(list_country_codes){
-    updateFilteringCountryCodeMap(list_country_codes);
-    var list_countries = getCountriesGivenCodes(list_country_codes);
-    var sortedListCountries = sortDictListGivenAttribute(list_countries,"name");
-    return sortedListCountries;
-
-}
 
 
 function updateSocialLinkFields(){

@@ -2,17 +2,17 @@ DEFAULT_MAP_ARAB_BACKGROUND_COLOR = "rgb(204, 204, 204)";
 DEFAULT_MAP_NOT_ARAB_BACKGROUND_COLOR = "#FDFDFD";
 DEFAULT_BORDER_COLOR = "#D1D1D1";
 
-
-function CountriesDataDatamap(){
+function datamapDataLayer(){
     var currentInstance = this;
     this.countries = {};
-
-    Datamap.prototype.worldTopo.objects.world.geometries.map(function(country){
-        currentInstance.countries[country.id] = {
+    this.init = function(){
+        Datamap.prototype.worldTopo.objects.world.geometries.map(function(country){
+            currentInstance.countries[country.id] = {
                 jewelAudience: 0,
                 healthAudience: 0,
             }
         });
+    };
 
     this.empty = function(){
         for(var country in currentInstance.countries) {
@@ -24,16 +24,12 @@ function CountriesDataDatamap(){
     };
 
     this.addInstance = function(instance){
-        var country_code = instance.country_code;
-        if(country_code.length == 2){
-            country_code = convert2to3LettersCode(country_code);
-        }
+        var countryCode_3letter = convert2to3LettersCode(instance.country_code);
         try {
-            if (getInstancePolarity(instance) == 1) currentInstance.countries[country_code].healthAudience += instance.audience;
-            else currentInstance.countries[country_code].jewelAudience += instance.audience;
+            if (getInstancePolarity(instance) == 1) currentInstance.countries[countryCode_3letter].healthAudience += instance.audience;
+            else currentInstance.countries[countryCode_3letter].jewelAudience += instance.audience;
         } catch (err){
-            if(country_code == "BHR") console.log("Ignore Bahrein for now");
-            else throw Error("Country code not found:" + country_code);
+            throw Error("Country code not found:" + countryCode_3letter);
         }
 
 
@@ -60,7 +56,6 @@ function CountriesDataDatamap(){
             }
     };
     this.getCountryAudience = function(country){
-        // var audience =  (currentInstance.countries[country].healthAudience + currentInstance.countries[country].jewelAudience);
         var _2letterCode = convert3to2LettersCode(country);
         return dataManager.getSumSelectedFacebookPopulationByCountry(_2letterCode);
     };
@@ -95,21 +90,44 @@ function CountriesDataDatamap(){
 
 
         return dataColor;
-    }
+    };
+    this.init();
 }
 
-countriesDataDatamap = new CountriesDataDatamap(); //Put this in a better place
-
-
-function emptyCountriesDatamap(){
-
-}
-
-function arabLeagueMap(){
+function arabLeagueDatamap(){
     var currentInstance = this;
+    this.data = {};
     this.datamap = null;
     this.qatarBahreinDatamap = null;
     this.tooltipMargin = 10;
+    this.geographyConfig = {
+        dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
+        hideAntarctica: true,
+        borderWidth: 1,
+        borderOpacity: 1,
+        borderColor: DEFAULT_BORDER_COLOR,
+        responsive: true,
+        popupTemplate: function(geography, data) { //this function should just return a string
+            currentInstance.removeHoverIfNotArabCountry(geography);
+            if(isArabCountryCode3Letters(geography.id)){
+                return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+            } else{
+                return null;
+            }
+
+        },
+        popupOnHover: false, //disable the popup while hovering
+        highlightOnHover: false,
+        highlightFillColor: 'rgb(0, 0, 0, 0)',
+        highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
+        highlightBorderWidth: 2,
+        highlightBorderOpacity: 1,
+    };
+
+    this.fills = {
+        defaultFill: "rgb(247, 247, 247)",
+    };
+
     this.setProjection = function(element){
         var projection = d3.geo.equirectangular()
             .center([25, 24])
@@ -137,41 +155,9 @@ function arabLeagueMap(){
         }
     };
 
-    this.geographyConfig = {
-        dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
-            hideAntarctica: true,
-            borderWidth: 1,
-            borderOpacity: 1,
-            borderColor: DEFAULT_BORDER_COLOR,
-            responsive: true,
-            popupTemplate: function(geography, data) { //this function should just return a string
-                currentInstance.removeHoverIfNotArabCountry(geography);
-                if(isArabCountryCode3Letters(geography.id)){
-                    return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
-                } else{
-                    return null;
-                }
-
-        },
-        popupOnHover: false, //disable the popup while hovering
-        highlightOnHover: false,
-        highlightFillColor: 'rgb(0, 0, 0, 0)',
-        highlightBorderColor: 'rgba(0, 0, 0, 0.2)',
-        highlightBorderWidth: 2,
-        highlightBorderOpacity: 1,
-    }
-
-    this.fills = {
-        defaultFill: "rgb(247, 247, 247)",
-    };
-
-    this.updateRandomColors = function(){
-
-    };
-
-    this.data = {};
-
     this.init = function(){
+        countriesDataDatamap = new datamapDataLayer();
+
         var elementContainer = $("#arabLeagueMapDiv");
         var datamap = new Datamap({
             element: elementContainer[0],
@@ -292,65 +278,19 @@ function arabLeagueMap(){
             d3.select("#tooltip-countries  #luxuryAudienceCountryTooltip")
                 .text(convertIntegerToReadable(countryData.jewelAudience));
         }
-
-
-
-
     };
+
     this.mouseoutTooltip = function(d){
         d3.select("#tooltip-countries").classed("hidden", true);
     };
-
-    this.selectCountryInMap = function(){
-        var countryItem = $(".countryItem")
-    };
-
-    this.updateCountriesColor = function (dataColor){
-        var countriesPaths = $(".datamaps-subunit");
-        for(var countryCode in dataColor){
-            var countryPath = countriesPaths.filter("." + countryCode);
-            countryPath.css("fill",dataColor[countryCode]);
-        }
-    };
-
-    this.getDataField = function (dataColor) {
-        var dataField = {};
-        for(var countryCode in dataColor){
-            dataField[countryCode] = {"fillKey" : countryCode};
-        }
-        return dataField
-    };
-
 
     this.updateData = function(){
         var instances = dataManager.getSelectedInstances();
         countriesDataDatamap.empty();
         countriesDataDatamap.addInstances(instances);
         var dataColor = countriesDataDatamap.getDataMapColor();
-        // currentInstace.updateCountriesColor(dataColor);
-        // var dataField = currentInstace.getDataField(dataColor);
-        // currentInstace.datamap.fills = dataColor;
         currentInstance.datamap.updateChoropleth(dataColor,{reset:true});
         currentInstance.qatarBahreinDatamap.updateChoropleth(dataColor,{reset:true});
-    }
-
-    this.giveLife = function(){
-        var datamap = currentInstance.datamap;
-
-        window.setInterval(function() {
-            // debugger
-            currentInstance.updateRandomColors();
-            datamap.bubbles([
-                {name: 'Bubble 1', latitude: 21.32, longitude: -7.32, radius: 45*Math.random(), fillKey: 'gt500'},
-                {name: 'Bubble 2', latitude: 12.32, longitude: 27.32, radius: 25*Math.random(), fillKey: 'eq0'},
-                {name: 'Bubble 3', latitude: 0.32, longitude: 23.32, radius: 35*Math.random(), fillKey: 'lt25'},
-                {name: 'Bubble 4', latitude: -31.32, longitude: 23.32, radius: 55*Math.random(), fillKey: 'eq50'},
-            ], {
-                popupTemplate: function(geo, data) {
-                    return "<div class='hoverinfo'>Bubble for " + data.name + "</div>";
-                }
-            });
-        }, 2000);
     };
 
     this.initCountriesBtns = function () {
@@ -364,13 +304,13 @@ function arabLeagueMap(){
         $("#selectedAllCountriesBtn").click(function(){
             dataManager.selectAllCountries();
 
-        })
+        });
         $("#unSelectedAllCountriesBtn").click(function(){
             dataManager.deselectAllCountries();
-        })
+        });
 
         $(".loader").fadeOut();
-    }
+    };
 
     this.init();
 }
