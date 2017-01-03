@@ -9,7 +9,6 @@ function DataManager(){
     this.selectedFacebookPopulationSum = 0;
     this.loader = $(".loader");
 
-
     this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
         var total = 0;
         for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){

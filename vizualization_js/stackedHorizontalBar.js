@@ -119,16 +119,6 @@ function stackedHorizontalBar(){
 
         d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
             .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
-        //
-        // d3.select("#tooltip-treemap #luxuryAudienceTooltip")
-        //     .text(currentInstance.getFormattedAudience(d.luxuryAudience));
-        //
-        // d3.select("#tooltip-treemap #healthAudienceTooltip")
-        //     .text(currentInstance.getFormattedAudience(d.healthAudience));
-        //
-        // d3.select("#tooltip-treemap #fbPopulationTooltip")
-        //     .text(currentInstance.getFormattedAudience(d.fbPopulation));
-
     };
     this.mouseClick = function(d){
         if(d.score > 0){
