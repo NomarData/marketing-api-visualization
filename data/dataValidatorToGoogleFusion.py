@@ -3,10 +3,17 @@ import pandas as pd
 import itertools
 import time
 import sys
+import zipfile
+import os
 
 NULL_VALUE = "NOTSELECTED"
 ALL_VALUE = "ALL"
 
+def zipdir(path, ziph):
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            ziph.write(os.path.join(root, file))
 
 class PandasDataset:
     expat_counter = 0
@@ -332,6 +339,12 @@ class PandasDataset:
     def remove_all_languages(self):
         self.data = self.data[self.data["language"] == NULL_VALUE]
 
+    def zip_folder(self):
+        print "Saving zipped folder"
+        zipf = zipfile.ZipFile('data.zip', 'w', zipfile.ZIP_DEFLATED)
+        zipdir('application_data/', zipf)
+        zipf.close()
+
 
     def process_data(self):
         self.rename_column("exclusion_behavior", "citizenship")
@@ -374,6 +387,7 @@ class PandasDataset:
         self.compress()
         self.generate_combinations_files()
         self.save_denominator_file()
+        self.zip_folder()
 
     def save_file(self,filename):
         print "Saving file: {}".format(filename)

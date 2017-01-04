@@ -59,6 +59,7 @@ svg{
 
 a{
     color: #3B5998;
+    font-weight: bold;
 }
 
 .btn-primary{
@@ -71,4 +72,28 @@ a{
 
 .thumbnail .caption{
     color: #080808;
+}
+.tutorial-img{
+    max-height: 300px;
+    width: auto;
+}
+.tutorial-step{
+    margin-bottom: 10px;
+}
+.tutorial-objectives{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.step-number{
+    color: #3B5998;
+    font-weight: bold;
+}
+
+.good{
+    color: darkgreen;
+    font-weight: bold;
+}
+.bad{
+    color: darkred;
+    font-weight: bold;
 }

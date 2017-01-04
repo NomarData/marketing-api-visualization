@@ -35,16 +35,91 @@
                 </a>
             </div>
             <div class="span12">
-                <dl class="dl-horizontal">
-                    <dt>Objectives :</dt>
-                    <dd>Sed a lectus nisi. In varius, dolor et suscipit vestibulum, tellus arcu imperdiet felis, tempor vulputate erat arcu vitae ligula. Etiam et orci vel tortor fermentum mollis non sed nunc. Mauris mollis urna quis diam interdum porta. In dapibus congue iaculis. Phasellus dui lacus, venenatis eu bibendum et, maximus non elit. Nulla eget quam ut tellus ultrices vulputate ac sit amet metus. Curabitur non ante fringilla nunc condimentum posuere. Nunc ut erat sit amet elit vestibulum condimentum vel et enim. Ut sit amet auctor neque. Nunc ut luctus metus. Maecenas nec nibh sed nunc cursus pretium. Ut varius rutrum dapibus.</dd>
-                    <dt>How to use it:</dt>
-                    <dd>Mauris sit amet lorem vel ligula commodo porta a in ipsum. In at est laoreet elit elementum dictum. Maecenas facilisis vulputate odio quis volutpat. Phasellus tincidunt augue eu dictum pellentesque. Etiam fringilla dapibus hendrerit. Integer ut elit id diam consectetur rhoncus. Phasellus nunc nisi, eleifend sit amet imperdiet in, interdum eu odio. Curabitur sed tellus porttitor, tristique diam in, lacinia massa. Nunc ligula leo, pulvinar eget vehicula ac, suscipit vitae metus. Proin non volutpat leo, quis condimentum diam. Fusce pretium urna nec posuere blandit. Aliquam rhoncus metus ut nisl rhoncus, a hendrerit quam sodales. Donec aliquet consectetur ligula ut auctor.</dd>
-                    <dt>About the Data:</dt>
-                    <dd>Integer ante lorem, ultricies sed luctus vitae, fringilla at sapien. Nullam auctor leo in felis bibendum blandit. Maecenas congue vitae nisi at vestibulum. Morbi ac quam elit. Duis convallis bibendum iaculis. Proin sodales pretium tincidunt. Pellentesque vulputate fermentum sodales. Nulla scelerisque lacus diam, id eleifend ex laoreet eu. Suspendisse at porta ex. Suspendisse neque erat, dictum non sapien in, rutrum mattis justo. Aenean eget quam vitae ex ornare condimentum ac id est. Praesent consectetur vel ex a mattis. Integer tristique metus mauris, nec faucibus mauris dignissim sit amet. Vestibulum semper pellentesque est at pretium.</dd>
+                <div class="row tutorial-objectives">
+                    <div class="span2">
+                        <strong>Objectives :</strong>
+                    </div>
+                    <div class="span10">
+                        <p>Our tool was created to allow users to explore the rich demographic detailed data provided by <a href="https://www.facebook.com/business/products/ads" class="facebookHighlight">Facebook Marketing API</a> in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</p>
 
-                </dl>
+                    </div>
+                </div>
+                <hr/>
+                <div class="row tutorial-step">
+                    <div class="span2">
+                        <strong>Download the Data:</strong>
+                    </div>
+                    <div class="span10">
+                        You can download all the data used in this project <a href="data/data.zip">here.</a>
+                    </div>
+                </div>
+                <hr/>
+                <div class="row tutorial-step">
+                    <div class="span2">
+                        <strong>How to use it:</strong>
+                    </div>
+                    <div class="span4">
+                        <p><span class="step-number">1) </span>First of all, select the topics of interest you want to compare through the application.</p>
+                        <p>In the figure aside we see the comparison between the number of people who are interested in Obesity Awareness related pages on Facebook compared to people who are interested in Fast Food related pages.</p>
+                        <p>You can <strong>toggle</strong> the topic selection by clicking on it.</p>
+                    </div>
+                    <div class="span6">
+                        <img width="100%" class="tutorial-img" src="imgs/about/topic_selection.png">
+                    </div>
+                </div>
+                <div class="row tutorial-step">
+                    <div class="span4 offset2">
+                        <p><span class="step-number">2) </span>
+                            This status bar represents a number of people on Facebook who has shown interest in <span class="good">health-related</span> pages (left sided) and <span class="bad">luxury-related</span> pages (right sided topics) compared to the total number of Facebook users.</p>
+                        <p>The score in the top is the overall score of the application status. If it is positive, in average people who match the countries and demographic categories selected are more interested in <span class="good">health-related</span> pages. The contrary happens if the score is negative.</p>
+                        <p>The intensity is calculated based on the number of people who likes the selected topic related pages divide by the number of people in Facebook following the current selection of the application.</p>
+                    </div>
+                    <div class="span6">
+                        <img width="100%" class="tutorial-img" src="imgs/about/bar.png">
+                    </div>
+                </div>
+                <div class="row tutorial-step">
+                    <div class="span4 offset2">
+                        <p><span class="step-number">3) </span> In the map, you can select the countries that will be included in the visualization by clicking on them. You can use the buttons on right to make easy the selection.</p>
+                        <p>The buttons will receive the same color of the countries.</p>
+                    </div>
+                    <div class="span6">
+                        <img width="100%" class="tutorial-img" src="imgs/about/countries.png">
+                    </div>
+                </div>
+                <div class="row tutorial-step">
+                    <div class="span4 offset2">
+                        <p><span class="step-number">4) </span>
+                            The treemaps are a powerful tool where you can filter and explore the data you are visualizing based on <strong>gender, age range, scholarity and citizenship</strong>.</p>
+                        <p><strong>Click in each treemap's tile</strong> to filter the visualization.</p>
+                        <p>The application will dynamically update it's status on the others treemaps, map, and horizontal bar score.</p>
+
+                    </div>
+                    <div class="span6">
+                        <img width="100%" class="tutorial-img" src="imgs/about/treemap.png">
+                    </div>
+                </div>
+                <div class="row tutorial-step">
+                    <div class="span4 offset2">
+                        <p><span class="step-number">Use case example: </span></p>
+                        <p>
+                            In this case, we are visualizing how people in Golf Arabic region are interested in <span class="good">Health Care</span> and <span class="bad">Buy Cars or Vehicles</span>.
+                            The treemaps are selected to show people who have graduated, are locals and have age between 25 and 44 years old. We can infer that:
+                            <ul>
+                                <li>Women are much more interested in Health Care than men.</li>
+                                <li>Saudi Arabia and Yemen are more interested in Health Care or less interested in buying cars.</li>
+                            </ul>
+                        <p>Click here to see it in the application <a href="index.html?health=health+care&luxury=cars+vehicles&country=BH-KW-OM-QA-SA-AE-YE-JO&age_range=25-44&scholarity=GRAD&citizenship=Locals">link</a>.</p>
+                    </div>
+                    <div class="span6">
+                        <img width="100%" class="tutorial-img" src="imgs/about/study_case.png">
+                    </div>
+                </div>
             </div>
+        </div>
+        <hr/>
+        <div class="text-center">
+            <h2>About the authors:</h2>
         </div>
         <ul class="row thumbnails">
             <li class="span3">
