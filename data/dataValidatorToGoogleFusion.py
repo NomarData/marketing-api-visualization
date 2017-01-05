@@ -29,9 +29,9 @@ class PandasDataset:
             return "{}-{}".format(int(float(min_age)), int(float(max_age)))
 
     @staticmethod
-    def get_pandas_dataset_from_file(filepointer):
+    def get_pandas_dataset_from_file_name(name):
         print "Reading data..."
-        return pd.read_csv(filepointer.name)
+        return pd.read_csv(name)
 
     def get_expat_row(self, row_with_all, rows_with_locals):
         print "Get Expat Row: {}".format(self.expat_counter)
@@ -39,7 +39,7 @@ class PandasDataset:
         expat_row = row_with_all.copy()
         expat_row["citizenship"] = "Expats"
 
-        same_necessary_columns = ["scholarity","interest","country_code","gender","language","min_age","max_age"]
+        same_necessary_columns = ["scholarity","interest","country_code","gender","languages","min_age","max_age"]
         for column in same_necessary_columns:
             rows_with_locals = rows_with_locals[rows_with_locals[column] == row_with_all[column]]
         if len(rows_with_locals) != 1:
@@ -88,7 +88,7 @@ class PandasDataset:
             "topic" : self.data["topic"].unique(),
             "age_range" : self.data["age_range"].unique(),
             "scholarity" : self.data["scholarity"].unique(),
-            "language" : self.data["language"].unique(),
+            "languages" : self.data["languages"].unique(),
             "gender" : self.data["gender"].unique(),
             "citizenship": self.data["citizenship"].unique(),
             "is_denominator": self.data["is_denominator"].unique(),
@@ -104,8 +104,8 @@ class PandasDataset:
                 topic_instances = country_instances[topic == country_instances["topic"]]
                 for scholarity in list_of_categories["scholarity"]:
                     scholarity_instances = topic_instances[scholarity == topic_instances["scholarity"]]
-                    for language in list_of_categories["language"]:
-                        language_instances = scholarity_instances[language == scholarity_instances["language"]]
+                    for language in list_of_categories["languages"]:
+                        language_instances = scholarity_instances[language == scholarity_instances["languages"]]
                         for gender in list_of_categories["gender"]:
                             gender_instances = language_instances[gender == language_instances["gender"]]
                             for citizenship in list_of_categories["citizenship"]:
@@ -132,8 +132,8 @@ class PandasDataset:
             country_instances = self.data[country_code == self.data["country_code"]]
             for scholarity in list_of_categories["scholarity"]:
                 scholarity_instances = country_instances[scholarity == country_instances["scholarity"]]
-                for language in list_of_categories["language"]:
-                    language_instances = scholarity_instances[language == scholarity_instances["language"]]
+                for language in list_of_categories["languages"]:
+                    language_instances = scholarity_instances[language == scholarity_instances["languages"]]
                     for gender in list_of_categories["gender"]:
                         gender_instances = language_instances[gender == language_instances["gender"]]
                         for citizenship in list_of_categories["citizenship"]:
@@ -164,7 +164,7 @@ class PandasDataset:
             self.data = self.data.drop(instance.name)
 
 
-    def check_data_integrity_without_language(self):
+    def check_data_integrity_without_languages(self):
         print "Checking Data Integrity..."
         list_of_categories = {
             "country_code": self.data["country_code"].unique(),
@@ -273,11 +273,11 @@ class PandasDataset:
 
     def convert_language_to_language_group(self):
         print "Converting language to language group"
-        self.replace_specific_key_value("language", "French (All)", "French")
-        self.replace_specific_key_value("language","English (All)","English")
-        self.replace_specific_key_value("language", "Spanish (All),Portuguese (All),Italian,German", "European")
-        self.replace_specific_key_value("language", "Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala", "Indian")
-        self.replace_specific_key_value("language", "Indonesian,Filipino,Malayalam,Thai", "SE Asia")
+        self.replace_specific_key_value("languages", "French (All)", "French")
+        self.replace_specific_key_value("languages","English (All)","English")
+        self.replace_specific_key_value("languages", "Spanish (All),Portuguese (All),Italian,German", "European")
+        self.replace_specific_key_value("languages", "Hindi,Urdu,Bengali,Tamil,Nepali,Punjabi,Telugu,Sinhala", "Indian")
+        self.replace_specific_key_value("languages", "Indonesian,Filipino,Malayalam,Thai", "SE Asia")
         print len(self.data)
 
     def delete_all_unnamed_columns(self):
@@ -337,7 +337,12 @@ class PandasDataset:
             self.generate_file_for_combination((interest,))
 
     def remove_all_languages(self):
-        self.data = self.data[self.data["language"] == NULL_VALUE]
+        self.data = self.data[self.data["languages"] == NULL_VALUE]
+        print "Removing All Languages"
+
+    def remove_all_citizenship(self):
+        self.data = self.data[self.data["citizenship"] != NULL_VALUE]
+        print "Removing All Citizenship"
 
     def zip_folder(self):
         print "Saving zipped folder"
@@ -347,12 +352,13 @@ class PandasDataset:
 
 
     def process_data(self):
-        self.rename_column("exclusion_behavior", "citizenship")
+        self.rename_column("behavior", "citizenship")
         self.rename_column("analysis_name", "topic")
         self.data = self.data.drop_duplicates()
         self.check_not_permitted_empty_values()
         self.replace_null_values()
         self.remove_all_languages()
+        self.remove_all_citizenship()
         self.delete_specific_key_value("gender", 0)
         self.delete_specific_key_value("topic", "all health")
         self.delete_specific_key_value("citizenship", "NOTSELECTED")
@@ -365,10 +371,10 @@ class PandasDataset:
                                         "HS")
         self.replace_specific_key_value("scholarity",
                                         "ALUM,IN_GRAD_SCHOOL,SOME_GRAD_SCHOOL,MASTER_DEGREE,DOCTORATE_DEGREE", "GRAD")
-        self.replace_specific_key_value("citizenship", 6015559470580, "Locals")
+        self.replace_specific_key_value("citizenship", "{u'not': [6015559470583], u'name': u'Locals'}", "Locals")
+        self.replace_specific_key_value("citizenship", "{u'or': [6015559470583], u'name': u'Expats'}", "Expats")
         self.delete_specific_key_value("scholarity","None")
 
-        self.insert_expats_native_rows()
 
         self.insert_age_range_column()
         self.replace_specific_key_value("age_range", "18+", "ALL")
@@ -382,8 +388,8 @@ class PandasDataset:
         self.delete_column("placebo_query")
         self.delete_column("placebo_id")
         # self.delete_column("target_request")
-        self.delete_column("language")
-        self.check_data_integrity_without_language()
+        self.delete_column("languages")
+        self.check_data_integrity_without_languages()
         self.compress()
         self.generate_combinations_files()
         self.save_denominator_file()
@@ -407,7 +413,13 @@ class PandasDataset:
         self.data.to_csv("new_dataset.csv")
 
     def __init__(self, filepointer):
-        self.data = self.get_pandas_dataset_from_file(filepointer)
+        self.data = self.get_pandas_dataset_from_file_name(filepointer.name)
+        # self.data2 = self.get_pandas_dataset_from_file_name("expats_direct.csv")
+        # self.data  =self.data.append(self.data2)
+        # self.rename_column("exclusion_behavior","behavior")
+        # self.replace_specific_key_value("behavior",6015559470580, "{u'not': [6015559470583], u'name': u'Locals'}")
+        # self.data.to_csv("final.csv")
+        # sys.exit(0)
 
 
 if __name__ == '__main__':
