@@ -47,30 +47,6 @@
             <div class="span12 text-center warning hidden" id="alertCouldntParseParams">
                 Sorry, we couldn't parse yours parameters. Default parameters were applied.
             </div>
-            <div class="span12 text-center">
-                <!--&lt;!&ndash; Load Facebook SDK for JavaScript &ndash;&gt;-->
-                <!--<div id="fb-root"></div>-->
-                <!--<script>(function(d, s, id) {-->
-                    <!--var js, fjs = d.getElementsByTagName(s)[0];-->
-                    <!--if (d.getElementById(id)) return;-->
-                    <!--js = d.createElement(s); js.id = id;-->
-                    <!--js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";-->
-                    <!--fjs.parentNode.insertBefore(js, fjs);-->
-                <!--}(document, 'script', 'facebook-jssdk'));</script>-->
-
-                <!--&lt;!&ndash; Your share button code &ndash;&gt;-->
-                <!--<div class="fb-share-button share-buttons"-->
-                     <!--data-size = "large">-->
-                <!--</div>-->
-                <div>
-                    <p>Share what you see:</p>
-                </div>
-                <ul class="share-buttons">
-                    <li><a id="facebookShareLink" href="https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="imgs/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
-                    <li><a id="twitterShareLink" href="https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK" target="_blank" title="Tweet"><img alt="Tweet" src="imgs/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
-                    <li><a id="emailShareLink" href="mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK" target="_blank" title="Send email"><img alt="Send email" src="imgs/social_flat_rounded_rects_svg/Email.svg"></a></li>
-                </ul>
-            </div>
             <div class="span12">
                 <dl class="dl-horizontal">
                     <dt>Description:</dt>
@@ -257,13 +233,21 @@
                         <div id="unSelectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
                             No countries
                         </div>
+                        <div class="span6 text-center socialLinks">
+                            <div>
+                                <p>Share what you see:</p>
+                            </div>
+                            <ul class="share-buttons">
+                                <li><a id="facebookShareLink" href="https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="imgs/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
+                                <li><a id="twitterShareLink" href="https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK" target="_blank" title="Tweet"><img alt="Tweet" src="imgs/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
+                                <li><a id="emailShareLink" href="mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK" target="_blank" title="Send email"><img alt="Send email" src="imgs/social_flat_rounded_rects_svg/Email.svg"></a></li>
+                            </ul>
+                        </div>
                     </div>
             </div>
             <div class="span1">
                 <div id="countriesList">
                 </div>
-                <!--<ul class="list-unstyled" id="countries_list">-->
-                <!--</ul>-->
             </div>
         </div>
         <div class="row hidden">
@@ -312,7 +296,6 @@
                 </div>
             </div>
         </div>
-
     </div>
     <!--  Libraries Imported -->
     <script src="bootstrap/js/jquery.min.js" rel="stylesheet"></script>
@@ -323,6 +306,7 @@
     <script src="vizualization_js/datamaps.all.hires.min.js"></script>
     <script src="vizualization_js/numeral.js"></script>
     <!--  Custom Files -->
+    <script src="vizualization_js/constants.js"></script>
     <script src="vizualization_js/utils.js"></script>
     <script src="vizualization_js/ExternalDataManager.js"></script>
     <script src="vizualization_js/DataManager.js"></script>
@@ -330,7 +314,6 @@
     <script src="vizualization_js/SharebleLink.js"></script>
     <script src="vizualization_js/stackedHorizontalBar.js"></script>
     <script src="vizualization_js/arabLeagueMap.js"></script>
-    <script src="vizualization_js/constants.js"></script>
     <script src="vizualization_js/inclinationScore.js"></script>
     <script src="vizualization_js/treemapManager.js"></script>
     <script src="vizualization_js/btnsTopicsSelectors.js"></script>

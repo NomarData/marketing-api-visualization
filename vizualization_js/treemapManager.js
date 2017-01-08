@@ -179,24 +179,7 @@ function TreemapManager(){
     }
 
 
-    this.getAverageSelectedInclination = function(){
-        var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
-        if(dataManager.selectedCountries_2letters.length == 0){
-            return averageInclination;
-        } else{
-            var selectedInstances = dataManager.getSelectedInstances();
-            // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
-            var total = dataManager.selectedFacebookPopulationSum;
-            averageInclination.greenAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
-            averageInclination.redAudience =  selectedInstances.map( function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0}).reduce(function (total, num) { return total + num});
-            averageInclination.greenInclination = averageInclination.greenAudience / total;
-            averageInclination.redInclination = averageInclination.redAudience  / total;
-            // averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
-            averageInclination.average = averageInclination.greenInclination - averageInclination.redInclination;
-            return averageInclination
-        }
 
-    };
     this.updateLuxuriousHealthBar = function(){
         // var luxuriousHealthData = this.getAverageSelectedInclination();
         // luxuriousHealthBar.updateData(luxuriousHealthData);

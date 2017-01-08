@@ -56,13 +56,13 @@ function stackedHorizontalBar(){
     }
 
     this.updateData = function(){
-        var data = treemapManager.getAverageSelectedInclination();
+        var data = dataManager.getAverageSelectedInclination();
         var svg = currentInstance.svg;
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
 
 
-        currentInstance.updateDomain(dataManager.selectedFacebookPopulationSum);
+        currentInstance.updateDomain(dataManager.selectedFbDemographicSum);
         $(".x.axis").remove();
         currentInstance.svg.append("g")
             .attr("class", "x axis")
@@ -115,7 +115,7 @@ function stackedHorizontalBar(){
             .text(currentInstance.getFormattedAudience(d.audience));
 
         d3.select("#tooltip-stackedbar #fbTotalAudienceSelectedStackedBar")
-            .text(currentInstance.getFormattedAudience(dataManager.selectedFacebookPopulationSum));
+            .text(currentInstance.getFormattedAudience(dataManager.selectedFbDemographicSum));
 
         d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
             .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
@@ -151,7 +151,7 @@ function stackedHorizontalBar(){
         var data = this.data;
         var height = this.height;
 
-        var averageInclination = treemapManager.getAverageSelectedInclination();
+        var averageInclination = dataManager.getAverageSelectedInclination();
         var data = [{
             name: "Health Inclination",
             greenValue: averageInclination.greenInclination,

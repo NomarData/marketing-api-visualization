@@ -2,17 +2,17 @@ function DataManager(){
     var currentInstance = this;
     this.selectedCountries_2letters = [];
     this.selectedCategoriesAndValues = {};
-    this.selected_instances = [];
-    this.selectedFacebookPopulationInstances = [];
+    this.selectedInstances = [];
+    this.selectedFbDemographicInstances = [];
     this.selectedHealth = healthTopics[3];
     this.selectedLuxury = luxuryTopics[4];
-    this.selectedFacebookPopulationSum = 0;
+    this.selectedFbDemographicSum = 0;
     this.loader = $(".loader");
 
     this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
         var total = 0;
-        for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
-            var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
+        for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
+            var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
             if(instance[categoryName] == subCategoryName){
                 total += instance.audience
             }
@@ -75,7 +75,7 @@ function DataManager(){
         currentInstance.selectAllCountries();
     };
     this.getSelectedInstances = function(){
-        return currentInstance.selected_instances;
+        return currentInstance.selectedInstances;
     }
     this.setCountryCodeList = function(countryCodeList){
         currentInstance.selectedCountries_2letters = countryCodeList;
@@ -103,15 +103,16 @@ function DataManager(){
          console.log("Selecting Instances")
         var instances = [];
         var facebookPopulationInstances = [];
-
-        for(var indexData in currentData){
-            var instance = currentData[indexData];
+        //Filtering Instances With Interests
+        for(var indexData in fbInstancesWithInterests){
+            var instance = fbInstancesWithInterests[indexData];
             if(dataManager.isInstanceAgreeWithSelected(instance)){
                 instances.push(instance)
             }
         }
-         for(var indexFacebookPopulation in facebookPopulation){
-             var instance = facebookPopulation[indexFacebookPopulation];
+         //Filtering demographic related instances
+         for(var indexFacebookPopulation in fbInstancesDemographic){
+             var instance = fbInstancesDemographic[indexFacebookPopulation];
              if(!currentInstance.hasAllInAnyCategory(instance)){
                  if(currentInstance.isInstanceAgreeWithSelected(instance)){
                      facebookPopulationInstances.push(instance)
@@ -119,31 +120,30 @@ function DataManager(){
              }
 
          }
-
         console.log(facebookPopulationInstances.length);
-        currentInstance.selected_instances = instances;
-        currentInstance.selectedFacebookPopulationInstances = facebookPopulationInstances;
-        currentInstance.updateSumSelectedFacebookPopulation();
-        console.log(currentInstance.selectedFacebookPopulationSum);
+        currentInstance.selectedInstances = instances;
+        currentInstance.selectedFbDemographicInstances = facebookPopulationInstances;
+        currentInstance.updateSumSelectedFbInstancesDemographic();
+        console.log(currentInstance.selectedFbDemographicSum);
         console.log("Instances and Facebook Population Selected");
     }
 
-    this.updateSumSelectedFacebookPopulation = function(){
-        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
-            var total = currentInstance.selectedFacebookPopulationInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
-            currentInstance.selectedFacebookPopulationSum = total;
+    this.updateSumSelectedFbInstancesDemographic = function(){
+        if(currentInstance.selectedFbDemographicInstances.length > 0){
+            var total = currentInstance.selectedFbDemographicInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+            currentInstance.selectedFbDemographicSum = total;
         } else {
-            currentInstance.selectedFacebookPopulationSum = 0;
+            currentInstance.selectedFbDemographicSum = 0;
         }
 
 
     }
 
     this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
-        if(currentInstance.selectedFacebookPopulationInstances.length > 0){
+        if(currentInstance.selectedFbDemographicInstances.length > 0){
             var total = 0;
-            for(var instanceIndex in currentInstance.selectedFacebookPopulationInstances){
-                var instance = currentInstance.selectedFacebookPopulationInstances[instanceIndex];
+            for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
+                var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
                 if(instance.country_code == countryCode){
                     total += instance.audience;
                 }
@@ -189,6 +189,28 @@ function DataManager(){
             }
         }
         return false;
+    };
+    this.getAverageSelectedInclination = function(){
+        var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
+        if(currentInstance.selectedCountries_2letters.length == 0){
+            return averageInclination;
+        } else{
+            var selectedInstances = currentInstance.getSelectedInstances();
+            // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
+            var total = dataManager.selectedFbDemographicSum;
+            averageInclination.greenAudience =  selectedInstances.map(
+                function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0})
+                .reduce(function (total, num) { return total + num});
+            averageInclination.redAudience =  selectedInstances.map(
+                function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0})
+                .reduce(function (total, num) { return total + num});
+            averageInclination.greenInclination = averageInclination.greenAudience / total;
+            averageInclination.redInclination = averageInclination.redAudience  / total;
+            // averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
+            averageInclination.average = averageInclination.greenInclination - averageInclination.redInclination;
+            return averageInclination
+        }
+
     };
 }
 

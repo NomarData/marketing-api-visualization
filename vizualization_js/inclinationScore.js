@@ -6,7 +6,7 @@ function InclinationScore(){
         this.updateData();
     }
     this.updateData = function(){
-        var averageInclination = treemapManager.getAverageSelectedInclination();
+        var averageInclination = dataManager.getAverageSelectedInclination();
         currentInstance.value = averageInclination.average;
         currentInstance.element.css("color",getGreenOrRedColorByInclination(averageInclination.average));
         currentInstance.element.html(averageInclination.average.toFixed(2));

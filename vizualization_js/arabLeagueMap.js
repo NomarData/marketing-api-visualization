@@ -88,7 +88,6 @@ function datamapDataLayer(){
             updateBtnColor(countryCode, dataColor[countryCode]);
         }
 
-
         return dataColor;
     };
     this.init();
@@ -128,7 +127,7 @@ function arabLeagueDatamap(){
         defaultFill: "rgb(247, 247, 247)",
     };
 
-    this.setProjection = function(element){
+    this.setProjectionGeneralMap = function(element){
         var projection = d3.geo.equirectangular()
             .center([25, 24])
             .rotate([0, 0])
@@ -139,6 +138,18 @@ function arabLeagueDatamap(){
 
         return {path: path, projection: projection};
     };
+
+    this.setProjectionQatarMap = function(element){
+        var projection = d3.geo.equirectangular()
+            .center([51.2, 25.4])
+            .rotate([0, 0])
+            .scale(2400)
+            .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+        var path = d3.geo.path()
+            .projection(projection);
+
+        return {path: path, projection: projection};
+    }
 
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
@@ -164,7 +175,7 @@ function arabLeagueDatamap(){
             scope: 'world',
             width:  elementContainer.parent().parent().width() + "px",
             height:'400px',
-            setProjection : currentInstance.setProjection,
+            setProjection : currentInstance.setProjectionGeneralMap,
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,
             data: currentInstance.data,
@@ -174,17 +185,7 @@ function arabLeagueDatamap(){
             scope: 'world',
             width:  "75px",
             height:'75px',
-            setProjection : function(element){
-                var projection = d3.geo.equirectangular()
-                    .center([51.2, 25.4])
-                    .rotate([0, 0])
-                    .scale(2400)
-                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
-                var path = d3.geo.path()
-                    .projection(projection);
-
-                return {path: path, projection: projection};
-            },
+            setProjection :  currentInstance.setProjectionQatarMap,
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,
             data: currentInstance.data,
@@ -294,7 +295,7 @@ function arabLeagueDatamap(){
     };
 
     this.initCountriesBtns = function () {
-        externalDataManager.updateCountriesList(facebookPopulation);
+        externalDataManager.updateCountriesList(fbInstancesDemographic);
         currentInstance.addClickFunctionToCountries();
         currentInstance.addClickFunctionToCountriesBtns();
         currentInstance.addTooltipToCountriesPath();

@@ -97,3 +97,10 @@ a{
     color: darkred;
     font-weight: bold;
 }
+.socialLinks{
+    margin-top: 10px;
+    font-weight: 600;
+}
+.socialLinks > div{
+    margin-bottom: -10px;
+}

@@ -4,23 +4,23 @@
     function ExternalDataManager(){
         var currentInstance = this;
 
-        this.updateFacebookPopulationData = function(){
-            var facebookPopulationDataPromise = currentInstance.getPromiseOfFacebookPopulationData();
+        this.updateFacebookDemographicData = function(){
+            var facebookPopulationDataPromise = currentInstance.getPromiseOfFacebookDemographicData();
             facebookPopulationDataPromise.done(function(d){
-                currentInstance.setFacebookInitialPopulationList(d.facebookPopulation);
+                currentInstance.setFacebookInitialPopulationList(d.fbInstancesDemographic);
             });
             return facebookPopulationDataPromise;
         };
 
 
-        this.getPromiseOfFacebookPopulationData = function(){
+        this.getPromiseOfFacebookDemographicData = function(){
             var defer = $.Deferred();
             //Try to load file healthSelection first, or luxurySelection first
             d3.csv("data/application_data/facebook_population.csv", function(error, data) {
                 if(error){
                     throw Error("Error loading csv : " + error);
                 } else{
-                    defer.resolve({facebookPopulation:data});
+                    defer.resolve({fbInstancesDemographic:data});
                 }
             });
             var promise = defer.promise();
@@ -93,7 +93,7 @@
                 instance.audience = parseInt(instance.audience);
                 return instance;
             });
-            facebookPopulation = parsedInstances;
+            fbInstancesDemographic = parsedInstances;
         };
 
         this.setInstanceList = function(instances){
@@ -103,7 +103,7 @@
                 return instance;
             });
             // console.log("Parsing done")
-            currentData = parsedInstances;
+            fbInstancesWithInterests = parsedInstances;
         };
 
         this.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName = function(list_country_codes){

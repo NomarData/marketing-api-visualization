@@ -2,118 +2,10 @@
  * Created by maraujo on 11/21/16.
  */
 
-countryCodeMap = {
-    "DZ"  : {
-        "name" : "Algeria",
-        "_3letter_code" : "DZA",
-        "_2letter_code" : "DZ"
-    },
-    "BH"  : {
-        "name" : "Bahrain",
-        "_3letter_code" : "BHR",
-        "_2letter_code" : "BH"
-    },
-    "EG"  : {
-        "name" : "Egypt",
-        "_3letter_code" : "EGY",
-        "_2letter_code" : "EG"
-    },
-    "IQ"  : {
-        "name" : "Iraq",
-        "_3letter_code" : "IRQ",
-        "_2letter_code" : "IQ"
-    },
-    "JO"  : {
-        "name" : "Jordan",
-        "_3letter_code" : "JOR",
-        "_2letter_code" : "JO"
-    },
-    "KW"  : {
-        "name" : "Kuwait",
-        "_3letter_code" : "KWT",
-        "_2letter_code" : "KW"
-    },
-    "LB"  : {
-        "name" : "Lebanon",
-        "_3letter_code" : "LBN",
-        "_2letter_code" : "LB"
-    },
-    "LY"  : {
-        "name" : "Libya",
-        "_3letter_code" : "LBY",
-        "_2letter_code" : "LY"
-    },
-    "MA"  : {
-        "name" : "Morocco",
-        "_3letter_code" : "MAR",
-        "_2letter_code" : "MA"
-    },
-    "OM"  : {
-        "name" : "Oman",
-        "_3letter_code" : "OMN",
-        "_2letter_code" : "OM"
-    },
-    "PS"  : {
-        "name" : "Palestine",
-        "_3letter_code" : "PSE",
-        "_2letter_code" : "PS"
-    },
-    "QA"  : {
-        "name" : "Qatar",
-        "_3letter_code" : "QAT",
-        "_2letter_code" : "QA"
-    },
-    "SA"  : {
-        "name" : "Saudi Arabia",
-        "_3letter_code" : "SAU",
-        "_2letter_code" : "SA"
-    },
-    "SO"  : {
-        "name" : "Somalia",
-        "_3letter_code" : "SOM",
-        "_2letter_code" : "SO"
-    },
-    "TN"  : {
-        "name" : "Tunisia",
-        "_3letter_code" : "TUN",
-        "_2letter_code" : "TN"
-    },
-    "AE"  : {
-        "name" : "United Arab Emirates",
-        "_3letter_code" : "ARE",
-        "_2letter_code" : "AE"
-    },
-    "YE"  : {
-        "name" : "Yemen",
-        "_3letter_code" : "YEM",
-        "_2letter_code" : "YE"
-    },
-};
-
-mapValuesStringsTooltip = {
-    "Female" : "Female",
-    "Male" : "Male",
-    "18-24" : "18 to 24 years old",
-    "25-44" : "25 to 44 years old",
-    "45+" : "45 years old or more",
-    "HS" : "High School",
-    "ND" : "No degree",
-    "GRAD" : "Graduate",
-    "European" : "European Languages",
-    "Indian" : "Indian Languages",
-    "SE Asia" : "South East Asian Languages",
-    "Expats" : "Expats",
-    "Locals" : "Locals",
-    "citizenship" : "Citizenship",
-    "language" : "Language",
-    "scholarity" : "Scholarity",
-    "age_range" : "Age Range",
-    "gender" : "Gender",
-};
 
 function getFacebookPopulationInstanceByValue(value){
-    for(var instanceIndex in facebookPopulation){
-        var instance = facebookPopulation[instanceIndex];
+    for(var instanceIndex in fbInstancesDemographic){
+        var instance = fbInstancesDemographic[instanceIndex];
         if(instance[""] == value.toString()){
             return instance;
         }
@@ -141,6 +33,7 @@ function buildAndInitVisualComponents(){
 }
 
 
+
 function buildBreakPoints(domainBreakpoints, colorRange){
     var breakPoints = [];
     for(var index = 0 in domainBreakpoints){
@@ -153,6 +46,8 @@ function buildBreakPoints(domainBreakpoints, colorRange){
     }
     return breakPoints;
 }
+
+breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
 
 function getTooltipLabel(value){
     if(value in mapValuesStringsTooltip){
@@ -250,6 +145,7 @@ function updateFilteringCountryCodeMap(list_country_codes){
     for(var countryCode in countryCodeMap){
         if(list_country_codes.indexOf(countryCode) == -1){
             delete countryCodeMap[countryCode];
+            console.log("Deleting")
         }
     }
 }

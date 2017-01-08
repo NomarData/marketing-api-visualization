@@ -1,11 +1,10 @@
-currentData = [];
-facebookPopulation = [];
+fbInstancesWithInterests = [];
+fbInstancesDemographic = [];
 
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
 colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
 domainLinear = [-1, -0.66, -0.33, 0, 0.33, 0.66, 1];
 domainNotLinear = [-0.7, -0.3, -0.05, 0, 0.05, 0.3, 0.7];
-breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
 colorFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
@@ -187,3 +186,113 @@ fakeData = [
         "audience" : 500
     }
 ]
+
+
+countryCodeMap = {
+    "DZ"  : {
+        "name" : "Algeria",
+        "_3letter_code" : "DZA",
+        "_2letter_code" : "DZ"
+    },
+    "BH"  : {
+        "name" : "Bahrain",
+        "_3letter_code" : "BHR",
+        "_2letter_code" : "BH"
+    },
+    "EG"  : {
+        "name" : "Egypt",
+        "_3letter_code" : "EGY",
+        "_2letter_code" : "EG"
+    },
+    "IQ"  : {
+        "name" : "Iraq",
+        "_3letter_code" : "IRQ",
+        "_2letter_code" : "IQ"
+    },
+    "JO"  : {
+        "name" : "Jordan",
+        "_3letter_code" : "JOR",
+        "_2letter_code" : "JO"
+    },
+    "KW"  : {
+        "name" : "Kuwait",
+        "_3letter_code" : "KWT",
+        "_2letter_code" : "KW"
+    },
+    "LB"  : {
+        "name" : "Lebanon",
+        "_3letter_code" : "LBN",
+        "_2letter_code" : "LB"
+    },
+    "LY"  : {
+        "name" : "Libya",
+        "_3letter_code" : "LBY",
+        "_2letter_code" : "LY"
+    },
+    "MA"  : {
+        "name" : "Morocco",
+        "_3letter_code" : "MAR",
+        "_2letter_code" : "MA"
+    },
+    "OM"  : {
+        "name" : "Oman",
+        "_3letter_code" : "OMN",
+        "_2letter_code" : "OM"
+    },
+    "PS"  : {
+        "name" : "Palestine",
+        "_3letter_code" : "PSE",
+        "_2letter_code" : "PS"
+    },
+    "QA"  : {
+        "name" : "Qatar",
+        "_3letter_code" : "QAT",
+        "_2letter_code" : "QA"
+    },
+    "SA"  : {
+        "name" : "Saudi Arabia",
+        "_3letter_code" : "SAU",
+        "_2letter_code" : "SA"
+    },
+    "SO"  : {
+        "name" : "Somalia",
+        "_3letter_code" : "SOM",
+        "_2letter_code" : "SO"
+    },
+    "TN"  : {
+        "name" : "Tunisia",
+        "_3letter_code" : "TUN",
+        "_2letter_code" : "TN"
+    },
+    "AE"  : {
+        "name" : "United Arab Emirates",
+        "_3letter_code" : "ARE",
+        "_2letter_code" : "AE"
+    },
+    "YE"  : {
+        "name" : "Yemen",
+        "_3letter_code" : "YEM",
+        "_2letter_code" : "YE"
+    },
+};
+
+mapValuesStringsTooltip = {
+    "Female" : "Female",
+    "Male" : "Male",
+    "18-24" : "18 to 24 years old",
+    "25-44" : "25 to 44 years old",
+    "45+" : "45 years old or more",
+    "HS" : "High School",
+    "ND" : "No degree",
+    "GRAD" : "Graduate",
+    "European" : "European Languages",
+    "Indian" : "Indian Languages",
+    "SE Asia" : "South East Asian Languages",
+    "Expats" : "Expats",
+    "Locals" : "Locals",
+    "citizenship" : "Citizenship",
+    "language" : "Language",
+    "scholarity" : "Scholarity",
+    "age_range" : "Age Range",
+    "gender" : "Gender",
+};

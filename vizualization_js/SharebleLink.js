@@ -65,7 +65,7 @@ function SharebleLink(){
         if(currentInstance.hasParamsGivenUrl(url)){
             currentInstance.applyStateGivenUrl(url);
         } else {
-            dataManager.updateDatasetAndGetPromise();
+            // dataManager.updateDatasetAndGetPromise();
             dataManager.selectDefaultCountries();
             sharebleLink.updateSharebleLinkAsUrl();
         }
