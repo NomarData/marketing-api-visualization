@@ -1,3 +1,10 @@
+.navbar-inverse .brand:hover, .navbar-inverse .nav>.active>a, .navbar-inverse .nav>.active>a:hover, .navbar-inverse .nav>.active>a:focus{
+    background-color: rgba(0,0,0,0.25);
+}
+.navbar-inverse .navbar-inner {
+    background-color: #4b556b;
+}
+
 body {
     font-size: 14px;
     font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
@@ -56,6 +63,7 @@ svg{
     font-weight: bold;
     color: #3B5998;
 }
+
 
 a{
     color: #3B5998;

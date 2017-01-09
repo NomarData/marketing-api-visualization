@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,140 +24,162 @@
 <!--//Avoid datamaps create rewrite css-->
 </div>
 
-
-    <div class="container">
-        <div class="page-header text-center">
-            <h3>About: Health Awareness in the Arab World</h3>
+<!--Header-->
+<div class="navbar navbar-inverse navbar-static-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <a class="brand" href="#">Health Awareness in the Arab World</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    <li ><a href="index.html">Application</a></li>
+                    <li class="active"><a href="about.html">About</a></li>
+                </ul>
+                <div class="pull-right">
+                    <div id="logo"><a href="http://qcri.org.qa/"><img style="max-height: 50px" src="imgs/qcri_logo.png"></a></div>
+                </div>
+            </div><!--/.nav-collapse -->
         </div>
-        <div class="row">
-            <div class="span12 text-center">
-                <a href="index.html">
-                    <button type="button" class="btn btn-primary " >Back to the Application</button>
-                </a>
-            </div>
-            <div class="span12">
-                <div class="row tutorial-objectives">
-                    <div class="span2">
-                        <strong>Objectives :</strong>
-                    </div>
-                    <div class="span10">
-                        <p>Our tool was created to allow users to explore the rich demographic detailed data provided by <a href="https://www.facebook.com/business/products/ads" class="facebookHighlight">Facebook Marketing API</a> in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</p>
-
-                    </div>
-                </div>
-                <hr/>
-                <div class="row tutorial-step">
-                    <div class="span2">
-                        <strong>How to use:</strong>
-                    </div>
-                    <div class="span4">
-                        <p><span class="step-number">1) </span>First of all, select the topics of interest you want to compare through the application.</p>
-                        <p>In the figure aside we see the comparison between the number of people who are interested in Obesity Awareness related pages on Facebook compared to people who are interested in Fast Food related pages.</p>
-                        <p>You can <strong>toggle</strong> the topic selection by clicking on it.</p>
-                    </div>
-                    <div class="span6">
-                        <img width="100%" class="tutorial-img" src="imgs/about/topic_selection.png">
-                    </div>
-                </div>
-                <div class="row tutorial-step">
-                    <div class="span4 offset2">
-                        <p><span class="step-number">2) </span>
-                            This status bar represents a number of people on Facebook who has shown interest in <span class="good">health-related</span> pages (left sided) and <span class="bad">luxury-related</span> pages (right sided topics) compared to the total number of Facebook users.</p>
-                        <p>The score in the top is the overall score of the application status. If it is positive, in average people who match the countries and demographic categories selected are more interested in <span class="good">health-related</span> pages. The contrary happens if the score is negative.</p>
-                        <p>The intensity is calculated based on the number of people who likes the selected topic related pages divide by the number of people in Facebook following the current selection of the application.</p>
-                    </div>
-                    <div class="span6">
-                        <img width="100%" class="tutorial-img" src="imgs/about/bar.png">
-                    </div>
-                </div>
-                <div class="row tutorial-step">
-                    <div class="span4 offset2">
-                        <p><span class="step-number">3) </span> In the map, you can select the countries that will be included in the visualization by clicking on them. You can use the buttons on right to make easy the selection.</p>
-                        <p>The buttons will receive the same color of the countries.</p>
-                    </div>
-                    <div class="span6">
-                        <img width="100%" class="tutorial-img" src="imgs/about/countries.png">
-                    </div>
-                </div>
-                <div class="row tutorial-step">
-                    <div class="span4 offset2">
-                        <p><span class="step-number">4) </span>
-                            The treemaps are a powerful tool where you can filter and explore the data you are visualizing based on <strong>gender, age range, scholarity and citizenship</strong>.</p>
-                        <p><strong>Click in each treemap's tile</strong> to filter the visualization.</p>
-                        <p>The application will dynamically update it's status on the others treemaps, map, and horizontal bar score.</p>
-
-                    </div>
-                    <div class="span6">
-                        <img width="100%" class="tutorial-img" src="imgs/about/treemap.png">
-                    </div>
-                </div>
-                <div class="row tutorial-step">
-                    <div class="span4 offset2">
-                        <p><span class="step-number">Use case example: </span></p>
-                        <p>
-                            In this case, we are visualizing how people in Golf Arabic region are interested in <span class="good">Health Care</span> and <span class="bad">Buy Cars or Vehicles</span>.
-                            The treemaps are selected to show people who have graduated, are locals and have age between 25 and 44 years old. We can infer that:
-                            <ul>
-                                <li>Women are much more interested in Health Care than men.</li>
-                                <li>Saudi Arabia and Yemen are more interested in Health Care or less interested in buying cars.</li>
-                            </ul>
-                        <p>Click here to see it in the application <a href="index.html?health=health+care&luxury=cars+vehicles&country=BH-KW-OM-QA-SA-AE-YE-JO&age_range=25-44&scholarity=GRAD&citizenship=Locals">link</a>.</p>
-                    </div>
-                    <div class="span6">
-                        <img width="100%" class="tutorial-img" src="imgs/about/study_case.png">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <hr/>
-        <div class="text-center">
-            <h2>About the authors:</h2>
-        </div>
-        <ul class="row thumbnails">
-            <li class="span3">
-                <div class="thumbnail">
-                    <img src="imgs/about/matheus.png">
-                    <div class="caption text-center">
-                        <h3>Matheus Araújo</h3>
-                        <!--<p>Research Assistant at Qatar Computer Research Institute.</p>-->
-                        <!--<p>Pursuing Master's Degree in Computer Science at UFMG, Brazil.</p>-->
-                        <p><a href="http://matheusaraujo.com" class="btn btn-primary">Website</a></p>
-                    </div>
-                </div>
-            </li>
-            <li class="span3">
-                <div class="thumbnail">
-                    <img  src="imgs/about/yelena.png">
-                    <div class="caption text-center">
-                        <h3>Yelena Mejova</h3>
-                        <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a href="https://sites.google.com/site/yelenamejova/" class="btn btn-primary">Website</a></p>
-                    </div>
-                </div>
-            </li>
-            <li class="span3">
-                <div class="thumbnail">
-                    <img  src="imgs/about/michael.png">
-                    <div class="caption text-center">
-                        <h3>Michael Aupeti</h3>
-                        <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a href="http://qcri.org.qa/page?name=Michael_Aupetit&a=117&pid=199&lang=en-CA" class="btn btn-primary">Website</a></p>
-                    </div>
-                </div>
-            </li>
-            <li class="span3">
-                <div class="thumbnail">
-                    <img  src="imgs/about/ingmar.png">
-                    <div class="caption text-center">
-                        <h3>Ingmar Weber</h3>
-                        <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                        <p><a href="https://ingmarweber.de/" class="btn btn-primary">Website</a></p>
-                    </div>
-                </div>
-            </li>
-        </ul>
-
     </div>
+</div>
+<!--Body-->
+<div class="container">
+    <div class="page-header text-center">
+        <h2>More about our application</h2>
+    </div>
+    <div class="row">
+        <div class="span12">
+            <div class="row tutorial-objectives">
+                <div class="span2">
+                    <strong>Objectives :</strong>
+                </div>
+                <div class="span10">
+                    <p>Health Awareness in the Arab World is a tool for the exploration of the demographically-rich data provided by <a href="https://www.facebook.com/business/products/ads" class="facebookHighlight">Facebook Marketing API</a>, compararing visually and numerically the numbers of users having health-related interests to luxury-related interests from Arab League countries.</p>
+                </div>
+            </div>
+            <hr/>
+            <div class="row tutorial-step">
+                <div class="span2">
+                    <strong>How to use:</strong>
+                </div>
+                <div class="span4">
+                    <p><span class="step-number">1) </span>
+                    <b>Select the topics of interest.</b></p>
+                    <p>For example, you can compare the number of people who are interested in Obesity Awareness to those interested in Fast Food.</p>
+                    <p>You can <strong>select/de-select</strong> the topic by clicking on it.</p>
+                </div>
+                <div class="span6">
+                    <img width="100%" class="tutorial-img" src="imgs/about/topic_selection.png">
+                </div>
+            </div>
+            <div class="row tutorial-step">
+                <div class="span4 offset2">
+                    <p><span class="step-number">2) </span>
+                    <b>Status bar shows relative interest in the topics.</b></p>
+                    <p>It shows the number of people on Facebook who have shown interest in <span class="good">health-related</span> pages (left side) and <span class="bad">luxury-related</span> pages (right side) compared to the total number of Facebook users.</p>
+                    <p>The score is the difference in percentages of selected Facebook users having interest in one and the other topic. So, if the score is positive, a greater percentage is more interested in <span class="good">health-related</span> pages, and opposite if it is negative.</p>
+
+                </div>
+                <div class="span6">
+                    <img width="100%" class="tutorial-img" src="imgs/about/bar.png">
+                </div>
+            </div>
+            <div class="row tutorial-step">
+                <div class="span4 offset2">
+                    <p><span class="step-number">3) </span>
+                    <b>Refine your selection by country using the map</b></p>
+                    <p>Use either the map or the buttons on the right to select and de-select countries.</p>
+                </div>
+                <div class="span6">
+                    <img width="100%" class="tutorial-img" src="imgs/about/countries.png">
+                </div>
+            </div>
+            <div class="row tutorial-step">
+                <div class="span4 offset2">
+                    <p><span class="step-number">4) </span>
+                    <b>Refine your selection by demographic.</b></p>
+                    <p>The treemaps on the left of the map are a powerful tool where you can filter and explore the data by <strong>gender, age range, education and citizenship</strong>.</p>
+                    <p><strong>Click in each treemap's tile</strong> to filter the visualization, and again to remove the filter, and the application will dynamically update its output as you explore.</p>
+
+                </div>
+                <div class="span6">
+                    <img width="100%" class="tutorial-img" src="imgs/about/treemap.png">
+                </div>
+            </div>
+            <hr/>
+            <div class="row tutorial-objectives">
+                <div class="span2">
+                    <strong>Use case example:</strong>
+                </div>
+                <div class="span4">
+                    <p>
+                        In this example, we are visualizing how much Facebook users in the Gulf region are interested in <span class="good">Health Care</span> and <span class="bad">Cars or Vehicles</span>.
+                        The treemaps are selected to show people who have graduated, are locals and have age between 25 and 44 years old. We can infer that:
+                    <ul>
+                        <li>Women are much more interested in Health Care than men.</li>
+                        <li>Saudi Arabia and Yemen are more interested in Health Care or less interested in buying cars.</li>
+                    </ul>
+                    <p>Click here to see it in the application <a href="index.html?health=health+care&luxury=cars+vehicles&country=BH-KW-OM-QA-SA-AE-YE-JO&age_range=25-44&scholarity=GRAD&citizenship=Locals">link</a>.</p>
+                </div>
+                <div class="span6">
+                    <img width="100%" class="tutorial-img" src="imgs/about/study_case.png">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center">
+        <a href="index.html">
+            <button type="button" class="btn btn-primary " >Back to the Application</button>
+        </a>
+    </div>
+    <hr/>
+    <div class="text-center">
+        <h2>About the authors:</h2>
+    </div>
+    <ul class="row thumbnails">
+        <li class="span3">
+            <div class="thumbnail">
+                <img src="imgs/about/matheus.png">
+                <div class="caption text-center">
+                    <h3>Matheus Araújo</h3>
+                    <!--<p>Research Assistant at Qatar Computer Research Institute.</p>-->
+                    <!--<p>Pursuing Master's Degree in Computer Science at UFMG, Brazil.</p>-->
+                    <p><a href="http://matheusaraujo.com" class="btn btn-primary">Website</a></p>
+                </div>
+            </div>
+        </li>
+        <li class="span3">
+            <div class="thumbnail">
+                <img  src="imgs/about/yelena.png">
+                <div class="caption text-center">
+                    <h3>Yelena Mejova</h3>
+                    <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                    <p><a href="https://sites.google.com/site/yelenamejova/" class="btn btn-primary">Website</a></p>
+                </div>
+            </div>
+        </li>
+        <li class="span3">
+            <div class="thumbnail">
+                <img  src="imgs/about/michael.png">
+                <div class="caption text-center">
+                    <h3>Michael Aupeti</h3>
+                    <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                    <p><a href="http://qcri.org.qa/page?name=Michael_Aupetit&a=117&pid=199&lang=en-CA" class="btn btn-primary">Website</a></p>
+                </div>
+            </div>
+        </li>
+        <li class="span3">
+            <div class="thumbnail">
+                <img  src="imgs/about/ingmar.png">
+                <div class="caption text-center">
+                    <h3>Ingmar Weber</h3>
+                    <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                    <p><a href="https://ingmarweber.de/" class="btn btn-primary">Website</a></p>
+                </div>
+            </div>
+        </li>
+    </ul>
+
+</div>
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

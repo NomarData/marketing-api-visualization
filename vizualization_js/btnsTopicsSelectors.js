@@ -79,7 +79,7 @@ function BtnsTopicsSelectors(){
         var topicNameMap = {
             "luxury": "All Luxury Interests",
             'luxury goods' : "Luxury Goods",
-            'cars vehicles' : "Buy Cars or Vehicles",
+            'cars vehicles' : "Cars or Vehicles",
             'shopping' : "Shopping",
             'fast food' : "Fast Foods",
             'mobile phones gadgets' : "Mobile Devices",
