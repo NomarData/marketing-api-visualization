@@ -17,7 +17,7 @@ function buildTreemapLegends(colorFunction){
     var numberOfSteps = 50; //It should be dynamic according to the size of the display. It's good for now
     var max=1, data = [], min=-1;
     var step = (max-min)/numberOfSteps;
-    for (var i=-1.0 + step;i<max;i=i+step){
+    for (var i=max - step;i > min;i=i-step){
         data.push(i);
     }
 
@@ -34,8 +34,10 @@ function buildTreemapLegends(colorFunction){
         })
         .select("span")
         .text(function(d,i){
-            if(i%5 == 4){
-                return d.toFixed(1);
+            if(i%5 == 4){ //Put the number every 5 steps
+                var numberToPrint = d.toFixed(1);
+                if (numberToPrint == "-0.0") numberToPrint = "0.0";
+                return numberToPrint;
             } else {
                 return " ";
             }
