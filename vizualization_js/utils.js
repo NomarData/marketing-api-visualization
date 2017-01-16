@@ -35,6 +35,7 @@ function buildAndInitVisualComponents(){
 
 
 function buildBreakPoints(domainBreakpoints, colorRange){
+    breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
     var breakPoints = [];
     for(var index = 0 in domainBreakpoints){
         var domain = domainBreakpoints[index];
@@ -47,7 +48,7 @@ function buildBreakPoints(domainBreakpoints, colorRange){
     return breakPoints;
 }
 
-breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
+
 
 function getTooltipLabel(value){
     if(value in mapValuesStringsTooltip){
