@@ -163,14 +163,19 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
 
     this.getOpacityBasedOnData = function(d, textElement,newWidth,newHeight){
 
-        var labelWidth = textElement.getComputedTextLength();
+        var labelWidth = textElement.getComputedTextLength(); //Guess the width of a text that is still not rendered
+        labelWidth = labelWidth * 0.73; //Correction of the above guess given previous experience
         var labelHeight = 34;
-        var showDueWidth = labelWidth > newWidth ? 0 : 1;
+        var showDueWidth = labelWidth  > newWidth ? 0 : 1;
         var showDueHeight = labelHeight > newHeight ? 0 : 1;
         if(showDueHeight && showDueWidth){
             return "1"
         } else {
-            return "0"
+            console.log("LabelWidth:" + labelWidth + " NewWidth:" + newWidth + " " + textElement.textContent);
+            return labelWidth/newWidth; //A solution for the problem of small tiles in large tiles,
+                                        // the opacity will be dynamic according to the ratio of label and the size of the tile
+                                        // if the tile is smaller but the ratio is close to 1, the opacity will be close to 1.
+                                        // if the tile is too small, so ratio will be close to 0 as the opacity.
         };
     };
     this.zoom = function(self,focusNode){
