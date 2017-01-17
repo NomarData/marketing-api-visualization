@@ -112,3 +112,22 @@ a{
 .socialLinks > div{
     margin-bottom: -10px;
 }
+
+/*LEGEND*/
+.legendAxis text {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.legendAxis line, .legendAxis path {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+}
+
+
+.legendAxis > .tick{
+    text-shadow: -0.5px 0 #e3e3e3, 0 0.5px #e3e3e3, 0.5px 0 #e3e3e3, 0 -0.5px #e3e3e3;
+    color: #212121;
+
+}

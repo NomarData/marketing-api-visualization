@@ -4,7 +4,11 @@
 #inclinationScore{
     font-weight: bold;
     background: #3a3a3a;
-    color: rgb(109, 190, 91);
+    color: rgb(33, 33, 33);
     padding: 3px;
     border-radius: 5px;
+    text-shadow: -0.5px 0 #e3e3e3, 0 0.5px #e3e3e3, 0.5px 0 #e3e3e3, 0 -0.5px #e3e3e3;
+    border-color: #005eff;
+    border-style: solid;
+    border-width: 2px;
 }

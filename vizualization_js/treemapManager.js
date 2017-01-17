@@ -13,38 +13,7 @@ function putTreemapLegendsInCenter(){
     var scaleLeftMargin = (parentWidth - scaleWidth) / 2;
     d3.select("#treemapLegend").attr("style", "margin-left:" + scaleLeftMargin + "px");
 }
-function buildTreemapLegends(colorFunction){
-    var numberOfSteps = 50; //It should be dynamic according to the size of the display. It's good for now
-    var max=1, data = [], min=-1;
-    var step = (max-min)/numberOfSteps;
-    for (var i=max - step;i > min;i=i-step){
-        data.push(i);
-    }
 
-    var selection =  d3.select("#treemapLegend").selectAll("div.cell").data(data);
-    selection.enter()
-        .append("rect")
-        .classed("legendCell",true)
-        .append("div.test")
-        .append("span");
-    selection.data(data).exit().remove();
-    selection.style("display","inline-block")
-        .style("background-color",function(d){
-            return colorFunction(d);
-        })
-        .select("span")
-        .text(function(d,i){
-            if(i%5 == 4){ //Put the number every 5 steps
-                var numberToPrint = d.toFixed(1);
-                if (numberToPrint == "-0.0") numberToPrint = "0.0";
-                return numberToPrint;
-            } else {
-                return " ";
-            }
-
-        });
-    putTreemapLegendsInCenter();
-}
 
 function getTreemapDataFromInstancesList(category){
     var categoryAudience = {};
@@ -176,8 +145,6 @@ function TreemapManager(){
         // this.treemaps.push(languageTreemap);
         this.treemaps.push(citizenshipTreemap);
 
-        //    Build Legend
-        buildTreemapLegends(colorFunction);
     }
 
 

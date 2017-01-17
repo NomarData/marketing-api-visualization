@@ -10,9 +10,9 @@ function stackedHorizontalBar(){
     this.tooltip_margin = 10;
     this.margin = {
         top: 30,
-        right: 100,
+        right: 0,
         bottom: 10,
-        left: 100
+        left: 0
     };
     this.selectedBefore = null;
     this.marginAxisX = 50;
@@ -84,7 +84,18 @@ function stackedHorizontalBar(){
         redBar.attr("style", function(d){ return "fill: #d73027"});
         svg.selectAll(".redBar").data(currentInstance.redData);
 
+        currentInstance.updateLegend(data)
     };
+
+    this.updateLegend = function(scoreData){
+        var maxBlueMarkPosition = currentInstance.currentLegendWidth;
+        var minBlueMarkPosition = 0;
+        var maxScore = 1;
+        var minScore = -1;
+        var currentScore = (scoreData.average * -1) + 1;
+        var newBlueMarkPosition = currentScore * maxBlueMarkPosition / 2 + 2.5;
+        currentInstance.scoreBlueMarker.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
+    }
 
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
@@ -142,6 +153,49 @@ function stackedHorizontalBar(){
     this.mouseoutTooltip = function(d){
         d3.select("#tooltip-stackedbar").classed("hidden", true);
     };
+
+    this.buildTreemapLegends = function(colorFunction){
+        var w = this.width - 100, h = 20;
+        var legendWidth = this.width - 100;
+        var translateXPositionAxis = 0;
+        var translateXPositionRect = translateXPositionAxis ;
+        var axisPadding = 10;
+        var scoreBlueMarkerWidth = 5;
+        // debugger
+        var key = d3.select("#treemapLegend").append("svg")
+            .attr("width",w)
+            .attr("height", h)
+            .append("g")
+            .attr("transform", "translate(" + 0 + "," + 0 + ")");
+
+        var legend = key.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
+
+        //Appending colors
+        var max=1, data = [], min=-1;
+        var numberOfSteps = 20;
+        var step = (max-min)/numberOfSteps;
+        var stepPercentage = 100/numberOfSteps;
+        var percentage = 0;
+        for (var i=max;i > min;i=i-step){
+            data.push([i,percentage]);
+            percentage += stepPercentage
+        }
+        for(var index in data){
+            let breakpoint = data[index][0];
+            let percentage = data[index][1];
+            legend.append("stop").attr("offset", +percentage + "%").attr("stop-color", colorFunction(breakpoint)).attr("stop-opacity", 1);
+        }
+
+        key.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
+        var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([-1, 1]);
+        var axis = d3.svg.axis().scale(axisScale).ticks(20);
+        key.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
+        var scoreBlueMarker = key.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
+
+        currentInstance.scoreBlueMarker = scoreBlueMarker;
+        currentInstance.currentLegendWidth = legendWidth;
+        currentInstance.scoreBlueMarkerWidth = scoreBlueMarkerWidth;
+    }
 
     this.init = function(){
         var x = this.x;
@@ -233,7 +287,9 @@ function stackedHorizontalBar(){
             .attr("x2", x(0))
             .attr("y2", height);
 
-    }
+        // Build Legend
+        currentInstance.buildTreemapLegends(colorFunction);
+    };
 
     this.init();
 

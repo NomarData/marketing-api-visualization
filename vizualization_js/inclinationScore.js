@@ -8,7 +8,7 @@ function InclinationScore(){
     this.updateData = function(){
         var averageInclination = dataManager.getAverageSelectedInclination();
         currentInstance.value = averageInclination.average;
-        currentInstance.element.css("color",getGreenOrRedColorByInclination(averageInclination.average));
+        currentInstance.element.css("background",getGreenOrRedColorByInclination(averageInclination.average));
         currentInstance.element.html(averageInclination.average.toFixed(2));
     }
 

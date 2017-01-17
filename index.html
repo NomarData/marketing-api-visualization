@@ -83,13 +83,13 @@
                     <span>Audience</span>: <strong id="audience"></strong>
                 </div>
                 <div>
-                    <span>Facebook Coverage</span>: <strong id="fbPopulationTooltip"></strong>
-                </div>
-                <div>
                     <span>Health Audience</span>: <strong id="healthAudienceTooltip"></strong>
                 </div>
                 <div>
                     <span>Luxury Audience</span>: <strong id="luxuryAudienceTooltip"></strong>
+                </div>
+                <div>
+                    <span>Facebook Coverage</span>: <strong id="fbPopulationTooltip"></strong>
                 </div>
             </div>
 
@@ -172,11 +172,35 @@
                 <div class="text-center">
                     <span class="healAwarenessScoreTitle"> Health Awareness Score: </span><span id="inclinationScore">0</span>
                 </div>
-
                 <div class="text-center">
-                    <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top;"/>
-                    <span id="horizontalStackedBar"> </span>
-                    <img src="imgs/jewel.svg"  style="max-width: 40px; vertical-align: top;" />
+                    <div class="row">
+                        <div class="span1">
+                            <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top;"/>
+                        </div>
+                        <div class="span9">
+                            <div class="row">
+                                <span id="horizontalStackedBar"> </span>
+                            </div>
+                            <div class="row">
+                                <span id="treemapLegend"></span>
+                            </div>
+                        </div>
+                        <div class="span1">
+                            <img src="imgs/jewel.svg"  style="max-width: 40px; vertical-align: top;" />
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+            <div class="span10 offset1">
+                <!--<div class="text-center">-->
+                    <!--<div><strong>Health Awareness Score's legend:</strong></div>-->
+                <!--</div>-->
+                <div class="row">
+
                 </div>
             </div>
 
@@ -224,16 +248,6 @@
                 </div>
                 <div id="alertToSelectCountry" class="text-center hidden">
                     <div><h2>Select at least one country</h2></div>
-                </div>
-                <div class="text-center">
-                    <div><strong>Health Awareness Score's legend:</strong></div>
-                </div>
-                <div class="row">
-                    <div class="span5">
-                        <div id="treemapLegend">
-
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="span6">

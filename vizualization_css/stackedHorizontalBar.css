@@ -30,9 +30,7 @@
 }
 
 .align {
-
     margin-top: 20px;//This 20px is the margin of .pagination class so to match that else you have to alter pagination class
-float:left;
 }
 
 
