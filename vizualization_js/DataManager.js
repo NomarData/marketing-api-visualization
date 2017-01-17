@@ -198,6 +198,7 @@ function DataManager(){
             var selectedInstances = currentInstance.getSelectedInstances();
             // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
             var total = dataManager.selectedFbDemographicSum;
+            averageInclination.total = total;
             averageInclination.greenAudience =  selectedInstances.map(
                 function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0})
                 .reduce(function (total, num) { return total + num});

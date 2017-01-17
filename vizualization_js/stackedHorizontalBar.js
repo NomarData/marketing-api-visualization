@@ -60,7 +60,7 @@ function stackedHorizontalBar(){
         var svg = currentInstance.svg;
         var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
-
+        currentInstance.totalGreenBar.transition().duration(750);
 
         currentInstance.updateDomain(dataManager.selectedFbDemographicSum);
         $(".x.axis").remove();
@@ -77,10 +77,15 @@ function stackedHorizontalBar(){
 
         greenBar.attr("x", function (d) { return  currentInstance.x(Math.min(0, -data.greenAudience ));});
         greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(-data.greenAudience) - currentInstance.x(0))});
+        currentInstance.totalGreenBar.transition().duration(750)
+            .attr("width", function (d) {return Math.abs(currentInstance.x(-data.total) - currentInstance.x(0))})
+            .attr("x", function (d) { return  currentInstance.x(Math.min(0, -data.total ));});
+
         greenBar.attr("style", function(d){return "fill: #1a9850"});
 
         // redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
         redBar.attr("width", function (d) { return Math.abs(currentInstance.x(data.redAudience ) - currentInstance.x(0)); });
+        currentInstance.totalRedBar.transition().duration(750).attr("width", function (d) { return Math.abs(currentInstance.x(data.total) - currentInstance.x(0)); });
         redBar.attr("style", function(d){ return "fill: #d73027"});
         svg.selectAll(".redBar").data(currentInstance.redData);
 
@@ -231,6 +236,25 @@ function stackedHorizontalBar(){
             return d.name;
         }));
 
+        var totalGreenBar = svg.selectAll(".greenBarTotal")
+            .data(greenData)
+            .enter().append("rect")
+            .attr("class", "greenBarTotal")
+            .attr("style", function(d){
+                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkgreen"
+            })
+            .attr("x", function (d) {
+                return x(-1);
+            })
+            .attr("y", function (d) {
+                return y(d.name);
+            })
+            .attr("width", function (d) {
+                // return Math.abs(x(-d.audience) - x(0));
+                return x(1) - x(0);
+            })
+            .attr("height", y.rangeBand());
+
         svg.selectAll(".greenBar")
             .data(greenData)
             .enter().append("rect")
@@ -252,15 +276,17 @@ function stackedHorizontalBar(){
             .on("mouseout", currentInstance.mouseoutTooltip)
             .on("click", currentInstance.mouseClick);
 
-        svg.selectAll(".greenBarTotal")
+
+
+        var totalRedBar = svg.selectAll(".redBarTotal")
             .data(greenData)
             .enter().append("rect")
-            .attr("class", "greenBarTotal")
+            .attr("class", "redBarTotal")
             .attr("style", function(d){
-                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkgreen"
+                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkred"
             })
             .attr("x", function (d) {
-                return x(-1);
+                return x(0);
             })
             .attr("y", function (d) {
                 return y(d.name);
@@ -292,24 +318,7 @@ function stackedHorizontalBar(){
             .on("mouseout", currentInstance.mouseoutTooltip)
             .on("click", currentInstance.mouseClick);
 
-        svg.selectAll(".redBarTotal")
-            .data(greenData)
-            .enter().append("rect")
-            .attr("class", "redBarTotal")
-            .attr("style", function(d){
-                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkred"
-            })
-            .attr("x", function (d) {
-                return x(0);
-            })
-            .attr("y", function (d) {
-                return y(d.name);
-            })
-            .attr("width", function (d) {
-                // return Math.abs(x(-d.audience) - x(0));
-                return x(1) - x(0);
-            })
-            .attr("height", y.rangeBand());
+
 
         svg.append("g")
             .attr("class", "x axis")
@@ -322,6 +331,8 @@ function stackedHorizontalBar(){
             .attr("x2", x(0))
             .attr("y2", height);
 
+        currentInstance.totalRedBar = totalRedBar;
+        currentInstance.totalGreenBar = totalGreenBar;
         // Build Legend
         currentInstance.buildTreemapLegends(colorFunction);
     };
