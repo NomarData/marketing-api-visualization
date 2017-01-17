@@ -159,13 +159,13 @@ function stackedHorizontalBar(){
         var axisPadding = 10;
         var scoreBlueMarkerWidth = 5;
         // debugger
-        var key = d3.select("#treemapLegend").append("svg")
+        var legendSvg = d3.select("#treemapLegend").append("svg")
             .attr("width",w)
             .attr("height", h)
             .append("g")
             .attr("transform", "translate(" + 0 + "," + 0 + ")");
 
-        var legend = key.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
+        var legend = legendSvg.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
 
         //Appending colors
         var max=1, data = [], min=-1;
@@ -183,12 +183,15 @@ function stackedHorizontalBar(){
             legend.append("stop").attr("offset", +percentage + "%").attr("stop-color", colorFunction(breakpoint)).attr("stop-opacity", 1);
         }
 
-        key.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
+        legendSvg.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
         var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([1, -1]);
         var axis = d3.svg.axis().scale(axisScale).ticks(20);
-        key.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
-        var scoreBlueMarker = key.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
+        legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
 
+        // var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
+        var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
+
+        currentInstance.legendSvg = legendSvg;
         currentInstance.scoreBlueMarker = scoreBlueMarker;
         currentInstance.currentLegendAxisWidth = legendWidth - axisPadding;
         currentInstance.scoreBlueMarkerWidth = scoreBlueMarkerWidth;
@@ -235,9 +238,6 @@ function stackedHorizontalBar(){
             .attr("style", function(d){
                 return "fill: " + getGreenOrRedColorByInclination(-d.audience)
             })
-            .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(-d.audience)
-            })
             .attr("x", function (d) {
                 return x(Math.min(0, -d.audience));
             })
@@ -251,6 +251,25 @@ function stackedHorizontalBar(){
             .on("mousemove", currentInstance.mousemoveTooltip)
             .on("mouseout", currentInstance.mouseoutTooltip)
             .on("click", currentInstance.mouseClick);
+
+        svg.selectAll(".greenBarTotal")
+            .data(greenData)
+            .enter().append("rect")
+            .attr("class", "greenBarTotal")
+            .attr("style", function(d){
+                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkgreen"
+            })
+            .attr("x", function (d) {
+                return x(-1);
+            })
+            .attr("y", function (d) {
+                return y(d.name);
+            })
+            .attr("width", function (d) {
+                // return Math.abs(x(-d.audience) - x(0));
+                return x(1) - x(0);
+            })
+            .attr("height", y.rangeBand());
 
         svg.selectAll(".redBar")
             .data(redData)
@@ -272,6 +291,25 @@ function stackedHorizontalBar(){
             .on("mousemove", currentInstance.mousemoveTooltip)
             .on("mouseout", currentInstance.mouseoutTooltip)
             .on("click", currentInstance.mouseClick);
+
+        svg.selectAll(".redBarTotal")
+            .data(greenData)
+            .enter().append("rect")
+            .attr("class", "redBarTotal")
+            .attr("style", function(d){
+                return "fill: rgba(255, 255, 255, 0);stroke-width:1;stroke:darkred"
+            })
+            .attr("x", function (d) {
+                return x(0);
+            })
+            .attr("y", function (d) {
+                return y(d.name);
+            })
+            .attr("width", function (d) {
+                // return Math.abs(x(-d.audience) - x(0));
+                return x(1) - x(0);
+            })
+            .attr("height", y.rangeBand());
 
         svg.append("g")
             .attr("class", "x axis")
