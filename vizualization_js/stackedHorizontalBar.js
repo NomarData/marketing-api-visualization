@@ -88,12 +88,9 @@ function stackedHorizontalBar(){
     };
 
     this.updateLegend = function(scoreData){
-        var maxBlueMarkPosition = currentInstance.currentLegendWidth;
-        var minBlueMarkPosition = 0;
-        var maxScore = 1;
-        var minScore = -1;
-        var currentScore = (scoreData.average * -1) + 1;
-        var newBlueMarkPosition = currentScore * maxBlueMarkPosition / 2 + 2.5;
+        var maxBlueMarkPosition = currentInstance.currentLegendAxisWidth;
+        var currentScore = parseFloat(scoreData.average.toPrecision(2));
+        var newBlueMarkPosition = (currentScore * -1 + 1) * maxBlueMarkPosition / 2 + currentInstance.scoreBlueMarkerWidth/2;
         currentInstance.scoreBlueMarker.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
     }
 
@@ -187,13 +184,13 @@ function stackedHorizontalBar(){
         }
 
         key.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
-        var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([-1, 1]);
+        var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([1, -1]);
         var axis = d3.svg.axis().scale(axisScale).ticks(20);
         key.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
         var scoreBlueMarker = key.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
 
         currentInstance.scoreBlueMarker = scoreBlueMarker;
-        currentInstance.currentLegendWidth = legendWidth;
+        currentInstance.currentLegendAxisWidth = legendWidth - axisPadding;
         currentInstance.scoreBlueMarkerWidth = scoreBlueMarkerWidth;
     }
 
