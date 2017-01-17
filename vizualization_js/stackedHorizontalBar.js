@@ -65,7 +65,7 @@ function stackedHorizontalBar(){
         currentInstance.updateDomain(dataManager.selectedFbDemographicSum);
         $(".x.axis").remove();
         currentInstance.svg.append("g")
-            .attr("class", "x axis")
+            .attr("class", "x axis horizontalBarAxis")
             .call(currentInstance.xAxis());
 
         currentInstance.greenData[0].audience = data.greenAudience;
@@ -157,8 +157,8 @@ function stackedHorizontalBar(){
     };
 
     this.buildTreemapLegends = function(colorFunction){
-        var w = this.width - 100, h = 20;
-        var legendWidth = this.width - 100;
+        var w = this.width, h = 20;
+        var legendWidth = this.width;
         var translateXPositionAxis = 0;
         var translateXPositionRect = translateXPositionAxis ;
         var axisPadding = 10;
@@ -321,7 +321,7 @@ function stackedHorizontalBar(){
 
 
         svg.append("g")
-            .attr("class", "x axis")
+            .attr("class", "x axis horizontalBarAxis")
             .call(xAxis);
 
         svg.append("g")
