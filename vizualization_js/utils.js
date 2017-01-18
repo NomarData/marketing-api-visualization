@@ -33,6 +33,10 @@ function buildAndInitVisualComponents(){
 }
 
 
+function scoreToPercentage(score){
+    return (score * 100).toFixed(2) + "%"
+}
+
 
 function buildBreakPoints(domainBreakpoints, colorRange){
     var breakPoints = [];

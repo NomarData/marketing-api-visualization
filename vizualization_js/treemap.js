@@ -163,14 +163,14 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
 
     this.getOpacityBasedOnData = function(d, textElement,newWidth,newHeight){
 
-        var labelWidth = textElement.getComputedTextLength();
+        var labelWidth = textElement.getComputedTextLength() * 0.73;
         var labelHeight = 34;
         var showDueWidth = labelWidth > newWidth ? 0 : 1;
         var showDueHeight = labelHeight > newHeight ? 0 : 1;
         if(showDueHeight && showDueWidth){
             return "1"
         } else {
-            return "0"
+            return "0.5"
         };
     };
     this.zoom = function(self,focusNode){
@@ -248,7 +248,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .text(currentInstance.getFormattedAudience(d.size));
 
         d3.select("#tooltip-treemap #scoreTooltip")
-            .text(currentInstance.getFormattedAudience(d.inclination.toFixed(2)));
+            .text(scoreToPercentage(d.inclination));
 
         d3.select("#tooltip-treemap #luxuryAudienceTooltip")
             .text(currentInstance.getFormattedAudience(d.luxuryAudience));

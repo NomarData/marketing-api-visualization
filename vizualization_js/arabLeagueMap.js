@@ -269,7 +269,7 @@ function arabLeagueDatamap(){
 
         } else {
             d3.select("#countryDataTooltipContainer").classed("hidden",false);
-            d3.select("#tooltip-countries #countryScoreTooltip").text(countryData.score.toFixed(2));
+            d3.select("#tooltip-countries #countryScoreTooltip").text(scoreToPercentage(countryData.score));
             d3.select("#tooltip-countries  #countryFacebookCoverage")
                 .text(convertIntegerToReadable(countryData.audienceCoverage));
 

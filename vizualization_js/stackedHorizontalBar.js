@@ -118,7 +118,7 @@ function stackedHorizontalBar(){
             .text(currentInstance.getFormattedAudience(dataManager.selectedFbDemographicSum));
 
         d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
-            .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
+            .text(scoreToPercentage(d.score));
     };
     this.mouseClick = function(d){
         if(d.score > 0){
