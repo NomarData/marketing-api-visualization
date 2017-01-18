@@ -89,15 +89,22 @@ function stackedHorizontalBar(){
         redBar.attr("style", function(d){ return "fill: #d73027"});
         svg.selectAll(".redBar").data(currentInstance.redData);
 
-        currentInstance.updateLegend(data)
+        currentInstance.updateBlueMarkOnStackedBar(data);
+        currentInstance.updateBlueMarkOnLegend(data);
     };
 
-    this.updateLegend = function(scoreData){
+    this.updateBlueMarkOnStackedBar = function(scoreData){
+        var currentScore = parseFloat(scoreData.average.toPrecision(2));
+        var newBlueMarkPosition =  currentInstance.x(-scoreData.average * scoreData.total) - currentInstance.scoreBlueMarkerOnStackedBarWidth/2;
+        currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
+    };
+
+    this.updateBlueMarkOnLegend = function(scoreData){
         var maxBlueMarkPosition = currentInstance.currentLegendAxisWidth;
         var currentScore = parseFloat(scoreData.average.toPrecision(2));
-        var newBlueMarkPosition = (currentScore * -1 + 1) * maxBlueMarkPosition / 2 + currentInstance.scoreBlueMarkerWidth/2;
-        currentInstance.scoreBlueMarker.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
-    }
+        var newBlueMarkPosition = (currentScore * -1 + 1) * maxBlueMarkPosition / 2 + currentInstance.scoreBlueMarkerOnLegendWidth/2;
+        currentInstance.scoreBlueMarkerOnLegend.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
+    };
 
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
@@ -194,12 +201,12 @@ function stackedHorizontalBar(){
         legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
 
         // var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
-        var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
+        var scoreBlueMarkerOnLegend = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "#304FFE").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
 
         currentInstance.legendSvg = legendSvg;
-        currentInstance.scoreBlueMarker = scoreBlueMarker;
+        currentInstance.scoreBlueMarkerOnLegend = scoreBlueMarkerOnLegend;
         currentInstance.currentLegendAxisWidth = legendWidth - axisPadding;
-        currentInstance.scoreBlueMarkerWidth = scoreBlueMarkerWidth;
+        currentInstance.scoreBlueMarkerOnLegendWidth = scoreBlueMarkerWidth;
     }
 
     this.init = function(){
@@ -331,8 +338,13 @@ function stackedHorizontalBar(){
             .attr("x2", x(0))
             .attr("y2", height);
 
+        var scoreBlueMarkerOnStackedBarWidth = 3;
+        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("width", scoreBlueMarkerOnStackedBarWidth).attr("height", height).style("fill", "#304FFE").attr("transform", "translate(" + (x(0) - scoreBlueMarkerOnStackedBarWidth/2) + ",0)");
+
         currentInstance.totalRedBar = totalRedBar;
         currentInstance.totalGreenBar = totalGreenBar;
+        currentInstance.scoreBlueMarkerOnStackedBar = scoreBlueMarkerOnStackedBar;
+        currentInstance.scoreBlueMarkerOnStackedBarWidth = scoreBlueMarkerOnStackedBarWidth;
         // Build Legend
         currentInstance.buildTreemapLegends(colorFunction);
     };

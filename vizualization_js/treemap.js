@@ -172,11 +172,12 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             return "1"
         } else {
             console.log("LabelWidth:" + labelWidth + " NewWidth:" + newWidth + " " + textElement.textContent);
-            return newWidth/labelWidth; //A solution for the problem of small tiles in large tiles,
+            // return newWidth/labelWidth; //A solution for the problem of small tiles in large tiles,
                                         // the opacity will be dynamic according to the ratio of label and the size of the tile
                                         // if the tile is smaller but the ratio is close to 1, the opacity will be close to 1.
                                         // if the tile is too small, so ratio will be close to 0 as the opacity.
-        };
+            return 0.5;
+        }
     };
     this.zoom = function(self,focusNode){
         var kx = currentInstance.w / focusNode.dx, ky = currentInstance.h / focusNode.dy;

@@ -132,6 +132,7 @@ function DataManager(){
         if(currentInstance.selectedFbDemographicInstances.length > 0){
             var total = currentInstance.selectedFbDemographicInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
             currentInstance.selectedFbDemographicSum = total;
+
         } else {
             currentInstance.selectedFbDemographicSum = 0;
         }
@@ -191,7 +192,7 @@ function DataManager(){
         return false;
     };
     this.getAverageSelectedInclination = function(){
-        var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0};
+        var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0, "total":0};
         if(currentInstance.selectedCountries_2letters.length == 0){
             return averageInclination;
         } else{
