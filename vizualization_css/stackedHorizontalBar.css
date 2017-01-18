@@ -48,6 +48,9 @@
     display: none;
 }
 
-#horizontalStackedBar rect{
+#horizontalStackedBar .greenBar{
+    cursor: pointer;
+}
+#horizontalStackedBar .redBar{
     cursor: pointer;
 }
