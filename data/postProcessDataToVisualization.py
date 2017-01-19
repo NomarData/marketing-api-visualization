@@ -8,6 +8,7 @@ import os
 
 NULL_VALUE = "NOTSELECTED"
 ALL_VALUE = "ALL"
+UNIQUE_TIME_ID = str(time.time()).split(".")[0]
 
 def zipdir(path, ziph):
     # ziph is zipfile handle
@@ -346,7 +347,7 @@ class PandasDataset:
 
     def zip_folder(self):
         print "Saving zipped folder"
-        zipf = zipfile.ZipFile('data.zip', 'w', zipfile.ZIP_DEFLATED)
+        zipf = zipfile.ZipFile('data_' + UNIQUE_TIME_ID + '.zip', 'w', zipfile.ZIP_DEFLATED)
         zipdir('application_data/', zipf)
         zipf.close()
 
