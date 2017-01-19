@@ -296,3 +296,15 @@ mapValuesStringsTooltip = {
     "age_range" : "Age Range",
     "gender" : "Gender",
 };
+mapValuesTileTitle = {
+    "Female" : "Female",
+    "Male" : "Male",
+    "18-24" : "18-24",
+    "25-44" : "25-44",
+    "45+" : "45+",
+    "HS" : "HS",
+    "ND" : "ND",
+    "GRAD" : "Grad",
+    "Expats" : "Expats",
+    "Locals" : "Locals",
+};
