@@ -11,3 +11,5 @@ data/output_1478189396.csv
 node_modules/
 shippable/
 coverage/
+/data/update/data.csv
+data/update/postProcessDataToVisualization.pyc
