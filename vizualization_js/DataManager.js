@@ -62,6 +62,10 @@ function DataManager(){
         currentInstance.selectedCountries_2letters = [];
         currentInstance.updateVisualComponents();
     };
+    this.selectGCCCountries = function () {
+        currentInstance.selectedCountries_2letters = ["BH", "KW", "QA", "SA", "OM","AE"];
+        currentInstance.updateVisualComponents();
+    }
     this.selectAllCountries = function(){
         currentInstance.selectedCountries_2letters = [];
         for(var countryCode in countryCodeMap){

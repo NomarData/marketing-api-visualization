@@ -24,7 +24,7 @@ function stackedHorizontalBar(){
     this.y = d3.scale.ordinal().rangeRoundBands([0, this.height]);
     this.xAxis = function(self){
         if(currentInstance.width < 500){
-            return currentInstance.buildScaleGivenNumberOfTicks(3);
+            return currentInstance.buildScaleGivenNumberOfTicks(5);
         } else{
             return currentInstance.buildScaleGivenNumberOfTicks(10);
         }
@@ -90,13 +90,26 @@ function stackedHorizontalBar(){
         svg.selectAll(".redBar").data(currentInstance.redData);
 
         currentInstance.updateBlueMarkOnStackedBar(data);
-        currentInstance.updateBlueMarkOnLegend(data);
     };
 
     this.updateBlueMarkOnStackedBar = function(scoreData){
-        var currentScore = parseFloat(scoreData.average.toPrecision(2));
-        var newBlueMarkPosition =  currentInstance.x(-scoreData.average * scoreData.total) - currentInstance.scoreBlueMarkerOnStackedBarWidth/2;
-        currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
+        var x = this.x;
+        var newBlueMarkPosition;
+        var newBlueMarkWidth;
+        if(scoreData.average > 0){
+            newBlueMarkPosition =  x(-(scoreData.average * scoreData.total));
+            newBlueMarkWidth =  Math.abs(newBlueMarkPosition - currentInstance.x(0));
+            console.log("Width:" + newBlueMarkWidth)
+            currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750)
+                .attr("width", newBlueMarkWidth)
+                .attr("transform","translate(" + newBlueMarkPosition + ", 0)");
+        }
+        if(scoreData.average < 0){
+            newBlueMarkPosition = x(0);
+            newBlueMarkWidth =  x(Math.abs(scoreData.average) * scoreData.total) - x(0);
+            currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)").attr("width", newBlueMarkWidth);
+        }
+
     };
 
     this.updateBlueMarkOnLegend = function(scoreData){
@@ -138,7 +151,7 @@ function stackedHorizontalBar(){
             .text(currentInstance.getFormattedAudience(dataManager.selectedFbDemographicSum));
 
         d3.select("#tooltip-stackedbar #scoreTooltipStackedBar")
-            .text(currentInstance.getFormattedAudience(d.score.toFixed(2)));
+            .text(scoreToPercentage(d.score));
     };
     this.mouseClick = function(d){
         if(d.score > 0){
@@ -159,13 +172,14 @@ function stackedHorizontalBar(){
             }
         }
     };
-    this.mouseoutTooltip = function(d){
+    this.mouseoutTooltip = function(){
         d3.select("#tooltip-stackedbar").classed("hidden", true);
     };
 
     this.buildTreemapLegends = function(colorFunction){
-        var w = this.width, h = 20;
-        var legendWidth = this.width;
+        var margin = 30;
+        var w = $("#treemapLegend").width() - margin, h = 20;
+        var legendWidth = w;
         var translateXPositionAxis = 0;
         var translateXPositionRect = translateXPositionAxis ;
         var axisPadding = 10;
@@ -175,13 +189,13 @@ function stackedHorizontalBar(){
             .attr("width",w)
             .attr("height", h)
             .append("g")
-            .attr("transform", "translate(" + 0 + "," + 0 + ")");
+            .attr("transform", "translate(" + margin + "," + 0 + ")");
 
         var legend = legendSvg.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
 
         //Appending colors
         var max=1, data = [], min=-1;
-        var numberOfSteps = 20;
+        var numberOfSteps = 10;
         var step = (max-min)/numberOfSteps;
         var stepPercentage = 100/numberOfSteps;
         var percentage = 0;
@@ -193,20 +207,18 @@ function stackedHorizontalBar(){
             let breakpoint = data[index][0];
             let percentage = data[index][1];
             legend.append("stop").attr("offset", +percentage + "%").attr("stop-color", colorFunction(breakpoint)).attr("stop-opacity", 1);
+
         }
 
         legendSvg.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
         var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([1, -1]);
-        var axis = d3.svg.axis().scale(axisScale).ticks(20);
+        var axis = d3.svg.axis().scale(axisScale).ticks(numberOfSteps);
         legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
 
         // var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
-        var scoreBlueMarkerOnLegend = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "#304FFE").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
 
         currentInstance.legendSvg = legendSvg;
-        currentInstance.scoreBlueMarkerOnLegend = scoreBlueMarkerOnLegend;
         currentInstance.currentLegendAxisWidth = legendWidth - axisPadding;
-        currentInstance.scoreBlueMarkerOnLegendWidth = scoreBlueMarkerWidth;
     }
 
     this.init = function(){
@@ -339,7 +351,13 @@ function stackedHorizontalBar(){
             .attr("y2", height);
 
         var scoreBlueMarkerOnStackedBarWidth = 3;
-        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("width", scoreBlueMarkerOnStackedBarWidth).attr("height", height).style("fill", "#304FFE").attr("transform", "translate(" + (x(0) - scoreBlueMarkerOnStackedBarWidth/2) + ",0)");
+        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("class","blueMarkerScore")
+            .attr("width", scoreBlueMarkerOnStackedBarWidth)
+            .attr("height", height)
+            .style("stroke", "blue")
+            .style("stroke-width", "2")
+            .style("fill", "rgba(48, 79, 254, 0)")
+            .attr("transform", "translate(" + (x(0) - scoreBlueMarkerOnStackedBarWidth/2) + ",0)");
 
         currentInstance.totalRedBar = totalRedBar;
         currentInstance.totalGreenBar = totalGreenBar;

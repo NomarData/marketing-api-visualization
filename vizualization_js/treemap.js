@@ -162,21 +162,21 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         });
 
     this.getOpacityBasedOnData = function(d, textElement,newWidth,newHeight){
-
         var labelWidth = textElement.getComputedTextLength(); //Guess the width of a text that is still not rendered
         labelWidth = labelWidth * 0.73; //Correction of the above guess given previous experience
+
         var labelHeight = 34;
         var showDueWidth = labelWidth  > newWidth ? 0 : 1;
         var showDueHeight = labelHeight > newHeight ? 0 : 1;
         if(showDueHeight && showDueWidth){
             return "1"
         } else {
-            console.log("LabelWidth:" + labelWidth + " NewWidth:" + newWidth + " " + textElement.textContent);
+            console.log("LabelWidth:" + labelWidth + " New Width:" + newWidth + " " + textElement.textContent);
             // return newWidth/labelWidth; //A solution for the problem of small tiles in large tiles,
                                         // the opacity will be dynamic according to the ratio of label and the size of the tile
                                         // if the tile is smaller but the ratio is close to 1, the opacity will be close to 1.
                                         // if the tile is too small, so ratio will be close to 0 as the opacity.
-            return 0.5;
+            return 0.5; //Fixed Opacity to 0.5
         }
     };
     this.zoom = function(self,focusNode){
@@ -254,7 +254,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .text(currentInstance.getFormattedAudience(d.size));
 
         d3.select("#tooltip-treemap #scoreTooltip")
-            .text(currentInstance.getFormattedAudience(d.inclination.toFixed(2)));
+            .text(scoreToPercentage(d.inclination));
 
         d3.select("#tooltip-treemap #luxuryAudienceTooltip")
             .text(currentInstance.getFormattedAudience(d.luxuryAudience));
@@ -320,12 +320,16 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
 
     this.setTextLines = function(d){
         $(this).empty();
+        var nodeName = d.name;
+        if(nodeName in mapValuesTileTitle){
+            nodeName = mapValuesTileTitle[nodeName];
+        }
         var tspanLine1 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
             .attr("y", 0)
             .attr("dx",  function(d) { return d.dx / 2; })
             .attr("dy", function(d) { return d.dy / 2; })
-            .text(d.name);
+            .text(nodeName);
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", 0)
             .attr("y", 0)
