@@ -162,7 +162,7 @@ function stackedHorizontalBar(){
     this.mouseClick = function(d){
         if(d.score > 0){
             var luxurySelectedTopic = $(".btn-luxury.btn-selected");
-            if(luxurySelectedTopic.size() == 0){
+            if(luxurySelectedTopic.size() == 0 && currentInstance.selectedBefore){
                 currentInstance.selectedBefore.click();
             } else {
                 currentInstance.selectedBefore = luxurySelectedTopic;
@@ -170,7 +170,7 @@ function stackedHorizontalBar(){
             }
         } else {
             var healthSelectedTopic = $(".btn-health.btn-selected");
-            if(healthSelectedTopic.size() == 0){
+            if(healthSelectedTopic.size() == 0 && currentInstance.selectedBefore){
                 currentInstance.selectedBefore.click();
             } else {
                 currentInstance.selectedBefore = healthSelectedTopic;
