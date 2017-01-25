@@ -27,6 +27,20 @@
             return promise;
         };
 
+        this.getHistoricMapDataPromise = function(){
+            var defer = $.Deferred();
+            //Try to load file healthSelection first, or luxurySelection first
+            d3.csv(HISTORY_MAP_FILE_PATH, function(error, data) {
+                if(error){
+                    throw Error("Error loading csv : " + error);
+                } else{
+                    defer.resolve({history:data});
+                }
+            });
+            var promise = defer.promise();
+            return promise;
+        };
+
         this.getPromiseToUpdateDatasetBySelection = function(luxurySelection, healthSelection){
             var defer = $.Deferred();
             if(luxurySelection != null && healthSelection != null){
@@ -114,6 +128,17 @@
 
         };
 
-        this.init = function(){};
+        this.loadHistoryFile = function () {
+            currentInstance.getHistoricMapDataPromise().done(function(d){
+                let lastUpdateDate = d.history[d.history.length -1].date
+                console.log("Last Update: " + lastUpdateDate);
+                $("#lastUpdateText").text(lastUpdateDate);
+            });
+        }
+
+        this.init = function(){
+            currentInstance.loadHistoryFile()
+
+        };
         this.init();
     }

@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+3060,18-24,Male,Expats,Graduated,5200,diabetes awareness,DZ
+3061,25-44,Male,Expats,Graduated,6100,diabetes awareness,DZ
+3062,45+,Male,Expats,Graduated,1600,diabetes awareness,DZ
+3063,18-24,Female,Expats,Graduated,2400,diabetes awareness,DZ
+3064,25-44,Female,Expats,Graduated,2200,diabetes awareness,DZ
+3065,45+,Female,Expats,Graduated,680,diabetes awareness,DZ
+3066,18-24,Male,Expats,No Degree,2500,diabetes awareness,DZ
+3067,25-44,Male,Expats,No Degree,4400,diabetes awareness,DZ
+3068,45+,Male,Expats,No Degree,1300,diabetes awareness,DZ
+3069,18-24,Female,Expats,No Degree,1100,diabetes awareness,DZ
+3070,25-44,Female,Expats,No Degree,2000,diabetes awareness,DZ
+3071,45+,Female,Expats,No Degree,810,diabetes awareness,DZ
+3072,18-24,Male,Expats,High School,1800,diabetes awareness,DZ
+3073,25-44,Male,Expats,High School,1500,diabetes awareness,DZ
+3074,45+,Male,Expats,High School,430,diabetes awareness,DZ
+3075,18-24,Female,Expats,High School,970,diabetes awareness,DZ
+3076,25-44,Female,Expats,High School,360,diabetes awareness,DZ
+3077,45+,Female,Expats,High School,320,diabetes awareness,DZ
+3078,18-24,Male,Locals,Graduated,25000,diabetes awareness,DZ
+3079,25-44,Male,Locals,Graduated,49000,diabetes awareness,DZ
+3080,45+,Male,Locals,Graduated,12000,diabetes awareness,DZ
+3081,18-24,Female,Locals,Graduated,28000,diabetes awareness,DZ
+3082,25-44,Female,Locals,Graduated,38000,diabetes awareness,DZ
+3083,45+,Female,Locals,Graduated,6500,diabetes awareness,DZ
+3084,18-24,Male,Locals,No Degree,31000,diabetes awareness,DZ
+3085,25-44,Male,Locals,No Degree,63000,diabetes awareness,DZ
+3086,45+,Male,Locals,No Degree,16000,diabetes awareness,DZ
+3087,18-24,Female,Locals,No Degree,25000,diabetes awareness,DZ
+3088,25-44,Female,Locals,No Degree,34000,diabetes awareness,DZ
+3089,45+,Female,Locals,No Degree,9400,diabetes awareness,DZ
+3090,18-24,Male,Locals,High School,12000,diabetes awareness,DZ
+3091,25-44,Male,Locals,High School,13000,diabetes awareness,DZ
+3092,45+,Male,Locals,High School,3900,diabetes awareness,DZ
+3093,18-24,Female,Locals,High School,13000,diabetes awareness,DZ
+3094,25-44,Female,Locals,High School,8600,diabetes awareness,DZ
+3095,45+,Female,Locals,High School,2800,diabetes awareness,DZ
+3096,18-24,Male,Expats,Graduated,600,diabetes awareness,BH
+3097,25-44,Male,Expats,Graduated,2400,diabetes awareness,BH
+3098,45+,Male,Expats,Graduated,540,diabetes awareness,BH
+3099,18-24,Female,Expats,Graduated,130,diabetes awareness,BH
+3100,25-44,Female,Expats,Graduated,1900,diabetes awareness,BH
+3101,45+,Female,Expats,Graduated,910,diabetes awareness,BH
+3102,18-24,Male,Expats,No Degree,360,diabetes awareness,BH
+3103,25-44,Male,Expats,No Degree,1300,diabetes awareness,BH
+3104,45+,Male,Expats,No Degree,310,diabetes awareness,BH
+3105,18-24,Female,Expats,No Degree,90,diabetes awareness,BH
+3106,25-44,Female,Expats,No Degree,550,diabetes awareness,BH
+3107,45+,Female,Expats,No Degree,550,diabetes awareness,BH
+3108,18-24,Male,Expats,High School,210,diabetes awareness,BH
+3109,25-44,Male,Expats,High School,550,diabetes awareness,BH
+3110,45+,Male,Expats,High School,150,diabetes awareness,BH
+3111,18-24,Female,Expats,High School,100,diabetes awareness,BH
+3112,25-44,Female,Expats,High School,520,diabetes awareness,BH
+3113,45+,Female,Expats,High School,280,diabetes awareness,BH
+3114,18-24,Male,Locals,Graduated,250,diabetes awareness,BH
+3115,25-44,Male,Locals,Graduated,360,diabetes awareness,BH
+3116,45+,Male,Locals,Graduated,210,diabetes awareness,BH
+3117,18-24,Female,Locals,Graduated,110,diabetes awareness,BH
+3118,25-44,Female,Locals,Graduated,430,diabetes awareness,BH
+3119,45+,Female,Locals,Graduated,110,diabetes awareness,BH
+3120,18-24,Male,Locals,No Degree,190,diabetes awareness,BH
+3121,25-44,Male,Locals,No Degree,360,diabetes awareness,BH
+3122,45+,Male,Locals,No Degree,90,diabetes awareness,BH
+3123,18-24,Female,Locals,No Degree,60,diabetes awareness,BH
+3124,25-44,Female,Locals,No Degree,220,diabetes awareness,BH
+3125,45+,Female,Locals,No Degree,80,diabetes awareness,BH
+3126,18-24,Male,Locals,High School,80,diabetes awareness,BH
+3127,25-44,Male,Locals,High School,120,diabetes awareness,BH
+3128,45+,Male,Locals,High School,40,diabetes awareness,BH
+3129,18-24,Female,Locals,High School,100,diabetes awareness,BH
+3130,25-44,Female,Locals,High School,130,diabetes awareness,BH
+3131,45+,Female,Locals,High School,20,diabetes awareness,BH
+3132,18-24,Male,Expats,Graduated,3300,diabetes awareness,EG
+3133,25-44,Male,Expats,Graduated,7600,diabetes awareness,EG
+3134,45+,Male,Expats,Graduated,3400,diabetes awareness,EG
+3135,18-24,Female,Expats,Graduated,1700,diabetes awareness,EG
+3136,25-44,Female,Expats,Graduated,4500,diabetes awareness,EG
+3137,45+,Female,Expats,Graduated,2000,diabetes awareness,EG
+3138,18-24,Male,Expats,No Degree,980,diabetes awareness,EG
+3139,25-44,Male,Expats,No Degree,2700,diabetes awareness,EG
+3140,45+,Male,Expats,No Degree,1800,diabetes awareness,EG
+3141,18-24,Female,Expats,No Degree,690,diabetes awareness,EG
+3142,25-44,Female,Expats,No Degree,1400,diabetes awareness,EG
+3143,45+,Female,Expats,No Degree,1900,diabetes awareness,EG
+3144,18-24,Male,Expats,High School,2000,diabetes awareness,EG
+3145,25-44,Male,Expats,High School,1800,diabetes awareness,EG
+3146,45+,Male,Expats,High School,870,diabetes awareness,EG
+3147,18-24,Female,Expats,High School,1600,diabetes awareness,EG
+3148,25-44,Female,Expats,High School,980,diabetes awareness,EG
+3149,45+,Female,Expats,High School,450,diabetes awareness,EG
+3150,18-24,Male,Locals,Graduated,69000,diabetes awareness,EG
+3151,25-44,Male,Locals,Graduated,140000,diabetes awareness,EG
+3152,45+,Male,Locals,Graduated,66000,diabetes awareness,EG
+3153,18-24,Female,Locals,Graduated,57000,diabetes awareness,EG
+3154,25-44,Female,Locals,Graduated,110000,diabetes awareness,EG
+3155,45+,Female,Locals,Graduated,37000,diabetes awareness,EG
+3156,18-24,Male,Locals,No Degree,43000,diabetes awareness,EG
+3157,25-44,Male,Locals,No Degree,81000,diabetes awareness,EG
+3158,45+,Male,Locals,No Degree,72000,diabetes awareness,EG
+3159,18-24,Female,Locals,No Degree,36000,diabetes awareness,EG
+3160,25-44,Female,Locals,No Degree,74000,diabetes awareness,EG
+3161,45+,Female,Locals,No Degree,60000,diabetes awareness,EG
+3162,18-24,Male,Locals,High School,48000,diabetes awareness,EG
+3163,25-44,Male,Locals,High School,30000,diabetes awareness,EG
+3164,45+,Male,Locals,High School,17000,diabetes awareness,EG
+3165,18-24,Female,Locals,High School,43000,diabetes awareness,EG
+3166,25-44,Female,Locals,High School,22000,diabetes awareness,EG
+3167,45+,Female,Locals,High School,8700,diabetes awareness,EG
+3168,18-24,Male,Expats,Graduated,3700,diabetes awareness,IQ
+3169,25-44,Male,Expats,Graduated,9100,diabetes awareness,IQ
+3170,45+,Male,Expats,Graduated,2500,diabetes awareness,IQ
+3171,18-24,Female,Expats,Graduated,540,diabetes awareness,IQ
+3172,25-44,Female,Expats,Graduated,1900,diabetes awareness,IQ
+3173,45+,Female,Expats,Graduated,490,diabetes awareness,IQ
+3174,18-24,Male,Expats,No Degree,3000,diabetes awareness,IQ
+3175,25-44,Male,Expats,No Degree,5300,diabetes awareness,IQ
+3176,45+,Male,Expats,No Degree,1700,diabetes awareness,IQ
+3177,18-24,Female,Expats,No Degree,890,diabetes awareness,IQ
+3178,25-44,Female,Expats,No Degree,1300,diabetes awareness,IQ
+3179,45+,Female,Expats,No Degree,580,diabetes awareness,IQ
+3180,18-24,Male,Expats,High School,1900,diabetes awareness,IQ
+3181,25-44,Male,Expats,High School,2500,diabetes awareness,IQ
+3182,45+,Male,Expats,High School,760,diabetes awareness,IQ
+3183,18-24,Female,Expats,High School,550,diabetes awareness,IQ
+3184,25-44,Female,Expats,High School,490,diabetes awareness,IQ
+3185,45+,Female,Expats,High School,130,diabetes awareness,IQ
+3186,18-24,Male,Locals,Graduated,36000,diabetes awareness,IQ
+3187,25-44,Male,Locals,Graduated,96000,diabetes awareness,IQ
+3188,45+,Male,Locals,Graduated,31000,diabetes awareness,IQ
+3189,18-24,Female,Locals,Graduated,10000,diabetes awareness,IQ
+3190,25-44,Female,Locals,Graduated,23000,diabetes awareness,IQ
+3191,45+,Female,Locals,Graduated,7200,diabetes awareness,IQ
+3192,18-24,Male,Locals,No Degree,71000,diabetes awareness,IQ
+3193,25-44,Male,Locals,No Degree,100000,diabetes awareness,IQ
+3194,45+,Male,Locals,No Degree,46000,diabetes awareness,IQ
+3195,18-24,Female,Locals,No Degree,25000,diabetes awareness,IQ
+3196,25-44,Female,Locals,No Degree,32000,diabetes awareness,IQ
+3197,45+,Female,Locals,No Degree,15000,diabetes awareness,IQ
+3198,18-24,Male,Locals,High School,23000,diabetes awareness,IQ
+3199,25-44,Male,Locals,High School,30000,diabetes awareness,IQ
+3200,45+,Male,Locals,High School,10000,diabetes awareness,IQ
+3201,18-24,Female,Locals,High School,10000,diabetes awareness,IQ
+3202,25-44,Female,Locals,High School,7700,diabetes awareness,IQ
+3203,45+,Female,Locals,High School,2500,diabetes awareness,IQ
+3204,18-24,Male,Expats,Graduated,1100,diabetes awareness,JO
+3205,25-44,Male,Expats,Graduated,4600,diabetes awareness,JO
+3206,45+,Male,Expats,Graduated,1700,diabetes awareness,JO
+3207,18-24,Female,Expats,Graduated,630,diabetes awareness,JO
+3208,25-44,Female,Expats,Graduated,2400,diabetes awareness,JO
+3209,45+,Female,Expats,Graduated,1400,diabetes awareness,JO
+3210,18-24,Male,Expats,No Degree,1400,diabetes awareness,JO
+3211,25-44,Male,Expats,No Degree,4000,diabetes awareness,JO
+3212,45+,Male,Expats,No Degree,2000,diabetes awareness,JO
+3213,18-24,Female,Expats,No Degree,270,diabetes awareness,JO
+3214,25-44,Female,Expats,No Degree,1400,diabetes awareness,JO
+3215,45+,Female,Expats,No Degree,2200,diabetes awareness,JO
+3216,18-24,Male,Expats,High School,1000,diabetes awareness,JO
+3217,25-44,Male,Expats,High School,1400,diabetes awareness,JO
+3218,45+,Male,Expats,High School,620,diabetes awareness,JO
+3219,18-24,Female,Expats,High School,690,diabetes awareness,JO
+3220,25-44,Female,Expats,High School,660,diabetes awareness,JO
+3221,45+,Female,Expats,High School,590,diabetes awareness,JO
+3222,18-24,Male,Locals,Graduated,4500,diabetes awareness,JO
+3223,25-44,Male,Locals,Graduated,15000,diabetes awareness,JO
+3224,45+,Male,Locals,Graduated,6000,diabetes awareness,JO
+3225,18-24,Female,Locals,Graduated,2500,diabetes awareness,JO
+3226,25-44,Female,Locals,Graduated,8000,diabetes awareness,JO
+3227,45+,Female,Locals,Graduated,3000,diabetes awareness,JO
+3228,18-24,Male,Locals,No Degree,5900,diabetes awareness,JO
+3229,25-44,Male,Locals,No Degree,14000,diabetes awareness,JO
+3230,45+,Male,Locals,No Degree,10000,diabetes awareness,JO
+3231,18-24,Female,Locals,No Degree,2500,diabetes awareness,JO
+3232,25-44,Female,Locals,No Degree,7000,diabetes awareness,JO
+3233,45+,Female,Locals,No Degree,7000,diabetes awareness,JO
+3234,18-24,Male,Locals,High School,3800,diabetes awareness,JO
+3235,25-44,Male,Locals,High School,5000,diabetes awareness,JO
+3236,45+,Male,Locals,High School,2500,diabetes awareness,JO
+3237,18-24,Female,Locals,High School,2700,diabetes awareness,JO
+3238,25-44,Female,Locals,High School,2500,diabetes awareness,JO
+3239,45+,Female,Locals,High School,1100,diabetes awareness,JO
+3240,18-24,Male,Expats,Graduated,1300,diabetes awareness,KW
+3241,25-44,Male,Expats,Graduated,11000,diabetes awareness,KW
+3242,45+,Male,Expats,Graduated,2600,diabetes awareness,KW
+3243,18-24,Female,Expats,Graduated,330,diabetes awareness,KW
+3244,25-44,Female,Expats,Graduated,7400,diabetes awareness,KW
+3245,45+,Female,Expats,Graduated,2600,diabetes awareness,KW
+3246,18-24,Male,Expats,No Degree,2600,diabetes awareness,KW
+3247,25-44,Male,Expats,No Degree,11000,diabetes awareness,KW
+3248,45+,Male,Expats,No Degree,2500,diabetes awareness,KW
+3249,18-24,Female,Expats,No Degree,490,diabetes awareness,KW
+3250,25-44,Female,Expats,No Degree,4000,diabetes awareness,KW
+3251,45+,Female,Expats,No Degree,1400,diabetes awareness,KW
+3252,18-24,Male,Expats,High School,470,diabetes awareness,KW
+3253,25-44,Male,Expats,High School,3300,diabetes awareness,KW
+3254,45+,Male,Expats,High School,620,diabetes awareness,KW
+3255,18-24,Female,Expats,High School,250,diabetes awareness,KW
+3256,25-44,Female,Expats,High School,2300,diabetes awareness,KW
+3257,45+,Female,Expats,High School,1000,diabetes awareness,KW
+3258,18-24,Male,Locals,Graduated,350,diabetes awareness,KW
+3259,25-44,Male,Locals,Graduated,1200,diabetes awareness,KW
+3260,45+,Male,Locals,Graduated,360,diabetes awareness,KW
+3261,18-24,Female,Locals,Graduated,30,diabetes awareness,KW
+3262,25-44,Female,Locals,Graduated,580,diabetes awareness,KW
+3263,45+,Female,Locals,Graduated,270,diabetes awareness,KW
+3264,18-24,Male,Locals,No Degree,1100,diabetes awareness,KW
+3265,25-44,Male,Locals,No Degree,3000,diabetes awareness,KW
+3266,45+,Male,Locals,No Degree,760,diabetes awareness,KW
+3267,18-24,Female,Locals,No Degree,90,diabetes awareness,KW
+3268,25-44,Female,Locals,No Degree,1100,diabetes awareness,KW
+3269,45+,Female,Locals,No Degree,410,diabetes awareness,KW
+3270,18-24,Male,Locals,High School,80,diabetes awareness,KW
+3271,25-44,Male,Locals,High School,310,diabetes awareness,KW
+3272,45+,Male,Locals,High School,100,diabetes awareness,KW
+3273,18-24,Female,Locals,High School,90,diabetes awareness,KW
+3274,25-44,Female,Locals,High School,340,diabetes awareness,KW
+3275,45+,Female,Locals,High School,80,diabetes awareness,KW
+3276,18-24,Male,Expats,Graduated,380,diabetes awareness,LB
+3277,25-44,Male,Expats,Graduated,880,diabetes awareness,LB
+3278,45+,Male,Expats,Graduated,350,diabetes awareness,LB
+3279,18-24,Female,Expats,Graduated,160,diabetes awareness,LB
+3280,25-44,Female,Expats,Graduated,930,diabetes awareness,LB
+3281,45+,Female,Expats,Graduated,820,diabetes awareness,LB
+3282,18-24,Male,Expats,No Degree,540,diabetes awareness,LB
+3283,25-44,Male,Expats,No Degree,1400,diabetes awareness,LB
+3284,45+,Male,Expats,No Degree,560,diabetes awareness,LB
+3285,18-24,Female,Expats,No Degree,330,diabetes awareness,LB
+3286,25-44,Female,Expats,No Degree,980,diabetes awareness,LB
+3287,45+,Female,Expats,No Degree,1100,diabetes awareness,LB
+3288,18-24,Male,Expats,High School,180,diabetes awareness,LB
+3289,25-44,Male,Expats,High School,420,diabetes awareness,LB
+3290,45+,Male,Expats,High School,100,diabetes awareness,LB
+3291,18-24,Female,Expats,High School,130,diabetes awareness,LB
+3292,25-44,Female,Expats,High School,380,diabetes awareness,LB
+3293,45+,Female,Expats,High School,270,diabetes awareness,LB
+3294,18-24,Male,Locals,Graduated,560,diabetes awareness,LB
+3295,25-44,Male,Locals,Graduated,1900,diabetes awareness,LB
+3296,45+,Male,Locals,Graduated,1200,diabetes awareness,LB
+3297,18-24,Female,Locals,Graduated,1400,diabetes awareness,LB
+3298,25-44,Female,Locals,Graduated,4400,diabetes awareness,LB
+3299,45+,Female,Locals,Graduated,3300,diabetes awareness,LB
+3300,18-24,Male,Locals,No Degree,1100,diabetes awareness,LB
+3301,25-44,Male,Locals,No Degree,2100,diabetes awareness,LB
+3302,45+,Male,Locals,No Degree,2500,diabetes awareness,LB
+3303,18-24,Female,Locals,No Degree,1700,diabetes awareness,LB
+3304,25-44,Female,Locals,No Degree,4900,diabetes awareness,LB
+3305,45+,Female,Locals,No Degree,7700,diabetes awareness,LB
+3306,18-24,Male,Locals,High School,380,diabetes awareness,LB
+3307,25-44,Male,Locals,High School,640,diabetes awareness,LB
+3308,45+,Male,Locals,High School,510,diabetes awareness,LB
+3309,18-24,Female,Locals,High School,1400,diabetes awareness,LB
+3310,25-44,Female,Locals,High School,850,diabetes awareness,LB
+3311,45+,Female,Locals,High School,970,diabetes awareness,LB
+3312,18-24,Male,Expats,Graduated,690,diabetes awareness,LY
+3313,25-44,Male,Expats,Graduated,2200,diabetes awareness,LY
+3314,45+,Male,Expats,Graduated,680,diabetes awareness,LY
+3315,18-24,Female,Expats,Graduated,270,diabetes awareness,LY
+3316,25-44,Female,Expats,Graduated,1100,diabetes awareness,LY
+3317,45+,Female,Expats,Graduated,300,diabetes awareness,LY
+3318,18-24,Male,Expats,No Degree,440,diabetes awareness,LY
+3319,25-44,Male,Expats,No Degree,1800,diabetes awareness,LY
+3320,45+,Male,Expats,No Degree,870,diabetes awareness,LY
+3321,18-24,Female,Expats,No Degree,290,diabetes awareness,LY
+3322,25-44,Female,Expats,No Degree,860,diabetes awareness,LY
+3323,45+,Female,Expats,No Degree,490,diabetes awareness,LY
+3324,18-24,Male,Expats,High School,170,diabetes awareness,LY
+3325,25-44,Male,Expats,High School,570,diabetes awareness,LY
+3326,45+,Male,Expats,High School,190,diabetes awareness,LY
+3327,18-24,Female,Expats,High School,170,diabetes awareness,LY
+3328,25-44,Female,Expats,High School,310,diabetes awareness,LY
+3329,45+,Female,Expats,High School,90,diabetes awareness,LY
+3330,18-24,Male,Locals,Graduated,3500,diabetes awareness,LY
+3331,25-44,Male,Locals,Graduated,13000,diabetes awareness,LY
+3332,45+,Male,Locals,Graduated,4300,diabetes awareness,LY
+3333,18-24,Female,Locals,Graduated,4000,diabetes awareness,LY
+3334,25-44,Female,Locals,Graduated,13000,diabetes awareness,LY
+3335,45+,Female,Locals,Graduated,2100,diabetes awareness,LY
+3336,18-24,Male,Locals,No Degree,4000,diabetes awareness,LY
+3337,25-44,Male,Locals,No Degree,11000,diabetes awareness,LY
+3338,45+,Male,Locals,No Degree,4800,diabetes awareness,LY
+3339,18-24,Female,Locals,No Degree,3700,diabetes awareness,LY
+3340,25-44,Female,Locals,No Degree,12000,diabetes awareness,LY
+3341,45+,Female,Locals,No Degree,5500,diabetes awareness,LY
+3342,18-24,Male,Locals,High School,2000,diabetes awareness,LY
+3343,25-44,Male,Locals,High School,2800,diabetes awareness,LY
+3344,45+,Male,Locals,High School,1100,diabetes awareness,LY
+3345,18-24,Female,Locals,High School,2900,diabetes awareness,LY
+3346,25-44,Female,Locals,High School,3100,diabetes awareness,LY
+3347,45+,Female,Locals,High School,990,diabetes awareness,LY
+3348,18-24,Male,Expats,Graduated,2500,diabetes awareness,MA
+3349,25-44,Male,Expats,Graduated,2100,diabetes awareness,MA
+3350,45+,Male,Expats,Graduated,680,diabetes awareness,MA
+3351,18-24,Female,Expats,Graduated,940,diabetes awareness,MA
+3352,25-44,Female,Expats,Graduated,1100,diabetes awareness,MA
+3353,45+,Female,Expats,Graduated,390,diabetes awareness,MA
+3354,18-24,Male,Expats,No Degree,830,diabetes awareness,MA
+3355,25-44,Male,Expats,No Degree,970,diabetes awareness,MA
+3356,45+,Male,Expats,No Degree,470,diabetes awareness,MA
+3357,18-24,Female,Expats,No Degree,430,diabetes awareness,MA
+3358,25-44,Female,Expats,No Degree,740,diabetes awareness,MA
+3359,45+,Female,Expats,No Degree,450,diabetes awareness,MA
+3360,18-24,Male,Expats,High School,910,diabetes awareness,MA
+3361,25-44,Male,Expats,High School,380,diabetes awareness,MA
+3362,45+,Male,Expats,High School,230,diabetes awareness,MA
+3363,18-24,Female,Expats,High School,330,diabetes awareness,MA
+3364,25-44,Female,Expats,High School,260,diabetes awareness,MA
+3365,45+,Female,Expats,High School,140,diabetes awareness,MA
+3366,18-24,Male,Locals,Graduated,16000,diabetes awareness,MA
+3367,25-44,Male,Locals,Graduated,18000,diabetes awareness,MA
+3368,45+,Male,Locals,Graduated,8600,diabetes awareness,MA
+3369,18-24,Female,Locals,Graduated,13000,diabetes awareness,MA
+3370,25-44,Female,Locals,Graduated,14000,diabetes awareness,MA
+3371,45+,Female,Locals,Graduated,4100,diabetes awareness,MA
+3372,18-24,Male,Locals,No Degree,15000,diabetes awareness,MA
+3373,25-44,Male,Locals,No Degree,19000,diabetes awareness,MA
+3374,45+,Male,Locals,No Degree,11000,diabetes awareness,MA
+3375,18-24,Female,Locals,No Degree,11000,diabetes awareness,MA
+3376,25-44,Female,Locals,No Degree,12000,diabetes awareness,MA
+3377,45+,Female,Locals,No Degree,5500,diabetes awareness,MA
+3378,18-24,Male,Locals,High School,7400,diabetes awareness,MA
+3379,25-44,Male,Locals,High School,5200,diabetes awareness,MA
+3380,45+,Male,Locals,High School,2500,diabetes awareness,MA
+3381,18-24,Female,Locals,High School,5800,diabetes awareness,MA
+3382,25-44,Female,Locals,High School,3700,diabetes awareness,MA
+3383,45+,Female,Locals,High School,1500,diabetes awareness,MA
+3384,18-24,Male,Expats,Graduated,840,diabetes awareness,OM
+3385,25-44,Male,Expats,Graduated,6600,diabetes awareness,OM
+3386,45+,Male,Expats,Graduated,1200,diabetes awareness,OM
+3387,18-24,Female,Expats,Graduated,180,diabetes awareness,OM
+3388,25-44,Female,Expats,Graduated,4200,diabetes awareness,OM
+3389,45+,Female,Expats,Graduated,1300,diabetes awareness,OM
+3390,18-24,Male,Expats,No Degree,1000,diabetes awareness,OM
+3391,25-44,Male,Expats,No Degree,3900,diabetes awareness,OM
+3392,45+,Male,Expats,No Degree,540,diabetes awareness,OM
+3393,18-24,Female,Expats,No Degree,240,diabetes awareness,OM
+3394,25-44,Female,Expats,No Degree,1600,diabetes awareness,OM
+3395,45+,Female,Expats,No Degree,590,diabetes awareness,OM
+3396,18-24,Male,Expats,High School,370,diabetes awareness,OM
+3397,25-44,Male,Expats,High School,1400,diabetes awareness,OM
+3398,45+,Male,Expats,High School,210,diabetes awareness,OM
+3399,18-24,Female,Expats,High School,130,diabetes awareness,OM
+3400,25-44,Female,Expats,High School,950,diabetes awareness,OM
+3401,45+,Female,Expats,High School,340,diabetes awareness,OM
+3402,18-24,Male,Locals,Graduated,350,diabetes awareness,OM
+3403,25-44,Male,Locals,Graduated,960,diabetes awareness,OM
+3404,45+,Male,Locals,Graduated,200,diabetes awareness,OM
+3405,18-24,Female,Locals,Graduated,90,diabetes awareness,OM
+3406,25-44,Female,Locals,Graduated,550,diabetes awareness,OM
+3407,45+,Female,Locals,Graduated,90,diabetes awareness,OM
+3408,18-24,Male,Locals,No Degree,360,diabetes awareness,OM
+3409,25-44,Male,Locals,No Degree,720,diabetes awareness,OM
+3410,45+,Male,Locals,No Degree,150,diabetes awareness,OM
+3411,18-24,Female,Locals,No Degree,70,diabetes awareness,OM
+3412,25-44,Female,Locals,No Degree,270,diabetes awareness,OM
+3413,45+,Female,Locals,No Degree,120,diabetes awareness,OM
+3414,18-24,Male,Locals,High School,90,diabetes awareness,OM
+3415,25-44,Male,Locals,High School,350,diabetes awareness,OM
+3416,45+,Male,Locals,High School,70,diabetes awareness,OM
+3417,18-24,Female,Locals,High School,20,diabetes awareness,OM
+3418,25-44,Female,Locals,High School,120,diabetes awareness,OM
+3419,45+,Female,Locals,High School,20,diabetes awareness,OM
+3420,18-24,Male,Expats,Graduated,1500,diabetes awareness,QA
+3421,25-44,Male,Expats,Graduated,9400,diabetes awareness,QA
+3422,45+,Male,Expats,Graduated,2500,diabetes awareness,QA
+3423,18-24,Female,Expats,Graduated,350,diabetes awareness,QA
+3424,25-44,Female,Expats,Graduated,4900,diabetes awareness,QA
+3425,45+,Female,Expats,Graduated,1400,diabetes awareness,QA
+3426,18-24,Male,Expats,No Degree,2200,diabetes awareness,QA
+3427,25-44,Male,Expats,No Degree,5800,diabetes awareness,QA
+3428,45+,Male,Expats,No Degree,1700,diabetes awareness,QA
+3429,18-24,Female,Expats,No Degree,360,diabetes awareness,QA
+3430,25-44,Female,Expats,No Degree,1400,diabetes awareness,QA
+3431,45+,Female,Expats,No Degree,770,diabetes awareness,QA
+3432,18-24,Male,Expats,High School,480,diabetes awareness,QA
+3433,25-44,Male,Expats,High School,2200,diabetes awareness,QA
+3434,45+,Male,Expats,High School,650,diabetes awareness,QA
+3435,18-24,Female,Expats,High School,150,diabetes awareness,QA
+3436,25-44,Female,Expats,High School,1200,diabetes awareness,QA
+3437,45+,Female,Expats,High School,500,diabetes awareness,QA
+3438,18-24,Male,Locals,Graduated,460,diabetes awareness,QA
+3439,25-44,Male,Locals,Graduated,1200,diabetes awareness,QA
+3440,45+,Male,Locals,Graduated,350,diabetes awareness,QA
+3441,18-24,Female,Locals,Graduated,70,diabetes awareness,QA
+3442,25-44,Female,Locals,Graduated,630,diabetes awareness,QA
+3443,45+,Female,Locals,Graduated,250,diabetes awareness,QA
+3444,18-24,Male,Locals,No Degree,600,diabetes awareness,QA
+3445,25-44,Male,Locals,No Degree,990,diabetes awareness,QA
+3446,45+,Male,Locals,No Degree,280,diabetes awareness,QA
+3447,18-24,Female,Locals,No Degree,100,diabetes awareness,QA
+3448,25-44,Female,Locals,No Degree,360,diabetes awareness,QA
+3449,45+,Female,Locals,No Degree,250,diabetes awareness,QA
+3450,18-24,Male,Locals,High School,110,diabetes awareness,QA
+3451,25-44,Male,Locals,High School,290,diabetes awareness,QA
+3452,45+,Male,Locals,High School,80,diabetes awareness,QA
+3453,18-24,Female,Locals,High School,60,diabetes awareness,QA
+3454,25-44,Female,Locals,High School,170,diabetes awareness,QA
+3455,45+,Female,Locals,High School,50,diabetes awareness,QA
+3456,18-24,Male,Expats,Graduated,11000,diabetes awareness,SA
+3457,25-44,Male,Expats,Graduated,64000,diabetes awareness,SA
+3458,45+,Male,Expats,Graduated,13000,diabetes awareness,SA
+3459,18-24,Female,Expats,Graduated,2500,diabetes awareness,SA
+3460,25-44,Female,Expats,Graduated,25000,diabetes awareness,SA
+3461,45+,Female,Expats,Graduated,7000,diabetes awareness,SA
+3462,18-24,Male,Expats,No Degree,2800,diabetes awareness,SA
+3463,25-44,Male,Expats,No Degree,11000,diabetes awareness,SA
+3464,45+,Male,Expats,No Degree,2700,diabetes awareness,SA
+3465,18-24,Female,Expats,No Degree,780,diabetes awareness,SA
+3466,25-44,Female,Expats,No Degree,5400,diabetes awareness,SA
+3467,45+,Female,Expats,No Degree,1800,diabetes awareness,SA
+3468,18-24,Male,Expats,High School,3400,diabetes awareness,SA
+3469,25-44,Male,Expats,High School,14000,diabetes awareness,SA
+3470,45+,Male,Expats,High School,3200,diabetes awareness,SA
+3471,18-24,Female,Expats,High School,1500,diabetes awareness,SA
+3472,25-44,Female,Expats,High School,6000,diabetes awareness,SA
+3473,45+,Female,Expats,High School,1700,diabetes awareness,SA
+3474,18-24,Male,Locals,Graduated,7000,diabetes awareness,SA
+3475,25-44,Male,Locals,Graduated,29000,diabetes awareness,SA
+3476,45+,Male,Locals,Graduated,6200,diabetes awareness,SA
+3477,18-24,Female,Locals,Graduated,2200,diabetes awareness,SA
+3478,25-44,Female,Locals,Graduated,11000,diabetes awareness,SA
+3479,45+,Female,Locals,Graduated,2700,diabetes awareness,SA
+3480,18-24,Male,Locals,No Degree,34000,diabetes awareness,SA
+3481,25-44,Male,Locals,No Degree,69000,diabetes awareness,SA
+3482,45+,Male,Locals,No Degree,14000,diabetes awareness,SA
+3483,18-24,Female,Locals,No Degree,5600,diabetes awareness,SA
+3484,25-44,Female,Locals,No Degree,12000,diabetes awareness,SA
+3485,45+,Female,Locals,No Degree,4400,diabetes awareness,SA
+3486,18-24,Male,Locals,High School,3400,diabetes awareness,SA
+3487,25-44,Male,Locals,High School,9500,diabetes awareness,SA
+3488,45+,Male,Locals,High School,2400,diabetes awareness,SA
+3489,18-24,Female,Locals,High School,1400,diabetes awareness,SA
+3490,25-44,Female,Locals,High School,3400,diabetes awareness,SA
+3491,45+,Female,Locals,High School,900,diabetes awareness,SA
+3492,18-24,Male,Expats,Graduated,300,diabetes awareness,SO
+3493,25-44,Male,Expats,Graduated,210,diabetes awareness,SO
+3494,45+,Male,Expats,Graduated,70,diabetes awareness,SO
+3495,18-24,Female,Expats,Graduated,180,diabetes awareness,SO
+3496,25-44,Female,Expats,Graduated,90,diabetes awareness,SO
+3497,45+,Female,Expats,Graduated,20,diabetes awareness,SO
+3498,18-24,Male,Expats,No Degree,90,diabetes awareness,SO
+3499,25-44,Male,Expats,No Degree,70,diabetes awareness,SO
+3500,45+,Male,Expats,No Degree,20,diabetes awareness,SO
+3501,18-24,Female,Expats,No Degree,40,diabetes awareness,SO
+3502,25-44,Female,Expats,No Degree,30,diabetes awareness,SO
+3503,45+,Female,Expats,No Degree,20,diabetes awareness,SO
+3504,18-24,Male,Expats,High School,90,diabetes awareness,SO
+3505,25-44,Male,Expats,High School,20,diabetes awareness,SO
+3506,45+,Male,Expats,High School,20,diabetes awareness,SO
+3507,18-24,Female,Expats,High School,30,diabetes awareness,SO
+3508,25-44,Female,Expats,High School,20,diabetes awareness,SO
+3509,45+,Female,Expats,High School,20,diabetes awareness,SO
+3510,18-24,Male,Locals,Graduated,1200,diabetes awareness,SO
+3511,25-44,Male,Locals,Graduated,940,diabetes awareness,SO
+3512,45+,Male,Locals,Graduated,30,diabetes awareness,SO
+3513,18-24,Female,Locals,Graduated,710,diabetes awareness,SO
+3514,25-44,Female,Locals,Graduated,350,diabetes awareness,SO
+3515,45+,Female,Locals,Graduated,30,diabetes awareness,SO
+3516,18-24,Male,Locals,No Degree,720,diabetes awareness,SO
+3517,25-44,Male,Locals,No Degree,390,diabetes awareness,SO
+3518,45+,Male,Locals,No Degree,70,diabetes awareness,SO
+3519,18-24,Female,Locals,No Degree,590,diabetes awareness,SO
+3520,25-44,Female,Locals,No Degree,300,diabetes awareness,SO
+3521,45+,Female,Locals,No Degree,20,diabetes awareness,SO
+3522,18-24,Male,Locals,High School,390,diabetes awareness,SO
+3523,25-44,Male,Locals,High School,160,diabetes awareness,SO
+3524,45+,Male,Locals,High School,20,diabetes awareness,SO
+3525,18-24,Female,Locals,High School,320,diabetes awareness,SO
+3526,25-44,Female,Locals,High School,70,diabetes awareness,SO
+3527,45+,Female,Locals,High School,30,diabetes awareness,SO
+3528,18-24,Male,Expats,Graduated,660,diabetes awareness,TN
+3529,25-44,Male,Expats,Graduated,1900,diabetes awareness,TN
+3530,45+,Male,Expats,Graduated,1200,diabetes awareness,TN
+3531,18-24,Female,Expats,Graduated,640,diabetes awareness,TN
+3532,25-44,Female,Expats,Graduated,1200,diabetes awareness,TN
+3533,45+,Female,Expats,Graduated,530,diabetes awareness,TN
+3534,18-24,Male,Expats,No Degree,320,diabetes awareness,TN
+3535,25-44,Male,Expats,No Degree,890,diabetes awareness,TN
+3536,45+,Male,Expats,No Degree,620,diabetes awareness,TN
+3537,18-24,Female,Expats,No Degree,270,diabetes awareness,TN
+3538,25-44,Female,Expats,No Degree,860,diabetes awareness,TN
+3539,45+,Female,Expats,No Degree,540,diabetes awareness,TN
+3540,18-24,Male,Expats,High School,290,diabetes awareness,TN
+3541,25-44,Male,Expats,High School,540,diabetes awareness,TN
+3542,45+,Male,Expats,High School,360,diabetes awareness,TN
+3543,18-24,Female,Expats,High School,250,diabetes awareness,TN
+3544,25-44,Female,Expats,High School,320,diabetes awareness,TN
+3545,45+,Female,Expats,High School,180,diabetes awareness,TN
+3546,18-24,Male,Locals,Graduated,4400,diabetes awareness,TN
+3547,25-44,Male,Locals,Graduated,19000,diabetes awareness,TN
+3548,45+,Male,Locals,Graduated,12000,diabetes awareness,TN
+3549,18-24,Female,Locals,Graduated,9500,diabetes awareness,TN
+3550,25-44,Female,Locals,Graduated,22000,diabetes awareness,TN
+3551,45+,Female,Locals,Graduated,6500,diabetes awareness,TN
+3552,18-24,Male,Locals,No Degree,3500,diabetes awareness,TN
+3553,25-44,Male,Locals,No Degree,20000,diabetes awareness,TN
+3554,45+,Male,Locals,No Degree,15000,diabetes awareness,TN
+3555,18-24,Female,Locals,No Degree,5500,diabetes awareness,TN
+3556,25-44,Female,Locals,No Degree,18000,diabetes awareness,TN
+3557,45+,Female,Locals,No Degree,11000,diabetes awareness,TN
+3558,18-24,Male,Locals,High School,1700,diabetes awareness,TN
+3559,25-44,Male,Locals,High School,6600,diabetes awareness,TN
+3560,45+,Male,Locals,High School,5500,diabetes awareness,TN
+3561,18-24,Female,Locals,High School,3900,diabetes awareness,TN
+3562,25-44,Female,Locals,High School,6000,diabetes awareness,TN
+3563,45+,Female,Locals,High School,3600,diabetes awareness,TN
+3564,18-24,Male,Expats,Graduated,11000,diabetes awareness,AE
+3565,25-44,Male,Expats,Graduated,54000,diabetes awareness,AE
+3566,45+,Male,Expats,Graduated,7300,diabetes awareness,AE
+3567,18-24,Female,Expats,Graduated,3200,diabetes awareness,AE
+3568,25-44,Female,Expats,Graduated,37000,diabetes awareness,AE
+3569,45+,Female,Expats,Graduated,8800,diabetes awareness,AE
+3570,18-24,Male,Expats,No Degree,11000,diabetes awareness,AE
+3571,25-44,Male,Expats,No Degree,27000,diabetes awareness,AE
+3572,45+,Male,Expats,No Degree,3400,diabetes awareness,AE
+3573,18-24,Female,Expats,No Degree,2500,diabetes awareness,AE
+3574,25-44,Female,Expats,No Degree,9600,diabetes awareness,AE
+3575,45+,Female,Expats,No Degree,3400,diabetes awareness,AE
+3576,18-24,Male,Expats,High School,3800,diabetes awareness,AE
+3577,25-44,Male,Expats,High School,12000,diabetes awareness,AE
+3578,45+,Male,Expats,High School,1900,diabetes awareness,AE
+3579,18-24,Female,Expats,High School,1500,diabetes awareness,AE
+3580,25-44,Female,Expats,High School,6700,diabetes awareness,AE
+3581,45+,Female,Expats,High School,2300,diabetes awareness,AE
+3582,18-24,Male,Locals,Graduated,2200,diabetes awareness,AE
+3583,25-44,Male,Locals,Graduated,4400,diabetes awareness,AE
+3584,45+,Male,Locals,Graduated,610,diabetes awareness,AE
+3585,18-24,Female,Locals,Graduated,730,diabetes awareness,AE
+3586,25-44,Female,Locals,Graduated,2500,diabetes awareness,AE
+3587,45+,Female,Locals,Graduated,1100,diabetes awareness,AE
+3588,18-24,Male,Locals,No Degree,3800,diabetes awareness,AE
+3589,25-44,Male,Locals,No Degree,5900,diabetes awareness,AE
+3590,45+,Male,Locals,No Degree,730,diabetes awareness,AE
+3591,18-24,Female,Locals,No Degree,950,diabetes awareness,AE
+3592,25-44,Female,Locals,No Degree,1800,diabetes awareness,AE
+3593,45+,Female,Locals,No Degree,950,diabetes awareness,AE
+3594,18-24,Male,Locals,High School,840,diabetes awareness,AE
+3595,25-44,Male,Locals,High School,850,diabetes awareness,AE
+3596,45+,Male,Locals,High School,210,diabetes awareness,AE
+3597,18-24,Female,Locals,High School,360,diabetes awareness,AE
+3598,25-44,Female,Locals,High School,610,diabetes awareness,AE
+3599,45+,Female,Locals,High School,330,diabetes awareness,AE
+3600,18-24,Male,Expats,Graduated,1400,diabetes awareness,YE
+3601,25-44,Male,Expats,Graduated,2600,diabetes awareness,YE
+3602,45+,Male,Expats,Graduated,270,diabetes awareness,YE
+3603,18-24,Female,Expats,Graduated,170,diabetes awareness,YE
+3604,25-44,Female,Expats,Graduated,390,diabetes awareness,YE
+3605,45+,Female,Expats,Graduated,80,diabetes awareness,YE
+3606,18-24,Male,Expats,No Degree,530,diabetes awareness,YE
+3607,25-44,Male,Expats,No Degree,740,diabetes awareness,YE
+3608,45+,Male,Expats,No Degree,90,diabetes awareness,YE
+3609,18-24,Female,Expats,No Degree,220,diabetes awareness,YE
+3610,25-44,Female,Expats,No Degree,240,diabetes awareness,YE
+3611,45+,Female,Expats,No Degree,30,diabetes awareness,YE
+3612,18-24,Male,Expats,High School,580,diabetes awareness,YE
+3613,25-44,Male,Expats,High School,480,diabetes awareness,YE
+3614,45+,Male,Expats,High School,40,diabetes awareness,YE
+3615,18-24,Female,Expats,High School,140,diabetes awareness,YE
+3616,25-44,Female,Expats,High School,130,diabetes awareness,YE
+3617,45+,Female,Expats,High School,20,diabetes awareness,YE
+3618,18-24,Male,Locals,Graduated,13000,diabetes awareness,YE
+3619,25-44,Male,Locals,Graduated,28000,diabetes awareness,YE
+3620,45+,Male,Locals,Graduated,2800,diabetes awareness,YE
+3621,18-24,Female,Locals,Graduated,1700,diabetes awareness,YE
+3622,25-44,Female,Locals,Graduated,3300,diabetes awareness,YE
+3623,45+,Female,Locals,Graduated,290,diabetes awareness,YE
+3624,18-24,Male,Locals,No Degree,14000,diabetes awareness,YE
+3625,25-44,Male,Locals,No Degree,19000,diabetes awareness,YE
+3626,45+,Male,Locals,No Degree,3100,diabetes awareness,YE
+3627,18-24,Female,Locals,No Degree,1900,diabetes awareness,YE
+3628,25-44,Female,Locals,No Degree,2100,diabetes awareness,YE
+3629,45+,Female,Locals,No Degree,430,diabetes awareness,YE
+3630,18-24,Male,Locals,High School,9000,diabetes awareness,YE
+3631,25-44,Male,Locals,High School,8000,diabetes awareness,YE
+3632,45+,Male,Locals,High School,820,diabetes awareness,YE
+3633,18-24,Female,Locals,High School,2000,diabetes awareness,YE
+3634,25-44,Female,Locals,High School,780,diabetes awareness,YE
+3635,45+,Female,Locals,High School,120,diabetes awareness,YE
+3636,18-24,Male,Expats,Graduated,420,diabetes awareness,PS
+3637,25-44,Male,Expats,Graduated,850,diabetes awareness,PS
+3638,45+,Male,Expats,Graduated,230,diabetes awareness,PS
+3639,18-24,Female,Expats,Graduated,420,diabetes awareness,PS
+3640,25-44,Female,Expats,Graduated,910,diabetes awareness,PS
+3641,45+,Female,Expats,Graduated,130,diabetes awareness,PS
+3642,18-24,Male,Expats,No Degree,110,diabetes awareness,PS
+3643,25-44,Male,Expats,No Degree,260,diabetes awareness,PS
+3644,45+,Male,Expats,No Degree,180,diabetes awareness,PS
+3645,18-24,Female,Expats,No Degree,90,diabetes awareness,PS
+3646,25-44,Female,Expats,No Degree,520,diabetes awareness,PS
+3647,45+,Female,Expats,No Degree,190,diabetes awareness,PS
+3648,18-24,Male,Expats,High School,150,diabetes awareness,PS
+3649,25-44,Male,Expats,High School,130,diabetes awareness,PS
+3650,45+,Male,Expats,High School,60,diabetes awareness,PS
+3651,18-24,Female,Expats,High School,270,diabetes awareness,PS
+3652,25-44,Female,Expats,High School,280,diabetes awareness,PS
+3653,45+,Female,Expats,High School,80,diabetes awareness,PS
+3654,18-24,Male,Locals,Graduated,1100,diabetes awareness,PS
+3655,25-44,Male,Locals,Graduated,3100,diabetes awareness,PS
+3656,45+,Male,Locals,Graduated,730,diabetes awareness,PS
+3657,18-24,Female,Locals,Graduated,1600,diabetes awareness,PS
+3658,25-44,Female,Locals,Graduated,3900,diabetes awareness,PS
+3659,45+,Female,Locals,Graduated,540,diabetes awareness,PS
+3660,18-24,Male,Locals,No Degree,510,diabetes awareness,PS
+3661,25-44,Male,Locals,No Degree,1200,diabetes awareness,PS
+3662,45+,Male,Locals,No Degree,760,diabetes awareness,PS
+3663,18-24,Female,Locals,No Degree,1000,diabetes awareness,PS
+3664,25-44,Female,Locals,No Degree,2900,diabetes awareness,PS
+3665,45+,Female,Locals,No Degree,660,diabetes awareness,PS
+3666,18-24,Male,Locals,High School,500,diabetes awareness,PS
+3667,25-44,Male,Locals,High School,660,diabetes awareness,PS
+3668,45+,Male,Locals,High School,260,diabetes awareness,PS
+3669,18-24,Female,Locals,High School,1200,diabetes awareness,PS
+3670,25-44,Female,Locals,High School,1200,diabetes awareness,PS
+3671,45+,Female,Locals,High School,210,diabetes awareness,PS
+4896,18-24,Male,Expats,Graduated,140000,shopping,DZ
+4897,25-44,Male,Expats,Graduated,150000,shopping,DZ
+4898,45+,Male,Expats,Graduated,19000,shopping,DZ
+4899,18-24,Female,Expats,Graduated,52000,shopping,DZ
+4900,25-44,Female,Expats,Graduated,40000,shopping,DZ
+4901,45+,Female,Expats,Graduated,6500,shopping,DZ
+4902,18-24,Male,Expats,No Degree,80000,shopping,DZ
+4903,25-44,Male,Expats,No Degree,130000,shopping,DZ
+4904,45+,Male,Expats,No Degree,22000,shopping,DZ
+4905,18-24,Female,Expats,No Degree,41000,shopping,DZ
+4906,25-44,Female,Expats,No Degree,46000,shopping,DZ
+4907,45+,Female,Expats,No Degree,8800,shopping,DZ
+4908,18-24,Male,Expats,High School,52000,shopping,DZ
+4909,25-44,Male,Expats,High School,34000,shopping,DZ
+4910,45+,Male,Expats,High School,6600,shopping,DZ
+4911,18-24,Female,Expats,High School,21000,shopping,DZ
+4912,25-44,Female,Expats,High School,10000,shopping,DZ
+4913,45+,Female,Expats,High School,2700,shopping,DZ
+4914,18-24,Male,Locals,Graduated,710000,shopping,DZ
+4915,25-44,Male,Locals,Graduated,1100000,shopping,DZ
+4916,45+,Male,Locals,Graduated,120000,shopping,DZ
+4917,18-24,Female,Locals,Graduated,540000,shopping,DZ
+4918,25-44,Female,Locals,Graduated,530000,shopping,DZ
+4919,45+,Female,Locals,Graduated,48000,shopping,DZ
+4920,18-24,Male,Locals,No Degree,1100000,shopping,DZ
+4921,25-44,Male,Locals,No Degree,1600000,shopping,DZ
+4922,45+,Male,Locals,No Degree,250000,shopping,DZ
+4923,18-24,Female,Locals,No Degree,950000,shopping,DZ
+4924,25-44,Female,Locals,No Degree,810000,shopping,DZ
+4925,45+,Female,Locals,No Degree,120000,shopping,DZ
+4926,18-24,Male,Locals,High School,330000,shopping,DZ
+4927,25-44,Male,Locals,High School,300000,shopping,DZ
+4928,45+,Male,Locals,High School,45000,shopping,DZ
+4929,18-24,Female,Locals,High School,270000,shopping,DZ
+4930,25-44,Female,Locals,High School,130000,shopping,DZ
+4931,45+,Female,Locals,High School,21000,shopping,DZ
+4932,18-24,Male,Expats,Graduated,21000,shopping,BH
+4933,25-44,Male,Expats,Graduated,110000,shopping,BH
+4934,45+,Male,Expats,Graduated,16000,shopping,BH
+4935,18-24,Female,Expats,Graduated,5600,shopping,BH
+4936,25-44,Female,Expats,Graduated,42000,shopping,BH
+4937,45+,Female,Expats,Graduated,7500,shopping,BH
+4938,18-24,Male,Expats,No Degree,31000,shopping,BH
+4939,25-44,Male,Expats,No Degree,110000,shopping,BH
+4940,45+,Male,Expats,No Degree,19000,shopping,BH
+4941,18-24,Female,Expats,No Degree,7900,shopping,BH
+4942,25-44,Female,Expats,No Degree,26000,shopping,BH
+4943,45+,Female,Expats,No Degree,6400,shopping,BH
+4944,18-24,Male,Expats,High School,9000,shopping,BH
+4945,25-44,Male,Expats,High School,31000,shopping,BH
+4946,45+,Male,Expats,High School,5400,shopping,BH
+4947,18-24,Female,Expats,High School,3900,shopping,BH
+4948,25-44,Female,Expats,High School,12000,shopping,BH
+4949,45+,Female,Expats,High School,2600,shopping,BH
+4950,18-24,Male,Locals,Graduated,9300,shopping,BH
+4951,25-44,Male,Locals,Graduated,26000,shopping,BH
+4952,45+,Male,Locals,Graduated,4100,shopping,BH
+4953,18-24,Female,Locals,Graduated,5100,shopping,BH
+4954,25-44,Female,Locals,Graduated,15000,shopping,BH
+4955,45+,Female,Locals,Graduated,1600,shopping,BH
+4956,18-24,Male,Locals,No Degree,26000,shopping,BH
+4957,25-44,Male,Locals,No Degree,45000,shopping,BH
+4958,45+,Male,Locals,No Degree,8800,shopping,BH
+4959,18-24,Female,Locals,No Degree,12000,shopping,BH
+4960,25-44,Female,Locals,No Degree,19000,shopping,BH
+4961,45+,Female,Locals,No Degree,3600,shopping,BH
+4962,18-24,Male,Locals,High School,5600,shopping,BH
+4963,25-44,Male,Locals,High School,7800,shopping,BH
+4964,45+,Male,Locals,High School,1300,shopping,BH
+4965,18-24,Female,Locals,High School,4800,shopping,BH
+4966,25-44,Female,Locals,High School,4400,shopping,BH
+4967,45+,Female,Locals,High School,540,shopping,BH
+4968,18-24,Male,Expats,Graduated,96000,shopping,EG
+4969,25-44,Male,Expats,Graduated,200000,shopping,EG
+4970,45+,Male,Expats,Graduated,35000,shopping,EG
+4971,18-24,Female,Expats,Graduated,44000,shopping,EG
+4972,25-44,Female,Expats,Graduated,81000,shopping,EG
+4973,45+,Female,Expats,Graduated,15000,shopping,EG
+4974,18-24,Male,Expats,No Degree,43000,shopping,EG
+4975,25-44,Male,Expats,No Degree,84000,shopping,EG
+4976,45+,Male,Expats,No Degree,22000,shopping,EG
+4977,18-24,Female,Expats,No Degree,25000,shopping,EG
+4978,25-44,Female,Expats,No Degree,41000,shopping,EG
+4979,45+,Female,Expats,No Degree,14000,shopping,EG
+4980,18-24,Male,Expats,High School,53000,shopping,EG
+4981,25-44,Male,Expats,High School,46000,shopping,EG
+4982,45+,Male,Expats,High School,7900,shopping,EG
+4983,18-24,Female,Expats,High School,33000,shopping,EG
+4984,25-44,Female,Expats,High School,19000,shopping,EG
+4985,45+,Female,Expats,High School,4200,shopping,EG
+4986,18-24,Male,Locals,Graduated,1800000,shopping,EG
+4987,25-44,Male,Locals,Graduated,3200000,shopping,EG
+4988,45+,Male,Locals,Graduated,510000,shopping,EG
+4989,18-24,Female,Locals,Graduated,1300000,shopping,EG
+4990,25-44,Female,Locals,Graduated,1800000,shopping,EG
+4991,45+,Female,Locals,Graduated,240000,shopping,EG
+4992,18-24,Male,Locals,No Degree,1500000,shopping,EG
+4993,25-44,Male,Locals,No Degree,2400000,shopping,EG
+4994,45+,Male,Locals,No Degree,710000,shopping,EG
+4995,18-24,Female,Locals,No Degree,1100000,shopping,EG
+4996,25-44,Female,Locals,No Degree,1300000,shopping,EG
+4997,45+,Female,Locals,No Degree,440000,shopping,EG
+4998,18-24,Male,Locals,High School,1000000,shopping,EG
+4999,25-44,Male,Locals,High School,730000,shopping,EG
+5000,45+,Male,Locals,High School,140000,shopping,EG
+5001,18-24,Female,Locals,High School,880000,shopping,EG
+5002,25-44,Female,Locals,High School,350000,shopping,EG
+5003,45+,Female,Locals,High School,60000,shopping,EG
+5004,18-24,Male,Expats,Graduated,69000,shopping,IQ
+5005,25-44,Male,Expats,Graduated,140000,shopping,IQ
+5006,45+,Male,Expats,Graduated,19000,shopping,IQ
+5007,18-24,Female,Expats,Graduated,15000,shopping,IQ
+5008,25-44,Female,Expats,Graduated,26000,shopping,IQ
+5009,45+,Female,Expats,Graduated,3900,shopping,IQ
+5010,18-24,Male,Expats,No Degree,50000,shopping,IQ
+5011,25-44,Male,Expats,No Degree,79000,shopping,IQ
+5012,45+,Male,Expats,No Degree,15000,shopping,IQ
+5013,18-24,Female,Expats,No Degree,20000,shopping,IQ
+5014,25-44,Female,Expats,No Degree,24000,shopping,IQ
+5015,45+,Female,Expats,No Degree,5200,shopping,IQ
+5016,18-24,Male,Expats,High School,34000,shopping,IQ
+5017,25-44,Male,Expats,High School,38000,shopping,IQ
+5018,45+,Male,Expats,High School,5700,shopping,IQ
+5019,18-24,Female,Expats,High School,12000,shopping,IQ
+5020,25-44,Female,Expats,High School,8400,shopping,IQ
+5021,45+,Female,Expats,High School,1400,shopping,IQ
+5022,18-24,Male,Locals,Graduated,720000,shopping,IQ
+5023,25-44,Male,Locals,Graduated,1400000,shopping,IQ
+5024,45+,Male,Locals,Graduated,200000,shopping,IQ
+5025,18-24,Female,Locals,Graduated,230000,shopping,IQ
+5026,25-44,Female,Locals,Graduated,350000,shopping,IQ
+5027,45+,Female,Locals,Graduated,53000,shopping,IQ
+5028,18-24,Male,Locals,No Degree,1400000,shopping,IQ
+5029,25-44,Male,Locals,No Degree,1600000,shopping,IQ
+5030,45+,Male,Locals,No Degree,360000,shopping,IQ
+5031,18-24,Female,Locals,No Degree,570000,shopping,IQ
+5032,25-44,Female,Locals,No Degree,550000,shopping,IQ
+5033,45+,Female,Locals,No Degree,140000,shopping,IQ
+5034,18-24,Male,Locals,High School,460000,shopping,IQ
+5035,25-44,Male,Locals,High School,420000,shopping,IQ
+5036,45+,Male,Locals,High School,67000,shopping,IQ
+5037,18-24,Female,Locals,High School,210000,shopping,IQ
+5038,25-44,Female,Locals,High School,120000,shopping,IQ
+5039,45+,Female,Locals,High School,19000,shopping,IQ
+5040,18-24,Male,Expats,Graduated,51000,shopping,JO
+5041,25-44,Male,Expats,Graduated,120000,shopping,JO
+5042,45+,Male,Expats,Graduated,20000,shopping,JO
+5043,18-24,Female,Expats,Graduated,31000,shopping,JO
+5044,25-44,Female,Expats,Graduated,70000,shopping,JO
+5045,45+,Female,Expats,Graduated,15000,shopping,JO
+5046,18-24,Male,Expats,No Degree,54000,shopping,JO
+5047,25-44,Male,Expats,No Degree,100000,shopping,JO
+5048,45+,Male,Expats,No Degree,24000,shopping,JO
+5049,18-24,Female,Expats,No Degree,31000,shopping,JO
+5050,25-44,Female,Expats,No Degree,51000,shopping,JO
+5051,45+,Female,Expats,No Degree,22000,shopping,JO
+5052,18-24,Male,Expats,High School,40000,shopping,JO
+5053,25-44,Male,Expats,High School,37000,shopping,JO
+5054,45+,Male,Expats,High School,6700,shopping,JO
+5055,18-24,Female,Expats,High School,36000,shopping,JO
+5056,25-44,Female,Expats,High School,22000,shopping,JO
+5057,45+,Female,Expats,High School,6000,shopping,JO
+5058,18-24,Male,Locals,Graduated,180000,shopping,JO
+5059,25-44,Male,Locals,Graduated,340000,shopping,JO
+5060,45+,Male,Locals,Graduated,64000,shopping,JO
+5061,18-24,Female,Locals,Graduated,120000,shopping,JO
+5062,25-44,Female,Locals,Graduated,220000,shopping,JO
+5063,45+,Female,Locals,Graduated,34000,shopping,JO
+5064,18-24,Male,Locals,No Degree,240000,shopping,JO
+5065,25-44,Male,Locals,No Degree,300000,shopping,JO
+5066,45+,Male,Locals,No Degree,110000,shopping,JO
+5067,18-24,Female,Locals,No Degree,210000,shopping,JO
+5068,25-44,Female,Locals,No Degree,250000,shopping,JO
+5069,45+,Female,Locals,No Degree,90000,shopping,JO
+5070,18-24,Male,Locals,High School,140000,shopping,JO
+5071,25-44,Male,Locals,High School,110000,shopping,JO
+5072,45+,Male,Locals,High School,26000,shopping,JO
+5073,18-24,Female,Locals,High School,140000,shopping,JO
+5074,25-44,Female,Locals,High School,71000,shopping,JO
+5075,45+,Female,Locals,High School,14000,shopping,JO
+5076,18-24,Male,Expats,Graduated,36000,shopping,KW
+5077,25-44,Male,Expats,Graduated,320000,shopping,KW
+5078,45+,Male,Expats,Graduated,48000,shopping,KW
+5079,18-24,Female,Expats,Graduated,15000,shopping,KW
+5080,25-44,Female,Expats,Graduated,140000,shopping,KW
+5081,45+,Female,Expats,Graduated,20000,shopping,KW
+5082,18-24,Male,Expats,No Degree,80000,shopping,KW
+5083,25-44,Male,Expats,No Degree,310000,shopping,KW
+5084,45+,Male,Expats,No Degree,66000,shopping,KW
+5085,18-24,Female,Expats,No Degree,33000,shopping,KW
+5086,25-44,Female,Expats,No Degree,110000,shopping,KW
+5087,45+,Female,Expats,No Degree,23000,shopping,KW
+5088,18-24,Male,Expats,High School,18000,shopping,KW
+5089,25-44,Male,Expats,High School,94000,shopping,KW
+5090,45+,Male,Expats,High School,15000,shopping,KW
+5091,18-24,Female,Expats,High School,11000,shopping,KW
+5092,25-44,Female,Expats,High School,51000,shopping,KW
+5093,45+,Female,Expats,High School,7400,shopping,KW
+5094,18-24,Male,Locals,Graduated,10000,shopping,KW
+5095,25-44,Male,Locals,Graduated,45000,shopping,KW
+5096,45+,Male,Locals,Graduated,7300,shopping,KW
+5097,18-24,Female,Locals,Graduated,5500,shopping,KW
+5098,25-44,Female,Locals,Graduated,25000,shopping,KW
+5099,45+,Female,Locals,Graduated,3300,shopping,KW
+5100,18-24,Male,Locals,No Degree,55000,shopping,KW
+5101,25-44,Male,Locals,No Degree,110000,shopping,KW
+5102,45+,Male,Locals,No Degree,22000,shopping,KW
+5103,18-24,Female,Locals,No Degree,27000,shopping,KW
+5104,25-44,Female,Locals,No Degree,53000,shopping,KW
+5105,45+,Female,Locals,No Degree,9500,shopping,KW
+5106,18-24,Male,Locals,High School,6200,shopping,KW
+5107,25-44,Male,Locals,High School,14000,shopping,KW
+5108,45+,Male,Locals,High School,2300,shopping,KW
+5109,18-24,Female,Locals,High School,5000,shopping,KW
+5110,25-44,Female,Locals,High School,9500,shopping,KW
+5111,45+,Female,Locals,High School,960,shopping,KW
+5112,18-24,Male,Expats,Graduated,30000,shopping,LB
+5113,25-44,Male,Expats,Graduated,67000,shopping,LB
+5114,45+,Male,Expats,Graduated,9900,shopping,LB
+5115,18-24,Female,Expats,Graduated,13000,shopping,LB
+5116,25-44,Female,Expats,Graduated,39000,shopping,LB
+5117,45+,Female,Expats,Graduated,9000,shopping,LB
+5118,18-24,Male,Expats,No Degree,50000,shopping,LB
+5119,25-44,Male,Expats,No Degree,85000,shopping,LB
+5120,45+,Male,Expats,No Degree,15000,shopping,LB
+5121,18-24,Female,Expats,No Degree,28000,shopping,LB
+5122,25-44,Female,Expats,No Degree,47000,shopping,LB
+5123,45+,Female,Expats,No Degree,13000,shopping,LB
+5124,18-24,Male,Expats,High School,18000,shopping,LB
+5125,25-44,Male,Expats,High School,24000,shopping,LB
+5126,45+,Male,Expats,High School,3500,shopping,LB
+5127,18-24,Female,Expats,High School,11000,shopping,LB
+5128,25-44,Female,Expats,High School,16000,shopping,LB
+5129,45+,Female,Expats,High School,3600,shopping,LB
+5130,18-24,Male,Locals,Graduated,73000,shopping,LB
+5131,25-44,Male,Locals,Graduated,160000,shopping,LB
+5132,45+,Male,Locals,Graduated,44000,shopping,LB
+5133,18-24,Female,Locals,Graduated,67000,shopping,LB
+5134,25-44,Female,Locals,Graduated,160000,shopping,LB
+5135,45+,Female,Locals,Graduated,37000,shopping,LB
+5136,18-24,Male,Locals,No Degree,160000,shopping,LB
+5137,25-44,Male,Locals,No Degree,220000,shopping,LB
+5138,45+,Male,Locals,No Degree,96000,shopping,LB
+5139,18-24,Female,Locals,No Degree,130000,shopping,LB
+5140,25-44,Female,Locals,No Degree,200000,shopping,LB
+5141,45+,Female,Locals,No Degree,110000,shopping,LB
+5142,18-24,Male,Locals,High School,56000,shopping,LB
+5143,25-44,Male,Locals,High School,46000,shopping,LB
+5144,45+,Male,Locals,High School,14000,shopping,LB
+5145,18-24,Female,Locals,High School,67000,shopping,LB
+5146,25-44,Female,Locals,High School,44000,shopping,LB
+5147,45+,Female,Locals,High School,14000,shopping,LB
+5148,18-24,Male,Expats,Graduated,19000,shopping,LY
+5149,25-44,Male,Expats,Graduated,54000,shopping,LY
+5150,45+,Male,Expats,Graduated,7200,shopping,LY
+5151,18-24,Female,Expats,Graduated,6400,shopping,LY
+5152,25-44,Female,Expats,Graduated,15000,shopping,LY
+5153,45+,Female,Expats,Graduated,3000,shopping,LY
+5154,18-24,Male,Expats,No Degree,22000,shopping,LY
+5155,25-44,Male,Expats,No Degree,55000,shopping,LY
+5156,45+,Male,Expats,No Degree,8500,shopping,LY
+5157,18-24,Female,Expats,No Degree,6300,shopping,LY
+5158,25-44,Female,Expats,No Degree,14000,shopping,LY
+5159,45+,Female,Expats,No Degree,3700,shopping,LY
+5160,18-24,Male,Expats,High School,7900,shopping,LY
+5161,25-44,Male,Expats,High School,14000,shopping,LY
+5162,45+,Male,Expats,High School,2200,shopping,LY
+5163,18-24,Female,Expats,High School,3900,shopping,LY
+5164,25-44,Female,Expats,High School,3900,shopping,LY
+5165,45+,Female,Expats,High School,890,shopping,LY
+5166,18-24,Male,Locals,Graduated,110000,shopping,LY
+5167,25-44,Male,Locals,Graduated,250000,shopping,LY
+5168,45+,Male,Locals,Graduated,39000,shopping,LY
+5169,18-24,Female,Locals,Graduated,88000,shopping,LY
+5170,25-44,Female,Locals,Graduated,150000,shopping,LY
+5171,45+,Female,Locals,Graduated,19000,shopping,LY
+5172,18-24,Male,Locals,No Degree,130000,shopping,LY
+5173,25-44,Male,Locals,No Degree,250000,shopping,LY
+5174,45+,Male,Locals,No Degree,54000,shopping,LY
+5175,18-24,Female,Locals,No Degree,110000,shopping,LY
+5176,25-44,Female,Locals,No Degree,190000,shopping,LY
+5177,45+,Female,Locals,No Degree,46000,shopping,LY
+5178,18-24,Male,Locals,High School,60000,shopping,LY
+5179,25-44,Male,Locals,High School,57000,shopping,LY
+5180,45+,Male,Locals,High School,12000,shopping,LY
+5181,18-24,Female,Locals,High School,65000,shopping,LY
+5182,25-44,Female,Locals,High School,38000,shopping,LY
+5183,45+,Female,Locals,High School,6000,shopping,LY
+5184,18-24,Male,Expats,Graduated,120000,shopping,MA
+5185,25-44,Male,Expats,Graduated,110000,shopping,MA
+5186,45+,Male,Expats,Graduated,15000,shopping,MA
+5187,18-24,Female,Expats,Graduated,42000,shopping,MA
+5188,25-44,Female,Expats,Graduated,39000,shopping,MA
+5189,45+,Female,Expats,Graduated,5900,shopping,MA
+5190,18-24,Male,Expats,No Degree,45000,shopping,MA
+5191,25-44,Male,Expats,No Degree,66000,shopping,MA
+5192,45+,Male,Expats,No Degree,14000,shopping,MA
+5193,18-24,Female,Expats,No Degree,26000,shopping,MA
+5194,25-44,Female,Expats,No Degree,34000,shopping,MA
+5195,45+,Female,Expats,No Degree,7400,shopping,MA
+5196,18-24,Male,Expats,High School,41000,shopping,MA
+5197,25-44,Male,Expats,High School,28000,shopping,MA
+5198,45+,Male,Expats,High School,5000,shopping,MA
+5199,18-24,Female,Expats,High School,18000,shopping,MA
+5200,25-44,Female,Expats,High School,12000,shopping,MA
+5201,45+,Female,Expats,High School,2500,shopping,MA
+5202,18-24,Male,Locals,Graduated,800000,shopping,MA
+5203,25-44,Male,Locals,Graduated,900000,shopping,MA
+5204,45+,Male,Locals,Graduated,130000,shopping,MA
+5205,18-24,Female,Locals,Graduated,490000,shopping,MA
+5206,25-44,Female,Locals,Graduated,420000,shopping,MA
+5207,45+,Female,Locals,Graduated,52000,shopping,MA
+5208,18-24,Male,Locals,No Degree,870000,shopping,MA
+5209,25-44,Male,Locals,No Degree,1200000,shopping,MA
+5210,45+,Male,Locals,No Degree,240000,shopping,MA
+5211,18-24,Female,Locals,No Degree,670000,shopping,MA
+5212,25-44,Female,Locals,No Degree,570000,shopping,MA
+5213,45+,Female,Locals,No Degree,110000,shopping,MA
+5214,18-24,Male,Locals,High School,340000,shopping,MA
+5215,25-44,Male,Locals,High School,250000,shopping,MA
+5216,45+,Male,Locals,High School,44000,shopping,MA
+5217,18-24,Female,Locals,High School,260000,shopping,MA
+5218,25-44,Female,Locals,High School,130000,shopping,MA
+5219,45+,Female,Locals,High School,21000,shopping,MA
+5220,18-24,Male,Expats,Graduated,36000,shopping,OM
+5221,25-44,Male,Expats,Graduated,200000,shopping,OM
+5222,45+,Male,Expats,Graduated,22000,shopping,OM
+5223,18-24,Female,Expats,Graduated,7000,shopping,OM
+5224,25-44,Female,Expats,Graduated,47000,shopping,OM
+5225,45+,Female,Expats,Graduated,7100,shopping,OM
+5226,18-24,Male,Expats,No Degree,89000,shopping,OM
+5227,25-44,Male,Expats,No Degree,210000,shopping,OM
+5228,45+,Male,Expats,No Degree,23000,shopping,OM
+5229,18-24,Female,Expats,No Degree,20000,shopping,OM
+5230,25-44,Female,Expats,No Degree,35000,shopping,OM
+5231,45+,Female,Expats,No Degree,5100,shopping,OM
+5232,18-24,Male,Expats,High School,14000,shopping,OM
+5233,25-44,Male,Expats,High School,48000,shopping,OM
+5234,45+,Male,Expats,High School,6000,shopping,OM
+5235,18-24,Female,Expats,High School,4900,shopping,OM
+5236,25-44,Female,Expats,High School,11000,shopping,OM
+5237,45+,Female,Expats,High School,2000,shopping,OM
+5238,18-24,Male,Locals,Graduated,21000,shopping,OM
+5239,25-44,Male,Locals,Graduated,52000,shopping,OM
+5240,45+,Male,Locals,Graduated,3900,shopping,OM
+5241,18-24,Female,Locals,Graduated,5900,shopping,OM
+5242,25-44,Female,Locals,Graduated,14000,shopping,OM
+5243,45+,Female,Locals,Graduated,1000,shopping,OM
+5244,18-24,Male,Locals,No Degree,66000,shopping,OM
+5245,25-44,Male,Locals,No Degree,94000,shopping,OM
+5246,45+,Male,Locals,No Degree,10000,shopping,OM
+5247,18-24,Female,Locals,No Degree,20000,shopping,OM
+5248,25-44,Female,Locals,No Degree,24000,shopping,OM
+5249,45+,Female,Locals,No Degree,2500,shopping,OM
+5250,18-24,Male,Locals,High School,11000,shopping,OM
+5251,25-44,Male,Locals,High School,15000,shopping,OM
+5252,45+,Male,Locals,High School,1400,shopping,OM
+5253,18-24,Female,Locals,High School,4300,shopping,OM
+5254,25-44,Female,Locals,High School,4000,shopping,OM
+5255,45+,Female,Locals,High School,340,shopping,OM
+5256,18-24,Male,Expats,Graduated,86000,shopping,QA
+5257,25-44,Male,Expats,Graduated,410000,shopping,QA
+5258,45+,Male,Expats,Graduated,49000,shopping,QA
+5259,18-24,Female,Expats,Graduated,19000,shopping,QA
+5260,25-44,Female,Expats,Graduated,120000,shopping,QA
+5261,45+,Female,Expats,Graduated,15000,shopping,QA
+5262,18-24,Male,Expats,No Degree,130000,shopping,QA
+5263,25-44,Male,Expats,No Degree,300000,shopping,QA
+5264,45+,Male,Expats,No Degree,42000,shopping,QA
+5265,18-24,Female,Expats,No Degree,26000,shopping,QA
+5266,25-44,Female,Expats,No Degree,61000,shopping,QA
+5267,45+,Female,Expats,No Degree,11000,shopping,QA
+5268,18-24,Male,Expats,High School,33000,shopping,QA
+5269,25-44,Male,Expats,High School,100000,shopping,QA
+5270,45+,Male,Expats,High School,13000,shopping,QA
+5271,18-24,Female,Expats,High School,10000,shopping,QA
+5272,25-44,Female,Expats,High School,30000,shopping,QA
+5273,45+,Female,Expats,High School,3900,shopping,QA
+5274,18-24,Male,Locals,Graduated,21000,shopping,QA
+5275,25-44,Male,Locals,Graduated,52000,shopping,QA
+5276,45+,Male,Locals,Graduated,4700,shopping,QA
+5277,18-24,Female,Locals,Graduated,7300,shopping,QA
+5278,25-44,Female,Locals,Graduated,20000,shopping,QA
+5279,45+,Female,Locals,Graduated,1700,shopping,QA
+5280,18-24,Male,Locals,No Degree,61000,shopping,QA
+5281,25-44,Male,Locals,No Degree,86000,shopping,QA
+5282,45+,Male,Locals,No Degree,12000,shopping,QA
+5283,18-24,Female,Locals,No Degree,18000,shopping,QA
+5284,25-44,Female,Locals,No Degree,26000,shopping,QA
+5285,45+,Female,Locals,No Degree,4200,shopping,QA
+5286,18-24,Male,Locals,High School,8700,shopping,QA
+5287,25-44,Male,Locals,High School,14000,shopping,QA
+5288,45+,Male,Locals,High School,1400,shopping,QA
+5289,18-24,Female,Locals,High School,4500,shopping,QA
+5290,25-44,Female,Locals,High School,6100,shopping,QA
+5291,45+,Female,Locals,High School,790,shopping,QA
+5292,18-24,Male,Expats,Graduated,270000,shopping,SA
+5293,25-44,Male,Expats,Graduated,1600000,shopping,SA
+5294,45+,Male,Expats,Graduated,180000,shopping,SA
+5295,18-24,Female,Expats,Graduated,57000,shopping,SA
+5296,25-44,Female,Expats,Graduated,340000,shopping,SA
+5297,45+,Female,Expats,Graduated,45000,shopping,SA
+5298,18-24,Male,Expats,No Degree,82000,shopping,SA
+5299,25-44,Male,Expats,No Degree,290000,shopping,SA
+5300,45+,Male,Expats,No Degree,47000,shopping,SA
+5301,18-24,Female,Expats,No Degree,33000,shopping,SA
+5302,25-44,Female,Expats,No Degree,88000,shopping,SA
+5303,45+,Female,Expats,No Degree,17000,shopping,SA
+5304,18-24,Male,Expats,High School,98000,shopping,SA
+5305,25-44,Male,Expats,High School,350000,shopping,SA
+5306,45+,Male,Expats,High School,45000,shopping,SA
+5307,18-24,Female,Expats,High School,37000,shopping,SA
+5308,25-44,Female,Expats,High School,91000,shopping,SA
+5309,45+,Female,Expats,High School,13000,shopping,SA
+5310,18-24,Male,Locals,Graduated,260000,shopping,SA
+5311,25-44,Male,Locals,Graduated,970000,shopping,SA
+5312,45+,Male,Locals,Graduated,110000,shopping,SA
+5313,18-24,Female,Locals,Graduated,98000,shopping,SA
+5314,25-44,Female,Locals,Graduated,280000,shopping,SA
+5315,45+,Female,Locals,Graduated,29000,shopping,SA
+5316,18-24,Male,Locals,No Degree,1300000,shopping,SA
+5317,25-44,Male,Locals,No Degree,2400000,shopping,SA
+5318,45+,Male,Locals,No Degree,360000,shopping,SA
+5319,18-24,Female,Locals,No Degree,430000,shopping,SA
+5320,25-44,Female,Locals,No Degree,540000,shopping,SA
+5321,45+,Female,Locals,No Degree,91000,shopping,SA
+5322,18-24,Male,Locals,High School,150000,shopping,SA
+5323,25-44,Male,Locals,High School,330000,shopping,SA
+5324,45+,Male,Locals,High School,41000,shopping,SA
+5325,18-24,Female,Locals,High School,76000,shopping,SA
+5326,25-44,Female,Locals,High School,93000,shopping,SA
+5327,45+,Female,Locals,High School,11000,shopping,SA
+5328,18-24,Male,Expats,Graduated,11000,shopping,SO
+5329,25-44,Male,Expats,Graduated,12000,shopping,SO
+5330,45+,Male,Expats,Graduated,1600,shopping,SO
+5331,18-24,Female,Expats,Graduated,5000,shopping,SO
+5332,25-44,Female,Expats,Graduated,3300,shopping,SO
+5333,45+,Female,Expats,Graduated,340,shopping,SO
+5334,18-24,Male,Expats,No Degree,3200,shopping,SO
+5335,25-44,Male,Expats,No Degree,4500,shopping,SO
+5336,45+,Male,Expats,No Degree,870,shopping,SO
+5337,18-24,Female,Expats,No Degree,2100,shopping,SO
+5338,25-44,Female,Expats,No Degree,1800,shopping,SO
+5339,45+,Female,Expats,No Degree,250,shopping,SO
+5340,18-24,Male,Expats,High School,2900,shopping,SO
+5341,25-44,Male,Expats,High School,2300,shopping,SO
+5342,45+,Male,Expats,High School,390,shopping,SO
+5343,18-24,Female,Expats,High School,1800,shopping,SO
+5344,25-44,Female,Expats,High School,810,shopping,SO
+5345,45+,Female,Expats,High School,90,shopping,SO
+5346,18-24,Male,Locals,Graduated,33000,shopping,SO
+5347,25-44,Male,Locals,Graduated,35000,shopping,SO
+5348,45+,Male,Locals,Graduated,2700,shopping,SO
+5349,18-24,Female,Locals,Graduated,23000,shopping,SO
+5350,25-44,Female,Locals,Graduated,13000,shopping,SO
+5351,45+,Female,Locals,Graduated,1400,shopping,SO
+5352,18-24,Male,Locals,No Degree,51000,shopping,SO
+5353,25-44,Male,Locals,No Degree,38000,shopping,SO
+5354,45+,Male,Locals,No Degree,5900,shopping,SO
+5355,18-24,Female,Locals,No Degree,58000,shopping,SO
+5356,25-44,Female,Locals,No Degree,25000,shopping,SO
+5357,45+,Female,Locals,No Degree,2600,shopping,SO
+5358,18-24,Male,Locals,High School,12000,shopping,SO
+5359,25-44,Male,Locals,High School,7300,shopping,SO
+5360,45+,Male,Locals,High School,760,shopping,SO
+5361,18-24,Female,Locals,High School,9100,shopping,SO
+5362,25-44,Female,Locals,High School,3200,shopping,SO
+5363,45+,Female,Locals,High School,430,shopping,SO
+5364,18-24,Male,Expats,Graduated,44000,shopping,TN
+5365,25-44,Male,Expats,Graduated,54000,shopping,TN
+5366,45+,Male,Expats,Graduated,12000,shopping,TN
+5367,18-24,Female,Expats,Graduated,20000,shopping,TN
+5368,25-44,Female,Expats,Graduated,25000,shopping,TN
+5369,45+,Female,Expats,Graduated,5300,shopping,TN
+5370,18-24,Male,Expats,No Degree,22000,shopping,TN
+5371,25-44,Male,Expats,No Degree,36000,shopping,TN
+5372,45+,Male,Expats,No Degree,8800,shopping,TN
+5373,18-24,Female,Expats,No Degree,14000,shopping,TN
+5374,25-44,Female,Expats,No Degree,21000,shopping,TN
+5375,45+,Female,Expats,No Degree,5200,shopping,TN
+5376,18-24,Male,Expats,High School,19000,shopping,TN
+5377,25-44,Male,Expats,High School,15000,shopping,TN
+5378,45+,Male,Expats,High School,3900,shopping,TN
+5379,18-24,Female,Expats,High School,10000,shopping,TN
+5380,25-44,Female,Expats,High School,7700,shopping,TN
+5381,45+,Female,Expats,High School,2500,shopping,TN
+5382,18-24,Male,Locals,Graduated,250000,shopping,TN
+5383,25-44,Male,Locals,Graduated,490000,shopping,TN
+5384,45+,Male,Locals,Graduated,110000,shopping,TN
+5385,18-24,Female,Locals,Graduated,260000,shopping,TN
+5386,25-44,Female,Locals,Graduated,410000,shopping,TN
+5387,45+,Female,Locals,Graduated,52000,shopping,TN
+5388,18-24,Male,Locals,No Degree,300000,shopping,TN
+5389,25-44,Male,Locals,No Degree,490000,shopping,TN
+5390,45+,Male,Locals,No Degree,130000,shopping,TN
+5391,18-24,Female,Locals,No Degree,310000,shopping,TN
+5392,25-44,Female,Locals,No Degree,380000,shopping,TN
+5393,45+,Female,Locals,No Degree,94000,shopping,TN
+5394,18-24,Male,Locals,High School,130000,shopping,TN
+5395,25-44,Male,Locals,High School,160000,shopping,TN
+5396,45+,Male,Locals,High School,44000,shopping,TN
+5397,18-24,Female,Locals,High School,150000,shopping,TN
+5398,25-44,Female,Locals,High School,110000,shopping,TN
+5399,45+,Female,Locals,High School,30000,shopping,TN
+5400,18-24,Male,Expats,Graduated,290000,shopping,AE
+5401,25-44,Male,Expats,Graduated,1500000,shopping,AE
+5402,45+,Male,Expats,Graduated,160000,shopping,AE
+5403,18-24,Female,Expats,Graduated,88000,shopping,AE
+5404,25-44,Female,Expats,Graduated,590000,shopping,AE
+5405,45+,Female,Expats,Graduated,72000,shopping,AE
+5406,18-24,Male,Expats,No Degree,320000,shopping,AE
+5407,25-44,Male,Expats,No Degree,880000,shopping,AE
+5408,45+,Male,Expats,No Degree,130000,shopping,AE
+5409,18-24,Female,Expats,No Degree,90000,shopping,AE
+5410,25-44,Female,Expats,No Degree,260000,shopping,AE
+5411,45+,Female,Expats,No Degree,53000,shopping,AE
+5412,18-24,Male,Expats,High School,110000,shopping,AE
+5413,25-44,Male,Expats,High School,340000,shopping,AE
+5414,45+,Male,Expats,High School,46000,shopping,AE
+5415,18-24,Female,Expats,High School,50000,shopping,AE
+5416,25-44,Female,Expats,High School,120000,shopping,AE
+5417,45+,Female,Expats,High School,21000,shopping,AE
+5418,18-24,Male,Locals,Graduated,70000,shopping,AE
+5419,25-44,Male,Locals,Graduated,170000,shopping,AE
+5420,45+,Male,Locals,Graduated,16000,shopping,AE
+5421,18-24,Female,Locals,Graduated,27000,shopping,AE
+5422,25-44,Female,Locals,Graduated,69000,shopping,AE
+5423,45+,Female,Locals,Graduated,8300,shopping,AE
+5424,18-24,Male,Locals,No Degree,200000,shopping,AE
+5425,25-44,Male,Locals,No Degree,310000,shopping,AE
+5426,45+,Male,Locals,No Degree,42000,shopping,AE
+5427,18-24,Female,Locals,No Degree,71000,shopping,AE
+5428,25-44,Female,Locals,No Degree,100000,shopping,AE
+5429,45+,Female,Locals,No Degree,18000,shopping,AE
+5430,18-24,Male,Locals,High School,28000,shopping,AE
+5431,25-44,Male,Locals,High School,42000,shopping,AE
+5432,45+,Male,Locals,High School,5000,shopping,AE
+5433,18-24,Female,Locals,High School,16000,shopping,AE
+5434,25-44,Female,Locals,High School,18000,shopping,AE
+5435,45+,Female,Locals,High School,3400,shopping,AE
+5436,18-24,Male,Expats,Graduated,13000,shopping,YE
+5437,25-44,Male,Expats,Graduated,24000,shopping,YE
+5438,45+,Male,Expats,Graduated,2200,shopping,YE
+5439,18-24,Female,Expats,Graduated,2500,shopping,YE
+5440,25-44,Female,Expats,Graduated,4100,shopping,YE
+5441,45+,Female,Expats,Graduated,470,shopping,YE
+5442,18-24,Male,Expats,No Degree,6200,shopping,YE
+5443,25-44,Male,Expats,No Degree,12000,shopping,YE
+5444,45+,Male,Expats,No Degree,1300,shopping,YE
+5445,18-24,Female,Expats,No Degree,3700,shopping,YE
+5446,25-44,Female,Expats,No Degree,3600,shopping,YE
+5447,45+,Female,Expats,No Degree,460,shopping,YE
+5448,18-24,Male,Expats,High School,5400,shopping,YE
+5449,25-44,Male,Expats,High School,5600,shopping,YE
+5450,45+,Male,Expats,High School,530,shopping,YE
+5451,18-24,Female,Expats,High School,1900,shopping,YE
+5452,25-44,Female,Expats,High School,1200,shopping,YE
+5453,45+,Female,Expats,High School,130,shopping,YE
+5454,18-24,Male,Locals,Graduated,92000,shopping,YE
+5455,25-44,Male,Locals,Graduated,190000,shopping,YE
+5456,45+,Male,Locals,Graduated,16000,shopping,YE
+5457,18-24,Female,Locals,Graduated,19000,shopping,YE
+5458,25-44,Female,Locals,Graduated,31000,shopping,YE
+5459,45+,Female,Locals,Graduated,1800,shopping,YE
+5460,18-24,Male,Locals,No Degree,150000,shopping,YE
+5461,25-44,Male,Locals,No Degree,180000,shopping,YE
+5462,45+,Male,Locals,No Degree,23000,shopping,YE
+5463,18-24,Female,Locals,No Degree,32000,shopping,YE
+5464,25-44,Female,Locals,No Degree,31000,shopping,YE
+5465,45+,Female,Locals,No Degree,3800,shopping,YE
+5466,18-24,Male,Locals,High School,59000,shopping,YE
+5467,25-44,Male,Locals,High School,54000,shopping,YE
+5468,45+,Male,Locals,High School,4700,shopping,YE
+5469,18-24,Female,Locals,High School,18000,shopping,YE
+5470,25-44,Female,Locals,High School,9000,shopping,YE
+5471,45+,Female,Locals,High School,720,shopping,YE
+5472,18-24,Male,Expats,Graduated,17000,shopping,PS
+5473,25-44,Male,Expats,Graduated,30000,shopping,PS
+5474,45+,Male,Expats,Graduated,4500,shopping,PS
+5475,18-24,Female,Expats,Graduated,13000,shopping,PS
+5476,25-44,Female,Expats,Graduated,20000,shopping,PS
+5477,45+,Female,Expats,Graduated,2600,shopping,PS
+5478,18-24,Male,Expats,No Degree,7100,shopping,PS
+5479,25-44,Male,Expats,No Degree,10000,shopping,PS
+5480,45+,Male,Expats,No Degree,3100,shopping,PS
+5481,18-24,Female,Expats,No Degree,7700,shopping,PS
+5482,25-44,Female,Expats,No Degree,9800,shopping,PS
+5483,45+,Female,Expats,No Degree,3500,shopping,PS
+5484,18-24,Male,Expats,High School,10000,shopping,PS
+5485,25-44,Male,Expats,High School,6300,shopping,PS
+5486,45+,Male,Expats,High School,1400,shopping,PS
+5487,18-24,Female,Expats,High School,11000,shopping,PS
+5488,25-44,Female,Expats,High School,5700,shopping,PS
+5489,45+,Female,Expats,High School,1300,shopping,PS
+5490,18-24,Male,Locals,Graduated,69000,shopping,PS
+5491,25-44,Male,Locals,Graduated,110000,shopping,PS
+5492,45+,Male,Locals,Graduated,16000,shopping,PS
+5493,18-24,Female,Locals,Graduated,62000,shopping,PS
+5494,25-44,Female,Locals,Graduated,80000,shopping,PS
+5495,45+,Female,Locals,Graduated,8300,shopping,PS
+5496,18-24,Male,Locals,No Degree,53000,shopping,PS
+5497,25-44,Male,Locals,No Degree,61000,shopping,PS
+5498,45+,Male,Locals,No Degree,19000,shopping,PS
+5499,18-24,Female,Locals,No Degree,55000,shopping,PS
+5500,25-44,Female,Locals,No Degree,62000,shopping,PS
+5501,45+,Female,Locals,No Degree,20000,shopping,PS
+5502,18-24,Male,Locals,High School,43000,shopping,PS
+5503,25-44,Male,Locals,High School,27000,shopping,PS
+5504,45+,Male,Locals,High School,5800,shopping,PS
+5505,18-24,Female,Locals,High School,51000,shopping,PS
+5506,25-44,Female,Locals,High School,23000,shopping,PS
+5507,45+,Female,Locals,High School,3700,shopping,PS

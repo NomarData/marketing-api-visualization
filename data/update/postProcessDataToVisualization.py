@@ -6,9 +6,12 @@ import sys
 import zipfile
 import os
 import ast
+import datetime
+import shutil
 
 NULL_VALUE = "NOTSELECTED"
 ALL_VALUE = "ALL"
+CURRENT_DATE_SERIAL = str(datetime.date.today())
 UNIQUE_TIME_ID = str(time.time()).split(".")[0]
 MIN_AGE = "min_age"
 MAX_AGE = "max_age"
@@ -25,6 +28,9 @@ AGE_RANGE = "age_range"
 CITIZENSHIP = "citizenship"
 RESPONSE = "response"
 APPLICATION_CURRENT_DATA_FOLDER = "../current_data/"
+RELATIVE_HISTORY_FOLDER = "../historic_data/"
+HISTORY_FILE_PATH = RELATIVE_HISTORY_FOLDER + "history_map.csv"
+HISTORY_FOLDER_NAME = "historic_data/"
 
 def zipdir(path, ziph):
     # ziph is zipfile handle
@@ -59,6 +65,7 @@ def get_country_code_from_row(row):
 
 def get_scholarity_from_row(row):
     return row[SCHOLARITY]["name"]
+
 
 
 class PostProcessVisualizationData:
@@ -171,10 +178,10 @@ class PostProcessVisualizationData:
         print "Unique Topics"
         print self.data["analysis_name"].unique()
 
-    def generate_denominator_file_in_current_data(self):
-        print "Save denominator file"
-        denominator_instances = self.data[self.data[TOPIC] == NULL_VALUE]
-        denominator_instances.to_csv(APPLICATION_CURRENT_DATA_FOLDER + "facebook_population.csv")
+    def generate_facebook_population_file_in_current_data(self):
+        print "Save Facebook Population file"
+        instances_facebook_population = self.data[self.data[TOPIC] == NULL_VALUE]
+        instances_facebook_population.to_csv(APPLICATION_CURRENT_DATA_FOLDER + "facebook_population.csv")
 
 
     def generate_file_for_combination(self,combination):
@@ -212,7 +219,7 @@ class PostProcessVisualizationData:
 
     def zip_folder(self):
         print "Saving zipped folder"
-        zipf = zipfile.ZipFile('data_' + UNIQUE_TIME_ID + '.zip', 'w', zipfile.ZIP_DEFLATED)
+        zipf = zipfile.ZipFile('data_' + CURRENT_DATE_SERIAL + '.zip', 'w', zipfile.ZIP_DEFLATED)
         zipdir(APPLICATION_CURRENT_DATA_FOLDER, zipf)
         zipf.close()
 
@@ -234,6 +241,21 @@ class PostProcessVisualizationData:
 
     def convert_values_to_string(self):
         self.data = self.data.applymap(str)
+
+    def save_original_data(self):
+        print "Saving compressed original data"
+        self.original_data["timestamp"] = time.time()
+        self.original_data.to_csv(APPLICATION_CURRENT_DATA_FOLDER + "original_data.gz", compression="gzip")
+
+    def add_and_save_at_history_folder(self):
+        print "Saving history"
+        history_file = open(HISTORY_FILE_PATH, "a")
+        new_path = HISTORY_FOLDER_NAME + CURRENT_DATE_SERIAL + "-" + UNIQUE_TIME_ID
+        current_date = CURRENT_DATE_SERIAL
+        current_time = UNIQUE_TIME_ID
+        history_file.write(",".join([new_path,current_date,current_time]) + "\n")
+        shutil.copytree(APPLICATION_CURRENT_DATA_FOLDER, new_path)
+
 
 
     def process_data(self):
@@ -259,8 +281,10 @@ class PostProcessVisualizationData:
         self.delete_column("name")
         self.delete_column("geo_locations")
         self.generate_combinations_files_in_current_data()
-        self.generate_denominator_file_in_current_data()
-        self.zip_folder()
+        self.generate_facebook_population_file_in_current_data()
+        self.save_original_data()
+        self.add_and_save_at_history_folder()
+        # self.zip_folder()
 
     def save_file(self,filename):
         print "Saving file: {}".format(filename)
@@ -280,9 +304,9 @@ class PostProcessVisualizationData:
         self.data.to_csv("new_dataset.csv")
 
     def __init__(self, filepath):
-        print "Loading Data..."
-        self.original_data = load_dataframe_from_file(filepath)
+        print "Loading Data... (take some seconds)"
         self.data = load_dataframe_from_file(filepath)
+        self.original_data = self.data.copy(deep=True)
 
 
 if __name__ == '__main__':

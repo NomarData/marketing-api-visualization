@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+3672,18-24,Male,Expats,Graduated,56000,luxury goods,DZ
+3673,25-44,Male,Expats,Graduated,52000,luxury goods,DZ
+3674,45+,Male,Expats,Graduated,6000,luxury goods,DZ
+3675,18-24,Female,Expats,Graduated,24000,luxury goods,DZ
+3676,25-44,Female,Expats,Graduated,19000,luxury goods,DZ
+3677,45+,Female,Expats,Graduated,3000,luxury goods,DZ
+3678,18-24,Male,Expats,No Degree,23000,luxury goods,DZ
+3679,25-44,Male,Expats,No Degree,31000,luxury goods,DZ
+3680,45+,Male,Expats,No Degree,5100,luxury goods,DZ
+3681,18-24,Female,Expats,No Degree,14000,luxury goods,DZ
+3682,25-44,Female,Expats,No Degree,15000,luxury goods,DZ
+3683,45+,Female,Expats,No Degree,3100,luxury goods,DZ
+3684,18-24,Male,Expats,High School,21000,luxury goods,DZ
+3685,25-44,Male,Expats,High School,12000,luxury goods,DZ
+3686,45+,Male,Expats,High School,2000,luxury goods,DZ
+3687,18-24,Female,Expats,High School,11000,luxury goods,DZ
+3688,25-44,Female,Expats,High School,4500,luxury goods,DZ
+3689,45+,Female,Expats,High School,1200,luxury goods,DZ
+3690,18-24,Male,Locals,Graduated,240000,luxury goods,DZ
+3691,25-44,Male,Locals,Graduated,380000,luxury goods,DZ
+3692,45+,Male,Locals,Graduated,36000,luxury goods,DZ
+3693,18-24,Female,Locals,Graduated,240000,luxury goods,DZ
+3694,25-44,Female,Locals,Graduated,280000,luxury goods,DZ
+3695,45+,Female,Locals,Graduated,22000,luxury goods,DZ
+3696,18-24,Male,Locals,No Degree,220000,luxury goods,DZ
+3697,25-44,Male,Locals,No Degree,380000,luxury goods,DZ
+3698,45+,Male,Locals,No Degree,49000,luxury goods,DZ
+3699,18-24,Female,Locals,No Degree,260000,luxury goods,DZ
+3700,25-44,Female,Locals,No Degree,270000,luxury goods,DZ
+3701,45+,Female,Locals,No Degree,35000,luxury goods,DZ
+3702,18-24,Male,Locals,High School,110000,luxury goods,DZ
+3703,25-44,Male,Locals,High School,100000,luxury goods,DZ
+3704,45+,Male,Locals,High School,13000,luxury goods,DZ
+3705,18-24,Female,Locals,High School,120000,luxury goods,DZ
+3706,25-44,Female,Locals,High School,64000,luxury goods,DZ
+3707,45+,Female,Locals,High School,9700,luxury goods,DZ
+3708,18-24,Male,Expats,Graduated,13000,luxury goods,BH
+3709,25-44,Male,Expats,Graduated,68000,luxury goods,BH
+3710,45+,Male,Expats,Graduated,8100,luxury goods,BH
+3711,18-24,Female,Expats,Graduated,3900,luxury goods,BH
+3712,25-44,Female,Expats,Graduated,32000,luxury goods,BH
+3713,45+,Female,Expats,Graduated,5400,luxury goods,BH
+3714,18-24,Male,Expats,No Degree,18000,luxury goods,BH
+3715,25-44,Male,Expats,No Degree,62000,luxury goods,BH
+3716,45+,Male,Expats,No Degree,10000,luxury goods,BH
+3717,18-24,Female,Expats,No Degree,5100,luxury goods,BH
+3718,25-44,Female,Expats,No Degree,18000,luxury goods,BH
+3719,45+,Female,Expats,No Degree,4400,luxury goods,BH
+3720,18-24,Male,Expats,High School,5100,luxury goods,BH
+3721,25-44,Male,Expats,High School,19000,luxury goods,BH
+3722,45+,Male,Expats,High School,2900,luxury goods,BH
+3723,18-24,Female,Expats,High School,2700,luxury goods,BH
+3724,25-44,Female,Expats,High School,8900,luxury goods,BH
+3725,45+,Female,Expats,High School,1900,luxury goods,BH
+3726,18-24,Male,Locals,Graduated,4400,luxury goods,BH
+3727,25-44,Male,Locals,Graduated,12000,luxury goods,BH
+3728,45+,Male,Locals,Graduated,1600,luxury goods,BH
+3729,18-24,Female,Locals,Graduated,2900,luxury goods,BH
+3730,25-44,Female,Locals,Graduated,9000,luxury goods,BH
+3731,45+,Female,Locals,Graduated,900,luxury goods,BH
+3732,18-24,Male,Locals,No Degree,7800,luxury goods,BH
+3733,25-44,Male,Locals,No Degree,17000,luxury goods,BH
+3734,45+,Male,Locals,No Degree,3600,luxury goods,BH
+3735,18-24,Female,Locals,No Degree,4600,luxury goods,BH
+3736,25-44,Female,Locals,No Degree,8800,luxury goods,BH
+3737,45+,Female,Locals,No Degree,1600,luxury goods,BH
+3738,18-24,Male,Locals,High School,2000,luxury goods,BH
+3739,25-44,Male,Locals,High School,3700,luxury goods,BH
+3740,45+,Male,Locals,High School,610,luxury goods,BH
+3741,18-24,Female,Locals,High School,2500,luxury goods,BH
+3742,25-44,Female,Locals,High School,2300,luxury goods,BH
+3743,45+,Female,Locals,High School,260,luxury goods,BH
+3744,18-24,Male,Expats,Graduated,34000,luxury goods,EG
+3745,25-44,Male,Expats,Graduated,70000,luxury goods,EG
+3746,45+,Male,Expats,Graduated,9900,luxury goods,EG
+3747,18-24,Female,Expats,Graduated,23000,luxury goods,EG
+3748,25-44,Female,Expats,Graduated,44000,luxury goods,EG
+3749,45+,Female,Expats,Graduated,7100,luxury goods,EG
+3750,18-24,Male,Expats,No Degree,11000,luxury goods,EG
+3751,25-44,Male,Expats,No Degree,22000,luxury goods,EG
+3752,45+,Male,Expats,No Degree,6100,luxury goods,EG
+3753,18-24,Female,Expats,No Degree,9000,luxury goods,EG
+3754,25-44,Female,Expats,No Degree,16000,luxury goods,EG
+3755,45+,Female,Expats,No Degree,5600,luxury goods,EG
+3756,18-24,Male,Expats,High School,23000,luxury goods,EG
+3757,25-44,Male,Expats,High School,16000,luxury goods,EG
+3758,45+,Male,Expats,High School,2200,luxury goods,EG
+3759,18-24,Female,Expats,High School,19000,luxury goods,EG
+3760,25-44,Female,Expats,High School,9800,luxury goods,EG
+3761,45+,Female,Expats,High School,1700,luxury goods,EG
+3762,18-24,Male,Locals,Graduated,730000,luxury goods,EG
+3763,25-44,Male,Locals,Graduated,1200000,luxury goods,EG
+3764,45+,Male,Locals,Graduated,160000,luxury goods,EG
+3765,18-24,Female,Locals,Graduated,730000,luxury goods,EG
+3766,25-44,Female,Locals,Graduated,1100000,luxury goods,EG
+3767,45+,Female,Locals,Graduated,140000,luxury goods,EG
+3768,18-24,Male,Locals,No Degree,380000,luxury goods,EG
+3769,25-44,Male,Locals,No Degree,660000,luxury goods,EG
+3770,45+,Male,Locals,No Degree,190000,luxury goods,EG
+3771,18-24,Female,Locals,No Degree,370000,luxury goods,EG
+3772,25-44,Female,Locals,No Degree,560000,luxury goods,EG
+3773,45+,Female,Locals,No Degree,190000,luxury goods,EG
+3774,18-24,Male,Locals,High School,480000,luxury goods,EG
+3775,25-44,Male,Locals,High School,260000,luxury goods,EG
+3776,45+,Male,Locals,High School,40000,luxury goods,EG
+3777,18-24,Female,Locals,High School,520000,luxury goods,EG
+3778,25-44,Female,Locals,High School,190000,luxury goods,EG
+3779,45+,Female,Locals,High School,31000,luxury goods,EG
+3780,18-24,Male,Expats,Graduated,15000,luxury goods,IQ
+3781,25-44,Male,Expats,Graduated,32000,luxury goods,IQ
+3782,45+,Male,Expats,Graduated,3200,luxury goods,IQ
+3783,18-24,Female,Expats,Graduated,5400,luxury goods,IQ
+3784,25-44,Female,Expats,Graduated,12000,luxury goods,IQ
+3785,45+,Female,Expats,Graduated,1500,luxury goods,IQ
+3786,18-24,Male,Expats,No Degree,7600,luxury goods,IQ
+3787,25-44,Male,Expats,No Degree,12000,luxury goods,IQ
+3788,45+,Male,Expats,No Degree,2300,luxury goods,IQ
+3789,18-24,Female,Expats,No Degree,5400,luxury goods,IQ
+3790,25-44,Female,Expats,No Degree,7100,luxury goods,IQ
+3791,45+,Female,Expats,No Degree,1600,luxury goods,IQ
+3792,18-24,Male,Expats,High School,8300,luxury goods,IQ
+3793,25-44,Male,Expats,High School,8700,luxury goods,IQ
+3794,45+,Male,Expats,High School,920,luxury goods,IQ
+3795,18-24,Female,Expats,High School,5200,luxury goods,IQ
+3796,25-44,Female,Expats,High School,3400,luxury goods,IQ
+3797,45+,Female,Expats,High School,500,luxury goods,IQ
+3798,18-24,Male,Locals,Graduated,160000,luxury goods,IQ
+3799,25-44,Male,Locals,Graduated,350000,luxury goods,IQ
+3800,45+,Male,Locals,Graduated,33000,luxury goods,IQ
+3801,18-24,Female,Locals,Graduated,93000,luxury goods,IQ
+3802,25-44,Female,Locals,Graduated,180000,luxury goods,IQ
+3803,45+,Female,Locals,Graduated,22000,luxury goods,IQ
+3804,18-24,Male,Locals,No Degree,150000,luxury goods,IQ
+3805,25-44,Male,Locals,No Degree,220000,luxury goods,IQ
+3806,45+,Male,Locals,No Degree,40000,luxury goods,IQ
+3807,18-24,Female,Locals,No Degree,110000,luxury goods,IQ
+3808,25-44,Female,Locals,No Degree,160000,luxury goods,IQ
+3809,45+,Female,Locals,No Degree,35000,luxury goods,IQ
+3810,18-24,Male,Locals,High School,110000,luxury goods,IQ
+3811,25-44,Male,Locals,High School,110000,luxury goods,IQ
+3812,45+,Male,Locals,High School,11000,luxury goods,IQ
+3813,18-24,Female,Locals,High School,93000,luxury goods,IQ
+3814,25-44,Female,Locals,High School,55000,luxury goods,IQ
+3815,45+,Female,Locals,High School,7300,luxury goods,IQ
+3816,18-24,Male,Expats,Graduated,29000,luxury goods,JO
+3817,25-44,Male,Expats,Graduated,64000,luxury goods,JO
+3818,45+,Male,Expats,Graduated,11000,luxury goods,JO
+3819,18-24,Female,Expats,Graduated,22000,luxury goods,JO
+3820,25-44,Female,Expats,Graduated,52000,luxury goods,JO
+3821,45+,Female,Expats,Graduated,11000,luxury goods,JO
+3822,18-24,Male,Expats,No Degree,24000,luxury goods,JO
+3823,25-44,Male,Expats,No Degree,44000,luxury goods,JO
+3824,45+,Male,Expats,No Degree,11000,luxury goods,JO
+3825,18-24,Female,Expats,No Degree,15000,luxury goods,JO
+3826,25-44,Female,Expats,No Degree,30000,luxury goods,JO
+3827,45+,Female,Expats,No Degree,15000,luxury goods,JO
+3828,18-24,Male,Expats,High School,24000,luxury goods,JO
+3829,25-44,Male,Expats,High School,19000,luxury goods,JO
+3830,45+,Male,Expats,High School,3400,luxury goods,JO
+3831,18-24,Female,Expats,High School,28000,luxury goods,JO
+3832,25-44,Female,Expats,High School,16000,luxury goods,JO
+3833,45+,Female,Expats,High School,4300,luxury goods,JO
+3834,18-24,Male,Locals,Graduated,100000,luxury goods,JO
+3835,25-44,Male,Locals,Graduated,200000,luxury goods,JO
+3836,45+,Male,Locals,Graduated,34000,luxury goods,JO
+3837,18-24,Female,Locals,Graduated,83000,luxury goods,JO
+3838,25-44,Female,Locals,Graduated,170000,luxury goods,JO
+3839,45+,Female,Locals,Graduated,25000,luxury goods,JO
+3840,18-24,Male,Locals,No Degree,86000,luxury goods,JO
+3841,25-44,Male,Locals,No Degree,130000,luxury goods,JO
+3842,45+,Male,Locals,No Degree,52000,luxury goods,JO
+3843,18-24,Female,Locals,No Degree,80000,luxury goods,JO
+3844,25-44,Female,Locals,No Degree,140000,luxury goods,JO
+3845,45+,Female,Locals,No Degree,55000,luxury goods,JO
+3846,18-24,Male,Locals,High School,85000,luxury goods,JO
+3847,25-44,Male,Locals,High School,61000,luxury goods,JO
+3848,45+,Male,Locals,High School,14000,luxury goods,JO
+3849,18-24,Female,Locals,High School,96000,luxury goods,JO
+3850,25-44,Female,Locals,High School,52000,luxury goods,JO
+3851,45+,Female,Locals,High School,11000,luxury goods,JO
+3852,18-24,Male,Expats,Graduated,20000,luxury goods,KW
+3853,25-44,Male,Expats,Graduated,180000,luxury goods,KW
+3854,45+,Male,Expats,Graduated,25000,luxury goods,KW
+3855,18-24,Female,Expats,Graduated,11000,luxury goods,KW
+3856,25-44,Female,Expats,Graduated,110000,luxury goods,KW
+3857,45+,Female,Expats,Graduated,15000,luxury goods,KW
+3858,18-24,Male,Expats,No Degree,39000,luxury goods,KW
+3859,25-44,Male,Expats,No Degree,160000,luxury goods,KW
+3860,45+,Male,Expats,No Degree,34000,luxury goods,KW
+3861,18-24,Female,Expats,No Degree,22000,luxury goods,KW
+3862,25-44,Female,Expats,No Degree,73000,luxury goods,KW
+3863,45+,Female,Expats,No Degree,16000,luxury goods,KW
+3864,18-24,Male,Expats,High School,9000,luxury goods,KW
+3865,25-44,Male,Expats,High School,52000,luxury goods,KW
+3866,45+,Male,Expats,High School,8300,luxury goods,KW
+3867,18-24,Female,Expats,High School,7800,luxury goods,KW
+3868,25-44,Female,Expats,High School,39000,luxury goods,KW
+3869,45+,Female,Expats,High School,5700,luxury goods,KW
+3870,18-24,Male,Locals,Graduated,3900,luxury goods,KW
+3871,25-44,Male,Locals,Graduated,21000,luxury goods,KW
+3872,45+,Male,Locals,Graduated,3400,luxury goods,KW
+3873,18-24,Female,Locals,Graduated,2700,luxury goods,KW
+3874,25-44,Female,Locals,Graduated,16000,luxury goods,KW
+3875,45+,Female,Locals,Graduated,2100,luxury goods,KW
+3876,18-24,Male,Locals,No Degree,15000,luxury goods,KW
+3877,25-44,Male,Locals,No Degree,37000,luxury goods,KW
+3878,45+,Male,Locals,No Degree,8000,luxury goods,KW
+3879,18-24,Female,Locals,No Degree,9300,luxury goods,KW
+3880,25-44,Female,Locals,No Degree,22000,luxury goods,KW
+3881,45+,Female,Locals,No Degree,4700,luxury goods,KW
+3882,18-24,Male,Locals,High School,2200,luxury goods,KW
+3883,25-44,Male,Locals,High School,5800,luxury goods,KW
+3884,45+,Male,Locals,High School,940,luxury goods,KW
+3885,18-24,Female,Locals,High School,2500,luxury goods,KW
+3886,25-44,Female,Locals,High School,5200,luxury goods,KW
+3887,45+,Female,Locals,High School,610,luxury goods,KW
+3888,18-24,Male,Expats,Graduated,14000,luxury goods,LB
+3889,25-44,Male,Expats,Graduated,32000,luxury goods,LB
+3890,45+,Male,Expats,Graduated,4300,luxury goods,LB
+3891,18-24,Female,Expats,Graduated,8800,luxury goods,LB
+3892,25-44,Female,Expats,Graduated,28000,luxury goods,LB
+3893,45+,Female,Expats,Graduated,5800,luxury goods,LB
+3894,18-24,Male,Expats,No Degree,19000,luxury goods,LB
+3895,25-44,Male,Expats,No Degree,35000,luxury goods,LB
+3896,45+,Male,Expats,No Degree,6400,luxury goods,LB
+3897,18-24,Female,Expats,No Degree,17000,luxury goods,LB
+3898,25-44,Female,Expats,No Degree,31000,luxury goods,LB
+3899,45+,Female,Expats,No Degree,8000,luxury goods,LB
+3900,18-24,Male,Expats,High School,8600,luxury goods,LB
+3901,25-44,Male,Expats,High School,12000,luxury goods,LB
+3902,45+,Male,Expats,High School,1600,luxury goods,LB
+3903,18-24,Female,Expats,High School,7900,luxury goods,LB
+3904,25-44,Female,Expats,High School,12000,luxury goods,LB
+3905,45+,Female,Expats,High School,2400,luxury goods,LB
+3906,18-24,Male,Locals,Graduated,36000,luxury goods,LB
+3907,25-44,Male,Locals,Graduated,87000,luxury goods,LB
+3908,45+,Male,Locals,Graduated,21000,luxury goods,LB
+3909,18-24,Female,Locals,Graduated,53000,luxury goods,LB
+3910,25-44,Female,Locals,Graduated,130000,luxury goods,LB
+3911,45+,Female,Locals,Graduated,26000,luxury goods,LB
+3912,18-24,Male,Locals,No Degree,56000,luxury goods,LB
+3913,25-44,Male,Locals,No Degree,92000,luxury goods,LB
+3914,45+,Male,Locals,No Degree,39000,luxury goods,LB
+3915,18-24,Female,Locals,No Degree,74000,luxury goods,LB
+3916,25-44,Female,Locals,No Degree,140000,luxury goods,LB
+3917,45+,Female,Locals,No Degree,69000,luxury goods,LB
+3918,18-24,Male,Locals,High School,29000,luxury goods,LB
+3919,25-44,Male,Locals,High School,24000,luxury goods,LB
+3920,45+,Male,Locals,High School,6900,luxury goods,LB
+3921,18-24,Female,Locals,High School,53000,luxury goods,LB
+3922,25-44,Female,Locals,High School,35000,luxury goods,LB
+3923,45+,Female,Locals,High School,10000,luxury goods,LB
+3924,18-24,Male,Expats,Graduated,5300,luxury goods,LY
+3925,25-44,Male,Expats,Graduated,14000,luxury goods,LY
+3926,45+,Male,Expats,Graduated,1400,luxury goods,LY
+3927,18-24,Female,Expats,Graduated,2800,luxury goods,LY
+3928,25-44,Female,Expats,Graduated,7900,luxury goods,LY
+3929,45+,Female,Expats,Graduated,1300,luxury goods,LY
+3930,18-24,Male,Expats,No Degree,4000,luxury goods,LY
+3931,25-44,Male,Expats,No Degree,11000,luxury goods,LY
+3932,45+,Male,Expats,No Degree,1400,luxury goods,LY
+3933,18-24,Female,Expats,No Degree,1800,luxury goods,LY
+3934,25-44,Female,Expats,No Degree,5300,luxury goods,LY
+3935,45+,Female,Expats,No Degree,1200,luxury goods,LY
+3936,18-24,Male,Expats,High School,2500,luxury goods,LY
+3937,25-44,Male,Expats,High School,3500,luxury goods,LY
+3938,45+,Male,Expats,High School,480,luxury goods,LY
+3939,18-24,Female,Expats,High School,2000,luxury goods,LY
+3940,25-44,Female,Expats,High School,2100,luxury goods,LY
+3941,45+,Female,Expats,High School,360,luxury goods,LY
+3942,18-24,Male,Locals,Graduated,35000,luxury goods,LY
+3943,25-44,Male,Locals,Graduated,80000,luxury goods,LY
+3944,45+,Male,Locals,Graduated,8200,luxury goods,LY
+3945,18-24,Female,Locals,Graduated,43000,luxury goods,LY
+3946,25-44,Female,Locals,Graduated,89000,luxury goods,LY
+3947,45+,Female,Locals,Graduated,9300,luxury goods,LY
+3948,18-24,Male,Locals,No Degree,24000,luxury goods,LY
+3949,25-44,Male,Locals,No Degree,53000,luxury goods,LY
+3950,45+,Male,Locals,No Degree,8800,luxury goods,LY
+3951,18-24,Female,Locals,No Degree,33000,luxury goods,LY
+3952,25-44,Female,Locals,No Degree,71000,luxury goods,LY
+3953,45+,Female,Locals,No Degree,16000,luxury goods,LY
+3954,18-24,Male,Locals,High School,21000,luxury goods,LY
+3955,25-44,Male,Locals,High School,18000,luxury goods,LY
+3956,45+,Male,Locals,High School,2400,luxury goods,LY
+3957,18-24,Female,Locals,High School,35000,luxury goods,LY
+3958,25-44,Female,Locals,High School,22000,luxury goods,LY
+3959,45+,Female,Locals,High School,3100,luxury goods,LY
+3960,18-24,Male,Expats,Graduated,48000,luxury goods,MA
+3961,25-44,Male,Expats,Graduated,39000,luxury goods,MA
+3962,45+,Male,Expats,Graduated,4600,luxury goods,MA
+3963,18-24,Female,Expats,Graduated,26000,luxury goods,MA
+3964,25-44,Female,Expats,Graduated,24000,luxury goods,MA
+3965,45+,Female,Expats,Graduated,3000,luxury goods,MA
+3966,18-24,Male,Expats,No Degree,15000,luxury goods,MA
+3967,25-44,Male,Expats,No Degree,19000,luxury goods,MA
+3968,45+,Male,Expats,No Degree,3500,luxury goods,MA
+3969,18-24,Female,Expats,No Degree,14000,luxury goods,MA
+3970,25-44,Female,Expats,No Degree,17000,luxury goods,MA
+3971,45+,Female,Expats,No Degree,3400,luxury goods,MA
+3972,18-24,Male,Expats,High School,18000,luxury goods,MA
+3973,25-44,Male,Expats,High School,9900,luxury goods,MA
+3974,45+,Male,Expats,High School,1600,luxury goods,MA
+3975,18-24,Female,Expats,High School,12000,luxury goods,MA
+3976,25-44,Female,Expats,High School,6900,luxury goods,MA
+3977,45+,Female,Expats,High School,1300,luxury goods,MA
+3978,18-24,Male,Locals,Graduated,310000,luxury goods,MA
+3979,25-44,Male,Locals,Graduated,320000,luxury goods,MA
+3980,45+,Male,Locals,Graduated,32000,luxury goods,MA
+3981,18-24,Female,Locals,Graduated,340000,luxury goods,MA
+3982,25-44,Female,Locals,Graduated,300000,luxury goods,MA
+3983,45+,Female,Locals,Graduated,29000,luxury goods,MA
+3984,18-24,Male,Locals,No Degree,220000,luxury goods,MA
+3985,25-44,Male,Locals,No Degree,270000,luxury goods,MA
+3986,45+,Male,Locals,No Degree,39000,luxury goods,MA
+3987,18-24,Female,Locals,No Degree,320000,luxury goods,MA
+3988,25-44,Female,Locals,No Degree,280000,luxury goods,MA
+3989,45+,Female,Locals,No Degree,40000,luxury goods,MA
+3990,18-24,Male,Locals,High School,140000,luxury goods,MA
+3991,25-44,Male,Locals,High School,89000,luxury goods,MA
+3992,45+,Male,Locals,High School,10000,luxury goods,MA
+3993,18-24,Female,Locals,High School,170000,luxury goods,MA
+3994,25-44,Female,Locals,High School,84000,luxury goods,MA
+3995,45+,Female,Locals,High School,12000,luxury goods,MA
+3996,18-24,Male,Expats,Graduated,21000,luxury goods,OM
+3997,25-44,Male,Expats,Graduated,110000,luxury goods,OM
+3998,45+,Male,Expats,Graduated,9900,luxury goods,OM
+3999,18-24,Female,Expats,Graduated,4300,luxury goods,OM
+4000,25-44,Female,Expats,Graduated,35000,luxury goods,OM
+4001,45+,Female,Expats,Graduated,4800,luxury goods,OM
+4002,18-24,Male,Expats,No Degree,43000,luxury goods,OM
+4003,25-44,Male,Expats,No Degree,100000,luxury goods,OM
+4004,45+,Male,Expats,No Degree,11000,luxury goods,OM
+4005,18-24,Female,Expats,No Degree,12000,luxury goods,OM
+4006,25-44,Female,Expats,No Degree,23000,luxury goods,OM
+4007,45+,Female,Expats,No Degree,3200,luxury goods,OM
+4008,18-24,Male,Expats,High School,7700,luxury goods,OM
+4009,25-44,Male,Expats,High School,26000,luxury goods,OM
+4010,45+,Male,Expats,High School,2900,luxury goods,OM
+4011,18-24,Female,Expats,High School,3000,luxury goods,OM
+4012,25-44,Female,Expats,High School,8100,luxury goods,OM
+4013,45+,Female,Expats,High School,1400,luxury goods,OM
+4014,18-24,Male,Locals,Graduated,8800,luxury goods,OM
+4015,25-44,Male,Locals,Graduated,24000,luxury goods,OM
+4016,45+,Male,Locals,Graduated,1500,luxury goods,OM
+4017,18-24,Female,Locals,Graduated,2800,luxury goods,OM
+4018,25-44,Female,Locals,Graduated,7700,luxury goods,OM
+4019,45+,Female,Locals,Graduated,530,luxury goods,OM
+4020,18-24,Male,Locals,No Degree,18000,luxury goods,OM
+4021,25-44,Male,Locals,No Degree,28000,luxury goods,OM
+4022,45+,Male,Locals,No Degree,3000,luxury goods,OM
+4023,18-24,Female,Locals,No Degree,7500,luxury goods,OM
+4024,25-44,Female,Locals,No Degree,10000,luxury goods,OM
+4025,45+,Female,Locals,No Degree,1100,luxury goods,OM
+4026,18-24,Male,Locals,High School,4000,luxury goods,OM
+4027,25-44,Male,Locals,High School,6900,luxury goods,OM
+4028,45+,Male,Locals,High School,530,luxury goods,OM
+4029,18-24,Female,Locals,High School,1900,luxury goods,OM
+4030,25-44,Female,Locals,High School,2100,luxury goods,OM
+4031,45+,Female,Locals,High School,240,luxury goods,OM
+4032,18-24,Male,Expats,Graduated,51000,luxury goods,QA
+4033,25-44,Male,Expats,Graduated,230000,luxury goods,QA
+4034,45+,Male,Expats,Graduated,23000,luxury goods,QA
+4035,18-24,Female,Expats,Graduated,13000,luxury goods,QA
+4036,25-44,Female,Expats,Graduated,95000,luxury goods,QA
+4037,45+,Female,Expats,Graduated,11000,luxury goods,QA
+4038,18-24,Male,Expats,No Degree,67000,luxury goods,QA
+4039,25-44,Male,Expats,No Degree,150000,luxury goods,QA
+4040,45+,Male,Expats,No Degree,20000,luxury goods,QA
+4041,18-24,Female,Expats,No Degree,14000,luxury goods,QA
+4042,25-44,Female,Expats,No Degree,40000,luxury goods,QA
+4043,45+,Female,Expats,No Degree,7400,luxury goods,QA
+4044,18-24,Male,Expats,High School,18000,luxury goods,QA
+4045,25-44,Male,Expats,High School,56000,luxury goods,QA
+4046,45+,Male,Expats,High School,6500,luxury goods,QA
+4047,18-24,Female,Expats,High School,6600,luxury goods,QA
+4048,25-44,Female,Expats,High School,23000,luxury goods,QA
+4049,45+,Female,Expats,High School,2900,luxury goods,QA
+4050,18-24,Male,Locals,Graduated,9600,luxury goods,QA
+4051,25-44,Male,Locals,Graduated,23000,luxury goods,QA
+4052,45+,Male,Locals,Graduated,2000,luxury goods,QA
+4053,18-24,Female,Locals,Graduated,4000,luxury goods,QA
+4054,25-44,Female,Locals,Graduated,13000,luxury goods,QA
+4055,45+,Female,Locals,Graduated,1100,luxury goods,QA
+4056,18-24,Male,Locals,No Degree,15000,luxury goods,QA
+4057,25-44,Male,Locals,No Degree,22000,luxury goods,QA
+4058,45+,Male,Locals,No Degree,3500,luxury goods,QA
+4059,18-24,Female,Locals,No Degree,5700,luxury goods,QA
+4060,25-44,Female,Locals,No Degree,10000,luxury goods,QA
+4061,45+,Female,Locals,No Degree,1900,luxury goods,QA
+4062,18-24,Male,Locals,High School,3600,luxury goods,QA
+4063,25-44,Male,Locals,High School,5600,luxury goods,QA
+4064,45+,Male,Locals,High School,540,luxury goods,QA
+4065,18-24,Female,Locals,High School,2300,luxury goods,QA
+4066,25-44,Female,Locals,High School,3600,luxury goods,QA
+4067,45+,Female,Locals,High School,450,luxury goods,QA
+4068,18-24,Male,Expats,Graduated,150000,luxury goods,SA
+4069,25-44,Male,Expats,Graduated,860000,luxury goods,SA
+4070,45+,Male,Expats,Graduated,86000,luxury goods,SA
+4071,18-24,Female,Expats,Graduated,37000,luxury goods,SA
+4072,25-44,Female,Expats,Graduated,250000,luxury goods,SA
+4073,45+,Female,Expats,Graduated,32000,luxury goods,SA
+4074,18-24,Male,Expats,No Degree,42000,luxury goods,SA
+4075,25-44,Male,Expats,No Degree,160000,luxury goods,SA
+4076,45+,Male,Expats,No Degree,23000,luxury goods,SA
+4077,18-24,Female,Expats,No Degree,19000,luxury goods,SA
+4078,25-44,Female,Expats,No Degree,61000,luxury goods,SA
+4079,45+,Female,Expats,No Degree,12000,luxury goods,SA
+4080,18-24,Male,Expats,High School,51000,luxury goods,SA
+4081,25-44,Male,Expats,High School,200000,luxury goods,SA
+4082,45+,Male,Expats,High School,23000,luxury goods,SA
+4083,18-24,Female,Expats,High School,23000,luxury goods,SA
+4084,25-44,Female,Expats,High School,66000,luxury goods,SA
+4085,45+,Female,Expats,High School,9300,luxury goods,SA
+4086,18-24,Male,Locals,Graduated,120000,luxury goods,SA
+4087,25-44,Male,Locals,Graduated,450000,luxury goods,SA
+4088,45+,Male,Locals,Graduated,48000,luxury goods,SA
+4089,18-24,Female,Locals,Graduated,48000,luxury goods,SA
+4090,25-44,Female,Locals,Graduated,170000,luxury goods,SA
+4091,45+,Female,Locals,Graduated,18000,luxury goods,SA
+4092,18-24,Male,Locals,No Degree,560000,luxury goods,SA
+4093,25-44,Male,Locals,No Degree,1200000,luxury goods,SA
+4094,45+,Male,Locals,No Degree,170000,luxury goods,SA
+4095,18-24,Female,Locals,No Degree,190000,luxury goods,SA
+4096,25-44,Female,Locals,No Degree,270000,luxury goods,SA
+4097,45+,Female,Locals,No Degree,48000,luxury goods,SA
+4098,18-24,Male,Locals,High School,62000,luxury goods,SA
+4099,25-44,Male,Locals,High School,160000,luxury goods,SA
+4100,45+,Male,Locals,High School,18000,luxury goods,SA
+4101,18-24,Female,Locals,High School,37000,luxury goods,SA
+4102,25-44,Female,Locals,High School,54000,luxury goods,SA
+4103,45+,Female,Locals,High School,6500,luxury goods,SA
+4104,18-24,Male,Expats,Graduated,1200,luxury goods,SO
+4105,25-44,Male,Expats,Graduated,1400,luxury goods,SO
+4106,45+,Male,Expats,Graduated,180,luxury goods,SO
+4107,18-24,Female,Expats,Graduated,830,luxury goods,SO
+4108,25-44,Female,Expats,Graduated,700,luxury goods,SO
+4109,45+,Female,Expats,Graduated,90,luxury goods,SO
+4110,18-24,Male,Expats,No Degree,290,luxury goods,SO
+4111,25-44,Male,Expats,No Degree,490,luxury goods,SO
+4112,45+,Male,Expats,No Degree,80,luxury goods,SO
+4113,18-24,Female,Expats,No Degree,320,luxury goods,SO
+4114,25-44,Female,Expats,No Degree,300,luxury goods,SO
+4115,45+,Female,Expats,No Degree,40,luxury goods,SO
+4116,18-24,Male,Expats,High School,280,luxury goods,SO
+4117,25-44,Male,Expats,High School,260,luxury goods,SO
+4118,45+,Male,Expats,High School,20,luxury goods,SO
+4119,18-24,Female,Expats,High School,300,luxury goods,SO
+4120,25-44,Female,Expats,High School,180,luxury goods,SO
+4121,45+,Female,Expats,High School,20,luxury goods,SO
+4122,18-24,Male,Locals,Graduated,3300,luxury goods,SO
+4123,25-44,Male,Locals,Graduated,3300,luxury goods,SO
+4124,45+,Male,Locals,Graduated,240,luxury goods,SO
+4125,18-24,Female,Locals,Graduated,3300,luxury goods,SO
+4126,25-44,Female,Locals,Graduated,2000,luxury goods,SO
+4127,45+,Female,Locals,Graduated,220,luxury goods,SO
+4128,18-24,Male,Locals,No Degree,2800,luxury goods,SO
+4129,25-44,Male,Locals,No Degree,2800,luxury goods,SO
+4130,45+,Male,Locals,No Degree,310,luxury goods,SO
+4131,18-24,Female,Locals,No Degree,3800,luxury goods,SO
+4132,25-44,Female,Locals,No Degree,2000,luxury goods,SO
+4133,45+,Female,Locals,No Degree,160,luxury goods,SO
+4134,18-24,Male,Locals,High School,1200,luxury goods,SO
+4135,25-44,Male,Locals,High School,700,luxury goods,SO
+4136,45+,Male,Locals,High School,30,luxury goods,SO
+4137,18-24,Female,Locals,High School,1300,luxury goods,SO
+4138,25-44,Female,Locals,High School,470,luxury goods,SO
+4139,45+,Female,Locals,High School,100,luxury goods,SO
+4140,18-24,Male,Expats,Graduated,20000,luxury goods,TN
+4141,25-44,Male,Expats,Graduated,22000,luxury goods,TN
+4142,45+,Male,Expats,Graduated,4600,luxury goods,TN
+4143,18-24,Female,Expats,Graduated,13000,luxury goods,TN
+4144,25-44,Female,Expats,Graduated,16000,luxury goods,TN
+4145,45+,Female,Expats,Graduated,2900,luxury goods,TN
+4146,18-24,Male,Expats,No Degree,8200,luxury goods,TN
+4147,25-44,Male,Expats,No Degree,11000,luxury goods,TN
+4148,45+,Male,Expats,No Degree,2500,luxury goods,TN
+4149,18-24,Female,Expats,No Degree,6500,luxury goods,TN
+4150,25-44,Female,Expats,No Degree,9600,luxury goods,TN
+4151,45+,Female,Expats,No Degree,2500,luxury goods,TN
+4152,18-24,Male,Expats,High School,9300,luxury goods,TN
+4153,25-44,Male,Expats,High School,6200,luxury goods,TN
+4154,45+,Male,Expats,High School,1100,luxury goods,TN
+4155,18-24,Female,Expats,High School,6700,luxury goods,TN
+4156,25-44,Female,Expats,High School,4800,luxury goods,TN
+4157,45+,Female,Expats,High School,1300,luxury goods,TN
+4158,18-24,Male,Locals,Graduated,120000,luxury goods,TN
+4159,25-44,Male,Locals,Graduated,230000,luxury goods,TN
+4160,45+,Male,Locals,Graduated,39000,luxury goods,TN
+4161,18-24,Female,Locals,Graduated,190000,luxury goods,TN
+4162,25-44,Female,Locals,Graduated,310000,luxury goods,TN
+4163,45+,Female,Locals,Graduated,35000,luxury goods,TN
+4164,18-24,Male,Locals,No Degree,95000,luxury goods,TN
+4165,25-44,Male,Locals,No Degree,170000,luxury goods,TN
+4166,45+,Male,Locals,No Degree,41000,luxury goods,TN
+4167,18-24,Female,Locals,No Degree,160000,luxury goods,TN
+4168,25-44,Female,Locals,No Degree,210000,luxury goods,TN
+4169,45+,Female,Locals,No Degree,48000,luxury goods,TN
+4170,18-24,Male,Locals,High School,59000,luxury goods,TN
+4171,25-44,Male,Locals,High School,68000,luxury goods,TN
+4172,45+,Male,Locals,High School,16000,luxury goods,TN
+4173,18-24,Female,Locals,High School,100000,luxury goods,TN
+4174,25-44,Female,Locals,High School,80000,luxury goods,TN
+4175,45+,Female,Locals,High School,19000,luxury goods,TN
+4176,18-24,Male,Expats,Graduated,160000,luxury goods,AE
+4177,25-44,Male,Expats,Graduated,760000,luxury goods,AE
+4178,45+,Male,Expats,Graduated,65000,luxury goods,AE
+4179,18-24,Female,Expats,Graduated,55000,luxury goods,AE
+4180,25-44,Female,Expats,Graduated,410000,luxury goods,AE
+4181,45+,Female,Expats,Graduated,46000,luxury goods,AE
+4182,18-24,Male,Expats,No Degree,160000,luxury goods,AE
+4183,25-44,Male,Expats,No Degree,430000,luxury goods,AE
+4184,45+,Male,Expats,No Degree,55000,luxury goods,AE
+4185,18-24,Female,Expats,No Degree,48000,luxury goods,AE
+4186,25-44,Female,Expats,No Degree,160000,luxury goods,AE
+4187,45+,Female,Expats,No Degree,32000,luxury goods,AE
+4188,18-24,Male,Expats,High School,54000,luxury goods,AE
+4189,25-44,Male,Expats,High School,170000,luxury goods,AE
+4190,45+,Male,Expats,High School,20000,luxury goods,AE
+4191,18-24,Female,Expats,High School,29000,luxury goods,AE
+4192,25-44,Female,Expats,High School,85000,luxury goods,AE
+4193,45+,Female,Expats,High School,13000,luxury goods,AE
+4194,18-24,Male,Locals,Graduated,30000,luxury goods,AE
+4195,25-44,Male,Locals,Graduated,71000,luxury goods,AE
+4196,45+,Male,Locals,Graduated,5500,luxury goods,AE
+4197,18-24,Female,Locals,Graduated,13000,luxury goods,AE
+4198,25-44,Female,Locals,Graduated,37000,luxury goods,AE
+4199,45+,Female,Locals,Graduated,4100,luxury goods,AE
+4200,18-24,Male,Locals,No Degree,58000,luxury goods,AE
+4201,25-44,Male,Locals,No Degree,96000,luxury goods,AE
+4202,45+,Male,Locals,No Degree,12000,luxury goods,AE
+4203,18-24,Female,Locals,No Degree,23000,luxury goods,AE
+4204,25-44,Female,Locals,No Degree,39000,luxury goods,AE
+4205,45+,Female,Locals,No Degree,7300,luxury goods,AE
+4206,18-24,Male,Locals,High School,11000,luxury goods,AE
+4207,25-44,Male,Locals,High School,17000,luxury goods,AE
+4208,45+,Male,Locals,High School,1700,luxury goods,AE
+4209,18-24,Female,Locals,High School,7400,luxury goods,AE
+4210,25-44,Female,Locals,High School,9100,luxury goods,AE
+4211,45+,Female,Locals,High School,1700,luxury goods,AE
+4212,18-24,Male,Expats,Graduated,1700,luxury goods,YE
+4213,25-44,Male,Expats,Graduated,3600,luxury goods,YE
+4214,45+,Male,Expats,Graduated,330,luxury goods,YE
+4215,18-24,Female,Expats,Graduated,510,luxury goods,YE
+4216,25-44,Female,Expats,Graduated,980,luxury goods,YE
+4217,45+,Female,Expats,Graduated,110,luxury goods,YE
+4218,18-24,Male,Expats,No Degree,510,luxury goods,YE
+4219,25-44,Male,Expats,No Degree,1300,luxury goods,YE
+4220,45+,Male,Expats,No Degree,240,luxury goods,YE
+4221,18-24,Female,Expats,No Degree,360,luxury goods,YE
+4222,25-44,Female,Expats,No Degree,630,luxury goods,YE
+4223,45+,Female,Expats,No Degree,120,luxury goods,YE
+4224,18-24,Male,Expats,High School,770,luxury goods,YE
+4225,25-44,Male,Expats,High School,860,luxury goods,YE
+4226,45+,Male,Expats,High School,110,luxury goods,YE
+4227,18-24,Female,Expats,High School,520,luxury goods,YE
+4228,25-44,Female,Expats,High School,390,luxury goods,YE
+4229,45+,Female,Expats,High School,20,luxury goods,YE
+4230,18-24,Male,Locals,Graduated,9600,luxury goods,YE
+4231,25-44,Male,Locals,Graduated,23000,luxury goods,YE
+4232,45+,Male,Locals,Graduated,2200,luxury goods,YE
+4233,18-24,Female,Locals,Graduated,4800,luxury goods,YE
+4234,25-44,Female,Locals,Graduated,9200,luxury goods,YE
+4235,45+,Female,Locals,Graduated,460,luxury goods,YE
+4236,18-24,Male,Locals,No Degree,6400,luxury goods,YE
+4237,25-44,Male,Locals,No Degree,12000,luxury goods,YE
+4238,45+,Male,Locals,No Degree,2500,luxury goods,YE
+4239,18-24,Female,Locals,No Degree,4100,luxury goods,YE
+4240,25-44,Female,Locals,No Degree,5200,luxury goods,YE
+4241,45+,Female,Locals,No Degree,730,luxury goods,YE
+4242,18-24,Male,Locals,High School,6600,luxury goods,YE
+4243,25-44,Male,Locals,High School,5500,luxury goods,YE
+4244,45+,Male,Locals,High School,630,luxury goods,YE
+4245,18-24,Female,Locals,High School,4700,luxury goods,YE
+4246,25-44,Female,Locals,High School,2600,luxury goods,YE
+4247,45+,Female,Locals,High School,150,luxury goods,YE
+4248,18-24,Male,Expats,Graduated,7000,luxury goods,PS
+4249,25-44,Male,Expats,Graduated,11000,luxury goods,PS
+4250,45+,Male,Expats,Graduated,1100,luxury goods,PS
+4251,18-24,Female,Expats,Graduated,6500,luxury goods,PS
+4252,25-44,Female,Expats,Graduated,11000,luxury goods,PS
+4253,45+,Female,Expats,Graduated,980,luxury goods,PS
+4254,18-24,Male,Expats,No Degree,2000,luxury goods,PS
+4255,25-44,Male,Expats,No Degree,2500,luxury goods,PS
+4256,45+,Male,Expats,No Degree,530,luxury goods,PS
+4257,18-24,Female,Expats,No Degree,1900,luxury goods,PS
+4258,25-44,Female,Expats,No Degree,3700,luxury goods,PS
+4259,45+,Female,Expats,No Degree,1200,luxury goods,PS
+4260,18-24,Male,Expats,High School,4300,luxury goods,PS
+4261,25-44,Male,Expats,High School,2200,luxury goods,PS
+4262,45+,Male,Expats,High School,380,luxury goods,PS
+4263,18-24,Female,Expats,High School,6100,luxury goods,PS
+4264,25-44,Female,Expats,High School,3000,luxury goods,PS
+4265,45+,Female,Expats,High School,540,luxury goods,PS
+4266,18-24,Male,Locals,Graduated,23000,luxury goods,PS
+4267,25-44,Male,Locals,Graduated,35000,luxury goods,PS
+4268,45+,Male,Locals,Graduated,3400,luxury goods,PS
+4269,18-24,Female,Locals,Graduated,27000,luxury goods,PS
+4270,25-44,Female,Locals,Graduated,41000,luxury goods,PS
+4271,45+,Female,Locals,Graduated,2800,luxury goods,PS
+4272,18-24,Male,Locals,No Degree,8900,luxury goods,PS
+4273,25-44,Male,Locals,No Degree,11000,luxury goods,PS
+4274,45+,Male,Locals,No Degree,2400,luxury goods,PS
+4275,18-24,Female,Locals,No Degree,12000,luxury goods,PS
+4276,25-44,Female,Locals,No Degree,17000,luxury goods,PS
+4277,45+,Female,Locals,No Degree,4000,luxury goods,PS
+4278,18-24,Male,Locals,High School,15000,luxury goods,PS
+4279,25-44,Male,Locals,High School,7700,luxury goods,PS
+4280,45+,Male,Locals,High School,1100,luxury goods,PS
+4281,18-24,Female,Locals,High School,23000,luxury goods,PS
+4282,25-44,Female,Locals,High School,9700,luxury goods,PS
+4283,45+,Female,Locals,High School,1400,luxury goods,PS
+4284,18-24,Male,Expats,Graduated,56000,cars vehicles,DZ
+4285,25-44,Male,Expats,Graduated,41000,cars vehicles,DZ
+4286,45+,Male,Expats,Graduated,3800,cars vehicles,DZ
+4287,18-24,Female,Expats,Graduated,8500,cars vehicles,DZ
+4288,25-44,Female,Expats,Graduated,4300,cars vehicles,DZ
+4289,45+,Female,Expats,Graduated,660,cars vehicles,DZ
+4290,18-24,Male,Expats,No Degree,21000,cars vehicles,DZ
+4291,25-44,Male,Expats,No Degree,19000,cars vehicles,DZ
+4292,45+,Male,Expats,No Degree,2000,cars vehicles,DZ
+4293,18-24,Female,Expats,No Degree,3400,cars vehicles,DZ
+4294,25-44,Female,Expats,No Degree,2800,cars vehicles,DZ
+4295,45+,Female,Expats,No Degree,560,cars vehicles,DZ
+4296,18-24,Male,Expats,High School,21000,cars vehicles,DZ
+4297,25-44,Male,Expats,High School,8900,cars vehicles,DZ
+4298,45+,Male,Expats,High School,1100,cars vehicles,DZ
+4299,18-24,Female,Expats,High School,3500,cars vehicles,DZ
+4300,25-44,Female,Expats,High School,1000,cars vehicles,DZ
+4301,45+,Female,Expats,High School,200,cars vehicles,DZ
+4302,18-24,Male,Locals,Graduated,230000,cars vehicles,DZ
+4303,25-44,Male,Locals,Graduated,260000,cars vehicles,DZ
+4304,45+,Male,Locals,Graduated,16000,cars vehicles,DZ
+4305,18-24,Female,Locals,Graduated,59000,cars vehicles,DZ
+4306,25-44,Female,Locals,Graduated,52000,cars vehicles,DZ
+4307,45+,Female,Locals,Graduated,3900,cars vehicles,DZ
+4308,18-24,Male,Locals,No Degree,210000,cars vehicles,DZ
+4309,25-44,Male,Locals,No Degree,240000,cars vehicles,DZ
+4310,45+,Male,Locals,No Degree,16000,cars vehicles,DZ
+4311,18-24,Female,Locals,No Degree,46000,cars vehicles,DZ
+4312,25-44,Female,Locals,No Degree,36000,cars vehicles,DZ
+4313,45+,Female,Locals,No Degree,4200,cars vehicles,DZ
+4314,18-24,Male,Locals,High School,110000,cars vehicles,DZ
+4315,25-44,Male,Locals,High School,70000,cars vehicles,DZ
+4316,45+,Male,Locals,High School,5100,cars vehicles,DZ
+4317,18-24,Female,Locals,High School,32000,cars vehicles,DZ
+4318,25-44,Female,Locals,High School,11000,cars vehicles,DZ
+4319,45+,Female,Locals,High School,1500,cars vehicles,DZ
+4320,18-24,Male,Expats,Graduated,8000,cars vehicles,BH
+4321,25-44,Male,Expats,Graduated,35000,cars vehicles,BH
+4322,45+,Male,Expats,Graduated,4400,cars vehicles,BH
+4323,18-24,Female,Expats,Graduated,1000,cars vehicles,BH
+4324,25-44,Female,Expats,Graduated,7200,cars vehicles,BH
+4325,45+,Female,Expats,Graduated,1600,cars vehicles,BH
+4326,18-24,Male,Expats,No Degree,5700,cars vehicles,BH
+4327,25-44,Male,Expats,No Degree,22000,cars vehicles,BH
+4328,45+,Male,Expats,No Degree,4000,cars vehicles,BH
+4329,18-24,Female,Expats,No Degree,820,cars vehicles,BH
+4330,25-44,Female,Expats,No Degree,3500,cars vehicles,BH
+4331,45+,Female,Expats,No Degree,1100,cars vehicles,BH
+4332,18-24,Male,Expats,High School,3200,cars vehicles,BH
+4333,25-44,Male,Expats,High School,9300,cars vehicles,BH
+4334,45+,Male,Expats,High School,1400,cars vehicles,BH
+4335,18-24,Female,Expats,High School,710,cars vehicles,BH
+4336,25-44,Female,Expats,High School,2100,cars vehicles,BH
+4337,45+,Female,Expats,High School,550,cars vehicles,BH
+4338,18-24,Male,Locals,Graduated,2300,cars vehicles,BH
+4339,25-44,Male,Locals,Graduated,6100,cars vehicles,BH
+4340,45+,Male,Locals,Graduated,680,cars vehicles,BH
+4341,18-24,Female,Locals,Graduated,660,cars vehicles,BH
+4342,25-44,Female,Locals,Graduated,1700,cars vehicles,BH
+4343,45+,Female,Locals,Graduated,280,cars vehicles,BH
+4344,18-24,Male,Locals,No Degree,2800,cars vehicles,BH
+4345,25-44,Male,Locals,No Degree,6300,cars vehicles,BH
+4346,45+,Male,Locals,No Degree,1400,cars vehicles,BH
+4347,18-24,Female,Locals,No Degree,540,cars vehicles,BH
+4348,25-44,Female,Locals,No Degree,1400,cars vehicles,BH
+4349,45+,Female,Locals,No Degree,260,cars vehicles,BH
+4350,18-24,Male,Locals,High School,1200,cars vehicles,BH
+4351,25-44,Male,Locals,High School,1900,cars vehicles,BH
+4352,45+,Male,Locals,High School,260,cars vehicles,BH
+4353,18-24,Female,Locals,High School,450,cars vehicles,BH
+4354,25-44,Female,Locals,High School,470,cars vehicles,BH
+4355,45+,Female,Locals,High School,70,cars vehicles,BH
+4356,18-24,Male,Expats,Graduated,24000,cars vehicles,EG
+4357,25-44,Male,Expats,Graduated,47000,cars vehicles,EG
+4358,45+,Male,Expats,Graduated,6500,cars vehicles,EG
+4359,18-24,Female,Expats,Graduated,5800,cars vehicles,EG
+4360,25-44,Female,Expats,Graduated,11000,cars vehicles,EG
+4361,45+,Female,Expats,Graduated,1700,cars vehicles,EG
+4362,18-24,Male,Expats,No Degree,6700,cars vehicles,EG
+4363,25-44,Male,Expats,No Degree,11000,cars vehicles,EG
+4364,45+,Male,Expats,No Degree,2800,cars vehicles,EG
+4365,18-24,Female,Expats,No Degree,1900,cars vehicles,EG
+4366,25-44,Female,Expats,No Degree,2700,cars vehicles,EG
+4367,45+,Female,Expats,No Degree,950,cars vehicles,EG
+4368,18-24,Male,Expats,High School,16000,cars vehicles,EG
+4369,25-44,Male,Expats,High School,10000,cars vehicles,EG
+4370,45+,Male,Expats,High School,1400,cars vehicles,EG
+4371,18-24,Female,Expats,High School,5200,cars vehicles,EG
+4372,25-44,Female,Expats,High School,2100,cars vehicles,EG
+4373,45+,Female,Expats,High School,260,cars vehicles,EG
+4374,18-24,Male,Locals,Graduated,480000,cars vehicles,EG
+4375,25-44,Male,Locals,Graduated,800000,cars vehicles,EG
+4376,45+,Male,Locals,Graduated,90000,cars vehicles,EG
+4377,18-24,Female,Locals,Graduated,160000,cars vehicles,EG
+4378,25-44,Female,Locals,Graduated,210000,cars vehicles,EG
+4379,45+,Female,Locals,Graduated,21000,cars vehicles,EG
+4380,18-24,Male,Locals,No Degree,170000,cars vehicles,EG
+4381,25-44,Male,Locals,No Degree,260000,cars vehicles,EG
+4382,45+,Male,Locals,No Degree,68000,cars vehicles,EG
+4383,18-24,Female,Locals,No Degree,61000,cars vehicles,EG
+4384,25-44,Female,Locals,No Degree,69000,cars vehicles,EG
+4385,45+,Female,Locals,No Degree,22000,cars vehicles,EG
+4386,18-24,Male,Locals,High School,310000,cars vehicles,EG
+4387,25-44,Male,Locals,High School,160000,cars vehicles,EG
+4388,45+,Male,Locals,High School,21000,cars vehicles,EG
+4389,18-24,Female,Locals,High School,120000,cars vehicles,EG
+4390,25-44,Female,Locals,High School,36000,cars vehicles,EG
+4391,45+,Female,Locals,High School,4700,cars vehicles,EG
+4392,18-24,Male,Expats,Graduated,14000,cars vehicles,IQ
+4393,25-44,Male,Expats,Graduated,27000,cars vehicles,IQ
+4394,45+,Male,Expats,Graduated,2600,cars vehicles,IQ
+4395,18-24,Female,Expats,Graduated,1100,cars vehicles,IQ
+4396,25-44,Female,Expats,Graduated,2200,cars vehicles,IQ
+4397,45+,Female,Expats,Graduated,260,cars vehicles,IQ
+4398,18-24,Male,Expats,No Degree,6400,cars vehicles,IQ
+4399,25-44,Male,Expats,No Degree,8200,cars vehicles,IQ
+4400,45+,Male,Expats,No Degree,1300,cars vehicles,IQ
+4401,18-24,Female,Expats,No Degree,770,cars vehicles,IQ
+4402,25-44,Female,Expats,No Degree,860,cars vehicles,IQ
+4403,45+,Female,Expats,No Degree,280,cars vehicles,IQ
+4404,18-24,Male,Expats,High School,8300,cars vehicles,IQ
+4405,25-44,Male,Expats,High School,7300,cars vehicles,IQ
+4406,45+,Male,Expats,High School,620,cars vehicles,IQ
+4407,18-24,Female,Expats,High School,1100,cars vehicles,IQ
+4408,25-44,Female,Expats,High School,540,cars vehicles,IQ
+4409,45+,Female,Expats,High School,90,cars vehicles,IQ
+4410,18-24,Male,Locals,Graduated,150000,cars vehicles,IQ
+4411,25-44,Male,Locals,Graduated,290000,cars vehicles,IQ
+4412,45+,Male,Locals,Graduated,25000,cars vehicles,IQ
+4413,18-24,Female,Locals,Graduated,14000,cars vehicles,IQ
+4414,25-44,Female,Locals,Graduated,28000,cars vehicles,IQ
+4415,45+,Female,Locals,Graduated,4200,cars vehicles,IQ
+4416,18-24,Male,Locals,No Degree,130000,cars vehicles,IQ
+4417,25-44,Male,Locals,No Degree,150000,cars vehicles,IQ
+4418,45+,Male,Locals,No Degree,25000,cars vehicles,IQ
+4419,18-24,Female,Locals,No Degree,12000,cars vehicles,IQ
+4420,25-44,Female,Locals,No Degree,17000,cars vehicles,IQ
+4421,45+,Female,Locals,No Degree,6400,cars vehicles,IQ
+4422,18-24,Male,Locals,High School,110000,cars vehicles,IQ
+4423,25-44,Male,Locals,High School,87000,cars vehicles,IQ
+4424,45+,Male,Locals,High School,7700,cars vehicles,IQ
+4425,18-24,Female,Locals,High School,14000,cars vehicles,IQ
+4426,25-44,Female,Locals,High School,8000,cars vehicles,IQ
+4427,45+,Female,Locals,High School,1500,cars vehicles,IQ
+4428,18-24,Male,Expats,Graduated,17000,cars vehicles,JO
+4429,25-44,Male,Expats,Graduated,33000,cars vehicles,JO
+4430,45+,Male,Expats,Graduated,4200,cars vehicles,JO
+4431,18-24,Female,Expats,Graduated,6200,cars vehicles,JO
+4432,25-44,Female,Expats,Graduated,12000,cars vehicles,JO
+4433,45+,Female,Expats,Graduated,2200,cars vehicles,JO
+4434,18-24,Male,Expats,No Degree,8400,cars vehicles,JO
+4435,25-44,Male,Expats,No Degree,12000,cars vehicles,JO
+4436,45+,Male,Expats,No Degree,2800,cars vehicles,JO
+4437,18-24,Female,Expats,No Degree,2000,cars vehicles,JO
+4438,25-44,Female,Expats,No Degree,4000,cars vehicles,JO
+4439,45+,Female,Expats,No Degree,1900,cars vehicles,JO
+4440,18-24,Male,Expats,High School,16000,cars vehicles,JO
+4441,25-44,Male,Expats,High School,9100,cars vehicles,JO
+4442,45+,Male,Expats,High School,1200,cars vehicles,JO
+4443,18-24,Female,Expats,High School,7800,cars vehicles,JO
+4444,25-44,Female,Expats,High School,3100,cars vehicles,JO
+4445,45+,Female,Expats,High School,620,cars vehicles,JO
+4446,18-24,Male,Locals,Graduated,70000,cars vehicles,JO
+4447,25-44,Male,Locals,Graduated,130000,cars vehicles,JO
+4448,45+,Male,Locals,Graduated,15000,cars vehicles,JO
+4449,18-24,Female,Locals,Graduated,21000,cars vehicles,JO
+4450,25-44,Female,Locals,Graduated,37000,cars vehicles,JO
+4451,45+,Female,Locals,Graduated,4400,cars vehicles,JO
+4452,18-24,Male,Locals,No Degree,46000,cars vehicles,JO
+4453,25-44,Male,Locals,No Degree,62000,cars vehicles,JO
+4454,45+,Male,Locals,No Degree,16000,cars vehicles,JO
+4455,18-24,Female,Locals,No Degree,11000,cars vehicles,JO
+4456,25-44,Female,Locals,No Degree,18000,cars vehicles,JO
+4457,45+,Female,Locals,No Degree,6800,cars vehicles,JO
+4458,18-24,Male,Locals,High School,61000,cars vehicles,JO
+4459,25-44,Male,Locals,High School,37000,cars vehicles,JO
+4460,45+,Male,Locals,High School,5600,cars vehicles,JO
+4461,18-24,Female,Locals,High School,23000,cars vehicles,JO
+4462,25-44,Female,Locals,High School,9900,cars vehicles,JO
+4463,45+,Female,Locals,High School,1600,cars vehicles,JO
+4464,18-24,Male,Expats,Graduated,8900,cars vehicles,KW
+4465,25-44,Male,Expats,Graduated,73000,cars vehicles,KW
+4466,45+,Male,Expats,Graduated,8100,cars vehicles,KW
+4467,18-24,Female,Expats,Graduated,1900,cars vehicles,KW
+4468,25-44,Female,Expats,Graduated,19000,cars vehicles,KW
+4469,45+,Female,Expats,Graduated,2500,cars vehicles,KW
+4470,18-24,Male,Expats,No Degree,8000,cars vehicles,KW
+4471,25-44,Male,Expats,No Degree,39000,cars vehicles,KW
+4472,45+,Male,Expats,No Degree,8500,cars vehicles,KW
+4473,18-24,Female,Expats,No Degree,2600,cars vehicles,KW
+4474,25-44,Female,Expats,No Degree,9100,cars vehicles,KW
+4475,45+,Female,Expats,No Degree,2000,cars vehicles,KW
+4476,18-24,Male,Expats,High School,4100,cars vehicles,KW
+4477,25-44,Male,Expats,High School,19000,cars vehicles,KW
+4478,45+,Male,Expats,High School,2100,cars vehicles,KW
+4479,18-24,Female,Expats,High School,1500,cars vehicles,KW
+4480,25-44,Female,Expats,High School,6400,cars vehicles,KW
+4481,45+,Female,Expats,High School,810,cars vehicles,KW
+4482,18-24,Male,Locals,Graduated,1700,cars vehicles,KW
+4483,25-44,Male,Locals,Graduated,9300,cars vehicles,KW
+4484,45+,Male,Locals,Graduated,1400,cars vehicles,KW
+4485,18-24,Female,Locals,Graduated,580,cars vehicles,KW
+4486,25-44,Female,Locals,Graduated,2600,cars vehicles,KW
+4487,45+,Female,Locals,Graduated,280,cars vehicles,KW
+4488,18-24,Male,Locals,No Degree,3700,cars vehicles,KW
+4489,25-44,Male,Locals,No Degree,9500,cars vehicles,KW
+4490,45+,Male,Locals,No Degree,2200,cars vehicles,KW
+4491,18-24,Female,Locals,No Degree,1400,cars vehicles,KW
+4492,25-44,Female,Locals,No Degree,3100,cars vehicles,KW
+4493,45+,Female,Locals,No Degree,550,cars vehicles,KW
+4494,18-24,Male,Locals,High School,990,cars vehicles,KW
+4495,25-44,Male,Locals,High School,2300,cars vehicles,KW
+4496,45+,Male,Locals,High School,330,cars vehicles,KW
+4497,18-24,Female,Locals,High School,430,cars vehicles,KW
+4498,25-44,Female,Locals,High School,710,cars vehicles,KW
+4499,45+,Female,Locals,High School,90,cars vehicles,KW
+4500,18-24,Male,Expats,Graduated,6700,cars vehicles,LB
+4501,25-44,Male,Expats,Graduated,15000,cars vehicles,LB
+4502,45+,Male,Expats,Graduated,1900,cars vehicles,LB
+4503,18-24,Female,Expats,Graduated,2100,cars vehicles,LB
+4504,25-44,Female,Expats,Graduated,8200,cars vehicles,LB
+4505,45+,Female,Expats,Graduated,1500,cars vehicles,LB
+4506,18-24,Male,Expats,No Degree,5800,cars vehicles,LB
+4507,25-44,Male,Expats,No Degree,9900,cars vehicles,LB
+4508,45+,Male,Expats,No Degree,2000,cars vehicles,LB
+4509,18-24,Female,Expats,No Degree,3100,cars vehicles,LB
+4510,25-44,Female,Expats,No Degree,6500,cars vehicles,LB
+4511,45+,Female,Expats,No Degree,1500,cars vehicles,LB
+4512,18-24,Male,Expats,High School,4600,cars vehicles,LB
+4513,25-44,Male,Expats,High School,4800,cars vehicles,LB
+4514,45+,Male,Expats,High School,690,cars vehicles,LB
+4515,18-24,Female,Expats,High School,2000,cars vehicles,LB
+4516,25-44,Female,Expats,High School,3100,cars vehicles,LB
+4517,45+,Female,Expats,High School,580,cars vehicles,LB
+4518,18-24,Male,Locals,Graduated,28000,cars vehicles,LB
+4519,25-44,Male,Locals,Graduated,53000,cars vehicles,LB
+4520,45+,Male,Locals,Graduated,11000,cars vehicles,LB
+4521,18-24,Female,Locals,Graduated,16000,cars vehicles,LB
+4522,25-44,Female,Locals,Graduated,40000,cars vehicles,LB
+4523,45+,Female,Locals,Graduated,6000,cars vehicles,LB
+4524,18-24,Male,Locals,No Degree,32000,cars vehicles,LB
+4525,25-44,Male,Locals,No Degree,43000,cars vehicles,LB
+4526,45+,Male,Locals,No Degree,17000,cars vehicles,LB
+4527,18-24,Female,Locals,No Degree,15000,cars vehicles,LB
+4528,25-44,Female,Locals,No Degree,32000,cars vehicles,LB
+4529,45+,Female,Locals,No Degree,12000,cars vehicles,LB
+4530,18-24,Male,Locals,High School,22000,cars vehicles,LB
+4531,25-44,Male,Locals,High School,16000,cars vehicles,LB
+4532,45+,Male,Locals,High School,3600,cars vehicles,LB
+4533,18-24,Female,Locals,High School,15000,cars vehicles,LB
+4534,25-44,Female,Locals,High School,11000,cars vehicles,LB
+4535,45+,Female,Locals,High School,2200,cars vehicles,LB
+4536,18-24,Male,Expats,Graduated,4400,cars vehicles,LY
+4537,25-44,Male,Expats,Graduated,11000,cars vehicles,LY
+4538,45+,Male,Expats,Graduated,1100,cars vehicles,LY
+4539,18-24,Female,Expats,Graduated,660,cars vehicles,LY
+4540,25-44,Female,Expats,Graduated,1400,cars vehicles,LY
+4541,45+,Female,Expats,Graduated,180,cars vehicles,LY
+4542,18-24,Male,Expats,No Degree,2900,cars vehicles,LY
+4543,25-44,Male,Expats,No Degree,6100,cars vehicles,LY
+4544,45+,Male,Expats,No Degree,840,cars vehicles,LY
+4545,18-24,Female,Expats,No Degree,230,cars vehicles,LY
+4546,25-44,Female,Expats,No Degree,660,cars vehicles,LY
+4547,45+,Female,Expats,No Degree,150,cars vehicles,LY
+4548,18-24,Male,Expats,High School,2300,cars vehicles,LY
+4549,25-44,Male,Expats,High School,2800,cars vehicles,LY
+4550,45+,Male,Expats,High School,290,cars vehicles,LY
+4551,18-24,Female,Expats,High School,680,cars vehicles,LY
+4552,25-44,Female,Expats,High School,250,cars vehicles,LY
+4553,45+,Female,Expats,High School,60,cars vehicles,LY
+4554,18-24,Male,Locals,Graduated,35000,cars vehicles,LY
+4555,25-44,Male,Locals,Graduated,65000,cars vehicles,LY
+4556,45+,Male,Locals,Graduated,6500,cars vehicles,LY
+4557,18-24,Female,Locals,Graduated,9800,cars vehicles,LY
+4558,25-44,Female,Locals,Graduated,16000,cars vehicles,LY
+4559,45+,Female,Locals,Graduated,1400,cars vehicles,LY
+4560,18-24,Male,Locals,No Degree,19000,cars vehicles,LY
+4561,25-44,Male,Locals,No Degree,35000,cars vehicles,LY
+4562,45+,Male,Locals,No Degree,5900,cars vehicles,LY
+4563,18-24,Female,Locals,No Degree,4700,cars vehicles,LY
+4564,25-44,Female,Locals,No Degree,6700,cars vehicles,LY
+4565,45+,Female,Locals,No Degree,1600,cars vehicles,LY
+4566,18-24,Male,Locals,High School,21000,cars vehicles,LY
+4567,25-44,Male,Locals,High School,15000,cars vehicles,LY
+4568,45+,Male,Locals,High School,1800,cars vehicles,LY
+4569,18-24,Female,Locals,High School,9300,cars vehicles,LY
+4570,25-44,Female,Locals,High School,3900,cars vehicles,LY
+4571,45+,Female,Locals,High School,430,cars vehicles,LY
+4572,18-24,Male,Expats,Graduated,45000,cars vehicles,MA
+4573,25-44,Male,Expats,Graduated,33000,cars vehicles,MA
+4574,45+,Male,Expats,Graduated,3300,cars vehicles,MA
+4575,18-24,Female,Expats,Graduated,6600,cars vehicles,MA
+4576,25-44,Female,Expats,Graduated,4700,cars vehicles,MA
+4577,45+,Female,Expats,Graduated,590,cars vehicles,MA
+4578,18-24,Male,Expats,No Degree,13000,cars vehicles,MA
+4579,25-44,Male,Expats,No Degree,13000,cars vehicles,MA
+4580,45+,Male,Expats,No Degree,2000,cars vehicles,MA
+4581,18-24,Female,Expats,No Degree,2600,cars vehicles,MA
+4582,25-44,Female,Expats,No Degree,2600,cars vehicles,MA
+4583,45+,Female,Expats,No Degree,530,cars vehicles,MA
+4584,18-24,Male,Expats,High School,16000,cars vehicles,MA
+4585,25-44,Male,Expats,High School,8400,cars vehicles,MA
+4586,45+,Male,Expats,High School,990,cars vehicles,MA
+4587,18-24,Female,Expats,High School,2800,cars vehicles,MA
+4588,25-44,Female,Expats,High School,1200,cars vehicles,MA
+4589,45+,Female,Expats,High School,230,cars vehicles,MA
+4590,18-24,Male,Locals,Graduated,280000,cars vehicles,MA
+4591,25-44,Male,Locals,Graduated,270000,cars vehicles,MA
+4592,45+,Male,Locals,Graduated,23000,cars vehicles,MA
+4593,18-24,Female,Locals,Graduated,75000,cars vehicles,MA
+4594,25-44,Female,Locals,Graduated,56000,cars vehicles,MA
+4595,45+,Female,Locals,Graduated,5300,cars vehicles,MA
+4596,18-24,Male,Locals,No Degree,180000,cars vehicles,MA
+4597,25-44,Male,Locals,No Degree,210000,cars vehicles,MA
+4598,45+,Male,Locals,No Degree,24000,cars vehicles,MA
+4599,18-24,Female,Locals,No Degree,48000,cars vehicles,MA
+4600,25-44,Female,Locals,No Degree,38000,cars vehicles,MA
+4601,45+,Female,Locals,No Degree,5500,cars vehicles,MA
+4602,18-24,Male,Locals,High School,120000,cars vehicles,MA
+4603,25-44,Male,Locals,High School,73000,cars vehicles,MA
+4604,45+,Male,Locals,High School,7200,cars vehicles,MA
+4605,18-24,Female,Locals,High School,38000,cars vehicles,MA
+4606,25-44,Female,Locals,High School,15000,cars vehicles,MA
+4607,45+,Female,Locals,High School,2000,cars vehicles,MA
+4608,18-24,Male,Expats,Graduated,9700,cars vehicles,OM
+4609,25-44,Male,Expats,Graduated,45000,cars vehicles,OM
+4610,45+,Male,Expats,Graduated,4500,cars vehicles,OM
+4611,18-24,Female,Expats,Graduated,810,cars vehicles,OM
+4612,25-44,Female,Expats,Graduated,6700,cars vehicles,OM
+4613,45+,Female,Expats,Graduated,1200,cars vehicles,OM
+4614,18-24,Male,Expats,No Degree,8700,cars vehicles,OM
+4615,25-44,Male,Expats,No Degree,26000,cars vehicles,OM
+4616,45+,Male,Expats,No Degree,3400,cars vehicles,OM
+4617,18-24,Female,Expats,No Degree,1100,cars vehicles,OM
+4618,25-44,Female,Expats,No Degree,3200,cars vehicles,OM
+4619,45+,Female,Expats,No Degree,680,cars vehicles,OM
+4620,18-24,Male,Expats,High School,4000,cars vehicles,OM
+4621,25-44,Male,Expats,High School,9600,cars vehicles,OM
+4622,45+,Male,Expats,High School,1200,cars vehicles,OM
+4623,18-24,Female,Expats,High School,800,cars vehicles,OM
+4624,25-44,Female,Expats,High School,1700,cars vehicles,OM
+4625,45+,Female,Expats,High School,270,cars vehicles,OM
+4626,18-24,Male,Locals,Graduated,4600,cars vehicles,OM
+4627,25-44,Male,Locals,Graduated,12000,cars vehicles,OM
+4628,45+,Male,Locals,Graduated,850,cars vehicles,OM
+4629,18-24,Female,Locals,Graduated,500,cars vehicles,OM
+4630,25-44,Female,Locals,Graduated,1400,cars vehicles,OM
+4631,45+,Female,Locals,Graduated,110,cars vehicles,OM
+4632,18-24,Male,Locals,No Degree,4300,cars vehicles,OM
+4633,25-44,Male,Locals,No Degree,8600,cars vehicles,OM
+4634,45+,Male,Locals,No Degree,1200,cars vehicles,OM
+4635,18-24,Female,Locals,No Degree,630,cars vehicles,OM
+4636,25-44,Female,Locals,No Degree,1000,cars vehicles,OM
+4637,45+,Female,Locals,No Degree,230,cars vehicles,OM
+4638,18-24,Male,Locals,High School,2400,cars vehicles,OM
+4639,25-44,Male,Locals,High School,3300,cars vehicles,OM
+4640,45+,Male,Locals,High School,280,cars vehicles,OM
+4641,18-24,Female,Locals,High School,310,cars vehicles,OM
+4642,25-44,Female,Locals,High School,360,cars vehicles,OM
+4643,45+,Female,Locals,High School,30,cars vehicles,OM
+4644,18-24,Male,Expats,Graduated,29000,cars vehicles,QA
+4645,25-44,Male,Expats,Graduated,130000,cars vehicles,QA
+4646,45+,Male,Expats,Graduated,13000,cars vehicles,QA
+4647,18-24,Female,Expats,Graduated,3600,cars vehicles,QA
+4648,25-44,Female,Expats,Graduated,23000,cars vehicles,QA
+4649,45+,Female,Expats,Graduated,3200,cars vehicles,QA
+4650,18-24,Male,Expats,No Degree,19000,cars vehicles,QA
+4651,25-44,Male,Expats,No Degree,60000,cars vehicles,QA
+4652,45+,Male,Expats,No Degree,9700,cars vehicles,QA
+4653,18-24,Female,Expats,No Degree,2100,cars vehicles,QA
+4654,25-44,Female,Expats,No Degree,8500,cars vehicles,QA
+4655,45+,Female,Expats,No Degree,2000,cars vehicles,QA
+4656,18-24,Male,Expats,High School,9800,cars vehicles,QA
+4657,25-44,Male,Expats,High School,29000,cars vehicles,QA
+4658,45+,Male,Expats,High School,3300,cars vehicles,QA
+4659,18-24,Female,Expats,High School,1600,cars vehicles,QA
+4660,25-44,Female,Expats,High School,5800,cars vehicles,QA
+4661,45+,Female,Expats,High School,820,cars vehicles,QA
+4662,18-24,Male,Locals,Graduated,5800,cars vehicles,QA
+4663,25-44,Male,Locals,Graduated,15000,cars vehicles,QA
+4664,45+,Male,Locals,Graduated,1400,cars vehicles,QA
+4665,18-24,Female,Locals,Graduated,890,cars vehicles,QA
+4666,25-44,Female,Locals,Graduated,3400,cars vehicles,QA
+4667,45+,Female,Locals,Graduated,270,cars vehicles,QA
+4668,18-24,Male,Locals,No Degree,4400,cars vehicles,QA
+4669,25-44,Male,Locals,No Degree,13000,cars vehicles,QA
+4670,45+,Male,Locals,No Degree,2700,cars vehicles,QA
+4671,18-24,Female,Locals,No Degree,750,cars vehicles,QA
+4672,25-44,Female,Locals,No Degree,2300,cars vehicles,QA
+4673,45+,Female,Locals,No Degree,580,cars vehicles,QA
+4674,18-24,Male,Locals,High School,1900,cars vehicles,QA
+4675,25-44,Male,Locals,High School,3600,cars vehicles,QA
+4676,45+,Male,Locals,High School,400,cars vehicles,QA
+4677,18-24,Female,Locals,High School,510,cars vehicles,QA
+4678,25-44,Female,Locals,High School,850,cars vehicles,QA
+4679,45+,Female,Locals,High School,80,cars vehicles,QA
+4680,18-24,Male,Expats,Graduated,62000,cars vehicles,SA
+4681,25-44,Male,Expats,Graduated,370000,cars vehicles,SA
+4682,45+,Male,Expats,Graduated,36000,cars vehicles,SA
+4683,18-24,Female,Expats,Graduated,5600,cars vehicles,SA
+4684,25-44,Female,Expats,Graduated,38000,cars vehicles,SA
+4685,45+,Female,Expats,Graduated,8600,cars vehicles,SA
+4686,18-24,Male,Expats,No Degree,14000,cars vehicles,SA
+4687,25-44,Male,Expats,No Degree,53000,cars vehicles,SA
+4688,45+,Male,Expats,No Degree,8000,cars vehicles,SA
+4689,18-24,Female,Expats,No Degree,2200,cars vehicles,SA
+4690,25-44,Female,Expats,No Degree,7600,cars vehicles,SA
+4691,45+,Female,Expats,No Degree,2400,cars vehicles,SA
+4692,18-24,Male,Expats,High School,23000,cars vehicles,SA
+4693,25-44,Male,Expats,High School,76000,cars vehicles,SA
+4694,45+,Male,Expats,High School,8200,cars vehicles,SA
+4695,18-24,Female,Expats,High School,4000,cars vehicles,SA
+4696,25-44,Female,Expats,High School,9800,cars vehicles,SA
+4697,45+,Female,Expats,High School,2100,cars vehicles,SA
+4698,18-24,Male,Locals,Graduated,41000,cars vehicles,SA
+4699,25-44,Male,Locals,Graduated,170000,cars vehicles,SA
+4700,45+,Male,Locals,Graduated,18000,cars vehicles,SA
+4701,18-24,Female,Locals,Graduated,4700,cars vehicles,SA
+4702,25-44,Female,Locals,Graduated,19000,cars vehicles,SA
+4703,45+,Female,Locals,Graduated,3500,cars vehicles,SA
+4704,18-24,Male,Locals,No Degree,78000,cars vehicles,SA
+4705,25-44,Male,Locals,No Degree,230000,cars vehicles,SA
+4706,45+,Male,Locals,No Degree,37000,cars vehicles,SA
+4707,18-24,Female,Locals,No Degree,6600,cars vehicles,SA
+4708,25-44,Female,Locals,No Degree,15000,cars vehicles,SA
+4709,45+,Female,Locals,No Degree,5100,cars vehicles,SA
+4710,18-24,Male,Locals,High School,21000,cars vehicles,SA
+4711,25-44,Male,Locals,High School,53000,cars vehicles,SA
+4712,45+,Male,Locals,High School,6100,cars vehicles,SA
+4713,18-24,Female,Locals,High School,3700,cars vehicles,SA
+4714,25-44,Female,Locals,High School,5500,cars vehicles,SA
+4715,45+,Female,Locals,High School,1100,cars vehicles,SA
+4716,18-24,Male,Expats,Graduated,1300,cars vehicles,SO
+4717,25-44,Male,Expats,Graduated,1100,cars vehicles,SO
+4718,45+,Male,Expats,Graduated,90,cars vehicles,SO
+4719,18-24,Female,Expats,Graduated,270,cars vehicles,SO
+4720,25-44,Female,Expats,Graduated,100,cars vehicles,SO
+4721,45+,Female,Expats,Graduated,20,cars vehicles,SO
+4722,18-24,Male,Expats,No Degree,310,cars vehicles,SO
+4723,25-44,Male,Expats,No Degree,330,cars vehicles,SO
+4724,45+,Male,Expats,No Degree,50,cars vehicles,SO
+4725,18-24,Female,Expats,No Degree,90,cars vehicles,SO
+4726,25-44,Female,Expats,No Degree,80,cars vehicles,SO
+4727,45+,Female,Expats,No Degree,20,cars vehicles,SO
+4728,18-24,Male,Expats,High School,490,cars vehicles,SO
+4729,25-44,Male,Expats,High School,220,cars vehicles,SO
+4730,45+,Male,Expats,High School,40,cars vehicles,SO
+4731,18-24,Female,Expats,High School,30,cars vehicles,SO
+4732,25-44,Female,Expats,High School,30,cars vehicles,SO
+4733,45+,Female,Expats,High School,20,cars vehicles,SO
+4734,18-24,Male,Locals,Graduated,3100,cars vehicles,SO
+4735,25-44,Male,Locals,Graduated,2200,cars vehicles,SO
+4736,45+,Male,Locals,Graduated,100,cars vehicles,SO
+4737,18-24,Female,Locals,Graduated,690,cars vehicles,SO
+4738,25-44,Female,Locals,Graduated,390,cars vehicles,SO
+4739,45+,Female,Locals,Graduated,20,cars vehicles,SO
+4740,18-24,Male,Locals,No Degree,2400,cars vehicles,SO
+4741,25-44,Male,Locals,No Degree,1200,cars vehicles,SO
+4742,45+,Male,Locals,No Degree,200,cars vehicles,SO
+4743,18-24,Female,Locals,No Degree,2000,cars vehicles,SO
+4744,25-44,Female,Locals,No Degree,940,cars vehicles,SO
+4745,45+,Female,Locals,No Degree,70,cars vehicles,SO
+4746,18-24,Male,Locals,High School,1400,cars vehicles,SO
+4747,25-44,Male,Locals,High School,450,cars vehicles,SO
+4748,45+,Male,Locals,High School,30,cars vehicles,SO
+4749,18-24,Female,Locals,High School,360,cars vehicles,SO
+4750,25-44,Female,Locals,High School,140,cars vehicles,SO
+4751,45+,Female,Locals,High School,40,cars vehicles,SO
+4752,18-24,Male,Expats,Graduated,18000,cars vehicles,TN
+4753,25-44,Male,Expats,Graduated,18000,cars vehicles,TN
+4754,45+,Male,Expats,Graduated,3200,cars vehicles,TN
+4755,18-24,Female,Expats,Graduated,4800,cars vehicles,TN
+4756,25-44,Female,Expats,Graduated,4600,cars vehicles,TN
+4757,45+,Female,Expats,Graduated,960,cars vehicles,TN
+4758,18-24,Male,Expats,No Degree,6400,cars vehicles,TN
+4759,25-44,Male,Expats,No Degree,7300,cars vehicles,TN
+4760,45+,Male,Expats,No Degree,1600,cars vehicles,TN
+4761,18-24,Female,Expats,No Degree,1800,cars vehicles,TN
+4762,25-44,Female,Expats,No Degree,2000,cars vehicles,TN
+4763,45+,Female,Expats,No Degree,630,cars vehicles,TN
+4764,18-24,Male,Expats,High School,7800,cars vehicles,TN
+4765,25-44,Male,Expats,High School,4500,cars vehicles,TN
+4766,45+,Male,Expats,High School,960,cars vehicles,TN
+4767,18-24,Female,Expats,High School,2200,cars vehicles,TN
+4768,25-44,Female,Expats,High School,1200,cars vehicles,TN
+4769,45+,Female,Expats,High School,270,cars vehicles,TN
+4770,18-24,Male,Locals,Graduated,100000,cars vehicles,TN
+4771,25-44,Male,Locals,Graduated,180000,cars vehicles,TN
+4772,45+,Male,Locals,Graduated,28000,cars vehicles,TN
+4773,18-24,Female,Locals,Graduated,58000,cars vehicles,TN
+4774,25-44,Female,Locals,Graduated,82000,cars vehicles,TN
+4775,45+,Female,Locals,Graduated,9700,cars vehicles,TN
+4776,18-24,Male,Locals,No Degree,64000,cars vehicles,TN
+4777,25-44,Male,Locals,No Degree,100000,cars vehicles,TN
+4778,45+,Male,Locals,No Degree,21000,cars vehicles,TN
+4779,18-24,Female,Locals,No Degree,32000,cars vehicles,TN
+4780,25-44,Female,Locals,No Degree,38000,cars vehicles,TN
+4781,45+,Female,Locals,No Degree,8600,cars vehicles,TN
+4782,18-24,Male,Locals,High School,51000,cars vehicles,TN
+4783,25-44,Male,Locals,High School,49000,cars vehicles,TN
+4784,45+,Male,Locals,High School,11000,cars vehicles,TN
+4785,18-24,Female,Locals,High School,31000,cars vehicles,TN
+4786,25-44,Female,Locals,High School,19000,cars vehicles,TN
+4787,45+,Female,Locals,High School,4700,cars vehicles,TN
+4788,18-24,Male,Expats,Graduated,98000,cars vehicles,AE
+4789,25-44,Male,Expats,Graduated,430000,cars vehicles,AE
+4790,45+,Male,Expats,Graduated,40000,cars vehicles,AE
+4791,18-24,Female,Expats,Graduated,11000,cars vehicles,AE
+4792,25-44,Female,Expats,Graduated,72000,cars vehicles,AE
+4793,45+,Female,Expats,Graduated,11000,cars vehicles,AE
+4794,18-24,Male,Expats,No Degree,59000,cars vehicles,AE
+4795,25-44,Male,Expats,No Degree,160000,cars vehicles,AE
+4796,45+,Male,Expats,No Degree,28000,cars vehicles,AE
+4797,18-24,Female,Expats,No Degree,5800,cars vehicles,AE
+4798,25-44,Female,Expats,No Degree,23000,cars vehicles,AE
+4799,45+,Female,Expats,No Degree,6300,cars vehicles,AE
+4800,18-24,Male,Expats,High School,35000,cars vehicles,AE
+4801,25-44,Male,Expats,High School,92000,cars vehicles,AE
+4802,45+,Male,Expats,High School,11000,cars vehicles,AE
+4803,18-24,Female,Expats,High School,6600,cars vehicles,AE
+4804,25-44,Female,Expats,High School,15000,cars vehicles,AE
+4805,45+,Female,Expats,High School,3100,cars vehicles,AE
+4806,18-24,Male,Locals,Graduated,21000,cars vehicles,AE
+4807,25-44,Male,Locals,Graduated,42000,cars vehicles,AE
+4808,45+,Male,Locals,Graduated,3800,cars vehicles,AE
+4809,18-24,Female,Locals,Graduated,2700,cars vehicles,AE
+4810,25-44,Female,Locals,Graduated,7200,cars vehicles,AE
+4811,45+,Female,Locals,Graduated,1100,cars vehicles,AE
+4812,18-24,Male,Locals,No Degree,24000,cars vehicles,AE
+4813,25-44,Male,Locals,No Degree,37000,cars vehicles,AE
+4814,45+,Male,Locals,No Degree,6700,cars vehicles,AE
+4815,18-24,Female,Locals,No Degree,2600,cars vehicles,AE
+4816,25-44,Female,Locals,No Degree,5000,cars vehicles,AE
+4817,45+,Female,Locals,No Degree,1200,cars vehicles,AE
+4818,18-24,Male,Locals,High School,7800,cars vehicles,AE
+4819,25-44,Male,Locals,High School,9500,cars vehicles,AE
+4820,45+,Male,Locals,High School,1100,cars vehicles,AE
+4821,18-24,Female,Locals,High School,1500,cars vehicles,AE
+4822,25-44,Female,Locals,High School,1700,cars vehicles,AE
+4823,45+,Female,Locals,High School,410,cars vehicles,AE
+4824,18-24,Male,Expats,Graduated,2200,cars vehicles,YE
+4825,25-44,Male,Expats,Graduated,4200,cars vehicles,YE
+4826,45+,Male,Expats,Graduated,320,cars vehicles,YE
+4827,18-24,Female,Expats,Graduated,200,cars vehicles,YE
+4828,25-44,Female,Expats,Graduated,370,cars vehicles,YE
+4829,45+,Female,Expats,Graduated,50,cars vehicles,YE
+4830,18-24,Male,Expats,No Degree,640,cars vehicles,YE
+4831,25-44,Male,Expats,No Degree,950,cars vehicles,YE
+4832,45+,Male,Expats,No Degree,90,cars vehicles,YE
+4833,18-24,Female,Expats,No Degree,220,cars vehicles,YE
+4834,25-44,Female,Expats,No Degree,250,cars vehicles,YE
+4835,45+,Female,Expats,No Degree,50,cars vehicles,YE
+4836,18-24,Male,Expats,High School,1000,cars vehicles,YE
+4837,25-44,Male,Expats,High School,870,cars vehicles,YE
+4838,45+,Male,Expats,High School,70,cars vehicles,YE
+4839,18-24,Female,Expats,High School,220,cars vehicles,YE
+4840,25-44,Female,Expats,High School,140,cars vehicles,YE
+4841,45+,Female,Expats,High School,20,cars vehicles,YE
+4842,18-24,Male,Locals,Graduated,16000,cars vehicles,YE
+4843,25-44,Male,Locals,Graduated,30000,cars vehicles,YE
+4844,45+,Male,Locals,Graduated,2500,cars vehicles,YE
+4845,18-24,Female,Locals,Graduated,1900,cars vehicles,YE
+4846,25-44,Female,Locals,Graduated,3600,cars vehicles,YE
+4847,45+,Female,Locals,Graduated,160,cars vehicles,YE
+4848,18-24,Male,Locals,No Degree,11000,cars vehicles,YE
+4849,25-44,Male,Locals,No Degree,13000,cars vehicles,YE
+4850,45+,Male,Locals,No Degree,2100,cars vehicles,YE
+4851,18-24,Female,Locals,No Degree,1600,cars vehicles,YE
+4852,25-44,Female,Locals,No Degree,1300,cars vehicles,YE
+4853,45+,Female,Locals,No Degree,270,cars vehicles,YE
+4854,18-24,Male,Locals,High School,11000,cars vehicles,YE
+4855,25-44,Male,Locals,High School,8300,cars vehicles,YE
+4856,45+,Male,Locals,High School,670,cars vehicles,YE
+4857,18-24,Female,Locals,High School,2200,cars vehicles,YE
+4858,25-44,Female,Locals,High School,1000,cars vehicles,YE
+4859,45+,Female,Locals,High School,70,cars vehicles,YE
+4860,18-24,Male,Expats,Graduated,6300,cars vehicles,PS
+4861,25-44,Male,Expats,Graduated,8400,cars vehicles,PS
+4862,45+,Male,Expats,Graduated,830,cars vehicles,PS
+4863,18-24,Female,Expats,Graduated,1500,cars vehicles,PS
+4864,25-44,Female,Expats,Graduated,2200,cars vehicles,PS
+4865,45+,Female,Expats,Graduated,180,cars vehicles,PS
+4866,18-24,Male,Expats,No Degree,1500,cars vehicles,PS
+4867,25-44,Male,Expats,No Degree,1700,cars vehicles,PS
+4868,45+,Male,Expats,No Degree,280,cars vehicles,PS
+4869,18-24,Female,Expats,No Degree,460,cars vehicles,PS
+4870,25-44,Female,Expats,No Degree,540,cars vehicles,PS
+4871,45+,Female,Expats,No Degree,190,cars vehicles,PS
+4872,18-24,Male,Expats,High School,3400,cars vehicles,PS
+4873,25-44,Male,Expats,High School,1800,cars vehicles,PS
+4874,45+,Male,Expats,High School,190,cars vehicles,PS
+4875,18-24,Female,Expats,High School,1300,cars vehicles,PS
+4876,25-44,Female,Expats,High School,570,cars vehicles,PS
+4877,45+,Female,Expats,High School,80,cars vehicles,PS
+4878,18-24,Male,Locals,Graduated,18000,cars vehicles,PS
+4879,25-44,Male,Locals,Graduated,24000,cars vehicles,PS
+4880,45+,Male,Locals,Graduated,2200,cars vehicles,PS
+4881,18-24,Female,Locals,Graduated,4100,cars vehicles,PS
+4882,25-44,Female,Locals,Graduated,6000,cars vehicles,PS
+4883,45+,Female,Locals,Graduated,450,cars vehicles,PS
+4884,18-24,Male,Locals,No Degree,7000,cars vehicles,PS
+4885,25-44,Male,Locals,No Degree,7100,cars vehicles,PS
+4886,45+,Male,Locals,No Degree,1400,cars vehicles,PS
+4887,18-24,Female,Locals,No Degree,1500,cars vehicles,PS
+4888,25-44,Female,Locals,No Degree,1900,cars vehicles,PS
+4889,45+,Female,Locals,No Degree,470,cars vehicles,PS
+4890,18-24,Male,Locals,High School,12000,cars vehicles,PS
+4891,25-44,Male,Locals,High School,5700,cars vehicles,PS
+4892,45+,Male,Locals,High School,800,cars vehicles,PS
+4893,18-24,Female,Locals,High School,4300,cars vehicles,PS
+4894,25-44,Female,Locals,High School,1700,cars vehicles,PS
+4895,45+,Female,Locals,High School,170,cars vehicles,PS
