@@ -313,3 +313,13 @@ mapValuesTileTitle = {
     "Expats" : "Expats",
     "Locals" : "Locals",
 };
+
+listOfValues = {
+    "health" : healthTopics,
+        "luxury" : luxuryTopics,
+        "gender" : ["Male", "Female"],
+        "scholarity" : ["Graduated","No Degree","High School"],
+        "age_range" : ["18-24", "25-44", "45+" ],
+        "citizenship" : ["Expats", "Locals"],
+        "country" : countryCodeMap,
+};

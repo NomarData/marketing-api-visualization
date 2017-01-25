@@ -101,6 +101,10 @@ a{
     color: darkgreen;
     font-weight: bold;
 }
+.score{
+    color: darkblue;
+    font-weight: bold;
+}
 .bad{
     color: darkred;
     font-weight: bold;

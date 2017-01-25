@@ -17,15 +17,7 @@ function HealthAndLuxuryNullException(){
 function SharebleLink(){
     var currentInstance = this;
     this.reversingState = false;
-    this.listsOfValues = {
-        "health" : healthTopics,
-        "luxury" : luxuryTopics,
-        "gender" : ["Male", "Female"],
-        "scholarity" : ["GRAD","ND","HS"],
-        "age_range" : ["18-24", "25-44", "45+" ],
-        "citizenship" : ["Expats", "Locals"],
-        "country" : countryCodeMap,
-    };
+    this.listsOfValues = listOfValues;
     this.hasParamsGivenUrl = function(url){
         var urlList = url.split("?");
         if(urlList.length > 1){
@@ -57,8 +49,6 @@ function SharebleLink(){
             }
         });
     };
-
-
 
     this.init = function () {
         var url = window.location.href;
