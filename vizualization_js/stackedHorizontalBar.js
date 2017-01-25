@@ -55,26 +55,9 @@ function stackedHorizontalBar(){
         }
     }
 
-    this.updateData = function(){
-        var data = dataManager.getAverageSelectedInclination();
-        var svg = currentInstance.svg;
-        var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
+    this.updateGreenBar = function(data){
         var greenBar = currentInstance.svg.selectAll(".greenBar").transition().duration(750);
-        currentInstance.totalGreenBar.transition().duration(750);
-
-        currentInstance.updateDomain(dataManager.selectedFbDemographicSum);
-        $(".x.axis").remove();
-        currentInstance.svg.append("g")
-            .attr("class", "x axis horizontalBarAxis")
-            .call(currentInstance.xAxis());
-
-        currentInstance.greenData[0].audience = data.greenAudience;
-        currentInstance.redData[0].audience = data.redAudience;
-        currentInstance.greenData[0].score = data.greenInclination;
-        currentInstance.redData[0].score = -data.redInclination;
-
-        svg.selectAll(".greenBar").data(currentInstance.greenData);
-
+        currentInstance.svg.selectAll(".greenBar").data(currentInstance.greenData);
         greenBar.attr("x", function (d) { return  currentInstance.x(Math.min(0, -data.greenAudience ));});
         greenBar.attr("width", function (d) {return Math.abs(currentInstance.x(-data.greenAudience) - currentInstance.x(0))});
         currentInstance.totalGreenBar.transition().duration(750)
@@ -82,32 +65,54 @@ function stackedHorizontalBar(){
             .attr("x", function (d) { return  currentInstance.x(Math.min(0, -data.total ));});
 
         greenBar.attr("style", function(d){return "fill: #1a9850"});
+    }
 
-        // redBar.attr("x", function (d) { return currentInstance.x(Math.min(0, -currentInstance.data.redValue ));});
+    this.updateRedBar = function(data){
+        var redBar = currentInstance.svg.selectAll(".redBar").transition().duration(750);
         redBar.attr("width", function (d) { return Math.abs(currentInstance.x(data.redAudience ) - currentInstance.x(0)); });
         currentInstance.totalRedBar.transition().duration(750).attr("width", function (d) { return Math.abs(currentInstance.x(data.total) - currentInstance.x(0)); });
         redBar.attr("style", function(d){ return "fill: #d73027"});
-        svg.selectAll(".redBar").data(currentInstance.redData);
+        currentInstance.svg.selectAll(".redBar").data(currentInstance.redData);
+    }
 
+    this.updateScale = function () {
+        currentInstance.updateDomain(dataManager.selectedFbDemographicSum);
+        $(".x.axis").remove();
+        currentInstance.svg.append("g").attr("class", "x axis horizontalBarAxis").call(currentInstance.xAxis());
+    }
+
+    this.updateData = function(){
+        var data = dataManager.getAverageSelectedInclination();
+        currentInstance.greenData[0].audience = data.greenAudience;
+        currentInstance.redData[0].audience = data.redAudience;
+        currentInstance.greenData[0].score = data.greenInclination;
+        currentInstance.redData[0].score = -data.redInclination;
+
+        currentInstance.updateScale();
+        currentInstance.updateGreenBar(data);
+        currentInstance.updateRedBar(data);
         currentInstance.updateBlueMarkOnStackedBar(data);
     };
 
-    this.updateBlueMarkOnStackedBar = function(scoreData){
+    this.updateBlueMarkOnStackedBar = function(data){
         var x = this.x;
         var newBlueMarkPosition;
         var newBlueMarkWidth;
-        if(scoreData.average > 0){
-            newBlueMarkPosition =  x(-(scoreData.average * scoreData.total));
+        var blueFrame =currentInstance.scoreBlueMarkerOnStackedBar;
+        if(data.average > 0){
+            blueFrame.data(currentInstance.greenData);
+            newBlueMarkPosition =  x(-(data.average * data.total));
             newBlueMarkWidth =  Math.abs(newBlueMarkPosition - currentInstance.x(0));
             console.log("Width:" + newBlueMarkWidth)
             currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750)
                 .attr("width", newBlueMarkWidth)
                 .attr("transform","translate(" + newBlueMarkPosition + ", 0)");
         }
-        if(scoreData.average < 0){
+        if(data.average < 0){
+            blueFrame.data(currentInstance.redData);
             newBlueMarkPosition = x(0);
-            newBlueMarkWidth =  x(Math.abs(scoreData.average) * scoreData.total) - x(0);
-            currentInstance.scoreBlueMarkerOnStackedBar.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)").attr("width", newBlueMarkWidth);
+            newBlueMarkWidth =  x(Math.abs(data.average) * data.total) - x(0);
+            blueFrame.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)").attr("width", newBlueMarkWidth);
         }
 
     };
@@ -178,18 +183,17 @@ function stackedHorizontalBar(){
 
     this.buildTreemapLegends = function(colorFunction){
         var margin = 30;
-        var w = $("#treemapLegend").width() - margin, h = 20;
-        var legendWidth = w;
-        var translateXPositionAxis = 0;
-        var translateXPositionRect = translateXPositionAxis ;
-        var axisPadding = 10;
+        var divWidth = $("#treemapLegend").width();
+        var w = divWidth - margin, h = 20;
+        var translateXPositionAxis = 20;
+        var paddingAxis = 15;
         var scoreBlueMarkerWidth = 5;
         // debugger
         var legendSvg = d3.select("#treemapLegend").append("svg")
-            .attr("width",w)
+            .attr("width", divWidth)
             .attr("height", h)
-            .append("g")
-            .attr("transform", "translate(" + margin + "," + 0 + ")");
+            .append("g");
+
 
         var legend = legendSvg.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
 
@@ -207,18 +211,14 @@ function stackedHorizontalBar(){
             let breakpoint = data[index][0];
             let percentage = data[index][1];
             legend.append("stop").attr("offset", +percentage + "%").attr("stop-color", colorFunction(breakpoint)).attr("stop-opacity", 1);
-
         }
 
-        legendSvg.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionRect + ",0)");
-        var axisScale = d3.scale.linear().range([axisPadding, legendWidth - axisPadding]).domain([1, -1]);
+        legendSvg.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionAxis + ",0)");
+        var axisScale = d3.scale.linear().range([translateXPositionAxis+paddingAxis, w-paddingAxis]).domain([1, -1]);
         var axis = d3.svg.axis().scale(axisScale).ticks(numberOfSteps);
-        legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(0,-2)").call(axis);
-
-        // var scoreBlueMarker = legendSvg.append("rect").attr("width", scoreBlueMarkerWidth).attr("height", h).style("fill", "blue").attr("transform", "translate(" + (w/2 - scoreBlueMarkerWidth/2) + ",0)");
-
+        legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(" + (paddingAxis/2) + ",-3)").call(axis);
         currentInstance.legendSvg = legendSvg;
-        currentInstance.currentLegendAxisWidth = legendWidth - axisPadding;
+        currentInstance.currentLegendAxisWidth = w ;
     }
 
     this.init = function(){
@@ -358,6 +358,14 @@ function stackedHorizontalBar(){
             .style("stroke-width", "2")
             .style("fill", "rgba(48, 79, 254, 0)")
             .attr("transform", "translate(" + (x(0) - scoreBlueMarkerOnStackedBarWidth/2) + ",0)");
+        if(data.average > 0){
+            scoreBlueMarkerOnStackedBar.data(greenData);
+        } else {
+            scoreBlueMarkerOnStackedBar.data(redData);
+        }
+        scoreBlueMarkerOnStackedBar.on("mousemove", currentInstance.mousemoveTooltip)
+            .on("mouseout", currentInstance.mouseoutTooltip)
+            .on("click", currentInstance.mouseClick);
 
         currentInstance.totalRedBar = totalRedBar;
         currentInstance.totalGreenBar = totalGreenBar;

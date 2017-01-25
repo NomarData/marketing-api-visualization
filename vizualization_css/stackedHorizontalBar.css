@@ -54,3 +54,6 @@
 #horizontalStackedBar .redBar{
     cursor: pointer;
 }
+.blueMarkerScore{
+    cursor: pointer;
+}

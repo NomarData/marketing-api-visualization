@@ -127,7 +127,7 @@ a{
 
 
 .legendAxis > .tick{
-    text-shadow: 1.5px 0 #e3e3e3, 0 1.5px #e3e3e3, 1.5px 0 #e3e3e3, 0 1.5px #e3e3e3;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     color: #212121;
 
 }
