@@ -99,6 +99,7 @@ function stackedHorizontalBar(){
         var newBlueMarkPosition;
         var newBlueMarkWidth;
         var blueFrame =currentInstance.scoreBlueMarkerOnStackedBar;
+
         if(data.average > 0){
             blueFrame.data(currentInstance.greenData);
             newBlueMarkPosition =  x(-(data.average * data.total));
@@ -108,7 +109,7 @@ function stackedHorizontalBar(){
                 .attr("width", newBlueMarkWidth)
                 .attr("transform","translate(" + newBlueMarkPosition + ", 0)");
         }
-        if(data.average < 0){
+        else{
             blueFrame.data(currentInstance.redData);
             newBlueMarkPosition = x(0);
             newBlueMarkWidth =  x(Math.abs(data.average) * data.total) - x(0);
