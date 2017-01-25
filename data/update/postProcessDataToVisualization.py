@@ -24,7 +24,7 @@ AUDIENCE = "audience"
 AGE_RANGE = "age_range"
 CITIZENSHIP = "citizenship"
 RESPONSE = "response"
-APPLICATION_DATA_FOLDER = "../application_data/"
+APPLICATION_CURRENT_DATA_FOLDER = "../current_data/"
 
 def zipdir(path, ziph):
     # ziph is zipfile handle
@@ -171,28 +171,28 @@ class PostProcessVisualizationData:
         print "Unique Topics"
         print self.data["analysis_name"].unique()
 
-    def save_denominator_file(self):
+    def generate_denominator_file_in_current_data(self):
         print "Save denominator file"
         denominator_instances = self.data[self.data[TOPIC] == NULL_VALUE]
-        denominator_instances.to_csv(APPLICATION_DATA_FOLDER + "facebook_population.csv")
+        denominator_instances.to_csv(APPLICATION_CURRENT_DATA_FOLDER + "facebook_population.csv")
 
 
     def generate_file_for_combination(self,combination):
         if len(combination) == 2:
             filtered_dataframe = self.data[(self.data[TOPIC] == combination[0]) | (self.data[TOPIC] == combination[1])]
             filtered_dataframe = filtered_dataframe[(filtered_dataframe[GENDER] != ALL_VALUE) & (filtered_dataframe[AGE_RANGE] != ALL_VALUE) &  (filtered_dataframe[SCHOLARITY] != ALL_VALUE) & (filtered_dataframe[CITIZENSHIP] != ALL_VALUE) ]
-            filtered_dataframe.to_csv(APPLICATION_DATA_FOLDER + combination[0] + "-" + combination[1] + ".csv")
+            filtered_dataframe.to_csv(APPLICATION_CURRENT_DATA_FOLDER + combination[0] + "-" + combination[1] + ".csv")
         elif len(combination) == 1:
             filtered_dataframe = self.data[(self.data[TOPIC] == combination[0])]
             filtered_dataframe = filtered_dataframe[
                 (filtered_dataframe[GENDER] != ALL_VALUE) & (filtered_dataframe[AGE_RANGE] != ALL_VALUE) & (
                 filtered_dataframe[SCHOLARITY] != ALL_VALUE) & (filtered_dataframe[CITIZENSHIP] != ALL_VALUE)]
-            filtered_dataframe.to_csv(APPLICATION_DATA_FOLDER + combination[0] + ".csv")
+            filtered_dataframe.to_csv(APPLICATION_CURRENT_DATA_FOLDER + combination[0] + ".csv")
         else:
             import ipdb;ipdb.set_trace()
             raise Exception("No combination found")
 
-    def generate_combinations_files(self):
+    def generate_combinations_files_in_current_data(self):
         print "Generating Combinations Files"
         interest_list = self.data["topic"].unique().tolist()
         interest_list.remove(NULL_VALUE)
@@ -213,7 +213,7 @@ class PostProcessVisualizationData:
     def zip_folder(self):
         print "Saving zipped folder"
         zipf = zipfile.ZipFile('data_' + UNIQUE_TIME_ID + '.zip', 'w', zipfile.ZIP_DEFLATED)
-        zipdir(APPLICATION_DATA_FOLDER, zipf)
+        zipdir(APPLICATION_CURRENT_DATA_FOLDER, zipf)
         zipf.close()
 
     def generate_topic_column(self):
@@ -258,8 +258,8 @@ class PostProcessVisualizationData:
         self.delete_column("family_statuses")
         self.delete_column("name")
         self.delete_column("geo_locations")
-        self.generate_combinations_files()
-        self.save_denominator_file()
+        self.generate_combinations_files_in_current_data()
+        self.generate_denominator_file_in_current_data()
         self.zip_folder()
 
     def save_file(self,filename):
@@ -280,6 +280,8 @@ class PostProcessVisualizationData:
         self.data.to_csv("new_dataset.csv")
 
     def __init__(self, filepath):
+        print "Loading Data..."
+        self.original_data = load_dataframe_from_file(filepath)
         self.data = load_dataframe_from_file(filepath)
 
 

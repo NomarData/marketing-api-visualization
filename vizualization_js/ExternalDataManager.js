@@ -16,7 +16,7 @@
         this.getPromiseOfFacebookDemographicData = function(){
             var defer = $.Deferred();
             //Try to load file healthSelection first, or luxurySelection first
-            d3.csv("data/application_data/facebook_population.csv", function(error, data) {
+            d3.csv(CURRENT_DATA_PATH + "facebook_population.csv", function(error, data) {
                 if(error){
                     throw Error("Error loading csv : " + error);
                 } else{
@@ -31,9 +31,9 @@
             var defer = $.Deferred();
             if(luxurySelection != null && healthSelection != null){
                 //Try to load file healthSelection first, or luxurySelection first
-                d3.csv("data/application_data/" + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {
+                d3.csv(CURRENT_DATA_PATH + healthSelection + "-" + luxurySelection + ".csv", function(error, data) {
                     if(error){
-                        d3.csv("data/application_data/" + luxurySelection  + "-" +  healthSelection + ".csv", function(error, data) {
+                        d3.csv(CURRENT_DATA_PATH + luxurySelection  + "-" +  healthSelection + ".csv", function(error, data) {
                             if(error){
                                 throw Error("Error loading csv : " + error);
                             } else{
@@ -47,7 +47,7 @@
                 var promise = defer.promise();
                 return promise;
             } else if(luxurySelection != null){
-                d3.csv("data/application_data/" + luxurySelection + ".csv", function(error, data) {
+                d3.csv(CURRENT_DATA_PATH + luxurySelection + ".csv", function(error, data) {
                     if(error){
                         throw Error("Error loading csv : " + error);
                     } else {
@@ -57,7 +57,7 @@
                 var promise = defer.promise();
                 return promise;
             }else if (healthSelection != null){
-                d3.csv("data/application_data/" + healthSelection + ".csv", function(error, data) {
+                d3.csv(CURRENT_DATA_PATH + healthSelection + ".csv", function(error, data) {
                     if(error){
                         throw Error("Error loading csv : " + error);
                     } else {
