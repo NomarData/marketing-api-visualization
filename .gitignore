@@ -13,3 +13,4 @@ shippable/
 coverage/
 /data/update/data.csv
 data/update/postProcessDataToVisualization.pyc
+/data/update/

@@ -1,238 +1,238 @@
 ,age_range,gender,citizenship,scholarity,audience,topic,country_code
 5508,18-24,Male,Expats,Graduated,17000,fast food,DZ
 5509,25-44,Male,Expats,Graduated,13000,fast food,DZ
-5510,45+,Male,Expats,Graduated,1400,fast food,DZ
+5510,45+,Male,Expats,Graduated,1500,fast food,DZ
 5511,18-24,Female,Expats,Graduated,6800,fast food,DZ
-5512,25-44,Female,Expats,Graduated,5000,fast food,DZ
+5512,25-44,Female,Expats,Graduated,5200,fast food,DZ
 5513,45+,Female,Expats,Graduated,800,fast food,DZ
-5514,18-24,Male,Expats,No Degree,6700,fast food,DZ
-5515,25-44,Male,Expats,No Degree,7200,fast food,DZ
-5516,45+,Male,Expats,No Degree,1100,fast food,DZ
-5517,18-24,Female,Expats,No Degree,3400,fast food,DZ
+5514,18-24,Male,Expats,No Degree,6800,fast food,DZ
+5515,25-44,Male,Expats,No Degree,7400,fast food,DZ
+5516,45+,Male,Expats,No Degree,1200,fast food,DZ
+5517,18-24,Female,Expats,No Degree,3600,fast food,DZ
 5518,25-44,Female,Expats,No Degree,3800,fast food,DZ
-5519,45+,Female,Expats,No Degree,870,fast food,DZ
-5520,18-24,Male,Expats,High School,6700,fast food,DZ
-5521,25-44,Male,Expats,High School,3100,fast food,DZ
-5522,45+,Male,Expats,High School,480,fast food,DZ
-5523,18-24,Female,Expats,High School,3400,fast food,DZ
+5519,45+,Female,Expats,No Degree,890,fast food,DZ
+5520,18-24,Male,Expats,High School,6900,fast food,DZ
+5521,25-44,Male,Expats,High School,3200,fast food,DZ
+5522,45+,Male,Expats,High School,510,fast food,DZ
+5523,18-24,Female,Expats,High School,3500,fast food,DZ
 5524,25-44,Female,Expats,High School,1200,fast food,DZ
-5525,45+,Female,Expats,High School,290,fast food,DZ
-5526,18-24,Male,Locals,Graduated,60000,fast food,DZ
-5527,25-44,Male,Locals,Graduated,79000,fast food,DZ
+5525,45+,Female,Expats,High School,310,fast food,DZ
+5526,18-24,Male,Locals,Graduated,61000,fast food,DZ
+5527,25-44,Male,Locals,Graduated,81000,fast food,DZ
 5528,45+,Male,Locals,Graduated,6500,fast food,DZ
-5529,18-24,Female,Locals,Graduated,57000,fast food,DZ
-5530,25-44,Female,Locals,Graduated,69000,fast food,DZ
-5531,45+,Female,Locals,Graduated,6000,fast food,DZ
+5529,18-24,Female,Locals,Graduated,58000,fast food,DZ
+5530,25-44,Female,Locals,Graduated,70000,fast food,DZ
+5531,45+,Female,Locals,Graduated,5900,fast food,DZ
 5532,18-24,Male,Locals,No Degree,52000,fast food,DZ
-5533,25-44,Male,Locals,No Degree,77000,fast food,DZ
+5533,25-44,Male,Locals,No Degree,79000,fast food,DZ
 5534,45+,Male,Locals,No Degree,9100,fast food,DZ
-5535,18-24,Female,Locals,No Degree,53000,fast food,DZ
-5536,25-44,Female,Locals,No Degree,64000,fast food,DZ
-5537,45+,Female,Locals,No Degree,9400,fast food,DZ
-5538,18-24,Male,Locals,High School,29000,fast food,DZ
-5539,25-44,Male,Locals,High School,21000,fast food,DZ
-5540,45+,Male,Locals,High School,2500,fast food,DZ
-5541,18-24,Female,Locals,High School,30000,fast food,DZ
+5535,18-24,Female,Locals,No Degree,54000,fast food,DZ
+5536,25-44,Female,Locals,No Degree,65000,fast food,DZ
+5537,45+,Female,Locals,No Degree,9700,fast food,DZ
+5538,18-24,Male,Locals,High School,30000,fast food,DZ
+5539,25-44,Male,Locals,High School,22000,fast food,DZ
+5540,45+,Male,Locals,High School,2400,fast food,DZ
+5541,18-24,Female,Locals,High School,31000,fast food,DZ
 5542,25-44,Female,Locals,High School,16000,fast food,DZ
-5543,45+,Female,Locals,High School,2800,fast food,DZ
-5544,18-24,Male,Expats,Graduated,5800,fast food,BH
+5543,45+,Female,Locals,High School,2900,fast food,DZ
+5544,18-24,Male,Expats,Graduated,5500,fast food,BH
 5545,25-44,Male,Expats,Graduated,22000,fast food,BH
-5546,45+,Male,Expats,Graduated,1600,fast food,BH
+5546,45+,Male,Expats,Graduated,1700,fast food,BH
 5547,18-24,Female,Expats,Graduated,1800,fast food,BH
 5548,25-44,Female,Expats,Graduated,14000,fast food,BH
 5549,45+,Female,Expats,Graduated,1800,fast food,BH
 5550,18-24,Male,Expats,No Degree,4100,fast food,BH
-5551,25-44,Male,Expats,No Degree,11000,fast food,BH
-5552,45+,Male,Expats,No Degree,1200,fast food,BH
-5553,18-24,Female,Expats,No Degree,1300,fast food,BH
+5551,25-44,Male,Expats,No Degree,12000,fast food,BH
+5552,45+,Male,Expats,No Degree,1500,fast food,BH
+5553,18-24,Female,Expats,No Degree,1200,fast food,BH
 5554,25-44,Female,Expats,No Degree,4600,fast food,BH
-5555,45+,Female,Expats,No Degree,970,fast food,BH
+5555,45+,Female,Expats,No Degree,1000,fast food,BH
 5556,18-24,Male,Expats,High School,2400,fast food,BH
-5557,25-44,Male,Expats,High School,5700,fast food,BH
-5558,45+,Male,Expats,High School,540,fast food,BH
+5557,25-44,Male,Expats,High School,5500,fast food,BH
+5558,45+,Male,Expats,High School,610,fast food,BH
 5559,18-24,Female,Expats,High School,1300,fast food,BH
 5560,25-44,Female,Expats,High School,3600,fast food,BH
 5561,45+,Female,Expats,High School,610,fast food,BH
-5562,18-24,Male,Locals,Graduated,2400,fast food,BH
-5563,25-44,Male,Locals,Graduated,4900,fast food,BH
-5564,45+,Male,Locals,Graduated,330,fast food,BH
+5562,18-24,Male,Locals,Graduated,2500,fast food,BH
+5563,25-44,Male,Locals,Graduated,5200,fast food,BH
+5564,45+,Male,Locals,Graduated,380,fast food,BH
 5565,18-24,Female,Locals,Graduated,1200,fast food,BH
-5566,25-44,Female,Locals,Graduated,3500,fast food,BH
-5567,45+,Female,Locals,Graduated,260,fast food,BH
-5568,18-24,Male,Locals,No Degree,2000,fast food,BH
-5569,25-44,Male,Locals,No Degree,3100,fast food,BH
-5570,45+,Male,Locals,No Degree,340,fast food,BH
-5571,18-24,Female,Locals,No Degree,1100,fast food,BH
-5572,25-44,Female,Locals,No Degree,1700,fast food,BH
-5573,45+,Female,Locals,No Degree,270,fast food,BH
+5566,25-44,Female,Locals,Graduated,4000,fast food,BH
+5567,45+,Female,Locals,Graduated,270,fast food,BH
+5568,18-24,Male,Locals,No Degree,2400,fast food,BH
+5569,25-44,Male,Locals,No Degree,3700,fast food,BH
+5570,45+,Male,Locals,No Degree,650,fast food,BH
+5571,18-24,Female,Locals,No Degree,1200,fast food,BH
+5572,25-44,Female,Locals,No Degree,2100,fast food,BH
+5573,45+,Female,Locals,No Degree,360,fast food,BH
 5574,18-24,Male,Locals,High School,1300,fast food,BH
-5575,25-44,Male,Locals,High School,1200,fast food,BH
-5576,45+,Male,Locals,High School,90,fast food,BH
-5577,18-24,Female,Locals,High School,1200,fast food,BH
-5578,25-44,Female,Locals,High School,920,fast food,BH
-5579,45+,Female,Locals,High School,30,fast food,BH
+5575,25-44,Male,Locals,High School,1300,fast food,BH
+5576,45+,Male,Locals,High School,100,fast food,BH
+5577,18-24,Female,Locals,High School,1300,fast food,BH
+5578,25-44,Female,Locals,High School,990,fast food,BH
+5579,45+,Female,Locals,High School,40,fast food,BH
 5580,18-24,Male,Expats,Graduated,27000,fast food,EG
-5581,25-44,Male,Expats,Graduated,46000,fast food,EG
-5582,45+,Male,Expats,Graduated,4800,fast food,EG
+5581,25-44,Male,Expats,Graduated,47000,fast food,EG
+5582,45+,Male,Expats,Graduated,4900,fast food,EG
 5583,18-24,Female,Expats,Graduated,18000,fast food,EG
 5584,25-44,Female,Expats,Graduated,34000,fast food,EG
 5585,45+,Female,Expats,Graduated,5100,fast food,EG
-5586,18-24,Male,Expats,No Degree,7700,fast food,EG
+5586,18-24,Male,Expats,No Degree,7800,fast food,EG
 5587,25-44,Male,Expats,No Degree,11000,fast food,EG
-5588,45+,Male,Expats,No Degree,1900,fast food,EG
-5589,18-24,Female,Expats,No Degree,5700,fast food,EG
+5588,45+,Male,Expats,No Degree,2000,fast food,EG
+5589,18-24,Female,Expats,No Degree,5800,fast food,EG
 5590,25-44,Female,Expats,No Degree,10000,fast food,EG
-5591,45+,Female,Expats,No Degree,4000,fast food,EG
+5591,45+,Female,Expats,No Degree,4100,fast food,EG
 5592,18-24,Male,Expats,High School,20000,fast food,EG
-5593,25-44,Male,Expats,High School,9800,fast food,EG
-5594,45+,Male,Expats,High School,980,fast food,EG
+5593,25-44,Male,Expats,High School,9900,fast food,EG
+5594,45+,Male,Expats,High School,990,fast food,EG
 5595,18-24,Female,Expats,High School,17000,fast food,EG
-5596,25-44,Female,Expats,High School,7200,fast food,EG
+5596,25-44,Female,Expats,High School,7300,fast food,EG
 5597,45+,Female,Expats,High School,1300,fast food,EG
-5598,18-24,Male,Locals,Graduated,550000,fast food,EG
-5599,25-44,Male,Locals,Graduated,860000,fast food,EG
-5600,45+,Male,Locals,Graduated,76000,fast food,EG
-5601,18-24,Female,Locals,Graduated,560000,fast food,EG
-5602,25-44,Female,Locals,Graduated,890000,fast food,EG
+5598,18-24,Male,Locals,Graduated,530000,fast food,EG
+5599,25-44,Male,Locals,Graduated,840000,fast food,EG
+5600,45+,Male,Locals,Graduated,74000,fast food,EG
+5601,18-24,Female,Locals,Graduated,540000,fast food,EG
+5602,25-44,Female,Locals,Graduated,880000,fast food,EG
 5603,45+,Female,Locals,Graduated,110000,fast food,EG
 5604,18-24,Male,Locals,No Degree,220000,fast food,EG
-5605,25-44,Male,Locals,No Degree,350000,fast food,EG
-5606,45+,Male,Locals,No Degree,67000,fast food,EG
+5605,25-44,Male,Locals,No Degree,340000,fast food,EG
+5606,45+,Male,Locals,No Degree,64000,fast food,EG
 5607,18-24,Female,Locals,No Degree,240000,fast food,EG
-5608,25-44,Female,Locals,No Degree,430000,fast food,EG
+5608,25-44,Female,Locals,No Degree,420000,fast food,EG
 5609,45+,Female,Locals,No Degree,160000,fast food,EG
-5610,18-24,Male,Locals,High School,380000,fast food,EG
+5610,18-24,Male,Locals,High School,370000,fast food,EG
 5611,25-44,Male,Locals,High School,170000,fast food,EG
 5612,45+,Male,Locals,High School,18000,fast food,EG
 5613,18-24,Female,Locals,High School,410000,fast food,EG
-5614,25-44,Female,Locals,High School,160000,fast food,EG
+5614,25-44,Female,Locals,High School,150000,fast food,EG
 5615,45+,Female,Locals,High School,25000,fast food,EG
-5616,18-24,Male,Expats,Graduated,6900,fast food,IQ
+5616,18-24,Male,Expats,Graduated,6500,fast food,IQ
 5617,25-44,Male,Expats,Graduated,15000,fast food,IQ
-5618,45+,Male,Expats,Graduated,1300,fast food,IQ
-5619,18-24,Female,Expats,Graduated,2000,fast food,IQ
-5620,25-44,Female,Expats,Graduated,5000,fast food,IQ
-5621,45+,Female,Expats,Graduated,380,fast food,IQ
-5622,18-24,Male,Expats,No Degree,4300,fast food,IQ
-5623,25-44,Male,Expats,No Degree,6100,fast food,IQ
-5624,45+,Male,Expats,No Degree,740,fast food,IQ
+5618,45+,Male,Expats,Graduated,1200,fast food,IQ
+5619,18-24,Female,Expats,Graduated,1900,fast food,IQ
+5620,25-44,Female,Expats,Graduated,5100,fast food,IQ
+5621,45+,Female,Expats,Graduated,450,fast food,IQ
+5622,18-24,Male,Expats,No Degree,4100,fast food,IQ
+5623,25-44,Male,Expats,No Degree,6200,fast food,IQ
+5624,45+,Male,Expats,No Degree,760,fast food,IQ
 5625,18-24,Female,Expats,No Degree,1800,fast food,IQ
-5626,25-44,Female,Expats,No Degree,2300,fast food,IQ
+5626,25-44,Female,Expats,No Degree,2400,fast food,IQ
 5627,45+,Female,Expats,No Degree,600,fast food,IQ
-5628,18-24,Male,Expats,High School,4700,fast food,IQ
-5629,25-44,Male,Expats,High School,4100,fast food,IQ
-5630,45+,Male,Expats,High School,270,fast food,IQ
-5631,18-24,Female,Expats,High School,2100,fast food,IQ
+5628,18-24,Male,Expats,High School,4600,fast food,IQ
+5629,25-44,Male,Expats,High School,4200,fast food,IQ
+5630,45+,Male,Expats,High School,340,fast food,IQ
+5631,18-24,Female,Expats,High School,2200,fast food,IQ
 5632,25-44,Female,Expats,High School,1300,fast food,IQ
-5633,45+,Female,Expats,High School,210,fast food,IQ
-5634,18-24,Male,Locals,Graduated,72000,fast food,IQ
+5633,45+,Female,Expats,High School,240,fast food,IQ
+5634,18-24,Male,Locals,Graduated,69000,fast food,IQ
 5635,25-44,Male,Locals,Graduated,150000,fast food,IQ
 5636,45+,Male,Locals,Graduated,11000,fast food,IQ
-5637,18-24,Female,Locals,Graduated,33000,fast food,IQ
+5637,18-24,Female,Locals,Graduated,32000,fast food,IQ
 5638,25-44,Female,Locals,Graduated,70000,fast food,IQ
-5639,45+,Female,Locals,Graduated,7400,fast food,IQ
-5640,18-24,Male,Locals,No Degree,70000,fast food,IQ
-5641,25-44,Male,Locals,No Degree,91000,fast food,IQ
+5639,45+,Female,Locals,Graduated,7500,fast food,IQ
+5640,18-24,Male,Locals,No Degree,69000,fast food,IQ
+5641,25-44,Male,Locals,No Degree,90000,fast food,IQ
 5642,45+,Male,Locals,No Degree,13000,fast food,IQ
-5643,18-24,Female,Locals,No Degree,33000,fast food,IQ
+5643,18-24,Female,Locals,No Degree,32000,fast food,IQ
 5644,25-44,Female,Locals,No Degree,48000,fast food,IQ
 5645,45+,Female,Locals,No Degree,11000,fast food,IQ
-5646,18-24,Male,Locals,High School,57000,fast food,IQ
+5646,18-24,Male,Locals,High School,56000,fast food,IQ
 5647,25-44,Male,Locals,High School,43000,fast food,IQ
-5648,45+,Male,Locals,High School,3700,fast food,IQ
-5649,18-24,Female,Locals,High School,34000,fast food,IQ
+5648,45+,Male,Locals,High School,3600,fast food,IQ
+5649,18-24,Female,Locals,High School,33000,fast food,IQ
 5650,25-44,Female,Locals,High School,20000,fast food,IQ
 5651,45+,Female,Locals,High School,2600,fast food,IQ
 5652,18-24,Male,Expats,Graduated,17000,fast food,JO
-5653,25-44,Male,Expats,Graduated,29000,fast food,JO
-5654,45+,Male,Expats,Graduated,3900,fast food,JO
+5653,25-44,Male,Expats,Graduated,30000,fast food,JO
+5654,45+,Male,Expats,Graduated,3800,fast food,JO
 5655,18-24,Female,Expats,Graduated,14000,fast food,JO
-5656,25-44,Female,Expats,Graduated,26000,fast food,JO
-5657,45+,Female,Expats,Graduated,4600,fast food,JO
+5656,25-44,Female,Expats,Graduated,27000,fast food,JO
+5657,45+,Female,Expats,Graduated,4700,fast food,JO
 5658,18-24,Male,Expats,No Degree,11000,fast food,JO
 5659,25-44,Male,Expats,No Degree,14000,fast food,JO
-5660,45+,Male,Expats,No Degree,3600,fast food,JO
-5661,18-24,Female,Expats,No Degree,6600,fast food,JO
+5660,45+,Male,Expats,No Degree,3500,fast food,JO
+5661,18-24,Female,Expats,No Degree,6700,fast food,JO
 5662,25-44,Female,Expats,No Degree,12000,fast food,JO
 5663,45+,Female,Expats,No Degree,5800,fast food,JO
 5664,18-24,Male,Expats,High School,18000,fast food,JO
 5665,25-44,Male,Expats,High School,8400,fast food,JO
 5666,45+,Male,Expats,High School,1200,fast food,JO
 5667,18-24,Female,Expats,High School,19000,fast food,JO
-5668,25-44,Female,Expats,High School,7400,fast food,JO
+5668,25-44,Female,Expats,High School,7500,fast food,JO
 5669,45+,Female,Expats,High School,2000,fast food,JO
-5670,18-24,Male,Locals,Graduated,66000,fast food,JO
-5671,25-44,Male,Locals,Graduated,99000,fast food,JO
-5672,45+,Male,Locals,Graduated,12000,fast food,JO
-5673,18-24,Female,Locals,Graduated,50000,fast food,JO
-5674,25-44,Female,Locals,Graduated,81000,fast food,JO
-5675,45+,Female,Locals,Graduated,10000,fast food,JO
-5676,18-24,Male,Locals,No Degree,50000,fast food,JO
-5677,25-44,Male,Locals,No Degree,52000,fast food,JO
+5670,18-24,Male,Locals,Graduated,64000,fast food,JO
+5671,25-44,Male,Locals,Graduated,100000,fast food,JO
+5672,45+,Male,Locals,Graduated,13000,fast food,JO
+5673,18-24,Female,Locals,Graduated,49000,fast food,JO
+5674,25-44,Female,Locals,Graduated,82000,fast food,JO
+5675,45+,Female,Locals,Graduated,11000,fast food,JO
+5676,18-24,Male,Locals,No Degree,49000,fast food,JO
+5677,25-44,Male,Locals,No Degree,53000,fast food,JO
 5678,45+,Male,Locals,No Degree,17000,fast food,JO
-5679,18-24,Female,Locals,No Degree,38000,fast food,JO
-5680,25-44,Female,Locals,No Degree,50000,fast food,JO
+5679,18-24,Female,Locals,No Degree,39000,fast food,JO
+5680,25-44,Female,Locals,No Degree,52000,fast food,JO
 5681,45+,Female,Locals,No Degree,21000,fast food,JO
-5682,18-24,Male,Locals,High School,59000,fast food,JO
+5682,18-24,Male,Locals,High School,58000,fast food,JO
 5683,25-44,Male,Locals,High School,30000,fast food,JO
 5684,45+,Male,Locals,High School,5500,fast food,JO
-5685,18-24,Female,Locals,High School,60000,fast food,JO
+5685,18-24,Female,Locals,High School,61000,fast food,JO
 5686,25-44,Female,Locals,High School,24000,fast food,JO
-5687,45+,Female,Locals,High School,4300,fast food,JO
-5688,18-24,Male,Expats,Graduated,8700,fast food,KW
-5689,25-44,Male,Expats,Graduated,62000,fast food,KW
+5687,45+,Female,Locals,High School,4400,fast food,JO
+5688,18-24,Male,Expats,Graduated,8200,fast food,KW
+5689,25-44,Male,Expats,Graduated,60000,fast food,KW
 5690,45+,Male,Expats,Graduated,4800,fast food,KW
-5691,18-24,Female,Expats,Graduated,4700,fast food,KW
-5692,25-44,Female,Expats,Graduated,44000,fast food,KW
-5693,45+,Female,Expats,Graduated,5200,fast food,KW
-5694,18-24,Male,Expats,No Degree,6600,fast food,KW
+5691,18-24,Female,Expats,Graduated,4500,fast food,KW
+5692,25-44,Female,Expats,Graduated,43000,fast food,KW
+5693,45+,Female,Expats,Graduated,5100,fast food,KW
+5694,18-24,Male,Expats,No Degree,6500,fast food,KW
 5695,25-44,Male,Expats,No Degree,25000,fast food,KW
-5696,45+,Male,Expats,No Degree,4000,fast food,KW
-5697,18-24,Female,Expats,No Degree,3500,fast food,KW
+5696,45+,Male,Expats,No Degree,4600,fast food,KW
+5697,18-24,Female,Expats,No Degree,3300,fast food,KW
 5698,25-44,Female,Expats,No Degree,15000,fast food,KW
-5699,45+,Female,Expats,No Degree,3100,fast food,KW
-5700,18-24,Male,Expats,High School,4500,fast food,KW
+5699,45+,Female,Expats,No Degree,3300,fast food,KW
+5700,18-24,Male,Expats,High School,4300,fast food,KW
 5701,25-44,Male,Expats,High School,15000,fast food,KW
-5702,45+,Male,Expats,High School,1400,fast food,KW
-5703,18-24,Female,Expats,High School,3800,fast food,KW
+5702,45+,Male,Expats,High School,1300,fast food,KW
+5703,18-24,Female,Expats,High School,3600,fast food,KW
 5704,25-44,Female,Expats,High School,13000,fast food,KW
 5705,45+,Female,Expats,High School,1600,fast food,KW
-5706,18-24,Male,Locals,Graduated,2100,fast food,KW
-5707,25-44,Male,Locals,Graduated,8200,fast food,KW
-5708,45+,Male,Locals,Graduated,810,fast food,KW
-5709,18-24,Female,Locals,Graduated,1500,fast food,KW
-5710,25-44,Female,Locals,Graduated,6200,fast food,KW
-5711,45+,Female,Locals,Graduated,560,fast food,KW
-5712,18-24,Male,Locals,No Degree,2700,fast food,KW
-5713,25-44,Male,Locals,No Degree,5800,fast food,KW
-5714,45+,Male,Locals,No Degree,890,fast food,KW
+5706,18-24,Male,Locals,Graduated,2200,fast food,KW
+5707,25-44,Male,Locals,Graduated,8800,fast food,KW
+5708,45+,Male,Locals,Graduated,860,fast food,KW
+5709,18-24,Female,Locals,Graduated,1700,fast food,KW
+5710,25-44,Female,Locals,Graduated,6800,fast food,KW
+5711,45+,Female,Locals,Graduated,630,fast food,KW
+5712,18-24,Male,Locals,No Degree,2800,fast food,KW
+5713,25-44,Male,Locals,No Degree,6900,fast food,KW
+5714,45+,Male,Locals,No Degree,1200,fast food,KW
 5715,18-24,Female,Locals,No Degree,1400,fast food,KW
-5716,25-44,Female,Locals,No Degree,3700,fast food,KW
-5717,45+,Female,Locals,No Degree,870,fast food,KW
-5718,18-24,Male,Locals,High School,1300,fast food,KW
-5719,25-44,Male,Locals,High School,2000,fast food,KW
-5720,45+,Male,Locals,High School,200,fast food,KW
+5716,25-44,Female,Locals,No Degree,4100,fast food,KW
+5717,45+,Female,Locals,No Degree,1100,fast food,KW
+5718,18-24,Male,Locals,High School,1400,fast food,KW
+5719,25-44,Male,Locals,High School,2100,fast food,KW
+5720,45+,Male,Locals,High School,230,fast food,KW
 5721,18-24,Female,Locals,High School,1300,fast food,KW
-5722,25-44,Female,Locals,High School,1800,fast food,KW
-5723,45+,Female,Locals,High School,270,fast food,KW
-5724,18-24,Male,Expats,Graduated,5900,fast food,LB
+5722,25-44,Female,Locals,High School,2000,fast food,KW
+5723,45+,Female,Locals,High School,300,fast food,KW
+5724,18-24,Male,Expats,Graduated,5800,fast food,LB
 5725,25-44,Male,Expats,Graduated,11000,fast food,LB
-5726,45+,Male,Expats,Graduated,1500,fast food,LB
+5726,45+,Male,Expats,Graduated,1600,fast food,LB
 5727,18-24,Female,Expats,Graduated,3100,fast food,LB
 5728,25-44,Female,Expats,Graduated,9400,fast food,LB
-5729,45+,Female,Expats,Graduated,2100,fast food,LB
-5730,18-24,Male,Expats,No Degree,6100,fast food,LB
+5729,45+,Female,Expats,Graduated,2200,fast food,LB
+5730,18-24,Male,Expats,No Degree,5900,fast food,LB
 5731,25-44,Male,Expats,No Degree,8700,fast food,LB
-5732,45+,Male,Expats,No Degree,1800,fast food,LB
-5733,18-24,Female,Expats,No Degree,3000,fast food,LB
-5734,25-44,Female,Expats,No Degree,6100,fast food,LB
-5735,45+,Female,Expats,No Degree,2400,fast food,LB
-5736,18-24,Male,Expats,High School,4200,fast food,LB
-5737,25-44,Male,Expats,High School,3600,fast food,LB
-5738,45+,Male,Expats,High School,450,fast food,LB
-5739,18-24,Female,Expats,High School,3600,fast food,LB
-5740,25-44,Female,Expats,High School,3300,fast food,LB
-5741,45+,Female,Expats,High School,730,fast food,LB
+5732,45+,Male,Expats,No Degree,1900,fast food,LB
+5733,18-24,Female,Expats,No Degree,3100,fast food,LB
+5734,25-44,Female,Expats,No Degree,6300,fast food,LB
+5735,45+,Female,Expats,No Degree,2500,fast food,LB
+5736,18-24,Male,Expats,High School,4400,fast food,LB
+5737,25-44,Male,Expats,High School,3400,fast food,LB
+5738,45+,Male,Expats,High School,470,fast food,LB
+5739,18-24,Female,Expats,High School,3500,fast food,LB
+5740,25-44,Female,Expats,High School,3400,fast food,LB
+5741,45+,Female,Expats,High School,710,fast food,LB
 5742,18-24,Male,Locals,Graduated,24000,fast food,LB
 5743,25-44,Male,Locals,Graduated,38000,fast food,LB
 5744,45+,Male,Locals,Graduated,7600,fast food,LB
@@ -240,374 +240,374 @@
 5746,25-44,Female,Locals,Graduated,46000,fast food,LB
 5747,45+,Female,Locals,Graduated,8600,fast food,LB
 5748,18-24,Male,Locals,No Degree,25000,fast food,LB
-5749,25-44,Male,Locals,No Degree,29000,fast food,LB
+5749,25-44,Male,Locals,No Degree,30000,fast food,LB
 5750,45+,Male,Locals,No Degree,12000,fast food,LB
 5751,18-24,Female,Locals,No Degree,22000,fast food,LB
-5752,25-44,Female,Locals,No Degree,34000,fast food,LB
-5753,45+,Female,Locals,No Degree,19000,fast food,LB
+5752,25-44,Female,Locals,No Degree,35000,fast food,LB
+5753,45+,Female,Locals,No Degree,20000,fast food,LB
 5754,18-24,Male,Locals,High School,22000,fast food,LB
 5755,25-44,Male,Locals,High School,12000,fast food,LB
 5756,45+,Male,Locals,High School,2600,fast food,LB
 5757,18-24,Female,Locals,High School,28000,fast food,LB
 5758,25-44,Female,Locals,High School,13000,fast food,LB
-5759,45+,Female,Locals,High School,3100,fast food,LB
-5760,18-24,Male,Expats,Graduated,2300,fast food,LY
-5761,25-44,Male,Expats,Graduated,5600,fast food,LY
-5762,45+,Male,Expats,Graduated,540,fast food,LY
+5759,45+,Female,Locals,High School,3200,fast food,LB
+5760,18-24,Male,Expats,Graduated,2100,fast food,LY
+5761,25-44,Male,Expats,Graduated,5500,fast food,LY
+5762,45+,Male,Expats,Graduated,530,fast food,LY
 5763,18-24,Female,Expats,Graduated,1400,fast food,LY
 5764,25-44,Female,Expats,Graduated,3400,fast food,LY
 5765,45+,Female,Expats,Graduated,410,fast food,LY
 5766,18-24,Male,Expats,No Degree,1000,fast food,LY
 5767,25-44,Male,Expats,No Degree,2500,fast food,LY
-5768,45+,Male,Expats,No Degree,270,fast food,LY
-5769,18-24,Female,Expats,No Degree,800,fast food,LY
-5770,25-44,Female,Expats,No Degree,1800,fast food,LY
-5771,45+,Female,Expats,No Degree,420,fast food,LY
-5772,18-24,Male,Expats,High School,1200,fast food,LY
-5773,25-44,Male,Expats,High School,1300,fast food,LY
-5774,45+,Male,Expats,High School,160,fast food,LY
+5768,45+,Male,Expats,No Degree,260,fast food,LY
+5769,18-24,Female,Expats,No Degree,700,fast food,LY
+5770,25-44,Female,Expats,No Degree,1700,fast food,LY
+5771,45+,Female,Expats,No Degree,380,fast food,LY
+5772,18-24,Male,Expats,High School,1300,fast food,LY
+5773,25-44,Male,Expats,High School,1200,fast food,LY
+5774,45+,Male,Expats,High School,150,fast food,LY
 5775,18-24,Female,Expats,High School,1100,fast food,LY
-5776,25-44,Female,Expats,High School,770,fast food,LY
-5777,45+,Female,Expats,High School,150,fast food,LY
-5778,18-24,Male,Locals,Graduated,17000,fast food,LY
-5779,25-44,Male,Locals,Graduated,35000,fast food,LY
-5780,45+,Male,Locals,Graduated,2900,fast food,LY
-5781,18-24,Female,Locals,Graduated,20000,fast food,LY
-5782,25-44,Female,Locals,Graduated,38000,fast food,LY
-5783,45+,Female,Locals,Graduated,3000,fast food,LY
-5784,18-24,Male,Locals,No Degree,8700,fast food,LY
-5785,25-44,Male,Locals,No Degree,17000,fast food,LY
-5786,45+,Male,Locals,No Degree,2500,fast food,LY
+5776,25-44,Female,Expats,High School,800,fast food,LY
+5777,45+,Female,Expats,High School,180,fast food,LY
+5778,18-24,Male,Locals,Graduated,16000,fast food,LY
+5779,25-44,Male,Locals,Graduated,34000,fast food,LY
+5780,45+,Male,Locals,Graduated,2800,fast food,LY
+5781,18-24,Female,Locals,Graduated,19000,fast food,LY
+5782,25-44,Female,Locals,Graduated,37000,fast food,LY
+5783,45+,Female,Locals,Graduated,2900,fast food,LY
+5784,18-24,Male,Locals,No Degree,8200,fast food,LY
+5785,25-44,Male,Locals,No Degree,16000,fast food,LY
+5786,45+,Male,Locals,No Degree,2300,fast food,LY
 5787,18-24,Female,Locals,No Degree,13000,fast food,LY
-5788,25-44,Female,Locals,No Degree,26000,fast food,LY
-5789,45+,Female,Locals,No Degree,4900,fast food,LY
+5788,25-44,Female,Locals,No Degree,25000,fast food,LY
+5789,45+,Female,Locals,No Degree,4800,fast food,LY
 5790,18-24,Male,Locals,High School,11000,fast food,LY
-5791,25-44,Male,Locals,High School,7900,fast food,LY
-5792,45+,Male,Locals,High School,750,fast food,LY
-5793,18-24,Female,Locals,High School,18000,fast food,LY
-5794,25-44,Female,Locals,High School,9200,fast food,LY
-5795,45+,Female,Locals,High School,1200,fast food,LY
+5791,25-44,Male,Locals,High School,7800,fast food,LY
+5792,45+,Male,Locals,High School,690,fast food,LY
+5793,18-24,Female,Locals,High School,17000,fast food,LY
+5794,25-44,Female,Locals,High School,9100,fast food,LY
+5795,45+,Female,Locals,High School,1100,fast food,LY
 5796,18-24,Male,Expats,Graduated,18000,fast food,MA
 5797,25-44,Male,Expats,Graduated,11000,fast food,MA
-5798,45+,Male,Expats,Graduated,1400,fast food,MA
-5799,18-24,Female,Expats,Graduated,8100,fast food,MA
+5798,45+,Male,Expats,Graduated,1500,fast food,MA
+5799,18-24,Female,Expats,Graduated,8000,fast food,MA
 5800,25-44,Female,Expats,Graduated,6000,fast food,MA
-5801,45+,Female,Expats,Graduated,790,fast food,MA
+5801,45+,Female,Expats,Graduated,760,fast food,MA
 5802,18-24,Male,Expats,No Degree,5300,fast food,MA
-5803,25-44,Male,Expats,No Degree,4700,fast food,MA
-5804,45+,Male,Expats,No Degree,850,fast food,MA
-5805,18-24,Female,Expats,No Degree,3500,fast food,MA
+5803,25-44,Male,Expats,No Degree,4600,fast food,MA
+5804,45+,Male,Expats,No Degree,820,fast food,MA
+5805,18-24,Female,Expats,No Degree,3600,fast food,MA
 5806,25-44,Female,Expats,No Degree,3400,fast food,MA
-5807,45+,Female,Expats,No Degree,810,fast food,MA
-5808,18-24,Male,Expats,High School,7000,fast food,MA
-5809,25-44,Male,Expats,High School,2900,fast food,MA
-5810,45+,Male,Expats,High School,490,fast food,MA
-5811,18-24,Female,Expats,High School,3800,fast food,MA
+5807,45+,Female,Expats,No Degree,800,fast food,MA
+5808,18-24,Male,Expats,High School,7100,fast food,MA
+5809,25-44,Male,Expats,High School,3000,fast food,MA
+5810,45+,Male,Expats,High School,500,fast food,MA
+5811,18-24,Female,Expats,High School,3900,fast food,MA
 5812,25-44,Female,Expats,High School,1800,fast food,MA
-5813,45+,Female,Expats,High School,280,fast food,MA
+5813,45+,Female,Expats,High School,320,fast food,MA
 5814,18-24,Male,Locals,Graduated,110000,fast food,MA
-5815,25-44,Male,Locals,Graduated,85000,fast food,MA
-5816,45+,Male,Locals,Graduated,7000,fast food,MA
-5817,18-24,Female,Locals,Graduated,94000,fast food,MA
+5815,25-44,Male,Locals,Graduated,84000,fast food,MA
+5816,45+,Male,Locals,Graduated,6800,fast food,MA
+5817,18-24,Female,Locals,Graduated,93000,fast food,MA
 5818,25-44,Female,Locals,Graduated,69000,fast food,MA
-5819,45+,Female,Locals,Graduated,5800,fast food,MA
-5820,18-24,Male,Locals,No Degree,72000,fast food,MA
-5821,25-44,Male,Locals,No Degree,65000,fast food,MA
-5822,45+,Male,Locals,No Degree,9600,fast food,MA
-5823,18-24,Female,Locals,No Degree,67000,fast food,MA
+5819,45+,Female,Locals,Graduated,5700,fast food,MA
+5820,18-24,Male,Locals,No Degree,71000,fast food,MA
+5821,25-44,Male,Locals,No Degree,63000,fast food,MA
+5822,45+,Male,Locals,No Degree,9400,fast food,MA
+5823,18-24,Female,Locals,No Degree,66000,fast food,MA
 5824,25-44,Female,Locals,No Degree,50000,fast food,MA
-5825,45+,Female,Locals,No Degree,8000,fast food,MA
+5825,45+,Female,Locals,No Degree,7900,fast food,MA
 5826,18-24,Male,Locals,High School,51000,fast food,MA
 5827,25-44,Male,Locals,High School,23000,fast food,MA
-5828,45+,Male,Locals,High School,2300,fast food,MA
+5828,45+,Male,Locals,High School,2200,fast food,MA
 5829,18-24,Female,Locals,High School,49000,fast food,MA
 5830,25-44,Female,Locals,High School,19000,fast food,MA
 5831,45+,Female,Locals,High School,2400,fast food,MA
-5832,18-24,Male,Expats,Graduated,6800,fast food,OM
-5833,25-44,Male,Expats,Graduated,28000,fast food,OM
+5832,18-24,Male,Expats,Graduated,6300,fast food,OM
+5833,25-44,Male,Expats,Graduated,27000,fast food,OM
 5834,45+,Male,Expats,Graduated,1800,fast food,OM
-5835,18-24,Female,Expats,Graduated,1900,fast food,OM
+5835,18-24,Female,Expats,Graduated,1800,fast food,OM
 5836,25-44,Female,Expats,Graduated,12000,fast food,OM
-5837,45+,Female,Expats,Graduated,1400,fast food,OM
-5838,18-24,Male,Expats,No Degree,6400,fast food,OM
-5839,25-44,Male,Expats,No Degree,13000,fast food,OM
-5840,45+,Male,Expats,No Degree,1000,fast food,OM
-5841,18-24,Female,Expats,No Degree,1800,fast food,OM
-5842,25-44,Female,Expats,No Degree,4900,fast food,OM
-5843,45+,Female,Expats,No Degree,710,fast food,OM
-5844,18-24,Male,Expats,High School,2900,fast food,OM
-5845,25-44,Male,Expats,High School,5300,fast food,OM
-5846,45+,Male,Expats,High School,440,fast food,OM
+5837,45+,Female,Expats,Graduated,1500,fast food,OM
+5838,18-24,Male,Expats,No Degree,5700,fast food,OM
+5839,25-44,Male,Expats,No Degree,12000,fast food,OM
+5840,45+,Male,Expats,No Degree,1200,fast food,OM
+5841,18-24,Female,Expats,No Degree,1700,fast food,OM
+5842,25-44,Female,Expats,No Degree,4800,fast food,OM
+5843,45+,Female,Expats,No Degree,730,fast food,OM
+5844,18-24,Male,Expats,High School,2700,fast food,OM
+5845,25-44,Male,Expats,High School,5100,fast food,OM
+5846,45+,Male,Expats,High School,450,fast food,OM
 5847,18-24,Female,Expats,High School,1400,fast food,OM
-5848,25-44,Female,Expats,High School,2900,fast food,OM
-5849,45+,Female,Expats,High School,380,fast food,OM
-5850,18-24,Male,Locals,Graduated,4900,fast food,OM
-5851,25-44,Male,Locals,Graduated,9500,fast food,OM
-5852,45+,Male,Locals,Graduated,390,fast food,OM
+5848,25-44,Female,Expats,High School,2800,fast food,OM
+5849,45+,Female,Expats,High School,370,fast food,OM
+5850,18-24,Male,Locals,Graduated,4600,fast food,OM
+5851,25-44,Male,Locals,Graduated,9300,fast food,OM
+5852,45+,Male,Locals,Graduated,410,fast food,OM
 5853,18-24,Female,Locals,Graduated,1200,fast food,OM
-5854,25-44,Female,Locals,Graduated,3300,fast food,OM
-5855,45+,Female,Locals,Graduated,240,fast food,OM
-5856,18-24,Male,Locals,No Degree,4200,fast food,OM
-5857,25-44,Male,Locals,No Degree,5000,fast food,OM
-5858,45+,Male,Locals,No Degree,330,fast food,OM
+5854,25-44,Female,Locals,Graduated,3400,fast food,OM
+5855,45+,Female,Locals,Graduated,220,fast food,OM
+5856,18-24,Male,Locals,No Degree,4100,fast food,OM
+5857,25-44,Male,Locals,No Degree,5200,fast food,OM
+5858,45+,Male,Locals,No Degree,470,fast food,OM
 5859,18-24,Female,Locals,No Degree,1400,fast food,OM
-5860,25-44,Female,Locals,No Degree,1900,fast food,OM
+5860,25-44,Female,Locals,No Degree,2000,fast food,OM
 5861,45+,Female,Locals,No Degree,270,fast food,OM
 5862,18-24,Male,Locals,High School,2800,fast food,OM
 5863,25-44,Male,Locals,High School,2600,fast food,OM
-5864,45+,Male,Locals,High School,90,fast food,OM
-5865,18-24,Female,Locals,High School,1200,fast food,OM
+5864,45+,Male,Locals,High School,120,fast food,OM
+5865,18-24,Female,Locals,High School,1100,fast food,OM
 5866,25-44,Female,Locals,High School,720,fast food,OM
-5867,45+,Female,Locals,High School,50,fast food,OM
+5867,45+,Female,Locals,High School,90,fast food,OM
 5868,18-24,Male,Expats,Graduated,21000,fast food,QA
 5869,25-44,Male,Expats,Graduated,91000,fast food,QA
-5870,45+,Male,Expats,Graduated,7400,fast food,QA
+5870,45+,Male,Expats,Graduated,7700,fast food,QA
 5871,18-24,Female,Expats,Graduated,7200,fast food,QA
 5872,25-44,Female,Expats,Graduated,46000,fast food,QA
-5873,45+,Female,Expats,Graduated,4600,fast food,QA
-5874,18-24,Male,Expats,No Degree,17000,fast food,QA
-5875,25-44,Male,Expats,No Degree,35000,fast food,QA
-5876,45+,Male,Expats,No Degree,5200,fast food,QA
+5873,45+,Female,Expats,Graduated,4700,fast food,QA
+5874,18-24,Male,Expats,No Degree,18000,fast food,QA
+5875,25-44,Male,Expats,No Degree,36000,fast food,QA
+5876,45+,Male,Expats,No Degree,5600,fast food,QA
 5877,18-24,Female,Expats,No Degree,3600,fast food,QA
 5878,25-44,Female,Expats,No Degree,12000,fast food,QA
-5879,45+,Female,Expats,No Degree,2500,fast food,QA
+5879,45+,Female,Expats,No Degree,2600,fast food,QA
 5880,18-24,Male,Expats,High School,8100,fast food,QA
 5881,25-44,Male,Expats,High School,19000,fast food,QA
-5882,45+,Male,Expats,High School,1700,fast food,QA
-5883,18-24,Female,Expats,High School,3700,fast food,QA
-5884,25-44,Female,Expats,High School,9800,fast food,QA
-5885,45+,Female,Expats,High School,1100,fast food,QA
-5886,18-24,Male,Locals,Graduated,4900,fast food,QA
-5887,25-44,Male,Locals,Graduated,11000,fast food,QA
-5888,45+,Male,Locals,Graduated,670,fast food,QA
-5889,18-24,Female,Locals,Graduated,2100,fast food,QA
-5890,25-44,Female,Locals,Graduated,6700,fast food,QA
-5891,45+,Female,Locals,Graduated,400,fast food,QA
-5892,18-24,Male,Locals,No Degree,5800,fast food,QA
-5893,25-44,Male,Locals,No Degree,7400,fast food,QA
-5894,45+,Male,Locals,No Degree,1200,fast food,QA
-5895,18-24,Female,Locals,No Degree,1400,fast food,QA
-5896,25-44,Female,Locals,No Degree,2800,fast food,QA
-5897,45+,Female,Locals,No Degree,630,fast food,QA
-5898,18-24,Male,Locals,High School,1800,fast food,QA
-5899,25-44,Male,Locals,High School,2600,fast food,QA
-5900,45+,Male,Locals,High School,240,fast food,QA
-5901,18-24,Female,Locals,High School,1200,fast food,QA
-5902,25-44,Female,Locals,High School,1400,fast food,QA
-5903,45+,Female,Locals,High School,140,fast food,QA
-5904,18-24,Male,Expats,Graduated,89000,fast food,SA
-5905,25-44,Male,Expats,Graduated,550000,fast food,SA
-5906,45+,Male,Expats,Graduated,49000,fast food,SA
-5907,18-24,Female,Expats,Graduated,28000,fast food,SA
+5882,45+,Male,Expats,High School,1800,fast food,QA
+5883,18-24,Female,Expats,High School,3800,fast food,QA
+5884,25-44,Female,Expats,High School,9900,fast food,QA
+5885,45+,Female,Expats,High School,1200,fast food,QA
+5886,18-24,Male,Locals,Graduated,5100,fast food,QA
+5887,25-44,Male,Locals,Graduated,12000,fast food,QA
+5888,45+,Male,Locals,Graduated,830,fast food,QA
+5889,18-24,Female,Locals,Graduated,2300,fast food,QA
+5890,25-44,Female,Locals,Graduated,7200,fast food,QA
+5891,45+,Female,Locals,Graduated,460,fast food,QA
+5892,18-24,Male,Locals,No Degree,6200,fast food,QA
+5893,25-44,Male,Locals,No Degree,8400,fast food,QA
+5894,45+,Male,Locals,No Degree,1400,fast food,QA
+5895,18-24,Female,Locals,No Degree,1500,fast food,QA
+5896,25-44,Female,Locals,No Degree,3100,fast food,QA
+5897,45+,Female,Locals,No Degree,670,fast food,QA
+5898,18-24,Male,Locals,High School,1900,fast food,QA
+5899,25-44,Male,Locals,High School,2800,fast food,QA
+5900,45+,Male,Locals,High School,250,fast food,QA
+5901,18-24,Female,Locals,High School,1400,fast food,QA
+5902,25-44,Female,Locals,High School,1600,fast food,QA
+5903,45+,Female,Locals,High School,220,fast food,QA
+5904,18-24,Male,Expats,Graduated,83000,fast food,SA
+5905,25-44,Male,Expats,Graduated,540000,fast food,SA
+5906,45+,Male,Expats,Graduated,48000,fast food,SA
+5907,18-24,Female,Expats,Graduated,26000,fast food,SA
 5908,25-44,Female,Expats,Graduated,190000,fast food,SA
 5909,45+,Female,Expats,Graduated,24000,fast food,SA
-5910,18-24,Male,Expats,No Degree,24000,fast food,SA
-5911,25-44,Male,Expats,No Degree,87000,fast food,SA
+5910,18-24,Male,Expats,No Degree,23000,fast food,SA
+5911,25-44,Male,Expats,No Degree,84000,fast food,SA
 5912,45+,Male,Expats,No Degree,12000,fast food,SA
 5913,18-24,Female,Expats,No Degree,13000,fast food,SA
-5914,25-44,Female,Expats,No Degree,43000,fast food,SA
-5915,45+,Female,Expats,No Degree,9500,fast food,SA
-5916,18-24,Male,Expats,High School,33000,fast food,SA
+5914,25-44,Female,Expats,No Degree,42000,fast food,SA
+5915,45+,Female,Expats,No Degree,9400,fast food,SA
+5916,18-24,Male,Expats,High School,32000,fast food,SA
 5917,25-44,Male,Expats,High School,110000,fast food,SA
 5918,45+,Male,Expats,High School,12000,fast food,SA
 5919,18-24,Female,Expats,High School,19000,fast food,SA
-5920,25-44,Female,Expats,High School,49000,fast food,SA
+5920,25-44,Female,Expats,High School,48000,fast food,SA
 5921,45+,Female,Expats,High School,6800,fast food,SA
-5922,18-24,Male,Locals,Graduated,66000,fast food,SA
-5923,25-44,Male,Locals,Graduated,270000,fast food,SA
+5922,18-24,Male,Locals,Graduated,65000,fast food,SA
+5923,25-44,Male,Locals,Graduated,260000,fast food,SA
 5924,45+,Male,Locals,Graduated,24000,fast food,SA
 5925,18-24,Female,Locals,Graduated,28000,fast food,SA
 5926,25-44,Female,Locals,Graduated,110000,fast food,SA
 5927,45+,Female,Locals,Graduated,12000,fast food,SA
-5928,18-24,Male,Locals,No Degree,220000,fast food,SA
-5929,25-44,Male,Locals,No Degree,480000,fast food,SA
-5930,45+,Male,Locals,No Degree,62000,fast food,SA
-5931,18-24,Female,Locals,No Degree,69000,fast food,SA
+5928,18-24,Male,Locals,No Degree,210000,fast food,SA
+5929,25-44,Male,Locals,No Degree,470000,fast food,SA
+5930,45+,Male,Locals,No Degree,65000,fast food,SA
+5931,18-24,Female,Locals,No Degree,66000,fast food,SA
 5932,25-44,Female,Locals,No Degree,130000,fast food,SA
 5933,45+,Female,Locals,No Degree,27000,fast food,SA
-5934,18-24,Male,Locals,High School,36000,fast food,SA
+5934,18-24,Male,Locals,High School,35000,fast food,SA
 5935,25-44,Male,Locals,High School,85000,fast food,SA
-5936,45+,Male,Locals,High School,8400,fast food,SA
+5936,45+,Male,Locals,High School,8600,fast food,SA
 5937,18-24,Female,Locals,High School,23000,fast food,SA
 5938,25-44,Female,Locals,High School,32000,fast food,SA
 5939,45+,Female,Locals,High School,4000,fast food,SA
-5940,18-24,Male,Expats,Graduated,560,fast food,SO
-5941,25-44,Male,Expats,Graduated,690,fast food,SO
+5940,18-24,Male,Expats,Graduated,590,fast food,SO
+5941,25-44,Male,Expats,Graduated,750,fast food,SO
 5942,45+,Male,Expats,Graduated,20,fast food,SO
-5943,18-24,Female,Expats,Graduated,410,fast food,SO
-5944,25-44,Female,Expats,Graduated,170,fast food,SO
+5943,18-24,Female,Expats,Graduated,380,fast food,SO
+5944,25-44,Female,Expats,Graduated,180,fast food,SO
 5945,45+,Female,Expats,Graduated,20,fast food,SO
-5946,18-24,Male,Expats,No Degree,150,fast food,SO
-5947,25-44,Male,Expats,No Degree,200,fast food,SO
+5946,18-24,Male,Expats,No Degree,130,fast food,SO
+5947,25-44,Male,Expats,No Degree,250,fast food,SO
 5948,45+,Male,Expats,No Degree,20,fast food,SO
-5949,18-24,Female,Expats,No Degree,120,fast food,SO
-5950,25-44,Female,Expats,No Degree,120,fast food,SO
+5949,18-24,Female,Expats,No Degree,100,fast food,SO
+5950,25-44,Female,Expats,No Degree,160,fast food,SO
 5951,45+,Female,Expats,No Degree,20,fast food,SO
 5952,18-24,Male,Expats,High School,180,fast food,SO
 5953,25-44,Male,Expats,High School,120,fast food,SO
 5954,45+,Male,Expats,High School,20,fast food,SO
-5955,18-24,Female,Expats,High School,160,fast food,SO
-5956,25-44,Female,Expats,High School,40,fast food,SO
+5955,18-24,Female,Expats,High School,180,fast food,SO
+5956,25-44,Female,Expats,High School,60,fast food,SO
 5957,45+,Female,Expats,High School,20,fast food,SO
 5958,18-24,Male,Locals,Graduated,1600,fast food,SO
-5959,25-44,Male,Locals,Graduated,1500,fast food,SO
+5959,25-44,Male,Locals,Graduated,1600,fast food,SO
 5960,45+,Male,Locals,Graduated,70,fast food,SO
-5961,18-24,Female,Locals,Graduated,1300,fast food,SO
-5962,25-44,Female,Locals,Graduated,630,fast food,SO
-5963,45+,Female,Locals,Graduated,50,fast food,SO
-5964,18-24,Male,Locals,No Degree,1200,fast food,SO
-5965,25-44,Male,Locals,No Degree,840,fast food,SO
-5966,45+,Male,Locals,No Degree,70,fast food,SO
+5961,18-24,Female,Locals,Graduated,1400,fast food,SO
+5962,25-44,Female,Locals,Graduated,660,fast food,SO
+5963,45+,Female,Locals,Graduated,60,fast food,SO
+5964,18-24,Male,Locals,No Degree,1300,fast food,SO
+5965,25-44,Male,Locals,No Degree,960,fast food,SO
+5966,45+,Male,Locals,No Degree,80,fast food,SO
 5967,18-24,Female,Locals,No Degree,2000,fast food,SO
-5968,25-44,Female,Locals,No Degree,630,fast food,SO
-5969,45+,Female,Locals,No Degree,20,fast food,SO
+5968,25-44,Female,Locals,No Degree,690,fast food,SO
+5969,45+,Female,Locals,No Degree,30,fast food,SO
 5970,18-24,Male,Locals,High School,610,fast food,SO
-5971,25-44,Male,Locals,High School,300,fast food,SO
+5971,25-44,Male,Locals,High School,320,fast food,SO
 5972,45+,Male,Locals,High School,20,fast food,SO
-5973,18-24,Female,Locals,High School,640,fast food,SO
-5974,25-44,Female,Locals,High School,100,fast food,SO
+5973,18-24,Female,Locals,High School,700,fast food,SO
+5974,25-44,Female,Locals,High School,90,fast food,SO
 5975,45+,Female,Locals,High School,40,fast food,SO
-5976,18-24,Male,Expats,Graduated,5800,fast food,TN
+5976,18-24,Male,Expats,Graduated,6000,fast food,TN
 5977,25-44,Male,Expats,Graduated,6700,fast food,TN
-5978,45+,Male,Expats,Graduated,1300,fast food,TN
+5978,45+,Male,Expats,Graduated,1200,fast food,TN
 5979,18-24,Female,Expats,Graduated,4300,fast food,TN
-5980,25-44,Female,Expats,Graduated,5000,fast food,TN
-5981,45+,Female,Expats,Graduated,980,fast food,TN
+5980,25-44,Female,Expats,Graduated,5300,fast food,TN
+5981,45+,Female,Expats,Graduated,1000,fast food,TN
 5982,18-24,Male,Expats,No Degree,2500,fast food,TN
 5983,25-44,Male,Expats,No Degree,2700,fast food,TN
 5984,45+,Male,Expats,No Degree,720,fast food,TN
 5985,18-24,Female,Expats,No Degree,1900,fast food,TN
-5986,25-44,Female,Expats,No Degree,2600,fast food,TN
-5987,45+,Female,Expats,No Degree,840,fast food,TN
+5986,25-44,Female,Expats,No Degree,2700,fast food,TN
+5987,45+,Female,Expats,No Degree,900,fast food,TN
 5988,18-24,Male,Expats,High School,2700,fast food,TN
 5989,25-44,Male,Expats,High School,1700,fast food,TN
-5990,45+,Male,Expats,High School,450,fast food,TN
+5990,45+,Male,Expats,High School,420,fast food,TN
 5991,18-24,Female,Expats,High School,2300,fast food,TN
-5992,25-44,Female,Expats,High School,1300,fast food,TN
-5993,45+,Female,Expats,High School,360,fast food,TN
+5992,25-44,Female,Expats,High School,1500,fast food,TN
+5993,45+,Female,Expats,High School,390,fast food,TN
 5994,18-24,Male,Locals,Graduated,33000,fast food,TN
 5995,25-44,Male,Locals,Graduated,62000,fast food,TN
-5996,45+,Male,Locals,Graduated,9600,fast food,TN
+5996,45+,Male,Locals,Graduated,9800,fast food,TN
 5997,18-24,Female,Locals,Graduated,55000,fast food,TN
-5998,25-44,Female,Locals,Graduated,91000,fast food,TN
-5999,45+,Female,Locals,Graduated,9900,fast food,TN
-6000,18-24,Male,Locals,No Degree,23000,fast food,TN
+5998,25-44,Female,Locals,Graduated,94000,fast food,TN
+5999,45+,Female,Locals,Graduated,10000,fast food,TN
+6000,18-24,Male,Locals,No Degree,22000,fast food,TN
 6001,25-44,Male,Locals,No Degree,38000,fast food,TN
 6002,45+,Male,Locals,No Degree,11000,fast food,TN
 6003,18-24,Female,Locals,No Degree,38000,fast food,TN
-6004,25-44,Female,Locals,No Degree,51000,fast food,TN
-6005,45+,Female,Locals,No Degree,13000,fast food,TN
+6004,25-44,Female,Locals,No Degree,53000,fast food,TN
+6005,45+,Female,Locals,No Degree,14000,fast food,TN
 6006,18-24,Male,Locals,High School,17000,fast food,TN
 6007,25-44,Male,Locals,High School,17000,fast food,TN
-6008,45+,Male,Locals,High School,4500,fast food,TN
+6008,45+,Male,Locals,High School,4600,fast food,TN
 6009,18-24,Female,Locals,High School,33000,fast food,TN
-6010,25-44,Female,Locals,High School,22000,fast food,TN
-6011,45+,Female,Locals,High School,5200,fast food,TN
-6012,18-24,Male,Expats,Graduated,95000,fast food,AE
-6013,25-44,Male,Expats,Graduated,440000,fast food,AE
+6010,25-44,Female,Locals,High School,23000,fast food,TN
+6011,45+,Female,Locals,High School,5400,fast food,TN
+6012,18-24,Male,Expats,Graduated,92000,fast food,AE
+6013,25-44,Male,Expats,Graduated,430000,fast food,AE
 6014,45+,Male,Expats,Graduated,32000,fast food,AE
-6015,18-24,Female,Expats,Graduated,37000,fast food,AE
+6015,18-24,Female,Expats,Graduated,36000,fast food,AE
 6016,25-44,Female,Expats,Graduated,270000,fast food,AE
 6017,45+,Female,Expats,Graduated,28000,fast food,AE
-6018,18-24,Male,Expats,No Degree,74000,fast food,AE
-6019,25-44,Male,Expats,No Degree,180000,fast food,AE
+6018,18-24,Male,Expats,No Degree,71000,fast food,AE
+6019,25-44,Male,Expats,No Degree,170000,fast food,AE
 6020,45+,Male,Expats,No Degree,22000,fast food,AE
-6021,18-24,Female,Expats,No Degree,22000,fast food,AE
-6022,25-44,Female,Expats,No Degree,81000,fast food,AE
+6021,18-24,Female,Expats,No Degree,21000,fast food,AE
+6022,25-44,Female,Expats,No Degree,80000,fast food,AE
 6023,45+,Female,Expats,No Degree,19000,fast food,AE
-6024,18-24,Male,Expats,High School,38000,fast food,AE
-6025,25-44,Male,Expats,High School,92000,fast food,AE
-6026,45+,Male,Expats,High School,9300,fast food,AE
-6027,18-24,Female,Expats,High School,21000,fast food,AE
-6028,25-44,Female,Expats,High School,54000,fast food,AE
-6029,45+,Female,Expats,High School,8400,fast food,AE
-6030,18-24,Male,Locals,Graduated,18000,fast food,AE
-6031,25-44,Male,Locals,Graduated,40000,fast food,AE
-6032,45+,Male,Locals,Graduated,2500,fast food,AE
-6033,18-24,Female,Locals,Graduated,7600,fast food,AE
-6034,25-44,Female,Locals,Graduated,20000,fast food,AE
-6035,45+,Female,Locals,Graduated,2400,fast food,AE
-6036,18-24,Male,Locals,No Degree,21000,fast food,AE
+6024,18-24,Male,Expats,High School,37000,fast food,AE
+6025,25-44,Male,Expats,High School,89000,fast food,AE
+6026,45+,Male,Expats,High School,9000,fast food,AE
+6027,18-24,Female,Expats,High School,22000,fast food,AE
+6028,25-44,Female,Expats,High School,53000,fast food,AE
+6029,45+,Female,Expats,High School,8600,fast food,AE
+6030,18-24,Male,Locals,Graduated,19000,fast food,AE
+6031,25-44,Male,Locals,Graduated,41000,fast food,AE
+6032,45+,Male,Locals,Graduated,2600,fast food,AE
+6033,18-24,Female,Locals,Graduated,7900,fast food,AE
+6034,25-44,Female,Locals,Graduated,22000,fast food,AE
+6035,45+,Female,Locals,Graduated,2500,fast food,AE
+6036,18-24,Male,Locals,No Degree,22000,fast food,AE
 6037,25-44,Male,Locals,No Degree,30000,fast food,AE
-6038,45+,Male,Locals,No Degree,3300,fast food,AE
-6039,18-24,Female,Locals,No Degree,6100,fast food,AE
+6038,45+,Male,Locals,No Degree,3500,fast food,AE
+6039,18-24,Female,Locals,No Degree,6200,fast food,AE
 6040,25-44,Female,Locals,No Degree,11000,fast food,AE
-6041,45+,Female,Locals,No Degree,2900,fast food,AE
-6042,18-24,Male,Locals,High School,7700,fast food,AE
-6043,25-44,Male,Locals,High School,8900,fast food,AE
-6044,45+,Male,Locals,High School,740,fast food,AE
-6045,18-24,Female,Locals,High School,4300,fast food,AE
-6046,25-44,Female,Locals,High School,4600,fast food,AE
-6047,45+,Female,Locals,High School,910,fast food,AE
+6041,45+,Female,Locals,No Degree,3000,fast food,AE
+6042,18-24,Male,Locals,High School,7800,fast food,AE
+6043,25-44,Male,Locals,High School,9400,fast food,AE
+6044,45+,Male,Locals,High School,770,fast food,AE
+6045,18-24,Female,Locals,High School,4400,fast food,AE
+6046,25-44,Female,Locals,High School,5000,fast food,AE
+6047,45+,Female,Locals,High School,960,fast food,AE
 6048,18-24,Male,Expats,Graduated,1300,fast food,YE
-6049,25-44,Male,Expats,Graduated,2500,fast food,YE
-6050,45+,Male,Expats,Graduated,190,fast food,YE
-6051,18-24,Female,Expats,Graduated,410,fast food,YE
-6052,25-44,Female,Expats,Graduated,700,fast food,YE
+6049,25-44,Male,Expats,Graduated,2400,fast food,YE
+6050,45+,Male,Expats,Graduated,180,fast food,YE
+6051,18-24,Female,Expats,Graduated,400,fast food,YE
+6052,25-44,Female,Expats,Graduated,710,fast food,YE
 6053,45+,Female,Expats,Graduated,90,fast food,YE
-6054,18-24,Male,Expats,No Degree,450,fast food,YE
-6055,25-44,Male,Expats,No Degree,530,fast food,YE
-6056,45+,Male,Expats,No Degree,30,fast food,YE
+6054,18-24,Male,Expats,No Degree,430,fast food,YE
+6055,25-44,Male,Expats,No Degree,460,fast food,YE
+6056,45+,Male,Expats,No Degree,40,fast food,YE
 6057,18-24,Female,Expats,No Degree,200,fast food,YE
-6058,25-44,Female,Expats,No Degree,280,fast food,YE
-6059,45+,Female,Expats,No Degree,100,fast food,YE
-6060,18-24,Male,Expats,High School,660,fast food,YE
-6061,25-44,Male,Expats,High School,530,fast food,YE
+6058,25-44,Female,Expats,No Degree,300,fast food,YE
+6059,45+,Female,Expats,No Degree,110,fast food,YE
+6060,18-24,Male,Expats,High School,690,fast food,YE
+6061,25-44,Male,Expats,High School,540,fast food,YE
 6062,45+,Male,Expats,High School,50,fast food,YE
-6063,18-24,Female,Expats,High School,400,fast food,YE
-6064,25-44,Female,Expats,High School,250,fast food,YE
+6063,18-24,Female,Expats,High School,390,fast food,YE
+6064,25-44,Female,Expats,High School,210,fast food,YE
 6065,45+,Female,Expats,High School,20,fast food,YE
-6066,18-24,Male,Locals,Graduated,9600,fast food,YE
-6067,25-44,Male,Locals,Graduated,19000,fast food,YE
-6068,45+,Male,Locals,Graduated,1700,fast food,YE
+6066,18-24,Male,Locals,Graduated,9200,fast food,YE
+6067,25-44,Male,Locals,Graduated,18000,fast food,YE
+6068,45+,Male,Locals,Graduated,1600,fast food,YE
 6069,18-24,Female,Locals,Graduated,2900,fast food,YE
-6070,25-44,Female,Locals,Graduated,5300,fast food,YE
-6071,45+,Female,Locals,Graduated,340,fast food,YE
+6070,25-44,Female,Locals,Graduated,5400,fast food,YE
+6071,45+,Female,Locals,Graduated,350,fast food,YE
 6072,18-24,Male,Locals,No Degree,7600,fast food,YE
 6073,25-44,Male,Locals,No Degree,11000,fast food,YE
 6074,45+,Male,Locals,No Degree,1700,fast food,YE
-6075,18-24,Female,Locals,No Degree,2300,fast food,YE
+6075,18-24,Female,Locals,No Degree,2200,fast food,YE
 6076,25-44,Female,Locals,No Degree,2400,fast food,YE
-6077,45+,Female,Locals,No Degree,430,fast food,YE
-6078,18-24,Male,Locals,High School,6600,fast food,YE
-6079,25-44,Male,Locals,High School,5200,fast food,YE
-6080,45+,Male,Locals,High School,550,fast food,YE
+6077,45+,Female,Locals,No Degree,410,fast food,YE
+6078,18-24,Male,Locals,High School,6400,fast food,YE
+6079,25-44,Male,Locals,High School,5000,fast food,YE
+6080,45+,Male,Locals,High School,540,fast food,YE
 6081,18-24,Female,Locals,High School,3500,fast food,YE
 6082,25-44,Female,Locals,High School,1400,fast food,YE
-6083,45+,Female,Locals,High School,110,fast food,YE
-6084,18-24,Male,Expats,Graduated,3900,fast food,PS
-6085,25-44,Male,Expats,Graduated,5400,fast food,PS
-6086,45+,Male,Expats,Graduated,470,fast food,PS
+6083,45+,Female,Locals,High School,100,fast food,YE
+6084,18-24,Male,Expats,Graduated,4000,fast food,PS
+6085,25-44,Male,Expats,Graduated,5600,fast food,PS
+6086,45+,Male,Expats,Graduated,530,fast food,PS
 6087,18-24,Female,Expats,Graduated,3700,fast food,PS
-6088,25-44,Female,Expats,Graduated,6000,fast food,PS
-6089,45+,Female,Expats,Graduated,630,fast food,PS
-6090,18-24,Male,Expats,No Degree,990,fast food,PS
-6091,25-44,Male,Expats,No Degree,1200,fast food,PS
-6092,45+,Male,Expats,No Degree,200,fast food,PS
+6088,25-44,Female,Expats,Graduated,6300,fast food,PS
+6089,45+,Female,Expats,Graduated,720,fast food,PS
+6090,18-24,Male,Expats,No Degree,1100,fast food,PS
+6091,25-44,Male,Expats,No Degree,1300,fast food,PS
+6092,45+,Male,Expats,No Degree,260,fast food,PS
 6093,18-24,Female,Expats,No Degree,1100,fast food,PS
 6094,25-44,Female,Expats,No Degree,1900,fast food,PS
-6095,45+,Female,Expats,No Degree,650,fast food,PS
-6096,18-24,Male,Expats,High School,2300,fast food,PS
+6095,45+,Female,Expats,No Degree,770,fast food,PS
+6096,18-24,Male,Expats,High School,2200,fast food,PS
 6097,25-44,Male,Expats,High School,1200,fast food,PS
 6098,45+,Male,Expats,High School,180,fast food,PS
 6099,18-24,Female,Expats,High School,3400,fast food,PS
 6100,25-44,Female,Expats,High School,1700,fast food,PS
-6101,45+,Female,Expats,High School,270,fast food,PS
+6101,45+,Female,Expats,High School,340,fast food,PS
 6102,18-24,Male,Locals,Graduated,12000,fast food,PS
-6103,25-44,Male,Locals,Graduated,19000,fast food,PS
-6104,45+,Male,Locals,Graduated,1800,fast food,PS
+6103,25-44,Male,Locals,Graduated,20000,fast food,PS
+6104,45+,Male,Locals,Graduated,2000,fast food,PS
 6105,18-24,Female,Locals,Graduated,14000,fast food,PS
 6106,25-44,Female,Locals,Graduated,22000,fast food,PS
-6107,45+,Female,Locals,Graduated,1900,fast food,PS
-6108,18-24,Male,Locals,No Degree,4900,fast food,PS
-6109,25-44,Male,Locals,No Degree,6100,fast food,PS
-6110,45+,Male,Locals,No Degree,1400,fast food,PS
-6111,18-24,Female,Locals,No Degree,5900,fast food,PS
-6112,25-44,Female,Locals,No Degree,9700,fast food,PS
-6113,45+,Female,Locals,No Degree,2700,fast food,PS
-6114,18-24,Male,Locals,High School,8100,fast food,PS
-6115,25-44,Male,Locals,High School,4200,fast food,PS
-6116,45+,Male,Locals,High School,570,fast food,PS
+6107,45+,Female,Locals,Graduated,2000,fast food,PS
+6108,18-24,Male,Locals,No Degree,5100,fast food,PS
+6109,25-44,Male,Locals,No Degree,6500,fast food,PS
+6110,45+,Male,Locals,No Degree,1600,fast food,PS
+6111,18-24,Female,Locals,No Degree,6000,fast food,PS
+6112,25-44,Female,Locals,No Degree,9900,fast food,PS
+6113,45+,Female,Locals,No Degree,3000,fast food,PS
+6114,18-24,Male,Locals,High School,8200,fast food,PS
+6115,25-44,Male,Locals,High School,4400,fast food,PS
+6116,45+,Male,Locals,High School,610,fast food,PS
 6117,18-24,Female,Locals,High School,12000,fast food,PS
-6118,25-44,Female,Locals,High School,5500,fast food,PS
-6119,45+,Female,Locals,High School,880,fast food,PS
+6118,25-44,Female,Locals,High School,5900,fast food,PS
+6119,45+,Female,Locals,High School,840,fast food,PS
