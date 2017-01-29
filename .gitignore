@@ -14,3 +14,4 @@ coverage/
 /data/update/data.csv
 data/update/postProcessDataToVisualization.pyc
 /data/update/
+/data/current_data/
