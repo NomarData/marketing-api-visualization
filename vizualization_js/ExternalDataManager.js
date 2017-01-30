@@ -128,17 +128,9 @@
 
         };
 
-        this.loadHistoryFile = function () {
-            currentInstance.getHistoricMapDataPromise().done(function(d){
-                let lastUpdateDate = d.history[d.history.length -1].date
-                console.log("Last Update: " + lastUpdateDate);
-                $("#lastUpdateText").text(lastUpdateDate);
-            });
-        }
+
 
         this.init = function(){
-            currentInstance.loadHistoryFile()
-
         };
         this.init();
     }

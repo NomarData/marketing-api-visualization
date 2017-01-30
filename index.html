@@ -57,7 +57,7 @@
                 Based on <a href="https://www.facebook.com/business/products/ads" class="facebookHighlight">Facebook Marketing API </a> data
             </div>
             <div>
-                <i><small>Last Update: <span id="lastUpdateText"></span></small></i>
+                <i><small>Last Update: <span id="lastUpdateText"></span></small><if-he></if-he></i>
             </div>
         </div>
         <div class="row">
@@ -275,7 +275,7 @@
                         <div id="unSelectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
                             No countries
                         </div>
-                        <div class="span6 text-center socialLinks">
+                        <div class="span3 text-center socialLinks">
                             <div>
                                 <p>Share what you see:</p>
                             </div>
@@ -284,6 +284,17 @@
                                 <li><a id="twitterShareLink" href="https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK" target="_blank" title="Tweet"><img alt="Tweet" src="imgs/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
                                 <li><a id="emailShareLink" href="mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK" target="_blank" title="Send email"><img alt="Send email" src="imgs/social_flat_rounded_rects_svg/Email.svg"></a></li>
                             </ul>
+                        </div>
+                        <div class="span3 text-center socialLinks">
+                            <div>
+                                <div style="margin-bottom: -10px">
+                                    <p>Date</p>
+                                </div>
+
+                                <select name="selectDownloadDate" id="selectDownloadDate" onchange="historyDataSelector.clickOnDate(value);">
+                                </select>
+                            </div>
+
                         </div>
                     </div>
             </div>
@@ -312,6 +323,7 @@
     <script src="vizualization_js/arabLeagueMap.js"></script>
     <script src="vizualization_js/inclinationScore.js"></script>
     <script src="vizualization_js/treemapManager.js"></script>
+    <script src="vizualization_js/HistoryDataSelectors.js"></script>
     <script src="vizualization_js/btnsTopicsSelectors.js"></script>
     <script src="vizualization_js/main.js"></script>
 <script>

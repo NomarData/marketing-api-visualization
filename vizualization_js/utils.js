@@ -28,10 +28,10 @@ function buildAndInitVisualComponents(){
     arabMap = new arabLeagueDatamap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
+    historyDataSelector = new HistoryDataSelector();
     console.log("Builded visual components");
     sharebleLink.init();
 }
-
 
 function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
