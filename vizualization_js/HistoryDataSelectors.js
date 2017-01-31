@@ -23,7 +23,7 @@ function HistoryDataSelector(){
         var optionElement = $("#selectDownloadDate option")[optionIndex];
         var option$ = $(optionElement);
         var newPath = option$.data("path");
-        CURRENT_DATA_PATH = "./data/" + newPath + "/";
+        CURRENT_DATA_PATH = ROOT_DATA_PATH + newPath + "/";
         dataManager.updateDatasetAndGetPromise();
     }
 

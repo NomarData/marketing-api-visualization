@@ -1,7 +1,8 @@
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
-CURRENT_DATA_PATH = "data/current_data/";
-HISTORY_MAP_FILE_PATH =  "data/historic_data/history_map.csv";
+ROOT_DATA_PATH = "data/";
+CURRENT_DATA_PATH = ROOT_DATA_PATH + "current_data/";
+HISTORY_MAP_FILE_PATH =  ROOT_DATA_PATH  + "historic_data/history_map.csv";
 
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
 colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
