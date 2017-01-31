@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+2448,18-24,Male,Expats,Graduated,86000,physical activity,DZ
+2449,25-44,Male,Expats,Graduated,70000,physical activity,DZ
+2450,45+,Male,Expats,Graduated,7800,physical activity,DZ
+2451,18-24,Female,Expats,Graduated,18000,physical activity,DZ
+2452,25-44,Female,Expats,Graduated,14000,physical activity,DZ
+2453,45+,Female,Expats,Graduated,2500,physical activity,DZ
+2454,18-24,Male,Expats,No Degree,35000,physical activity,DZ
+2455,25-44,Male,Expats,No Degree,40000,physical activity,DZ
+2456,45+,Male,Expats,No Degree,6300,physical activity,DZ
+2457,18-24,Female,Expats,No Degree,9700,physical activity,DZ
+2458,25-44,Female,Expats,No Degree,11000,physical activity,DZ
+2459,45+,Female,Expats,No Degree,2400,physical activity,DZ
+2460,18-24,Male,Expats,High School,32000,physical activity,DZ
+2461,25-44,Male,Expats,High School,15000,physical activity,DZ
+2462,45+,Male,Expats,High School,2500,physical activity,DZ
+2463,18-24,Female,Expats,High School,8400,physical activity,DZ
+2464,25-44,Female,Expats,High School,3200,physical activity,DZ
+2465,45+,Female,Expats,High School,1000,physical activity,DZ
+2466,18-24,Male,Locals,Graduated,370000,physical activity,DZ
+2467,25-44,Male,Locals,Graduated,470000,physical activity,DZ
+2468,45+,Male,Locals,Graduated,43000,physical activity,DZ
+2469,18-24,Female,Locals,Graduated,160000,physical activity,DZ
+2470,25-44,Female,Locals,Graduated,190000,physical activity,DZ
+2471,45+,Female,Locals,Graduated,18000,physical activity,DZ
+2472,18-24,Male,Locals,No Degree,360000,physical activity,DZ
+2473,25-44,Male,Locals,No Degree,470000,physical activity,DZ
+2474,45+,Male,Locals,No Degree,59000,physical activity,DZ
+2475,18-24,Female,Locals,No Degree,160000,physical activity,DZ
+2476,25-44,Female,Locals,No Degree,170000,physical activity,DZ
+2477,45+,Female,Locals,No Degree,30000,physical activity,DZ
+2478,18-24,Male,Locals,High School,170000,physical activity,DZ
+2479,25-44,Male,Locals,High School,130000,physical activity,DZ
+2480,45+,Male,Locals,High School,15000,physical activity,DZ
+2481,18-24,Female,Locals,High School,85000,physical activity,DZ
+2482,25-44,Female,Locals,High School,44000,physical activity,DZ
+2483,45+,Female,Locals,High School,8100,physical activity,DZ
+2484,18-24,Male,Expats,Graduated,9400,physical activity,BH
+2485,25-44,Male,Expats,Graduated,42000,physical activity,BH
+2486,45+,Male,Expats,Graduated,4400,physical activity,BH
+2487,18-24,Female,Expats,Graduated,2100,physical activity,BH
+2488,25-44,Female,Expats,Graduated,21000,physical activity,BH
+2489,45+,Female,Expats,Graduated,3600,physical activity,BH
+2490,18-24,Male,Expats,No Degree,8800,physical activity,BH
+2491,25-44,Male,Expats,No Degree,30000,physical activity,BH
+2492,45+,Male,Expats,No Degree,4200,physical activity,BH
+2493,18-24,Female,Expats,No Degree,2000,physical activity,BH
+2494,25-44,Female,Expats,No Degree,9000,physical activity,BH
+2495,45+,Female,Expats,No Degree,2300,physical activity,BH
+2496,18-24,Male,Expats,High School,3900,physical activity,BH
+2497,25-44,Male,Expats,High School,11000,physical activity,BH
+2498,45+,Male,Expats,High School,1400,physical activity,BH
+2499,18-24,Female,Expats,High School,1500,physical activity,BH
+2500,25-44,Female,Expats,High School,5300,physical activity,BH
+2501,45+,Female,Expats,High School,1200,physical activity,BH
+2502,18-24,Male,Locals,Graduated,4300,physical activity,BH
+2503,25-44,Male,Locals,Graduated,10000,physical activity,BH
+2504,45+,Male,Locals,Graduated,1100,physical activity,BH
+2505,18-24,Female,Locals,Graduated,1500,physical activity,BH
+2506,25-44,Female,Locals,Graduated,6300,physical activity,BH
+2507,45+,Female,Locals,Graduated,650,physical activity,BH
+2508,18-24,Male,Locals,No Degree,4900,physical activity,BH
+2509,25-44,Male,Locals,No Degree,9400,physical activity,BH
+2510,45+,Male,Locals,No Degree,1600,physical activity,BH
+2511,18-24,Female,Locals,No Degree,2200,physical activity,BH
+2512,25-44,Female,Locals,No Degree,4700,physical activity,BH
+2513,45+,Female,Locals,No Degree,660,physical activity,BH
+2514,18-24,Male,Locals,High School,2300,physical activity,BH
+2515,25-44,Male,Locals,High School,3000,physical activity,BH
+2516,45+,Male,Locals,High School,330,physical activity,BH
+2517,18-24,Female,Locals,High School,1400,physical activity,BH
+2518,25-44,Female,Locals,High School,1500,physical activity,BH
+2519,45+,Female,Locals,High School,110,physical activity,BH
+2520,18-24,Male,Expats,Graduated,52000,physical activity,EG
+2521,25-44,Male,Expats,Graduated,89000,physical activity,EG
+2522,45+,Male,Expats,Graduated,13000,physical activity,EG
+2523,18-24,Female,Expats,Graduated,22000,physical activity,EG
+2524,25-44,Female,Expats,Graduated,44000,physical activity,EG
+2525,45+,Female,Expats,Graduated,7100,physical activity,EG
+2526,18-24,Male,Expats,No Degree,17000,physical activity,EG
+2527,25-44,Male,Expats,No Degree,26000,physical activity,EG
+2528,45+,Male,Expats,No Degree,6000,physical activity,EG
+2529,18-24,Female,Expats,No Degree,7900,physical activity,EG
+2530,25-44,Female,Expats,No Degree,14000,physical activity,EG
+2531,45+,Female,Expats,No Degree,5300,physical activity,EG
+2532,18-24,Male,Expats,High School,33000,physical activity,EG
+2533,25-44,Male,Expats,High School,19000,physical activity,EG
+2534,45+,Male,Expats,High School,2800,physical activity,EG
+2535,18-24,Female,Expats,High School,19000,physical activity,EG
+2536,25-44,Female,Expats,High School,9700,physical activity,EG
+2537,45+,Female,Expats,High School,1900,physical activity,EG
+2538,18-24,Male,Locals,Graduated,1000000,physical activity,EG
+2539,25-44,Male,Locals,Graduated,1500000,physical activity,EG
+2540,45+,Male,Locals,Graduated,180000,physical activity,EG
+2541,18-24,Female,Locals,Graduated,670000,physical activity,EG
+2542,25-44,Female,Locals,Graduated,1000000,physical activity,EG
+2543,45+,Female,Locals,Graduated,120000,physical activity,EG
+2544,18-24,Male,Locals,No Degree,490000,physical activity,EG
+2545,25-44,Male,Locals,No Degree,640000,physical activity,EG
+2546,45+,Male,Locals,No Degree,170000,physical activity,EG
+2547,18-24,Female,Locals,No Degree,290000,physical activity,EG
+2548,25-44,Female,Locals,No Degree,460000,physical activity,EG
+2549,45+,Female,Locals,No Degree,150000,physical activity,EG
+2550,18-24,Male,Locals,High School,660000,physical activity,EG
+2551,25-44,Male,Locals,High School,300000,physical activity,EG
+2552,45+,Male,Locals,High School,46000,physical activity,EG
+2553,18-24,Female,Locals,High School,480000,physical activity,EG
+2554,25-44,Female,Locals,High School,170000,physical activity,EG
+2555,45+,Female,Locals,High School,28000,physical activity,EG
+2556,18-24,Male,Expats,Graduated,32000,physical activity,IQ
+2557,25-44,Male,Expats,Graduated,61000,physical activity,IQ
+2558,45+,Male,Expats,Graduated,6700,physical activity,IQ
+2559,18-24,Female,Expats,Graduated,4400,physical activity,IQ
+2560,25-44,Female,Expats,Graduated,11000,physical activity,IQ
+2561,45+,Female,Expats,Graduated,1600,physical activity,IQ
+2562,18-24,Male,Expats,No Degree,18000,physical activity,IQ
+2563,25-44,Male,Expats,No Degree,25000,physical activity,IQ
+2564,45+,Male,Expats,No Degree,4200,physical activity,IQ
+2565,18-24,Female,Expats,No Degree,4400,physical activity,IQ
+2566,25-44,Female,Expats,No Degree,6600,physical activity,IQ
+2567,45+,Female,Expats,No Degree,1700,physical activity,IQ
+2568,18-24,Male,Expats,High School,18000,physical activity,IQ
+2569,25-44,Male,Expats,High School,17000,physical activity,IQ
+2570,45+,Male,Expats,High School,2000,physical activity,IQ
+2571,18-24,Female,Expats,High School,4100,physical activity,IQ
+2572,25-44,Female,Expats,High School,3300,physical activity,IQ
+2573,45+,Female,Expats,High School,590,physical activity,IQ
+2574,18-24,Male,Locals,Graduated,330000,physical activity,IQ
+2575,25-44,Male,Locals,Graduated,650000,physical activity,IQ
+2576,45+,Male,Locals,Graduated,65000,physical activity,IQ
+2577,18-24,Female,Locals,Graduated,68000,physical activity,IQ
+2578,25-44,Female,Locals,Graduated,150000,physical activity,IQ
+2579,45+,Female,Locals,Graduated,21000,physical activity,IQ
+2580,18-24,Male,Locals,No Degree,400000,physical activity,IQ
+2581,25-44,Male,Locals,No Degree,500000,physical activity,IQ
+2582,45+,Male,Locals,No Degree,89000,physical activity,IQ
+2583,18-24,Female,Locals,No Degree,90000,physical activity,IQ
+2584,25-44,Female,Locals,No Degree,150000,physical activity,IQ
+2585,45+,Female,Locals,No Degree,38000,physical activity,IQ
+2586,18-24,Male,Locals,High School,230000,physical activity,IQ
+2587,25-44,Male,Locals,High School,190000,physical activity,IQ
+2588,45+,Male,Locals,High School,22000,physical activity,IQ
+2589,18-24,Female,Locals,High School,67000,physical activity,IQ
+2590,25-44,Female,Locals,High School,47000,physical activity,IQ
+2591,45+,Female,Locals,High School,7200,physical activity,IQ
+2592,18-24,Male,Expats,Graduated,30000,physical activity,JO
+2593,25-44,Male,Expats,Graduated,59000,physical activity,JO
+2594,45+,Male,Expats,Graduated,7300,physical activity,JO
+2595,18-24,Female,Expats,Graduated,18000,physical activity,JO
+2596,25-44,Female,Expats,Graduated,45000,physical activity,JO
+2597,45+,Female,Expats,Graduated,8100,physical activity,JO
+2598,18-24,Male,Expats,No Degree,25000,physical activity,JO
+2599,25-44,Male,Expats,No Degree,37000,physical activity,JO
+2600,45+,Male,Expats,No Degree,6600,physical activity,JO
+2601,18-24,Female,Expats,No Degree,10000,physical activity,JO
+2602,25-44,Female,Expats,No Degree,24000,physical activity,JO
+2603,45+,Female,Expats,No Degree,9500,physical activity,JO
+2604,18-24,Male,Expats,High School,27000,physical activity,JO
+2605,25-44,Male,Expats,High School,17000,physical activity,JO
+2606,45+,Male,Expats,High School,2000,physical activity,JO
+2607,18-24,Female,Expats,High School,22000,physical activity,JO
+2608,25-44,Female,Expats,High School,13000,physical activity,JO
+2609,45+,Female,Expats,High School,3200,physical activity,JO
+2610,18-24,Male,Locals,Graduated,110000,physical activity,JO
+2611,25-44,Male,Locals,Graduated,180000,physical activity,JO
+2612,45+,Male,Locals,Graduated,23000,physical activity,JO
+2613,18-24,Female,Locals,Graduated,63000,physical activity,JO
+2614,25-44,Female,Locals,Graduated,150000,physical activity,JO
+2615,45+,Female,Locals,Graduated,18000,physical activity,JO
+2616,18-24,Male,Locals,No Degree,95000,physical activity,JO
+2617,25-44,Male,Locals,No Degree,110000,physical activity,JO
+2618,45+,Male,Locals,No Degree,30000,physical activity,JO
+2619,18-24,Female,Locals,No Degree,54000,physical activity,JO
+2620,25-44,Female,Locals,No Degree,110000,physical activity,JO
+2621,45+,Female,Locals,No Degree,33000,physical activity,JO
+2622,18-24,Male,Locals,High School,90000,physical activity,JO
+2623,25-44,Male,Locals,High School,54000,physical activity,JO
+2624,45+,Male,Locals,High School,8900,physical activity,JO
+2625,18-24,Female,Locals,High School,71000,physical activity,JO
+2626,25-44,Female,Locals,High School,43000,physical activity,JO
+2627,45+,Female,Locals,High School,7300,physical activity,JO
+2628,18-24,Male,Expats,Graduated,15000,physical activity,KW
+2629,25-44,Male,Expats,Graduated,120000,physical activity,KW
+2630,45+,Male,Expats,Graduated,13000,physical activity,KW
+2631,18-24,Female,Expats,Graduated,5100,physical activity,KW
+2632,25-44,Female,Expats,Graduated,65000,physical activity,KW
+2633,45+,Female,Expats,Graduated,8300,physical activity,KW
+2634,18-24,Male,Expats,No Degree,21000,physical activity,KW
+2635,25-44,Male,Expats,No Degree,81000,physical activity,KW
+2636,45+,Male,Expats,No Degree,15000,physical activity,KW
+2637,18-24,Female,Expats,No Degree,6500,physical activity,KW
+2638,25-44,Female,Expats,No Degree,35000,physical activity,KW
+2639,45+,Female,Expats,No Degree,6700,physical activity,KW
+2640,18-24,Male,Expats,High School,7600,physical activity,KW
+2641,25-44,Male,Expats,High School,32000,physical activity,KW
+2642,45+,Male,Expats,High School,3900,physical activity,KW
+2643,18-24,Female,Expats,High School,4200,physical activity,KW
+2644,25-44,Female,Expats,High School,22000,physical activity,KW
+2645,45+,Female,Expats,High School,2900,physical activity,KW
+2646,18-24,Male,Locals,Graduated,4200,physical activity,KW
+2647,25-44,Male,Locals,Graduated,18000,physical activity,KW
+2648,45+,Male,Locals,Graduated,2200,physical activity,KW
+2649,18-24,Female,Locals,Graduated,2000,physical activity,KW
+2650,25-44,Female,Locals,Graduated,11000,physical activity,KW
+2651,45+,Female,Locals,Graduated,1200,physical activity,KW
+2652,18-24,Male,Locals,No Degree,8100,physical activity,KW
+2653,25-44,Male,Locals,No Degree,19000,physical activity,KW
+2654,45+,Male,Locals,No Degree,3000,physical activity,KW
+2655,18-24,Female,Locals,No Degree,3300,physical activity,KW
+2656,25-44,Female,Locals,No Degree,11000,physical activity,KW
+2657,45+,Female,Locals,No Degree,2100,physical activity,KW
+2658,18-24,Male,Locals,High School,2500,physical activity,KW
+2659,25-44,Male,Locals,High School,4700,physical activity,KW
+2660,45+,Male,Locals,High School,500,physical activity,KW
+2661,18-24,Female,Locals,High School,1500,physical activity,KW
+2662,25-44,Female,Locals,High School,3500,physical activity,KW
+2663,45+,Female,Locals,High School,440,physical activity,KW
+2664,18-24,Male,Expats,Graduated,15000,physical activity,LB
+2665,25-44,Male,Expats,Graduated,33000,physical activity,LB
+2666,45+,Male,Expats,Graduated,4200,physical activity,LB
+2667,18-24,Female,Expats,Graduated,5900,physical activity,LB
+2668,25-44,Female,Expats,Graduated,22000,physical activity,LB
+2669,45+,Female,Expats,Graduated,4900,physical activity,LB
+2670,18-24,Male,Expats,No Degree,19000,physical activity,LB
+2671,25-44,Male,Expats,No Degree,37000,physical activity,LB
+2672,45+,Male,Expats,No Degree,6000,physical activity,LB
+2673,18-24,Female,Expats,No Degree,7600,physical activity,LB
+2674,25-44,Female,Expats,No Degree,21000,physical activity,LB
+2675,45+,Female,Expats,No Degree,5900,physical activity,LB
+2676,18-24,Male,Expats,High School,10000,physical activity,LB
+2677,25-44,Male,Expats,High School,12000,physical activity,LB
+2678,45+,Male,Expats,High School,1400,physical activity,LB
+2679,18-24,Female,Expats,High School,5400,physical activity,LB
+2680,25-44,Female,Expats,High School,8600,physical activity,LB
+2681,45+,Female,Expats,High School,1700,physical activity,LB
+2682,18-24,Male,Locals,Graduated,44000,physical activity,LB
+2683,25-44,Male,Locals,Graduated,90000,physical activity,LB
+2684,45+,Male,Locals,Graduated,19000,physical activity,LB
+2685,18-24,Female,Locals,Graduated,40000,physical activity,LB
+2686,25-44,Female,Locals,Graduated,100000,physical activity,LB
+2687,45+,Female,Locals,Graduated,22000,physical activity,LB
+2688,18-24,Male,Locals,No Degree,62000,physical activity,LB
+2689,25-44,Male,Locals,No Degree,90000,physical activity,LB
+2690,45+,Male,Locals,No Degree,35000,physical activity,LB
+2691,18-24,Female,Locals,No Degree,41000,physical activity,LB
+2692,25-44,Female,Locals,No Degree,96000,physical activity,LB
+2693,45+,Female,Locals,No Degree,50000,physical activity,LB
+2694,18-24,Male,Locals,High School,36000,physical activity,LB
+2695,25-44,Male,Locals,High School,26000,physical activity,LB
+2696,45+,Male,Locals,High School,6400,physical activity,LB
+2697,18-24,Female,Locals,High School,40000,physical activity,LB
+2698,25-44,Female,Locals,High School,28000,physical activity,LB
+2699,45+,Female,Locals,High School,8000,physical activity,LB
+2700,18-24,Male,Expats,Graduated,8100,physical activity,LY
+2701,25-44,Male,Expats,Graduated,23000,physical activity,LY
+2702,45+,Male,Expats,Graduated,2900,physical activity,LY
+2703,18-24,Female,Expats,Graduated,2600,physical activity,LY
+2704,25-44,Female,Expats,Graduated,8000,physical activity,LY
+2705,45+,Female,Expats,Graduated,1400,physical activity,LY
+2706,18-24,Male,Expats,No Degree,7000,physical activity,LY
+2707,25-44,Male,Expats,No Degree,17000,physical activity,LY
+2708,45+,Male,Expats,No Degree,2600,physical activity,LY
+2709,18-24,Female,Expats,No Degree,2300,physical activity,LY
+2710,25-44,Female,Expats,No Degree,5600,physical activity,LY
+2711,45+,Female,Expats,No Degree,1700,physical activity,LY
+2712,18-24,Male,Expats,High School,3900,physical activity,LY
+2713,25-44,Male,Expats,High School,5600,physical activity,LY
+2714,45+,Male,Expats,High School,840,physical activity,LY
+2715,18-24,Female,Expats,High School,1700,physical activity,LY
+2716,25-44,Female,Expats,High School,2000,physical activity,LY
+2717,45+,Female,Expats,High School,410,physical activity,LY
+2718,18-24,Male,Locals,Graduated,55000,physical activity,LY
+2719,25-44,Male,Locals,Graduated,120000,physical activity,LY
+2720,45+,Male,Locals,Graduated,16000,physical activity,LY
+2721,18-24,Female,Locals,Graduated,38000,physical activity,LY
+2722,25-44,Female,Locals,Graduated,84000,physical activity,LY
+2723,45+,Female,Locals,Graduated,9900,physical activity,LY
+2724,18-24,Male,Locals,No Degree,44000,physical activity,LY
+2725,25-44,Male,Locals,No Degree,95000,physical activity,LY
+2726,45+,Male,Locals,No Degree,20000,physical activity,LY
+2727,18-24,Female,Locals,No Degree,38000,physical activity,LY
+2728,25-44,Female,Locals,No Degree,81000,physical activity,LY
+2729,45+,Female,Locals,No Degree,22000,physical activity,LY
+2730,18-24,Male,Locals,High School,32000,physical activity,LY
+2731,25-44,Male,Locals,High School,29000,physical activity,LY
+2732,45+,Male,Locals,High School,4600,physical activity,LY
+2733,18-24,Female,Locals,High School,30000,physical activity,LY
+2734,25-44,Female,Locals,High School,21000,physical activity,LY
+2735,45+,Female,Locals,High School,3200,physical activity,LY
+2736,18-24,Male,Expats,Graduated,75000,physical activity,MA
+2737,25-44,Male,Expats,Graduated,52000,physical activity,MA
+2738,45+,Male,Expats,Graduated,5800,physical activity,MA
+2739,18-24,Female,Expats,Graduated,19000,physical activity,MA
+2740,25-44,Female,Expats,Graduated,17000,physical activity,MA
+2741,45+,Female,Expats,Graduated,2500,physical activity,MA
+2742,18-24,Male,Expats,No Degree,22000,physical activity,MA
+2743,25-44,Male,Expats,No Degree,23000,physical activity,MA
+2744,45+,Male,Expats,No Degree,3900,physical activity,MA
+2745,18-24,Female,Expats,No Degree,8800,physical activity,MA
+2746,25-44,Female,Expats,No Degree,11000,physical activity,MA
+2747,45+,Female,Expats,No Degree,2600,physical activity,MA
+2748,18-24,Male,Expats,High School,27000,physical activity,MA
+2749,25-44,Male,Expats,High School,13000,physical activity,MA
+2750,45+,Male,Expats,High School,1900,physical activity,MA
+2751,18-24,Female,Expats,High School,8400,physical activity,MA
+2752,25-44,Female,Expats,High School,4700,physical activity,MA
+2753,45+,Female,Expats,High School,1100,physical activity,MA
+2754,18-24,Male,Locals,Graduated,500000,physical activity,MA
+2755,25-44,Male,Locals,Graduated,440000,physical activity,MA
+2756,45+,Male,Locals,Graduated,42000,physical activity,MA
+2757,18-24,Female,Locals,Graduated,230000,physical activity,MA
+2758,25-44,Female,Locals,Graduated,200000,physical activity,MA
+2759,45+,Female,Locals,Graduated,22000,physical activity,MA
+2760,18-24,Male,Locals,No Degree,340000,physical activity,MA
+2761,25-44,Male,Locals,No Degree,350000,physical activity,MA
+2762,45+,Male,Locals,No Degree,50000,physical activity,MA
+2763,18-24,Female,Locals,No Degree,190000,physical activity,MA
+2764,25-44,Female,Locals,No Degree,170000,physical activity,MA
+2765,45+,Female,Locals,No Degree,33000,physical activity,MA
+2766,18-24,Male,Locals,High School,220000,physical activity,MA
+2767,25-44,Male,Locals,High School,120000,physical activity,MA
+2768,45+,Male,Locals,High School,13000,physical activity,MA
+2769,18-24,Female,Locals,High School,120000,physical activity,MA
+2770,25-44,Female,Locals,High School,55000,physical activity,MA
+2771,45+,Female,Locals,High School,9000,physical activity,MA
+2772,18-24,Male,Expats,Graduated,13000,physical activity,OM
+2773,25-44,Male,Expats,Graduated,59000,physical activity,OM
+2774,45+,Male,Expats,Graduated,5800,physical activity,OM
+2775,18-24,Female,Expats,Graduated,2100,physical activity,OM
+2776,25-44,Female,Expats,Graduated,18000,physical activity,OM
+2777,45+,Female,Expats,Graduated,2900,physical activity,OM
+2778,18-24,Male,Expats,No Degree,17000,physical activity,OM
+2779,25-44,Male,Expats,No Degree,39000,physical activity,OM
+2780,45+,Male,Expats,No Degree,4400,physical activity,OM
+2781,18-24,Female,Expats,No Degree,3800,physical activity,OM
+2782,25-44,Female,Expats,No Degree,9500,physical activity,OM
+2783,45+,Female,Expats,No Degree,1700,physical activity,OM
+2784,18-24,Male,Expats,High School,5000,physical activity,OM
+2785,25-44,Male,Expats,High School,12000,physical activity,OM
+2786,45+,Male,Expats,High School,1500,physical activity,OM
+2787,18-24,Female,Expats,High School,1600,physical activity,OM
+2788,25-44,Female,Expats,High School,4200,physical activity,OM
+2789,45+,Female,Expats,High School,740,physical activity,OM
+2790,18-24,Male,Locals,Graduated,7200,physical activity,OM
+2791,25-44,Male,Locals,Graduated,18000,physical activity,OM
+2792,45+,Male,Locals,Graduated,940,physical activity,OM
+2793,18-24,Female,Locals,Graduated,1300,physical activity,OM
+2794,25-44,Female,Locals,Graduated,4600,physical activity,OM
+2795,45+,Female,Locals,Graduated,430,physical activity,OM
+2796,18-24,Male,Locals,No Degree,8600,physical activity,OM
+2797,25-44,Male,Locals,No Degree,13000,physical activity,OM
+2798,45+,Male,Locals,No Degree,1400,physical activity,OM
+2799,18-24,Female,Locals,No Degree,2400,physical activity,OM
+2800,25-44,Female,Locals,No Degree,4500,physical activity,OM
+2801,45+,Female,Locals,No Degree,610,physical activity,OM
+2802,18-24,Male,Locals,High School,3400,physical activity,OM
+2803,25-44,Male,Locals,High School,4300,physical activity,OM
+2804,45+,Male,Locals,High School,300,physical activity,OM
+2805,18-24,Female,Locals,High School,1000,physical activity,OM
+2806,25-44,Female,Locals,High School,1100,physical activity,OM
+2807,45+,Female,Locals,High School,100,physical activity,OM
+2808,18-24,Male,Expats,Graduated,51000,physical activity,QA
+2809,25-44,Male,Expats,Graduated,230000,physical activity,QA
+2810,45+,Male,Expats,Graduated,23000,physical activity,QA
+2811,18-24,Female,Expats,Graduated,11000,physical activity,QA
+2812,25-44,Female,Expats,Graduated,86000,physical activity,QA
+2813,45+,Female,Expats,Graduated,9400,physical activity,QA
+2814,18-24,Male,Expats,No Degree,61000,physical activity,QA
+2815,25-44,Male,Expats,No Degree,130000,physical activity,QA
+2816,45+,Male,Expats,No Degree,18000,physical activity,QA
+2817,18-24,Female,Expats,No Degree,11000,physical activity,QA
+2818,25-44,Female,Expats,No Degree,33000,physical activity,QA
+2819,45+,Female,Expats,No Degree,5900,physical activity,QA
+2820,18-24,Male,Expats,High School,19000,physical activity,QA
+2821,25-44,Male,Expats,High School,53000,physical activity,QA
+2822,45+,Male,Expats,High School,6100,physical activity,QA
+2823,18-24,Female,Expats,High School,5600,physical activity,QA
+2824,25-44,Female,Expats,High School,20000,physical activity,QA
+2825,45+,Female,Expats,High School,2600,physical activity,QA
+2826,18-24,Male,Locals,Graduated,12000,physical activity,QA
+2827,25-44,Male,Locals,Graduated,28000,physical activity,QA
+2828,45+,Male,Locals,Graduated,2100,physical activity,QA
+2829,18-24,Female,Locals,Graduated,3500,physical activity,QA
+2830,25-44,Female,Locals,Graduated,12000,physical activity,QA
+2831,45+,Female,Locals,Graduated,1100,physical activity,QA
+2832,18-24,Male,Locals,No Degree,16000,physical activity,QA
+2833,25-44,Male,Locals,No Degree,24000,physical activity,QA
+2834,45+,Male,Locals,No Degree,3300,physical activity,QA
+2835,18-24,Female,Locals,No Degree,4900,physical activity,QA
+2836,25-44,Female,Locals,No Degree,8900,physical activity,QA
+2837,45+,Female,Locals,No Degree,1600,physical activity,QA
+2838,18-24,Male,Locals,High School,4400,physical activity,QA
+2839,25-44,Male,Locals,High School,6800,physical activity,QA
+2840,45+,Male,Locals,High School,690,physical activity,QA
+2841,18-24,Female,Locals,High School,2000,physical activity,QA
+2842,25-44,Female,Locals,High School,3400,physical activity,QA
+2843,45+,Female,Locals,High School,410,physical activity,QA
+2844,18-24,Male,Expats,Graduated,130000,physical activity,SA
+2845,25-44,Male,Expats,Graduated,720000,physical activity,SA
+2846,45+,Male,Expats,Graduated,66000,physical activity,SA
+2847,18-24,Female,Expats,Graduated,22000,physical activity,SA
+2848,25-44,Female,Expats,Graduated,180000,physical activity,SA
+2849,45+,Female,Expats,Graduated,23000,physical activity,SA
+2850,18-24,Male,Expats,No Degree,37000,physical activity,SA
+2851,25-44,Male,Expats,No Degree,120000,physical activity,SA
+2852,45+,Male,Expats,No Degree,16000,physical activity,SA
+2853,18-24,Female,Expats,No Degree,11000,physical activity,SA
+2854,25-44,Female,Expats,No Degree,41000,physical activity,SA
+2855,45+,Female,Expats,No Degree,8300,physical activity,SA
+2856,18-24,Male,Expats,High School,48000,physical activity,SA
+2857,25-44,Male,Expats,High School,160000,physical activity,SA
+2858,45+,Male,Expats,High School,17000,physical activity,SA
+2859,18-24,Female,Expats,High School,15000,physical activity,SA
+2860,25-44,Female,Expats,High School,46000,physical activity,SA
+2861,45+,Female,Expats,High School,6300,physical activity,SA
+2862,18-24,Male,Locals,Graduated,100000,physical activity,SA
+2863,25-44,Male,Locals,Graduated,370000,physical activity,SA
+2864,45+,Male,Locals,Graduated,35000,physical activity,SA
+2865,18-24,Female,Locals,Graduated,27000,physical activity,SA
+2866,25-44,Female,Locals,Graduated,110000,physical activity,SA
+2867,45+,Female,Locals,Graduated,12000,physical activity,SA
+2868,18-24,Male,Locals,No Degree,390000,physical activity,SA
+2869,25-44,Male,Locals,No Degree,740000,physical activity,SA
+2870,45+,Male,Locals,No Degree,92000,physical activity,SA
+2871,18-24,Female,Locals,No Degree,69000,physical activity,SA
+2872,25-44,Female,Locals,No Degree,130000,physical activity,SA
+2873,45+,Female,Locals,No Degree,24000,physical activity,SA
+2874,18-24,Male,Locals,High School,54000,physical activity,SA
+2875,25-44,Male,Locals,High School,120000,physical activity,SA
+2876,45+,Male,Locals,High School,12000,physical activity,SA
+2877,18-24,Female,Locals,High School,21000,physical activity,SA
+2878,25-44,Female,Locals,High School,35000,physical activity,SA
+2879,45+,Female,Locals,High School,4100,physical activity,SA
+2880,18-24,Male,Expats,Graduated,4500,physical activity,SO
+2881,25-44,Male,Expats,Graduated,4600,physical activity,SO
+2882,45+,Male,Expats,Graduated,470,physical activity,SO
+2883,18-24,Female,Expats,Graduated,1600,physical activity,SO
+2884,25-44,Female,Expats,Graduated,1300,physical activity,SO
+2885,45+,Female,Expats,Graduated,160,physical activity,SO
+2886,18-24,Male,Expats,No Degree,940,physical activity,SO
+2887,25-44,Male,Expats,No Degree,1200,physical activity,SO
+2888,45+,Male,Expats,No Degree,160,physical activity,SO
+2889,18-24,Female,Expats,No Degree,470,physical activity,SO
+2890,25-44,Female,Expats,No Degree,680,physical activity,SO
+2891,45+,Female,Expats,No Degree,60,physical activity,SO
+2892,18-24,Male,Expats,High School,1400,physical activity,SO
+2893,25-44,Male,Expats,High School,870,physical activity,SO
+2894,45+,Male,Expats,High School,160,physical activity,SO
+2895,18-24,Female,Expats,High School,600,physical activity,SO
+2896,25-44,Female,Expats,High School,300,physical activity,SO
+2897,45+,Female,Expats,High School,20,physical activity,SO
+2898,18-24,Male,Locals,Graduated,13000,physical activity,SO
+2899,25-44,Male,Locals,Graduated,12000,physical activity,SO
+2900,45+,Male,Locals,Graduated,750,physical activity,SO
+2901,18-24,Female,Locals,Graduated,7100,physical activity,SO
+2902,25-44,Female,Locals,Graduated,4700,physical activity,SO
+2903,45+,Female,Locals,Graduated,470,physical activity,SO
+2904,18-24,Male,Locals,No Degree,12000,physical activity,SO
+2905,25-44,Male,Locals,No Degree,7500,physical activity,SO
+2906,45+,Male,Locals,No Degree,1300,physical activity,SO
+2907,18-24,Female,Locals,No Degree,14000,physical activity,SO
+2908,25-44,Female,Locals,No Degree,7100,physical activity,SO
+2909,45+,Female,Locals,No Degree,600,physical activity,SO
+2910,18-24,Male,Locals,High School,5000,physical activity,SO
+2911,25-44,Male,Locals,High School,2400,physical activity,SO
+2912,45+,Male,Locals,High School,210,physical activity,SO
+2913,18-24,Female,Locals,High School,3100,physical activity,SO
+2914,25-44,Female,Locals,High School,1100,physical activity,SO
+2915,45+,Female,Locals,High School,230,physical activity,SO
+2916,18-24,Male,Expats,Graduated,27000,physical activity,TN
+2917,25-44,Male,Expats,Graduated,28000,physical activity,TN
+2918,45+,Male,Expats,Graduated,5200,physical activity,TN
+2919,18-24,Female,Expats,Graduated,11000,physical activity,TN
+2920,25-44,Female,Expats,Graduated,12000,physical activity,TN
+2921,45+,Female,Expats,Graduated,2400,physical activity,TN
+2922,18-24,Male,Expats,No Degree,11000,physical activity,TN
+2923,25-44,Male,Expats,No Degree,13000,physical activity,TN
+2924,45+,Male,Expats,No Degree,3000,physical activity,TN
+2925,18-24,Female,Expats,No Degree,5300,physical activity,TN
+2926,25-44,Female,Expats,No Degree,7400,physical activity,TN
+2927,45+,Female,Expats,No Degree,1800,physical activity,TN
+2928,18-24,Male,Expats,High School,12000,physical activity,TN
+2929,25-44,Male,Expats,High School,7200,physical activity,TN
+2930,45+,Male,Expats,High School,1800,physical activity,TN
+2931,18-24,Female,Expats,High School,5500,physical activity,TN
+2932,25-44,Female,Expats,High School,3700,physical activity,TN
+2933,45+,Female,Expats,High School,1100,physical activity,TN
+2934,18-24,Male,Locals,Graduated,150000,physical activity,TN
+2935,25-44,Male,Locals,Graduated,250000,physical activity,TN
+2936,45+,Male,Locals,Graduated,43000,physical activity,TN
+2937,18-24,Female,Locals,Graduated,140000,physical activity,TN
+2938,25-44,Female,Locals,Graduated,230000,physical activity,TN
+2939,45+,Female,Locals,Graduated,26000,physical activity,TN
+2940,18-24,Male,Locals,No Degree,120000,physical activity,TN
+2941,25-44,Male,Locals,No Degree,180000,physical activity,TN
+2942,45+,Male,Locals,No Degree,42000,physical activity,TN
+2943,18-24,Female,Locals,No Degree,120000,physical activity,TN
+2944,25-44,Female,Locals,No Degree,140000,physical activity,TN
+2945,45+,Female,Locals,No Degree,31000,physical activity,TN
+2946,18-24,Male,Locals,High School,79000,physical activity,TN
+2947,25-44,Male,Locals,High School,74000,physical activity,TN
+2948,45+,Male,Locals,High School,17000,physical activity,TN
+2949,18-24,Female,Locals,High School,82000,physical activity,TN
+2950,25-44,Female,Locals,High School,56000,physical activity,TN
+2951,45+,Female,Locals,High School,13000,physical activity,TN
+2952,18-24,Male,Expats,Graduated,150000,physical activity,AE
+2953,25-44,Male,Expats,Graduated,760000,physical activity,AE
+2954,45+,Male,Expats,Graduated,63000,physical activity,AE
+2955,18-24,Female,Expats,Graduated,42000,physical activity,AE
+2956,25-44,Female,Expats,Graduated,350000,physical activity,AE
+2957,45+,Female,Expats,Graduated,41000,physical activity,AE
+2958,18-24,Male,Expats,No Degree,130000,physical activity,AE
+2959,25-44,Male,Expats,No Degree,360000,physical activity,AE
+2960,45+,Male,Expats,No Degree,43000,physical activity,AE
+2961,18-24,Female,Expats,No Degree,26000,physical activity,AE
+2962,25-44,Female,Expats,No Degree,110000,physical activity,AE
+2963,45+,Female,Expats,No Degree,25000,physical activity,AE
+2964,18-24,Male,Expats,High School,56000,physical activity,AE
+2965,25-44,Male,Expats,High School,160000,physical activity,AE
+2966,45+,Male,Expats,High School,17000,physical activity,AE
+2967,18-24,Female,Expats,High School,24000,physical activity,AE
+2968,25-44,Female,Expats,High School,70000,physical activity,AE
+2969,45+,Female,Expats,High School,12000,physical activity,AE
+2970,18-24,Male,Locals,Graduated,34000,physical activity,AE
+2971,25-44,Male,Locals,Graduated,77000,physical activity,AE
+2972,45+,Male,Locals,Graduated,5700,physical activity,AE
+2973,18-24,Female,Locals,Graduated,11000,physical activity,AE
+2974,25-44,Female,Locals,Graduated,33000,physical activity,AE
+2975,45+,Female,Locals,Graduated,4200,physical activity,AE
+2976,18-24,Male,Locals,No Degree,47000,physical activity,AE
+2977,25-44,Male,Locals,No Degree,74000,physical activity,AE
+2978,45+,Male,Locals,No Degree,9500,physical activity,AE
+2979,18-24,Female,Locals,No Degree,12000,physical activity,AE
+2980,25-44,Female,Locals,No Degree,25000,physical activity,AE
+2981,45+,Female,Locals,No Degree,5600,physical activity,AE
+2982,18-24,Male,Locals,High School,13000,physical activity,AE
+2983,25-44,Male,Locals,High School,17000,physical activity,AE
+2984,45+,Male,Locals,High School,1500,physical activity,AE
+2985,18-24,Female,Locals,High School,5400,physical activity,AE
+2986,25-44,Female,Locals,High School,8300,physical activity,AE
+2987,45+,Female,Locals,High School,1500,physical activity,AE
+2988,18-24,Male,Expats,Graduated,4300,physical activity,YE
+2989,25-44,Male,Expats,Graduated,7600,physical activity,YE
+2990,45+,Male,Expats,Graduated,590,physical activity,YE
+2991,18-24,Female,Expats,Graduated,630,physical activity,YE
+2992,25-44,Female,Expats,Graduated,1400,physical activity,YE
+2993,45+,Female,Expats,Graduated,190,physical activity,YE
+2994,18-24,Male,Expats,No Degree,1600,physical activity,YE
+2995,25-44,Male,Expats,No Degree,3100,physical activity,YE
+2996,45+,Male,Expats,No Degree,360,physical activity,YE
+2997,18-24,Female,Expats,No Degree,820,physical activity,YE
+2998,25-44,Female,Expats,No Degree,970,physical activity,YE
+2999,45+,Female,Expats,No Degree,190,physical activity,YE
+3000,18-24,Male,Expats,High School,1900,physical activity,YE
+3001,25-44,Male,Expats,High School,1600,physical activity,YE
+3002,45+,Male,Expats,High School,170,physical activity,YE
+3003,18-24,Female,Expats,High School,670,physical activity,YE
+3004,25-44,Female,Expats,High School,460,physical activity,YE
+3005,45+,Female,Expats,High School,20,physical activity,YE
+3006,18-24,Male,Locals,Graduated,27000,physical activity,YE
+3007,25-44,Male,Locals,Graduated,53000,physical activity,YE
+3008,45+,Male,Locals,Graduated,4400,physical activity,YE
+3009,18-24,Female,Locals,Graduated,5400,physical activity,YE
+3010,25-44,Female,Locals,Graduated,10000,physical activity,YE
+3011,45+,Female,Locals,Graduated,700,physical activity,YE
+3012,18-24,Male,Locals,No Degree,23000,physical activity,YE
+3013,25-44,Male,Locals,No Degree,30000,physical activity,YE
+3014,45+,Male,Locals,No Degree,5100,physical activity,YE
+3015,18-24,Female,Locals,No Degree,6200,physical activity,YE
+3016,25-44,Female,Locals,No Degree,7500,physical activity,YE
+3017,45+,Female,Locals,No Degree,1100,physical activity,YE
+3018,18-24,Male,Locals,High School,17000,physical activity,YE
+3019,25-44,Male,Locals,High School,14000,physical activity,YE
+3020,45+,Male,Locals,High School,1500,physical activity,YE
+3021,18-24,Female,Locals,High School,5800,physical activity,YE
+3022,25-44,Female,Locals,High School,2700,physical activity,YE
+3023,45+,Female,Locals,High School,250,physical activity,YE
+3024,18-24,Male,Expats,Graduated,9000,physical activity,PS
+3025,25-44,Male,Expats,Graduated,13000,physical activity,PS
+3026,45+,Male,Expats,Graduated,1500,physical activity,PS
+3027,18-24,Female,Expats,Graduated,5200,physical activity,PS
+3028,25-44,Female,Expats,Graduated,9800,physical activity,PS
+3029,45+,Female,Expats,Graduated,1100,physical activity,PS
+3030,18-24,Male,Expats,No Degree,2900,physical activity,PS
+3031,25-44,Male,Expats,No Degree,3100,physical activity,PS
+3032,45+,Male,Expats,No Degree,640,physical activity,PS
+3033,18-24,Female,Expats,No Degree,1900,physical activity,PS
+3034,25-44,Female,Expats,No Degree,3400,physical activity,PS
+3035,45+,Female,Expats,No Degree,1300,physical activity,PS
+3036,18-24,Male,Expats,High School,5300,physical activity,PS
+3037,25-44,Male,Expats,High School,2700,physical activity,PS
+3038,45+,Male,Expats,High School,350,physical activity,PS
+3039,18-24,Female,Expats,High School,4800,physical activity,PS
+3040,25-44,Female,Expats,High School,2800,physical activity,PS
+3041,45+,Female,Expats,High School,540,physical activity,PS
+3042,18-24,Male,Locals,Graduated,30000,physical activity,PS
+3043,25-44,Male,Locals,Graduated,40000,physical activity,PS
+3044,45+,Male,Locals,Graduated,3800,physical activity,PS
+3045,18-24,Female,Locals,Graduated,21000,physical activity,PS
+3046,25-44,Female,Locals,Graduated,33000,physical activity,PS
+3047,45+,Female,Locals,Graduated,2700,physical activity,PS
+3048,18-24,Male,Locals,No Degree,13000,physical activity,PS
+3049,25-44,Male,Locals,No Degree,12000,physical activity,PS
+3050,45+,Male,Locals,No Degree,2900,physical activity,PS
+3051,18-24,Female,Locals,No Degree,9300,physical activity,PS
+3052,25-44,Female,Locals,No Degree,15000,physical activity,PS
+3053,45+,Female,Locals,No Degree,4300,physical activity,PS
+3054,18-24,Male,Locals,High School,20000,physical activity,PS
+3055,25-44,Male,Locals,High School,8800,physical activity,PS
+3056,45+,Male,Locals,High School,1400,physical activity,PS
+3057,18-24,Female,Locals,High School,17000,physical activity,PS
+3058,25-44,Female,Locals,High School,8300,physical activity,PS
+3059,45+,Female,Locals,High School,1200,physical activity,PS
+6732,18-24,Male,Expats,Graduated,13000,mental disease depression,DZ
+6733,25-44,Male,Expats,Graduated,13000,mental disease depression,DZ
+6734,45+,Male,Expats,Graduated,1700,mental disease depression,DZ
+6735,18-24,Female,Expats,Graduated,4800,mental disease depression,DZ
+6736,25-44,Female,Expats,Graduated,3600,mental disease depression,DZ
+6737,45+,Female,Expats,Graduated,780,mental disease depression,DZ
+6738,18-24,Male,Expats,No Degree,5400,mental disease depression,DZ
+6739,25-44,Male,Expats,No Degree,9900,mental disease depression,DZ
+6740,45+,Male,Expats,No Degree,1800,mental disease depression,DZ
+6741,18-24,Female,Expats,No Degree,2900,mental disease depression,DZ
+6742,25-44,Female,Expats,No Degree,3800,mental disease depression,DZ
+6743,45+,Female,Expats,No Degree,980,mental disease depression,DZ
+6744,18-24,Male,Expats,High School,4700,mental disease depression,DZ
+6745,25-44,Male,Expats,High School,3200,mental disease depression,DZ
+6746,45+,Male,Expats,High School,520,mental disease depression,DZ
+6747,18-24,Female,Expats,High School,2200,mental disease depression,DZ
+6748,25-44,Female,Expats,High School,960,mental disease depression,DZ
+6749,45+,Female,Expats,High School,330,mental disease depression,DZ
+6750,18-24,Male,Locals,Graduated,58000,mental disease depression,DZ
+6751,25-44,Male,Locals,Graduated,98000,mental disease depression,DZ
+6752,45+,Male,Locals,Graduated,9700,mental disease depression,DZ
+6753,18-24,Female,Locals,Graduated,47000,mental disease depression,DZ
+6754,25-44,Female,Locals,Graduated,55000,mental disease depression,DZ
+6755,45+,Female,Locals,Graduated,5100,mental disease depression,DZ
+6756,18-24,Male,Locals,No Degree,59000,mental disease depression,DZ
+6757,25-44,Male,Locals,No Degree,130000,mental disease depression,DZ
+6758,45+,Male,Locals,No Degree,17000,mental disease depression,DZ
+6759,18-24,Female,Locals,No Degree,48000,mental disease depression,DZ
+6760,25-44,Female,Locals,No Degree,64000,mental disease depression,DZ
+6761,45+,Female,Locals,No Degree,9800,mental disease depression,DZ
+6762,18-24,Male,Locals,High School,26000,mental disease depression,DZ
+6763,25-44,Male,Locals,High School,29000,mental disease depression,DZ
+6764,45+,Male,Locals,High School,3800,mental disease depression,DZ
+6765,18-24,Female,Locals,High School,23000,mental disease depression,DZ
+6766,25-44,Female,Locals,High School,13000,mental disease depression,DZ
+6767,45+,Female,Locals,High School,2500,mental disease depression,DZ
+6768,18-24,Male,Expats,Graduated,470,mental disease depression,BH
+6769,25-44,Male,Expats,Graduated,1500,mental disease depression,BH
+6770,45+,Male,Expats,Graduated,330,mental disease depression,BH
+6771,18-24,Female,Expats,Graduated,360,mental disease depression,BH
+6772,25-44,Female,Expats,Graduated,2500,mental disease depression,BH
+6773,45+,Female,Expats,Graduated,450,mental disease depression,BH
+6774,18-24,Male,Expats,No Degree,550,mental disease depression,BH
+6775,25-44,Male,Expats,No Degree,1100,mental disease depression,BH
+6776,45+,Male,Expats,No Degree,330,mental disease depression,BH
+6777,18-24,Female,Expats,No Degree,190,mental disease depression,BH
+6778,25-44,Female,Expats,No Degree,730,mental disease depression,BH
+6779,45+,Female,Expats,No Degree,150,mental disease depression,BH
+6780,18-24,Male,Expats,High School,250,mental disease depression,BH
+6781,25-44,Male,Expats,High School,500,mental disease depression,BH
+6782,45+,Male,Expats,High School,100,mental disease depression,BH
+6783,18-24,Female,Expats,High School,190,mental disease depression,BH
+6784,25-44,Female,Expats,High School,680,mental disease depression,BH
+6785,45+,Female,Expats,High School,110,mental disease depression,BH
+6786,18-24,Male,Locals,Graduated,330,mental disease depression,BH
+6787,25-44,Male,Locals,Graduated,520,mental disease depression,BH
+6788,45+,Male,Locals,Graduated,90,mental disease depression,BH
+6789,18-24,Female,Locals,Graduated,280,mental disease depression,BH
+6790,25-44,Female,Locals,Graduated,910,mental disease depression,BH
+6791,45+,Female,Locals,Graduated,90,mental disease depression,BH
+6792,18-24,Male,Locals,No Degree,230,mental disease depression,BH
+6793,25-44,Male,Locals,No Degree,270,mental disease depression,BH
+6794,45+,Male,Locals,No Degree,90,mental disease depression,BH
+6795,18-24,Female,Locals,No Degree,250,mental disease depression,BH
+6796,25-44,Female,Locals,No Degree,610,mental disease depression,BH
+6797,45+,Female,Locals,No Degree,100,mental disease depression,BH
+6798,18-24,Male,Locals,High School,150,mental disease depression,BH
+6799,25-44,Male,Locals,High School,170,mental disease depression,BH
+6800,45+,Male,Locals,High School,20,mental disease depression,BH
+6801,18-24,Female,Locals,High School,200,mental disease depression,BH
+6802,25-44,Female,Locals,High School,210,mental disease depression,BH
+6803,45+,Female,Locals,High School,30,mental disease depression,BH
+6804,18-24,Male,Expats,Graduated,9200,mental disease depression,EG
+6805,25-44,Male,Expats,Graduated,17000,mental disease depression,EG
+6806,45+,Male,Expats,Graduated,4500,mental disease depression,EG
+6807,18-24,Female,Expats,Graduated,5900,mental disease depression,EG
+6808,25-44,Female,Expats,Graduated,12000,mental disease depression,EG
+6809,45+,Female,Expats,Graduated,2200,mental disease depression,EG
+6810,18-24,Male,Expats,No Degree,3300,mental disease depression,EG
+6811,25-44,Male,Expats,No Degree,6100,mental disease depression,EG
+6812,45+,Male,Expats,No Degree,2600,mental disease depression,EG
+6813,18-24,Female,Expats,No Degree,2300,mental disease depression,EG
+6814,25-44,Female,Expats,No Degree,3300,mental disease depression,EG
+6815,45+,Female,Expats,No Degree,1800,mental disease depression,EG
+6816,18-24,Male,Expats,High School,6600,mental disease depression,EG
+6817,25-44,Male,Expats,High School,3800,mental disease depression,EG
+6818,45+,Male,Expats,High School,1100,mental disease depression,EG
+6819,18-24,Female,Expats,High School,5800,mental disease depression,EG
+6820,25-44,Female,Expats,High School,2400,mental disease depression,EG
+6821,45+,Female,Expats,High School,580,mental disease depression,EG
+6822,18-24,Male,Locals,Graduated,180000,mental disease depression,EG
+6823,25-44,Male,Locals,Graduated,290000,mental disease depression,EG
+6824,45+,Male,Locals,Graduated,78000,mental disease depression,EG
+6825,18-24,Female,Locals,Graduated,190000,mental disease depression,EG
+6826,25-44,Female,Locals,Graduated,270000,mental disease depression,EG
+6827,45+,Female,Locals,Graduated,39000,mental disease depression,EG
+6828,18-24,Male,Locals,No Degree,87000,mental disease depression,EG
+6829,25-44,Male,Locals,No Degree,160000,mental disease depression,EG
+6830,45+,Male,Locals,No Degree,82000,mental disease depression,EG
+6831,18-24,Female,Locals,No Degree,83000,mental disease depression,EG
+6832,25-44,Female,Locals,No Degree,110000,mental disease depression,EG
+6833,45+,Female,Locals,No Degree,53000,mental disease depression,EG
+6834,18-24,Male,Locals,High School,130000,mental disease depression,EG
+6835,25-44,Male,Locals,High School,62000,mental disease depression,EG
+6836,45+,Male,Locals,High School,20000,mental disease depression,EG
+6837,18-24,Female,Locals,High School,160000,mental disease depression,EG
+6838,25-44,Female,Locals,High School,46000,mental disease depression,EG
+6839,45+,Female,Locals,High School,8500,mental disease depression,EG
+6840,18-24,Male,Expats,Graduated,7600,mental disease depression,IQ
+6841,25-44,Male,Expats,Graduated,12000,mental disease depression,IQ
+6842,45+,Male,Expats,Graduated,1900,mental disease depression,IQ
+6843,18-24,Female,Expats,Graduated,510,mental disease depression,IQ
+6844,25-44,Female,Expats,Graduated,1400,mental disease depression,IQ
+6845,45+,Female,Expats,Graduated,270,mental disease depression,IQ
+6846,18-24,Male,Expats,No Degree,6200,mental disease depression,IQ
+6847,25-44,Male,Expats,No Degree,6800,mental disease depression,IQ
+6848,45+,Male,Expats,No Degree,1500,mental disease depression,IQ
+6849,18-24,Female,Expats,No Degree,570,mental disease depression,IQ
+6850,25-44,Female,Expats,No Degree,1100,mental disease depression,IQ
+6851,45+,Female,Expats,No Degree,410,mental disease depression,IQ
+6852,18-24,Male,Expats,High School,3500,mental disease depression,IQ
+6853,25-44,Male,Expats,High School,3100,mental disease depression,IQ
+6854,45+,Male,Expats,High School,600,mental disease depression,IQ
+6855,18-24,Female,Expats,High School,510,mental disease depression,IQ
+6856,25-44,Female,Expats,High School,330,mental disease depression,IQ
+6857,45+,Female,Expats,High School,80,mental disease depression,IQ
+6858,18-24,Male,Locals,Graduated,79000,mental disease depression,IQ
+6859,25-44,Male,Locals,Graduated,120000,mental disease depression,IQ
+6860,45+,Male,Locals,Graduated,20000,mental disease depression,IQ
+6861,18-24,Female,Locals,Graduated,6800,mental disease depression,IQ
+6862,25-44,Female,Locals,Graduated,14000,mental disease depression,IQ
+6863,45+,Female,Locals,Graduated,3800,mental disease depression,IQ
+6864,18-24,Male,Locals,No Degree,180000,mental disease depression,IQ
+6865,25-44,Male,Locals,No Degree,160000,mental disease depression,IQ
+6866,45+,Male,Locals,No Degree,40000,mental disease depression,IQ
+6867,18-24,Female,Locals,No Degree,11000,mental disease depression,IQ
+6868,25-44,Female,Locals,No Degree,16000,mental disease depression,IQ
+6869,45+,Female,Locals,No Degree,7800,mental disease depression,IQ
+6870,18-24,Male,Locals,High School,47000,mental disease depression,IQ
+6871,25-44,Male,Locals,High School,39000,mental disease depression,IQ
+6872,45+,Male,Locals,High School,7200,mental disease depression,IQ
+6873,18-24,Female,Locals,High School,6200,mental disease depression,IQ
+6874,25-44,Female,Locals,High School,4100,mental disease depression,IQ
+6875,45+,Female,Locals,High School,1300,mental disease depression,IQ
+6876,18-24,Male,Expats,Graduated,2800,mental disease depression,JO
+6877,25-44,Male,Expats,Graduated,10000,mental disease depression,JO
+6878,45+,Male,Expats,Graduated,1800,mental disease depression,JO
+6879,18-24,Female,Expats,Graduated,2200,mental disease depression,JO
+6880,25-44,Female,Expats,Graduated,8300,mental disease depression,JO
+6881,45+,Female,Expats,Graduated,1600,mental disease depression,JO
+6882,18-24,Male,Expats,No Degree,3000,mental disease depression,JO
+6883,25-44,Male,Expats,No Degree,7300,mental disease depression,JO
+6884,45+,Male,Expats,No Degree,2300,mental disease depression,JO
+6885,18-24,Female,Expats,No Degree,1300,mental disease depression,JO
+6886,25-44,Female,Expats,No Degree,4200,mental disease depression,JO
+6887,45+,Female,Expats,No Degree,2100,mental disease depression,JO
+6888,18-24,Male,Expats,High School,2600,mental disease depression,JO
+6889,25-44,Male,Expats,High School,3400,mental disease depression,JO
+6890,45+,Male,Expats,High School,510,mental disease depression,JO
+6891,18-24,Female,Expats,High School,2400,mental disease depression,JO
+6892,25-44,Female,Expats,High School,2200,mental disease depression,JO
+6893,45+,Female,Expats,High School,610,mental disease depression,JO
+6894,18-24,Male,Locals,Graduated,12000,mental disease depression,JO
+6895,25-44,Male,Locals,Graduated,34000,mental disease depression,JO
+6896,45+,Male,Locals,Graduated,6000,mental disease depression,JO
+6897,18-24,Female,Locals,Graduated,7700,mental disease depression,JO
+6898,25-44,Female,Locals,Graduated,27000,mental disease depression,JO
+6899,45+,Female,Locals,Graduated,3600,mental disease depression,JO
+6900,18-24,Male,Locals,No Degree,14000,mental disease depression,JO
+6901,25-44,Male,Locals,No Degree,27000,mental disease depression,JO
+6902,45+,Male,Locals,No Degree,9000,mental disease depression,JO
+6903,18-24,Female,Locals,No Degree,7400,mental disease depression,JO
+6904,25-44,Female,Locals,No Degree,19000,mental disease depression,JO
+6905,45+,Female,Locals,No Degree,7600,mental disease depression,JO
+6906,18-24,Male,Locals,High School,10000,mental disease depression,JO
+6907,25-44,Male,Locals,High School,11000,mental disease depression,JO
+6908,45+,Male,Locals,High School,2700,mental disease depression,JO
+6909,18-24,Female,Locals,High School,8900,mental disease depression,JO
+6910,25-44,Female,Locals,High School,7700,mental disease depression,JO
+6911,45+,Female,Locals,High School,1400,mental disease depression,JO
+6912,18-24,Male,Expats,Graduated,2900,mental disease depression,KW
+6913,25-44,Male,Expats,Graduated,19000,mental disease depression,KW
+6914,45+,Male,Expats,Graduated,1900,mental disease depression,KW
+6915,18-24,Female,Expats,Graduated,1100,mental disease depression,KW
+6916,25-44,Female,Expats,Graduated,10000,mental disease depression,KW
+6917,45+,Female,Expats,Graduated,2000,mental disease depression,KW
+6918,18-24,Male,Expats,No Degree,4300,mental disease depression,KW
+6919,25-44,Male,Expats,No Degree,12000,mental disease depression,KW
+6920,45+,Male,Expats,No Degree,2500,mental disease depression,KW
+6921,18-24,Female,Expats,No Degree,1400,mental disease depression,KW
+6922,25-44,Female,Expats,No Degree,5400,mental disease depression,KW
+6923,45+,Female,Expats,No Degree,2000,mental disease depression,KW
+6924,18-24,Male,Expats,High School,1300,mental disease depression,KW
+6925,25-44,Male,Expats,High School,4900,mental disease depression,KW
+6926,45+,Male,Expats,High School,700,mental disease depression,KW
+6927,18-24,Female,Expats,High School,840,mental disease depression,KW
+6928,25-44,Female,Expats,High School,3600,mental disease depression,KW
+6929,45+,Female,Expats,High School,620,mental disease depression,KW
+6930,18-24,Male,Locals,Graduated,650,mental disease depression,KW
+6931,25-44,Male,Locals,Graduated,2400,mental disease depression,KW
+6932,45+,Male,Locals,Graduated,270,mental disease depression,KW
+6933,18-24,Female,Locals,Graduated,330,mental disease depression,KW
+6934,25-44,Female,Locals,Graduated,1800,mental disease depression,KW
+6935,45+,Female,Locals,Graduated,320,mental disease depression,KW
+6936,18-24,Male,Locals,No Degree,1500,mental disease depression,KW
+6937,25-44,Male,Locals,No Degree,2900,mental disease depression,KW
+6938,45+,Male,Locals,No Degree,690,mental disease depression,KW
+6939,18-24,Female,Locals,No Degree,440,mental disease depression,KW
+6940,25-44,Female,Locals,No Degree,1200,mental disease depression,KW
+6941,45+,Female,Locals,No Degree,750,mental disease depression,KW
+6942,18-24,Male,Locals,High School,390,mental disease depression,KW
+6943,25-44,Male,Locals,High School,640,mental disease depression,KW
+6944,45+,Male,Locals,High School,60,mental disease depression,KW
+6945,18-24,Female,Locals,High School,170,mental disease depression,KW
+6946,25-44,Female,Locals,High School,410,mental disease depression,KW
+6947,45+,Female,Locals,High School,70,mental disease depression,KW
+6948,18-24,Male,Expats,Graduated,1700,mental disease depression,LB
+6949,25-44,Male,Expats,Graduated,5400,mental disease depression,LB
+6950,45+,Male,Expats,Graduated,1500,mental disease depression,LB
+6951,18-24,Female,Expats,Graduated,1400,mental disease depression,LB
+6952,25-44,Female,Expats,Graduated,5100,mental disease depression,LB
+6953,45+,Female,Expats,Graduated,1800,mental disease depression,LB
+6954,18-24,Male,Expats,No Degree,2000,mental disease depression,LB
+6955,25-44,Male,Expats,No Degree,6100,mental disease depression,LB
+6956,45+,Male,Expats,No Degree,1800,mental disease depression,LB
+6957,18-24,Female,Expats,No Degree,1400,mental disease depression,LB
+6958,25-44,Female,Expats,No Degree,4500,mental disease depression,LB
+6959,45+,Female,Expats,No Degree,2300,mental disease depression,LB
+6960,18-24,Male,Expats,High School,1100,mental disease depression,LB
+6961,25-44,Male,Expats,High School,1900,mental disease depression,LB
+6962,45+,Male,Expats,High School,600,mental disease depression,LB
+6963,18-24,Female,Expats,High School,1100,mental disease depression,LB
+6964,25-44,Female,Expats,High School,2000,mental disease depression,LB
+6965,45+,Female,Expats,High School,770,mental disease depression,LB
+6966,18-24,Male,Locals,Graduated,5700,mental disease depression,LB
+6967,25-44,Male,Locals,Graduated,20000,mental disease depression,LB
+6968,45+,Male,Locals,Graduated,7700,mental disease depression,LB
+6969,18-24,Female,Locals,Graduated,12000,mental disease depression,LB
+6970,25-44,Female,Locals,Graduated,41000,mental disease depression,LB
+6971,45+,Female,Locals,Graduated,11000,mental disease depression,LB
+6972,18-24,Male,Locals,No Degree,7400,mental disease depression,LB
+6973,25-44,Male,Locals,No Degree,22000,mental disease depression,LB
+6974,45+,Male,Locals,No Degree,16000,mental disease depression,LB
+6975,18-24,Female,Locals,No Degree,11000,mental disease depression,LB
+6976,25-44,Female,Locals,No Degree,39000,mental disease depression,LB
+6977,45+,Female,Locals,No Degree,29000,mental disease depression,LB
+6978,18-24,Male,Locals,High School,4500,mental disease depression,LB
+6979,25-44,Male,Locals,High School,5700,mental disease depression,LB
+6980,45+,Male,Locals,High School,2600,mental disease depression,LB
+6981,18-24,Female,Locals,High School,11000,mental disease depression,LB
+6982,25-44,Female,Locals,High School,10000,mental disease depression,LB
+6983,45+,Female,Locals,High School,4400,mental disease depression,LB
+6984,18-24,Male,Expats,Graduated,1800,mental disease depression,LY
+6985,25-44,Male,Expats,Graduated,5700,mental disease depression,LY
+6986,45+,Male,Expats,Graduated,810,mental disease depression,LY
+6987,18-24,Female,Expats,Graduated,720,mental disease depression,LY
+6988,25-44,Female,Expats,Graduated,1900,mental disease depression,LY
+6989,45+,Female,Expats,Graduated,410,mental disease depression,LY
+6990,18-24,Male,Expats,No Degree,1900,mental disease depression,LY
+6991,25-44,Male,Expats,No Degree,5100,mental disease depression,LY
+6992,45+,Male,Expats,No Degree,1200,mental disease depression,LY
+6993,18-24,Female,Expats,No Degree,510,mental disease depression,LY
+6994,25-44,Female,Expats,No Degree,1500,mental disease depression,LY
+6995,45+,Female,Expats,No Degree,450,mental disease depression,LY
+6996,18-24,Male,Expats,High School,720,mental disease depression,LY
+6997,25-44,Male,Expats,High School,1500,mental disease depression,LY
+6998,45+,Male,Expats,High School,210,mental disease depression,LY
+6999,18-24,Female,Expats,High School,480,mental disease depression,LY
+7000,25-44,Female,Expats,High School,430,mental disease depression,LY
+7001,45+,Female,Expats,High School,170,mental disease depression,LY
+7002,18-24,Male,Locals,Graduated,12000,mental disease depression,LY
+7003,25-44,Male,Locals,Graduated,29000,mental disease depression,LY
+7004,45+,Male,Locals,Graduated,4500,mental disease depression,LY
+7005,18-24,Female,Locals,Graduated,8100,mental disease depression,LY
+7006,25-44,Female,Locals,Graduated,19000,mental disease depression,LY
+7007,45+,Female,Locals,Graduated,3000,mental disease depression,LY
+7008,18-24,Male,Locals,No Degree,9100,mental disease depression,LY
+7009,25-44,Male,Locals,No Degree,24000,mental disease depression,LY
+7010,45+,Male,Locals,No Degree,6100,mental disease depression,LY
+7011,18-24,Female,Locals,No Degree,7100,mental disease depression,LY
+7012,25-44,Female,Locals,No Degree,17000,mental disease depression,LY
+7013,45+,Female,Locals,No Degree,5900,mental disease depression,LY
+7014,18-24,Male,Locals,High School,7100,mental disease depression,LY
+7015,25-44,Male,Locals,High School,6600,mental disease depression,LY
+7016,45+,Male,Locals,High School,1500,mental disease depression,LY
+7017,18-24,Female,Locals,High School,6700,mental disease depression,LY
+7018,25-44,Female,Locals,High School,4300,mental disease depression,LY
+7019,45+,Female,Locals,High School,890,mental disease depression,LY
+7020,18-24,Male,Expats,Graduated,20000,mental disease depression,MA
+7021,25-44,Male,Expats,Graduated,26000,mental disease depression,MA
+7022,45+,Male,Expats,Graduated,6000,mental disease depression,MA
+7023,18-24,Female,Expats,Graduated,5200,mental disease depression,MA
+7024,25-44,Female,Expats,Graduated,7800,mental disease depression,MA
+7025,45+,Female,Expats,Graduated,2200,mental disease depression,MA
+7026,18-24,Male,Expats,No Degree,6900,mental disease depression,MA
+7027,25-44,Male,Expats,No Degree,16000,mental disease depression,MA
+7028,45+,Male,Expats,No Degree,5200,mental disease depression,MA
+7029,18-24,Female,Expats,No Degree,2800,mental disease depression,MA
+7030,25-44,Female,Expats,No Degree,5800,mental disease depression,MA
+7031,45+,Female,Expats,No Degree,2500,mental disease depression,MA
+7032,18-24,Male,Expats,High School,6900,mental disease depression,MA
+7033,25-44,Male,Expats,High School,7300,mental disease depression,MA
+7034,45+,Male,Expats,High School,2100,mental disease depression,MA
+7035,18-24,Female,Expats,High School,2000,mental disease depression,MA
+7036,25-44,Female,Expats,High School,2300,mental disease depression,MA
+7037,45+,Female,Expats,High School,930,mental disease depression,MA
+7038,18-24,Male,Locals,Graduated,140000,mental disease depression,MA
+7039,25-44,Male,Locals,Graduated,240000,mental disease depression,MA
+7040,45+,Male,Locals,Graduated,66000,mental disease depression,MA
+7041,18-24,Female,Locals,Graduated,64000,mental disease depression,MA
+7042,25-44,Female,Locals,Graduated,88000,mental disease depression,MA
+7043,45+,Female,Locals,Graduated,22000,mental disease depression,MA
+7044,18-24,Male,Locals,No Degree,120000,mental disease depression,MA
+7045,25-44,Male,Locals,No Degree,350000,mental disease depression,MA
+7046,45+,Male,Locals,No Degree,120000,mental disease depression,MA
+7047,18-24,Female,Locals,No Degree,58000,mental disease depression,MA
+7048,25-44,Female,Locals,No Degree,110000,mental disease depression,MA
+7049,45+,Female,Locals,No Degree,42000,mental disease depression,MA
+7050,18-24,Male,Locals,High School,51000,mental disease depression,MA
+7051,25-44,Male,Locals,High School,70000,mental disease depression,MA
+7052,45+,Male,Locals,High School,23000,mental disease depression,MA
+7053,18-24,Female,Locals,High School,30000,mental disease depression,MA
+7054,25-44,Female,Locals,High School,24000,mental disease depression,MA
+7055,45+,Female,Locals,High School,8900,mental disease depression,MA
+7056,18-24,Male,Expats,Graduated,690,mental disease depression,OM
+7057,25-44,Male,Expats,Graduated,2800,mental disease depression,OM
+7058,45+,Male,Expats,Graduated,510,mental disease depression,OM
+7059,18-24,Female,Expats,Graduated,270,mental disease depression,OM
+7060,25-44,Female,Expats,Graduated,2800,mental disease depression,OM
+7061,45+,Female,Expats,Graduated,400,mental disease depression,OM
+7062,18-24,Male,Expats,No Degree,1300,mental disease depression,OM
+7063,25-44,Male,Expats,No Degree,2800,mental disease depression,OM
+7064,45+,Male,Expats,No Degree,390,mental disease depression,OM
+7065,18-24,Female,Expats,No Degree,410,mental disease depression,OM
+7066,25-44,Female,Expats,No Degree,1300,mental disease depression,OM
+7067,45+,Female,Expats,No Degree,300,mental disease depression,OM
+7068,18-24,Male,Expats,High School,210,mental disease depression,OM
+7069,25-44,Male,Expats,High School,690,mental disease depression,OM
+7070,45+,Male,Expats,High School,110,mental disease depression,OM
+7071,18-24,Female,Expats,High School,180,mental disease depression,OM
+7072,25-44,Female,Expats,High School,480,mental disease depression,OM
+7073,45+,Female,Expats,High School,40,mental disease depression,OM
+7074,18-24,Male,Locals,Graduated,360,mental disease depression,OM
+7075,25-44,Male,Locals,Graduated,970,mental disease depression,OM
+7076,45+,Male,Locals,Graduated,100,mental disease depression,OM
+7077,18-24,Female,Locals,Graduated,200,mental disease depression,OM
+7078,25-44,Female,Locals,Graduated,820,mental disease depression,OM
+7079,45+,Female,Locals,Graduated,70,mental disease depression,OM
+7080,18-24,Male,Locals,No Degree,660,mental disease depression,OM
+7081,25-44,Male,Locals,No Degree,1100,mental disease depression,OM
+7082,45+,Male,Locals,No Degree,130,mental disease depression,OM
+7083,18-24,Female,Locals,No Degree,340,mental disease depression,OM
+7084,25-44,Female,Locals,No Degree,930,mental disease depression,OM
+7085,45+,Female,Locals,No Degree,40,mental disease depression,OM
+7086,18-24,Male,Locals,High School,170,mental disease depression,OM
+7087,25-44,Male,Locals,High School,340,mental disease depression,OM
+7088,45+,Male,Locals,High School,20,mental disease depression,OM
+7089,18-24,Female,Locals,High School,110,mental disease depression,OM
+7090,25-44,Female,Locals,High School,220,mental disease depression,OM
+7091,45+,Female,Locals,High School,40,mental disease depression,OM
+7092,18-24,Male,Expats,Graduated,5100,mental disease depression,QA
+7093,25-44,Male,Expats,Graduated,21000,mental disease depression,QA
+7094,45+,Male,Expats,Graduated,2800,mental disease depression,QA
+7095,18-24,Female,Expats,Graduated,1300,mental disease depression,QA
+7096,25-44,Female,Expats,Graduated,11000,mental disease depression,QA
+7097,45+,Female,Expats,Graduated,1300,mental disease depression,QA
+7098,18-24,Male,Expats,No Degree,3600,mental disease depression,QA
+7099,25-44,Male,Expats,No Degree,8500,mental disease depression,QA
+7100,45+,Male,Expats,No Degree,1200,mental disease depression,QA
+7101,18-24,Female,Expats,No Degree,720,mental disease depression,QA
+7102,25-44,Female,Expats,No Degree,3100,mental disease depression,QA
+7103,45+,Female,Expats,No Degree,760,mental disease depression,QA
+7104,18-24,Male,Expats,High School,1700,mental disease depression,QA
+7105,25-44,Male,Expats,High School,4500,mental disease depression,QA
+7106,45+,Male,Expats,High School,630,mental disease depression,QA
+7107,18-24,Female,Expats,High School,740,mental disease depression,QA
+7108,25-44,Female,Expats,High School,2200,mental disease depression,QA
+7109,45+,Female,Expats,High School,360,mental disease depression,QA
+7110,18-24,Male,Locals,Graduated,1100,mental disease depression,QA
+7111,25-44,Male,Locals,Graduated,3100,mental disease depression,QA
+7112,45+,Male,Locals,Graduated,220,mental disease depression,QA
+7113,18-24,Female,Locals,Graduated,370,mental disease depression,QA
+7114,25-44,Female,Locals,Graduated,1600,mental disease depression,QA
+7115,45+,Female,Locals,Graduated,270,mental disease depression,QA
+7116,18-24,Male,Locals,No Degree,880,mental disease depression,QA
+7117,25-44,Male,Locals,No Degree,1600,mental disease depression,QA
+7118,45+,Male,Locals,No Degree,240,mental disease depression,QA
+7119,18-24,Female,Locals,No Degree,380,mental disease depression,QA
+7120,25-44,Female,Locals,No Degree,850,mental disease depression,QA
+7121,45+,Female,Locals,No Degree,250,mental disease depression,QA
+7122,18-24,Male,Locals,High School,420,mental disease depression,QA
+7123,25-44,Male,Locals,High School,740,mental disease depression,QA
+7124,45+,Male,Locals,High School,160,mental disease depression,QA
+7125,18-24,Female,Locals,High School,270,mental disease depression,QA
+7126,25-44,Female,Locals,High School,420,mental disease depression,QA
+7127,45+,Female,Locals,High School,50,mental disease depression,QA
+7128,18-24,Male,Expats,Graduated,9800,mental disease depression,SA
+7129,25-44,Male,Expats,Graduated,58000,mental disease depression,SA
+7130,45+,Male,Expats,Graduated,8600,mental disease depression,SA
+7131,18-24,Female,Expats,Graduated,4900,mental disease depression,SA
+7132,25-44,Female,Expats,Graduated,28000,mental disease depression,SA
+7133,45+,Female,Expats,Graduated,4600,mental disease depression,SA
+7134,18-24,Male,Expats,No Degree,2700,mental disease depression,SA
+7135,25-44,Male,Expats,No Degree,9500,mental disease depression,SA
+7136,45+,Male,Expats,No Degree,2000,mental disease depression,SA
+7137,18-24,Female,Expats,No Degree,2100,mental disease depression,SA
+7138,25-44,Female,Expats,No Degree,6200,mental disease depression,SA
+7139,45+,Female,Expats,No Degree,1600,mental disease depression,SA
+7140,18-24,Male,Expats,High School,3600,mental disease depression,SA
+7141,25-44,Male,Expats,High School,12000,mental disease depression,SA
+7142,45+,Male,Expats,High School,2000,mental disease depression,SA
+7143,18-24,Female,Expats,High School,3000,mental disease depression,SA
+7144,25-44,Female,Expats,High School,6800,mental disease depression,SA
+7145,45+,Female,Expats,High School,1200,mental disease depression,SA
+7146,18-24,Male,Locals,Graduated,8400,mental disease depression,SA
+7147,25-44,Male,Locals,Graduated,32000,mental disease depression,SA
+7148,45+,Male,Locals,Graduated,5100,mental disease depression,SA
+7149,18-24,Female,Locals,Graduated,4700,mental disease depression,SA
+7150,25-44,Female,Locals,Graduated,16000,mental disease depression,SA
+7151,45+,Female,Locals,Graduated,2300,mental disease depression,SA
+7152,18-24,Male,Locals,No Degree,27000,mental disease depression,SA
+7153,25-44,Male,Locals,No Degree,56000,mental disease depression,SA
+7154,45+,Male,Locals,No Degree,10000,mental disease depression,SA
+7155,18-24,Female,Locals,No Degree,9700,mental disease depression,SA
+7156,25-44,Female,Locals,No Degree,16000,mental disease depression,SA
+7157,45+,Female,Locals,No Degree,5100,mental disease depression,SA
+7158,18-24,Male,Locals,High School,4100,mental disease depression,SA
+7159,25-44,Male,Locals,High School,10000,mental disease depression,SA
+7160,45+,Male,Locals,High School,1700,mental disease depression,SA
+7161,18-24,Female,Locals,High School,2900,mental disease depression,SA
+7162,25-44,Female,Locals,High School,4800,mental disease depression,SA
+7163,45+,Female,Locals,High School,770,mental disease depression,SA
+7164,18-24,Male,Expats,Graduated,1500,mental disease depression,SO
+7165,25-44,Male,Expats,Graduated,1300,mental disease depression,SO
+7166,45+,Male,Expats,Graduated,130,mental disease depression,SO
+7167,18-24,Female,Expats,Graduated,540,mental disease depression,SO
+7168,25-44,Female,Expats,Graduated,450,mental disease depression,SO
+7169,45+,Female,Expats,Graduated,90,mental disease depression,SO
+7170,18-24,Male,Expats,No Degree,370,mental disease depression,SO
+7171,25-44,Male,Expats,No Degree,460,mental disease depression,SO
+7172,45+,Male,Expats,No Degree,140,mental disease depression,SO
+7173,18-24,Female,Expats,No Degree,220,mental disease depression,SO
+7174,25-44,Female,Expats,No Degree,260,mental disease depression,SO
+7175,45+,Female,Expats,No Degree,40,mental disease depression,SO
+7176,18-24,Male,Expats,High School,390,mental disease depression,SO
+7177,25-44,Male,Expats,High School,240,mental disease depression,SO
+7178,45+,Male,Expats,High School,80,mental disease depression,SO
+7179,18-24,Female,Expats,High School,270,mental disease depression,SO
+7180,25-44,Female,Expats,High School,110,mental disease depression,SO
+7181,45+,Female,Expats,High School,30,mental disease depression,SO
+7182,18-24,Male,Locals,Graduated,5100,mental disease depression,SO
+7183,25-44,Male,Locals,Graduated,4400,mental disease depression,SO
+7184,45+,Male,Locals,Graduated,320,mental disease depression,SO
+7185,18-24,Female,Locals,Graduated,2900,mental disease depression,SO
+7186,25-44,Female,Locals,Graduated,1500,mental disease depression,SO
+7187,45+,Female,Locals,Graduated,180,mental disease depression,SO
+7188,18-24,Male,Locals,No Degree,8200,mental disease depression,SO
+7189,25-44,Male,Locals,No Degree,5200,mental disease depression,SO
+7190,45+,Male,Locals,No Degree,970,mental disease depression,SO
+7191,18-24,Female,Locals,No Degree,7700,mental disease depression,SO
+7192,25-44,Female,Locals,No Degree,3300,mental disease depression,SO
+7193,45+,Female,Locals,No Degree,360,mental disease depression,SO
+7194,18-24,Male,Locals,High School,2100,mental disease depression,SO
+7195,25-44,Male,Locals,High School,960,mental disease depression,SO
+7196,45+,Male,Locals,High School,90,mental disease depression,SO
+7197,18-24,Female,Locals,High School,1400,mental disease depression,SO
+7198,25-44,Female,Locals,High School,430,mental disease depression,SO
+7199,45+,Female,Locals,High School,120,mental disease depression,SO
+7200,18-24,Male,Expats,Graduated,4700,mental disease depression,TN
+7201,25-44,Male,Expats,Graduated,4300,mental disease depression,TN
+7202,45+,Male,Expats,Graduated,1200,mental disease depression,TN
+7203,18-24,Female,Expats,Graduated,3000,mental disease depression,TN
+7204,25-44,Female,Expats,Graduated,2600,mental disease depression,TN
+7205,45+,Female,Expats,Graduated,620,mental disease depression,TN
+7206,18-24,Male,Expats,No Degree,1800,mental disease depression,TN
+7207,25-44,Male,Expats,No Degree,2200,mental disease depression,TN
+7208,45+,Male,Expats,No Degree,560,mental disease depression,TN
+7209,18-24,Female,Expats,No Degree,1500,mental disease depression,TN
+7210,25-44,Female,Expats,No Degree,1700,mental disease depression,TN
+7211,45+,Female,Expats,No Degree,510,mental disease depression,TN
+7212,18-24,Male,Expats,High School,2100,mental disease depression,TN
+7213,25-44,Male,Expats,High School,1200,mental disease depression,TN
+7214,45+,Male,Expats,High School,270,mental disease depression,TN
+7215,18-24,Female,Expats,High School,1700,mental disease depression,TN
+7216,25-44,Female,Expats,High School,980,mental disease depression,TN
+7217,45+,Female,Expats,High School,280,mental disease depression,TN
+7218,18-24,Male,Locals,Graduated,26000,mental disease depression,TN
+7219,25-44,Male,Locals,Graduated,38000,mental disease depression,TN
+7220,45+,Male,Locals,Graduated,8000,mental disease depression,TN
+7221,18-24,Female,Locals,Graduated,45000,mental disease depression,TN
+7222,25-44,Female,Locals,Graduated,50000,mental disease depression,TN
+7223,45+,Female,Locals,Graduated,4900,mental disease depression,TN
+7224,18-24,Male,Locals,No Degree,19000,mental disease depression,TN
+7225,25-44,Male,Locals,No Degree,31000,mental disease depression,TN
+7226,45+,Male,Locals,No Degree,7500,mental disease depression,TN
+7227,18-24,Female,Locals,No Degree,33000,mental disease depression,TN
+7228,25-44,Female,Locals,No Degree,28000,mental disease depression,TN
+7229,45+,Female,Locals,No Degree,5900,mental disease depression,TN
+7230,18-24,Male,Locals,High School,15000,mental disease depression,TN
+7231,25-44,Male,Locals,High School,12000,mental disease depression,TN
+7232,45+,Male,Locals,High School,3000,mental disease depression,TN
+7233,18-24,Female,Locals,High School,26000,mental disease depression,TN
+7234,25-44,Female,Locals,High School,12000,mental disease depression,TN
+7235,45+,Female,Locals,High School,2400,mental disease depression,TN
+7236,18-24,Male,Expats,Graduated,7900,mental disease depression,AE
+7237,25-44,Male,Expats,Graduated,35000,mental disease depression,AE
+7238,45+,Male,Expats,Graduated,5600,mental disease depression,AE
+7239,18-24,Female,Expats,Graduated,4900,mental disease depression,AE
+7240,25-44,Female,Expats,Graduated,48000,mental disease depression,AE
+7241,45+,Female,Expats,Graduated,8300,mental disease depression,AE
+7242,18-24,Male,Expats,No Degree,5900,mental disease depression,AE
+7243,25-44,Male,Expats,No Degree,23000,mental disease depression,AE
+7244,45+,Male,Expats,No Degree,4600,mental disease depression,AE
+7245,18-24,Female,Expats,No Degree,1900,mental disease depression,AE
+7246,25-44,Female,Expats,No Degree,15000,mental disease depression,AE
+7247,45+,Female,Expats,No Degree,4600,mental disease depression,AE
+7248,18-24,Male,Expats,High School,3200,mental disease depression,AE
+7249,25-44,Male,Expats,High School,7500,mental disease depression,AE
+7250,45+,Male,Expats,High School,1500,mental disease depression,AE
+7251,18-24,Female,Expats,High School,3200,mental disease depression,AE
+7252,25-44,Female,Expats,High School,9600,mental disease depression,AE
+7253,45+,Female,Expats,High School,2300,mental disease depression,AE
+7254,18-24,Male,Locals,Graduated,2500,mental disease depression,AE
+7255,25-44,Male,Locals,Graduated,4700,mental disease depression,AE
+7256,45+,Male,Locals,Graduated,730,mental disease depression,AE
+7257,18-24,Female,Locals,Graduated,1300,mental disease depression,AE
+7258,25-44,Female,Locals,Graduated,5500,mental disease depression,AE
+7259,45+,Female,Locals,Graduated,990,mental disease depression,AE
+7260,18-24,Male,Locals,No Degree,3500,mental disease depression,AE
+7261,25-44,Male,Locals,No Degree,5700,mental disease depression,AE
+7262,45+,Male,Locals,No Degree,910,mental disease depression,AE
+7263,18-24,Female,Locals,No Degree,770,mental disease depression,AE
+7264,25-44,Female,Locals,No Degree,3000,mental disease depression,AE
+7265,45+,Female,Locals,No Degree,1200,mental disease depression,AE
+7266,18-24,Male,Locals,High School,1000,mental disease depression,AE
+7267,25-44,Male,Locals,High School,1300,mental disease depression,AE
+7268,45+,Male,Locals,High School,260,mental disease depression,AE
+7269,18-24,Female,Locals,High School,540,mental disease depression,AE
+7270,25-44,Female,Locals,High School,1400,mental disease depression,AE
+7271,45+,Female,Locals,High School,450,mental disease depression,AE
+7272,18-24,Male,Expats,Graduated,2500,mental disease depression,YE
+7273,25-44,Male,Expats,Graduated,4700,mental disease depression,YE
+7274,45+,Male,Expats,Graduated,350,mental disease depression,YE
+7275,18-24,Female,Expats,Graduated,320,mental disease depression,YE
+7276,25-44,Female,Expats,Graduated,730,mental disease depression,YE
+7277,45+,Female,Expats,Graduated,90,mental disease depression,YE
+7278,18-24,Male,Expats,No Degree,1000,mental disease depression,YE
+7279,25-44,Male,Expats,No Degree,1900,mental disease depression,YE
+7280,45+,Male,Expats,No Degree,200,mental disease depression,YE
+7281,18-24,Female,Expats,No Degree,400,mental disease depression,YE
+7282,25-44,Female,Expats,No Degree,440,mental disease depression,YE
+7283,45+,Female,Expats,No Degree,70,mental disease depression,YE
+7284,18-24,Male,Expats,High School,980,mental disease depression,YE
+7285,25-44,Male,Expats,High School,1000,mental disease depression,YE
+7286,45+,Male,Expats,High School,140,mental disease depression,YE
+7287,18-24,Female,Expats,High School,370,mental disease depression,YE
+7288,25-44,Female,Expats,High School,250,mental disease depression,YE
+7289,45+,Female,Expats,High School,20,mental disease depression,YE
+7290,18-24,Male,Locals,Graduated,20000,mental disease depression,YE
+7291,25-44,Male,Locals,Graduated,44000,mental disease depression,YE
+7292,45+,Male,Locals,Graduated,4000,mental disease depression,YE
+7293,18-24,Female,Locals,Graduated,3600,mental disease depression,YE
+7294,25-44,Female,Locals,Graduated,6800,mental disease depression,YE
+7295,45+,Female,Locals,Graduated,480,mental disease depression,YE
+7296,18-24,Male,Locals,No Degree,26000,mental disease depression,YE
+7297,25-44,Male,Locals,No Degree,35000,mental disease depression,YE
+7298,45+,Male,Locals,No Degree,5600,mental disease depression,YE
+7299,18-24,Female,Locals,No Degree,3800,mental disease depression,YE
+7300,25-44,Female,Locals,No Degree,4100,mental disease depression,YE
+7301,45+,Female,Locals,No Degree,700,mental disease depression,YE
+7302,18-24,Male,Locals,High School,15000,mental disease depression,YE
+7303,25-44,Male,Locals,High School,13000,mental disease depression,YE
+7304,45+,Male,Locals,High School,1300,mental disease depression,YE
+7305,18-24,Female,Locals,High School,4000,mental disease depression,YE
+7306,25-44,Female,Locals,High School,1900,mental disease depression,YE
+7307,45+,Female,Locals,High School,160,mental disease depression,YE
+7308,18-24,Male,Expats,Graduated,1100,mental disease depression,PS
+7309,25-44,Male,Expats,Graduated,2300,mental disease depression,PS
+7310,45+,Male,Expats,Graduated,510,mental disease depression,PS
+7311,18-24,Female,Expats,Graduated,990,mental disease depression,PS
+7312,25-44,Female,Expats,Graduated,1600,mental disease depression,PS
+7313,45+,Female,Expats,Graduated,300,mental disease depression,PS
+7314,18-24,Male,Expats,No Degree,290,mental disease depression,PS
+7315,25-44,Male,Expats,No Degree,800,mental disease depression,PS
+7316,45+,Male,Expats,No Degree,330,mental disease depression,PS
+7317,18-24,Female,Expats,No Degree,290,mental disease depression,PS
+7318,25-44,Female,Expats,No Degree,540,mental disease depression,PS
+7319,45+,Female,Expats,No Degree,300,mental disease depression,PS
+7320,18-24,Male,Expats,High School,640,mental disease depression,PS
+7321,25-44,Male,Expats,High School,510,mental disease depression,PS
+7322,45+,Male,Expats,High School,90,mental disease depression,PS
+7323,18-24,Female,Expats,High School,830,mental disease depression,PS
+7324,25-44,Female,Expats,High School,530,mental disease depression,PS
+7325,45+,Female,Expats,High School,110,mental disease depression,PS
+7326,18-24,Male,Locals,Graduated,3700,mental disease depression,PS
+7327,25-44,Male,Locals,Graduated,8300,mental disease depression,PS
+7328,45+,Male,Locals,Graduated,1700,mental disease depression,PS
+7329,18-24,Female,Locals,Graduated,2700,mental disease depression,PS
+7330,25-44,Female,Locals,Graduated,4900,mental disease depression,PS
+7331,45+,Female,Locals,Graduated,840,mental disease depression,PS
+7332,18-24,Male,Locals,No Degree,1700,mental disease depression,PS
+7333,25-44,Male,Locals,No Degree,3200,mental disease depression,PS
+7334,45+,Male,Locals,No Degree,1600,mental disease depression,PS
+7335,18-24,Female,Locals,No Degree,1400,mental disease depression,PS
+7336,25-44,Female,Locals,No Degree,2600,mental disease depression,PS
+7337,45+,Female,Locals,No Degree,1600,mental disease depression,PS
+7338,18-24,Male,Locals,High School,2200,mental disease depression,PS
+7339,25-44,Male,Locals,High School,1900,mental disease depression,PS
+7340,45+,Male,Locals,High School,480,mental disease depression,PS
+7341,18-24,Female,Locals,High School,3000,mental disease depression,PS
+7342,25-44,Female,Locals,High School,1300,mental disease depression,PS
+7343,45+,Female,Locals,High School,310,mental disease depression,PS
