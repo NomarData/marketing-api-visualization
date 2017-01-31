@@ -42,7 +42,7 @@ function getRandomColor() {
 
 function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     var currentInstance = this;
-    this.w = width;
+    this.w = width ;
     this.h = height;
     this.x = d3.scale.linear().range([0, width]);
     this.y = d3.scale.linear().range([0, height]);
@@ -51,6 +51,19 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.node = treemapData;
     this.treemapContainer = treemapContainer;
     this.tooltip_margin = 10;
+    this.treemapCategoryMargin = 15;
+
+    this.treemap = d3.layout.treemap()
+        .round(false)
+        .size([this.w - currentInstance.treemapCategoryMargin, this.h])
+        .sticky(false)
+        .sort(function(nodeData1, nodeData2){
+            if(currentInstance.getCategoryName() == "age_range") return -1*nodeData1.name.localeCompare(nodeData2.name)
+            return nodeData1.name.localeCompare(nodeData2.name)
+        })
+        .value(function (d) {
+            return d.size;
+        });
 
     this.getCategoryName = function () {
       return currentInstance.root.name;
@@ -153,13 +166,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
 
     };
 
-    this.treemap = d3.layout.treemap()
-        .round(false)
-        .size([this.w, this.h])
-        .sticky(false)
-        .value(function (d) {
-            return d.size;
-        });
 
     this.getOpacityBasedOnData = function(d, textElement,newWidth,newHeight){
         var labelWidth = textElement.getComputedTextLength(); //Guess the width of a text that is still not rendered
@@ -227,12 +233,30 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.isSelected = function (self, d) {
         return self.node.name == d.parent.name;
     }
+    this.hideCellGiven = function (node) {
 
-    this.onClickCell = function(d){
+    }
+    this.hideAllNodesBut = function (d) {
+        currentInstance = this;
+        for(let indexNode in currentInstance.root.children){
+            var node = currentInstance.root.children[indexNode];
+            if (d.name != node.name){
+                $("#" + getRectIDFromName(node.name)).fadeOut();
+            }   
+        }
+    }
+    this.showAllNodes = function () {
+        currentInstance = this;
+        $(currentInstance.svg.selectAll(".treemapRect")[0]).show();
+    }
+
+    this.onClickRect = function(d){
         if(currentInstance.isOnRoot()){
+            currentInstance.hideAllNodesBut(d);
             currentInstance.zoom(currentInstance, d.parent);
             treemapManager.selectTreemapOption(currentInstance, d);
         }else{
+            currentInstance.showAllNodes();
             currentInstance.zoom(currentInstance, currentInstance.root);
             treemapManager.unselectTreemapOption(currentInstance);
         }
@@ -270,6 +294,20 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         d3.select("#tooltip-treemap").classed("hidden", true);
     };
 
+    this.insertCategoryNameOnSide = function(){
+        var currentInstance = this;
+        var svg = currentInstance.svg;
+        svg.append("svg:text").text(mapValuesStringsTooltip[currentInstance.getCategoryName()])
+            .style("font-weight","bold")
+            .attr("transform", function(d){
+                var textElement = this;
+                // debugger
+                var distanceOfTop = currentInstance.h/2 + textElement.getComputedTextLength()/2 + 5;
+                // var distanceOfTop = textElement.getComputedTextLength()/2;
+                return "translate(-4,"+ distanceOfTop+") rotate(-90)";
+            });
+    }
+
     this.init = function(){
         var currentInstance = this;
         var color = currentInstance.color;
@@ -283,7 +321,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("width", this.w)
             .attr("height", this.h)
             .append("svg:g")
-            .attr("transform", "translate(.5,.5)");
+            .attr("transform", "translate("+ currentInstance.treemapCategoryMargin +",.5)");
         this.svg = svg;
         var zoom = currentInstance.zoom;
 
@@ -295,12 +333,13 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("class", "cell")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .on("click", function(d) {
-                currentInstance.onClickCell(d);
+                currentInstance.onClickRect(d);
             })
             .on("mousemove", currentInstance.mousemoveTooltip)
             .on("mouseout", currentInstance.mouseoutTooltip);
 
         cell.append("svg:rect")
+            .attr("id", function(d) { return getRectIDFromName(d.name) } )
             .attr("width", function(d) { return d.dx > 1 ? d.dx - 1 : d.dx; })
             .attr("height", function(d) { return d.dy > 1 ? d.dy - 1 : d.dy; })
             .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); })
@@ -315,7 +354,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .style("opacity", function(d) {
                 return currentInstance.getOpacityBasedOnData(d,this);
             });
-
+        this.insertCategoryNameOnSide();
     }
 
     this.setTextLines = function(d){
@@ -376,7 +415,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
       return this.node.name == this.root.name;
     };
 
-    this.getCells = function(){
+    this.getCellsActiveCells = function(){
         if(this.isOnRoot()){
             return this.root.children;
         } else{
@@ -388,7 +427,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.selectRootCell = function(){
         try{
             var selectedCell = currentInstance.getSelectedCell();
-            currentInstance.onClickCell(selectedCell.datum());
+            currentInstance.onClickRect(selectedCell.datum());
         } catch(Exception) {
             if(Exception instanceof noSelectedCellException){
                 return;
@@ -404,7 +443,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var cellWithValue = cells.filter(function(d){
             return d.name == value;
         });
-        currentInstance.onClickCell(cellWithValue.datum());
+        currentInstance.onClickRect(cellWithValue.datum());
     }
 
     this.selectCellGivenValue = function(value){
@@ -414,7 +453,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 return;
             } else {
                 //The selected cell is not what we want, so we go to the root
-                currentInstance.onClickCell(selectedCell.datum());
+                currentInstance.onClickRect(selectedCell.datum());
                 //Then select what we want
                 currentInstance.clickGivenValue(value);
             }

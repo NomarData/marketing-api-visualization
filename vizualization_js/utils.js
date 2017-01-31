@@ -13,6 +13,9 @@ function getFacebookPopulationInstanceByValue(value){
     return null;
 }
 
+function getRectIDFromName(name){
+    return name.replace(" ","_")
+}
 
 function removeValueFromArray(array,valueToRemove){
     return $.grep(array, function(value) {
