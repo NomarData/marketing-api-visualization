@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+4896,18-24,Male,Expats,Graduated,150000,shopping,DZ
+4897,25-44,Male,Expats,Graduated,160000,shopping,DZ
+4898,45+,Male,Expats,Graduated,21000,shopping,DZ
+4899,18-24,Female,Expats,Graduated,66000,shopping,DZ
+4900,25-44,Female,Expats,Graduated,45000,shopping,DZ
+4901,45+,Female,Expats,Graduated,7000,shopping,DZ
+4902,18-24,Male,Expats,No Degree,120000,shopping,DZ
+4903,25-44,Male,Expats,No Degree,180000,shopping,DZ
+4904,45+,Male,Expats,No Degree,31000,shopping,DZ
+4905,18-24,Female,Expats,No Degree,70000,shopping,DZ
+4906,25-44,Female,Expats,No Degree,65000,shopping,DZ
+4907,45+,Female,Expats,No Degree,11000,shopping,DZ
+4908,18-24,Male,Expats,High School,58000,shopping,DZ
+4909,25-44,Male,Expats,High School,39000,shopping,DZ
+4910,45+,Male,Expats,High School,7200,shopping,DZ
+4911,18-24,Female,Expats,High School,27000,shopping,DZ
+4912,25-44,Female,Expats,High School,12000,shopping,DZ
+4913,45+,Female,Expats,High School,2900,shopping,DZ
+4914,18-24,Male,Locals,Graduated,710000,shopping,DZ
+4915,25-44,Male,Locals,Graduated,1100000,shopping,DZ
+4916,45+,Male,Locals,Graduated,120000,shopping,DZ
+4917,18-24,Female,Locals,Graduated,530000,shopping,DZ
+4918,25-44,Female,Locals,Graduated,550000,shopping,DZ
+4919,45+,Female,Locals,Graduated,49000,shopping,DZ
+4920,18-24,Male,Locals,No Degree,1100000,shopping,DZ
+4921,25-44,Male,Locals,No Degree,1700000,shopping,DZ
+4922,45+,Male,Locals,No Degree,260000,shopping,DZ
+4923,18-24,Female,Locals,No Degree,970000,shopping,DZ
+4924,25-44,Female,Locals,No Degree,830000,shopping,DZ
+4925,45+,Female,Locals,No Degree,120000,shopping,DZ
+4926,18-24,Male,Locals,High School,330000,shopping,DZ
+4927,25-44,Male,Locals,High School,310000,shopping,DZ
+4928,45+,Male,Locals,High School,46000,shopping,DZ
+4929,18-24,Female,Locals,High School,270000,shopping,DZ
+4930,25-44,Female,Locals,High School,130000,shopping,DZ
+4931,45+,Female,Locals,High School,21000,shopping,DZ
+4932,18-24,Male,Expats,Graduated,25000,shopping,BH
+4933,25-44,Male,Expats,Graduated,120000,shopping,BH
+4934,45+,Male,Expats,Graduated,18000,shopping,BH
+4935,18-24,Female,Expats,Graduated,7100,shopping,BH
+4936,25-44,Female,Expats,Graduated,46000,shopping,BH
+4937,45+,Female,Expats,Graduated,8300,shopping,BH
+4938,18-24,Male,Expats,No Degree,49000,shopping,BH
+4939,25-44,Male,Expats,No Degree,140000,shopping,BH
+4940,45+,Male,Expats,No Degree,24000,shopping,BH
+4941,18-24,Female,Expats,No Degree,13000,shopping,BH
+4942,25-44,Female,Expats,No Degree,34000,shopping,BH
+4943,45+,Female,Expats,No Degree,8100,shopping,BH
+4944,18-24,Male,Expats,High School,11000,shopping,BH
+4945,25-44,Male,Expats,High School,35000,shopping,BH
+4946,45+,Male,Expats,High School,5800,shopping,BH
+4947,18-24,Female,Expats,High School,4700,shopping,BH
+4948,25-44,Female,Expats,High School,14000,shopping,BH
+4949,45+,Female,Expats,High School,2800,shopping,BH
+4950,18-24,Male,Locals,Graduated,5500,shopping,BH
+4951,25-44,Male,Locals,Graduated,18000,shopping,BH
+4952,45+,Male,Locals,Graduated,3200,shopping,BH
+4953,18-24,Female,Locals,Graduated,3900,shopping,BH
+4954,25-44,Female,Locals,Graduated,12000,shopping,BH
+4955,45+,Female,Locals,Graduated,1200,shopping,BH
+4956,18-24,Male,Locals,No Degree,11000,shopping,BH
+4957,25-44,Male,Locals,No Degree,20000,shopping,BH
+4958,45+,Male,Locals,No Degree,5300,shopping,BH
+4959,18-24,Female,Locals,No Degree,7300,shopping,BH
+4960,25-44,Female,Locals,No Degree,13000,shopping,BH
+4961,45+,Female,Locals,No Degree,2400,shopping,BH
+4962,18-24,Male,Locals,High School,3900,shopping,BH
+4963,25-44,Male,Locals,High School,5400,shopping,BH
+4964,45+,Male,Locals,High School,980,shopping,BH
+4965,18-24,Female,Locals,High School,4100,shopping,BH
+4966,25-44,Female,Locals,High School,2900,shopping,BH
+4967,45+,Female,Locals,High School,350,shopping,BH
+4968,18-24,Male,Expats,Graduated,100000,shopping,EG
+4969,25-44,Male,Expats,Graduated,190000,shopping,EG
+4970,45+,Male,Expats,Graduated,33000,shopping,EG
+4971,18-24,Female,Expats,Graduated,46000,shopping,EG
+4972,25-44,Female,Expats,Graduated,78000,shopping,EG
+4973,45+,Female,Expats,Graduated,14000,shopping,EG
+4974,18-24,Male,Expats,No Degree,62000,shopping,EG
+4975,25-44,Male,Expats,No Degree,100000,shopping,EG
+4976,45+,Male,Expats,No Degree,25000,shopping,EG
+4977,18-24,Female,Expats,No Degree,36000,shopping,EG
+4978,25-44,Female,Expats,No Degree,50000,shopping,EG
+4979,45+,Female,Expats,No Degree,15000,shopping,EG
+4980,18-24,Male,Expats,High School,56000,shopping,EG
+4981,25-44,Male,Expats,High School,45000,shopping,EG
+4982,45+,Male,Expats,High School,8000,shopping,EG
+4983,18-24,Female,Expats,High School,34000,shopping,EG
+4984,25-44,Female,Expats,High School,20000,shopping,EG
+4985,45+,Female,Expats,High School,4300,shopping,EG
+4986,18-24,Male,Locals,Graduated,1800000,shopping,EG
+4987,25-44,Male,Locals,Graduated,3200000,shopping,EG
+4988,45+,Male,Locals,Graduated,520000,shopping,EG
+4989,18-24,Female,Locals,Graduated,1300000,shopping,EG
+4990,25-44,Female,Locals,Graduated,1800000,shopping,EG
+4991,45+,Female,Locals,Graduated,250000,shopping,EG
+4992,18-24,Male,Locals,No Degree,1600000,shopping,EG
+4993,25-44,Male,Locals,No Degree,2500000,shopping,EG
+4994,45+,Male,Locals,No Degree,730000,shopping,EG
+4995,18-24,Female,Locals,No Degree,1100000,shopping,EG
+4996,25-44,Female,Locals,No Degree,1400000,shopping,EG
+4997,45+,Female,Locals,No Degree,450000,shopping,EG
+4998,18-24,Male,Locals,High School,1100000,shopping,EG
+4999,25-44,Male,Locals,High School,750000,shopping,EG
+5000,45+,Male,Locals,High School,140000,shopping,EG
+5001,18-24,Female,Locals,High School,900000,shopping,EG
+5002,25-44,Female,Locals,High School,360000,shopping,EG
+5003,45+,Female,Locals,High School,62000,shopping,EG
+5004,18-24,Male,Expats,Graduated,76000,shopping,IQ
+5005,25-44,Male,Expats,Graduated,150000,shopping,IQ
+5006,45+,Male,Expats,Graduated,20000,shopping,IQ
+5007,18-24,Female,Expats,Graduated,18000,shopping,IQ
+5008,25-44,Female,Expats,Graduated,29000,shopping,IQ
+5009,45+,Female,Expats,Graduated,3500,shopping,IQ
+5010,18-24,Male,Expats,No Degree,72000,shopping,IQ
+5011,25-44,Male,Expats,No Degree,100000,shopping,IQ
+5012,45+,Male,Expats,No Degree,17000,shopping,IQ
+5013,18-24,Female,Expats,No Degree,33000,shopping,IQ
+5014,25-44,Female,Expats,No Degree,32000,shopping,IQ
+5015,45+,Female,Expats,No Degree,5500,shopping,IQ
+5016,18-24,Male,Expats,High School,38000,shopping,IQ
+5017,25-44,Male,Expats,High School,42000,shopping,IQ
+5018,45+,Male,Expats,High School,6000,shopping,IQ
+5019,18-24,Female,Expats,High School,14000,shopping,IQ
+5020,25-44,Female,Expats,High School,9600,shopping,IQ
+5021,45+,Female,Expats,High School,1300,shopping,IQ
+5022,18-24,Male,Locals,Graduated,720000,shopping,IQ
+5023,25-44,Male,Locals,Graduated,1400000,shopping,IQ
+5024,45+,Male,Locals,Graduated,200000,shopping,IQ
+5025,18-24,Female,Locals,Graduated,230000,shopping,IQ
+5026,25-44,Female,Locals,Graduated,350000,shopping,IQ
+5027,45+,Female,Locals,Graduated,54000,shopping,IQ
+5028,18-24,Male,Locals,No Degree,1400000,shopping,IQ
+5029,25-44,Male,Locals,No Degree,1600000,shopping,IQ
+5030,45+,Male,Locals,No Degree,370000,shopping,IQ
+5031,18-24,Female,Locals,No Degree,590000,shopping,IQ
+5032,25-44,Female,Locals,No Degree,560000,shopping,IQ
+5033,45+,Female,Locals,No Degree,140000,shopping,IQ
+5034,18-24,Male,Locals,High School,460000,shopping,IQ
+5035,25-44,Male,Locals,High School,430000,shopping,IQ
+5036,45+,Male,Locals,High School,68000,shopping,IQ
+5037,18-24,Female,Locals,High School,220000,shopping,IQ
+5038,25-44,Female,Locals,High School,120000,shopping,IQ
+5039,45+,Female,Locals,High School,19000,shopping,IQ
+5040,18-24,Male,Expats,Graduated,58000,shopping,JO
+5041,25-44,Male,Expats,Graduated,130000,shopping,JO
+5042,45+,Male,Expats,Graduated,21000,shopping,JO
+5043,18-24,Female,Expats,Graduated,35000,shopping,JO
+5044,25-44,Female,Expats,Graduated,75000,shopping,JO
+5045,45+,Female,Expats,Graduated,16000,shopping,JO
+5046,18-24,Male,Expats,No Degree,79000,shopping,JO
+5047,25-44,Male,Expats,No Degree,130000,shopping,JO
+5048,45+,Male,Expats,No Degree,29000,shopping,JO
+5049,18-24,Female,Expats,No Degree,49000,shopping,JO
+5050,25-44,Female,Expats,No Degree,66000,shopping,JO
+5051,45+,Female,Expats,No Degree,25000,shopping,JO
+5052,18-24,Male,Expats,High School,45000,shopping,JO
+5053,25-44,Male,Expats,High School,41000,shopping,JO
+5054,45+,Male,Expats,High School,7300,shopping,JO
+5055,18-24,Female,Expats,High School,41000,shopping,JO
+5056,25-44,Female,Expats,High School,25000,shopping,JO
+5057,45+,Female,Expats,High School,6300,shopping,JO
+5058,18-24,Male,Locals,Graduated,170000,shopping,JO
+5059,25-44,Male,Locals,Graduated,330000,shopping,JO
+5060,45+,Male,Locals,Graduated,65000,shopping,JO
+5061,18-24,Female,Locals,Graduated,120000,shopping,JO
+5062,25-44,Female,Locals,Graduated,220000,shopping,JO
+5063,45+,Female,Locals,Graduated,33000,shopping,JO
+5064,18-24,Male,Locals,No Degree,220000,shopping,JO
+5065,25-44,Male,Locals,No Degree,290000,shopping,JO
+5066,45+,Male,Locals,No Degree,110000,shopping,JO
+5067,18-24,Female,Locals,No Degree,200000,shopping,JO
+5068,25-44,Female,Locals,No Degree,250000,shopping,JO
+5069,45+,Female,Locals,No Degree,90000,shopping,JO
+5070,18-24,Male,Locals,High School,140000,shopping,JO
+5071,25-44,Male,Locals,High School,110000,shopping,JO
+5072,45+,Male,Locals,High School,26000,shopping,JO
+5073,18-24,Female,Locals,High School,140000,shopping,JO
+5074,25-44,Female,Locals,High School,70000,shopping,JO
+5075,45+,Female,Locals,High School,14000,shopping,JO
+5076,18-24,Male,Expats,Graduated,42000,shopping,KW
+5077,25-44,Male,Expats,Graduated,350000,shopping,KW
+5078,45+,Male,Expats,Graduated,52000,shopping,KW
+5079,18-24,Female,Expats,Graduated,19000,shopping,KW
+5080,25-44,Female,Expats,Graduated,160000,shopping,KW
+5081,45+,Female,Expats,Graduated,22000,shopping,KW
+5082,18-24,Male,Expats,No Degree,120000,shopping,KW
+5083,25-44,Male,Expats,No Degree,400000,shopping,KW
+5084,45+,Male,Expats,No Degree,84000,shopping,KW
+5085,18-24,Female,Expats,No Degree,51000,shopping,KW
+5086,25-44,Female,Expats,No Degree,140000,shopping,KW
+5087,45+,Female,Expats,No Degree,29000,shopping,KW
+5088,18-24,Male,Expats,High School,23000,shopping,KW
+5089,25-44,Male,Expats,High School,100000,shopping,KW
+5090,45+,Male,Expats,High School,17000,shopping,KW
+5091,18-24,Female,Expats,High School,14000,shopping,KW
+5092,25-44,Female,Expats,High School,59000,shopping,KW
+5093,45+,Female,Expats,High School,8100,shopping,KW
+5094,18-24,Male,Locals,Graduated,4800,shopping,KW
+5095,25-44,Male,Locals,Graduated,23000,shopping,KW
+5096,45+,Male,Locals,Graduated,4100,shopping,KW
+5097,18-24,Female,Locals,Graduated,2400,shopping,KW
+5098,25-44,Female,Locals,Graduated,13000,shopping,KW
+5099,45+,Female,Locals,Graduated,1900,shopping,KW
+5100,18-24,Male,Locals,No Degree,18000,shopping,KW
+5101,25-44,Male,Locals,No Degree,40000,shopping,KW
+5102,45+,Male,Locals,No Degree,8200,shopping,KW
+5103,18-24,Female,Locals,No Degree,12000,shopping,KW
+5104,25-44,Female,Locals,No Degree,23000,shopping,KW
+5105,45+,Female,Locals,No Degree,4600,shopping,KW
+5106,18-24,Male,Locals,High School,3000,shopping,KW
+5107,25-44,Male,Locals,High School,6000,shopping,KW
+5108,45+,Male,Locals,High School,1200,shopping,KW
+5109,18-24,Female,Locals,High School,2600,shopping,KW
+5110,25-44,Female,Locals,High School,3100,shopping,KW
+5111,45+,Female,Locals,High School,410,shopping,KW
+5112,18-24,Male,Expats,Graduated,36000,shopping,LB
+5113,25-44,Male,Expats,Graduated,73000,shopping,LB
+5114,45+,Male,Expats,Graduated,10000,shopping,LB
+5115,18-24,Female,Expats,Graduated,15000,shopping,LB
+5116,25-44,Female,Expats,Graduated,40000,shopping,LB
+5117,45+,Female,Expats,Graduated,9000,shopping,LB
+5118,18-24,Male,Expats,No Degree,79000,shopping,LB
+5119,25-44,Male,Expats,No Degree,110000,shopping,LB
+5120,45+,Male,Expats,No Degree,19000,shopping,LB
+5121,18-24,Female,Expats,No Degree,43000,shopping,LB
+5122,25-44,Female,Expats,No Degree,59000,shopping,LB
+5123,45+,Female,Expats,No Degree,14000,shopping,LB
+5124,18-24,Male,Expats,High School,22000,shopping,LB
+5125,25-44,Male,Expats,High School,28000,shopping,LB
+5126,45+,Male,Expats,High School,3700,shopping,LB
+5127,18-24,Female,Expats,High School,12000,shopping,LB
+5128,25-44,Female,Expats,High School,17000,shopping,LB
+5129,45+,Female,Expats,High School,3700,shopping,LB
+5130,18-24,Male,Locals,Graduated,67000,shopping,LB
+5131,25-44,Male,Locals,Graduated,160000,shopping,LB
+5132,45+,Male,Locals,Graduated,44000,shopping,LB
+5133,18-24,Female,Locals,Graduated,65000,shopping,LB
+5134,25-44,Female,Locals,Graduated,160000,shopping,LB
+5135,45+,Female,Locals,Graduated,38000,shopping,LB
+5136,18-24,Male,Locals,No Degree,140000,shopping,LB
+5137,25-44,Male,Locals,No Degree,200000,shopping,LB
+5138,45+,Male,Locals,No Degree,96000,shopping,LB
+5139,18-24,Female,Locals,No Degree,120000,shopping,LB
+5140,25-44,Female,Locals,No Degree,190000,shopping,LB
+5141,45+,Female,Locals,No Degree,110000,shopping,LB
+5142,18-24,Male,Locals,High School,55000,shopping,LB
+5143,25-44,Male,Locals,High School,45000,shopping,LB
+5144,45+,Male,Locals,High School,14000,shopping,LB
+5145,18-24,Female,Locals,High School,67000,shopping,LB
+5146,25-44,Female,Locals,High School,44000,shopping,LB
+5147,45+,Female,Locals,High School,14000,shopping,LB
+5148,18-24,Male,Expats,Graduated,21000,shopping,LY
+5149,25-44,Male,Expats,Graduated,57000,shopping,LY
+5150,45+,Male,Expats,Graduated,7300,shopping,LY
+5151,18-24,Female,Expats,Graduated,6700,shopping,LY
+5152,25-44,Female,Expats,Graduated,15000,shopping,LY
+5153,45+,Female,Expats,Graduated,2900,shopping,LY
+5154,18-24,Male,Expats,No Degree,32000,shopping,LY
+5155,25-44,Male,Expats,No Degree,71000,shopping,LY
+5156,45+,Male,Expats,No Degree,10000,shopping,LY
+5157,18-24,Female,Expats,No Degree,9800,shopping,LY
+5158,25-44,Female,Expats,No Degree,18000,shopping,LY
+5159,45+,Female,Expats,No Degree,4300,shopping,LY
+5160,18-24,Male,Expats,High School,8700,shopping,LY
+5161,25-44,Male,Expats,High School,15000,shopping,LY
+5162,45+,Male,Expats,High School,2100,shopping,LY
+5163,18-24,Female,Expats,High School,4000,shopping,LY
+5164,25-44,Female,Expats,High School,4100,shopping,LY
+5165,45+,Female,Expats,High School,810,shopping,LY
+5166,18-24,Male,Locals,Graduated,110000,shopping,LY
+5167,25-44,Male,Locals,Graduated,240000,shopping,LY
+5168,45+,Male,Locals,Graduated,39000,shopping,LY
+5169,18-24,Female,Locals,Graduated,87000,shopping,LY
+5170,25-44,Female,Locals,Graduated,150000,shopping,LY
+5171,45+,Female,Locals,Graduated,19000,shopping,LY
+5172,18-24,Male,Locals,No Degree,110000,shopping,LY
+5173,25-44,Male,Locals,No Degree,230000,shopping,LY
+5174,45+,Male,Locals,No Degree,54000,shopping,LY
+5175,18-24,Female,Locals,No Degree,100000,shopping,LY
+5176,25-44,Female,Locals,No Degree,190000,shopping,LY
+5177,45+,Female,Locals,No Degree,47000,shopping,LY
+5178,18-24,Male,Locals,High School,60000,shopping,LY
+5179,25-44,Male,Locals,High School,56000,shopping,LY
+5180,45+,Male,Locals,High School,12000,shopping,LY
+5181,18-24,Female,Locals,High School,65000,shopping,LY
+5182,25-44,Female,Locals,High School,38000,shopping,LY
+5183,45+,Female,Locals,High School,6200,shopping,LY
+5184,18-24,Male,Expats,Graduated,120000,shopping,MA
+5185,25-44,Male,Expats,Graduated,110000,shopping,MA
+5186,45+,Male,Expats,Graduated,16000,shopping,MA
+5187,18-24,Female,Expats,Graduated,46000,shopping,MA
+5188,25-44,Female,Expats,Graduated,41000,shopping,MA
+5189,45+,Female,Expats,Graduated,6000,shopping,MA
+5190,18-24,Male,Expats,No Degree,62000,shopping,MA
+5191,25-44,Male,Expats,No Degree,91000,shopping,MA
+5192,45+,Male,Expats,No Degree,20000,shopping,MA
+5193,18-24,Female,Expats,No Degree,41000,shopping,MA
+5194,25-44,Female,Expats,No Degree,47000,shopping,MA
+5195,45+,Female,Expats,No Degree,8300,shopping,MA
+5196,18-24,Male,Expats,High School,45000,shopping,MA
+5197,25-44,Male,Expats,High School,29000,shopping,MA
+5198,45+,Male,Expats,High School,5400,shopping,MA
+5199,18-24,Female,Expats,High School,20000,shopping,MA
+5200,25-44,Female,Expats,High School,13000,shopping,MA
+5201,45+,Female,Expats,High School,2500,shopping,MA
+5202,18-24,Male,Locals,Graduated,800000,shopping,MA
+5203,25-44,Male,Locals,Graduated,910000,shopping,MA
+5204,45+,Male,Locals,Graduated,130000,shopping,MA
+5205,18-24,Female,Locals,Graduated,490000,shopping,MA
+5206,25-44,Female,Locals,Graduated,420000,shopping,MA
+5207,45+,Female,Locals,Graduated,53000,shopping,MA
+5208,18-24,Male,Locals,No Degree,890000,shopping,MA
+5209,25-44,Male,Locals,No Degree,1200000,shopping,MA
+5210,45+,Male,Locals,No Degree,250000,shopping,MA
+5211,18-24,Female,Locals,No Degree,680000,shopping,MA
+5212,25-44,Female,Locals,No Degree,590000,shopping,MA
+5213,45+,Female,Locals,No Degree,110000,shopping,MA
+5214,18-24,Male,Locals,High School,350000,shopping,MA
+5215,25-44,Male,Locals,High School,260000,shopping,MA
+5216,45+,Male,Locals,High School,45000,shopping,MA
+5217,18-24,Female,Locals,High School,260000,shopping,MA
+5218,25-44,Female,Locals,High School,130000,shopping,MA
+5219,45+,Female,Locals,High School,22000,shopping,MA
+5220,18-24,Male,Expats,Graduated,45000,shopping,OM
+5221,25-44,Male,Expats,Graduated,220000,shopping,OM
+5222,45+,Male,Expats,Graduated,25000,shopping,OM
+5223,18-24,Female,Expats,Graduated,9300,shopping,OM
+5224,25-44,Female,Expats,Graduated,53000,shopping,OM
+5225,45+,Female,Expats,Graduated,7900,shopping,OM
+5226,18-24,Male,Expats,No Degree,140000,shopping,OM
+5227,25-44,Male,Expats,No Degree,280000,shopping,OM
+5228,45+,Male,Expats,No Degree,31000,shopping,OM
+5229,18-24,Female,Expats,No Degree,32000,shopping,OM
+5230,25-44,Female,Expats,No Degree,49000,shopping,OM
+5231,45+,Female,Expats,No Degree,7100,shopping,OM
+5232,18-24,Male,Expats,High School,18000,shopping,OM
+5233,25-44,Male,Expats,High School,54000,shopping,OM
+5234,45+,Male,Expats,High School,6700,shopping,OM
+5235,18-24,Female,Expats,High School,6300,shopping,OM
+5236,25-44,Female,Expats,High School,14000,shopping,OM
+5237,45+,Female,Expats,High School,2100,shopping,OM
+5238,18-24,Male,Locals,Graduated,14000,shopping,OM
+5239,25-44,Male,Locals,Graduated,38000,shopping,OM
+5240,45+,Male,Locals,Graduated,2200,shopping,OM
+5241,18-24,Female,Locals,Graduated,4000,shopping,OM
+5242,25-44,Female,Locals,Graduated,8600,shopping,OM
+5243,45+,Female,Locals,Graduated,450,shopping,OM
+5244,18-24,Male,Locals,No Degree,27000,shopping,OM
+5245,25-44,Male,Locals,No Degree,39000,shopping,OM
+5246,45+,Male,Locals,No Degree,4600,shopping,OM
+5247,18-24,Female,Locals,No Degree,10000,shopping,OM
+5248,25-44,Female,Locals,No Degree,13000,shopping,OM
+5249,45+,Female,Locals,No Degree,1100,shopping,OM
+5250,18-24,Male,Locals,High School,8600,shopping,OM
+5251,25-44,Male,Locals,High School,11000,shopping,OM
+5252,45+,Male,Locals,High School,990,shopping,OM
+5253,18-24,Female,Locals,High School,3200,shopping,OM
+5254,25-44,Female,Locals,High School,2000,shopping,OM
+5255,45+,Female,Locals,High School,180,shopping,OM
+5256,18-24,Male,Expats,Graduated,110000,shopping,QA
+5257,25-44,Male,Expats,Graduated,470000,shopping,QA
+5258,45+,Male,Expats,Graduated,53000,shopping,QA
+5259,18-24,Female,Expats,Graduated,25000,shopping,QA
+5260,25-44,Female,Expats,Graduated,140000,shopping,QA
+5261,45+,Female,Expats,Graduated,16000,shopping,QA
+5262,18-24,Male,Expats,No Degree,200000,shopping,QA
+5263,25-44,Male,Expats,No Degree,390000,shopping,QA
+5264,45+,Male,Expats,No Degree,55000,shopping,QA
+5265,18-24,Female,Expats,No Degree,41000,shopping,QA
+5266,25-44,Female,Expats,No Degree,83000,shopping,QA
+5267,45+,Female,Expats,No Degree,15000,shopping,QA
+5268,18-24,Male,Expats,High School,41000,shopping,QA
+5269,25-44,Male,Expats,High School,120000,shopping,QA
+5270,45+,Male,Expats,High School,15000,shopping,QA
+5271,18-24,Female,Expats,High School,13000,shopping,QA
+5272,25-44,Female,Expats,High School,36000,shopping,QA
+5273,45+,Female,Expats,High School,4700,shopping,QA
+5274,18-24,Male,Locals,Graduated,3700,shopping,QA
+5275,25-44,Male,Locals,Graduated,9100,shopping,QA
+5276,45+,Male,Locals,Graduated,1000,shopping,QA
+5277,18-24,Female,Locals,Graduated,1700,shopping,QA
+5278,25-44,Female,Locals,Graduated,4300,shopping,QA
+5279,45+,Female,Locals,Graduated,430,shopping,QA
+5280,18-24,Male,Locals,No Degree,8500,shopping,QA
+5281,25-44,Male,Locals,No Degree,16000,shopping,QA
+5282,45+,Male,Locals,No Degree,2700,shopping,QA
+5283,18-24,Female,Locals,No Degree,4700,shopping,QA
+5284,25-44,Female,Locals,No Degree,8600,shopping,QA
+5285,45+,Female,Locals,No Degree,1300,shopping,QA
+5286,18-24,Male,Locals,High School,1600,shopping,QA
+5287,25-44,Male,Locals,High School,2900,shopping,QA
+5288,45+,Male,Locals,High School,270,shopping,QA
+5289,18-24,Female,Locals,High School,1500,shopping,QA
+5290,25-44,Female,Locals,High School,1100,shopping,QA
+5291,45+,Female,Locals,High School,120,shopping,QA
+5292,18-24,Male,Expats,Graduated,340000,shopping,SA
+5293,25-44,Male,Expats,Graduated,1800000,shopping,SA
+5294,45+,Male,Expats,Graduated,200000,shopping,SA
+5295,18-24,Female,Expats,Graduated,80000,shopping,SA
+5296,25-44,Female,Expats,Graduated,400000,shopping,SA
+5297,45+,Female,Expats,Graduated,51000,shopping,SA
+5298,18-24,Male,Expats,No Degree,110000,shopping,SA
+5299,25-44,Male,Expats,No Degree,350000,shopping,SA
+5300,45+,Male,Expats,No Degree,55000,shopping,SA
+5301,18-24,Female,Expats,No Degree,47000,shopping,SA
+5302,25-44,Female,Expats,No Degree,110000,shopping,SA
+5303,45+,Female,Expats,No Degree,20000,shopping,SA
+5304,18-24,Male,Expats,High School,130000,shopping,SA
+5305,25-44,Male,Expats,High School,400000,shopping,SA
+5306,45+,Male,Expats,High School,52000,shopping,SA
+5307,18-24,Female,Expats,High School,49000,shopping,SA
+5308,25-44,Female,Expats,High School,110000,shopping,SA
+5309,45+,Female,Expats,High School,15000,shopping,SA
+5310,18-24,Male,Locals,Graduated,190000,shopping,SA
+5311,25-44,Male,Locals,Graduated,790000,shopping,SA
+5312,45+,Male,Locals,Graduated,96000,shopping,SA
+5313,18-24,Female,Locals,Graduated,77000,shopping,SA
+5314,25-44,Female,Locals,Graduated,230000,shopping,SA
+5315,45+,Female,Locals,Graduated,24000,shopping,SA
+5316,18-24,Male,Locals,No Degree,1300000,shopping,SA
+5317,25-44,Male,Locals,No Degree,2400000,shopping,SA
+5318,45+,Male,Locals,No Degree,360000,shopping,SA
+5319,18-24,Female,Locals,No Degree,430000,shopping,SA
+5320,25-44,Female,Locals,No Degree,530000,shopping,SA
+5321,45+,Female,Locals,No Degree,92000,shopping,SA
+5322,18-24,Male,Locals,High School,120000,shopping,SA
+5323,25-44,Male,Locals,High School,280000,shopping,SA
+5324,45+,Male,Locals,High School,36000,shopping,SA
+5325,18-24,Female,Locals,High School,66000,shopping,SA
+5326,25-44,Female,Locals,High School,75000,shopping,SA
+5327,45+,Female,Locals,High School,9000,shopping,SA
+5328,18-24,Male,Expats,Graduated,12000,shopping,SO
+5329,25-44,Male,Expats,Graduated,13000,shopping,SO
+5330,45+,Male,Expats,Graduated,1800,shopping,SO
+5331,18-24,Female,Expats,Graduated,5300,shopping,SO
+5332,25-44,Female,Expats,Graduated,3200,shopping,SO
+5333,45+,Female,Expats,Graduated,390,shopping,SO
+5334,18-24,Male,Expats,No Degree,4100,shopping,SO
+5335,25-44,Male,Expats,No Degree,6400,shopping,SO
+5336,45+,Male,Expats,No Degree,1200,shopping,SO
+5337,18-24,Female,Expats,No Degree,2900,shopping,SO
+5338,25-44,Female,Expats,No Degree,1900,shopping,SO
+5339,45+,Female,Expats,No Degree,230,shopping,SO
+5340,18-24,Male,Expats,High School,3200,shopping,SO
+5341,25-44,Male,Expats,High School,2700,shopping,SO
+5342,45+,Male,Expats,High School,460,shopping,SO
+5343,18-24,Female,Expats,High School,2000,shopping,SO
+5344,25-44,Female,Expats,High School,840,shopping,SO
+5345,45+,Female,Expats,High School,90,shopping,SO
+5346,18-24,Male,Locals,Graduated,35000,shopping,SO
+5347,25-44,Male,Locals,Graduated,37000,shopping,SO
+5348,45+,Male,Locals,Graduated,2600,shopping,SO
+5349,18-24,Female,Locals,Graduated,24000,shopping,SO
+5350,25-44,Female,Locals,Graduated,14000,shopping,SO
+5351,45+,Female,Locals,Graduated,1400,shopping,SO
+5352,18-24,Male,Locals,No Degree,56000,shopping,SO
+5353,25-44,Male,Locals,No Degree,39000,shopping,SO
+5354,45+,Male,Locals,No Degree,6300,shopping,SO
+5355,18-24,Female,Locals,No Degree,62000,shopping,SO
+5356,25-44,Female,Locals,No Degree,27000,shopping,SO
+5357,45+,Female,Locals,No Degree,2700,shopping,SO
+5358,18-24,Male,Locals,High School,13000,shopping,SO
+5359,25-44,Male,Locals,High School,7500,shopping,SO
+5360,45+,Male,Locals,High School,780,shopping,SO
+5361,18-24,Female,Locals,High School,9700,shopping,SO
+5362,25-44,Female,Locals,High School,3400,shopping,SO
+5363,45+,Female,Locals,High School,450,shopping,SO
+5364,18-24,Male,Expats,Graduated,46000,shopping,TN
+5365,25-44,Male,Expats,Graduated,55000,shopping,TN
+5366,45+,Male,Expats,Graduated,12000,shopping,TN
+5367,18-24,Female,Expats,Graduated,22000,shopping,TN
+5368,25-44,Female,Expats,Graduated,25000,shopping,TN
+5369,45+,Female,Expats,Graduated,5500,shopping,TN
+5370,18-24,Male,Expats,No Degree,26000,shopping,TN
+5371,25-44,Male,Expats,No Degree,45000,shopping,TN
+5372,45+,Male,Expats,No Degree,11000,shopping,TN
+5373,18-24,Female,Expats,No Degree,19000,shopping,TN
+5374,25-44,Female,Expats,No Degree,27000,shopping,TN
+5375,45+,Female,Expats,No Degree,6100,shopping,TN
+5376,18-24,Male,Expats,High School,20000,shopping,TN
+5377,25-44,Male,Expats,High School,16000,shopping,TN
+5378,45+,Male,Expats,High School,4100,shopping,TN
+5379,18-24,Female,Expats,High School,11000,shopping,TN
+5380,25-44,Female,Expats,High School,8100,shopping,TN
+5381,45+,Female,Expats,High School,2600,shopping,TN
+5382,18-24,Male,Locals,Graduated,250000,shopping,TN
+5383,25-44,Male,Locals,Graduated,490000,shopping,TN
+5384,45+,Male,Locals,Graduated,110000,shopping,TN
+5385,18-24,Female,Locals,Graduated,260000,shopping,TN
+5386,25-44,Female,Locals,Graduated,420000,shopping,TN
+5387,45+,Female,Locals,Graduated,53000,shopping,TN
+5388,18-24,Male,Locals,No Degree,300000,shopping,TN
+5389,25-44,Male,Locals,No Degree,500000,shopping,TN
+5390,45+,Male,Locals,No Degree,140000,shopping,TN
+5391,18-24,Female,Locals,No Degree,320000,shopping,TN
+5392,25-44,Female,Locals,No Degree,390000,shopping,TN
+5393,45+,Female,Locals,No Degree,98000,shopping,TN
+5394,18-24,Male,Locals,High School,130000,shopping,TN
+5395,25-44,Male,Locals,High School,160000,shopping,TN
+5396,45+,Male,Locals,High School,45000,shopping,TN
+5397,18-24,Female,Locals,High School,150000,shopping,TN
+5398,25-44,Female,Locals,High School,110000,shopping,TN
+5399,45+,Female,Locals,High School,30000,shopping,TN
+5400,18-24,Male,Expats,Graduated,350000,shopping,AE
+5401,25-44,Male,Expats,Graduated,1700000,shopping,AE
+5402,45+,Male,Expats,Graduated,180000,shopping,AE
+5403,18-24,Female,Expats,Graduated,110000,shopping,AE
+5404,25-44,Female,Expats,Graduated,650000,shopping,AE
+5405,45+,Female,Expats,Graduated,82000,shopping,AE
+5406,18-24,Male,Expats,No Degree,500000,shopping,AE
+5407,25-44,Male,Expats,No Degree,1200000,shopping,AE
+5408,45+,Male,Expats,No Degree,170000,shopping,AE
+5409,18-24,Female,Expats,No Degree,140000,shopping,AE
+5410,25-44,Female,Expats,No Degree,330000,shopping,AE
+5411,45+,Female,Expats,No Degree,69000,shopping,AE
+5412,18-24,Male,Expats,High School,130000,shopping,AE
+5413,25-44,Male,Expats,High School,380000,shopping,AE
+5414,45+,Male,Expats,High School,50000,shopping,AE
+5415,18-24,Female,Expats,High School,61000,shopping,AE
+5416,25-44,Female,Expats,High School,140000,shopping,AE
+5417,45+,Female,Expats,High School,24000,shopping,AE
+5418,18-24,Male,Locals,Graduated,14000,shopping,AE
+5419,25-44,Male,Locals,Graduated,46000,shopping,AE
+5420,45+,Male,Locals,Graduated,4700,shopping,AE
+5421,18-24,Female,Locals,Graduated,7500,shopping,AE
+5422,25-44,Female,Locals,Graduated,22000,shopping,AE
+5423,45+,Female,Locals,Graduated,1600,shopping,AE
+5424,18-24,Male,Locals,No Degree,41000,shopping,AE
+5425,25-44,Male,Locals,No Degree,78000,shopping,AE
+5426,45+,Male,Locals,No Degree,12000,shopping,AE
+5427,18-24,Female,Locals,No Degree,25000,shopping,AE
+5428,25-44,Female,Locals,No Degree,44000,shopping,AE
+5429,45+,Female,Locals,No Degree,5100,shopping,AE
+5430,18-24,Male,Locals,High School,9100,shopping,AE
+5431,25-44,Male,Locals,High School,13000,shopping,AE
+5432,45+,Male,Locals,High School,1600,shopping,AE
+5433,18-24,Female,Locals,High School,6400,shopping,AE
+5434,25-44,Female,Locals,High School,5300,shopping,AE
+5435,45+,Female,Locals,High School,530,shopping,AE
+5436,18-24,Male,Expats,Graduated,13000,shopping,YE
+5437,25-44,Male,Expats,Graduated,23000,shopping,YE
+5438,45+,Male,Expats,Graduated,2200,shopping,YE
+5439,18-24,Female,Expats,Graduated,2800,shopping,YE
+5440,25-44,Female,Expats,Graduated,4400,shopping,YE
+5441,45+,Female,Expats,Graduated,440,shopping,YE
+5442,18-24,Male,Expats,No Degree,10000,shopping,YE
+5443,25-44,Male,Expats,No Degree,16000,shopping,YE
+5444,45+,Male,Expats,No Degree,1800,shopping,YE
+5445,18-24,Female,Expats,No Degree,6000,shopping,YE
+5446,25-44,Female,Expats,No Degree,5000,shopping,YE
+5447,45+,Female,Expats,No Degree,650,shopping,YE
+5448,18-24,Male,Expats,High School,5800,shopping,YE
+5449,25-44,Male,Expats,High School,5700,shopping,YE
+5450,45+,Male,Expats,High School,580,shopping,YE
+5451,18-24,Female,Expats,High School,2100,shopping,YE
+5452,25-44,Female,Expats,High School,1400,shopping,YE
+5453,45+,Female,Expats,High School,120,shopping,YE
+5454,18-24,Male,Locals,Graduated,92000,shopping,YE
+5455,25-44,Male,Locals,Graduated,190000,shopping,YE
+5456,45+,Male,Locals,Graduated,16000,shopping,YE
+5457,18-24,Female,Locals,Graduated,19000,shopping,YE
+5458,25-44,Female,Locals,Graduated,31000,shopping,YE
+5459,45+,Female,Locals,Graduated,1800,shopping,YE
+5460,18-24,Male,Locals,No Degree,150000,shopping,YE
+5461,25-44,Male,Locals,No Degree,180000,shopping,YE
+5462,45+,Male,Locals,No Degree,24000,shopping,YE
+5463,18-24,Female,Locals,No Degree,31000,shopping,YE
+5464,25-44,Female,Locals,No Degree,31000,shopping,YE
+5465,45+,Female,Locals,No Degree,3800,shopping,YE
+5466,18-24,Male,Locals,High School,59000,shopping,YE
+5467,25-44,Male,Locals,High School,55000,shopping,YE
+5468,45+,Male,Locals,High School,4900,shopping,YE
+5469,18-24,Female,Locals,High School,18000,shopping,YE
+5470,25-44,Female,Locals,High School,9000,shopping,YE
+5471,45+,Female,Locals,High School,720,shopping,YE
+5472,18-24,Male,Expats,Graduated,16000,shopping,PS
+5473,25-44,Male,Expats,Graduated,27000,shopping,PS
+5474,45+,Male,Expats,Graduated,4200,shopping,PS
+5475,18-24,Female,Expats,Graduated,13000,shopping,PS
+5476,25-44,Female,Expats,Graduated,19000,shopping,PS
+5477,45+,Female,Expats,Graduated,2600,shopping,PS
+5478,18-24,Male,Expats,No Degree,7400,shopping,PS
+5479,25-44,Male,Expats,No Degree,9700,shopping,PS
+5480,45+,Male,Expats,No Degree,2700,shopping,PS
+5481,18-24,Female,Expats,No Degree,9600,shopping,PS
+5482,25-44,Female,Expats,No Degree,9800,shopping,PS
+5483,45+,Female,Expats,No Degree,3100,shopping,PS
+5484,18-24,Male,Expats,High School,9000,shopping,PS
+5485,25-44,Male,Expats,High School,5700,shopping,PS
+5486,45+,Male,Expats,High School,1200,shopping,PS
+5487,18-24,Female,Expats,High School,10000,shopping,PS
+5488,25-44,Female,Expats,High School,5000,shopping,PS
+5489,45+,Female,Expats,High School,1200,shopping,PS
+5490,18-24,Male,Locals,Graduated,71000,shopping,PS
+5491,25-44,Male,Locals,Graduated,110000,shopping,PS
+5492,45+,Male,Locals,Graduated,17000,shopping,PS
+5493,18-24,Female,Locals,Graduated,63000,shopping,PS
+5494,25-44,Female,Locals,Graduated,83000,shopping,PS
+5495,45+,Female,Locals,Graduated,8400,shopping,PS
+5496,18-24,Male,Locals,No Degree,56000,shopping,PS
+5497,25-44,Male,Locals,No Degree,64000,shopping,PS
+5498,45+,Male,Locals,No Degree,21000,shopping,PS
+5499,18-24,Female,Locals,No Degree,55000,shopping,PS
+5500,25-44,Female,Locals,No Degree,64000,shopping,PS
+5501,45+,Female,Locals,No Degree,21000,shopping,PS
+5502,18-24,Male,Locals,High School,44000,shopping,PS
+5503,25-44,Male,Locals,High School,28000,shopping,PS
+5504,45+,Male,Locals,High School,5900,shopping,PS
+5505,18-24,Female,Locals,High School,53000,shopping,PS
+5506,25-44,Female,Locals,High School,24000,shopping,PS
+5507,45+,Female,Locals,High School,3900,shopping,PS
+6120,18-24,Male,Expats,Graduated,180000,mobile phones gadgets,DZ
+6121,25-44,Male,Expats,Graduated,200000,mobile phones gadgets,DZ
+6122,45+,Male,Expats,Graduated,25000,mobile phones gadgets,DZ
+6123,18-24,Female,Expats,Graduated,80000,mobile phones gadgets,DZ
+6124,25-44,Female,Expats,Graduated,51000,mobile phones gadgets,DZ
+6125,45+,Female,Expats,Graduated,7300,mobile phones gadgets,DZ
+6126,18-24,Male,Expats,No Degree,180000,mobile phones gadgets,DZ
+6127,25-44,Male,Expats,No Degree,280000,mobile phones gadgets,DZ
+6128,45+,Male,Expats,No Degree,45000,mobile phones gadgets,DZ
+6129,18-24,Female,Expats,No Degree,110000,mobile phones gadgets,DZ
+6130,25-44,Female,Expats,No Degree,92000,mobile phones gadgets,DZ
+6131,45+,Female,Expats,No Degree,14000,mobile phones gadgets,DZ
+6132,18-24,Male,Expats,High School,70000,mobile phones gadgets,DZ
+6133,25-44,Male,Expats,High School,49000,mobile phones gadgets,DZ
+6134,45+,Male,Expats,High School,8700,mobile phones gadgets,DZ
+6135,18-24,Female,Expats,High School,33000,mobile phones gadgets,DZ
+6136,25-44,Female,Expats,High School,14000,mobile phones gadgets,DZ
+6137,45+,Female,Expats,High School,3100,mobile phones gadgets,DZ
+6138,18-24,Male,Locals,Graduated,860000,mobile phones gadgets,DZ
+6139,25-44,Male,Locals,Graduated,1300000,mobile phones gadgets,DZ
+6140,45+,Male,Locals,Graduated,140000,mobile phones gadgets,DZ
+6141,18-24,Female,Locals,Graduated,620000,mobile phones gadgets,DZ
+6142,25-44,Female,Locals,Graduated,580000,mobile phones gadgets,DZ
+6143,45+,Female,Locals,Graduated,51000,mobile phones gadgets,DZ
+6144,18-24,Male,Locals,No Degree,1800000,mobile phones gadgets,DZ
+6145,25-44,Male,Locals,No Degree,2400000,mobile phones gadgets,DZ
+6146,45+,Male,Locals,No Degree,380000,mobile phones gadgets,DZ
+6147,18-24,Female,Locals,No Degree,1400000,mobile phones gadgets,DZ
+6148,25-44,Female,Locals,No Degree,1100000,mobile phones gadgets,DZ
+6149,45+,Female,Locals,No Degree,150000,mobile phones gadgets,DZ
+6150,18-24,Male,Locals,High School,410000,mobile phones gadgets,DZ
+6151,25-44,Male,Locals,High School,380000,mobile phones gadgets,DZ
+6152,45+,Male,Locals,High School,56000,mobile phones gadgets,DZ
+6153,18-24,Female,Locals,High School,320000,mobile phones gadgets,DZ
+6154,25-44,Female,Locals,High School,150000,mobile phones gadgets,DZ
+6155,45+,Female,Locals,High School,23000,mobile phones gadgets,DZ
+6156,18-24,Male,Expats,Graduated,27000,mobile phones gadgets,BH
+6157,25-44,Male,Expats,Graduated,140000,mobile phones gadgets,BH
+6158,45+,Male,Expats,Graduated,20000,mobile phones gadgets,BH
+6159,18-24,Female,Expats,Graduated,7400,mobile phones gadgets,BH
+6160,25-44,Female,Expats,Graduated,46000,mobile phones gadgets,BH
+6161,45+,Female,Expats,Graduated,8300,mobile phones gadgets,BH
+6162,18-24,Male,Expats,No Degree,59000,mobile phones gadgets,BH
+6163,25-44,Male,Expats,No Degree,160000,mobile phones gadgets,BH
+6164,45+,Male,Expats,No Degree,29000,mobile phones gadgets,BH
+6165,18-24,Female,Expats,No Degree,16000,mobile phones gadgets,BH
+6166,25-44,Female,Expats,No Degree,38000,mobile phones gadgets,BH
+6167,45+,Female,Expats,No Degree,8800,mobile phones gadgets,BH
+6168,18-24,Male,Expats,High School,12000,mobile phones gadgets,BH
+6169,25-44,Male,Expats,High School,38000,mobile phones gadgets,BH
+6170,45+,Male,Expats,High School,6600,mobile phones gadgets,BH
+6171,18-24,Female,Expats,High School,4900,mobile phones gadgets,BH
+6172,25-44,Female,Expats,High School,15000,mobile phones gadgets,BH
+6173,45+,Female,Expats,High School,2700,mobile phones gadgets,BH
+6174,18-24,Male,Locals,Graduated,6200,mobile phones gadgets,BH
+6175,25-44,Male,Locals,Graduated,20000,mobile phones gadgets,BH
+6176,45+,Male,Locals,Graduated,3700,mobile phones gadgets,BH
+6177,18-24,Female,Locals,Graduated,3500,mobile phones gadgets,BH
+6178,25-44,Female,Locals,Graduated,10000,mobile phones gadgets,BH
+6179,45+,Female,Locals,Graduated,1100,mobile phones gadgets,BH
+6180,18-24,Male,Locals,No Degree,17000,mobile phones gadgets,BH
+6181,25-44,Male,Locals,No Degree,30000,mobile phones gadgets,BH
+6182,45+,Male,Locals,No Degree,7600,mobile phones gadgets,BH
+6183,18-24,Female,Locals,No Degree,8400,mobile phones gadgets,BH
+6184,25-44,Female,Locals,No Degree,14000,mobile phones gadgets,BH
+6185,45+,Female,Locals,No Degree,2900,mobile phones gadgets,BH
+6186,18-24,Male,Locals,High School,4400,mobile phones gadgets,BH
+6187,25-44,Male,Locals,High School,6200,mobile phones gadgets,BH
+6188,45+,Male,Locals,High School,1200,mobile phones gadgets,BH
+6189,18-24,Female,Locals,High School,3700,mobile phones gadgets,BH
+6190,25-44,Female,Locals,High School,2700,mobile phones gadgets,BH
+6191,45+,Female,Locals,High School,360,mobile phones gadgets,BH
+6192,18-24,Male,Expats,Graduated,130000,mobile phones gadgets,EG
+6193,25-44,Male,Expats,Graduated,230000,mobile phones gadgets,EG
+6194,45+,Male,Expats,Graduated,38000,mobile phones gadgets,EG
+6195,18-24,Female,Expats,Graduated,55000,mobile phones gadgets,EG
+6196,25-44,Female,Expats,Graduated,86000,mobile phones gadgets,EG
+6197,45+,Female,Expats,Graduated,14000,mobile phones gadgets,EG
+6198,18-24,Male,Expats,No Degree,100000,mobile phones gadgets,EG
+6199,25-44,Male,Expats,No Degree,160000,mobile phones gadgets,EG
+6200,45+,Male,Expats,No Degree,35000,mobile phones gadgets,EG
+6201,18-24,Female,Expats,No Degree,55000,mobile phones gadgets,EG
+6202,25-44,Female,Expats,No Degree,65000,mobile phones gadgets,EG
+6203,45+,Female,Expats,No Degree,18000,mobile phones gadgets,EG
+6204,18-24,Male,Expats,High School,67000,mobile phones gadgets,EG
+6205,25-44,Male,Expats,High School,55000,mobile phones gadgets,EG
+6206,45+,Male,Expats,High School,9400,mobile phones gadgets,EG
+6207,18-24,Female,Expats,High School,38000,mobile phones gadgets,EG
+6208,25-44,Female,Expats,High School,22000,mobile phones gadgets,EG
+6209,45+,Female,Expats,High School,4600,mobile phones gadgets,EG
+6210,18-24,Male,Locals,Graduated,2200000,mobile phones gadgets,EG
+6211,25-44,Male,Locals,Graduated,3700000,mobile phones gadgets,EG
+6212,45+,Male,Locals,Graduated,600000,mobile phones gadgets,EG
+6213,18-24,Female,Locals,Graduated,1400000,mobile phones gadgets,EG
+6214,25-44,Female,Locals,Graduated,1900000,mobile phones gadgets,EG
+6215,45+,Female,Locals,Graduated,260000,mobile phones gadgets,EG
+6216,18-24,Male,Locals,No Degree,2700000,mobile phones gadgets,EG
+6217,25-44,Male,Locals,No Degree,3800000,mobile phones gadgets,EG
+6218,45+,Male,Locals,No Degree,1000000,mobile phones gadgets,EG
+6219,18-24,Female,Locals,No Degree,1600000,mobile phones gadgets,EG
+6220,25-44,Female,Locals,No Degree,1800000,mobile phones gadgets,EG
+6221,45+,Female,Locals,No Degree,550000,mobile phones gadgets,EG
+6222,18-24,Male,Locals,High School,1200000,mobile phones gadgets,EG
+6223,25-44,Male,Locals,High School,920000,mobile phones gadgets,EG
+6224,45+,Male,Locals,High School,160000,mobile phones gadgets,EG
+6225,18-24,Female,Locals,High School,990000,mobile phones gadgets,EG
+6226,25-44,Female,Locals,High School,390000,mobile phones gadgets,EG
+6227,45+,Female,Locals,High School,66000,mobile phones gadgets,EG
+6228,18-24,Male,Expats,Graduated,93000,mobile phones gadgets,IQ
+6229,25-44,Male,Expats,Graduated,170000,mobile phones gadgets,IQ
+6230,45+,Male,Expats,Graduated,22000,mobile phones gadgets,IQ
+6231,18-24,Female,Expats,Graduated,24000,mobile phones gadgets,IQ
+6232,25-44,Female,Expats,Graduated,33000,mobile phones gadgets,IQ
+6233,45+,Female,Expats,Graduated,3600,mobile phones gadgets,IQ
+6234,18-24,Male,Expats,No Degree,100000,mobile phones gadgets,IQ
+6235,25-44,Male,Expats,No Degree,140000,mobile phones gadgets,IQ
+6236,45+,Male,Expats,No Degree,23000,mobile phones gadgets,IQ
+6237,18-24,Female,Expats,No Degree,50000,mobile phones gadgets,IQ
+6238,25-44,Female,Expats,No Degree,42000,mobile phones gadgets,IQ
+6239,45+,Female,Expats,No Degree,6800,mobile phones gadgets,IQ
+6240,18-24,Male,Expats,High School,46000,mobile phones gadgets,IQ
+6241,25-44,Male,Expats,High School,50000,mobile phones gadgets,IQ
+6242,45+,Male,Expats,High School,6700,mobile phones gadgets,IQ
+6243,18-24,Female,Expats,High School,16000,mobile phones gadgets,IQ
+6244,25-44,Female,Expats,High School,11000,mobile phones gadgets,IQ
+6245,45+,Female,Expats,High School,1400,mobile phones gadgets,IQ
+6246,18-24,Male,Locals,Graduated,870000,mobile phones gadgets,IQ
+6247,25-44,Male,Locals,Graduated,1600000,mobile phones gadgets,IQ
+6248,45+,Male,Locals,Graduated,230000,mobile phones gadgets,IQ
+6249,18-24,Female,Locals,Graduated,290000,mobile phones gadgets,IQ
+6250,25-44,Female,Locals,Graduated,380000,mobile phones gadgets,IQ
+6251,45+,Female,Locals,Graduated,55000,mobile phones gadgets,IQ
+6252,18-24,Male,Locals,No Degree,2000000,mobile phones gadgets,IQ
+6253,25-44,Male,Locals,No Degree,2100000,mobile phones gadgets,IQ
+6254,45+,Male,Locals,No Degree,470000,mobile phones gadgets,IQ
+6255,18-24,Female,Locals,No Degree,860000,mobile phones gadgets,IQ
+6256,25-44,Female,Locals,No Degree,690000,mobile phones gadgets,IQ
+6257,45+,Female,Locals,No Degree,160000,mobile phones gadgets,IQ
+6258,18-24,Male,Locals,High School,530000,mobile phones gadgets,IQ
+6259,25-44,Male,Locals,High School,480000,mobile phones gadgets,IQ
+6260,45+,Male,Locals,High School,78000,mobile phones gadgets,IQ
+6261,18-24,Female,Locals,High School,250000,mobile phones gadgets,IQ
+6262,25-44,Female,Locals,High School,130000,mobile phones gadgets,IQ
+6263,45+,Female,Locals,High School,20000,mobile phones gadgets,IQ
+6264,18-24,Male,Expats,Graduated,68000,mobile phones gadgets,JO
+6265,25-44,Male,Expats,Graduated,140000,mobile phones gadgets,JO
+6266,45+,Male,Expats,Graduated,24000,mobile phones gadgets,JO
+6267,18-24,Female,Expats,Graduated,39000,mobile phones gadgets,JO
+6268,25-44,Female,Expats,Graduated,78000,mobile phones gadgets,JO
+6269,45+,Female,Expats,Graduated,16000,mobile phones gadgets,JO
+6270,18-24,Male,Expats,No Degree,110000,mobile phones gadgets,JO
+6271,25-44,Male,Expats,No Degree,170000,mobile phones gadgets,JO
+6272,45+,Male,Expats,No Degree,36000,mobile phones gadgets,JO
+6273,18-24,Female,Expats,No Degree,68000,mobile phones gadgets,JO
+6274,25-44,Female,Expats,No Degree,79000,mobile phones gadgets,JO
+6275,45+,Female,Expats,No Degree,27000,mobile phones gadgets,JO
+6276,18-24,Male,Expats,High School,50000,mobile phones gadgets,JO
+6277,25-44,Male,Expats,High School,47000,mobile phones gadgets,JO
+6278,45+,Male,Expats,High School,8000,mobile phones gadgets,JO
+6279,18-24,Female,Expats,High School,44000,mobile phones gadgets,JO
+6280,25-44,Female,Expats,High School,26000,mobile phones gadgets,JO
+6281,45+,Female,Expats,High School,6300,mobile phones gadgets,JO
+6282,18-24,Male,Locals,Graduated,200000,mobile phones gadgets,JO
+6283,25-44,Male,Locals,Graduated,360000,mobile phones gadgets,JO
+6284,45+,Male,Locals,Graduated,71000,mobile phones gadgets,JO
+6285,18-24,Female,Locals,Graduated,130000,mobile phones gadgets,JO
+6286,25-44,Female,Locals,Graduated,230000,mobile phones gadgets,JO
+6287,45+,Female,Locals,Graduated,34000,mobile phones gadgets,JO
+6288,18-24,Male,Locals,No Degree,340000,mobile phones gadgets,JO
+6289,25-44,Male,Locals,No Degree,390000,mobile phones gadgets,JO
+6290,45+,Male,Locals,No Degree,140000,mobile phones gadgets,JO
+6291,18-24,Female,Locals,No Degree,280000,mobile phones gadgets,JO
+6292,25-44,Female,Locals,No Degree,290000,mobile phones gadgets,JO
+6293,45+,Female,Locals,No Degree,100000,mobile phones gadgets,JO
+6294,18-24,Male,Locals,High School,160000,mobile phones gadgets,JO
+6295,25-44,Male,Locals,High School,120000,mobile phones gadgets,JO
+6296,45+,Male,Locals,High School,29000,mobile phones gadgets,JO
+6297,18-24,Female,Locals,High School,150000,mobile phones gadgets,JO
+6298,25-44,Female,Locals,High School,74000,mobile phones gadgets,JO
+6299,45+,Female,Locals,High School,15000,mobile phones gadgets,JO
+6300,18-24,Male,Expats,Graduated,47000,mobile phones gadgets,KW
+6301,25-44,Male,Expats,Graduated,380000,mobile phones gadgets,KW
+6302,45+,Male,Expats,Graduated,58000,mobile phones gadgets,KW
+6303,18-24,Female,Expats,Graduated,21000,mobile phones gadgets,KW
+6304,25-44,Female,Expats,Graduated,160000,mobile phones gadgets,KW
+6305,45+,Female,Expats,Graduated,22000,mobile phones gadgets,KW
+6306,18-24,Male,Expats,No Degree,150000,mobile phones gadgets,KW
+6307,25-44,Male,Expats,No Degree,490000,mobile phones gadgets,KW
+6308,45+,Male,Expats,No Degree,100000,mobile phones gadgets,KW
+6309,18-24,Female,Expats,No Degree,62000,mobile phones gadgets,KW
+6310,25-44,Female,Expats,No Degree,170000,mobile phones gadgets,KW
+6311,45+,Female,Expats,No Degree,32000,mobile phones gadgets,KW
+6312,18-24,Male,Expats,High School,25000,mobile phones gadgets,KW
+6313,25-44,Male,Expats,High School,110000,mobile phones gadgets,KW
+6314,45+,Male,Expats,High School,19000,mobile phones gadgets,KW
+6315,18-24,Female,Expats,High School,15000,mobile phones gadgets,KW
+6316,25-44,Female,Expats,High School,62000,mobile phones gadgets,KW
+6317,45+,Female,Expats,High School,8200,mobile phones gadgets,KW
+6318,18-24,Male,Locals,Graduated,5700,mobile phones gadgets,KW
+6319,25-44,Male,Locals,Graduated,27000,mobile phones gadgets,KW
+6320,45+,Male,Locals,Graduated,4900,mobile phones gadgets,KW
+6321,18-24,Female,Locals,Graduated,2400,mobile phones gadgets,KW
+6322,25-44,Female,Locals,Graduated,12000,mobile phones gadgets,KW
+6323,45+,Female,Locals,Graduated,1800,mobile phones gadgets,KW
+6324,18-24,Male,Locals,No Degree,33000,mobile phones gadgets,KW
+6325,25-44,Male,Locals,No Degree,68000,mobile phones gadgets,KW
+6326,45+,Male,Locals,No Degree,14000,mobile phones gadgets,KW
+6327,18-24,Female,Locals,No Degree,15000,mobile phones gadgets,KW
+6328,25-44,Female,Locals,No Degree,28000,mobile phones gadgets,KW
+6329,45+,Female,Locals,No Degree,5300,mobile phones gadgets,KW
+6330,18-24,Male,Locals,High School,3700,mobile phones gadgets,KW
+6331,25-44,Male,Locals,High School,7400,mobile phones gadgets,KW
+6332,45+,Male,Locals,High School,1400,mobile phones gadgets,KW
+6333,18-24,Female,Locals,High School,2500,mobile phones gadgets,KW
+6334,25-44,Female,Locals,High School,3000,mobile phones gadgets,KW
+6335,45+,Female,Locals,High School,410,mobile phones gadgets,KW
+6336,18-24,Male,Expats,Graduated,44000,mobile phones gadgets,LB
+6337,25-44,Male,Expats,Graduated,85000,mobile phones gadgets,LB
+6338,45+,Male,Expats,Graduated,12000,mobile phones gadgets,LB
+6339,18-24,Female,Expats,Graduated,17000,mobile phones gadgets,LB
+6340,25-44,Female,Expats,Graduated,42000,mobile phones gadgets,LB
+6341,45+,Female,Expats,Graduated,9000,mobile phones gadgets,LB
+6342,18-24,Male,Expats,No Degree,110000,mobile phones gadgets,LB
+6343,25-44,Male,Expats,No Degree,150000,mobile phones gadgets,LB
+6344,45+,Male,Expats,No Degree,24000,mobile phones gadgets,LB
+6345,18-24,Female,Expats,No Degree,56000,mobile phones gadgets,LB
+6346,25-44,Female,Expats,No Degree,71000,mobile phones gadgets,LB
+6347,45+,Female,Expats,No Degree,16000,mobile phones gadgets,LB
+6348,18-24,Male,Expats,High School,27000,mobile phones gadgets,LB
+6349,25-44,Male,Expats,High School,32000,mobile phones gadgets,LB
+6350,45+,Male,Expats,High School,4200,mobile phones gadgets,LB
+6351,18-24,Female,Expats,High School,13000,mobile phones gadgets,LB
+6352,25-44,Female,Expats,High School,18000,mobile phones gadgets,LB
+6353,45+,Female,Expats,High School,3700,mobile phones gadgets,LB
+6354,18-24,Male,Locals,Graduated,74000,mobile phones gadgets,LB
+6355,25-44,Male,Locals,Graduated,170000,mobile phones gadgets,LB
+6356,45+,Male,Locals,Graduated,47000,mobile phones gadgets,LB
+6357,18-24,Female,Locals,Graduated,66000,mobile phones gadgets,LB
+6358,25-44,Female,Locals,Graduated,150000,mobile phones gadgets,LB
+6359,45+,Female,Locals,Graduated,37000,mobile phones gadgets,LB
+6360,18-24,Male,Locals,No Degree,200000,mobile phones gadgets,LB
+6361,25-44,Male,Locals,No Degree,270000,mobile phones gadgets,LB
+6362,45+,Male,Locals,No Degree,120000,mobile phones gadgets,LB
+6363,18-24,Female,Locals,No Degree,140000,mobile phones gadgets,LB
+6364,25-44,Female,Locals,No Degree,210000,mobile phones gadgets,LB
+6365,45+,Female,Locals,No Degree,120000,mobile phones gadgets,LB
+6366,18-24,Male,Locals,High School,59000,mobile phones gadgets,LB
+6367,25-44,Male,Locals,High School,49000,mobile phones gadgets,LB
+6368,45+,Male,Locals,High School,16000,mobile phones gadgets,LB
+6369,18-24,Female,Locals,High School,67000,mobile phones gadgets,LB
+6370,25-44,Female,Locals,High School,44000,mobile phones gadgets,LB
+6371,45+,Female,Locals,High School,14000,mobile phones gadgets,LB
+6372,18-24,Male,Expats,Graduated,26000,mobile phones gadgets,LY
+6373,25-44,Male,Expats,Graduated,70000,mobile phones gadgets,LY
+6374,45+,Male,Expats,Graduated,8700,mobile phones gadgets,LY
+6375,18-24,Female,Expats,Graduated,7500,mobile phones gadgets,LY
+6376,25-44,Female,Expats,Graduated,16000,mobile phones gadgets,LY
+6377,45+,Female,Expats,Graduated,3000,mobile phones gadgets,LY
+6378,18-24,Male,Expats,No Degree,50000,mobile phones gadgets,LY
+6379,25-44,Male,Expats,No Degree,100000,mobile phones gadgets,LY
+6380,45+,Male,Expats,No Degree,14000,mobile phones gadgets,LY
+6381,18-24,Female,Expats,No Degree,14000,mobile phones gadgets,LY
+6382,25-44,Female,Expats,No Degree,22000,mobile phones gadgets,LY
+6383,45+,Female,Expats,No Degree,5000,mobile phones gadgets,LY
+6384,18-24,Male,Expats,High School,11000,mobile phones gadgets,LY
+6385,25-44,Male,Expats,High School,19000,mobile phones gadgets,LY
+6386,45+,Male,Expats,High School,2500,mobile phones gadgets,LY
+6387,18-24,Female,Expats,High School,4500,mobile phones gadgets,LY
+6388,25-44,Female,Expats,High School,4400,mobile phones gadgets,LY
+6389,45+,Female,Expats,High School,830,mobile phones gadgets,LY
+6390,18-24,Male,Locals,Graduated,120000,mobile phones gadgets,LY
+6391,25-44,Male,Locals,Graduated,280000,mobile phones gadgets,LY
+6392,45+,Male,Locals,Graduated,46000,mobile phones gadgets,LY
+6393,18-24,Female,Locals,Graduated,93000,mobile phones gadgets,LY
+6394,25-44,Female,Locals,Graduated,160000,mobile phones gadgets,LY
+6395,45+,Female,Locals,Graduated,19000,mobile phones gadgets,LY
+6396,18-24,Male,Locals,No Degree,180000,mobile phones gadgets,LY
+6397,25-44,Male,Locals,No Degree,340000,mobile phones gadgets,LY
+6398,45+,Male,Locals,No Degree,81000,mobile phones gadgets,LY
+6399,18-24,Female,Locals,No Degree,130000,mobile phones gadgets,LY
+6400,25-44,Female,Locals,No Degree,220000,mobile phones gadgets,LY
+6401,45+,Female,Locals,No Degree,54000,mobile phones gadgets,LY
+6402,18-24,Male,Locals,High School,69000,mobile phones gadgets,LY
+6403,25-44,Male,Locals,High School,67000,mobile phones gadgets,LY
+6404,45+,Male,Locals,High School,14000,mobile phones gadgets,LY
+6405,18-24,Female,Locals,High School,69000,mobile phones gadgets,LY
+6406,25-44,Female,Locals,High School,39000,mobile phones gadgets,LY
+6407,45+,Female,Locals,High School,6300,mobile phones gadgets,LY
+6408,18-24,Male,Expats,Graduated,140000,mobile phones gadgets,MA
+6409,25-44,Male,Expats,Graduated,130000,mobile phones gadgets,MA
+6410,45+,Male,Expats,Graduated,19000,mobile phones gadgets,MA
+6411,18-24,Female,Expats,Graduated,50000,mobile phones gadgets,MA
+6412,25-44,Female,Expats,Graduated,43000,mobile phones gadgets,MA
+6413,45+,Female,Expats,Graduated,6100,mobile phones gadgets,MA
+6414,18-24,Male,Expats,No Degree,85000,mobile phones gadgets,MA
+6415,25-44,Male,Expats,No Degree,130000,mobile phones gadgets,MA
+6416,45+,Male,Expats,No Degree,27000,mobile phones gadgets,MA
+6417,18-24,Female,Expats,No Degree,54000,mobile phones gadgets,MA
+6418,25-44,Female,Expats,No Degree,59000,mobile phones gadgets,MA
+6419,45+,Female,Expats,No Degree,9800,mobile phones gadgets,MA
+6420,18-24,Male,Expats,High School,51000,mobile phones gadgets,MA
+6421,25-44,Male,Expats,High School,35000,mobile phones gadgets,MA
+6422,45+,Male,Expats,High School,6200,mobile phones gadgets,MA
+6423,18-24,Female,Expats,High School,22000,mobile phones gadgets,MA
+6424,25-44,Female,Expats,High School,14000,mobile phones gadgets,MA
+6425,45+,Female,Expats,High School,2700,mobile phones gadgets,MA
+6426,18-24,Male,Locals,Graduated,890000,mobile phones gadgets,MA
+6427,25-44,Male,Locals,Graduated,1000000,mobile phones gadgets,MA
+6428,45+,Male,Locals,Graduated,150000,mobile phones gadgets,MA
+6429,18-24,Female,Locals,Graduated,520000,mobile phones gadgets,MA
+6430,25-44,Female,Locals,Graduated,430000,mobile phones gadgets,MA
+6431,45+,Female,Locals,Graduated,54000,mobile phones gadgets,MA
+6432,18-24,Male,Locals,No Degree,1200000,mobile phones gadgets,MA
+6433,25-44,Male,Locals,No Degree,1600000,mobile phones gadgets,MA
+6434,45+,Male,Locals,No Degree,340000,mobile phones gadgets,MA
+6435,18-24,Female,Locals,No Degree,820000,mobile phones gadgets,MA
+6436,25-44,Female,Locals,No Degree,700000,mobile phones gadgets,MA
+6437,45+,Female,Locals,No Degree,140000,mobile phones gadgets,MA
+6438,18-24,Male,Locals,High School,400000,mobile phones gadgets,MA
+6439,25-44,Male,Locals,High School,300000,mobile phones gadgets,MA
+6440,45+,Male,Locals,High School,52000,mobile phones gadgets,MA
+6441,18-24,Female,Locals,High School,280000,mobile phones gadgets,MA
+6442,25-44,Female,Locals,High School,130000,mobile phones gadgets,MA
+6443,45+,Female,Locals,High School,23000,mobile phones gadgets,MA
+6444,18-24,Male,Expats,Graduated,50000,mobile phones gadgets,OM
+6445,25-44,Male,Expats,Graduated,250000,mobile phones gadgets,OM
+6446,45+,Male,Expats,Graduated,28000,mobile phones gadgets,OM
+6447,18-24,Female,Expats,Graduated,11000,mobile phones gadgets,OM
+6448,25-44,Female,Expats,Graduated,55000,mobile phones gadgets,OM
+6449,45+,Female,Expats,Graduated,8200,mobile phones gadgets,OM
+6450,18-24,Male,Expats,No Degree,170000,mobile phones gadgets,OM
+6451,25-44,Male,Expats,No Degree,360000,mobile phones gadgets,OM
+6452,45+,Male,Expats,No Degree,39000,mobile phones gadgets,OM
+6453,18-24,Female,Expats,No Degree,42000,mobile phones gadgets,OM
+6454,25-44,Female,Expats,No Degree,58000,mobile phones gadgets,OM
+6455,45+,Female,Expats,No Degree,8200,mobile phones gadgets,OM
+6456,18-24,Male,Expats,High School,20000,mobile phones gadgets,OM
+6457,25-44,Male,Expats,High School,62000,mobile phones gadgets,OM
+6458,45+,Male,Expats,High School,8000,mobile phones gadgets,OM
+6459,18-24,Female,Expats,High School,7300,mobile phones gadgets,OM
+6460,25-44,Female,Expats,High School,15000,mobile phones gadgets,OM
+6461,45+,Female,Expats,High School,2300,mobile phones gadgets,OM
+6462,18-24,Male,Locals,Graduated,19000,mobile phones gadgets,OM
+6463,25-44,Male,Locals,Graduated,48000,mobile phones gadgets,OM
+6464,45+,Male,Locals,Graduated,2900,mobile phones gadgets,OM
+6465,18-24,Female,Locals,Graduated,4100,mobile phones gadgets,OM
+6466,25-44,Female,Locals,Graduated,8100,mobile phones gadgets,OM
+6467,45+,Female,Locals,Graduated,430,mobile phones gadgets,OM
+6468,18-24,Male,Locals,No Degree,47000,mobile phones gadgets,OM
+6469,25-44,Male,Locals,No Degree,67000,mobile phones gadgets,OM
+6470,45+,Male,Locals,No Degree,7700,mobile phones gadgets,OM
+6471,18-24,Female,Locals,No Degree,14000,mobile phones gadgets,OM
+6472,25-44,Female,Locals,No Degree,17000,mobile phones gadgets,OM
+6473,45+,Female,Locals,No Degree,1400,mobile phones gadgets,OM
+6474,18-24,Male,Locals,High School,11000,mobile phones gadgets,OM
+6475,25-44,Male,Locals,High School,14000,mobile phones gadgets,OM
+6476,45+,Male,Locals,High School,1200,mobile phones gadgets,OM
+6477,18-24,Female,Locals,High School,3300,mobile phones gadgets,OM
+6478,25-44,Female,Locals,High School,2200,mobile phones gadgets,OM
+6479,45+,Female,Locals,High School,200,mobile phones gadgets,OM
+6480,18-24,Male,Expats,Graduated,120000,mobile phones gadgets,QA
+6481,25-44,Male,Expats,Graduated,510000,mobile phones gadgets,QA
+6482,45+,Male,Expats,Graduated,60000,mobile phones gadgets,QA
+6483,18-24,Female,Expats,Graduated,27000,mobile phones gadgets,QA
+6484,25-44,Female,Expats,Graduated,140000,mobile phones gadgets,QA
+6485,45+,Female,Expats,Graduated,16000,mobile phones gadgets,QA
+6486,18-24,Male,Expats,No Degree,250000,mobile phones gadgets,QA
+6487,25-44,Male,Expats,No Degree,470000,mobile phones gadgets,QA
+6488,45+,Male,Expats,No Degree,70000,mobile phones gadgets,QA
+6489,18-24,Female,Expats,No Degree,52000,mobile phones gadgets,QA
+6490,25-44,Female,Expats,No Degree,95000,mobile phones gadgets,QA
+6491,45+,Female,Expats,No Degree,16000,mobile phones gadgets,QA
+6492,18-24,Male,Expats,High School,46000,mobile phones gadgets,QA
+6493,25-44,Male,Expats,High School,130000,mobile phones gadgets,QA
+6494,45+,Male,Expats,High School,17000,mobile phones gadgets,QA
+6495,18-24,Female,Expats,High School,14000,mobile phones gadgets,QA
+6496,25-44,Female,Expats,High School,37000,mobile phones gadgets,QA
+6497,45+,Female,Expats,High School,4900,mobile phones gadgets,QA
+6498,18-24,Male,Locals,Graduated,4300,mobile phones gadgets,QA
+6499,25-44,Male,Locals,Graduated,11000,mobile phones gadgets,QA
+6500,45+,Male,Locals,Graduated,1300,mobile phones gadgets,QA
+6501,18-24,Female,Locals,Graduated,1500,mobile phones gadgets,QA
+6502,25-44,Female,Locals,Graduated,4000,mobile phones gadgets,QA
+6503,45+,Female,Locals,Graduated,370,mobile phones gadgets,QA
+6504,18-24,Male,Locals,No Degree,19000,mobile phones gadgets,QA
+6505,25-44,Male,Locals,No Degree,32000,mobile phones gadgets,QA
+6506,45+,Male,Locals,No Degree,5200,mobile phones gadgets,QA
+6507,18-24,Female,Locals,No Degree,6900,mobile phones gadgets,QA
+6508,25-44,Female,Locals,No Degree,12000,mobile phones gadgets,QA
+6509,45+,Female,Locals,No Degree,1500,mobile phones gadgets,QA
+6510,18-24,Male,Locals,High School,2000,mobile phones gadgets,QA
+6511,25-44,Male,Locals,High School,3600,mobile phones gadgets,QA
+6512,45+,Male,Locals,High School,380,mobile phones gadgets,QA
+6513,18-24,Female,Locals,High School,1400,mobile phones gadgets,QA
+6514,25-44,Female,Locals,High School,1200,mobile phones gadgets,QA
+6515,45+,Female,Locals,High School,100,mobile phones gadgets,QA
+6516,18-24,Male,Expats,Graduated,370000,mobile phones gadgets,SA
+6517,25-44,Male,Expats,Graduated,1900000,mobile phones gadgets,SA
+6518,45+,Male,Expats,Graduated,230000,mobile phones gadgets,SA
+6519,18-24,Female,Expats,Graduated,88000,mobile phones gadgets,SA
+6520,25-44,Female,Expats,Graduated,410000,mobile phones gadgets,SA
+6521,45+,Female,Expats,Graduated,52000,mobile phones gadgets,SA
+6522,18-24,Male,Expats,No Degree,140000,mobile phones gadgets,SA
+6523,25-44,Male,Expats,No Degree,410000,mobile phones gadgets,SA
+6524,45+,Male,Expats,No Degree,66000,mobile phones gadgets,SA
+6525,18-24,Female,Expats,No Degree,54000,mobile phones gadgets,SA
+6526,25-44,Female,Expats,No Degree,130000,mobile phones gadgets,SA
+6527,45+,Female,Expats,No Degree,21000,mobile phones gadgets,SA
+6528,18-24,Male,Expats,High School,150000,mobile phones gadgets,SA
+6529,25-44,Male,Expats,High School,440000,mobile phones gadgets,SA
+6530,45+,Male,Expats,High School,59000,mobile phones gadgets,SA
+6531,18-24,Female,Expats,High School,53000,mobile phones gadgets,SA
+6532,25-44,Female,Expats,High School,120000,mobile phones gadgets,SA
+6533,45+,Female,Expats,High School,16000,mobile phones gadgets,SA
+6534,18-24,Male,Locals,Graduated,230000,mobile phones gadgets,SA
+6535,25-44,Male,Locals,Graduated,930000,mobile phones gadgets,SA
+6536,45+,Male,Locals,Graduated,110000,mobile phones gadgets,SA
+6537,18-24,Female,Locals,Graduated,78000,mobile phones gadgets,SA
+6538,25-44,Female,Locals,Graduated,220000,mobile phones gadgets,SA
+6539,45+,Female,Locals,Graduated,24000,mobile phones gadgets,SA
+6540,18-24,Male,Locals,No Degree,1700000,mobile phones gadgets,SA
+6541,25-44,Male,Locals,No Degree,3100000,mobile phones gadgets,SA
+6542,45+,Male,Locals,No Degree,470000,mobile phones gadgets,SA
+6543,18-24,Female,Locals,No Degree,510000,mobile phones gadgets,SA
+6544,25-44,Female,Locals,No Degree,620000,mobile phones gadgets,SA
+6545,45+,Female,Locals,No Degree,100000,mobile phones gadgets,SA
+6546,18-24,Male,Locals,High School,150000,mobile phones gadgets,SA
+6547,25-44,Male,Locals,High School,330000,mobile phones gadgets,SA
+6548,45+,Male,Locals,High School,43000,mobile phones gadgets,SA
+6549,18-24,Female,Locals,High School,67000,mobile phones gadgets,SA
+6550,25-44,Female,Locals,High School,78000,mobile phones gadgets,SA
+6551,45+,Female,Locals,High School,9200,mobile phones gadgets,SA
+6552,18-24,Male,Expats,Graduated,17000,mobile phones gadgets,SO
+6553,25-44,Male,Expats,Graduated,17000,mobile phones gadgets,SO
+6554,45+,Male,Expats,Graduated,2300,mobile phones gadgets,SO
+6555,18-24,Female,Expats,Graduated,6400,mobile phones gadgets,SO
+6556,25-44,Female,Expats,Graduated,4000,mobile phones gadgets,SO
+6557,45+,Female,Expats,Graduated,500,mobile phones gadgets,SO
+6558,18-24,Male,Expats,No Degree,6800,mobile phones gadgets,SO
+6559,25-44,Male,Expats,No Degree,10000,mobile phones gadgets,SO
+6560,45+,Male,Expats,No Degree,1800,mobile phones gadgets,SO
+6561,18-24,Female,Expats,No Degree,4100,mobile phones gadgets,SO
+6562,25-44,Female,Expats,No Degree,2400,mobile phones gadgets,SO
+6563,45+,Female,Expats,No Degree,350,mobile phones gadgets,SO
+6564,18-24,Male,Expats,High School,4500,mobile phones gadgets,SO
+6565,25-44,Male,Expats,High School,3800,mobile phones gadgets,SO
+6566,45+,Male,Expats,High School,640,mobile phones gadgets,SO
+6567,18-24,Female,Expats,High School,2400,mobile phones gadgets,SO
+6568,25-44,Female,Expats,High School,1000,mobile phones gadgets,SO
+6569,45+,Female,Expats,High School,100,mobile phones gadgets,SO
+6570,18-24,Male,Locals,Graduated,53000,mobile phones gadgets,SO
+6571,25-44,Male,Locals,Graduated,54000,mobile phones gadgets,SO
+6572,45+,Male,Locals,Graduated,4200,mobile phones gadgets,SO
+6573,18-24,Female,Locals,Graduated,29000,mobile phones gadgets,SO
+6574,25-44,Female,Locals,Graduated,16000,mobile phones gadgets,SO
+6575,45+,Female,Locals,Graduated,1600,mobile phones gadgets,SO
+6576,18-24,Male,Locals,No Degree,130000,mobile phones gadgets,SO
+6577,25-44,Male,Locals,No Degree,78000,mobile phones gadgets,SO
+6578,45+,Male,Locals,No Degree,13000,mobile phones gadgets,SO
+6579,18-24,Female,Locals,No Degree,99000,mobile phones gadgets,SO
+6580,25-44,Female,Locals,No Degree,39000,mobile phones gadgets,SO
+6581,45+,Female,Locals,No Degree,4400,mobile phones gadgets,SO
+6582,18-24,Male,Locals,High School,20000,mobile phones gadgets,SO
+6583,25-44,Male,Locals,High School,11000,mobile phones gadgets,SO
+6584,45+,Male,Locals,High School,1200,mobile phones gadgets,SO
+6585,18-24,Female,Locals,High School,12000,mobile phones gadgets,SO
+6586,25-44,Female,Locals,High School,4000,mobile phones gadgets,SO
+6587,45+,Female,Locals,High School,550,mobile phones gadgets,SO
+6588,18-24,Male,Expats,Graduated,53000,mobile phones gadgets,TN
+6589,25-44,Male,Expats,Graduated,64000,mobile phones gadgets,TN
+6590,45+,Male,Expats,Graduated,13000,mobile phones gadgets,TN
+6591,18-24,Female,Expats,Graduated,24000,mobile phones gadgets,TN
+6592,25-44,Female,Expats,Graduated,26000,mobile phones gadgets,TN
+6593,45+,Female,Expats,Graduated,5300,mobile phones gadgets,TN
+6594,18-24,Male,Expats,No Degree,38000,mobile phones gadgets,TN
+6595,25-44,Male,Expats,No Degree,64000,mobile phones gadgets,TN
+6596,45+,Male,Expats,No Degree,14000,mobile phones gadgets,TN
+6597,18-24,Female,Expats,No Degree,25000,mobile phones gadgets,TN
+6598,25-44,Female,Expats,No Degree,32000,mobile phones gadgets,TN
+6599,45+,Female,Expats,No Degree,6500,mobile phones gadgets,TN
+6600,18-24,Male,Expats,High School,23000,mobile phones gadgets,TN
+6601,25-44,Male,Expats,High School,18000,mobile phones gadgets,TN
+6602,45+,Male,Expats,High School,4400,mobile phones gadgets,TN
+6603,18-24,Female,Expats,High School,12000,mobile phones gadgets,TN
+6604,25-44,Female,Expats,High School,8300,mobile phones gadgets,TN
+6605,45+,Female,Expats,High School,2500,mobile phones gadgets,TN
+6606,18-24,Male,Locals,Graduated,280000,mobile phones gadgets,TN
+6607,25-44,Male,Locals,Graduated,540000,mobile phones gadgets,TN
+6608,45+,Male,Locals,Graduated,110000,mobile phones gadgets,TN
+6609,18-24,Female,Locals,Graduated,270000,mobile phones gadgets,TN
+6610,25-44,Female,Locals,Graduated,410000,mobile phones gadgets,TN
+6611,45+,Female,Locals,Graduated,51000,mobile phones gadgets,TN
+6612,18-24,Male,Locals,No Degree,420000,mobile phones gadgets,TN
+6613,25-44,Male,Locals,No Degree,660000,mobile phones gadgets,TN
+6614,45+,Male,Locals,No Degree,180000,mobile phones gadgets,TN
+6615,18-24,Female,Locals,No Degree,380000,mobile phones gadgets,TN
+6616,25-44,Female,Locals,No Degree,440000,mobile phones gadgets,TN
+6617,45+,Female,Locals,No Degree,110000,mobile phones gadgets,TN
+6618,18-24,Male,Locals,High School,150000,mobile phones gadgets,TN
+6619,25-44,Male,Locals,High School,180000,mobile phones gadgets,TN
+6620,45+,Male,Locals,High School,48000,mobile phones gadgets,TN
+6621,18-24,Female,Locals,High School,160000,mobile phones gadgets,TN
+6622,25-44,Female,Locals,High School,110000,mobile phones gadgets,TN
+6623,45+,Female,Locals,High School,29000,mobile phones gadgets,TN
+6624,18-24,Male,Expats,Graduated,370000,mobile phones gadgets,AE
+6625,25-44,Male,Expats,Graduated,1800000,mobile phones gadgets,AE
+6626,45+,Male,Expats,Graduated,200000,mobile phones gadgets,AE
+6627,18-24,Female,Expats,Graduated,110000,mobile phones gadgets,AE
+6628,25-44,Female,Expats,Graduated,650000,mobile phones gadgets,AE
+6629,45+,Female,Expats,Graduated,81000,mobile phones gadgets,AE
+6630,18-24,Male,Expats,No Degree,620000,mobile phones gadgets,AE
+6631,25-44,Male,Expats,No Degree,1400000,mobile phones gadgets,AE
+6632,45+,Male,Expats,No Degree,210000,mobile phones gadgets,AE
+6633,18-24,Female,Expats,No Degree,180000,mobile phones gadgets,AE
+6634,25-44,Female,Expats,No Degree,370000,mobile phones gadgets,AE
+6635,45+,Female,Expats,No Degree,74000,mobile phones gadgets,AE
+6636,18-24,Male,Expats,High School,140000,mobile phones gadgets,AE
+6637,25-44,Male,Expats,High School,420000,mobile phones gadgets,AE
+6638,45+,Male,Expats,High School,57000,mobile phones gadgets,AE
+6639,18-24,Female,Expats,High School,63000,mobile phones gadgets,AE
+6640,25-44,Female,Expats,High School,140000,mobile phones gadgets,AE
+6641,45+,Female,Expats,High School,24000,mobile phones gadgets,AE
+6642,18-24,Male,Locals,Graduated,17000,mobile phones gadgets,AE
+6643,25-44,Male,Locals,Graduated,54000,mobile phones gadgets,AE
+6644,45+,Male,Locals,Graduated,5800,mobile phones gadgets,AE
+6645,18-24,Female,Locals,Graduated,7500,mobile phones gadgets,AE
+6646,25-44,Female,Locals,Graduated,21000,mobile phones gadgets,AE
+6647,45+,Female,Locals,Graduated,1600,mobile phones gadgets,AE
+6648,18-24,Male,Locals,No Degree,75000,mobile phones gadgets,AE
+6649,25-44,Male,Locals,No Degree,140000,mobile phones gadgets,AE
+6650,45+,Male,Locals,No Degree,21000,mobile phones gadgets,AE
+6651,18-24,Female,Locals,No Degree,34000,mobile phones gadgets,AE
+6652,25-44,Female,Locals,No Degree,57000,mobile phones gadgets,AE
+6653,45+,Female,Locals,No Degree,6600,mobile phones gadgets,AE
+6654,18-24,Male,Locals,High School,11000,mobile phones gadgets,AE
+6655,25-44,Male,Locals,High School,16000,mobile phones gadgets,AE
+6656,45+,Male,Locals,High School,1800,mobile phones gadgets,AE
+6657,18-24,Female,Locals,High School,6500,mobile phones gadgets,AE
+6658,25-44,Female,Locals,High School,5600,mobile phones gadgets,AE
+6659,45+,Female,Locals,High School,550,mobile phones gadgets,AE
+6660,18-24,Male,Expats,Graduated,19000,mobile phones gadgets,YE
+6661,25-44,Male,Expats,Graduated,33000,mobile phones gadgets,YE
+6662,45+,Male,Expats,Graduated,3000,mobile phones gadgets,YE
+6663,18-24,Female,Expats,Graduated,3700,mobile phones gadgets,YE
+6664,25-44,Female,Expats,Graduated,5200,mobile phones gadgets,YE
+6665,45+,Female,Expats,Graduated,490,mobile phones gadgets,YE
+6666,18-24,Male,Expats,No Degree,18000,mobile phones gadgets,YE
+6667,25-44,Male,Expats,No Degree,28000,mobile phones gadgets,YE
+6668,45+,Male,Expats,No Degree,2700,mobile phones gadgets,YE
+6669,18-24,Female,Expats,No Degree,9700,mobile phones gadgets,YE
+6670,25-44,Female,Expats,No Degree,7300,mobile phones gadgets,YE
+6671,45+,Female,Expats,No Degree,910,mobile phones gadgets,YE
+6672,18-24,Male,Expats,High School,8300,mobile phones gadgets,YE
+6673,25-44,Male,Expats,High School,8200,mobile phones gadgets,YE
+6674,45+,Male,Expats,High School,860,mobile phones gadgets,YE
+6675,18-24,Female,Expats,High School,2700,mobile phones gadgets,YE
+6676,25-44,Female,Expats,High School,1600,mobile phones gadgets,YE
+6677,45+,Female,Expats,High School,150,mobile phones gadgets,YE
+6678,18-24,Male,Locals,Graduated,130000,mobile phones gadgets,YE
+6679,25-44,Male,Locals,Graduated,270000,mobile phones gadgets,YE
+6680,45+,Male,Locals,Graduated,23000,mobile phones gadgets,YE
+6681,18-24,Female,Locals,Graduated,23000,mobile phones gadgets,YE
+6682,25-44,Female,Locals,Graduated,35000,mobile phones gadgets,YE
+6683,45+,Female,Locals,Graduated,2100,mobile phones gadgets,YE
+6684,18-24,Male,Locals,No Degree,280000,mobile phones gadgets,YE
+6685,25-44,Male,Locals,No Degree,320000,mobile phones gadgets,YE
+6686,45+,Male,Locals,No Degree,40000,mobile phones gadgets,YE
+6687,18-24,Female,Locals,No Degree,51000,mobile phones gadgets,YE
+6688,25-44,Female,Locals,No Degree,45000,mobile phones gadgets,YE
+6689,45+,Female,Locals,No Degree,5600,mobile phones gadgets,YE
+6690,18-24,Male,Locals,High School,88000,mobile phones gadgets,YE
+6691,25-44,Male,Locals,High School,83000,mobile phones gadgets,YE
+6692,45+,Male,Locals,High School,7200,mobile phones gadgets,YE
+6693,18-24,Female,Locals,High School,21000,mobile phones gadgets,YE
+6694,25-44,Female,Locals,High School,11000,mobile phones gadgets,YE
+6695,45+,Female,Locals,High School,820,mobile phones gadgets,YE
+6696,18-24,Male,Expats,Graduated,19000,mobile phones gadgets,PS
+6697,25-44,Male,Expats,Graduated,31000,mobile phones gadgets,PS
+6698,45+,Male,Expats,Graduated,4900,mobile phones gadgets,PS
+6699,18-24,Female,Expats,Graduated,15000,mobile phones gadgets,PS
+6700,25-44,Female,Expats,Graduated,20000,mobile phones gadgets,PS
+6701,45+,Female,Expats,Graduated,2600,mobile phones gadgets,PS
+6702,18-24,Male,Expats,No Degree,12000,mobile phones gadgets,PS
+6703,25-44,Male,Expats,No Degree,16000,mobile phones gadgets,PS
+6704,45+,Male,Expats,No Degree,3800,mobile phones gadgets,PS
+6705,18-24,Female,Expats,No Degree,15000,mobile phones gadgets,PS
+6706,25-44,Female,Expats,No Degree,14000,mobile phones gadgets,PS
+6707,45+,Female,Expats,No Degree,3500,mobile phones gadgets,PS
+6708,18-24,Male,Expats,High School,10000,mobile phones gadgets,PS
+6709,25-44,Male,Expats,High School,6700,mobile phones gadgets,PS
+6710,45+,Male,Expats,High School,1400,mobile phones gadgets,PS
+6711,18-24,Female,Expats,High School,12000,mobile phones gadgets,PS
+6712,25-44,Female,Expats,High School,5400,mobile phones gadgets,PS
+6713,45+,Female,Expats,High School,1300,mobile phones gadgets,PS
+6714,18-24,Male,Locals,Graduated,82000,mobile phones gadgets,PS
+6715,25-44,Male,Locals,Graduated,130000,mobile phones gadgets,PS
+6716,45+,Male,Locals,Graduated,20000,mobile phones gadgets,PS
+6717,18-24,Female,Locals,Graduated,71000,mobile phones gadgets,PS
+6718,25-44,Female,Locals,Graduated,87000,mobile phones gadgets,PS
+6719,45+,Female,Locals,Graduated,8800,mobile phones gadgets,PS
+6720,18-24,Male,Locals,No Degree,90000,mobile phones gadgets,PS
+6721,25-44,Male,Locals,No Degree,93000,mobile phones gadgets,PS
+6722,45+,Male,Locals,No Degree,29000,mobile phones gadgets,PS
+6723,18-24,Female,Locals,No Degree,80000,mobile phones gadgets,PS
+6724,25-44,Female,Locals,No Degree,80000,mobile phones gadgets,PS
+6725,45+,Female,Locals,No Degree,24000,mobile phones gadgets,PS
+6726,18-24,Male,Locals,High School,51000,mobile phones gadgets,PS
+6727,25-44,Male,Locals,High School,32000,mobile phones gadgets,PS
+6728,45+,Male,Locals,High School,6900,mobile phones gadgets,PS
+6729,18-24,Female,Locals,High School,57000,mobile phones gadgets,PS
+6730,25-44,Female,Locals,High School,25000,mobile phones gadgets,PS
+6731,45+,Female,Locals,High School,4000,mobile phones gadgets,PS

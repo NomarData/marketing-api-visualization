@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+3060,18-24,Male,Expats,Graduated,5900,diabetes awareness,DZ
+3061,25-44,Male,Expats,Graduated,7200,diabetes awareness,DZ
+3062,45+,Male,Expats,Graduated,1700,diabetes awareness,DZ
+3063,18-24,Female,Expats,Graduated,2600,diabetes awareness,DZ
+3064,25-44,Female,Expats,Graduated,2500,diabetes awareness,DZ
+3065,45+,Female,Expats,Graduated,730,diabetes awareness,DZ
+3066,18-24,Male,Expats,No Degree,3800,diabetes awareness,DZ
+3067,25-44,Male,Expats,No Degree,6600,diabetes awareness,DZ
+3068,45+,Male,Expats,No Degree,1700,diabetes awareness,DZ
+3069,18-24,Female,Expats,No Degree,1900,diabetes awareness,DZ
+3070,25-44,Female,Expats,No Degree,2900,diabetes awareness,DZ
+3071,45+,Female,Expats,No Degree,910,diabetes awareness,DZ
+3072,18-24,Male,Expats,High School,2100,diabetes awareness,DZ
+3073,25-44,Male,Expats,High School,1800,diabetes awareness,DZ
+3074,45+,Male,Expats,High School,450,diabetes awareness,DZ
+3075,18-24,Female,Expats,High School,1000,diabetes awareness,DZ
+3076,25-44,Female,Expats,High School,450,diabetes awareness,DZ
+3077,45+,Female,Expats,High School,240,diabetes awareness,DZ
+3078,18-24,Male,Locals,Graduated,27000,diabetes awareness,DZ
+3079,25-44,Male,Locals,Graduated,57000,diabetes awareness,DZ
+3080,45+,Male,Locals,Graduated,12000,diabetes awareness,DZ
+3081,18-24,Female,Locals,Graduated,26000,diabetes awareness,DZ
+3082,25-44,Female,Locals,Graduated,38000,diabetes awareness,DZ
+3083,45+,Female,Locals,Graduated,6500,diabetes awareness,DZ
+3084,18-24,Male,Locals,No Degree,36000,diabetes awareness,DZ
+3085,25-44,Male,Locals,No Degree,79000,diabetes awareness,DZ
+3086,45+,Male,Locals,No Degree,20000,diabetes awareness,DZ
+3087,18-24,Female,Locals,No Degree,28000,diabetes awareness,DZ
+3088,25-44,Female,Locals,No Degree,43000,diabetes awareness,DZ
+3089,45+,Female,Locals,No Degree,11000,diabetes awareness,DZ
+3090,18-24,Male,Locals,High School,12000,diabetes awareness,DZ
+3091,25-44,Male,Locals,High School,16000,diabetes awareness,DZ
+3092,45+,Male,Locals,High School,4200,diabetes awareness,DZ
+3093,18-24,Female,Locals,High School,12000,diabetes awareness,DZ
+3094,25-44,Female,Locals,High School,8800,diabetes awareness,DZ
+3095,45+,Female,Locals,High School,2600,diabetes awareness,DZ
+3096,18-24,Male,Expats,Graduated,650,diabetes awareness,BH
+3097,25-44,Male,Expats,Graduated,2400,diabetes awareness,BH
+3098,45+,Male,Expats,Graduated,650,diabetes awareness,BH
+3099,18-24,Female,Expats,Graduated,120,diabetes awareness,BH
+3100,25-44,Female,Expats,Graduated,1600,diabetes awareness,BH
+3101,45+,Female,Expats,Graduated,1000,diabetes awareness,BH
+3102,18-24,Male,Expats,No Degree,580,diabetes awareness,BH
+3103,25-44,Male,Expats,No Degree,1400,diabetes awareness,BH
+3104,45+,Male,Expats,No Degree,460,diabetes awareness,BH
+3105,18-24,Female,Expats,No Degree,130,diabetes awareness,BH
+3106,25-44,Female,Expats,No Degree,650,diabetes awareness,BH
+3107,45+,Female,Expats,No Degree,680,diabetes awareness,BH
+3108,18-24,Male,Expats,High School,160,diabetes awareness,BH
+3109,25-44,Male,Expats,High School,500,diabetes awareness,BH
+3110,45+,Male,Expats,High School,170,diabetes awareness,BH
+3111,18-24,Female,Expats,High School,60,diabetes awareness,BH
+3112,25-44,Female,Expats,High School,570,diabetes awareness,BH
+3113,45+,Female,Expats,High School,300,diabetes awareness,BH
+3114,18-24,Male,Locals,Graduated,80,diabetes awareness,BH
+3115,25-44,Male,Locals,Graduated,260,diabetes awareness,BH
+3116,45+,Male,Locals,Graduated,100,diabetes awareness,BH
+3117,18-24,Female,Locals,Graduated,70,diabetes awareness,BH
+3118,25-44,Female,Locals,Graduated,250,diabetes awareness,BH
+3119,45+,Female,Locals,Graduated,30,diabetes awareness,BH
+3120,18-24,Male,Locals,No Degree,20,diabetes awareness,BH
+3121,25-44,Male,Locals,No Degree,170,diabetes awareness,BH
+3122,45+,Male,Locals,No Degree,60,diabetes awareness,BH
+3123,18-24,Female,Locals,No Degree,20,diabetes awareness,BH
+3124,25-44,Female,Locals,No Degree,160,diabetes awareness,BH
+3125,45+,Female,Locals,No Degree,20,diabetes awareness,BH
+3126,18-24,Male,Locals,High School,20,diabetes awareness,BH
+3127,25-44,Male,Locals,High School,80,diabetes awareness,BH
+3128,45+,Male,Locals,High School,30,diabetes awareness,BH
+3129,18-24,Female,Locals,High School,50,diabetes awareness,BH
+3130,25-44,Female,Locals,High School,40,diabetes awareness,BH
+3131,45+,Female,Locals,High School,20,diabetes awareness,BH
+3132,18-24,Male,Expats,Graduated,3900,diabetes awareness,EG
+3133,25-44,Male,Expats,Graduated,7700,diabetes awareness,EG
+3134,45+,Male,Expats,Graduated,3200,diabetes awareness,EG
+3135,18-24,Female,Expats,Graduated,1800,diabetes awareness,EG
+3136,25-44,Female,Expats,Graduated,4100,diabetes awareness,EG
+3137,45+,Female,Expats,Graduated,1600,diabetes awareness,EG
+3138,18-24,Male,Expats,No Degree,2000,diabetes awareness,EG
+3139,25-44,Male,Expats,No Degree,3500,diabetes awareness,EG
+3140,45+,Male,Expats,No Degree,2200,diabetes awareness,EG
+3141,18-24,Female,Expats,No Degree,810,diabetes awareness,EG
+3142,25-44,Female,Expats,No Degree,1800,diabetes awareness,EG
+3143,45+,Female,Expats,No Degree,1800,diabetes awareness,EG
+3144,18-24,Male,Expats,High School,2400,diabetes awareness,EG
+3145,25-44,Male,Expats,High School,1700,diabetes awareness,EG
+3146,45+,Male,Expats,High School,870,diabetes awareness,EG
+3147,18-24,Female,Expats,High School,1400,diabetes awareness,EG
+3148,25-44,Female,Expats,High School,1100,diabetes awareness,EG
+3149,45+,Female,Expats,High School,500,diabetes awareness,EG
+3150,18-24,Male,Locals,Graduated,78000,diabetes awareness,EG
+3151,25-44,Male,Locals,Graduated,150000,diabetes awareness,EG
+3152,45+,Male,Locals,Graduated,65000,diabetes awareness,EG
+3153,18-24,Female,Locals,Graduated,62000,diabetes awareness,EG
+3154,25-44,Female,Locals,Graduated,120000,diabetes awareness,EG
+3155,45+,Female,Locals,Graduated,38000,diabetes awareness,EG
+3156,18-24,Male,Locals,No Degree,50000,diabetes awareness,EG
+3157,25-44,Male,Locals,No Degree,93000,diabetes awareness,EG
+3158,45+,Male,Locals,No Degree,69000,diabetes awareness,EG
+3159,18-24,Female,Locals,No Degree,38000,diabetes awareness,EG
+3160,25-44,Female,Locals,No Degree,76000,diabetes awareness,EG
+3161,45+,Female,Locals,No Degree,59000,diabetes awareness,EG
+3162,18-24,Male,Locals,High School,55000,diabetes awareness,EG
+3163,25-44,Male,Locals,High School,34000,diabetes awareness,EG
+3164,45+,Male,Locals,High School,17000,diabetes awareness,EG
+3165,18-24,Female,Locals,High School,48000,diabetes awareness,EG
+3166,25-44,Female,Locals,High School,23000,diabetes awareness,EG
+3167,45+,Female,Locals,High School,8900,diabetes awareness,EG
+3168,18-24,Male,Expats,Graduated,4300,diabetes awareness,IQ
+3169,25-44,Male,Expats,Graduated,11000,diabetes awareness,IQ
+3170,45+,Male,Expats,Graduated,3000,diabetes awareness,IQ
+3171,18-24,Female,Expats,Graduated,800,diabetes awareness,IQ
+3172,25-44,Female,Expats,Graduated,2100,diabetes awareness,IQ
+3173,45+,Female,Expats,Graduated,520,diabetes awareness,IQ
+3174,18-24,Male,Expats,No Degree,4400,diabetes awareness,IQ
+3175,25-44,Male,Expats,No Degree,7200,diabetes awareness,IQ
+3176,45+,Male,Expats,No Degree,2200,diabetes awareness,IQ
+3177,18-24,Female,Expats,No Degree,1500,diabetes awareness,IQ
+3178,25-44,Female,Expats,No Degree,2000,diabetes awareness,IQ
+3179,45+,Female,Expats,No Degree,800,diabetes awareness,IQ
+3180,18-24,Male,Expats,High School,2300,diabetes awareness,IQ
+3181,25-44,Male,Expats,High School,3200,diabetes awareness,IQ
+3182,45+,Male,Expats,High School,950,diabetes awareness,IQ
+3183,18-24,Female,Expats,High School,690,diabetes awareness,IQ
+3184,25-44,Female,Expats,High School,550,diabetes awareness,IQ
+3185,45+,Female,Expats,High School,170,diabetes awareness,IQ
+3186,18-24,Male,Locals,Graduated,41000,diabetes awareness,IQ
+3187,25-44,Male,Locals,Graduated,120000,diabetes awareness,IQ
+3188,45+,Male,Locals,Graduated,37000,diabetes awareness,IQ
+3189,18-24,Female,Locals,Graduated,11000,diabetes awareness,IQ
+3190,25-44,Female,Locals,Graduated,29000,diabetes awareness,IQ
+3191,45+,Female,Locals,Graduated,10000,diabetes awareness,IQ
+3192,18-24,Male,Locals,No Degree,80000,diabetes awareness,IQ
+3193,25-44,Male,Locals,No Degree,130000,diabetes awareness,IQ
+3194,45+,Male,Locals,No Degree,63000,diabetes awareness,IQ
+3195,18-24,Female,Locals,No Degree,28000,diabetes awareness,IQ
+3196,25-44,Female,Locals,No Degree,40000,diabetes awareness,IQ
+3197,45+,Female,Locals,No Degree,22000,diabetes awareness,IQ
+3198,18-24,Male,Locals,High School,26000,diabetes awareness,IQ
+3199,25-44,Male,Locals,High School,36000,diabetes awareness,IQ
+3200,45+,Male,Locals,High School,13000,diabetes awareness,IQ
+3201,18-24,Female,Locals,High School,11000,diabetes awareness,IQ
+3202,25-44,Female,Locals,High School,9900,diabetes awareness,IQ
+3203,45+,Female,Locals,High School,3400,diabetes awareness,IQ
+3204,18-24,Male,Expats,Graduated,1800,diabetes awareness,JO
+3205,25-44,Male,Expats,Graduated,8600,diabetes awareness,JO
+3206,45+,Male,Expats,Graduated,2600,diabetes awareness,JO
+3207,18-24,Female,Expats,Graduated,910,diabetes awareness,JO
+3208,25-44,Female,Expats,Graduated,4000,diabetes awareness,JO
+3209,45+,Female,Expats,Graduated,2100,diabetes awareness,JO
+3210,18-24,Male,Expats,No Degree,2700,diabetes awareness,JO
+3211,25-44,Male,Expats,No Degree,9000,diabetes awareness,JO
+3212,45+,Male,Expats,No Degree,3800,diabetes awareness,JO
+3213,18-24,Female,Expats,No Degree,720,diabetes awareness,JO
+3214,25-44,Female,Expats,No Degree,3300,diabetes awareness,JO
+3215,45+,Female,Expats,No Degree,3500,diabetes awareness,JO
+3216,18-24,Male,Expats,High School,1600,diabetes awareness,JO
+3217,25-44,Male,Expats,High School,2700,diabetes awareness,JO
+3218,45+,Male,Expats,High School,1000,diabetes awareness,JO
+3219,18-24,Female,Expats,High School,970,diabetes awareness,JO
+3220,25-44,Female,Expats,High School,1200,diabetes awareness,JO
+3221,45+,Female,Expats,High School,870,diabetes awareness,JO
+3222,18-24,Male,Locals,Graduated,7500,diabetes awareness,JO
+3223,25-44,Male,Locals,Graduated,25000,diabetes awareness,JO
+3224,45+,Male,Locals,Graduated,9200,diabetes awareness,JO
+3225,18-24,Female,Locals,Graduated,3500,diabetes awareness,JO
+3226,25-44,Female,Locals,Graduated,14000,diabetes awareness,JO
+3227,45+,Female,Locals,Graduated,4600,diabetes awareness,JO
+3228,18-24,Male,Locals,No Degree,10000,diabetes awareness,JO
+3229,25-44,Male,Locals,No Degree,23000,diabetes awareness,JO
+3230,45+,Male,Locals,No Degree,15000,diabetes awareness,JO
+3231,18-24,Female,Locals,No Degree,4500,diabetes awareness,JO
+3232,25-44,Female,Locals,No Degree,14000,diabetes awareness,JO
+3233,45+,Female,Locals,No Degree,11000,diabetes awareness,JO
+3234,18-24,Male,Locals,High School,5700,diabetes awareness,JO
+3235,25-44,Male,Locals,High School,8800,diabetes awareness,JO
+3236,45+,Male,Locals,High School,4000,diabetes awareness,JO
+3237,18-24,Female,Locals,High School,3900,diabetes awareness,JO
+3238,25-44,Female,Locals,High School,4500,diabetes awareness,JO
+3239,45+,Female,Locals,High School,1900,diabetes awareness,JO
+3240,18-24,Male,Expats,Graduated,1600,diabetes awareness,KW
+3241,25-44,Male,Expats,Graduated,12000,diabetes awareness,KW
+3242,45+,Male,Expats,Graduated,3000,diabetes awareness,KW
+3243,18-24,Female,Expats,Graduated,450,diabetes awareness,KW
+3244,25-44,Female,Expats,Graduated,9100,diabetes awareness,KW
+3245,45+,Female,Expats,Graduated,3200,diabetes awareness,KW
+3246,18-24,Male,Expats,No Degree,3900,diabetes awareness,KW
+3247,25-44,Male,Expats,No Degree,15000,diabetes awareness,KW
+3248,45+,Male,Expats,No Degree,3700,diabetes awareness,KW
+3249,18-24,Female,Expats,No Degree,620,diabetes awareness,KW
+3250,25-44,Female,Expats,No Degree,5100,diabetes awareness,KW
+3251,45+,Female,Expats,No Degree,2100,diabetes awareness,KW
+3252,18-24,Male,Expats,High School,610,diabetes awareness,KW
+3253,25-44,Male,Expats,High School,3700,diabetes awareness,KW
+3254,45+,Male,Expats,High School,680,diabetes awareness,KW
+3255,18-24,Female,Expats,High School,360,diabetes awareness,KW
+3256,25-44,Female,Expats,High School,3100,diabetes awareness,KW
+3257,45+,Female,Expats,High School,1200,diabetes awareness,KW
+3258,18-24,Male,Locals,Graduated,60,diabetes awareness,KW
+3259,25-44,Male,Locals,Graduated,370,diabetes awareness,KW
+3260,45+,Male,Locals,Graduated,120,diabetes awareness,KW
+3261,18-24,Female,Locals,Graduated,20,diabetes awareness,KW
+3262,25-44,Female,Locals,Graduated,180,diabetes awareness,KW
+3263,45+,Female,Locals,Graduated,110,diabetes awareness,KW
+3264,18-24,Male,Locals,No Degree,40,diabetes awareness,KW
+3265,25-44,Male,Locals,No Degree,490,diabetes awareness,KW
+3266,45+,Male,Locals,No Degree,210,diabetes awareness,KW
+3267,18-24,Female,Locals,No Degree,20,diabetes awareness,KW
+3268,25-44,Female,Locals,No Degree,370,diabetes awareness,KW
+3269,45+,Female,Locals,No Degree,120,diabetes awareness,KW
+3270,18-24,Male,Locals,High School,20,diabetes awareness,KW
+3271,25-44,Male,Locals,High School,110,diabetes awareness,KW
+3272,45+,Male,Locals,High School,70,diabetes awareness,KW
+3273,18-24,Female,Locals,High School,20,diabetes awareness,KW
+3274,25-44,Female,Locals,High School,90,diabetes awareness,KW
+3275,45+,Female,Locals,High School,20,diabetes awareness,KW
+3276,18-24,Male,Expats,Graduated,650,diabetes awareness,LB
+3277,25-44,Male,Expats,Graduated,1400,diabetes awareness,LB
+3278,45+,Male,Expats,Graduated,440,diabetes awareness,LB
+3279,18-24,Female,Expats,Graduated,240,diabetes awareness,LB
+3280,25-44,Female,Expats,Graduated,1000,diabetes awareness,LB
+3281,45+,Female,Expats,Graduated,810,diabetes awareness,LB
+3282,18-24,Male,Expats,No Degree,960,diabetes awareness,LB
+3283,25-44,Male,Expats,No Degree,2300,diabetes awareness,LB
+3284,45+,Male,Expats,No Degree,780,diabetes awareness,LB
+3285,18-24,Female,Expats,No Degree,440,diabetes awareness,LB
+3286,25-44,Female,Expats,No Degree,1300,diabetes awareness,LB
+3287,45+,Female,Expats,No Degree,1300,diabetes awareness,LB
+3288,18-24,Male,Expats,High School,330,diabetes awareness,LB
+3289,25-44,Male,Expats,High School,650,diabetes awareness,LB
+3290,45+,Male,Expats,High School,160,diabetes awareness,LB
+3291,18-24,Female,Expats,High School,170,diabetes awareness,LB
+3292,25-44,Female,Expats,High School,450,diabetes awareness,LB
+3293,45+,Female,Expats,High School,300,diabetes awareness,LB
+3294,18-24,Male,Locals,Graduated,1000,diabetes awareness,LB
+3295,25-44,Male,Locals,Graduated,2600,diabetes awareness,LB
+3296,45+,Male,Locals,Graduated,1500,diabetes awareness,LB
+3297,18-24,Female,Locals,Graduated,1500,diabetes awareness,LB
+3298,25-44,Female,Locals,Graduated,4900,diabetes awareness,LB
+3299,45+,Female,Locals,Graduated,3900,diabetes awareness,LB
+3300,18-24,Male,Locals,No Degree,2000,diabetes awareness,LB
+3301,25-44,Male,Locals,No Degree,3200,diabetes awareness,LB
+3302,45+,Male,Locals,No Degree,3100,diabetes awareness,LB
+3303,18-24,Female,Locals,No Degree,2100,diabetes awareness,LB
+3304,25-44,Female,Locals,No Degree,5300,diabetes awareness,LB
+3305,45+,Female,Locals,No Degree,8400,diabetes awareness,LB
+3306,18-24,Male,Locals,High School,750,diabetes awareness,LB
+3307,25-44,Male,Locals,High School,880,diabetes awareness,LB
+3308,45+,Male,Locals,High School,610,diabetes awareness,LB
+3309,18-24,Female,Locals,High School,1600,diabetes awareness,LB
+3310,25-44,Female,Locals,High School,970,diabetes awareness,LB
+3311,45+,Female,Locals,High School,1200,diabetes awareness,LB
+3312,18-24,Male,Expats,Graduated,790,diabetes awareness,LY
+3313,25-44,Male,Expats,Graduated,2500,diabetes awareness,LY
+3314,45+,Male,Expats,Graduated,730,diabetes awareness,LY
+3315,18-24,Female,Expats,Graduated,280,diabetes awareness,LY
+3316,25-44,Female,Expats,Graduated,1100,diabetes awareness,LY
+3317,45+,Female,Expats,Graduated,320,diabetes awareness,LY
+3318,18-24,Male,Expats,No Degree,800,diabetes awareness,LY
+3319,25-44,Male,Expats,No Degree,2400,diabetes awareness,LY
+3320,45+,Male,Expats,No Degree,870,diabetes awareness,LY
+3321,18-24,Female,Expats,No Degree,420,diabetes awareness,LY
+3322,25-44,Female,Expats,No Degree,1100,diabetes awareness,LY
+3323,45+,Female,Expats,No Degree,410,diabetes awareness,LY
+3324,18-24,Male,Expats,High School,220,diabetes awareness,LY
+3325,25-44,Male,Expats,High School,620,diabetes awareness,LY
+3326,45+,Male,Expats,High School,190,diabetes awareness,LY
+3327,18-24,Female,Expats,High School,180,diabetes awareness,LY
+3328,25-44,Female,Expats,High School,310,diabetes awareness,LY
+3329,45+,Female,Expats,High School,90,diabetes awareness,LY
+3330,18-24,Male,Locals,Graduated,3700,diabetes awareness,LY
+3331,25-44,Male,Locals,Graduated,14000,diabetes awareness,LY
+3332,45+,Male,Locals,Graduated,5000,diabetes awareness,LY
+3333,18-24,Female,Locals,Graduated,4100,diabetes awareness,LY
+3334,25-44,Female,Locals,Graduated,13000,diabetes awareness,LY
+3335,45+,Female,Locals,Graduated,2300,diabetes awareness,LY
+3336,18-24,Male,Locals,No Degree,3900,diabetes awareness,LY
+3337,25-44,Male,Locals,No Degree,12000,diabetes awareness,LY
+3338,45+,Male,Locals,No Degree,5800,diabetes awareness,LY
+3339,18-24,Female,Locals,No Degree,3900,diabetes awareness,LY
+3340,25-44,Female,Locals,No Degree,13000,diabetes awareness,LY
+3341,45+,Female,Locals,No Degree,6100,diabetes awareness,LY
+3342,18-24,Male,Locals,High School,2100,diabetes awareness,LY
+3343,25-44,Male,Locals,High School,3100,diabetes awareness,LY
+3344,45+,Male,Locals,High School,1400,diabetes awareness,LY
+3345,18-24,Female,Locals,High School,2900,diabetes awareness,LY
+3346,25-44,Female,Locals,High School,3200,diabetes awareness,LY
+3347,45+,Female,Locals,High School,970,diabetes awareness,LY
+3348,18-24,Male,Expats,Graduated,2700,diabetes awareness,MA
+3349,25-44,Male,Expats,Graduated,2400,diabetes awareness,MA
+3350,45+,Male,Expats,Graduated,810,diabetes awareness,MA
+3351,18-24,Female,Expats,Graduated,920,diabetes awareness,MA
+3352,25-44,Female,Expats,Graduated,1300,diabetes awareness,MA
+3353,45+,Female,Expats,Graduated,400,diabetes awareness,MA
+3354,18-24,Male,Expats,No Degree,1300,diabetes awareness,MA
+3355,25-44,Male,Expats,No Degree,1600,diabetes awareness,MA
+3356,45+,Male,Expats,No Degree,630,diabetes awareness,MA
+3357,18-24,Female,Expats,No Degree,550,diabetes awareness,MA
+3358,25-44,Female,Expats,No Degree,1000,diabetes awareness,MA
+3359,45+,Female,Expats,No Degree,360,diabetes awareness,MA
+3360,18-24,Male,Expats,High School,940,diabetes awareness,MA
+3361,25-44,Male,Expats,High School,580,diabetes awareness,MA
+3362,45+,Male,Expats,High School,200,diabetes awareness,MA
+3363,18-24,Female,Expats,High School,240,diabetes awareness,MA
+3364,25-44,Female,Expats,High School,340,diabetes awareness,MA
+3365,45+,Female,Expats,High School,90,diabetes awareness,MA
+3366,18-24,Male,Locals,Graduated,17000,diabetes awareness,MA
+3367,25-44,Male,Locals,Graduated,22000,diabetes awareness,MA
+3368,45+,Male,Locals,Graduated,10000,diabetes awareness,MA
+3369,18-24,Female,Locals,Graduated,12000,diabetes awareness,MA
+3370,25-44,Female,Locals,Graduated,14000,diabetes awareness,MA
+3371,45+,Female,Locals,Graduated,3800,diabetes awareness,MA
+3372,18-24,Male,Locals,No Degree,16000,diabetes awareness,MA
+3373,25-44,Male,Locals,No Degree,23000,diabetes awareness,MA
+3374,45+,Male,Locals,No Degree,13000,diabetes awareness,MA
+3375,18-24,Female,Locals,No Degree,10000,diabetes awareness,MA
+3376,25-44,Female,Locals,No Degree,13000,diabetes awareness,MA
+3377,45+,Female,Locals,No Degree,6100,diabetes awareness,MA
+3378,18-24,Male,Locals,High School,7300,diabetes awareness,MA
+3379,25-44,Male,Locals,High School,6400,diabetes awareness,MA
+3380,45+,Male,Locals,High School,3300,diabetes awareness,MA
+3381,18-24,Female,Locals,High School,5100,diabetes awareness,MA
+3382,25-44,Female,Locals,High School,3700,diabetes awareness,MA
+3383,45+,Female,Locals,High School,1500,diabetes awareness,MA
+3384,18-24,Male,Expats,Graduated,840,diabetes awareness,OM
+3385,25-44,Male,Expats,Graduated,4500,diabetes awareness,OM
+3386,45+,Male,Expats,Graduated,1200,diabetes awareness,OM
+3387,18-24,Female,Expats,Graduated,150,diabetes awareness,OM
+3388,25-44,Female,Expats,Graduated,3900,diabetes awareness,OM
+3389,45+,Female,Expats,Graduated,1300,diabetes awareness,OM
+3390,18-24,Male,Expats,No Degree,1200,diabetes awareness,OM
+3391,25-44,Male,Expats,No Degree,3100,diabetes awareness,OM
+3392,45+,Male,Expats,No Degree,680,diabetes awareness,OM
+3393,18-24,Female,Expats,No Degree,230,diabetes awareness,OM
+3394,25-44,Female,Expats,No Degree,1500,diabetes awareness,OM
+3395,45+,Female,Expats,No Degree,910,diabetes awareness,OM
+3396,18-24,Male,Expats,High School,320,diabetes awareness,OM
+3397,25-44,Male,Expats,High School,1000,diabetes awareness,OM
+3398,45+,Male,Expats,High School,250,diabetes awareness,OM
+3399,18-24,Female,Expats,High School,150,diabetes awareness,OM
+3400,25-44,Female,Expats,High School,720,diabetes awareness,OM
+3401,45+,Female,Expats,High School,340,diabetes awareness,OM
+3402,18-24,Male,Locals,Graduated,120,diabetes awareness,OM
+3403,25-44,Male,Locals,Graduated,540,diabetes awareness,OM
+3404,45+,Male,Locals,Graduated,90,diabetes awareness,OM
+3405,18-24,Female,Locals,Graduated,60,diabetes awareness,OM
+3406,25-44,Female,Locals,Graduated,100,diabetes awareness,OM
+3407,45+,Female,Locals,Graduated,20,diabetes awareness,OM
+3408,18-24,Male,Locals,No Degree,100,diabetes awareness,OM
+3409,25-44,Male,Locals,No Degree,370,diabetes awareness,OM
+3410,45+,Male,Locals,No Degree,80,diabetes awareness,OM
+3411,18-24,Female,Locals,No Degree,20,diabetes awareness,OM
+3412,25-44,Female,Locals,No Degree,50,diabetes awareness,OM
+3413,45+,Female,Locals,No Degree,20,diabetes awareness,OM
+3414,18-24,Male,Locals,High School,100,diabetes awareness,OM
+3415,25-44,Male,Locals,High School,210,diabetes awareness,OM
+3416,45+,Male,Locals,High School,50,diabetes awareness,OM
+3417,18-24,Female,Locals,High School,20,diabetes awareness,OM
+3418,25-44,Female,Locals,High School,40,diabetes awareness,OM
+3419,45+,Female,Locals,High School,20,diabetes awareness,OM
+3420,18-24,Male,Expats,Graduated,2300,diabetes awareness,QA
+3421,25-44,Male,Expats,Graduated,13000,diabetes awareness,QA
+3422,45+,Male,Expats,Graduated,3100,diabetes awareness,QA
+3423,18-24,Female,Expats,Graduated,510,diabetes awareness,QA
+3424,25-44,Female,Expats,Graduated,7000,diabetes awareness,QA
+3425,45+,Female,Expats,Graduated,1900,diabetes awareness,QA
+3426,18-24,Male,Expats,No Degree,3900,diabetes awareness,QA
+3427,25-44,Male,Expats,No Degree,10000,diabetes awareness,QA
+3428,45+,Male,Expats,No Degree,2200,diabetes awareness,QA
+3429,18-24,Female,Expats,No Degree,540,diabetes awareness,QA
+3430,25-44,Female,Expats,No Degree,2200,diabetes awareness,QA
+3431,45+,Female,Expats,No Degree,1200,diabetes awareness,QA
+3432,18-24,Male,Expats,High School,860,diabetes awareness,QA
+3433,25-44,Male,Expats,High School,3000,diabetes awareness,QA
+3434,45+,Male,Expats,High School,770,diabetes awareness,QA
+3435,18-24,Female,Expats,High School,270,diabetes awareness,QA
+3436,25-44,Female,Expats,High School,1700,diabetes awareness,QA
+3437,45+,Female,Expats,High School,620,diabetes awareness,QA
+3438,18-24,Male,Locals,Graduated,30,diabetes awareness,QA
+3439,25-44,Male,Locals,Graduated,140,diabetes awareness,QA
+3440,45+,Male,Locals,Graduated,20,diabetes awareness,QA
+3441,18-24,Female,Locals,Graduated,30,diabetes awareness,QA
+3442,25-44,Female,Locals,Graduated,90,diabetes awareness,QA
+3443,45+,Female,Locals,Graduated,20,diabetes awareness,QA
+3444,18-24,Male,Locals,No Degree,70,diabetes awareness,QA
+3445,25-44,Male,Locals,No Degree,140,diabetes awareness,QA
+3446,45+,Male,Locals,No Degree,60,diabetes awareness,QA
+3447,18-24,Female,Locals,No Degree,20,diabetes awareness,QA
+3448,25-44,Female,Locals,No Degree,50,diabetes awareness,QA
+3449,45+,Female,Locals,No Degree,30,diabetes awareness,QA
+3450,18-24,Male,Locals,High School,20,diabetes awareness,QA
+3451,25-44,Male,Locals,High School,20,diabetes awareness,QA
+3452,45+,Male,Locals,High School,20,diabetes awareness,QA
+3453,18-24,Female,Locals,High School,20,diabetes awareness,QA
+3454,25-44,Female,Locals,High School,20,diabetes awareness,QA
+3455,45+,Female,Locals,High School,20,diabetes awareness,QA
+3456,18-24,Male,Expats,Graduated,14000,diabetes awareness,SA
+3457,25-44,Male,Expats,Graduated,81000,diabetes awareness,SA
+3458,45+,Male,Expats,Graduated,16000,diabetes awareness,SA
+3459,18-24,Female,Expats,Graduated,2800,diabetes awareness,SA
+3460,25-44,Female,Expats,Graduated,28000,diabetes awareness,SA
+3461,45+,Female,Expats,Graduated,8100,diabetes awareness,SA
+3462,18-24,Male,Expats,No Degree,4100,diabetes awareness,SA
+3463,25-44,Male,Expats,No Degree,15000,diabetes awareness,SA
+3464,45+,Male,Expats,No Degree,3500,diabetes awareness,SA
+3465,18-24,Female,Expats,No Degree,1100,diabetes awareness,SA
+3466,25-44,Female,Expats,No Degree,6100,diabetes awareness,SA
+3467,45+,Female,Expats,No Degree,2100,diabetes awareness,SA
+3468,18-24,Male,Expats,High School,4500,diabetes awareness,SA
+3469,25-44,Male,Expats,High School,18000,diabetes awareness,SA
+3470,45+,Male,Expats,High School,3700,diabetes awareness,SA
+3471,18-24,Female,Expats,High School,1800,diabetes awareness,SA
+3472,25-44,Female,Expats,High School,7300,diabetes awareness,SA
+3473,45+,Female,Expats,High School,2400,diabetes awareness,SA
+3474,18-24,Male,Locals,Graduated,5300,diabetes awareness,SA
+3475,25-44,Male,Locals,Graduated,25000,diabetes awareness,SA
+3476,45+,Male,Locals,Graduated,5400,diabetes awareness,SA
+3477,18-24,Female,Locals,Graduated,1500,diabetes awareness,SA
+3478,25-44,Female,Locals,Graduated,7100,diabetes awareness,SA
+3479,45+,Female,Locals,Graduated,2100,diabetes awareness,SA
+3480,18-24,Male,Locals,No Degree,38000,diabetes awareness,SA
+3481,25-44,Male,Locals,No Degree,90000,diabetes awareness,SA
+3482,45+,Male,Locals,No Degree,16000,diabetes awareness,SA
+3483,18-24,Female,Locals,No Degree,5500,diabetes awareness,SA
+3484,25-44,Female,Locals,No Degree,12000,diabetes awareness,SA
+3485,45+,Female,Locals,No Degree,4900,diabetes awareness,SA
+3486,18-24,Male,Locals,High School,3000,diabetes awareness,SA
+3487,25-44,Male,Locals,High School,9500,diabetes awareness,SA
+3488,45+,Male,Locals,High School,2300,diabetes awareness,SA
+3489,18-24,Female,Locals,High School,850,diabetes awareness,SA
+3490,25-44,Female,Locals,High School,2500,diabetes awareness,SA
+3491,45+,Female,Locals,High School,740,diabetes awareness,SA
+3492,18-24,Male,Expats,Graduated,390,diabetes awareness,SO
+3493,25-44,Male,Expats,Graduated,270,diabetes awareness,SO
+3494,45+,Male,Expats,Graduated,90,diabetes awareness,SO
+3495,18-24,Female,Expats,Graduated,160,diabetes awareness,SO
+3496,25-44,Female,Expats,Graduated,90,diabetes awareness,SO
+3497,45+,Female,Expats,Graduated,20,diabetes awareness,SO
+3498,18-24,Male,Expats,No Degree,140,diabetes awareness,SO
+3499,25-44,Male,Expats,No Degree,70,diabetes awareness,SO
+3500,45+,Male,Expats,No Degree,20,diabetes awareness,SO
+3501,18-24,Female,Expats,No Degree,60,diabetes awareness,SO
+3502,25-44,Female,Expats,No Degree,20,diabetes awareness,SO
+3503,45+,Female,Expats,No Degree,20,diabetes awareness,SO
+3504,18-24,Male,Expats,High School,130,diabetes awareness,SO
+3505,25-44,Male,Expats,High School,20,diabetes awareness,SO
+3506,45+,Male,Expats,High School,20,diabetes awareness,SO
+3507,18-24,Female,Expats,High School,40,diabetes awareness,SO
+3508,25-44,Female,Expats,High School,20,diabetes awareness,SO
+3509,45+,Female,Expats,High School,20,diabetes awareness,SO
+3510,18-24,Male,Locals,Graduated,1200,diabetes awareness,SO
+3511,25-44,Male,Locals,Graduated,1100,diabetes awareness,SO
+3512,45+,Male,Locals,Graduated,60,diabetes awareness,SO
+3513,18-24,Female,Locals,Graduated,900,diabetes awareness,SO
+3514,25-44,Female,Locals,Graduated,510,diabetes awareness,SO
+3515,45+,Female,Locals,Graduated,40,diabetes awareness,SO
+3516,18-24,Male,Locals,No Degree,720,diabetes awareness,SO
+3517,25-44,Male,Locals,No Degree,420,diabetes awareness,SO
+3518,45+,Male,Locals,No Degree,60,diabetes awareness,SO
+3519,18-24,Female,Locals,No Degree,900,diabetes awareness,SO
+3520,25-44,Female,Locals,No Degree,500,diabetes awareness,SO
+3521,45+,Female,Locals,No Degree,50,diabetes awareness,SO
+3522,18-24,Male,Locals,High School,390,diabetes awareness,SO
+3523,25-44,Male,Locals,High School,170,diabetes awareness,SO
+3524,45+,Male,Locals,High School,20,diabetes awareness,SO
+3525,18-24,Female,Locals,High School,360,diabetes awareness,SO
+3526,25-44,Female,Locals,High School,90,diabetes awareness,SO
+3527,45+,Female,Locals,High School,30,diabetes awareness,SO
+3528,18-24,Male,Expats,Graduated,570,diabetes awareness,TN
+3529,25-44,Male,Expats,Graduated,2400,diabetes awareness,TN
+3530,45+,Male,Expats,Graduated,1300,diabetes awareness,TN
+3531,18-24,Female,Expats,Graduated,440,diabetes awareness,TN
+3532,25-44,Female,Expats,Graduated,1200,diabetes awareness,TN
+3533,45+,Female,Expats,Graduated,580,diabetes awareness,TN
+3534,18-24,Male,Expats,No Degree,360,diabetes awareness,TN
+3535,25-44,Male,Expats,No Degree,1700,diabetes awareness,TN
+3536,45+,Male,Expats,No Degree,1000,diabetes awareness,TN
+3537,18-24,Female,Expats,No Degree,210,diabetes awareness,TN
+3538,25-44,Female,Expats,No Degree,1200,diabetes awareness,TN
+3539,45+,Female,Expats,No Degree,640,diabetes awareness,TN
+3540,18-24,Male,Expats,High School,270,diabetes awareness,TN
+3541,25-44,Male,Expats,High School,730,diabetes awareness,TN
+3542,45+,Male,Expats,High School,330,diabetes awareness,TN
+3543,18-24,Female,Expats,High School,200,diabetes awareness,TN
+3544,25-44,Female,Expats,High School,410,diabetes awareness,TN
+3545,45+,Female,Expats,High School,150,diabetes awareness,TN
+3546,18-24,Male,Locals,Graduated,3300,diabetes awareness,TN
+3547,25-44,Male,Locals,Graduated,24000,diabetes awareness,TN
+3548,45+,Male,Locals,Graduated,14000,diabetes awareness,TN
+3549,18-24,Female,Locals,Graduated,8000,diabetes awareness,TN
+3550,25-44,Female,Locals,Graduated,24000,diabetes awareness,TN
+3551,45+,Female,Locals,Graduated,7200,diabetes awareness,TN
+3552,18-24,Male,Locals,No Degree,3300,diabetes awareness,TN
+3553,25-44,Male,Locals,No Degree,25000,diabetes awareness,TN
+3554,45+,Male,Locals,No Degree,19000,diabetes awareness,TN
+3555,18-24,Female,Locals,No Degree,4800,diabetes awareness,TN
+3556,25-44,Female,Locals,No Degree,22000,diabetes awareness,TN
+3557,45+,Female,Locals,No Degree,13000,diabetes awareness,TN
+3558,18-24,Male,Locals,High School,1400,diabetes awareness,TN
+3559,25-44,Male,Locals,High School,8100,diabetes awareness,TN
+3560,45+,Male,Locals,High School,6800,diabetes awareness,TN
+3561,18-24,Female,Locals,High School,3300,diabetes awareness,TN
+3562,25-44,Female,Locals,High School,6400,diabetes awareness,TN
+3563,45+,Female,Locals,High School,4100,diabetes awareness,TN
+3564,18-24,Male,Expats,Graduated,7500,diabetes awareness,AE
+3565,25-44,Male,Expats,Graduated,38000,diabetes awareness,AE
+3566,45+,Male,Expats,Graduated,7800,diabetes awareness,AE
+3567,18-24,Female,Expats,Graduated,2800,diabetes awareness,AE
+3568,25-44,Female,Expats,Graduated,34000,diabetes awareness,AE
+3569,45+,Female,Expats,Graduated,10000,diabetes awareness,AE
+3570,18-24,Male,Expats,No Degree,6400,diabetes awareness,AE
+3571,25-44,Male,Expats,No Degree,17000,diabetes awareness,AE
+3572,45+,Male,Expats,No Degree,3800,diabetes awareness,AE
+3573,18-24,Female,Expats,No Degree,1600,diabetes awareness,AE
+3574,25-44,Female,Expats,No Degree,9300,diabetes awareness,AE
+3575,45+,Female,Expats,No Degree,5100,diabetes awareness,AE
+3576,18-24,Male,Expats,High School,2500,diabetes awareness,AE
+3577,25-44,Male,Expats,High School,7500,diabetes awareness,AE
+3578,45+,Male,Expats,High School,1700,diabetes awareness,AE
+3579,18-24,Female,Expats,High School,1300,diabetes awareness,AE
+3580,25-44,Female,Expats,High School,6300,diabetes awareness,AE
+3581,45+,Female,Expats,High School,2700,diabetes awareness,AE
+3582,18-24,Male,Locals,Graduated,260,diabetes awareness,AE
+3583,25-44,Male,Locals,Graduated,640,diabetes awareness,AE
+3584,45+,Male,Locals,Graduated,180,diabetes awareness,AE
+3585,18-24,Female,Locals,Graduated,110,diabetes awareness,AE
+3586,25-44,Female,Locals,Graduated,600,diabetes awareness,AE
+3587,45+,Female,Locals,Graduated,100,diabetes awareness,AE
+3588,18-24,Male,Locals,No Degree,200,diabetes awareness,AE
+3589,25-44,Male,Locals,No Degree,540,diabetes awareness,AE
+3590,45+,Male,Locals,No Degree,140,diabetes awareness,AE
+3591,18-24,Female,Locals,No Degree,90,diabetes awareness,AE
+3592,25-44,Female,Locals,No Degree,350,diabetes awareness,AE
+3593,45+,Female,Locals,No Degree,110,diabetes awareness,AE
+3594,18-24,Male,Locals,High School,150,diabetes awareness,AE
+3595,25-44,Male,Locals,High School,160,diabetes awareness,AE
+3596,45+,Male,Locals,High School,50,diabetes awareness,AE
+3597,18-24,Female,Locals,High School,90,diabetes awareness,AE
+3598,25-44,Female,Locals,High School,110,diabetes awareness,AE
+3599,45+,Female,Locals,High School,20,diabetes awareness,AE
+3600,18-24,Male,Expats,Graduated,2200,diabetes awareness,YE
+3601,25-44,Male,Expats,Graduated,4700,diabetes awareness,YE
+3602,45+,Male,Expats,Graduated,540,diabetes awareness,YE
+3603,18-24,Female,Expats,Graduated,330,diabetes awareness,YE
+3604,25-44,Female,Expats,Graduated,660,diabetes awareness,YE
+3605,45+,Female,Expats,Graduated,90,diabetes awareness,YE
+3606,18-24,Male,Expats,No Degree,1500,diabetes awareness,YE
+3607,25-44,Male,Expats,No Degree,1900,diabetes awareness,YE
+3608,45+,Male,Expats,No Degree,210,diabetes awareness,YE
+3609,18-24,Female,Expats,No Degree,630,diabetes awareness,YE
+3610,25-44,Female,Expats,No Degree,560,diabetes awareness,YE
+3611,45+,Female,Expats,No Degree,150,diabetes awareness,YE
+3612,18-24,Male,Expats,High School,1200,diabetes awareness,YE
+3613,25-44,Male,Expats,High School,1100,diabetes awareness,YE
+3614,45+,Male,Expats,High School,150,diabetes awareness,YE
+3615,18-24,Female,Expats,High School,280,diabetes awareness,YE
+3616,25-44,Female,Expats,High School,180,diabetes awareness,YE
+3617,45+,Female,Expats,High School,20,diabetes awareness,YE
+3618,18-24,Male,Locals,Graduated,22000,diabetes awareness,YE
+3619,25-44,Male,Locals,Graduated,51000,diabetes awareness,YE
+3620,45+,Male,Locals,Graduated,4900,diabetes awareness,YE
+3621,18-24,Female,Locals,Graduated,3200,diabetes awareness,YE
+3622,25-44,Female,Locals,Graduated,6700,diabetes awareness,YE
+3623,45+,Female,Locals,Graduated,600,diabetes awareness,YE
+3624,18-24,Male,Locals,No Degree,30000,diabetes awareness,YE
+3625,25-44,Male,Locals,No Degree,41000,diabetes awareness,YE
+3626,45+,Male,Locals,No Degree,6200,diabetes awareness,YE
+3627,18-24,Female,Locals,No Degree,4200,diabetes awareness,YE
+3628,25-44,Female,Locals,No Degree,5500,diabetes awareness,YE
+3629,45+,Female,Locals,No Degree,980,diabetes awareness,YE
+3630,18-24,Male,Locals,High School,15000,diabetes awareness,YE
+3631,25-44,Male,Locals,High School,15000,diabetes awareness,YE
+3632,45+,Male,Locals,High School,1500,diabetes awareness,YE
+3633,18-24,Female,Locals,High School,3200,diabetes awareness,YE
+3634,25-44,Female,Locals,High School,1800,diabetes awareness,YE
+3635,45+,Female,Locals,High School,200,diabetes awareness,YE
+3636,18-24,Male,Expats,Graduated,390,diabetes awareness,PS
+3637,25-44,Male,Expats,Graduated,730,diabetes awareness,PS
+3638,45+,Male,Expats,Graduated,240,diabetes awareness,PS
+3639,18-24,Female,Expats,Graduated,330,diabetes awareness,PS
+3640,25-44,Female,Expats,Graduated,880,diabetes awareness,PS
+3641,45+,Female,Expats,Graduated,170,diabetes awareness,PS
+3642,18-24,Male,Expats,No Degree,160,diabetes awareness,PS
+3643,25-44,Male,Expats,No Degree,260,diabetes awareness,PS
+3644,45+,Male,Expats,No Degree,130,diabetes awareness,PS
+3645,18-24,Female,Expats,No Degree,120,diabetes awareness,PS
+3646,25-44,Female,Expats,No Degree,410,diabetes awareness,PS
+3647,45+,Female,Expats,No Degree,240,diabetes awareness,PS
+3648,18-24,Male,Expats,High School,80,diabetes awareness,PS
+3649,25-44,Male,Expats,High School,160,diabetes awareness,PS
+3650,45+,Male,Expats,High School,70,diabetes awareness,PS
+3651,18-24,Female,Expats,High School,320,diabetes awareness,PS
+3652,25-44,Female,Expats,High School,270,diabetes awareness,PS
+3653,45+,Female,Expats,High School,70,diabetes awareness,PS
+3654,18-24,Male,Locals,Graduated,1300,diabetes awareness,PS
+3655,25-44,Male,Locals,Graduated,4000,diabetes awareness,PS
+3656,45+,Male,Locals,Graduated,1200,diabetes awareness,PS
+3657,18-24,Female,Locals,Graduated,1800,diabetes awareness,PS
+3658,25-44,Female,Locals,Graduated,4600,diabetes awareness,PS
+3659,45+,Female,Locals,Graduated,830,diabetes awareness,PS
+3660,18-24,Male,Locals,No Degree,710,diabetes awareness,PS
+3661,25-44,Male,Locals,No Degree,1700,diabetes awareness,PS
+3662,45+,Male,Locals,No Degree,1300,diabetes awareness,PS
+3663,18-24,Female,Locals,No Degree,1300,diabetes awareness,PS
+3664,25-44,Female,Locals,No Degree,3600,diabetes awareness,PS
+3665,45+,Female,Locals,No Degree,1400,diabetes awareness,PS
+3666,18-24,Male,Locals,High School,760,diabetes awareness,PS
+3667,25-44,Male,Locals,High School,980,diabetes awareness,PS
+3668,45+,Male,Locals,High School,360,diabetes awareness,PS
+3669,18-24,Female,Locals,High School,1500,diabetes awareness,PS
+3670,25-44,Female,Locals,High School,1400,diabetes awareness,PS
+3671,45+,Female,Locals,High School,270,diabetes awareness,PS
+7344,18-24,Male,Expats,Graduated,3000,stroke heart disease,DZ
+7345,25-44,Male,Expats,Graduated,4400,stroke heart disease,DZ
+7346,45+,Male,Expats,Graduated,880,stroke heart disease,DZ
+7347,18-24,Female,Expats,Graduated,1300,stroke heart disease,DZ
+7348,25-44,Female,Expats,Graduated,1300,stroke heart disease,DZ
+7349,45+,Female,Expats,Graduated,390,stroke heart disease,DZ
+7350,18-24,Male,Expats,No Degree,2600,stroke heart disease,DZ
+7351,25-44,Male,Expats,No Degree,6000,stroke heart disease,DZ
+7352,45+,Male,Expats,No Degree,1500,stroke heart disease,DZ
+7353,18-24,Female,Expats,No Degree,1000,stroke heart disease,DZ
+7354,25-44,Female,Expats,No Degree,1900,stroke heart disease,DZ
+7355,45+,Female,Expats,No Degree,640,stroke heart disease,DZ
+7356,18-24,Male,Expats,High School,1200,stroke heart disease,DZ
+7357,25-44,Male,Expats,High School,1100,stroke heart disease,DZ
+7358,45+,Male,Expats,High School,240,stroke heart disease,DZ
+7359,18-24,Female,Expats,High School,500,stroke heart disease,DZ
+7360,25-44,Female,Expats,High School,310,stroke heart disease,DZ
+7361,45+,Female,Expats,High School,110,stroke heart disease,DZ
+7362,18-24,Male,Locals,Graduated,12000,stroke heart disease,DZ
+7363,25-44,Male,Locals,Graduated,34000,stroke heart disease,DZ
+7364,45+,Male,Locals,Graduated,7300,stroke heart disease,DZ
+7365,18-24,Female,Locals,Graduated,13000,stroke heart disease,DZ
+7366,25-44,Female,Locals,Graduated,21000,stroke heart disease,DZ
+7367,45+,Female,Locals,Graduated,3900,stroke heart disease,DZ
+7368,18-24,Male,Locals,No Degree,19000,stroke heart disease,DZ
+7369,25-44,Male,Locals,No Degree,56000,stroke heart disease,DZ
+7370,45+,Male,Locals,No Degree,13000,stroke heart disease,DZ
+7371,18-24,Female,Locals,No Degree,15000,stroke heart disease,DZ
+7372,25-44,Female,Locals,No Degree,29000,stroke heart disease,DZ
+7373,45+,Female,Locals,No Degree,8100,stroke heart disease,DZ
+7374,18-24,Male,Locals,High School,5800,stroke heart disease,DZ
+7375,25-44,Male,Locals,High School,10000,stroke heart disease,DZ
+7376,45+,Male,Locals,High School,2900,stroke heart disease,DZ
+7377,18-24,Female,Locals,High School,5500,stroke heart disease,DZ
+7378,25-44,Female,Locals,High School,4700,stroke heart disease,DZ
+7379,45+,Female,Locals,High School,1600,stroke heart disease,DZ
+7380,18-24,Male,Expats,Graduated,450,stroke heart disease,BH
+7381,25-44,Male,Expats,Graduated,1400,stroke heart disease,BH
+7382,45+,Male,Expats,Graduated,260,stroke heart disease,BH
+7383,18-24,Female,Expats,Graduated,70,stroke heart disease,BH
+7384,25-44,Female,Expats,Graduated,1100,stroke heart disease,BH
+7385,45+,Female,Expats,Graduated,820,stroke heart disease,BH
+7386,18-24,Male,Expats,No Degree,340,stroke heart disease,BH
+7387,25-44,Male,Expats,No Degree,850,stroke heart disease,BH
+7388,45+,Male,Expats,No Degree,180,stroke heart disease,BH
+7389,18-24,Female,Expats,No Degree,30,stroke heart disease,BH
+7390,25-44,Female,Expats,No Degree,370,stroke heart disease,BH
+7391,45+,Female,Expats,No Degree,510,stroke heart disease,BH
+7392,18-24,Male,Expats,High School,120,stroke heart disease,BH
+7393,25-44,Male,Expats,High School,410,stroke heart disease,BH
+7394,45+,Male,Expats,High School,80,stroke heart disease,BH
+7395,18-24,Female,Expats,High School,30,stroke heart disease,BH
+7396,25-44,Female,Expats,High School,430,stroke heart disease,BH
+7397,45+,Female,Expats,High School,230,stroke heart disease,BH
+7398,18-24,Male,Locals,Graduated,40,stroke heart disease,BH
+7399,25-44,Male,Locals,Graduated,70,stroke heart disease,BH
+7400,45+,Male,Locals,Graduated,20,stroke heart disease,BH
+7401,18-24,Female,Locals,Graduated,20,stroke heart disease,BH
+7402,25-44,Female,Locals,Graduated,90,stroke heart disease,BH
+7403,45+,Female,Locals,Graduated,20,stroke heart disease,BH
+7404,18-24,Male,Locals,No Degree,20,stroke heart disease,BH
+7405,25-44,Male,Locals,No Degree,50,stroke heart disease,BH
+7406,45+,Male,Locals,No Degree,20,stroke heart disease,BH
+7407,18-24,Female,Locals,No Degree,20,stroke heart disease,BH
+7408,25-44,Female,Locals,No Degree,20,stroke heart disease,BH
+7409,45+,Female,Locals,No Degree,20,stroke heart disease,BH
+7410,18-24,Male,Locals,High School,20,stroke heart disease,BH
+7411,25-44,Male,Locals,High School,30,stroke heart disease,BH
+7412,45+,Male,Locals,High School,20,stroke heart disease,BH
+7413,18-24,Female,Locals,High School,20,stroke heart disease,BH
+7414,25-44,Female,Locals,High School,20,stroke heart disease,BH
+7415,45+,Female,Locals,High School,20,stroke heart disease,BH
+7416,18-24,Male,Expats,Graduated,3600,stroke heart disease,EG
+7417,25-44,Male,Expats,Graduated,6600,stroke heart disease,EG
+7418,45+,Male,Expats,Graduated,2300,stroke heart disease,EG
+7419,18-24,Female,Expats,Graduated,2000,stroke heart disease,EG
+7420,25-44,Female,Expats,Graduated,3900,stroke heart disease,EG
+7421,45+,Female,Expats,Graduated,1200,stroke heart disease,EG
+7422,18-24,Male,Expats,No Degree,1200,stroke heart disease,EG
+7423,25-44,Male,Expats,No Degree,2600,stroke heart disease,EG
+7424,45+,Male,Expats,No Degree,1500,stroke heart disease,EG
+7425,18-24,Female,Expats,No Degree,850,stroke heart disease,EG
+7426,25-44,Female,Expats,No Degree,1600,stroke heart disease,EG
+7427,45+,Female,Expats,No Degree,1400,stroke heart disease,EG
+7428,18-24,Male,Expats,High School,2200,stroke heart disease,EG
+7429,25-44,Male,Expats,High School,1400,stroke heart disease,EG
+7430,45+,Male,Expats,High School,540,stroke heart disease,EG
+7431,18-24,Female,Expats,High School,1400,stroke heart disease,EG
+7432,25-44,Female,Expats,High School,890,stroke heart disease,EG
+7433,45+,Female,Expats,High School,450,stroke heart disease,EG
+7434,18-24,Male,Locals,Graduated,66000,stroke heart disease,EG
+7435,25-44,Male,Locals,Graduated,150000,stroke heart disease,EG
+7436,45+,Male,Locals,Graduated,46000,stroke heart disease,EG
+7437,18-24,Female,Locals,Graduated,78000,stroke heart disease,EG
+7438,25-44,Female,Locals,Graduated,110000,stroke heart disease,EG
+7439,45+,Female,Locals,Graduated,31000,stroke heart disease,EG
+7440,18-24,Male,Locals,No Degree,34000,stroke heart disease,EG
+7441,25-44,Male,Locals,No Degree,79000,stroke heart disease,EG
+7442,45+,Male,Locals,No Degree,49000,stroke heart disease,EG
+7443,18-24,Female,Locals,No Degree,47000,stroke heart disease,EG
+7444,25-44,Female,Locals,No Degree,65000,stroke heart disease,EG
+7445,45+,Female,Locals,No Degree,45000,stroke heart disease,EG
+7446,18-24,Male,Locals,High School,43000,stroke heart disease,EG
+7447,25-44,Male,Locals,High School,31000,stroke heart disease,EG
+7448,45+,Male,Locals,High School,12000,stroke heart disease,EG
+7449,18-24,Female,Locals,High School,54000,stroke heart disease,EG
+7450,25-44,Female,Locals,High School,20000,stroke heart disease,EG
+7451,45+,Female,Locals,High School,6400,stroke heart disease,EG
+7452,18-24,Male,Expats,Graduated,1800,stroke heart disease,IQ
+7453,25-44,Male,Expats,Graduated,5800,stroke heart disease,IQ
+7454,45+,Male,Expats,Graduated,1300,stroke heart disease,IQ
+7455,18-24,Female,Expats,Graduated,760,stroke heart disease,IQ
+7456,25-44,Female,Expats,Graduated,1700,stroke heart disease,IQ
+7457,45+,Female,Expats,Graduated,330,stroke heart disease,IQ
+7458,18-24,Male,Expats,No Degree,1400,stroke heart disease,IQ
+7459,25-44,Male,Expats,No Degree,2800,stroke heart disease,IQ
+7460,45+,Male,Expats,No Degree,900,stroke heart disease,IQ
+7461,18-24,Female,Expats,No Degree,1100,stroke heart disease,IQ
+7462,25-44,Female,Expats,No Degree,1500,stroke heart disease,IQ
+7463,45+,Female,Expats,No Degree,370,stroke heart disease,IQ
+7464,18-24,Male,Expats,High School,990,stroke heart disease,IQ
+7465,25-44,Male,Expats,High School,1400,stroke heart disease,IQ
+7466,45+,Male,Expats,High School,440,stroke heart disease,IQ
+7467,18-24,Female,Expats,High School,610,stroke heart disease,IQ
+7468,25-44,Female,Expats,High School,580,stroke heart disease,IQ
+7469,45+,Female,Expats,High School,70,stroke heart disease,IQ
+7470,18-24,Male,Locals,Graduated,17000,stroke heart disease,IQ
+7471,25-44,Male,Locals,Graduated,68000,stroke heart disease,IQ
+7472,45+,Male,Locals,Graduated,20000,stroke heart disease,IQ
+7473,18-24,Female,Locals,Graduated,12000,stroke heart disease,IQ
+7474,25-44,Female,Locals,Graduated,30000,stroke heart disease,IQ
+7475,45+,Female,Locals,Graduated,6700,stroke heart disease,IQ
+7476,18-24,Male,Locals,No Degree,26000,stroke heart disease,IQ
+7477,25-44,Male,Locals,No Degree,63000,stroke heart disease,IQ
+7478,45+,Male,Locals,No Degree,30000,stroke heart disease,IQ
+7479,18-24,Female,Locals,No Degree,22000,stroke heart disease,IQ
+7480,25-44,Female,Locals,No Degree,34000,stroke heart disease,IQ
+7481,45+,Female,Locals,No Degree,12000,stroke heart disease,IQ
+7482,18-24,Male,Locals,High School,12000,stroke heart disease,IQ
+7483,25-44,Male,Locals,High School,20000,stroke heart disease,IQ
+7484,45+,Male,Locals,High School,6400,stroke heart disease,IQ
+7485,18-24,Female,Locals,High School,12000,stroke heart disease,IQ
+7486,25-44,Female,Locals,High School,9100,stroke heart disease,IQ
+7487,45+,Female,Locals,High School,2300,stroke heart disease,IQ
+7488,18-24,Male,Expats,Graduated,2700,stroke heart disease,JO
+7489,25-44,Male,Expats,Graduated,8100,stroke heart disease,JO
+7490,45+,Male,Expats,Graduated,2700,stroke heart disease,JO
+7491,18-24,Female,Expats,Graduated,2000,stroke heart disease,JO
+7492,25-44,Female,Expats,Graduated,7000,stroke heart disease,JO
+7493,45+,Female,Expats,Graduated,2200,stroke heart disease,JO
+7494,18-24,Male,Expats,No Degree,3300,stroke heart disease,JO
+7495,25-44,Male,Expats,No Degree,8400,stroke heart disease,JO
+7496,45+,Male,Expats,No Degree,3700,stroke heart disease,JO
+7497,18-24,Female,Expats,No Degree,1700,stroke heart disease,JO
+7498,25-44,Female,Expats,No Degree,4600,stroke heart disease,JO
+7499,45+,Female,Expats,No Degree,3300,stroke heart disease,JO
+7500,18-24,Male,Expats,High School,2300,stroke heart disease,JO
+7501,25-44,Male,Expats,High School,2600,stroke heart disease,JO
+7502,45+,Male,Expats,High School,800,stroke heart disease,JO
+7503,18-24,Female,Expats,High School,1600,stroke heart disease,JO
+7504,25-44,Female,Expats,High School,2000,stroke heart disease,JO
+7505,45+,Female,Expats,High School,870,stroke heart disease,JO
+7506,18-24,Male,Locals,Graduated,8300,stroke heart disease,JO
+7507,25-44,Male,Locals,Graduated,25000,stroke heart disease,JO
+7508,45+,Male,Locals,Graduated,9200,stroke heart disease,JO
+7509,18-24,Female,Locals,Graduated,7100,stroke heart disease,JO
+7510,25-44,Female,Locals,Graduated,25000,stroke heart disease,JO
+7511,45+,Female,Locals,Graduated,5600,stroke heart disease,JO
+7512,18-24,Male,Locals,No Degree,9900,stroke heart disease,JO
+7513,25-44,Male,Locals,No Degree,22000,stroke heart disease,JO
+7514,45+,Male,Locals,No Degree,15000,stroke heart disease,JO
+7515,18-24,Female,Locals,No Degree,10000,stroke heart disease,JO
+7516,25-44,Female,Locals,No Degree,21000,stroke heart disease,JO
+7517,45+,Female,Locals,No Degree,12000,stroke heart disease,JO
+7518,18-24,Male,Locals,High School,6700,stroke heart disease,JO
+7519,25-44,Male,Locals,High School,7600,stroke heart disease,JO
+7520,45+,Male,Locals,High School,4100,stroke heart disease,JO
+7521,18-24,Female,Locals,High School,7300,stroke heart disease,JO
+7522,25-44,Female,Locals,High School,7400,stroke heart disease,JO
+7523,45+,Female,Locals,High School,2400,stroke heart disease,JO
+7524,18-24,Male,Expats,Graduated,1100,stroke heart disease,KW
+7525,25-44,Male,Expats,Graduated,11000,stroke heart disease,KW
+7526,45+,Male,Expats,Graduated,1700,stroke heart disease,KW
+7527,18-24,Female,Expats,Graduated,510,stroke heart disease,KW
+7528,25-44,Female,Expats,Graduated,8300,stroke heart disease,KW
+7529,45+,Female,Expats,Graduated,2600,stroke heart disease,KW
+7530,18-24,Male,Expats,No Degree,3600,stroke heart disease,KW
+7531,25-44,Male,Expats,No Degree,13000,stroke heart disease,KW
+7532,45+,Male,Expats,No Degree,3100,stroke heart disease,KW
+7533,18-24,Female,Expats,No Degree,730,stroke heart disease,KW
+7534,25-44,Female,Expats,No Degree,4700,stroke heart disease,KW
+7535,45+,Female,Expats,No Degree,1700,stroke heart disease,KW
+7536,18-24,Male,Expats,High School,560,stroke heart disease,KW
+7537,25-44,Male,Expats,High School,3600,stroke heart disease,KW
+7538,45+,Male,Expats,High School,540,stroke heart disease,KW
+7539,18-24,Female,Expats,High School,350,stroke heart disease,KW
+7540,25-44,Female,Expats,High School,3000,stroke heart disease,KW
+7541,45+,Female,Expats,High School,940,stroke heart disease,KW
+7542,18-24,Male,Locals,Graduated,30,stroke heart disease,KW
+7543,25-44,Male,Locals,Graduated,330,stroke heart disease,KW
+7544,45+,Male,Locals,Graduated,40,stroke heart disease,KW
+7545,18-24,Female,Locals,Graduated,20,stroke heart disease,KW
+7546,25-44,Female,Locals,Graduated,270,stroke heart disease,KW
+7547,45+,Female,Locals,Graduated,100,stroke heart disease,KW
+7548,18-24,Male,Locals,No Degree,160,stroke heart disease,KW
+7549,25-44,Male,Locals,No Degree,390,stroke heart disease,KW
+7550,45+,Male,Locals,No Degree,90,stroke heart disease,KW
+7551,18-24,Female,Locals,No Degree,60,stroke heart disease,KW
+7552,25-44,Female,Locals,No Degree,210,stroke heart disease,KW
+7553,45+,Female,Locals,No Degree,40,stroke heart disease,KW
+7554,18-24,Male,Locals,High School,20,stroke heart disease,KW
+7555,25-44,Male,Locals,High School,50,stroke heart disease,KW
+7556,45+,Male,Locals,High School,20,stroke heart disease,KW
+7557,18-24,Female,Locals,High School,30,stroke heart disease,KW
+7558,25-44,Female,Locals,High School,70,stroke heart disease,KW
+7559,45+,Female,Locals,High School,20,stroke heart disease,KW
+7560,18-24,Male,Expats,Graduated,1000,stroke heart disease,LB
+7561,25-44,Male,Expats,Graduated,1700,stroke heart disease,LB
+7562,45+,Male,Expats,Graduated,420,stroke heart disease,LB
+7563,18-24,Female,Expats,Graduated,480,stroke heart disease,LB
+7564,25-44,Female,Expats,Graduated,1300,stroke heart disease,LB
+7565,45+,Female,Expats,Graduated,1000,stroke heart disease,LB
+7566,18-24,Male,Expats,No Degree,1500,stroke heart disease,LB
+7567,25-44,Male,Expats,No Degree,2800,stroke heart disease,LB
+7568,45+,Male,Expats,No Degree,790,stroke heart disease,LB
+7569,18-24,Female,Expats,No Degree,690,stroke heart disease,LB
+7570,25-44,Female,Expats,No Degree,1800,stroke heart disease,LB
+7571,45+,Female,Expats,No Degree,1600,stroke heart disease,LB
+7572,18-24,Male,Expats,High School,500,stroke heart disease,LB
+7573,25-44,Male,Expats,High School,730,stroke heart disease,LB
+7574,45+,Male,Expats,High School,260,stroke heart disease,LB
+7575,18-24,Female,Expats,High School,270,stroke heart disease,LB
+7576,25-44,Female,Expats,High School,500,stroke heart disease,LB
+7577,45+,Female,Expats,High School,340,stroke heart disease,LB
+7578,18-24,Male,Locals,Graduated,2200,stroke heart disease,LB
+7579,25-44,Male,Locals,Graduated,4300,stroke heart disease,LB
+7580,45+,Male,Locals,Graduated,2100,stroke heart disease,LB
+7581,18-24,Female,Locals,Graduated,2600,stroke heart disease,LB
+7582,25-44,Female,Locals,Graduated,6800,stroke heart disease,LB
+7583,45+,Female,Locals,Graduated,4900,stroke heart disease,LB
+7584,18-24,Male,Locals,No Degree,3800,stroke heart disease,LB
+7585,25-44,Male,Locals,No Degree,4500,stroke heart disease,LB
+7586,45+,Male,Locals,No Degree,4400,stroke heart disease,LB
+7587,18-24,Female,Locals,No Degree,3300,stroke heart disease,LB
+7588,25-44,Female,Locals,No Degree,8200,stroke heart disease,LB
+7589,45+,Female,Locals,No Degree,10000,stroke heart disease,LB
+7590,18-24,Male,Locals,High School,1800,stroke heart disease,LB
+7591,25-44,Male,Locals,High School,1200,stroke heart disease,LB
+7592,45+,Male,Locals,High School,650,stroke heart disease,LB
+7593,18-24,Female,Locals,High School,2800,stroke heart disease,LB
+7594,25-44,Female,Locals,High School,1400,stroke heart disease,LB
+7595,45+,Female,Locals,High School,1500,stroke heart disease,LB
+7596,18-24,Male,Expats,Graduated,880,stroke heart disease,LY
+7597,25-44,Male,Expats,Graduated,2600,stroke heart disease,LY
+7598,45+,Male,Expats,Graduated,640,stroke heart disease,LY
+7599,18-24,Female,Expats,Graduated,320,stroke heart disease,LY
+7600,25-44,Female,Expats,Graduated,1100,stroke heart disease,LY
+7601,45+,Female,Expats,Graduated,320,stroke heart disease,LY
+7602,18-24,Male,Expats,No Degree,1000,stroke heart disease,LY
+7603,25-44,Male,Expats,No Degree,2600,stroke heart disease,LY
+7604,45+,Male,Expats,No Degree,750,stroke heart disease,LY
+7605,18-24,Female,Expats,No Degree,380,stroke heart disease,LY
+7606,25-44,Female,Expats,No Degree,1100,stroke heart disease,LY
+7607,45+,Female,Expats,No Degree,480,stroke heart disease,LY
+7608,18-24,Male,Expats,High School,350,stroke heart disease,LY
+7609,25-44,Male,Expats,High School,720,stroke heart disease,LY
+7610,45+,Male,Expats,High School,160,stroke heart disease,LY
+7611,18-24,Female,Expats,High School,220,stroke heart disease,LY
+7612,25-44,Female,Expats,High School,310,stroke heart disease,LY
+7613,45+,Female,Expats,High School,100,stroke heart disease,LY
+7614,18-24,Male,Locals,Graduated,5300,stroke heart disease,LY
+7615,25-44,Male,Locals,Graduated,14000,stroke heart disease,LY
+7616,45+,Male,Locals,Graduated,4200,stroke heart disease,LY
+7617,18-24,Female,Locals,Graduated,4700,stroke heart disease,LY
+7618,25-44,Female,Locals,Graduated,11000,stroke heart disease,LY
+7619,45+,Female,Locals,Graduated,2400,stroke heart disease,LY
+7620,18-24,Male,Locals,No Degree,4600,stroke heart disease,LY
+7621,25-44,Male,Locals,No Degree,12000,stroke heart disease,LY
+7622,45+,Male,Locals,No Degree,5300,stroke heart disease,LY
+7623,18-24,Female,Locals,No Degree,4200,stroke heart disease,LY
+7624,25-44,Female,Locals,No Degree,12000,stroke heart disease,LY
+7625,45+,Female,Locals,No Degree,5600,stroke heart disease,LY
+7626,18-24,Male,Locals,High School,3100,stroke heart disease,LY
+7627,25-44,Male,Locals,High School,3000,stroke heart disease,LY
+7628,45+,Male,Locals,High School,1200,stroke heart disease,LY
+7629,18-24,Female,Locals,High School,3400,stroke heart disease,LY
+7630,25-44,Female,Locals,High School,2800,stroke heart disease,LY
+7631,45+,Female,Locals,High School,740,stroke heart disease,LY
+7632,18-24,Male,Expats,Graduated,1300,stroke heart disease,MA
+7633,25-44,Male,Expats,Graduated,2000,stroke heart disease,MA
+7634,45+,Male,Expats,Graduated,590,stroke heart disease,MA
+7635,18-24,Female,Expats,Graduated,420,stroke heart disease,MA
+7636,25-44,Female,Expats,Graduated,790,stroke heart disease,MA
+7637,45+,Female,Expats,Graduated,300,stroke heart disease,MA
+7638,18-24,Male,Expats,No Degree,670,stroke heart disease,MA
+7639,25-44,Male,Expats,No Degree,1200,stroke heart disease,MA
+7640,45+,Male,Expats,No Degree,530,stroke heart disease,MA
+7641,18-24,Female,Expats,No Degree,280,stroke heart disease,MA
+7642,25-44,Female,Expats,No Degree,780,stroke heart disease,MA
+7643,45+,Female,Expats,No Degree,300,stroke heart disease,MA
+7644,18-24,Male,Expats,High School,500,stroke heart disease,MA
+7645,25-44,Male,Expats,High School,420,stroke heart disease,MA
+7646,45+,Male,Expats,High School,160,stroke heart disease,MA
+7647,18-24,Female,Expats,High School,200,stroke heart disease,MA
+7648,25-44,Female,Expats,High School,190,stroke heart disease,MA
+7649,45+,Female,Expats,High School,90,stroke heart disease,MA
+7650,18-24,Male,Locals,Graduated,7700,stroke heart disease,MA
+7651,25-44,Male,Locals,Graduated,17000,stroke heart disease,MA
+7652,45+,Male,Locals,Graduated,7800,stroke heart disease,MA
+7653,18-24,Female,Locals,Graduated,6000,stroke heart disease,MA
+7654,25-44,Female,Locals,Graduated,8900,stroke heart disease,MA
+7655,45+,Female,Locals,Graduated,2700,stroke heart disease,MA
+7656,18-24,Male,Locals,No Degree,7200,stroke heart disease,MA
+7657,25-44,Male,Locals,No Degree,19000,stroke heart disease,MA
+7658,45+,Male,Locals,No Degree,9400,stroke heart disease,MA
+7659,18-24,Female,Locals,No Degree,6200,stroke heart disease,MA
+7660,25-44,Female,Locals,No Degree,11000,stroke heart disease,MA
+7661,45+,Female,Locals,No Degree,4900,stroke heart disease,MA
+7662,18-24,Male,Locals,High School,3000,stroke heart disease,MA
+7663,25-44,Male,Locals,High School,4800,stroke heart disease,MA
+7664,45+,Male,Locals,High School,2500,stroke heart disease,MA
+7665,18-24,Female,Locals,High School,2600,stroke heart disease,MA
+7666,25-44,Female,Locals,High School,2700,stroke heart disease,MA
+7667,45+,Female,Locals,High School,1100,stroke heart disease,MA
+7668,18-24,Male,Expats,Graduated,700,stroke heart disease,OM
+7669,25-44,Male,Expats,Graduated,2900,stroke heart disease,OM
+7670,45+,Male,Expats,Graduated,500,stroke heart disease,OM
+7671,18-24,Female,Expats,Graduated,100,stroke heart disease,OM
+7672,25-44,Female,Expats,Graduated,2700,stroke heart disease,OM
+7673,45+,Female,Expats,Graduated,970,stroke heart disease,OM
+7674,18-24,Male,Expats,No Degree,1200,stroke heart disease,OM
+7675,25-44,Male,Expats,No Degree,2400,stroke heart disease,OM
+7676,45+,Male,Expats,No Degree,440,stroke heart disease,OM
+7677,18-24,Female,Expats,No Degree,230,stroke heart disease,OM
+7678,25-44,Female,Expats,No Degree,1100,stroke heart disease,OM
+7679,45+,Female,Expats,No Degree,720,stroke heart disease,OM
+7680,18-24,Male,Expats,High School,200,stroke heart disease,OM
+7681,25-44,Male,Expats,High School,770,stroke heart disease,OM
+7682,45+,Male,Expats,High School,170,stroke heart disease,OM
+7683,18-24,Female,Expats,High School,100,stroke heart disease,OM
+7684,25-44,Female,Expats,High School,540,stroke heart disease,OM
+7685,45+,Female,Expats,High School,280,stroke heart disease,OM
+7686,18-24,Male,Locals,Graduated,90,stroke heart disease,OM
+7687,25-44,Male,Locals,Graduated,270,stroke heart disease,OM
+7688,45+,Male,Locals,Graduated,20,stroke heart disease,OM
+7689,18-24,Female,Locals,Graduated,20,stroke heart disease,OM
+7690,25-44,Female,Locals,Graduated,90,stroke heart disease,OM
+7691,45+,Female,Locals,Graduated,20,stroke heart disease,OM
+7692,18-24,Male,Locals,No Degree,70,stroke heart disease,OM
+7693,25-44,Male,Locals,No Degree,190,stroke heart disease,OM
+7694,45+,Male,Locals,No Degree,20,stroke heart disease,OM
+7695,18-24,Female,Locals,No Degree,20,stroke heart disease,OM
+7696,25-44,Female,Locals,No Degree,50,stroke heart disease,OM
+7697,45+,Female,Locals,No Degree,20,stroke heart disease,OM
+7698,18-24,Male,Locals,High School,40,stroke heart disease,OM
+7699,25-44,Male,Locals,High School,40,stroke heart disease,OM
+7700,45+,Male,Locals,High School,20,stroke heart disease,OM
+7701,18-24,Female,Locals,High School,20,stroke heart disease,OM
+7702,25-44,Female,Locals,High School,20,stroke heart disease,OM
+7703,45+,Female,Locals,High School,20,stroke heart disease,OM
+7704,18-24,Male,Expats,Graduated,3100,stroke heart disease,QA
+7705,25-44,Male,Expats,Graduated,11000,stroke heart disease,QA
+7706,45+,Male,Expats,Graduated,2100,stroke heart disease,QA
+7707,18-24,Female,Expats,Graduated,610,stroke heart disease,QA
+7708,25-44,Female,Expats,Graduated,6000,stroke heart disease,QA
+7709,45+,Female,Expats,Graduated,1600,stroke heart disease,QA
+7710,18-24,Male,Expats,No Degree,4600,stroke heart disease,QA
+7711,25-44,Male,Expats,No Degree,10000,stroke heart disease,QA
+7712,45+,Male,Expats,No Degree,1800,stroke heart disease,QA
+7713,18-24,Female,Expats,No Degree,640,stroke heart disease,QA
+7714,25-44,Female,Expats,No Degree,2400,stroke heart disease,QA
+7715,45+,Female,Expats,No Degree,990,stroke heart disease,QA
+7716,18-24,Male,Expats,High School,1200,stroke heart disease,QA
+7717,25-44,Male,Expats,High School,2600,stroke heart disease,QA
+7718,45+,Male,Expats,High School,600,stroke heart disease,QA
+7719,18-24,Female,Expats,High School,330,stroke heart disease,QA
+7720,25-44,Female,Expats,High School,1600,stroke heart disease,QA
+7721,45+,Female,Expats,High School,530,stroke heart disease,QA
+7722,18-24,Male,Locals,Graduated,20,stroke heart disease,QA
+7723,25-44,Male,Locals,Graduated,150,stroke heart disease,QA
+7724,45+,Male,Locals,Graduated,20,stroke heart disease,QA
+7725,18-24,Female,Locals,Graduated,30,stroke heart disease,QA
+7726,25-44,Female,Locals,Graduated,70,stroke heart disease,QA
+7727,45+,Female,Locals,Graduated,20,stroke heart disease,QA
+7728,18-24,Male,Locals,No Degree,70,stroke heart disease,QA
+7729,25-44,Male,Locals,No Degree,90,stroke heart disease,QA
+7730,45+,Male,Locals,No Degree,30,stroke heart disease,QA
+7731,18-24,Female,Locals,No Degree,20,stroke heart disease,QA
+7732,25-44,Female,Locals,No Degree,90,stroke heart disease,QA
+7733,45+,Female,Locals,No Degree,50,stroke heart disease,QA
+7734,18-24,Male,Locals,High School,20,stroke heart disease,QA
+7735,25-44,Male,Locals,High School,30,stroke heart disease,QA
+7736,45+,Male,Locals,High School,20,stroke heart disease,QA
+7737,18-24,Female,Locals,High School,20,stroke heart disease,QA
+7738,25-44,Female,Locals,High School,20,stroke heart disease,QA
+7739,45+,Female,Locals,High School,20,stroke heart disease,QA
+7740,18-24,Male,Expats,Graduated,12000,stroke heart disease,SA
+7741,25-44,Male,Expats,Graduated,72000,stroke heart disease,SA
+7742,45+,Male,Expats,Graduated,14000,stroke heart disease,SA
+7743,18-24,Female,Expats,Graduated,3000,stroke heart disease,SA
+7744,25-44,Female,Expats,Graduated,26000,stroke heart disease,SA
+7745,45+,Female,Expats,Graduated,7700,stroke heart disease,SA
+7746,18-24,Male,Expats,No Degree,3600,stroke heart disease,SA
+7747,25-44,Male,Expats,No Degree,15000,stroke heart disease,SA
+7748,45+,Male,Expats,No Degree,3500,stroke heart disease,SA
+7749,18-24,Female,Expats,No Degree,1000,stroke heart disease,SA
+7750,25-44,Female,Expats,No Degree,6200,stroke heart disease,SA
+7751,45+,Female,Expats,No Degree,2300,stroke heart disease,SA
+7752,18-24,Male,Expats,High School,4000,stroke heart disease,SA
+7753,25-44,Male,Expats,High School,17000,stroke heart disease,SA
+7754,45+,Male,Expats,High School,3700,stroke heart disease,SA
+7755,18-24,Female,Expats,High School,1400,stroke heart disease,SA
+7756,25-44,Female,Expats,High School,7500,stroke heart disease,SA
+7757,45+,Female,Expats,High School,2400,stroke heart disease,SA
+7758,18-24,Male,Locals,Graduated,4800,stroke heart disease,SA
+7759,25-44,Male,Locals,Graduated,23000,stroke heart disease,SA
+7760,45+,Male,Locals,Graduated,4400,stroke heart disease,SA
+7761,18-24,Female,Locals,Graduated,1300,stroke heart disease,SA
+7762,25-44,Female,Locals,Graduated,7200,stroke heart disease,SA
+7763,45+,Female,Locals,Graduated,2200,stroke heart disease,SA
+7764,18-24,Male,Locals,No Degree,43000,stroke heart disease,SA
+7765,25-44,Male,Locals,No Degree,96000,stroke heart disease,SA
+7766,45+,Male,Locals,No Degree,18000,stroke heart disease,SA
+7767,18-24,Female,Locals,No Degree,9700,stroke heart disease,SA
+7768,25-44,Female,Locals,No Degree,15000,stroke heart disease,SA
+7769,45+,Female,Locals,No Degree,6000,stroke heart disease,SA
+7770,18-24,Male,Locals,High School,2600,stroke heart disease,SA
+7771,25-44,Male,Locals,High School,9200,stroke heart disease,SA
+7772,45+,Male,Locals,High School,1900,stroke heart disease,SA
+7773,18-24,Female,Locals,High School,1000,stroke heart disease,SA
+7774,25-44,Female,Locals,High School,2900,stroke heart disease,SA
+7775,45+,Female,Locals,High School,870,stroke heart disease,SA
+7776,18-24,Male,Expats,Graduated,70,stroke heart disease,SO
+7777,25-44,Male,Expats,Graduated,170,stroke heart disease,SO
+7778,45+,Male,Expats,Graduated,20,stroke heart disease,SO
+7779,18-24,Female,Expats,Graduated,40,stroke heart disease,SO
+7780,25-44,Female,Expats,Graduated,40,stroke heart disease,SO
+7781,45+,Female,Expats,Graduated,20,stroke heart disease,SO
+7782,18-24,Male,Expats,No Degree,20,stroke heart disease,SO
+7783,25-44,Male,Expats,No Degree,30,stroke heart disease,SO
+7784,45+,Male,Expats,No Degree,20,stroke heart disease,SO
+7785,18-24,Female,Expats,No Degree,20,stroke heart disease,SO
+7786,25-44,Female,Expats,No Degree,20,stroke heart disease,SO
+7787,45+,Female,Expats,No Degree,20,stroke heart disease,SO
+7788,18-24,Male,Expats,High School,30,stroke heart disease,SO
+7789,25-44,Male,Expats,High School,20,stroke heart disease,SO
+7790,45+,Male,Expats,High School,20,stroke heart disease,SO
+7791,18-24,Female,Expats,High School,20,stroke heart disease,SO
+7792,25-44,Female,Expats,High School,20,stroke heart disease,SO
+7793,45+,Female,Expats,High School,20,stroke heart disease,SO
+7794,18-24,Male,Locals,Graduated,300,stroke heart disease,SO
+7795,25-44,Male,Locals,Graduated,400,stroke heart disease,SO
+7796,45+,Male,Locals,Graduated,20,stroke heart disease,SO
+7797,18-24,Female,Locals,Graduated,270,stroke heart disease,SO
+7798,25-44,Female,Locals,Graduated,130,stroke heart disease,SO
+7799,45+,Female,Locals,Graduated,20,stroke heart disease,SO
+7800,18-24,Male,Locals,No Degree,170,stroke heart disease,SO
+7801,25-44,Male,Locals,No Degree,90,stroke heart disease,SO
+7802,45+,Male,Locals,No Degree,20,stroke heart disease,SO
+7803,18-24,Female,Locals,No Degree,180,stroke heart disease,SO
+7804,25-44,Female,Locals,No Degree,80,stroke heart disease,SO
+7805,45+,Female,Locals,No Degree,20,stroke heart disease,SO
+7806,18-24,Male,Locals,High School,90,stroke heart disease,SO
+7807,25-44,Male,Locals,High School,80,stroke heart disease,SO
+7808,45+,Male,Locals,High School,20,stroke heart disease,SO
+7809,18-24,Female,Locals,High School,90,stroke heart disease,SO
+7810,25-44,Female,Locals,High School,20,stroke heart disease,SO
+7811,45+,Female,Locals,High School,30,stroke heart disease,SO
+7812,18-24,Male,Expats,Graduated,620,stroke heart disease,TN
+7813,25-44,Male,Expats,Graduated,1300,stroke heart disease,TN
+7814,45+,Male,Expats,Graduated,680,stroke heart disease,TN
+7815,18-24,Female,Expats,Graduated,510,stroke heart disease,TN
+7816,25-44,Female,Expats,Graduated,910,stroke heart disease,TN
+7817,45+,Female,Expats,Graduated,400,stroke heart disease,TN
+7818,18-24,Male,Expats,No Degree,360,stroke heart disease,TN
+7819,25-44,Male,Expats,No Degree,740,stroke heart disease,TN
+7820,45+,Male,Expats,No Degree,440,stroke heart disease,TN
+7821,18-24,Female,Expats,No Degree,280,stroke heart disease,TN
+7822,25-44,Female,Expats,No Degree,850,stroke heart disease,TN
+7823,45+,Female,Expats,No Degree,410,stroke heart disease,TN
+7824,18-24,Male,Expats,High School,250,stroke heart disease,TN
+7825,25-44,Male,Expats,High School,340,stroke heart disease,TN
+7826,45+,Male,Expats,High School,190,stroke heart disease,TN
+7827,18-24,Female,Expats,High School,160,stroke heart disease,TN
+7828,25-44,Female,Expats,High School,350,stroke heart disease,TN
+7829,45+,Female,Expats,High School,90,stroke heart disease,TN
+7830,18-24,Male,Locals,Graduated,3300,stroke heart disease,TN
+7831,25-44,Male,Locals,Graduated,11000,stroke heart disease,TN
+7832,45+,Male,Locals,Graduated,7500,stroke heart disease,TN
+7833,18-24,Female,Locals,Graduated,7500,stroke heart disease,TN
+7834,25-44,Female,Locals,Graduated,18000,stroke heart disease,TN
+7835,45+,Female,Locals,Graduated,5300,stroke heart disease,TN
+7836,18-24,Male,Locals,No Degree,2500,stroke heart disease,TN
+7837,25-44,Male,Locals,No Degree,11000,stroke heart disease,TN
+7838,45+,Male,Locals,No Degree,9500,stroke heart disease,TN
+7839,18-24,Female,Locals,No Degree,5100,stroke heart disease,TN
+7840,25-44,Female,Locals,No Degree,15000,stroke heart disease,TN
+7841,45+,Female,Locals,No Degree,9000,stroke heart disease,TN
+7842,18-24,Male,Locals,High School,1500,stroke heart disease,TN
+7843,25-44,Male,Locals,High School,3700,stroke heart disease,TN
+7844,45+,Male,Locals,High School,3300,stroke heart disease,TN
+7845,18-24,Female,Locals,High School,3500,stroke heart disease,TN
+7846,25-44,Female,Locals,High School,5100,stroke heart disease,TN
+7847,45+,Female,Locals,High School,2700,stroke heart disease,TN
+7848,18-24,Male,Expats,Graduated,5600,stroke heart disease,AE
+7849,25-44,Male,Expats,Graduated,22000,stroke heart disease,AE
+7850,45+,Male,Expats,Graduated,5400,stroke heart disease,AE
+7851,18-24,Female,Expats,Graduated,4500,stroke heart disease,AE
+7852,25-44,Female,Expats,Graduated,48000,stroke heart disease,AE
+7853,45+,Female,Expats,Graduated,11000,stroke heart disease,AE
+7854,18-24,Male,Expats,No Degree,9200,stroke heart disease,AE
+7855,25-44,Male,Expats,No Degree,17000,stroke heart disease,AE
+7856,45+,Male,Expats,No Degree,4900,stroke heart disease,AE
+7857,18-24,Female,Expats,No Degree,5300,stroke heart disease,AE
+7858,25-44,Female,Expats,No Degree,20000,stroke heart disease,AE
+7859,45+,Female,Expats,No Degree,7700,stroke heart disease,AE
+7860,18-24,Male,Expats,High School,1900,stroke heart disease,AE
+7861,25-44,Male,Expats,High School,4300,stroke heart disease,AE
+7862,45+,Male,Expats,High School,1400,stroke heart disease,AE
+7863,18-24,Female,Expats,High School,2200,stroke heart disease,AE
+7864,25-44,Female,Expats,High School,11000,stroke heart disease,AE
+7865,45+,Female,Expats,High School,3400,stroke heart disease,AE
+7866,18-24,Male,Locals,Graduated,190,stroke heart disease,AE
+7867,25-44,Male,Locals,Graduated,570,stroke heart disease,AE
+7868,45+,Male,Locals,Graduated,90,stroke heart disease,AE
+7869,18-24,Female,Locals,Graduated,170,stroke heart disease,AE
+7870,25-44,Female,Locals,Graduated,890,stroke heart disease,AE
+7871,45+,Female,Locals,Graduated,70,stroke heart disease,AE
+7872,18-24,Male,Locals,No Degree,350,stroke heart disease,AE
+7873,25-44,Male,Locals,No Degree,900,stroke heart disease,AE
+7874,45+,Male,Locals,No Degree,140,stroke heart disease,AE
+7875,18-24,Female,Locals,No Degree,380,stroke heart disease,AE
+7876,25-44,Female,Locals,No Degree,1200,stroke heart disease,AE
+7877,45+,Female,Locals,No Degree,180,stroke heart disease,AE
+7878,18-24,Male,Locals,High School,110,stroke heart disease,AE
+7879,25-44,Male,Locals,High School,180,stroke heart disease,AE
+7880,45+,Male,Locals,High School,60,stroke heart disease,AE
+7881,18-24,Female,Locals,High School,100,stroke heart disease,AE
+7882,25-44,Female,Locals,High School,180,stroke heart disease,AE
+7883,45+,Female,Locals,High School,20,stroke heart disease,AE
+7884,18-24,Male,Expats,Graduated,1500,stroke heart disease,YE
+7885,25-44,Male,Expats,Graduated,2400,stroke heart disease,YE
+7886,45+,Male,Expats,Graduated,260,stroke heart disease,YE
+7887,18-24,Female,Expats,Graduated,120,stroke heart disease,YE
+7888,25-44,Female,Expats,Graduated,340,stroke heart disease,YE
+7889,45+,Female,Expats,Graduated,70,stroke heart disease,YE
+7890,18-24,Male,Expats,No Degree,580,stroke heart disease,YE
+7891,25-44,Male,Expats,No Degree,1100,stroke heart disease,YE
+7892,45+,Male,Expats,No Degree,90,stroke heart disease,YE
+7893,18-24,Female,Expats,No Degree,230,stroke heart disease,YE
+7894,25-44,Female,Expats,No Degree,230,stroke heart disease,YE
+7895,45+,Female,Expats,No Degree,50,stroke heart disease,YE
+7896,18-24,Male,Expats,High School,520,stroke heart disease,YE
+7897,25-44,Male,Expats,High School,630,stroke heart disease,YE
+7898,45+,Male,Expats,High School,100,stroke heart disease,YE
+7899,18-24,Female,Expats,High School,220,stroke heart disease,YE
+7900,25-44,Female,Expats,High School,100,stroke heart disease,YE
+7901,45+,Female,Expats,High School,20,stroke heart disease,YE
+7902,18-24,Male,Locals,Graduated,11000,stroke heart disease,YE
+7903,25-44,Male,Locals,Graduated,27000,stroke heart disease,YE
+7904,45+,Male,Locals,Graduated,2800,stroke heart disease,YE
+7905,18-24,Female,Locals,Graduated,1500,stroke heart disease,YE
+7906,25-44,Female,Locals,Graduated,3200,stroke heart disease,YE
+7907,45+,Female,Locals,Graduated,380,stroke heart disease,YE
+7908,18-24,Male,Locals,No Degree,14000,stroke heart disease,YE
+7909,25-44,Male,Locals,No Degree,19000,stroke heart disease,YE
+7910,45+,Male,Locals,No Degree,3500,stroke heart disease,YE
+7911,18-24,Female,Locals,No Degree,1800,stroke heart disease,YE
+7912,25-44,Female,Locals,No Degree,2500,stroke heart disease,YE
+7913,45+,Female,Locals,No Degree,530,stroke heart disease,YE
+7914,18-24,Male,Locals,High School,8200,stroke heart disease,YE
+7915,25-44,Male,Locals,High School,7800,stroke heart disease,YE
+7916,45+,Male,Locals,High School,910,stroke heart disease,YE
+7917,18-24,Female,Locals,High School,1800,stroke heart disease,YE
+7918,25-44,Female,Locals,High School,930,stroke heart disease,YE
+7919,45+,Female,Locals,High School,130,stroke heart disease,YE
+7920,18-24,Male,Expats,Graduated,360,stroke heart disease,PS
+7921,25-44,Male,Expats,Graduated,880,stroke heart disease,PS
+7922,45+,Male,Expats,Graduated,270,stroke heart disease,PS
+7923,18-24,Female,Expats,Graduated,520,stroke heart disease,PS
+7924,25-44,Female,Expats,Graduated,1400,stroke heart disease,PS
+7925,45+,Female,Expats,Graduated,330,stroke heart disease,PS
+7926,18-24,Male,Expats,No Degree,90,stroke heart disease,PS
+7927,25-44,Male,Expats,No Degree,180,stroke heart disease,PS
+7928,45+,Male,Expats,No Degree,110,stroke heart disease,PS
+7929,18-24,Female,Expats,No Degree,280,stroke heart disease,PS
+7930,25-44,Female,Expats,No Degree,720,stroke heart disease,PS
+7931,45+,Female,Expats,No Degree,260,stroke heart disease,PS
+7932,18-24,Male,Expats,High School,90,stroke heart disease,PS
+7933,25-44,Male,Expats,High School,200,stroke heart disease,PS
+7934,45+,Male,Expats,High School,40,stroke heart disease,PS
+7935,18-24,Female,Expats,High School,360,stroke heart disease,PS
+7936,25-44,Female,Expats,High School,420,stroke heart disease,PS
+7937,45+,Female,Expats,High School,80,stroke heart disease,PS
+7938,18-24,Male,Locals,Graduated,1000,stroke heart disease,PS
+7939,25-44,Male,Locals,Graduated,3900,stroke heart disease,PS
+7940,45+,Male,Locals,Graduated,960,stroke heart disease,PS
+7941,18-24,Female,Locals,Graduated,2800,stroke heart disease,PS
+7942,25-44,Female,Locals,Graduated,6200,stroke heart disease,PS
+7943,45+,Female,Locals,Graduated,1000,stroke heart disease,PS
+7944,18-24,Male,Locals,No Degree,750,stroke heart disease,PS
+7945,25-44,Male,Locals,No Degree,1600,stroke heart disease,PS
+7946,45+,Male,Locals,No Degree,1100,stroke heart disease,PS
+7947,18-24,Female,Locals,No Degree,1600,stroke heart disease,PS
+7948,25-44,Female,Locals,No Degree,4900,stroke heart disease,PS
+7949,45+,Female,Locals,No Degree,2200,stroke heart disease,PS
+7950,18-24,Male,Locals,High School,720,stroke heart disease,PS
+7951,25-44,Male,Locals,High School,770,stroke heart disease,PS
+7952,45+,Male,Locals,High School,320,stroke heart disease,PS
+7953,18-24,Female,Locals,High School,1900,stroke heart disease,PS
+7954,25-44,Female,Locals,High School,1800,stroke heart disease,PS
+7955,45+,Female,Locals,High School,470,stroke heart disease,PS

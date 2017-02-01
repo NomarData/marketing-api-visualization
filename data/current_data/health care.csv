@@ -1,0 +1,613 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+1224,18-24,Male,Expats,Graduated,12000,health care,DZ
+1225,25-44,Male,Expats,Graduated,14000,health care,DZ
+1226,45+,Male,Expats,Graduated,2100,health care,DZ
+1227,18-24,Female,Expats,Graduated,6000,health care,DZ
+1228,25-44,Female,Expats,Graduated,5400,health care,DZ
+1229,45+,Female,Expats,Graduated,1000,health care,DZ
+1230,18-24,Male,Expats,No Degree,6600,health care,DZ
+1231,25-44,Male,Expats,No Degree,12000,health care,DZ
+1232,45+,Male,Expats,No Degree,2700,health care,DZ
+1233,18-24,Female,Expats,No Degree,3600,health care,DZ
+1234,25-44,Female,Expats,No Degree,5500,health care,DZ
+1235,45+,Female,Expats,No Degree,1300,health care,DZ
+1236,18-24,Male,Expats,High School,4100,health care,DZ
+1237,25-44,Male,Expats,High School,3500,health care,DZ
+1238,45+,Male,Expats,High School,660,health care,DZ
+1239,18-24,Female,Expats,High School,2600,health care,DZ
+1240,25-44,Female,Expats,High School,1400,health care,DZ
+1241,45+,Female,Expats,High School,450,health care,DZ
+1242,18-24,Male,Locals,Graduated,49000,health care,DZ
+1243,25-44,Male,Locals,Graduated,100000,health care,DZ
+1244,45+,Male,Locals,Graduated,14000,health care,DZ
+1245,18-24,Female,Locals,Graduated,59000,health care,DZ
+1246,25-44,Female,Locals,Graduated,82000,health care,DZ
+1247,45+,Female,Locals,Graduated,8900,health care,DZ
+1248,18-24,Male,Locals,No Degree,54000,health care,DZ
+1249,25-44,Male,Locals,No Degree,120000,health care,DZ
+1250,45+,Male,Locals,No Degree,22000,health care,DZ
+1251,18-24,Female,Locals,No Degree,58000,health care,DZ
+1252,25-44,Female,Locals,No Degree,83000,health care,DZ
+1253,45+,Female,Locals,No Degree,15000,health care,DZ
+1254,18-24,Male,Locals,High School,22000,health care,DZ
+1255,25-44,Male,Locals,High School,28000,health care,DZ
+1256,45+,Male,Locals,High School,5000,health care,DZ
+1257,18-24,Female,Locals,High School,28000,health care,DZ
+1258,25-44,Female,Locals,High School,18000,health care,DZ
+1259,45+,Female,Locals,High School,3900,health care,DZ
+1260,18-24,Male,Expats,Graduated,6400,health care,BH
+1261,25-44,Male,Expats,Graduated,30000,health care,BH
+1262,45+,Male,Expats,Graduated,4300,health care,BH
+1263,18-24,Female,Expats,Graduated,1600,health care,BH
+1264,25-44,Female,Expats,Graduated,14000,health care,BH
+1265,45+,Female,Expats,Graduated,2700,health care,BH
+1266,18-24,Male,Expats,No Degree,7800,health care,BH
+1267,25-44,Male,Expats,No Degree,26000,health care,BH
+1268,45+,Male,Expats,No Degree,5000,health care,BH
+1269,18-24,Female,Expats,No Degree,2100,health care,BH
+1270,25-44,Female,Expats,No Degree,7300,health care,BH
+1271,45+,Female,Expats,No Degree,1600,health care,BH
+1272,18-24,Male,Expats,High School,2600,health care,BH
+1273,25-44,Male,Expats,High School,8400,health care,BH
+1274,45+,Male,Expats,High School,1500,health care,BH
+1275,18-24,Female,Expats,High School,960,health care,BH
+1276,25-44,Female,Expats,High School,4200,health care,BH
+1277,45+,Female,Expats,High School,920,health care,BH
+1278,18-24,Male,Locals,Graduated,840,health care,BH
+1279,25-44,Male,Locals,Graduated,2800,health care,BH
+1280,45+,Male,Locals,Graduated,640,health care,BH
+1281,18-24,Female,Locals,Graduated,490,health care,BH
+1282,25-44,Female,Locals,Graduated,2300,health care,BH
+1283,45+,Female,Locals,Graduated,230,health care,BH
+1284,18-24,Male,Locals,No Degree,1000,health care,BH
+1285,25-44,Male,Locals,No Degree,2200,health care,BH
+1286,45+,Male,Locals,No Degree,900,health care,BH
+1287,18-24,Female,Locals,No Degree,770,health care,BH
+1288,25-44,Female,Locals,No Degree,1700,health care,BH
+1289,45+,Female,Locals,No Degree,360,health care,BH
+1290,18-24,Male,Locals,High School,540,health care,BH
+1291,25-44,Male,Locals,High School,850,health care,BH
+1292,45+,Male,Locals,High School,180,health care,BH
+1293,18-24,Female,Locals,High School,540,health care,BH
+1294,25-44,Female,Locals,High School,350,health care,BH
+1295,45+,Female,Locals,High School,80,health care,BH
+1296,18-24,Male,Expats,Graduated,11000,health care,EG
+1297,25-44,Male,Expats,Graduated,27000,health care,EG
+1298,45+,Male,Expats,Graduated,5400,health care,EG
+1299,18-24,Female,Expats,Graduated,9100,health care,EG
+1300,25-44,Female,Expats,Graduated,19000,health care,EG
+1301,45+,Female,Expats,Graduated,2900,health care,EG
+1302,18-24,Male,Expats,No Degree,3700,health care,EG
+1303,25-44,Male,Expats,No Degree,9000,health care,EG
+1304,45+,Male,Expats,No Degree,3200,health care,EG
+1305,18-24,Female,Expats,No Degree,2700,health care,EG
+1306,25-44,Female,Expats,No Degree,6000,health care,EG
+1307,45+,Female,Expats,No Degree,2300,health care,EG
+1308,18-24,Male,Expats,High School,7300,health care,EG
+1309,25-44,Male,Expats,High School,6000,health care,EG
+1310,45+,Male,Expats,High School,1100,health care,EG
+1311,18-24,Female,Expats,High School,7100,health care,EG
+1312,25-44,Female,Expats,High School,4300,health care,EG
+1313,45+,Female,Expats,High School,810,health care,EG
+1314,18-24,Male,Locals,Graduated,220000,health care,EG
+1315,25-44,Male,Locals,Graduated,560000,health care,EG
+1316,45+,Male,Locals,Graduated,100000,health care,EG
+1317,18-24,Female,Locals,Graduated,300000,health care,EG
+1318,25-44,Female,Locals,Graduated,550000,health care,EG
+1319,45+,Female,Locals,Graduated,74000,health care,EG
+1320,18-24,Male,Locals,No Degree,100000,health care,EG
+1321,25-44,Male,Locals,No Degree,250000,health care,EG
+1322,45+,Male,Locals,No Degree,93000,health care,EG
+1323,18-24,Female,Locals,No Degree,110000,health care,EG
+1324,25-44,Female,Locals,No Degree,220000,health care,EG
+1325,45+,Female,Locals,No Degree,88000,health care,EG
+1326,18-24,Male,Locals,High School,140000,health care,EG
+1327,25-44,Male,Locals,High School,110000,health care,EG
+1328,45+,Male,Locals,High School,24000,health care,EG
+1329,18-24,Female,Locals,High School,200000,health care,EG
+1330,25-44,Female,Locals,High School,88000,health care,EG
+1331,45+,Female,Locals,High School,15000,health care,EG
+1332,18-24,Male,Expats,Graduated,7500,health care,IQ
+1333,25-44,Male,Expats,Graduated,21000,health care,IQ
+1334,45+,Male,Expats,Graduated,3400,health care,IQ
+1335,18-24,Female,Expats,Graduated,1800,health care,IQ
+1336,25-44,Female,Expats,Graduated,5300,health care,IQ
+1337,45+,Female,Expats,Graduated,660,health care,IQ
+1338,18-24,Male,Expats,No Degree,5000,health care,IQ
+1339,25-44,Male,Expats,No Degree,9400,health care,IQ
+1340,45+,Male,Expats,No Degree,2400,health care,IQ
+1341,18-24,Female,Expats,No Degree,2000,health care,IQ
+1342,25-44,Female,Expats,No Degree,3300,health care,IQ
+1343,45+,Female,Expats,No Degree,960,health care,IQ
+1344,18-24,Male,Expats,High School,4100,health care,IQ
+1345,25-44,Male,Expats,High School,6000,health care,IQ
+1346,45+,Male,Expats,High School,990,health care,IQ
+1347,18-24,Female,Expats,High School,1600,health care,IQ
+1348,25-44,Female,Expats,High School,1500,health care,IQ
+1349,45+,Female,Expats,High School,270,health care,IQ
+1350,18-24,Male,Locals,Graduated,81000,health care,IQ
+1351,25-44,Male,Locals,Graduated,240000,health care,IQ
+1352,45+,Male,Locals,Graduated,41000,health care,IQ
+1353,18-24,Female,Locals,Graduated,32000,health care,IQ
+1354,25-44,Female,Locals,Graduated,74000,health care,IQ
+1355,45+,Female,Locals,Graduated,12000,health care,IQ
+1356,18-24,Male,Locals,No Degree,110000,health care,IQ
+1357,25-44,Male,Locals,No Degree,200000,health care,IQ
+1358,45+,Male,Locals,No Degree,63000,health care,IQ
+1359,18-24,Female,Locals,No Degree,33000,health care,IQ
+1360,25-44,Female,Locals,No Degree,66000,health care,IQ
+1361,45+,Female,Locals,No Degree,21000,health care,IQ
+1362,18-24,Male,Locals,High School,56000,health care,IQ
+1363,25-44,Male,Locals,High School,70000,health care,IQ
+1364,45+,Male,Locals,High School,13000,health care,IQ
+1365,18-24,Female,Locals,High School,29000,health care,IQ
+1366,25-44,Female,Locals,High School,22000,health care,IQ
+1367,45+,Female,Locals,High School,4000,health care,IQ
+1368,18-24,Male,Expats,Graduated,6000,health care,JO
+1369,25-44,Male,Expats,Graduated,20000,health care,JO
+1370,45+,Male,Expats,Graduated,5100,health care,JO
+1371,18-24,Female,Expats,Graduated,6800,health care,JO
+1372,25-44,Female,Expats,Graduated,18000,health care,JO
+1373,45+,Female,Expats,Graduated,4400,health care,JO
+1374,18-24,Male,Expats,No Degree,5200,health care,JO
+1375,25-44,Male,Expats,No Degree,12000,health care,JO
+1376,45+,Male,Expats,No Degree,5300,health care,JO
+1377,18-24,Female,Expats,No Degree,3900,health care,JO
+1378,25-44,Female,Expats,No Degree,9700,health care,JO
+1379,45+,Female,Expats,No Degree,5600,health care,JO
+1380,18-24,Male,Expats,High School,5000,health care,JO
+1381,25-44,Male,Expats,High School,5600,health care,JO
+1382,45+,Male,Expats,High School,1600,health care,JO
+1383,18-24,Female,Expats,High School,8400,health care,JO
+1384,25-44,Female,Expats,High School,5500,health care,JO
+1385,45+,Female,Expats,High School,1600,health care,JO
+1386,18-24,Male,Locals,Graduated,22000,health care,JO
+1387,25-44,Male,Locals,Graduated,67000,health care,JO
+1388,45+,Male,Locals,Graduated,18000,health care,JO
+1389,18-24,Female,Locals,Graduated,24000,health care,JO
+1390,25-44,Female,Locals,Graduated,62000,health care,JO
+1391,45+,Female,Locals,Graduated,10000,health care,JO
+1392,18-24,Male,Locals,No Degree,20000,health care,JO
+1393,25-44,Male,Locals,No Degree,39000,health care,JO
+1394,45+,Male,Locals,No Degree,23000,health care,JO
+1395,18-24,Female,Locals,No Degree,19000,health care,JO
+1396,25-44,Female,Locals,No Degree,43000,health care,JO
+1397,45+,Female,Locals,No Degree,21000,health care,JO
+1398,18-24,Male,Locals,High School,17000,health care,JO
+1399,25-44,Male,Locals,High School,19000,health care,JO
+1400,45+,Male,Locals,High School,7200,health care,JO
+1401,18-24,Female,Locals,High School,26000,health care,JO
+1402,25-44,Female,Locals,High School,17000,health care,JO
+1403,45+,Female,Locals,High School,4300,health care,JO
+1404,18-24,Male,Expats,Graduated,8500,health care,KW
+1405,25-44,Male,Expats,Graduated,80000,health care,KW
+1406,45+,Male,Expats,Graduated,11000,health care,KW
+1407,18-24,Female,Expats,Graduated,4300,health care,KW
+1408,25-44,Female,Expats,Graduated,46000,health care,KW
+1409,45+,Female,Expats,Graduated,5900,health care,KW
+1410,18-24,Male,Expats,No Degree,17000,health care,KW
+1411,25-44,Male,Expats,No Degree,71000,health care,KW
+1412,45+,Male,Expats,No Degree,14000,health care,KW
+1413,18-24,Female,Expats,No Degree,7900,health care,KW
+1414,25-44,Female,Expats,No Degree,25000,health care,KW
+1415,45+,Female,Expats,No Degree,5200,health care,KW
+1416,18-24,Male,Expats,High School,4000,health care,KW
+1417,25-44,Male,Expats,High School,22000,health care,KW
+1418,45+,Male,Expats,High School,3300,health care,KW
+1419,18-24,Female,Expats,High School,3000,health care,KW
+1420,25-44,Female,Expats,High School,16000,health care,KW
+1421,45+,Female,Expats,High School,2300,health care,KW
+1422,18-24,Male,Locals,Graduated,540,health care,KW
+1423,25-44,Male,Locals,Graduated,2500,health care,KW
+1424,45+,Male,Locals,Graduated,540,health care,KW
+1425,18-24,Female,Locals,Graduated,230,health care,KW
+1426,25-44,Female,Locals,Graduated,1900,health care,KW
+1427,45+,Female,Locals,Graduated,290,health care,KW
+1428,18-24,Male,Locals,No Degree,1200,health care,KW
+1429,25-44,Male,Locals,No Degree,3200,health care,KW
+1430,45+,Male,Locals,No Degree,1000,health care,KW
+1431,18-24,Female,Locals,No Degree,810,health care,KW
+1432,25-44,Female,Locals,No Degree,2100,health care,KW
+1433,45+,Female,Locals,No Degree,530,health care,KW
+1434,18-24,Male,Locals,High School,330,health care,KW
+1435,25-44,Male,Locals,High School,700,health care,KW
+1436,45+,Male,Locals,High School,140,health care,KW
+1437,18-24,Female,Locals,High School,300,health care,KW
+1438,25-44,Female,Locals,High School,450,health care,KW
+1439,45+,Female,Locals,High School,50,health care,KW
+1440,18-24,Male,Expats,Graduated,1700,health care,LB
+1441,25-44,Male,Expats,Graduated,5300,health care,LB
+1442,45+,Male,Expats,Graduated,1200,health care,LB
+1443,18-24,Female,Expats,Graduated,1100,health care,LB
+1444,25-44,Female,Expats,Graduated,4800,health care,LB
+1445,45+,Female,Expats,Graduated,1300,health care,LB
+1446,18-24,Male,Expats,No Degree,2600,health care,LB
+1447,25-44,Male,Expats,No Degree,5200,health care,LB
+1448,45+,Male,Expats,No Degree,1400,health care,LB
+1449,18-24,Female,Expats,No Degree,1500,health care,LB
+1450,25-44,Female,Expats,No Degree,3600,health care,LB
+1451,45+,Female,Expats,No Degree,1700,health care,LB
+1452,18-24,Male,Expats,High School,1200,health care,LB
+1453,25-44,Male,Expats,High School,1900,health care,LB
+1454,45+,Male,Expats,High School,320,health care,LB
+1455,18-24,Female,Expats,High School,930,health care,LB
+1456,25-44,Female,Expats,High School,1800,health care,LB
+1457,45+,Female,Expats,High School,400,health care,LB
+1458,18-24,Male,Locals,Graduated,4500,health care,LB
+1459,25-44,Male,Locals,Graduated,14000,health care,LB
+1460,45+,Male,Locals,Graduated,5000,health care,LB
+1461,18-24,Female,Locals,Graduated,10000,health care,LB
+1462,25-44,Female,Locals,Graduated,27000,health care,LB
+1463,45+,Female,Locals,Graduated,6500,health care,LB
+1464,18-24,Male,Locals,No Degree,6500,health care,LB
+1465,25-44,Male,Locals,No Degree,12000,health care,LB
+1466,45+,Male,Locals,No Degree,7000,health care,LB
+1467,18-24,Female,Locals,No Degree,11000,health care,LB
+1468,25-44,Female,Locals,No Degree,24000,health care,LB
+1469,45+,Female,Locals,No Degree,15000,health care,LB
+1470,18-24,Male,Locals,High School,3900,health care,LB
+1471,25-44,Male,Locals,High School,3800,health care,LB
+1472,45+,Male,Locals,High School,1400,health care,LB
+1473,18-24,Female,Locals,High School,9500,health care,LB
+1474,25-44,Female,Locals,High School,6600,health care,LB
+1475,45+,Female,Locals,High School,2400,health care,LB
+1476,18-24,Male,Expats,Graduated,2300,health care,LY
+1477,25-44,Male,Expats,Graduated,9000,health care,LY
+1478,45+,Male,Expats,Graduated,1100,health care,LY
+1479,18-24,Female,Expats,Graduated,1200,health care,LY
+1480,25-44,Female,Expats,Graduated,4600,health care,LY
+1481,45+,Female,Expats,Graduated,840,health care,LY
+1482,18-24,Male,Expats,No Degree,2800,health care,LY
+1483,25-44,Male,Expats,No Degree,7500,health care,LY
+1484,45+,Male,Expats,No Degree,1300,health care,LY
+1485,18-24,Female,Expats,No Degree,1400,health care,LY
+1486,25-44,Female,Expats,No Degree,3700,health care,LY
+1487,45+,Female,Expats,No Degree,940,health care,LY
+1488,18-24,Male,Expats,High School,1100,health care,LY
+1489,25-44,Male,Expats,High School,2000,health care,LY
+1490,45+,Male,Expats,High School,400,health care,LY
+1491,18-24,Female,Expats,High School,870,health care,LY
+1492,25-44,Female,Expats,High School,1000,health care,LY
+1493,45+,Female,Expats,High School,200,health care,LY
+1494,18-24,Male,Locals,Graduated,16000,health care,LY
+1495,25-44,Male,Locals,Graduated,48000,health care,LY
+1496,45+,Male,Locals,Graduated,7700,health care,LY
+1497,18-24,Female,Locals,Graduated,19000,health care,LY
+1498,25-44,Female,Locals,Graduated,51000,health care,LY
+1499,45+,Female,Locals,Graduated,5800,health care,LY
+1500,18-24,Male,Locals,No Degree,12000,health care,LY
+1501,25-44,Male,Locals,No Degree,33000,health care,LY
+1502,45+,Male,Locals,No Degree,7900,health care,LY
+1503,18-24,Female,Locals,No Degree,17000,health care,LY
+1504,25-44,Female,Locals,No Degree,43000,health care,LY
+1505,45+,Female,Locals,No Degree,12000,health care,LY
+1506,18-24,Male,Locals,High School,9700,health care,LY
+1507,25-44,Male,Locals,High School,10000,health care,LY
+1508,45+,Male,Locals,High School,2100,health care,LY
+1509,18-24,Female,Locals,High School,15000,health care,LY
+1510,25-44,Female,Locals,High School,12000,health care,LY
+1511,45+,Female,Locals,High School,1900,health care,LY
+1512,18-24,Male,Expats,Graduated,12000,health care,MA
+1513,25-44,Male,Expats,Graduated,12000,health care,MA
+1514,45+,Male,Expats,Graduated,2700,health care,MA
+1515,18-24,Female,Expats,Graduated,4800,health care,MA
+1516,25-44,Female,Expats,Graduated,5700,health care,MA
+1517,45+,Female,Expats,Graduated,1100,health care,MA
+1518,18-24,Male,Expats,No Degree,4500,health care,MA
+1519,25-44,Male,Expats,No Degree,7900,health care,MA
+1520,45+,Male,Expats,No Degree,2000,health care,MA
+1521,18-24,Female,Expats,No Degree,2700,health care,MA
+1522,25-44,Female,Expats,No Degree,4800,health care,MA
+1523,45+,Female,Expats,No Degree,1300,health care,MA
+1524,18-24,Male,Expats,High School,4000,health care,MA
+1525,25-44,Male,Expats,High School,3500,health care,MA
+1526,45+,Male,Expats,High School,850,health care,MA
+1527,18-24,Female,Expats,High School,1900,health care,MA
+1528,25-44,Female,Expats,High School,1600,health care,MA
+1529,45+,Female,Expats,High School,440,health care,MA
+1530,18-24,Male,Locals,Graduated,77000,health care,MA
+1531,25-44,Male,Locals,Graduated,120000,health care,MA
+1532,45+,Male,Locals,Graduated,27000,health care,MA
+1533,18-24,Female,Locals,Graduated,56000,health care,MA
+1534,25-44,Female,Locals,Graduated,68000,health care,MA
+1535,45+,Female,Locals,Graduated,12000,health care,MA
+1536,18-24,Male,Locals,No Degree,61000,health care,MA
+1537,25-44,Male,Locals,No Degree,130000,health care,MA
+1538,45+,Male,Locals,No Degree,40000,health care,MA
+1539,18-24,Female,Locals,No Degree,48000,health care,MA
+1540,25-44,Female,Locals,No Degree,66000,health care,MA
+1541,45+,Female,Locals,No Degree,18000,health care,MA
+1542,18-24,Male,Locals,High School,30000,health care,MA
+1543,25-44,Male,Locals,High School,32000,health care,MA
+1544,45+,Male,Locals,High School,9600,health care,MA
+1545,18-24,Female,Locals,High School,26000,health care,MA
+1546,25-44,Female,Locals,High School,19000,health care,MA
+1547,45+,Female,Locals,High School,4200,health care,MA
+1548,18-24,Male,Expats,Graduated,9300,health care,OM
+1549,25-44,Male,Expats,Graduated,43000,health care,OM
+1550,45+,Male,Expats,Graduated,5100,health care,OM
+1551,18-24,Female,Expats,Graduated,1800,health care,OM
+1552,25-44,Female,Expats,Graduated,13000,health care,OM
+1553,45+,Female,Expats,Graduated,2200,health care,OM
+1554,18-24,Male,Expats,No Degree,17000,health care,OM
+1555,25-44,Male,Expats,No Degree,34000,health care,OM
+1556,45+,Male,Expats,No Degree,4100,health care,OM
+1557,18-24,Female,Expats,No Degree,3700,health care,OM
+1558,25-44,Female,Expats,No Degree,7400,health care,OM
+1559,45+,Female,Expats,No Degree,1400,health care,OM
+1560,18-24,Male,Expats,High School,3300,health care,OM
+1561,25-44,Male,Expats,High School,9900,health care,OM
+1562,45+,Male,Expats,High School,1400,health care,OM
+1563,18-24,Female,Expats,High School,1200,health care,OM
+1564,25-44,Female,Expats,High School,3100,health care,OM
+1565,45+,Female,Expats,High School,620,health care,OM
+1566,18-24,Male,Locals,Graduated,2700,health care,OM
+1567,25-44,Male,Locals,Graduated,8300,health care,OM
+1568,45+,Male,Locals,Graduated,410,health care,OM
+1569,18-24,Female,Locals,Graduated,620,health care,OM
+1570,25-44,Female,Locals,Graduated,1500,health care,OM
+1571,45+,Female,Locals,Graduated,50,health care,OM
+1572,18-24,Male,Locals,No Degree,3800,health care,OM
+1573,25-44,Male,Locals,No Degree,6900,health care,OM
+1574,45+,Male,Locals,No Degree,850,health care,OM
+1575,18-24,Female,Locals,No Degree,1000,health care,OM
+1576,25-44,Female,Locals,No Degree,1600,health care,OM
+1577,45+,Female,Locals,No Degree,190,health care,OM
+1578,18-24,Male,Locals,High School,1500,health care,OM
+1579,25-44,Male,Locals,High School,2600,health care,OM
+1580,45+,Male,Locals,High School,240,health care,OM
+1581,18-24,Female,Locals,High School,480,health care,OM
+1582,25-44,Female,Locals,High School,370,health care,OM
+1583,45+,Female,Locals,High School,20,health care,OM
+1584,18-24,Male,Expats,Graduated,19000,health care,QA
+1585,25-44,Male,Expats,Graduated,76000,health care,QA
+1586,45+,Male,Expats,Graduated,8900,health care,QA
+1587,18-24,Female,Expats,Graduated,4500,health care,QA
+1588,25-44,Female,Expats,Graduated,35000,health care,QA
+1589,45+,Female,Expats,Graduated,4000,health care,QA
+1590,18-24,Male,Expats,No Degree,23000,health care,QA
+1591,25-44,Male,Expats,No Degree,42000,health care,QA
+1592,45+,Male,Expats,No Degree,6300,health care,QA
+1593,18-24,Female,Expats,No Degree,3900,health care,QA
+1594,25-44,Female,Expats,No Degree,11000,health care,QA
+1595,45+,Female,Expats,No Degree,2700,health care,QA
+1596,18-24,Male,Expats,High School,6300,health care,QA
+1597,25-44,Male,Expats,High School,17000,health care,QA
+1598,45+,Male,Expats,High School,2400,health care,QA
+1599,18-24,Female,Expats,High School,2100,health care,QA
+1600,25-44,Female,Expats,High School,7800,health care,QA
+1601,45+,Female,Expats,High School,1100,health care,QA
+1602,18-24,Male,Locals,Graduated,290,health care,QA
+1603,25-44,Male,Locals,Graduated,910,health care,QA
+1604,45+,Male,Locals,Graduated,120,health care,QA
+1605,18-24,Female,Locals,Graduated,160,health care,QA
+1606,25-44,Female,Locals,Graduated,570,health care,QA
+1607,45+,Female,Locals,Graduated,50,health care,QA
+1608,18-24,Male,Locals,No Degree,470,health care,QA
+1609,25-44,Male,Locals,No Degree,870,health care,QA
+1610,45+,Male,Locals,No Degree,170,health care,QA
+1611,18-24,Female,Locals,No Degree,150,health care,QA
+1612,25-44,Female,Locals,No Degree,630,health care,QA
+1613,45+,Female,Locals,No Degree,130,health care,QA
+1614,18-24,Male,Locals,High School,100,health care,QA
+1615,25-44,Male,Locals,High School,250,health care,QA
+1616,45+,Male,Locals,High School,20,health care,QA
+1617,18-24,Female,Locals,High School,100,health care,QA
+1618,25-44,Female,Locals,High School,100,health care,QA
+1619,45+,Female,Locals,High School,20,health care,QA
+1620,18-24,Male,Expats,Graduated,86000,health care,SA
+1621,25-44,Male,Expats,Graduated,500000,health care,SA
+1622,45+,Male,Expats,Graduated,60000,health care,SA
+1623,18-24,Female,Expats,Graduated,20000,health care,SA
+1624,25-44,Female,Expats,Graduated,160000,health care,SA
+1625,45+,Female,Expats,Graduated,20000,health care,SA
+1626,18-24,Male,Expats,No Degree,25000,health care,SA
+1627,25-44,Male,Expats,No Degree,83000,health care,SA
+1628,45+,Male,Expats,No Degree,14000,health care,SA
+1629,18-24,Female,Expats,No Degree,8700,health care,SA
+1630,25-44,Female,Expats,No Degree,31000,health care,SA
+1631,45+,Female,Expats,No Degree,6300,health care,SA
+1632,18-24,Male,Expats,High School,31000,health care,SA
+1633,25-44,Male,Expats,High School,110000,health care,SA
+1634,45+,Male,Expats,High School,15000,health care,SA
+1635,18-24,Female,Expats,High School,11000,health care,SA
+1636,25-44,Female,Expats,High School,36000,health care,SA
+1637,45+,Female,Expats,High School,5600,health care,SA
+1638,18-24,Male,Locals,Graduated,37000,health care,SA
+1639,25-44,Male,Locals,Graduated,170000,health care,SA
+1640,45+,Male,Locals,Graduated,24000,health care,SA
+1641,18-24,Female,Locals,Graduated,11000,health care,SA
+1642,25-44,Female,Locals,Graduated,49000,health care,SA
+1643,45+,Female,Locals,Graduated,6700,health care,SA
+1644,18-24,Male,Locals,No Degree,200000,health care,SA
+1645,25-44,Male,Locals,No Degree,390000,health care,SA
+1646,45+,Male,Locals,No Degree,68000,health care,SA
+1647,18-24,Female,Locals,No Degree,43000,health care,SA
+1648,25-44,Female,Locals,No Degree,71000,health care,SA
+1649,45+,Female,Locals,No Degree,17000,health care,SA
+1650,18-24,Male,Locals,High School,22000,health care,SA
+1651,25-44,Male,Locals,High School,61000,health care,SA
+1652,45+,Male,Locals,High School,8700,health care,SA
+1653,18-24,Female,Locals,High School,8900,health care,SA
+1654,25-44,Female,Locals,High School,16000,health care,SA
+1655,45+,Female,Locals,High School,2500,health care,SA
+1656,18-24,Male,Expats,Graduated,1500,health care,SO
+1657,25-44,Male,Expats,Graduated,1600,health care,SO
+1658,45+,Male,Expats,Graduated,170,health care,SO
+1659,18-24,Female,Expats,Graduated,550,health care,SO
+1660,25-44,Female,Expats,Graduated,390,health care,SO
+1661,45+,Female,Expats,Graduated,50,health care,SO
+1662,18-24,Male,Expats,No Degree,280,health care,SO
+1663,25-44,Male,Expats,No Degree,290,health care,SO
+1664,45+,Male,Expats,No Degree,30,health care,SO
+1665,18-24,Female,Expats,No Degree,200,health care,SO
+1666,25-44,Female,Expats,No Degree,150,health care,SO
+1667,45+,Female,Expats,No Degree,20,health care,SO
+1668,18-24,Male,Expats,High School,390,health care,SO
+1669,25-44,Male,Expats,High School,290,health care,SO
+1670,45+,Male,Expats,High School,80,health care,SO
+1671,18-24,Female,Expats,High School,200,health care,SO
+1672,25-44,Female,Expats,High School,110,health care,SO
+1673,45+,Female,Expats,High School,20,health care,SO
+1674,18-24,Male,Locals,Graduated,4800,health care,SO
+1675,25-44,Male,Locals,Graduated,4800,health care,SO
+1676,45+,Male,Locals,Graduated,250,health care,SO
+1677,18-24,Female,Locals,Graduated,3400,health care,SO
+1678,25-44,Female,Locals,Graduated,1700,health care,SO
+1679,45+,Female,Locals,Graduated,240,health care,SO
+1680,18-24,Male,Locals,No Degree,3300,health care,SO
+1681,25-44,Male,Locals,No Degree,1600,health care,SO
+1682,45+,Male,Locals,No Degree,230,health care,SO
+1683,18-24,Female,Locals,No Degree,2700,health care,SO
+1684,25-44,Female,Locals,No Degree,1300,health care,SO
+1685,45+,Female,Locals,No Degree,110,health care,SO
+1686,18-24,Male,Locals,High School,2000,health care,SO
+1687,25-44,Male,Locals,High School,1000,health care,SO
+1688,45+,Male,Locals,High School,60,health care,SO
+1689,18-24,Female,Locals,High School,1500,health care,SO
+1690,25-44,Female,Locals,High School,350,health care,SO
+1691,45+,Female,Locals,High School,90,health care,SO
+1692,18-24,Male,Expats,Graduated,3500,health care,TN
+1693,25-44,Male,Expats,Graduated,4800,health care,TN
+1694,45+,Male,Expats,Graduated,870,health care,TN
+1695,18-24,Female,Expats,Graduated,3900,health care,TN
+1696,25-44,Female,Expats,Graduated,5500,health care,TN
+1697,45+,Female,Expats,Graduated,970,health care,TN
+1698,18-24,Male,Expats,No Degree,1500,health care,TN
+1699,25-44,Male,Expats,No Degree,2400,health care,TN
+1700,45+,Male,Expats,No Degree,650,health care,TN
+1701,18-24,Female,Expats,No Degree,1900,health care,TN
+1702,25-44,Female,Expats,No Degree,3600,health care,TN
+1703,45+,Female,Expats,No Degree,690,health care,TN
+1704,18-24,Male,Expats,High School,1600,health care,TN
+1705,25-44,Male,Expats,High School,1500,health care,TN
+1706,45+,Male,Expats,High School,360,health care,TN
+1707,18-24,Female,Expats,High School,1800,health care,TN
+1708,25-44,Female,Expats,High School,1400,health care,TN
+1709,45+,Female,Expats,High School,390,health care,TN
+1710,18-24,Male,Locals,Graduated,21000,health care,TN
+1711,25-44,Male,Locals,Graduated,47000,health care,TN
+1712,45+,Male,Locals,Graduated,9400,health care,TN
+1713,18-24,Female,Locals,Graduated,57000,health care,TN
+1714,25-44,Female,Locals,Graduated,110000,health care,TN
+1715,45+,Female,Locals,Graduated,11000,health care,TN
+1716,18-24,Male,Locals,No Degree,15000,health care,TN
+1717,25-44,Male,Locals,No Degree,30000,health care,TN
+1718,45+,Male,Locals,No Degree,7100,health care,TN
+1719,18-24,Female,Locals,No Degree,39000,health care,TN
+1720,25-44,Female,Locals,No Degree,65000,health care,TN
+1721,45+,Female,Locals,No Degree,12000,health care,TN
+1722,18-24,Male,Locals,High School,9000,health care,TN
+1723,25-44,Male,Locals,High School,12000,health care,TN
+1724,45+,Male,Locals,High School,3500,health care,TN
+1725,18-24,Female,Locals,High School,27000,health care,TN
+1726,25-44,Female,Locals,High School,26000,health care,TN
+1727,45+,Female,Locals,High School,5100,health care,TN
+1728,18-24,Male,Expats,Graduated,61000,health care,AE
+1729,25-44,Male,Expats,Graduated,340000,health care,AE
+1730,45+,Male,Expats,Graduated,36000,health care,AE
+1731,18-24,Female,Expats,Graduated,21000,health care,AE
+1732,25-44,Female,Expats,Graduated,180000,health care,AE
+1733,45+,Female,Expats,Graduated,22000,health care,AE
+1734,18-24,Male,Expats,No Degree,59000,health care,AE
+1735,25-44,Male,Expats,No Degree,180000,health care,AE
+1736,45+,Male,Expats,No Degree,26000,health care,AE
+1737,18-24,Female,Expats,No Degree,16000,health care,AE
+1738,25-44,Female,Expats,No Degree,68000,health care,AE
+1739,45+,Female,Expats,No Degree,14000,health care,AE
+1740,18-24,Male,Expats,High School,20000,health care,AE
+1741,25-44,Male,Expats,High School,73000,health care,AE
+1742,45+,Male,Expats,High School,9600,health care,AE
+1743,18-24,Female,Expats,High School,10000,health care,AE
+1744,25-44,Female,Expats,High School,38000,health care,AE
+1745,45+,Female,Expats,High School,6700,health care,AE
+1746,18-24,Male,Locals,Graduated,1900,health care,AE
+1747,25-44,Male,Locals,Graduated,6100,health care,AE
+1748,45+,Male,Locals,Graduated,820,health care,AE
+1749,18-24,Female,Locals,Graduated,890,health care,AE
+1750,25-44,Female,Locals,Graduated,4000,health care,AE
+1751,45+,Female,Locals,Graduated,300,health care,AE
+1752,18-24,Male,Locals,No Degree,2800,health care,AE
+1753,25-44,Male,Locals,No Degree,7000,health care,AE
+1754,45+,Male,Locals,No Degree,1400,health care,AE
+1755,18-24,Female,Locals,No Degree,1700,health care,AE
+1756,25-44,Female,Locals,No Degree,5700,health care,AE
+1757,45+,Female,Locals,No Degree,670,health care,AE
+1758,18-24,Male,Locals,High School,950,health care,AE
+1759,25-44,Male,Locals,High School,1700,health care,AE
+1760,45+,Male,Locals,High School,280,health care,AE
+1761,18-24,Female,Locals,High School,660,health care,AE
+1762,25-44,Female,Locals,High School,1000,health care,AE
+1763,45+,Female,Locals,High School,140,health care,AE
+1764,18-24,Male,Expats,Graduated,1600,health care,YE
+1765,25-44,Male,Expats,Graduated,4000,health care,YE
+1766,45+,Male,Expats,Graduated,420,health care,YE
+1767,18-24,Female,Expats,Graduated,280,health care,YE
+1768,25-44,Female,Expats,Graduated,710,health care,YE
+1769,45+,Female,Expats,Graduated,90,health care,YE
+1770,18-24,Male,Expats,No Degree,1100,health care,YE
+1771,25-44,Male,Expats,No Degree,2000,health care,YE
+1772,45+,Male,Expats,No Degree,290,health care,YE
+1773,18-24,Female,Expats,No Degree,460,health care,YE
+1774,25-44,Female,Expats,No Degree,510,health care,YE
+1775,45+,Female,Expats,No Degree,130,health care,YE
+1776,18-24,Male,Expats,High School,790,health care,YE
+1777,25-44,Male,Expats,High School,870,health care,YE
+1778,45+,Male,Expats,High School,80,health care,YE
+1779,18-24,Female,Expats,High School,180,health care,YE
+1780,25-44,Female,Expats,High School,230,health care,YE
+1781,45+,Female,Expats,High School,40,health care,YE
+1782,18-24,Male,Locals,Graduated,14000,health care,YE
+1783,25-44,Male,Locals,Graduated,37000,health care,YE
+1784,45+,Male,Locals,Graduated,3900,health care,YE
+1785,18-24,Female,Locals,Graduated,2400,health care,YE
+1786,25-44,Female,Locals,Graduated,6000,health care,YE
+1787,45+,Female,Locals,Graduated,500,health care,YE
+1788,18-24,Male,Locals,No Degree,16000,health care,YE
+1789,25-44,Male,Locals,No Degree,25000,health care,YE
+1790,45+,Male,Locals,No Degree,4500,health care,YE
+1791,18-24,Female,Locals,No Degree,2100,health care,YE
+1792,25-44,Female,Locals,No Degree,3500,health care,YE
+1793,45+,Female,Locals,No Degree,640,health care,YE
+1794,18-24,Male,Locals,High School,9700,health care,YE
+1795,25-44,Male,Locals,High School,10000,health care,YE
+1796,45+,Male,Locals,High School,1200,health care,YE
+1797,18-24,Female,Locals,High School,2500,health care,YE
+1798,25-44,Female,Locals,High School,1500,health care,YE
+1799,45+,Female,Locals,High School,180,health care,YE
+1800,18-24,Male,Expats,Graduated,1800,health care,PS
+1801,25-44,Male,Expats,Graduated,3000,health care,PS
+1802,45+,Male,Expats,Graduated,460,health care,PS
+1803,18-24,Female,Expats,Graduated,1600,health care,PS
+1804,25-44,Female,Expats,Graduated,3100,health care,PS
+1805,45+,Female,Expats,Graduated,380,health care,PS
+1806,18-24,Male,Expats,No Degree,460,health care,PS
+1807,25-44,Male,Expats,No Degree,690,health care,PS
+1808,45+,Male,Expats,No Degree,210,health care,PS
+1809,18-24,Female,Expats,No Degree,470,health care,PS
+1810,25-44,Female,Expats,No Degree,930,health care,PS
+1811,45+,Female,Expats,No Degree,350,health care,PS
+1812,18-24,Male,Expats,High School,980,health care,PS
+1813,25-44,Male,Expats,High School,510,health care,PS
+1814,45+,Male,Expats,High School,140,health care,PS
+1815,18-24,Female,Expats,High School,1500,health care,PS
+1816,25-44,Female,Expats,High School,810,health care,PS
+1817,45+,Female,Expats,High School,110,health care,PS
+1818,18-24,Male,Locals,Graduated,6700,health care,PS
+1819,25-44,Male,Locals,Graduated,14000,health care,PS
+1820,45+,Male,Locals,Graduated,2100,health care,PS
+1821,18-24,Female,Locals,Graduated,9000,health care,PS
+1822,25-44,Female,Locals,Graduated,15000,health care,PS
+1823,45+,Female,Locals,Graduated,1200,health care,PS
+1824,18-24,Male,Locals,No Degree,2800,health care,PS
+1825,25-44,Male,Locals,No Degree,4400,health care,PS
+1826,45+,Male,Locals,No Degree,1400,health care,PS
+1827,18-24,Female,Locals,No Degree,4200,health care,PS
+1828,25-44,Female,Locals,No Degree,7700,health care,PS
+1829,45+,Female,Locals,No Degree,2100,health care,PS
+1830,18-24,Male,Locals,High School,4700,health care,PS
+1831,25-44,Male,Locals,High School,2700,health care,PS
+1832,45+,Male,Locals,High School,530,health care,PS
+1833,18-24,Female,Locals,High School,7300,health care,PS
+1834,25-44,Female,Locals,High School,3800,health care,PS
+1835,45+,Female,Locals,High School,610,health care,PS
