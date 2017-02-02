@@ -53,8 +53,8 @@ function processSubCategoryList(categoryAudience, subCategoryName){
         "size" : totalAudienceGivenSelection + 1,
         "audienceWithInterest" : totalAudienceWithInterest,
         "fbPopulation" : totalAudienceGivenSelection,
-        // "inclination" : (healthAudience - jewelAudience) / totalAudienceWithInterest
-        "inclination" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero,
+        // "score" : (healthAudience - jewelAudience) / totalAudienceWithInterest
+        "score" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero,
         "healthAudience" : healthAudience,
         "luxuryAudience" : luxuryAudience
     }
@@ -71,7 +71,7 @@ function generateTreemapChidren(categoryAudience){
                 "name": subCategoryName,
                 "size" : treemapDataCell.size,
                 "audienceWithInterest" : treemapDataCell.audienceWithInterest,
-                "inclination" : treemapDataCell.inclination,
+                "score" : treemapDataCell.score,
                 "healthAudience" : treemapDataCell.healthAudience,
                 "luxuryAudience" : treemapDataCell.luxuryAudience,
                 "fbPopulation" : treemapDataCell.fbPopulation
@@ -150,7 +150,7 @@ function TreemapManager(){
 
 
     this.updateLuxuriousHealthBar = function(){
-        // var luxuriousHealthData = this.getAverageSelectedInclination();
+        // var luxuriousHealthData = this.getAverageSelectedScore();
         // luxuriousHealthBar.updateData(luxuriousHealthData);
     };
     

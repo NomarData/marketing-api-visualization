@@ -162,11 +162,12 @@ function DataManager(){
     this.updateVisualComponents = function(){
         currentInstance.setSelectedInstances();
         treemapManager.updateTreemaps();
-        inclinationScore.updateData();
+        GeneralScore.updateData();
         arabMap.updateData();
         btnsTopicsSelectors.updateData();
         luxuriousHealthBar.updateData();
         sharebleLink.updateData();
+        findingsFinder.updateData();
     };
 
     this.isCountryAlreadySelected = function(country_code) {
@@ -195,28 +196,51 @@ function DataManager(){
         }
         return false;
     };
-    this.getAverageSelectedInclination = function(){
-        var averageInclination = {"greenAudience" : 0, "redAudience":0, "greenInclination":0,"redInclination":0,"average":0, "total":0};
+    this.getAverageSelectedScore = function(){
+        var averageScore = {"greenAudience" : 0, "redAudience":0, "greenScore":0,"redScore":0,"average":0, "total":0};
         if(currentInstance.selectedCountries_2letters.length == 0){
-            return averageInclination;
+            return averageScore;
         } else{
             var selectedInstances = currentInstance.getSelectedInstances();
             // var total = selectedInstances.map(function(instance){ return instance.audience}).reduce(function (total, num) { return total + num});
             var total = dataManager.selectedFbDemographicSum;
-            averageInclination.total = total;
-            averageInclination.greenAudience =  selectedInstances.map(
+            averageScore.total = total;
+            averageScore.greenAudience =  selectedInstances.map(
                 function(instance){ return getInstancePolarity(instance) == 1 ? instance.audience : 0})
                 .reduce(function (total, num) { return total + num});
-            averageInclination.redAudience =  selectedInstances.map(
+            averageScore.redAudience =  selectedInstances.map(
                 function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0})
                 .reduce(function (total, num) { return total + num});
-            averageInclination.greenInclination = averageInclination.greenAudience / total;
-            averageInclination.redInclination = averageInclination.redAudience  / total;
-            // averageInclination.average = ((averageInclination.greenInclination * averageInclination.greenAudience) - (averageInclination.redInclination * averageInclination.redAudience) ) / total;
-            averageInclination.average = averageInclination.greenInclination - averageInclination.redInclination;
-            return averageInclination
+            averageScore.greenScore = averageScore.greenAudience / total;
+            averageScore.redScore = averageScore.redAudience  / total;
+            // averageScore.average = ((averageScore.greenScore * averageScore.greenAudience) - (averageScore.redScore * averageScore.redAudience) ) / total;
+            averageScore.average = averageScore.greenScore - averageScore.redScore;
+            return averageScore
         }
 
     };
+    this.getSelectedCountriesData = function(){
+        var selectedCountriesData = {};
+
+        for(let countryIndex in dataManager.selectedCountries_2letters){
+            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
+            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
+            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
+            selectedCountriesData[countryCode2Letter] = countryData;
+        }
+        return selectedCountriesData;
+    }
+
+    this.getCellsData = function(){
+        var selectedCountriesData = {};
+
+        for(let countryIndex in dataManager.selectedCountries_2letters){
+            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
+            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
+            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
+            selectedCountriesData[countryCode2Letter] = countryData;
+        }
+        return selectedCountriesData;
+    }
 }
 

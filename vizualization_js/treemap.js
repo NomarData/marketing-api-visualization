@@ -25,10 +25,10 @@ function getGreenColor(position){
 function getRandomGreenOrRedColor(){
     var diceColor = Math.random();
     var diceValue = diceColor > 0.5 ? Math.random() : -Math.random();
-    return getGreenOrRedColorByInclination(diceValue)
+    return getGreenOrRedColorByScore(diceValue)
 }
-function getGreenOrRedColorByInclination(inclination) {
-    return colorFunction(inclination);
+function getGreenOrRedColorByScore(score) {
+    return colorFunction(score);
 }
 
 function getRandomColor() {
@@ -119,7 +119,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("width", function(d) { return d.dx; })
                 .attr("height", function(d) { return d.dy; })
                 .style("fill", function(d) {
-                    var newColor = getGreenOrRedColorByInclination(d.inclination);
+                    var newColor = getGreenOrRedColorByScore(d.score);
                     return newColor;
                 });
             // debugger
@@ -149,7 +149,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 .attr("width", function(d) { return d.dx; })
                 .attr("height", function(d) { return d.dy; })
                 .style("fill", function(d) {
-                    var newColor = getGreenOrRedColorByInclination(d.inclination);
+                    var newColor = getGreenOrRedColorByScore(d.score);
                     return newColor;
                 });
             cell.select("text")
@@ -278,7 +278,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .text(currentInstance.getFormattedAudience(d.size));
 
         d3.select("#tooltip-treemap #scoreTooltip")
-            .text(scoreToPercentage(d.inclination));
+            .text(scoreToPercentage(d.score));
 
         d3.select("#tooltip-treemap #luxuryAudienceTooltip")
             .text(currentInstance.getFormattedAudience(d.luxuryAudience));
@@ -342,7 +342,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             .attr("id", function(d) { return getRectIDFromName(d.name) } )
             .attr("width", function(d) { return d.dx > 1 ? d.dx - 1 : d.dx; })
             .attr("height", function(d) { return d.dy > 1 ? d.dy - 1 : d.dy; })
-            .style("fill", function(d) { return getGreenOrRedColorByInclination(d.inclination); })
+            .style("fill", function(d) { return getGreenOrRedColorByScore(d.score); })
             .attr("class","treemapRect");
 
         var text = cell.append("svg:text")

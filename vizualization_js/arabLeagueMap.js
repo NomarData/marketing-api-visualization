@@ -41,7 +41,7 @@ function datamapDataLayer(){
         }
     };
 
-    this.getCountryInclination = function(country3Letters){
+    this.getCountryScore = function(country3Letters){
         return currentInstance.getCountrySelectedData(country3Letters)["score"];
     };
     this.getCountrySelectedData = function(country3Letters){
@@ -77,8 +77,8 @@ function datamapDataLayer(){
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
-                var inclination = currentInstance.getCountryInclination(_3_letters_country_code);
-                dataColor[_3_letters_country_code] = getGreenOrRedColorByInclination(inclination);
+                var score = currentInstance.getCountryScore(_3_letters_country_code);
+                dataColor[_3_letters_country_code] = getGreenOrRedColorByScore(score);
             }
         }
 
@@ -203,7 +203,7 @@ function arabLeagueDatamap(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
-                onClickCountryFunctionBy3LettersCode(geography.id);
+                onClickCountryFunctionBy3LettersCode(countryCode3Letters);
                 // alert("Click disabled in the map for now, please use the list on the side.");
             } else{
                 alert("Only arab countries supported");

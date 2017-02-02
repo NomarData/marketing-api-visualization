@@ -27,11 +27,12 @@ function buildAndInitVisualComponents(){
     console.log("Building visual components");
     treemapManager = new TreemapManager();
     luxuriousHealthBar = new stackedHorizontalBar();
-    inclinationScore = new InclinationScore();
+    GeneralScore = new GeneralScore();
     arabMap = new arabLeagueDatamap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     historyDataSelector = new HistoryDataSelector();
+    findingsFinder = new FindingFinder();
     console.log("Builded visual components");
     sharebleLink.init();
 }
@@ -96,6 +97,7 @@ function removeAllParentheses(string){
 }
 
 function getJqueryCountryBtnByCode2Letters(countryCode){
+
     return $("div[data-code='"+ countryCode +"']");
 }
 
@@ -132,7 +134,11 @@ function onClickCountryFunction(countryItem){
     console.log(dataManager.selectedCountries_2letters);
 }
 
-getAll3LettersCodeArabCountry = function(){
+function getCountryNameGivenCode2Letters(countryCode) {
+    return countryCodeMap[countryCode].name;
+}
+
+function getAll3LettersCodeArabCountry(){
     var countryCodes = $.map(countryCodeMap,function (item) {
         return item._3letter_code;
     });
