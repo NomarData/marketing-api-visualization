@@ -218,5 +218,20 @@ function TreemapManager(){
         treemap.activateCellGivenValue(treemapValue);
     }
 
+    this.getAllVisibleTreenaoScoresAndLabels = function () {
+        var labelsScores = {}
+        for(let treemapIndex in currentInstance.treemaps){
+            var treemap = currentInstance.treemaps[treemapIndex];
+            var activeCells = treemap.getCellsActiveCells();
+            for(let cellIndex in activeCells){
+                var cell = activeCells[cellIndex];
+                var cellData = cell.children[0];
+                labelsScores[cellData.name] = cellData.score;
+            }
+
+        }
+        return labelsScores;
+    };
+
     this.init();
 }

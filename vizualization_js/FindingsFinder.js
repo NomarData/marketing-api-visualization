@@ -16,6 +16,20 @@ function FindingFinder(){
         }
         return ss.standardDeviation(scores)
     }
+    this.computeDemographicsStandardDeviation = function(demographicsData) {
+        var scores = [];
+        $.map(demographicsData, function (score) {
+            scores.push(score);
+        })
+        return ss.standardDeviation(scores)
+    }
+    this.computeDemographicsAverage = function(demographicsData) {
+        var scores = [];
+        $.map(demographicsData, function (score) {
+            scores.push(score);
+        })
+        return ss.mean(scores)
+    }
 
     this.computeCountriesStandardAverage = function(countriesData) {
         var scores = [];
@@ -43,20 +57,18 @@ function FindingFinder(){
     };
 
     this.findDemographicsOutOfStandardDeviation = function(){
-        $.map(DEFAULT_CATEGORIES_NAMES, function (category) {
-            var cellsData = dataManager.getCellsData(category);
-            // var std = this.computeCountriesStandardDeviation(countriesData);
-            // var average = this.computeCountriesStandardAverage(countriesData);
-            // for(var cellData in cellsData){
-            //     var score = cellData.score
-            //     if(score > (average + 2*std)){
-            //         currentInstance.currentDemographicFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score <span class='good'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> higher than average.");
-            //     }
-            //     if(score < (average - 2*std)){
-            //         currentInstance.currentDemographicFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score <span class='bad'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> lower than average.");
-            //     }
-            // }
-        })
+        var demographicsScore = treemapManager.getAllVisibleTreenaoScoresAndLabels();
+        var std = currentInstance.computeDemographicsStandardDeviation(demographicsScore);
+        var average = this.computeDemographicsAverage(demographicsScore);
+        for(let demographicName in demographicsScore){
+            var score = demographicsScore[demographicName];
+            if(score > (average + 2*std )){
+                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score <span class='good'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> higher than others demographic filters.");
+            }
+            if(score < (average - 2*std)){
+                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score <span class='bad'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> lower than others demographic filters.");
+            }
+        }
     };
 
     this.addCountriesFindingToInterface = function(){
@@ -83,14 +95,23 @@ function FindingFinder(){
             currentInstance.currentDemographicFinding = [];
             currentInstance.currentCountriesFinding = [];
     }
+    this.showTitle = function(){
+        if(currentInstance.currentDemographicFinding.length > 0 || currentInstance.currentCountriesFinding.length > 0){
+            $("#interestingFindingsTitle").show()
+        } else {
+            $("#interestingFindingsTitle").hide()
+        }
+    }
 
     this.updateData = function () {
         currentInstance.cleanFindingContainer();
         currentInstance.findCountriesOutOfStandardDeviation();
         currentInstance.addCountriesFindingToInterface();
-        // currentInstance.findDemographicsOutOfStandardDeviation();
-        // currentInstance.addDemographicsFindingToInterface();
+        currentInstance.findDemographicsOutOfStandardDeviation();
+        currentInstance.addDemographicsFindingToInterface();
+        currentInstance.showTitle();
         }
+
 
 
 
