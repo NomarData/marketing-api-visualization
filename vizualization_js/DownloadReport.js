@@ -52,6 +52,20 @@ function DownloadReport(){
         return buf;
     };
 
+
+    this.addCurrentFiltersToData = function(data){
+        data.push([])
+        data.push(["Selected Filters"]);
+        var selectedDemographics = dataManager.selectedCategoriesAndValues;
+        for(var category in selectedDemographics){
+            data.push([getTooltipLabel(category), selectedDemographics[category]])
+        }
+        var selectedCountriesData = dataManager.getSelectedCountriesData();
+        for(var countryCode in selectedCountriesData){
+            data.push(["Country", selectedCountriesData[countryCode].name])
+        }
+    };
+
     this.getCountriesDataFromCurrentState = function(){
         let data = [];
         let header = ["Countries", "Score", "Facebook Coverage", "Health Audience", "Luxury Audience"];
@@ -67,6 +81,7 @@ function DownloadReport(){
             countryRow.push(countryData.luxuryAudience);
             data.push(countryRow);
         }
+        currentInstance.addCurrentFiltersToData(data)
         return data;
     };
 
@@ -86,6 +101,7 @@ function DownloadReport(){
             demographicRow.push(demographicData.luxuryAudience);
             data.push(demographicRow);
         }
+        currentInstance.addCurrentFiltersToData(data)
         return data;
     };
 
