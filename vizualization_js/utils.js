@@ -33,6 +33,7 @@ function buildAndInitVisualComponents(){
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     historyDataSelector = new HistoryDataSelector();
     findingsFinder = new FindingFinder();
+    downloadReport = new DownloadReport();
     console.log("Builded visual components");
     sharebleLink.init();
 }
@@ -202,7 +203,7 @@ function updateSocialLinkFields(){
 }
 
 function convert2to3LettersCode(_2letters_code){
-    _2letters_code = _2letters_code.toUpperCase();
+    var _2letters_code = _2letters_code.toUpperCase();
     try{
         return countryCodeMap[_2letters_code]._3letter_code;
     }catch (err){
@@ -211,8 +212,17 @@ function convert2to3LettersCode(_2letters_code){
 
 }
 
+function convert3LettersCodeToName(_3letters_code){
+    try{
+        var _2letters_code = convert3to2LettersCode(_3letters_code);
+        return countryCodeMap[_2letters_code].name;
+    }catch (err){
+        throw Error("3 Letter Code not found:" + _3letters_code);
+    }
+}
+
 function convert2LettersCodeToName(_2letters_code){
-    _2letters_code = _2letters_code.toUpperCase();
+    var _2letters_code = _2letters_code.toUpperCase();
     try{
         return countryCodeMap[_2letters_code].name;
     }catch (err){
@@ -221,12 +231,18 @@ function convert2LettersCodeToName(_2letters_code){
 }
 
 function convert3to2LettersCode(_3letters_code){
-    _3letters_code = _3letters_code.toUpperCase();
+    var _3letters_code = _3letters_code.toUpperCase();
     for(var key in countryCodeMap){
         if(countryCodeMap[key]._3letter_code == _3letters_code){
             return key
         }
     }
     throw Error("3 Letter Code not found:" + _3letters_code);
+}
+
+function datenum(v, date1904) {
+    if(date1904) v+=1462;
+    var epoch = Date.parse(v);
+    return (epoch - new Date(Date.UTC(1899, 11, 30))) / (24 * 60 * 60 * 1000);
 }
 

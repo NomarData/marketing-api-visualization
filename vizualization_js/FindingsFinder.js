@@ -18,15 +18,15 @@ function FindingFinder(){
     }
     this.computeDemographicsStandardDeviation = function(demographicsData) {
         var scores = [];
-        $.map(demographicsData, function (score) {
-            scores.push(score);
+        $.map(demographicsData, function (demographicData) {
+            scores.push(demographicData.score);
         })
         return ss.standardDeviation(scores)
     }
     this.computeDemographicsAverage = function(demographicsData) {
         var scores = [];
-        $.map(demographicsData, function (score) {
-            scores.push(score);
+        $.map(demographicsData, function (demographicData) {
+            scores.push(demographicData.score);
         })
         return ss.mean(scores)
     }
@@ -57,11 +57,11 @@ function FindingFinder(){
     };
 
     this.findDemographicsOutOfStandardDeviation = function(){
-        var demographicsScore = treemapManager.getAllVisibleTreenaoScoresAndLabels();
-        var std = currentInstance.computeDemographicsStandardDeviation(demographicsScore);
-        var average = this.computeDemographicsAverage(demographicsScore);
-        for(let demographicName in demographicsScore){
-            var score = demographicsScore[demographicName];
+        var demographicsData = treemapManager.getAllVisibleTreemapData();
+        var std = currentInstance.computeDemographicsStandardDeviation(demographicsData);
+        var average = this.computeDemographicsAverage(demographicsData);
+        for(let demographicName in demographicsData){
+            var score = demographicsData[demographicName].score;
             if(score > (average + 2*std )){
                 currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score <span class='good'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> higher than others demographic filters.");
             }

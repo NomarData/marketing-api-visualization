@@ -286,8 +286,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         d3.select("#tooltip-treemap #healthAudienceTooltip")
             .text(currentInstance.getFormattedAudience(d.healthAudience));
 
-        d3.select("#tooltip-treemap #fbPopulationTooltip")
-            .text(currentInstance.getFormattedAudience(d.fbPopulation));
+        d3.select("#tooltip-treemap #audienceCoverageTooltip")
+            .text(currentInstance.getFormattedAudience(d.audienceCoverage));
 
     };
     this.mouseoutTooltip = function(d){
