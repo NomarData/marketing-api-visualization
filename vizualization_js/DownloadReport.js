@@ -56,6 +56,8 @@ function DownloadReport(){
     this.addCurrentFiltersToData = function(data){
         data.push([])
         data.push(["Selected Filters"]);
+        data.push(["Health Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedHealth)]);
+        data.push(["Luxury Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedLuxury)]);
         var selectedDemographics = dataManager.selectedCategoriesAndValues;
         for(var category in selectedDemographics){
             data.push([getTooltipLabel(category), selectedDemographics[category]])
