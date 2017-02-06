@@ -12,7 +12,7 @@ $(document).ready(function () {
         externalDataManager.setInstanceList(data.instances);
         updateFBDemographicDataPromise.done(function(d){
             dataManager.setSelectedInstances();
-            buildAndInitVisualComponents();
+            dataManager.buildAndInitVisualComponents();
         });
     });
 });

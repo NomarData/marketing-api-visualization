@@ -159,15 +159,30 @@ function DataManager(){
         }
     };
 
+    this.buildAndInitVisualComponents = function(){
+        console.log("Building visual components");
+        treemapManager = new TreemapManager();
+        luxuriousHealthBar = new stackedHorizontalBar();
+        generalScore = new GeneralScore();
+        arabMap = new arabLeagueDatamap();
+        sharebleLink = new SharebleLink();
+        btnsTopicsSelectors = new BtnsTopicsSelectors();
+        historyDataSelector = new HistoryDataSelector();
+        // findingsFinder = new FindingFinder();
+        downloadReport = new DownloadReport();
+        console.log("Builded visual components");
+        sharebleLink.init();
+    }
+
     this.updateVisualComponents = function(){
         currentInstance.setSelectedInstances();
         treemapManager.updateTreemaps();
-        GeneralScore.updateData();
+        generalScore.updateData();
         arabMap.updateData();
         btnsTopicsSelectors.updateData();
         luxuriousHealthBar.updateData();
         sharebleLink.updateData();
-        findingsFinder.updateData();
+        // findingsFinder.updateData();
     };
 
     this.isCountryAlreadySelected = function(country_code) {

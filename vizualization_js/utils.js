@@ -23,20 +23,6 @@ function removeValueFromArray(array,valueToRemove){
     });
 }
 
-function buildAndInitVisualComponents(){
-    console.log("Building visual components");
-    treemapManager = new TreemapManager();
-    luxuriousHealthBar = new stackedHorizontalBar();
-    GeneralScore = new GeneralScore();
-    arabMap = new arabLeagueDatamap();
-    sharebleLink = new SharebleLink();
-    btnsTopicsSelectors = new BtnsTopicsSelectors();
-    historyDataSelector = new HistoryDataSelector();
-    findingsFinder = new FindingFinder();
-    downloadReport = new DownloadReport();
-    console.log("Builded visual components");
-    sharebleLink.init();
-}
 
 function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
