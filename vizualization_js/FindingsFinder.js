@@ -48,10 +48,10 @@ function FindingFinder(){
         for(var countryCode in countriesData){
             var score = countriesData[countryCode].score
             if(score > (average + 2*std)){
-                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score <span class='good'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> higher than average.");
+                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others countries.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score <span class='bad'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> lower than average.");
+                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others countries.");
             }
         }
     };
@@ -63,10 +63,10 @@ function FindingFinder(){
         for(let demographicName in demographicsData){
             var score = demographicsData[demographicName].score;
             if(score > (average + 2*std )){
-                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score <span class='good'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> higher than others demographic filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others demographic filters.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score <span class='bad'>" + (Math.abs(score/average*100)).toFixed(0) + "%</span> lower than others demographic filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others demographic filters.");
             }
         }
     };
