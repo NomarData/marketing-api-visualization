@@ -1,0 +1,1225 @@
+,age_range,gender,citizenship,scholarity,audience,topic,country_code
+7956,18-24,Male,Expats,Graduated,4100,back pain,DZ
+7957,25-44,Male,Expats,Graduated,7000,back pain,DZ
+7958,45+,Male,Expats,Graduated,1200,back pain,DZ
+7959,18-24,Female,Expats,Graduated,1400,back pain,DZ
+7960,25-44,Female,Expats,Graduated,1800,back pain,DZ
+7961,45+,Female,Expats,Graduated,410,back pain,DZ
+7962,18-24,Male,Expats,No Degree,3700,back pain,DZ
+7963,25-44,Male,Expats,No Degree,8300,back pain,DZ
+7964,45+,Male,Expats,No Degree,2100,back pain,DZ
+7965,18-24,Female,Expats,No Degree,1500,back pain,DZ
+7966,25-44,Female,Expats,No Degree,2500,back pain,DZ
+7967,45+,Female,Expats,No Degree,700,back pain,DZ
+7968,18-24,Male,Expats,High School,1600,back pain,DZ
+7969,25-44,Male,Expats,High School,1800,back pain,DZ
+7970,45+,Male,Expats,High School,450,back pain,DZ
+7971,18-24,Female,Expats,High School,680,back pain,DZ
+7972,25-44,Female,Expats,High School,460,back pain,DZ
+7973,45+,Female,Expats,High School,170,back pain,DZ
+7974,18-24,Male,Locals,Graduated,20000,back pain,DZ
+7975,25-44,Male,Locals,Graduated,58000,back pain,DZ
+7976,45+,Male,Locals,Graduated,9200,back pain,DZ
+7977,18-24,Female,Locals,Graduated,13000,back pain,DZ
+7978,25-44,Female,Locals,Graduated,24000,back pain,DZ
+7979,45+,Female,Locals,Graduated,3500,back pain,DZ
+7980,18-24,Male,Locals,No Degree,36000,back pain,DZ
+7981,25-44,Male,Locals,No Degree,97000,back pain,DZ
+7982,45+,Male,Locals,No Degree,20000,back pain,DZ
+7983,18-24,Female,Locals,No Degree,24000,back pain,DZ
+7984,25-44,Female,Locals,No Degree,39000,back pain,DZ
+7985,45+,Female,Locals,No Degree,9400,back pain,DZ
+7986,18-24,Male,Locals,High School,9500,back pain,DZ
+7987,25-44,Male,Locals,High School,18000,back pain,DZ
+7988,45+,Male,Locals,High School,3700,back pain,DZ
+7989,18-24,Female,Locals,High School,6900,back pain,DZ
+7990,25-44,Female,Locals,High School,6600,back pain,DZ
+7991,45+,Female,Locals,High School,1700,back pain,DZ
+7992,18-24,Male,Expats,Graduated,280,back pain,BH
+7993,25-44,Male,Expats,Graduated,860,back pain,BH
+7994,45+,Male,Expats,Graduated,140,back pain,BH
+7995,18-24,Female,Expats,Graduated,20,back pain,BH
+7996,25-44,Female,Expats,Graduated,310,back pain,BH
+7997,45+,Female,Expats,Graduated,330,back pain,BH
+7998,18-24,Male,Expats,No Degree,180,back pain,BH
+7999,25-44,Male,Expats,No Degree,540,back pain,BH
+8000,45+,Male,Expats,No Degree,160,back pain,BH
+8001,18-24,Female,Expats,No Degree,20,back pain,BH
+8002,25-44,Female,Expats,No Degree,260,back pain,BH
+8003,45+,Female,Expats,No Degree,290,back pain,BH
+8004,18-24,Male,Expats,High School,80,back pain,BH
+8005,25-44,Male,Expats,High School,250,back pain,BH
+8006,45+,Male,Expats,High School,40,back pain,BH
+8007,18-24,Female,Expats,High School,20,back pain,BH
+8008,25-44,Female,Expats,High School,140,back pain,BH
+8009,45+,Female,Expats,High School,160,back pain,BH
+8010,18-24,Male,Locals,Graduated,20,back pain,BH
+8011,25-44,Male,Locals,Graduated,40,back pain,BH
+8012,45+,Male,Locals,Graduated,20,back pain,BH
+8013,18-24,Female,Locals,Graduated,20,back pain,BH
+8014,25-44,Female,Locals,Graduated,20,back pain,BH
+8015,45+,Female,Locals,Graduated,20,back pain,BH
+8016,18-24,Male,Locals,No Degree,20,back pain,BH
+8017,25-44,Male,Locals,No Degree,30,back pain,BH
+8018,45+,Male,Locals,No Degree,20,back pain,BH
+8019,18-24,Female,Locals,No Degree,20,back pain,BH
+8020,25-44,Female,Locals,No Degree,20,back pain,BH
+8021,45+,Female,Locals,No Degree,20,back pain,BH
+8022,18-24,Male,Locals,High School,20,back pain,BH
+8023,25-44,Male,Locals,High School,20,back pain,BH
+8024,45+,Male,Locals,High School,20,back pain,BH
+8025,18-24,Female,Locals,High School,20,back pain,BH
+8026,25-44,Female,Locals,High School,20,back pain,BH
+8027,45+,Female,Locals,High School,20,back pain,BH
+8028,18-24,Male,Expats,Graduated,560,back pain,EG
+8029,25-44,Male,Expats,Graduated,2300,back pain,EG
+8030,45+,Male,Expats,Graduated,1100,back pain,EG
+8031,18-24,Female,Expats,Graduated,530,back pain,EG
+8032,25-44,Female,Expats,Graduated,1500,back pain,EG
+8033,45+,Female,Expats,Graduated,810,back pain,EG
+8034,18-24,Male,Expats,No Degree,260,back pain,EG
+8035,25-44,Male,Expats,No Degree,840,back pain,EG
+8036,45+,Male,Expats,No Degree,810,back pain,EG
+8037,18-24,Female,Expats,No Degree,200,back pain,EG
+8038,25-44,Female,Expats,No Degree,660,back pain,EG
+8039,45+,Female,Expats,No Degree,810,back pain,EG
+8040,18-24,Male,Expats,High School,460,back pain,EG
+8041,25-44,Male,Expats,High School,460,back pain,EG
+8042,45+,Male,Expats,High School,230,back pain,EG
+8043,18-24,Female,Expats,High School,420,back pain,EG
+8044,25-44,Female,Expats,High School,340,back pain,EG
+8045,45+,Female,Expats,High School,210,back pain,EG
+8046,18-24,Male,Locals,Graduated,12000,back pain,EG
+8047,25-44,Male,Locals,Graduated,48000,back pain,EG
+8048,45+,Male,Locals,Graduated,22000,back pain,EG
+8049,18-24,Female,Locals,Graduated,17000,back pain,EG
+8050,25-44,Female,Locals,Graduated,46000,back pain,EG
+8051,45+,Female,Locals,Graduated,19000,back pain,EG
+8052,18-24,Male,Locals,No Degree,5900,back pain,EG
+8053,25-44,Male,Locals,No Degree,25000,back pain,EG
+8054,45+,Male,Locals,No Degree,26000,back pain,EG
+8055,18-24,Female,Locals,No Degree,8700,back pain,EG
+8056,25-44,Female,Locals,No Degree,25000,back pain,EG
+8057,45+,Female,Locals,No Degree,33000,back pain,EG
+8058,18-24,Male,Locals,High School,8500,back pain,EG
+8059,25-44,Male,Locals,High School,9500,back pain,EG
+8060,45+,Male,Locals,High School,5000,back pain,EG
+8061,18-24,Female,Locals,High School,12000,back pain,EG
+8062,25-44,Female,Locals,High School,7600,back pain,EG
+8063,45+,Female,Locals,High School,4200,back pain,EG
+8064,18-24,Male,Expats,Graduated,1900,back pain,IQ
+8065,25-44,Male,Expats,Graduated,3900,back pain,IQ
+8066,45+,Male,Expats,Graduated,690,back pain,IQ
+8067,18-24,Female,Expats,Graduated,90,back pain,IQ
+8068,25-44,Female,Expats,Graduated,390,back pain,IQ
+8069,45+,Female,Expats,Graduated,120,back pain,IQ
+8070,18-24,Male,Expats,No Degree,1200,back pain,IQ
+8071,25-44,Male,Expats,No Degree,1900,back pain,IQ
+8072,45+,Male,Expats,No Degree,530,back pain,IQ
+8073,18-24,Female,Expats,No Degree,170,back pain,IQ
+8074,25-44,Female,Expats,No Degree,310,back pain,IQ
+8075,45+,Female,Expats,No Degree,140,back pain,IQ
+8076,18-24,Male,Expats,High School,1000,back pain,IQ
+8077,25-44,Male,Expats,High School,1100,back pain,IQ
+8078,45+,Male,Expats,High School,230,back pain,IQ
+8079,18-24,Female,Expats,High School,60,back pain,IQ
+8080,25-44,Female,Expats,High School,120,back pain,IQ
+8081,45+,Female,Expats,High School,40,back pain,IQ
+8082,18-24,Male,Locals,Graduated,20000,back pain,IQ
+8083,25-44,Male,Locals,Graduated,46000,back pain,IQ
+8084,45+,Male,Locals,Graduated,9400,back pain,IQ
+8085,18-24,Female,Locals,Graduated,1500,back pain,IQ
+8086,25-44,Female,Locals,Graduated,7600,back pain,IQ
+8087,45+,Female,Locals,Graduated,2700,back pain,IQ
+8088,18-24,Male,Locals,No Degree,27000,back pain,IQ
+8089,25-44,Male,Locals,No Degree,40000,back pain,IQ
+8090,45+,Male,Locals,No Degree,16000,back pain,IQ
+8091,18-24,Female,Locals,No Degree,3300,back pain,IQ
+8092,25-44,Female,Locals,No Degree,8400,back pain,IQ
+8093,45+,Female,Locals,No Degree,5000,back pain,IQ
+8094,18-24,Male,Locals,High School,14000,back pain,IQ
+8095,25-44,Male,Locals,High School,15000,back pain,IQ
+8096,45+,Male,Locals,High School,3300,back pain,IQ
+8097,18-24,Female,Locals,High School,1300,back pain,IQ
+8098,25-44,Female,Locals,High School,2300,back pain,IQ
+8099,45+,Female,Locals,High School,830,back pain,IQ
+8100,18-24,Male,Expats,Graduated,2600,back pain,JO
+8101,25-44,Male,Expats,Graduated,7900,back pain,JO
+8102,45+,Male,Expats,Graduated,1900,back pain,JO
+8103,18-24,Female,Expats,Graduated,1300,back pain,JO
+8104,25-44,Female,Expats,Graduated,4100,back pain,JO
+8105,45+,Female,Expats,Graduated,1400,back pain,JO
+8106,18-24,Male,Expats,No Degree,2800,back pain,JO
+8107,25-44,Male,Expats,No Degree,8300,back pain,JO
+8108,45+,Male,Expats,No Degree,2700,back pain,JO
+8109,18-24,Female,Expats,No Degree,1200,back pain,JO
+8110,25-44,Female,Expats,No Degree,3600,back pain,JO
+8111,45+,Female,Expats,No Degree,2300,back pain,JO
+8112,18-24,Male,Expats,High School,1800,back pain,JO
+8113,25-44,Male,Expats,High School,2600,back pain,JO
+8114,45+,Male,Expats,High School,680,back pain,JO
+8115,18-24,Female,Expats,High School,1200,back pain,JO
+8116,25-44,Female,Expats,High School,1400,back pain,JO
+8117,45+,Female,Expats,High School,610,back pain,JO
+8118,18-24,Male,Locals,Graduated,7500,back pain,JO
+8119,25-44,Male,Locals,Graduated,20000,back pain,JO
+8120,45+,Male,Locals,Graduated,5700,back pain,JO
+8121,18-24,Female,Locals,Graduated,5100,back pain,JO
+8122,25-44,Female,Locals,Graduated,15000,back pain,JO
+8123,45+,Female,Locals,Graduated,3200,back pain,JO
+8124,18-24,Male,Locals,No Degree,7500,back pain,JO
+8125,25-44,Male,Locals,No Degree,19000,back pain,JO
+8126,45+,Male,Locals,No Degree,9900,back pain,JO
+8127,18-24,Female,Locals,No Degree,5300,back pain,JO
+8128,25-44,Female,Locals,No Degree,16000,back pain,JO
+8129,45+,Female,Locals,No Degree,8300,back pain,JO
+8130,18-24,Male,Locals,High School,5200,back pain,JO
+8131,25-44,Male,Locals,High School,7000,back pain,JO
+8132,45+,Male,Locals,High School,2400,back pain,JO
+8133,18-24,Female,Locals,High School,4500,back pain,JO
+8134,25-44,Female,Locals,High School,5100,back pain,JO
+8135,45+,Female,Locals,High School,1500,back pain,JO
+8136,18-24,Male,Expats,Graduated,580,back pain,KW
+8137,25-44,Male,Expats,Graduated,4900,back pain,KW
+8138,45+,Male,Expats,Graduated,890,back pain,KW
+8139,18-24,Female,Expats,Graduated,220,back pain,KW
+8140,25-44,Female,Expats,Graduated,5500,back pain,KW
+8141,45+,Female,Expats,Graduated,1500,back pain,KW
+8142,18-24,Male,Expats,No Degree,950,back pain,KW
+8143,25-44,Male,Expats,No Degree,4400,back pain,KW
+8144,45+,Male,Expats,No Degree,1100,back pain,KW
+8145,18-24,Female,Expats,No Degree,270,back pain,KW
+8146,25-44,Female,Expats,No Degree,4000,back pain,KW
+8147,45+,Female,Expats,No Degree,1400,back pain,KW
+8148,18-24,Male,Expats,High School,230,back pain,KW
+8149,25-44,Male,Expats,High School,1500,back pain,KW
+8150,45+,Male,Expats,High School,260,back pain,KW
+8151,18-24,Female,Expats,High School,110,back pain,KW
+8152,25-44,Female,Expats,High School,2300,back pain,KW
+8153,45+,Female,Expats,High School,610,back pain,KW
+8154,18-24,Male,Locals,Graduated,40,back pain,KW
+8155,25-44,Male,Locals,Graduated,450,back pain,KW
+8156,45+,Male,Locals,Graduated,50,back pain,KW
+8157,18-24,Female,Locals,Graduated,20,back pain,KW
+8158,25-44,Female,Locals,Graduated,160,back pain,KW
+8159,45+,Female,Locals,Graduated,40,back pain,KW
+8160,18-24,Male,Locals,No Degree,70,back pain,KW
+8161,25-44,Male,Locals,No Degree,440,back pain,KW
+8162,45+,Male,Locals,No Degree,90,back pain,KW
+8163,18-24,Female,Locals,No Degree,20,back pain,KW
+8164,25-44,Female,Locals,No Degree,160,back pain,KW
+8165,45+,Female,Locals,No Degree,50,back pain,KW
+8166,18-24,Male,Locals,High School,20,back pain,KW
+8167,25-44,Male,Locals,High School,120,back pain,KW
+8168,45+,Male,Locals,High School,20,back pain,KW
+8169,18-24,Female,Locals,High School,20,back pain,KW
+8170,25-44,Female,Locals,High School,30,back pain,KW
+8171,45+,Female,Locals,High School,20,back pain,KW
+8172,18-24,Male,Expats,Graduated,460,back pain,LB
+8173,25-44,Male,Expats,Graduated,780,back pain,LB
+8174,45+,Male,Expats,Graduated,180,back pain,LB
+8175,18-24,Female,Expats,Graduated,100,back pain,LB
+8176,25-44,Female,Expats,Graduated,380,back pain,LB
+8177,45+,Female,Expats,Graduated,160,back pain,LB
+8178,18-24,Male,Expats,No Degree,640,back pain,LB
+8179,25-44,Male,Expats,No Degree,970,back pain,LB
+8180,45+,Male,Expats,No Degree,330,back pain,LB
+8181,18-24,Female,Expats,No Degree,210,back pain,LB
+8182,25-44,Female,Expats,No Degree,460,back pain,LB
+8183,45+,Female,Expats,No Degree,260,back pain,LB
+8184,18-24,Male,Expats,High School,260,back pain,LB
+8185,25-44,Male,Expats,High School,290,back pain,LB
+8186,45+,Male,Expats,High School,70,back pain,LB
+8187,18-24,Female,Expats,High School,130,back pain,LB
+8188,25-44,Female,Expats,High School,160,back pain,LB
+8189,45+,Female,Expats,High School,70,back pain,LB
+8190,18-24,Male,Locals,Graduated,1300,back pain,LB
+8191,25-44,Male,Locals,Graduated,2600,back pain,LB
+8192,45+,Male,Locals,Graduated,1100,back pain,LB
+8193,18-24,Female,Locals,Graduated,910,back pain,LB
+8194,25-44,Female,Locals,Graduated,1800,back pain,LB
+8195,45+,Female,Locals,Graduated,710,back pain,LB
+8196,18-24,Male,Locals,No Degree,2000,back pain,LB
+8197,25-44,Male,Locals,No Degree,2900,back pain,LB
+8198,45+,Male,Locals,No Degree,2300,back pain,LB
+8199,18-24,Female,Locals,No Degree,1200,back pain,LB
+8200,25-44,Female,Locals,No Degree,2500,back pain,LB
+8201,45+,Female,Locals,No Degree,1900,back pain,LB
+8202,18-24,Male,Locals,High School,1100,back pain,LB
+8203,25-44,Male,Locals,High School,780,back pain,LB
+8204,45+,Male,Locals,High School,340,back pain,LB
+8205,18-24,Female,Locals,High School,1100,back pain,LB
+8206,25-44,Female,Locals,High School,560,back pain,LB
+8207,45+,Female,Locals,High School,280,back pain,LB
+8208,18-24,Male,Expats,Graduated,410,back pain,LY
+8209,25-44,Male,Expats,Graduated,1200,back pain,LY
+8210,45+,Male,Expats,Graduated,310,back pain,LY
+8211,18-24,Female,Expats,Graduated,150,back pain,LY
+8212,25-44,Female,Expats,Graduated,420,back pain,LY
+8213,45+,Female,Expats,Graduated,120,back pain,LY
+8214,18-24,Male,Expats,No Degree,1100,back pain,LY
+8215,25-44,Male,Expats,No Degree,2200,back pain,LY
+8216,45+,Male,Expats,No Degree,610,back pain,LY
+8217,18-24,Female,Expats,No Degree,200,back pain,LY
+8218,25-44,Female,Expats,No Degree,590,back pain,LY
+8219,45+,Female,Expats,No Degree,300,back pain,LY
+8220,18-24,Male,Expats,High School,160,back pain,LY
+8221,25-44,Male,Expats,High School,340,back pain,LY
+8222,45+,Male,Expats,High School,90,back pain,LY
+8223,18-24,Female,Expats,High School,70,back pain,LY
+8224,25-44,Female,Expats,High School,100,back pain,LY
+8225,45+,Female,Expats,High School,40,back pain,LY
+8226,18-24,Male,Locals,Graduated,2200,back pain,LY
+8227,25-44,Male,Locals,Graduated,6300,back pain,LY
+8228,45+,Male,Locals,Graduated,2100,back pain,LY
+8229,18-24,Female,Locals,Graduated,1700,back pain,LY
+8230,25-44,Female,Locals,Graduated,4200,back pain,LY
+8231,45+,Female,Locals,Graduated,1100,back pain,LY
+8232,18-24,Male,Locals,No Degree,3000,back pain,LY
+8233,25-44,Male,Locals,No Degree,8100,back pain,LY
+8234,45+,Male,Locals,No Degree,3900,back pain,LY
+8235,18-24,Female,Locals,No Degree,2100,back pain,LY
+8236,25-44,Female,Locals,No Degree,6000,back pain,LY
+8237,45+,Female,Locals,No Degree,3100,back pain,LY
+8238,18-24,Male,Locals,High School,1200,back pain,LY
+8239,25-44,Male,Locals,High School,1600,back pain,LY
+8240,45+,Male,Locals,High School,630,back pain,LY
+8241,18-24,Female,Locals,High School,1100,back pain,LY
+8242,25-44,Female,Locals,High School,1100,back pain,LY
+8243,45+,Female,Locals,High School,400,back pain,LY
+8244,18-24,Male,Expats,Graduated,390,back pain,MA
+8245,25-44,Male,Expats,Graduated,290,back pain,MA
+8246,45+,Male,Expats,Graduated,60,back pain,MA
+8247,18-24,Female,Expats,Graduated,100,back pain,MA
+8248,25-44,Female,Expats,Graduated,90,back pain,MA
+8249,45+,Female,Expats,Graduated,30,back pain,MA
+8250,18-24,Male,Expats,No Degree,180,back pain,MA
+8251,25-44,Male,Expats,No Degree,300,back pain,MA
+8252,45+,Male,Expats,No Degree,100,back pain,MA
+8253,18-24,Female,Expats,No Degree,90,back pain,MA
+8254,25-44,Female,Expats,No Degree,100,back pain,MA
+8255,45+,Female,Expats,No Degree,40,back pain,MA
+8256,18-24,Male,Expats,High School,170,back pain,MA
+8257,25-44,Male,Expats,High School,80,back pain,MA
+8258,45+,Male,Expats,High School,20,back pain,MA
+8259,18-24,Female,Expats,High School,60,back pain,MA
+8260,25-44,Female,Expats,High School,30,back pain,MA
+8261,45+,Female,Expats,High School,20,back pain,MA
+8262,18-24,Male,Locals,Graduated,2400,back pain,MA
+8263,25-44,Male,Locals,Graduated,2100,back pain,MA
+8264,45+,Male,Locals,Graduated,450,back pain,MA
+8265,18-24,Female,Locals,Graduated,1200,back pain,MA
+8266,25-44,Female,Locals,Graduated,920,back pain,MA
+8267,45+,Female,Locals,Graduated,190,back pain,MA
+8268,18-24,Male,Locals,No Degree,3000,back pain,MA
+8269,25-44,Male,Locals,No Degree,3300,back pain,MA
+8270,45+,Male,Locals,No Degree,930,back pain,MA
+8271,18-24,Female,Locals,No Degree,1900,back pain,MA
+8272,25-44,Female,Locals,No Degree,1200,back pain,MA
+8273,45+,Female,Locals,No Degree,410,back pain,MA
+8274,18-24,Male,Locals,High School,1200,back pain,MA
+8275,25-44,Male,Locals,High School,630,back pain,MA
+8276,45+,Male,Locals,High School,170,back pain,MA
+8277,18-24,Female,Locals,High School,680,back pain,MA
+8278,25-44,Female,Locals,High School,270,back pain,MA
+8279,45+,Female,Locals,High School,110,back pain,MA
+8280,18-24,Male,Expats,Graduated,480,back pain,OM
+8281,25-44,Male,Expats,Graduated,1800,back pain,OM
+8282,45+,Male,Expats,Graduated,260,back pain,OM
+8283,18-24,Female,Expats,Graduated,30,back pain,OM
+8284,25-44,Female,Expats,Graduated,650,back pain,OM
+8285,45+,Female,Expats,Graduated,260,back pain,OM
+8286,18-24,Male,Expats,No Degree,500,back pain,OM
+8287,25-44,Male,Expats,No Degree,1400,back pain,OM
+8288,45+,Male,Expats,No Degree,220,back pain,OM
+8289,18-24,Female,Expats,No Degree,50,back pain,OM
+8290,25-44,Female,Expats,No Degree,740,back pain,OM
+8291,45+,Female,Expats,No Degree,250,back pain,OM
+8292,18-24,Male,Expats,High School,170,back pain,OM
+8293,25-44,Male,Expats,High School,450,back pain,OM
+8294,45+,Male,Expats,High School,70,back pain,OM
+8295,18-24,Female,Expats,High School,20,back pain,OM
+8296,25-44,Female,Expats,High School,250,back pain,OM
+8297,45+,Female,Expats,High School,100,back pain,OM
+8298,18-24,Male,Locals,Graduated,30,back pain,OM
+8299,25-44,Male,Locals,Graduated,100,back pain,OM
+8300,45+,Male,Locals,Graduated,20,back pain,OM
+8301,18-24,Female,Locals,Graduated,20,back pain,OM
+8302,25-44,Female,Locals,Graduated,20,back pain,OM
+8303,45+,Female,Locals,Graduated,20,back pain,OM
+8304,18-24,Male,Locals,No Degree,30,back pain,OM
+8305,25-44,Male,Locals,No Degree,50,back pain,OM
+8306,45+,Male,Locals,No Degree,20,back pain,OM
+8307,18-24,Female,Locals,No Degree,20,back pain,OM
+8308,25-44,Female,Locals,No Degree,20,back pain,OM
+8309,45+,Female,Locals,No Degree,20,back pain,OM
+8310,18-24,Male,Locals,High School,20,back pain,OM
+8311,25-44,Male,Locals,High School,30,back pain,OM
+8312,45+,Male,Locals,High School,20,back pain,OM
+8313,18-24,Female,Locals,High School,20,back pain,OM
+8314,25-44,Female,Locals,High School,20,back pain,OM
+8315,45+,Female,Locals,High School,20,back pain,OM
+8316,18-24,Male,Expats,Graduated,720,back pain,QA
+8317,25-44,Male,Expats,Graduated,3000,back pain,QA
+8318,45+,Male,Expats,Graduated,800,back pain,QA
+8319,18-24,Female,Expats,Graduated,400,back pain,QA
+8320,25-44,Female,Expats,Graduated,3000,back pain,QA
+8321,45+,Female,Expats,Graduated,840,back pain,QA
+8322,18-24,Male,Expats,No Degree,550,back pain,QA
+8323,25-44,Male,Expats,No Degree,1500,back pain,QA
+8324,45+,Male,Expats,No Degree,610,back pain,QA
+8325,18-24,Female,Expats,No Degree,360,back pain,QA
+8326,25-44,Female,Expats,No Degree,2000,back pain,QA
+8327,45+,Female,Expats,No Degree,750,back pain,QA
+8328,18-24,Male,Expats,High School,210,back pain,QA
+8329,25-44,Male,Expats,High School,750,back pain,QA
+8330,45+,Male,Expats,High School,250,back pain,QA
+8331,18-24,Female,Expats,High School,180,back pain,QA
+8332,25-44,Female,Expats,High School,910,back pain,QA
+8333,45+,Female,Expats,High School,290,back pain,QA
+8334,18-24,Male,Locals,Graduated,20,back pain,QA
+8335,25-44,Male,Locals,Graduated,70,back pain,QA
+8336,45+,Male,Locals,Graduated,20,back pain,QA
+8337,18-24,Female,Locals,Graduated,20,back pain,QA
+8338,25-44,Female,Locals,Graduated,50,back pain,QA
+8339,45+,Female,Locals,Graduated,20,back pain,QA
+8340,18-24,Male,Locals,No Degree,20,back pain,QA
+8341,25-44,Male,Locals,No Degree,30,back pain,QA
+8342,45+,Male,Locals,No Degree,20,back pain,QA
+8343,18-24,Female,Locals,No Degree,20,back pain,QA
+8344,25-44,Female,Locals,No Degree,70,back pain,QA
+8345,45+,Female,Locals,No Degree,20,back pain,QA
+8346,18-24,Male,Locals,High School,20,back pain,QA
+8347,25-44,Male,Locals,High School,20,back pain,QA
+8348,45+,Male,Locals,High School,20,back pain,QA
+8349,18-24,Female,Locals,High School,20,back pain,QA
+8350,25-44,Female,Locals,High School,20,back pain,QA
+8351,45+,Female,Locals,High School,20,back pain,QA
+8352,18-24,Male,Expats,Graduated,2600,back pain,SA
+8353,25-44,Male,Expats,Graduated,15000,back pain,SA
+8354,45+,Male,Expats,Graduated,3500,back pain,SA
+8355,18-24,Female,Expats,Graduated,350,back pain,SA
+8356,25-44,Female,Expats,Graduated,6600,back pain,SA
+8357,45+,Female,Expats,Graduated,2300,back pain,SA
+8358,18-24,Male,Expats,No Degree,600,back pain,SA
+8359,25-44,Male,Expats,No Degree,2800,back pain,SA
+8360,45+,Male,Expats,No Degree,850,back pain,SA
+8361,18-24,Female,Expats,No Degree,120,back pain,SA
+8362,25-44,Female,Expats,No Degree,2000,back pain,SA
+8363,45+,Female,Expats,No Degree,700,back pain,SA
+8364,18-24,Male,Expats,High School,810,back pain,SA
+8365,25-44,Male,Expats,High School,3800,back pain,SA
+8366,45+,Male,Expats,High School,960,back pain,SA
+8367,18-24,Female,Expats,High School,200,back pain,SA
+8368,25-44,Female,Expats,High School,2300,back pain,SA
+8369,45+,Female,Expats,High School,790,back pain,SA
+8370,18-24,Male,Locals,Graduated,890,back pain,SA
+8371,25-44,Male,Locals,Graduated,4700,back pain,SA
+8372,45+,Male,Locals,Graduated,950,back pain,SA
+8373,18-24,Female,Locals,Graduated,170,back pain,SA
+8374,25-44,Female,Locals,Graduated,1700,back pain,SA
+8375,45+,Female,Locals,Graduated,540,back pain,SA
+8376,18-24,Male,Locals,No Degree,4700,back pain,SA
+8377,25-44,Male,Locals,No Degree,15000,back pain,SA
+8378,45+,Male,Locals,No Degree,3700,back pain,SA
+8379,18-24,Female,Locals,No Degree,570,back pain,SA
+8380,25-44,Female,Locals,No Degree,5600,back pain,SA
+8381,45+,Female,Locals,No Degree,1900,back pain,SA
+8382,18-24,Male,Locals,High School,580,back pain,SA
+8383,25-44,Male,Locals,High School,1700,back pain,SA
+8384,45+,Male,Locals,High School,480,back pain,SA
+8385,18-24,Female,Locals,High School,150,back pain,SA
+8386,25-44,Female,Locals,High School,770,back pain,SA
+8387,45+,Female,Locals,High School,260,back pain,SA
+8388,18-24,Male,Expats,Graduated,20,back pain,SO
+8389,25-44,Male,Expats,Graduated,40,back pain,SO
+8390,45+,Male,Expats,Graduated,20,back pain,SO
+8391,18-24,Female,Expats,Graduated,20,back pain,SO
+8392,25-44,Female,Expats,Graduated,20,back pain,SO
+8393,45+,Female,Expats,Graduated,20,back pain,SO
+8394,18-24,Male,Expats,No Degree,20,back pain,SO
+8395,25-44,Male,Expats,No Degree,40,back pain,SO
+8396,45+,Male,Expats,No Degree,20,back pain,SO
+8397,18-24,Female,Expats,No Degree,20,back pain,SO
+8398,25-44,Female,Expats,No Degree,20,back pain,SO
+8399,45+,Female,Expats,No Degree,20,back pain,SO
+8400,18-24,Male,Expats,High School,20,back pain,SO
+8401,25-44,Male,Expats,High School,20,back pain,SO
+8402,45+,Male,Expats,High School,20,back pain,SO
+8403,18-24,Female,Expats,High School,20,back pain,SO
+8404,25-44,Female,Expats,High School,20,back pain,SO
+8405,45+,Female,Expats,High School,20,back pain,SO
+8406,18-24,Male,Locals,Graduated,90,back pain,SO
+8407,25-44,Male,Locals,Graduated,90,back pain,SO
+8408,45+,Male,Locals,Graduated,20,back pain,SO
+8409,18-24,Female,Locals,Graduated,20,back pain,SO
+8410,25-44,Female,Locals,Graduated,20,back pain,SO
+8411,45+,Female,Locals,Graduated,20,back pain,SO
+8412,18-24,Male,Locals,No Degree,430,back pain,SO
+8413,25-44,Male,Locals,No Degree,250,back pain,SO
+8414,45+,Male,Locals,No Degree,40,back pain,SO
+8415,18-24,Female,Locals,No Degree,90,back pain,SO
+8416,25-44,Female,Locals,No Degree,30,back pain,SO
+8417,45+,Female,Locals,No Degree,20,back pain,SO
+8418,18-24,Male,Locals,High School,20,back pain,SO
+8419,25-44,Male,Locals,High School,20,back pain,SO
+8420,45+,Male,Locals,High School,20,back pain,SO
+8421,18-24,Female,Locals,High School,20,back pain,SO
+8422,25-44,Female,Locals,High School,20,back pain,SO
+8423,45+,Female,Locals,High School,20,back pain,SO
+8424,18-24,Male,Expats,Graduated,810,back pain,TN
+8425,25-44,Male,Expats,Graduated,1300,back pain,TN
+8426,45+,Male,Expats,Graduated,540,back pain,TN
+8427,18-24,Female,Expats,Graduated,330,back pain,TN
+8428,25-44,Female,Expats,Graduated,340,back pain,TN
+8429,45+,Female,Expats,Graduated,150,back pain,TN
+8430,18-24,Male,Expats,No Degree,540,back pain,TN
+8431,25-44,Male,Expats,No Degree,1700,back pain,TN
+8432,45+,Male,Expats,No Degree,900,back pain,TN
+8433,18-24,Female,Expats,No Degree,260,back pain,TN
+8434,25-44,Female,Expats,No Degree,370,back pain,TN
+8435,45+,Female,Expats,No Degree,210,back pain,TN
+8436,18-24,Male,Expats,High School,380,back pain,TN
+8437,25-44,Male,Expats,High School,410,back pain,TN
+8438,45+,Male,Expats,High School,230,back pain,TN
+8439,18-24,Female,Expats,High School,160,back pain,TN
+8440,25-44,Female,Expats,High School,90,back pain,TN
+8441,45+,Female,Expats,High School,80,back pain,TN
+8442,18-24,Male,Locals,Graduated,5100,back pain,TN
+8443,25-44,Male,Locals,Graduated,12000,back pain,TN
+8444,45+,Male,Locals,Graduated,5800,back pain,TN
+8445,18-24,Female,Locals,Graduated,3900,back pain,TN
+8446,25-44,Female,Locals,Graduated,4800,back pain,TN
+8447,45+,Female,Locals,Graduated,2000,back pain,TN
+8448,18-24,Male,Locals,No Degree,6800,back pain,TN
+8449,25-44,Male,Locals,No Degree,20000,back pain,TN
+8450,45+,Male,Locals,No Degree,12000,back pain,TN
+8451,18-24,Female,Locals,No Degree,5000,back pain,TN
+8452,25-44,Female,Locals,No Degree,6000,back pain,TN
+8453,45+,Female,Locals,No Degree,5700,back pain,TN
+8454,18-24,Male,Locals,High School,2800,back pain,TN
+8455,25-44,Male,Locals,High School,4600,back pain,TN
+8456,45+,Male,Locals,High School,2900,back pain,TN
+8457,18-24,Female,Locals,High School,2300,back pain,TN
+8458,25-44,Female,Locals,High School,1500,back pain,TN
+8459,45+,Female,Locals,High School,1400,back pain,TN
+8460,18-24,Male,Expats,Graduated,5800,back pain,AE
+8461,25-44,Male,Expats,Graduated,32000,back pain,AE
+8462,45+,Male,Expats,Graduated,8700,back pain,AE
+8463,18-24,Female,Expats,Graduated,1400,back pain,AE
+8464,25-44,Female,Expats,Graduated,13000,back pain,AE
+8465,45+,Female,Expats,Graduated,4400,back pain,AE
+8466,18-24,Male,Expats,No Degree,8200,back pain,AE
+8467,25-44,Male,Expats,No Degree,30000,back pain,AE
+8468,45+,Male,Expats,No Degree,11000,back pain,AE
+8469,18-24,Female,Expats,No Degree,1500,back pain,AE
+8470,25-44,Female,Expats,No Degree,7700,back pain,AE
+8471,45+,Female,Expats,No Degree,3700,back pain,AE
+8472,18-24,Male,Expats,High School,2000,back pain,AE
+8473,25-44,Male,Expats,High School,7800,back pain,AE
+8474,45+,Male,Expats,High School,2700,back pain,AE
+8475,18-24,Female,Expats,High School,660,back pain,AE
+8476,25-44,Female,Expats,High School,3400,back pain,AE
+8477,45+,Female,Expats,High School,1300,back pain,AE
+8478,18-24,Male,Locals,Graduated,160,back pain,AE
+8479,25-44,Male,Locals,Graduated,720,back pain,AE
+8480,45+,Male,Locals,Graduated,200,back pain,AE
+8481,18-24,Female,Locals,Graduated,60,back pain,AE
+8482,25-44,Female,Locals,Graduated,250,back pain,AE
+8483,45+,Female,Locals,Graduated,70,back pain,AE
+8484,18-24,Male,Locals,No Degree,420,back pain,AE
+8485,25-44,Male,Locals,No Degree,1700,back pain,AE
+8486,45+,Male,Locals,No Degree,800,back pain,AE
+8487,18-24,Female,Locals,No Degree,180,back pain,AE
+8488,25-44,Female,Locals,No Degree,640,back pain,AE
+8489,45+,Female,Locals,No Degree,210,back pain,AE
+8490,18-24,Male,Locals,High School,100,back pain,AE
+8491,25-44,Male,Locals,High School,200,back pain,AE
+8492,45+,Male,Locals,High School,60,back pain,AE
+8493,18-24,Female,Locals,High School,50,back pain,AE
+8494,25-44,Female,Locals,High School,80,back pain,AE
+8495,45+,Female,Locals,High School,30,back pain,AE
+8496,18-24,Male,Expats,Graduated,210,back pain,YE
+8497,25-44,Male,Expats,Graduated,440,back pain,YE
+8498,45+,Male,Expats,Graduated,70,back pain,YE
+8499,18-24,Female,Expats,Graduated,30,back pain,YE
+8500,25-44,Female,Expats,Graduated,50,back pain,YE
+8501,45+,Female,Expats,Graduated,20,back pain,YE
+8502,18-24,Male,Expats,No Degree,120,back pain,YE
+8503,25-44,Male,Expats,No Degree,220,back pain,YE
+8504,45+,Male,Expats,No Degree,40,back pain,YE
+8505,18-24,Female,Expats,No Degree,60,back pain,YE
+8506,25-44,Female,Expats,No Degree,50,back pain,YE
+8507,45+,Female,Expats,No Degree,20,back pain,YE
+8508,18-24,Male,Expats,High School,130,back pain,YE
+8509,25-44,Male,Expats,High School,100,back pain,YE
+8510,45+,Male,Expats,High School,20,back pain,YE
+8511,18-24,Female,Expats,High School,50,back pain,YE
+8512,25-44,Female,Expats,High School,20,back pain,YE
+8513,45+,Female,Expats,High School,20,back pain,YE
+8514,18-24,Male,Locals,Graduated,1900,back pain,YE
+8515,25-44,Male,Locals,Graduated,4600,back pain,YE
+8516,45+,Male,Locals,Graduated,630,back pain,YE
+8517,18-24,Female,Locals,Graduated,380,back pain,YE
+8518,25-44,Female,Locals,Graduated,600,back pain,YE
+8519,45+,Female,Locals,Graduated,80,back pain,YE
+8520,18-24,Male,Locals,No Degree,1900,back pain,YE
+8521,25-44,Male,Locals,No Degree,2900,back pain,YE
+8522,45+,Male,Locals,No Degree,680,back pain,YE
+8523,18-24,Female,Locals,No Degree,410,back pain,YE
+8524,25-44,Female,Locals,No Degree,460,back pain,YE
+8525,45+,Female,Locals,No Degree,130,back pain,YE
+8526,18-24,Male,Locals,High School,1400,back pain,YE
+8527,25-44,Male,Locals,High School,1200,back pain,YE
+8528,45+,Male,Locals,High School,200,back pain,YE
+8529,18-24,Female,Locals,High School,480,back pain,YE
+8530,25-44,Female,Locals,High School,150,back pain,YE
+8531,45+,Female,Locals,High School,30,back pain,YE
+8532,18-24,Male,Expats,Graduated,80,back pain,PS
+8533,25-44,Male,Expats,Graduated,180,back pain,PS
+8534,45+,Male,Expats,Graduated,60,back pain,PS
+8535,18-24,Female,Expats,Graduated,70,back pain,PS
+8536,25-44,Female,Expats,Graduated,140,back pain,PS
+8537,45+,Female,Expats,Graduated,80,back pain,PS
+8538,18-24,Male,Expats,No Degree,30,back pain,PS
+8539,25-44,Male,Expats,No Degree,70,back pain,PS
+8540,45+,Male,Expats,No Degree,60,back pain,PS
+8541,18-24,Female,Expats,No Degree,40,back pain,PS
+8542,25-44,Female,Expats,No Degree,80,back pain,PS
+8543,45+,Female,Expats,No Degree,120,back pain,PS
+8544,18-24,Male,Expats,High School,40,back pain,PS
+8545,25-44,Male,Expats,High School,40,back pain,PS
+8546,45+,Male,Expats,High School,20,back pain,PS
+8547,18-24,Female,Expats,High School,70,back pain,PS
+8548,25-44,Female,Expats,High School,50,back pain,PS
+8549,45+,Female,Expats,High School,30,back pain,PS
+8550,18-24,Male,Locals,Graduated,230,back pain,PS
+8551,25-44,Male,Locals,Graduated,730,back pain,PS
+8552,45+,Male,Locals,Graduated,270,back pain,PS
+8553,18-24,Female,Locals,Graduated,300,back pain,PS
+8554,25-44,Female,Locals,Graduated,660,back pain,PS
+8555,45+,Female,Locals,Graduated,330,back pain,PS
+8556,18-24,Male,Locals,No Degree,160,back pain,PS
+8557,25-44,Male,Locals,No Degree,450,back pain,PS
+8558,45+,Male,Locals,No Degree,340,back pain,PS
+8559,18-24,Female,Locals,No Degree,200,back pain,PS
+8560,25-44,Female,Locals,No Degree,530,back pain,PS
+8561,45+,Female,Locals,No Degree,720,back pain,PS
+8562,18-24,Male,Locals,High School,130,back pain,PS
+8563,25-44,Male,Locals,High School,220,back pain,PS
+8564,45+,Male,Locals,High School,110,back pain,PS
+8565,18-24,Female,Locals,High School,320,back pain,PS
+8566,25-44,Female,Locals,High School,180,back pain,PS
+8567,45+,Female,Locals,High School,140,back pain,PS
+9180,18-24,Male,Expats,Graduated,190000,luxury,DZ
+9181,25-44,Male,Expats,Graduated,210000,luxury,DZ
+9182,45+,Male,Expats,Graduated,27000,luxury,DZ
+9183,18-24,Female,Expats,Graduated,82000,luxury,DZ
+9184,25-44,Female,Expats,Graduated,54000,luxury,DZ
+9185,45+,Female,Expats,Graduated,7900,luxury,DZ
+9186,18-24,Male,Expats,No Degree,180000,luxury,DZ
+9187,25-44,Male,Expats,No Degree,290000,luxury,DZ
+9188,45+,Male,Expats,No Degree,47000,luxury,DZ
+9189,18-24,Female,Expats,No Degree,110000,luxury,DZ
+9190,25-44,Female,Expats,No Degree,96000,luxury,DZ
+9191,45+,Female,Expats,No Degree,14000,luxury,DZ
+9192,18-24,Male,Expats,High School,71000,luxury,DZ
+9193,25-44,Male,Expats,High School,50000,luxury,DZ
+9194,45+,Male,Expats,High School,9100,luxury,DZ
+9195,18-24,Female,Expats,High School,33000,luxury,DZ
+9196,25-44,Female,Expats,High School,15000,luxury,DZ
+9197,45+,Female,Expats,High School,3400,luxury,DZ
+9198,18-24,Male,Locals,Graduated,880000,luxury,DZ
+9199,25-44,Male,Locals,Graduated,1300000,luxury,DZ
+9200,45+,Male,Locals,Graduated,150000,luxury,DZ
+9201,18-24,Female,Locals,Graduated,630000,luxury,DZ
+9202,25-44,Female,Locals,Graduated,610000,luxury,DZ
+9203,45+,Female,Locals,Graduated,54000,luxury,DZ
+9204,18-24,Male,Locals,No Degree,1800000,luxury,DZ
+9205,25-44,Male,Locals,No Degree,2400000,luxury,DZ
+9206,45+,Male,Locals,No Degree,390000,luxury,DZ
+9207,18-24,Female,Locals,No Degree,1400000,luxury,DZ
+9208,25-44,Female,Locals,No Degree,1100000,luxury,DZ
+9209,45+,Female,Locals,No Degree,160000,luxury,DZ
+9210,18-24,Male,Locals,High School,410000,luxury,DZ
+9211,25-44,Male,Locals,High School,390000,luxury,DZ
+9212,45+,Male,Locals,High School,59000,luxury,DZ
+9213,18-24,Female,Locals,High School,320000,luxury,DZ
+9214,25-44,Female,Locals,High School,150000,luxury,DZ
+9215,45+,Female,Locals,High School,24000,luxury,DZ
+9216,18-24,Male,Expats,Graduated,27000,luxury,BH
+9217,25-44,Male,Expats,Graduated,140000,luxury,BH
+9218,45+,Male,Expats,Graduated,21000,luxury,BH
+9219,18-24,Female,Expats,Graduated,7700,luxury,BH
+9220,25-44,Female,Expats,Graduated,49000,luxury,BH
+9221,45+,Female,Expats,Graduated,8700,luxury,BH
+9222,18-24,Male,Expats,No Degree,59000,luxury,BH
+9223,25-44,Male,Expats,No Degree,160000,luxury,BH
+9224,45+,Male,Expats,No Degree,29000,luxury,BH
+9225,18-24,Female,Expats,No Degree,17000,luxury,BH
+9226,25-44,Female,Expats,No Degree,39000,luxury,BH
+9227,45+,Female,Expats,No Degree,9100,luxury,BH
+9228,18-24,Male,Expats,High School,13000,luxury,BH
+9229,25-44,Male,Expats,High School,39000,luxury,BH
+9230,45+,Male,Expats,High School,6800,luxury,BH
+9231,18-24,Female,Expats,High School,5200,luxury,BH
+9232,25-44,Female,Expats,High School,15000,luxury,BH
+9233,45+,Female,Expats,High School,2900,luxury,BH
+9234,18-24,Male,Locals,Graduated,6700,luxury,BH
+9235,25-44,Male,Locals,Graduated,22000,luxury,BH
+9236,45+,Male,Locals,Graduated,3900,luxury,BH
+9237,18-24,Female,Locals,Graduated,4100,luxury,BH
+9238,25-44,Female,Locals,Graduated,13000,luxury,BH
+9239,45+,Female,Locals,Graduated,1300,luxury,BH
+9240,18-24,Male,Locals,No Degree,18000,luxury,BH
+9241,25-44,Male,Locals,No Degree,31000,luxury,BH
+9242,45+,Male,Locals,No Degree,8200,luxury,BH
+9243,18-24,Female,Locals,No Degree,9800,luxury,BH
+9244,25-44,Female,Locals,No Degree,16000,luxury,BH
+9245,45+,Female,Locals,No Degree,3300,luxury,BH
+9246,18-24,Male,Locals,High School,4700,luxury,BH
+9247,25-44,Male,Locals,High School,6600,luxury,BH
+9248,45+,Male,Locals,High School,1300,luxury,BH
+9249,18-24,Female,Locals,High School,4500,luxury,BH
+9250,25-44,Female,Locals,High School,3200,luxury,BH
+9251,45+,Female,Locals,High School,410,luxury,BH
+9252,18-24,Male,Expats,Graduated,130000,luxury,EG
+9253,25-44,Male,Expats,Graduated,240000,luxury,EG
+9254,45+,Male,Expats,Graduated,40000,luxury,EG
+9255,18-24,Female,Expats,Graduated,57000,luxury,EG
+9256,25-44,Female,Expats,Graduated,89000,luxury,EG
+9257,45+,Female,Expats,Graduated,15000,luxury,EG
+9258,18-24,Male,Expats,No Degree,100000,luxury,EG
+9259,25-44,Male,Expats,No Degree,160000,luxury,EG
+9260,45+,Male,Expats,No Degree,36000,luxury,EG
+9261,18-24,Female,Expats,No Degree,55000,luxury,EG
+9262,25-44,Female,Expats,No Degree,68000,luxury,EG
+9263,45+,Female,Expats,No Degree,18000,luxury,EG
+9264,18-24,Male,Expats,High School,67000,luxury,EG
+9265,25-44,Male,Expats,High School,55000,luxury,EG
+9266,45+,Male,Expats,High School,9800,luxury,EG
+9267,18-24,Female,Expats,High School,38000,luxury,EG
+9268,25-44,Female,Expats,High School,23000,luxury,EG
+9269,45+,Female,Expats,High School,4800,luxury,EG
+9270,18-24,Male,Locals,Graduated,2200000,luxury,EG
+9271,25-44,Male,Locals,Graduated,3800000,luxury,EG
+9272,45+,Male,Locals,Graduated,620000,luxury,EG
+9273,18-24,Female,Locals,Graduated,1400000,luxury,EG
+9274,25-44,Female,Locals,Graduated,1900000,luxury,EG
+9275,45+,Female,Locals,Graduated,270000,luxury,EG
+9276,18-24,Male,Locals,No Degree,2600000,luxury,EG
+9277,25-44,Male,Locals,No Degree,3800000,luxury,EG
+9278,45+,Male,Locals,No Degree,1100000,luxury,EG
+9279,18-24,Female,Locals,No Degree,1700000,luxury,EG
+9280,25-44,Female,Locals,No Degree,1800000,luxury,EG
+9281,45+,Female,Locals,No Degree,560000,luxury,EG
+9282,18-24,Male,Locals,High School,1300000,luxury,EG
+9283,25-44,Male,Locals,High School,920000,luxury,EG
+9284,45+,Male,Locals,High School,170000,luxury,EG
+9285,18-24,Female,Locals,High School,1000000,luxury,EG
+9286,25-44,Female,Locals,High School,400000,luxury,EG
+9287,45+,Female,Locals,High School,68000,luxury,EG
+9288,18-24,Male,Expats,Graduated,93000,luxury,IQ
+9289,25-44,Male,Expats,Graduated,170000,luxury,IQ
+9290,45+,Male,Expats,Graduated,23000,luxury,IQ
+9291,18-24,Female,Expats,Graduated,25000,luxury,IQ
+9292,25-44,Female,Expats,Graduated,34000,luxury,IQ
+9293,45+,Female,Expats,Graduated,3800,luxury,IQ
+9294,18-24,Male,Expats,No Degree,100000,luxury,IQ
+9295,25-44,Male,Expats,No Degree,140000,luxury,IQ
+9296,45+,Male,Expats,No Degree,24000,luxury,IQ
+9297,18-24,Female,Expats,No Degree,50000,luxury,IQ
+9298,25-44,Female,Expats,No Degree,43000,luxury,IQ
+9299,45+,Female,Expats,No Degree,6900,luxury,IQ
+9300,18-24,Male,Expats,High School,46000,luxury,IQ
+9301,25-44,Male,Expats,High School,50000,luxury,IQ
+9302,45+,Male,Expats,High School,6900,luxury,IQ
+9303,18-24,Female,Expats,High School,17000,luxury,IQ
+9304,25-44,Female,Expats,High School,11000,luxury,IQ
+9305,45+,Female,Expats,High School,1400,luxury,IQ
+9306,18-24,Male,Locals,Graduated,870000,luxury,IQ
+9307,25-44,Male,Locals,Graduated,1600000,luxury,IQ
+9308,45+,Male,Locals,Graduated,230000,luxury,IQ
+9309,18-24,Female,Locals,Graduated,290000,luxury,IQ
+9310,25-44,Female,Locals,Graduated,390000,luxury,IQ
+9311,45+,Female,Locals,Graduated,57000,luxury,IQ
+9312,18-24,Male,Locals,No Degree,2000000,luxury,IQ
+9313,25-44,Male,Locals,No Degree,2100000,luxury,IQ
+9314,45+,Male,Locals,No Degree,480000,luxury,IQ
+9315,18-24,Female,Locals,No Degree,850000,luxury,IQ
+9316,25-44,Female,Locals,No Degree,710000,luxury,IQ
+9317,45+,Female,Locals,No Degree,170000,luxury,IQ
+9318,18-24,Male,Locals,High School,530000,luxury,IQ
+9319,25-44,Male,Locals,High School,480000,luxury,IQ
+9320,45+,Male,Locals,High School,79000,luxury,IQ
+9321,18-24,Female,Locals,High School,250000,luxury,IQ
+9322,25-44,Female,Locals,High School,130000,luxury,IQ
+9323,45+,Female,Locals,High School,21000,luxury,IQ
+9324,18-24,Male,Expats,Graduated,68000,luxury,JO
+9325,25-44,Male,Expats,Graduated,150000,luxury,JO
+9326,45+,Male,Expats,Graduated,25000,luxury,JO
+9327,18-24,Female,Expats,Graduated,40000,luxury,JO
+9328,25-44,Female,Expats,Graduated,81000,luxury,JO
+9329,45+,Female,Expats,Graduated,17000,luxury,JO
+9330,18-24,Male,Expats,No Degree,110000,luxury,JO
+9331,25-44,Male,Expats,No Degree,170000,luxury,JO
+9332,45+,Male,Expats,No Degree,37000,luxury,JO
+9333,18-24,Female,Expats,No Degree,68000,luxury,JO
+9334,25-44,Female,Expats,No Degree,81000,luxury,JO
+9335,45+,Female,Expats,No Degree,27000,luxury,JO
+9336,18-24,Male,Expats,High School,50000,luxury,JO
+9337,25-44,Male,Expats,High School,47000,luxury,JO
+9338,45+,Male,Expats,High School,8200,luxury,JO
+9339,18-24,Female,Expats,High School,44000,luxury,JO
+9340,25-44,Female,Expats,High School,27000,luxury,JO
+9341,45+,Female,Expats,High School,6500,luxury,JO
+9342,18-24,Male,Locals,Graduated,200000,luxury,JO
+9343,25-44,Male,Locals,Graduated,370000,luxury,JO
+9344,45+,Male,Locals,Graduated,73000,luxury,JO
+9345,18-24,Female,Locals,Graduated,130000,luxury,JO
+9346,25-44,Female,Locals,Graduated,230000,luxury,JO
+9347,45+,Female,Locals,Graduated,35000,luxury,JO
+9348,18-24,Male,Locals,No Degree,340000,luxury,JO
+9349,25-44,Male,Locals,No Degree,390000,luxury,JO
+9350,45+,Male,Locals,No Degree,140000,luxury,JO
+9351,18-24,Female,Locals,No Degree,280000,luxury,JO
+9352,25-44,Female,Locals,No Degree,300000,luxury,JO
+9353,45+,Female,Locals,No Degree,100000,luxury,JO
+9354,18-24,Male,Locals,High School,160000,luxury,JO
+9355,25-44,Male,Locals,High School,120000,luxury,JO
+9356,45+,Male,Locals,High School,29000,luxury,JO
+9357,18-24,Female,Locals,High School,150000,luxury,JO
+9358,25-44,Female,Locals,High School,75000,luxury,JO
+9359,45+,Female,Locals,High School,15000,luxury,JO
+9360,18-24,Male,Expats,Graduated,47000,luxury,KW
+9361,25-44,Male,Expats,Graduated,380000,luxury,KW
+9362,45+,Male,Expats,Graduated,60000,luxury,KW
+9363,18-24,Female,Expats,Graduated,21000,luxury,KW
+9364,25-44,Female,Expats,Graduated,160000,luxury,KW
+9365,45+,Female,Expats,Graduated,23000,luxury,KW
+9366,18-24,Male,Expats,No Degree,150000,luxury,KW
+9367,25-44,Male,Expats,No Degree,490000,luxury,KW
+9368,45+,Male,Expats,No Degree,100000,luxury,KW
+9369,18-24,Female,Expats,No Degree,63000,luxury,KW
+9370,25-44,Female,Expats,No Degree,170000,luxury,KW
+9371,45+,Female,Expats,No Degree,33000,luxury,KW
+9372,18-24,Male,Expats,High School,25000,luxury,KW
+9373,25-44,Male,Expats,High School,110000,luxury,KW
+9374,45+,Male,Expats,High School,19000,luxury,KW
+9375,18-24,Female,Expats,High School,16000,luxury,KW
+9376,25-44,Female,Expats,High School,63000,luxury,KW
+9377,45+,Female,Expats,High School,8600,luxury,KW
+9378,18-24,Male,Locals,Graduated,6300,luxury,KW
+9379,25-44,Male,Locals,Graduated,29000,luxury,KW
+9380,45+,Male,Locals,Graduated,5500,luxury,KW
+9381,18-24,Female,Locals,Graduated,2900,luxury,KW
+9382,25-44,Female,Locals,Graduated,14000,luxury,KW
+9383,45+,Female,Locals,Graduated,2100,luxury,KW
+9384,18-24,Male,Locals,No Degree,35000,luxury,KW
+9385,25-44,Male,Locals,No Degree,73000,luxury,KW
+9386,45+,Male,Locals,No Degree,15000,luxury,KW
+9387,18-24,Female,Locals,No Degree,18000,luxury,KW
+9388,25-44,Female,Locals,No Degree,33000,luxury,KW
+9389,45+,Female,Locals,No Degree,6000,luxury,KW
+9390,18-24,Male,Locals,High School,4100,luxury,KW
+9391,25-44,Male,Locals,High School,7800,luxury,KW
+9392,45+,Male,Locals,High School,1500,luxury,KW
+9393,18-24,Female,Locals,High School,3000,luxury,KW
+9394,25-44,Female,Locals,High School,3400,luxury,KW
+9395,45+,Female,Locals,High School,480,luxury,KW
+9396,18-24,Male,Expats,Graduated,44000,luxury,LB
+9397,25-44,Male,Expats,Graduated,87000,luxury,LB
+9398,45+,Male,Expats,Graduated,12000,luxury,LB
+9399,18-24,Female,Expats,Graduated,17000,luxury,LB
+9400,25-44,Female,Expats,Graduated,44000,luxury,LB
+9401,45+,Female,Expats,Graduated,9600,luxury,LB
+9402,18-24,Male,Expats,No Degree,110000,luxury,LB
+9403,25-44,Male,Expats,No Degree,150000,luxury,LB
+9404,45+,Male,Expats,No Degree,25000,luxury,LB
+9405,18-24,Female,Expats,No Degree,56000,luxury,LB
+9406,25-44,Female,Expats,No Degree,73000,luxury,LB
+9407,45+,Female,Expats,No Degree,17000,luxury,LB
+9408,18-24,Male,Expats,High School,27000,luxury,LB
+9409,25-44,Male,Expats,High School,33000,luxury,LB
+9410,45+,Male,Expats,High School,4400,luxury,LB
+9411,18-24,Female,Expats,High School,13000,luxury,LB
+9412,25-44,Female,Expats,High School,19000,luxury,LB
+9413,45+,Female,Expats,High School,3900,luxury,LB
+9414,18-24,Male,Locals,Graduated,76000,luxury,LB
+9415,25-44,Male,Locals,Graduated,180000,luxury,LB
+9416,45+,Male,Locals,Graduated,51000,luxury,LB
+9417,18-24,Female,Locals,Graduated,69000,luxury,LB
+9418,25-44,Female,Locals,Graduated,160000,luxury,LB
+9419,45+,Female,Locals,Graduated,40000,luxury,LB
+9420,18-24,Male,Locals,No Degree,200000,luxury,LB
+9421,25-44,Male,Locals,No Degree,280000,luxury,LB
+9422,45+,Male,Locals,No Degree,130000,luxury,LB
+9423,18-24,Female,Locals,No Degree,140000,luxury,LB
+9424,25-44,Female,Locals,No Degree,220000,luxury,LB
+9425,45+,Female,Locals,No Degree,130000,luxury,LB
+9426,18-24,Male,Locals,High School,61000,luxury,LB
+9427,25-44,Male,Locals,High School,51000,luxury,LB
+9428,45+,Male,Locals,High School,16000,luxury,LB
+9429,18-24,Female,Locals,High School,69000,luxury,LB
+9430,25-44,Female,Locals,High School,46000,luxury,LB
+9431,45+,Female,Locals,High School,15000,luxury,LB
+9432,18-24,Male,Expats,Graduated,26000,luxury,LY
+9433,25-44,Male,Expats,Graduated,72000,luxury,LY
+9434,45+,Male,Expats,Graduated,9300,luxury,LY
+9435,18-24,Female,Expats,Graduated,8100,luxury,LY
+9436,25-44,Female,Expats,Graduated,17000,luxury,LY
+9437,45+,Female,Expats,Graduated,3200,luxury,LY
+9438,18-24,Male,Expats,No Degree,51000,luxury,LY
+9439,25-44,Male,Expats,No Degree,110000,luxury,LY
+9440,45+,Male,Expats,No Degree,15000,luxury,LY
+9441,18-24,Female,Expats,No Degree,14000,luxury,LY
+9442,25-44,Female,Expats,No Degree,24000,luxury,LY
+9443,45+,Female,Expats,No Degree,5200,luxury,LY
+9444,18-24,Male,Expats,High School,11000,luxury,LY
+9445,25-44,Male,Expats,High School,19000,luxury,LY
+9446,45+,Male,Expats,High School,2800,luxury,LY
+9447,18-24,Female,Expats,High School,4700,luxury,LY
+9448,25-44,Female,Expats,High School,4500,luxury,LY
+9449,45+,Female,Expats,High School,900,luxury,LY
+9450,18-24,Male,Locals,Graduated,130000,luxury,LY
+9451,25-44,Male,Locals,Graduated,290000,luxury,LY
+9452,45+,Male,Locals,Graduated,49000,luxury,LY
+9453,18-24,Female,Locals,Graduated,96000,luxury,LY
+9454,25-44,Female,Locals,Graduated,160000,luxury,LY
+9455,45+,Female,Locals,Graduated,20000,luxury,LY
+9456,18-24,Male,Locals,No Degree,180000,luxury,LY
+9457,25-44,Male,Locals,No Degree,360000,luxury,LY
+9458,45+,Male,Locals,No Degree,86000,luxury,LY
+9459,18-24,Female,Locals,No Degree,140000,luxury,LY
+9460,25-44,Female,Locals,No Degree,230000,luxury,LY
+9461,45+,Female,Locals,No Degree,56000,luxury,LY
+9462,18-24,Male,Locals,High School,69000,luxury,LY
+9463,25-44,Male,Locals,High School,68000,luxury,LY
+9464,45+,Male,Locals,High School,15000,luxury,LY
+9465,18-24,Female,Locals,High School,71000,luxury,LY
+9466,25-44,Female,Locals,High School,41000,luxury,LY
+9467,45+,Female,Locals,High School,6500,luxury,LY
+9468,18-24,Male,Expats,Graduated,140000,luxury,MA
+9469,25-44,Male,Expats,Graduated,140000,luxury,MA
+9470,45+,Male,Expats,Graduated,19000,luxury,MA
+9471,18-24,Female,Expats,Graduated,53000,luxury,MA
+9472,25-44,Female,Expats,Graduated,46000,luxury,MA
+9473,45+,Female,Expats,Graduated,6700,luxury,MA
+9474,18-24,Male,Expats,No Degree,88000,luxury,MA
+9475,25-44,Male,Expats,No Degree,130000,luxury,MA
+9476,45+,Male,Expats,No Degree,28000,luxury,MA
+9477,18-24,Female,Expats,No Degree,57000,luxury,MA
+9478,25-44,Female,Expats,No Degree,63000,luxury,MA
+9479,45+,Female,Expats,No Degree,11000,luxury,MA
+9480,18-24,Male,Expats,High School,53000,luxury,MA
+9481,25-44,Male,Expats,High School,36000,luxury,MA
+9482,45+,Male,Expats,High School,6500,luxury,MA
+9483,18-24,Female,Expats,High School,23000,luxury,MA
+9484,25-44,Female,Expats,High School,14000,luxury,MA
+9485,45+,Female,Expats,High School,2800,luxury,MA
+9486,18-24,Male,Locals,Graduated,920000,luxury,MA
+9487,25-44,Male,Locals,Graduated,1100000,luxury,MA
+9488,45+,Male,Locals,Graduated,160000,luxury,MA
+9489,18-24,Female,Locals,Graduated,540000,luxury,MA
+9490,25-44,Female,Locals,Graduated,450000,luxury,MA
+9491,45+,Female,Locals,Graduated,57000,luxury,MA
+9492,18-24,Male,Locals,No Degree,1300000,luxury,MA
+9493,25-44,Male,Locals,No Degree,1600000,luxury,MA
+9494,45+,Male,Locals,No Degree,350000,luxury,MA
+9495,18-24,Female,Locals,No Degree,870000,luxury,MA
+9496,25-44,Female,Locals,No Degree,740000,luxury,MA
+9497,45+,Female,Locals,No Degree,140000,luxury,MA
+9498,18-24,Male,Locals,High School,410000,luxury,MA
+9499,25-44,Male,Locals,High School,300000,luxury,MA
+9500,45+,Male,Locals,High School,53000,luxury,MA
+9501,18-24,Female,Locals,High School,290000,luxury,MA
+9502,25-44,Female,Locals,High School,140000,luxury,MA
+9503,45+,Female,Locals,High School,24000,luxury,MA
+9504,18-24,Male,Expats,Graduated,50000,luxury,OM
+9505,25-44,Male,Expats,Graduated,250000,luxury,OM
+9506,45+,Male,Expats,Graduated,29000,luxury,OM
+9507,18-24,Female,Expats,Graduated,11000,luxury,OM
+9508,25-44,Female,Expats,Graduated,57000,luxury,OM
+9509,45+,Female,Expats,Graduated,8600,luxury,OM
+9510,18-24,Male,Expats,No Degree,170000,luxury,OM
+9511,25-44,Male,Expats,No Degree,360000,luxury,OM
+9512,45+,Male,Expats,No Degree,40000,luxury,OM
+9513,18-24,Female,Expats,No Degree,41000,luxury,OM
+9514,25-44,Female,Expats,No Degree,60000,luxury,OM
+9515,45+,Female,Expats,No Degree,8400,luxury,OM
+9516,18-24,Male,Expats,High School,21000,luxury,OM
+9517,25-44,Male,Expats,High School,63000,luxury,OM
+9518,45+,Male,Expats,High School,8200,luxury,OM
+9519,18-24,Female,Expats,High School,7300,luxury,OM
+9520,25-44,Female,Expats,High School,15000,luxury,OM
+9521,45+,Female,Expats,High School,2300,luxury,OM
+9522,18-24,Male,Locals,Graduated,20000,luxury,OM
+9523,25-44,Male,Locals,Graduated,51000,luxury,OM
+9524,45+,Male,Locals,Graduated,3100,luxury,OM
+9525,18-24,Female,Locals,Graduated,4900,luxury,OM
+9526,25-44,Female,Locals,Graduated,9800,luxury,OM
+9527,45+,Female,Locals,Graduated,520,luxury,OM
+9528,18-24,Male,Locals,No Degree,49000,luxury,OM
+9529,25-44,Male,Locals,No Degree,70000,luxury,OM
+9530,45+,Male,Locals,No Degree,8100,luxury,OM
+9531,18-24,Female,Locals,No Degree,16000,luxury,OM
+9532,25-44,Female,Locals,No Degree,19000,luxury,OM
+9533,45+,Female,Locals,No Degree,1700,luxury,OM
+9534,18-24,Male,Locals,High School,12000,luxury,OM
+9535,25-44,Male,Locals,High School,15000,luxury,OM
+9536,45+,Male,Locals,High School,1300,luxury,OM
+9537,18-24,Female,Locals,High School,3900,luxury,OM
+9538,25-44,Female,Locals,High School,2600,luxury,OM
+9539,45+,Female,Locals,High School,230,luxury,OM
+9540,18-24,Male,Expats,Graduated,120000,luxury,QA
+9541,25-44,Male,Expats,Graduated,520000,luxury,QA
+9542,45+,Male,Expats,Graduated,62000,luxury,QA
+9543,18-24,Female,Expats,Graduated,28000,luxury,QA
+9544,25-44,Female,Expats,Graduated,150000,luxury,QA
+9545,45+,Female,Expats,Graduated,17000,luxury,QA
+9546,18-24,Male,Expats,No Degree,250000,luxury,QA
+9547,25-44,Male,Expats,No Degree,480000,luxury,QA
+9548,45+,Male,Expats,No Degree,72000,luxury,QA
+9549,18-24,Female,Expats,No Degree,53000,luxury,QA
+9550,25-44,Female,Expats,No Degree,100000,luxury,QA
+9551,45+,Female,Expats,No Degree,17000,luxury,QA
+9552,18-24,Male,Expats,High School,47000,luxury,QA
+9553,25-44,Male,Expats,High School,130000,luxury,QA
+9554,45+,Male,Expats,High School,18000,luxury,QA
+9555,18-24,Female,Expats,High School,15000,luxury,QA
+9556,25-44,Female,Expats,High School,39000,luxury,QA
+9557,45+,Female,Expats,High School,5100,luxury,QA
+9558,18-24,Male,Locals,Graduated,4600,luxury,QA
+9559,25-44,Male,Locals,Graduated,12000,luxury,QA
+9560,45+,Male,Locals,Graduated,1500,luxury,QA
+9561,18-24,Female,Locals,Graduated,1900,luxury,QA
+9562,25-44,Female,Locals,Graduated,4900,luxury,QA
+9563,45+,Female,Locals,Graduated,450,luxury,QA
+9564,18-24,Male,Locals,No Degree,20000,luxury,QA
+9565,25-44,Male,Locals,No Degree,35000,luxury,QA
+9566,45+,Male,Locals,No Degree,5800,luxury,QA
+9567,18-24,Female,Locals,No Degree,8000,luxury,QA
+9568,25-44,Female,Locals,No Degree,14000,luxury,QA
+9569,45+,Female,Locals,No Degree,1800,luxury,QA
+9570,18-24,Male,Locals,High School,2200,luxury,QA
+9571,25-44,Male,Locals,High School,3800,luxury,QA
+9572,45+,Male,Locals,High School,440,luxury,QA
+9573,18-24,Female,Locals,High School,1700,luxury,QA
+9574,25-44,Female,Locals,High School,1400,luxury,QA
+9575,45+,Female,Locals,High School,150,luxury,QA
+9576,18-24,Male,Expats,Graduated,370000,luxury,SA
+9577,25-44,Male,Expats,Graduated,1900000,luxury,SA
+9578,45+,Male,Expats,Graduated,240000,luxury,SA
+9579,18-24,Female,Expats,Graduated,89000,luxury,SA
+9580,25-44,Female,Expats,Graduated,420000,luxury,SA
+9581,45+,Female,Expats,Graduated,53000,luxury,SA
+9582,18-24,Male,Expats,No Degree,130000,luxury,SA
+9583,25-44,Male,Expats,No Degree,410000,luxury,SA
+9584,45+,Male,Expats,No Degree,67000,luxury,SA
+9585,18-24,Female,Expats,No Degree,55000,luxury,SA
+9586,25-44,Female,Expats,No Degree,130000,luxury,SA
+9587,45+,Female,Expats,No Degree,22000,luxury,SA
+9588,18-24,Male,Expats,High School,140000,luxury,SA
+9589,25-44,Male,Expats,High School,440000,luxury,SA
+9590,45+,Male,Expats,High School,60000,luxury,SA
+9591,18-24,Female,Expats,High School,55000,luxury,SA
+9592,25-44,Female,Expats,High School,120000,luxury,SA
+9593,45+,Female,Expats,High School,16000,luxury,SA
+9594,18-24,Male,Locals,Graduated,240000,luxury,SA
+9595,25-44,Male,Locals,Graduated,960000,luxury,SA
+9596,45+,Male,Locals,Graduated,120000,luxury,SA
+9597,18-24,Female,Locals,Graduated,88000,luxury,SA
+9598,25-44,Female,Locals,Graduated,250000,luxury,SA
+9599,45+,Female,Locals,Graduated,26000,luxury,SA
+9600,18-24,Male,Locals,No Degree,1700000,luxury,SA
+9601,25-44,Male,Locals,No Degree,3100000,luxury,SA
+9602,45+,Male,Locals,No Degree,480000,luxury,SA
+9603,18-24,Female,Locals,No Degree,540000,luxury,SA
+9604,25-44,Female,Locals,No Degree,680000,luxury,SA
+9605,45+,Female,Locals,No Degree,110000,luxury,SA
+9606,18-24,Male,Locals,High School,150000,luxury,SA
+9607,25-44,Male,Locals,High School,340000,luxury,SA
+9608,45+,Male,Locals,High School,44000,luxury,SA
+9609,18-24,Female,Locals,High School,74000,luxury,SA
+9610,25-44,Female,Locals,High School,85000,luxury,SA
+9611,45+,Female,Locals,High School,10000,luxury,SA
+9612,18-24,Male,Expats,Graduated,17000,luxury,SO
+9613,25-44,Male,Expats,Graduated,18000,luxury,SO
+9614,45+,Male,Expats,Graduated,2400,luxury,SO
+9615,18-24,Female,Expats,Graduated,6700,luxury,SO
+9616,25-44,Female,Expats,Graduated,4100,luxury,SO
+9617,45+,Female,Expats,Graduated,510,luxury,SO
+9618,18-24,Male,Expats,No Degree,6900,luxury,SO
+9619,25-44,Male,Expats,No Degree,10000,luxury,SO
+9620,45+,Male,Expats,No Degree,1900,luxury,SO
+9621,18-24,Female,Expats,No Degree,4300,luxury,SO
+9622,25-44,Female,Expats,No Degree,2600,luxury,SO
+9623,45+,Female,Expats,No Degree,360,luxury,SO
+9624,18-24,Male,Expats,High School,4400,luxury,SO
+9625,25-44,Male,Expats,High School,3800,luxury,SO
+9626,45+,Male,Expats,High School,630,luxury,SO
+9627,18-24,Female,Expats,High School,2400,luxury,SO
+9628,25-44,Female,Expats,High School,1000,luxury,SO
+9629,45+,Female,Expats,High School,110,luxury,SO
+9630,18-24,Male,Locals,Graduated,53000,luxury,SO
+9631,25-44,Male,Locals,Graduated,55000,luxury,SO
+9632,45+,Male,Locals,Graduated,4400,luxury,SO
+9633,18-24,Female,Locals,Graduated,30000,luxury,SO
+9634,25-44,Female,Locals,Graduated,17000,luxury,SO
+9635,45+,Female,Locals,Graduated,1700,luxury,SO
+9636,18-24,Male,Locals,No Degree,120000,luxury,SO
+9637,25-44,Male,Locals,No Degree,79000,luxury,SO
+9638,45+,Male,Locals,No Degree,13000,luxury,SO
+9639,18-24,Female,Locals,No Degree,99000,luxury,SO
+9640,25-44,Female,Locals,No Degree,40000,luxury,SO
+9641,45+,Female,Locals,No Degree,4500,luxury,SO
+9642,18-24,Male,Locals,High School,20000,luxury,SO
+9643,25-44,Male,Locals,High School,12000,luxury,SO
+9644,45+,Male,Locals,High School,1300,luxury,SO
+9645,18-24,Female,Locals,High School,12000,luxury,SO
+9646,25-44,Female,Locals,High School,4100,luxury,SO
+9647,45+,Female,Locals,High School,570,luxury,SO
+9648,18-24,Male,Expats,Graduated,54000,luxury,TN
+9649,25-44,Male,Expats,Graduated,66000,luxury,TN
+9650,45+,Male,Expats,Graduated,14000,luxury,TN
+9651,18-24,Female,Expats,Graduated,25000,luxury,TN
+9652,25-44,Female,Expats,Graduated,28000,luxury,TN
+9653,45+,Female,Expats,Graduated,5900,luxury,TN
+9654,18-24,Male,Expats,No Degree,38000,luxury,TN
+9655,25-44,Male,Expats,No Degree,67000,luxury,TN
+9656,45+,Male,Expats,No Degree,15000,luxury,TN
+9657,18-24,Female,Expats,No Degree,27000,luxury,TN
+9658,25-44,Female,Expats,No Degree,34000,luxury,TN
+9659,45+,Female,Expats,No Degree,7200,luxury,TN
+9660,18-24,Male,Expats,High School,23000,luxury,TN
+9661,25-44,Male,Expats,High School,19000,luxury,TN
+9662,45+,Male,Expats,High School,4700,luxury,TN
+9663,18-24,Female,Expats,High School,13000,luxury,TN
+9664,25-44,Female,Expats,High School,8800,luxury,TN
+9665,45+,Female,Expats,High School,2700,luxury,TN
+9666,18-24,Male,Locals,Graduated,290000,luxury,TN
+9667,25-44,Male,Locals,Graduated,560000,luxury,TN
+9668,45+,Male,Locals,Graduated,120000,luxury,TN
+9669,18-24,Female,Locals,Graduated,270000,luxury,TN
+9670,25-44,Female,Locals,Graduated,430000,luxury,TN
+9671,45+,Female,Locals,Graduated,55000,luxury,TN
+9672,18-24,Male,Locals,No Degree,430000,luxury,TN
+9673,25-44,Male,Locals,No Degree,680000,luxury,TN
+9674,45+,Male,Locals,No Degree,180000,luxury,TN
+9675,18-24,Female,Locals,No Degree,390000,luxury,TN
+9676,25-44,Female,Locals,No Degree,460000,luxury,TN
+9677,45+,Female,Locals,No Degree,110000,luxury,TN
+9678,18-24,Male,Locals,High School,150000,luxury,TN
+9679,25-44,Male,Locals,High School,180000,luxury,TN
+9680,45+,Male,Locals,High School,51000,luxury,TN
+9681,18-24,Female,Locals,High School,160000,luxury,TN
+9682,25-44,Female,Locals,High School,120000,luxury,TN
+9683,45+,Female,Locals,High School,31000,luxury,TN
+9684,18-24,Male,Expats,Graduated,370000,luxury,AE
+9685,25-44,Male,Expats,Graduated,1800000,luxury,AE
+9686,45+,Male,Expats,Graduated,210000,luxury,AE
+9687,18-24,Female,Expats,Graduated,120000,luxury,AE
+9688,25-44,Female,Expats,Graduated,680000,luxury,AE
+9689,45+,Female,Expats,Graduated,86000,luxury,AE
+9690,18-24,Male,Expats,No Degree,610000,luxury,AE
+9691,25-44,Male,Expats,No Degree,1400000,luxury,AE
+9692,45+,Male,Expats,No Degree,210000,luxury,AE
+9693,18-24,Female,Expats,No Degree,180000,luxury,AE
+9694,25-44,Female,Expats,No Degree,380000,luxury,AE
+9695,45+,Female,Expats,No Degree,78000,luxury,AE
+9696,18-24,Male,Expats,High School,140000,luxury,AE
+9697,25-44,Male,Expats,High School,420000,luxury,AE
+9698,45+,Male,Expats,High School,59000,luxury,AE
+9699,18-24,Female,Expats,High School,66000,luxury,AE
+9700,25-44,Female,Expats,High School,150000,luxury,AE
+9701,45+,Female,Expats,High School,26000,luxury,AE
+9702,18-24,Male,Locals,Graduated,18000,luxury,AE
+9703,25-44,Male,Locals,Graduated,58000,luxury,AE
+9704,45+,Male,Locals,Graduated,6200,luxury,AE
+9705,18-24,Female,Locals,Graduated,8800,luxury,AE
+9706,25-44,Female,Locals,Graduated,25000,luxury,AE
+9707,45+,Female,Locals,Graduated,1600,luxury,AE
+9708,18-24,Male,Locals,No Degree,78000,luxury,AE
+9709,25-44,Male,Locals,No Degree,140000,luxury,AE
+9710,45+,Male,Locals,No Degree,23000,luxury,AE
+9711,18-24,Female,Locals,No Degree,39000,luxury,AE
+9712,25-44,Female,Locals,No Degree,67000,luxury,AE
+9713,45+,Female,Locals,No Degree,7600,luxury,AE
+9714,18-24,Male,Locals,High School,12000,luxury,AE
+9715,25-44,Male,Locals,High School,17000,luxury,AE
+9716,45+,Male,Locals,High School,2100,luxury,AE
+9717,18-24,Female,Locals,High School,7400,luxury,AE
+9718,25-44,Female,Locals,High School,6400,luxury,AE
+9719,45+,Female,Locals,High School,630,luxury,AE
+9720,18-24,Male,Expats,Graduated,19000,luxury,YE
+9721,25-44,Male,Expats,Graduated,33000,luxury,YE
+9722,45+,Male,Expats,Graduated,3200,luxury,YE
+9723,18-24,Female,Expats,Graduated,3800,luxury,YE
+9724,25-44,Female,Expats,Graduated,5600,luxury,YE
+9725,45+,Female,Expats,Graduated,520,luxury,YE
+9726,18-24,Male,Expats,No Degree,18000,luxury,YE
+9727,25-44,Male,Expats,No Degree,28000,luxury,YE
+9728,45+,Male,Expats,No Degree,2800,luxury,YE
+9729,18-24,Female,Expats,No Degree,9800,luxury,YE
+9730,25-44,Female,Expats,No Degree,7400,luxury,YE
+9731,45+,Female,Expats,No Degree,940,luxury,YE
+9732,18-24,Male,Expats,High School,8400,luxury,YE
+9733,25-44,Male,Expats,High School,8300,luxury,YE
+9734,45+,Male,Expats,High School,890,luxury,YE
+9735,18-24,Female,Expats,High School,2600,luxury,YE
+9736,25-44,Female,Expats,High School,1600,luxury,YE
+9737,45+,Female,Expats,High School,160,luxury,YE
+9738,18-24,Male,Locals,Graduated,140000,luxury,YE
+9739,25-44,Male,Locals,Graduated,280000,luxury,YE
+9740,45+,Male,Locals,Graduated,23000,luxury,YE
+9741,18-24,Female,Locals,Graduated,23000,luxury,YE
+9742,25-44,Female,Locals,Graduated,37000,luxury,YE
+9743,45+,Female,Locals,Graduated,2100,luxury,YE
+9744,18-24,Male,Locals,No Degree,280000,luxury,YE
+9745,25-44,Male,Locals,No Degree,320000,luxury,YE
+9746,45+,Male,Locals,No Degree,41000,luxury,YE
+9747,18-24,Female,Locals,No Degree,52000,luxury,YE
+9748,25-44,Female,Locals,No Degree,47000,luxury,YE
+9749,45+,Female,Locals,No Degree,5700,luxury,YE
+9750,18-24,Male,Locals,High School,89000,luxury,YE
+9751,25-44,Male,Locals,High School,84000,luxury,YE
+9752,45+,Male,Locals,High School,7300,luxury,YE
+9753,18-24,Female,Locals,High School,22000,luxury,YE
+9754,25-44,Female,Locals,High School,11000,luxury,YE
+9755,45+,Female,Locals,High School,850,luxury,YE
+9756,18-24,Male,Expats,Graduated,19000,luxury,PS
+9757,25-44,Male,Expats,Graduated,32000,luxury,PS
+9758,45+,Male,Expats,Graduated,5200,luxury,PS
+9759,18-24,Female,Expats,Graduated,15000,luxury,PS
+9760,25-44,Female,Expats,Graduated,20000,luxury,PS
+9761,45+,Female,Expats,Graduated,2700,luxury,PS
+9762,18-24,Male,Expats,No Degree,12000,luxury,PS
+9763,25-44,Male,Expats,No Degree,16000,luxury,PS
+9764,45+,Male,Expats,No Degree,3900,luxury,PS
+9765,18-24,Female,Expats,No Degree,15000,luxury,PS
+9766,25-44,Female,Expats,No Degree,14000,luxury,PS
+9767,45+,Female,Expats,No Degree,3500,luxury,PS
+9768,18-24,Male,Expats,High School,10000,luxury,PS
+9769,25-44,Male,Expats,High School,6800,luxury,PS
+9770,45+,Male,Expats,High School,1400,luxury,PS
+9771,18-24,Female,Expats,High School,12000,luxury,PS
+9772,25-44,Female,Expats,High School,5500,luxury,PS
+9773,45+,Female,Expats,High School,1300,luxury,PS
+9774,18-24,Male,Locals,Graduated,82000,luxury,PS
+9775,25-44,Male,Locals,Graduated,130000,luxury,PS
+9776,45+,Male,Locals,Graduated,20000,luxury,PS
+9777,18-24,Female,Locals,Graduated,71000,luxury,PS
+9778,25-44,Female,Locals,Graduated,87000,luxury,PS
+9779,45+,Female,Locals,Graduated,8700,luxury,PS
+9780,18-24,Male,Locals,No Degree,90000,luxury,PS
+9781,25-44,Male,Locals,No Degree,95000,luxury,PS
+9782,45+,Male,Locals,No Degree,29000,luxury,PS
+9783,18-24,Female,Locals,No Degree,80000,luxury,PS
+9784,25-44,Female,Locals,No Degree,80000,luxury,PS
+9785,45+,Female,Locals,No Degree,25000,luxury,PS
+9786,18-24,Male,Locals,High School,52000,luxury,PS
+9787,25-44,Male,Locals,High School,33000,luxury,PS
+9788,45+,Male,Locals,High School,6900,luxury,PS
+9789,18-24,Female,Locals,High School,57000,luxury,PS
+9790,25-44,Female,Locals,High School,25000,luxury,PS
+9791,45+,Female,Locals,High School,4000,luxury,PS

@@ -2,18 +2,18 @@
 4896,18-24,Male,Expats,Graduated,150000,shopping,DZ
 4897,25-44,Male,Expats,Graduated,160000,shopping,DZ
 4898,45+,Male,Expats,Graduated,21000,shopping,DZ
-4899,18-24,Female,Expats,Graduated,66000,shopping,DZ
-4900,25-44,Female,Expats,Graduated,45000,shopping,DZ
-4901,45+,Female,Expats,Graduated,7000,shopping,DZ
+4899,18-24,Female,Expats,Graduated,64000,shopping,DZ
+4900,25-44,Female,Expats,Graduated,44000,shopping,DZ
+4901,45+,Female,Expats,Graduated,7100,shopping,DZ
 4902,18-24,Male,Expats,No Degree,120000,shopping,DZ
 4903,25-44,Male,Expats,No Degree,180000,shopping,DZ
-4904,45+,Male,Expats,No Degree,31000,shopping,DZ
+4904,45+,Male,Expats,No Degree,32000,shopping,DZ
 4905,18-24,Female,Expats,No Degree,70000,shopping,DZ
 4906,25-44,Female,Expats,No Degree,65000,shopping,DZ
 4907,45+,Female,Expats,No Degree,11000,shopping,DZ
 4908,18-24,Male,Expats,High School,58000,shopping,DZ
 4909,25-44,Male,Expats,High School,39000,shopping,DZ
-4910,45+,Male,Expats,High School,7200,shopping,DZ
+4910,45+,Male,Expats,High School,7300,shopping,DZ
 4911,18-24,Female,Expats,High School,27000,shopping,DZ
 4912,25-44,Female,Expats,High School,12000,shopping,DZ
 4913,45+,Female,Expats,High School,2900,shopping,DZ
@@ -21,17 +21,17 @@
 4915,25-44,Male,Locals,Graduated,1100000,shopping,DZ
 4916,45+,Male,Locals,Graduated,120000,shopping,DZ
 4917,18-24,Female,Locals,Graduated,530000,shopping,DZ
-4918,25-44,Female,Locals,Graduated,550000,shopping,DZ
+4918,25-44,Female,Locals,Graduated,540000,shopping,DZ
 4919,45+,Female,Locals,Graduated,49000,shopping,DZ
 4920,18-24,Male,Locals,No Degree,1100000,shopping,DZ
 4921,25-44,Male,Locals,No Degree,1700000,shopping,DZ
 4922,45+,Male,Locals,No Degree,260000,shopping,DZ
 4923,18-24,Female,Locals,No Degree,970000,shopping,DZ
-4924,25-44,Female,Locals,No Degree,830000,shopping,DZ
+4924,25-44,Female,Locals,No Degree,840000,shopping,DZ
 4925,45+,Female,Locals,No Degree,120000,shopping,DZ
 4926,18-24,Male,Locals,High School,330000,shopping,DZ
 4927,25-44,Male,Locals,High School,310000,shopping,DZ
-4928,45+,Male,Locals,High School,46000,shopping,DZ
+4928,45+,Male,Locals,High School,47000,shopping,DZ
 4929,18-24,Female,Locals,High School,270000,shopping,DZ
 4930,25-44,Female,Locals,High School,130000,shopping,DZ
 4931,45+,Female,Locals,High School,21000,shopping,DZ
@@ -40,52 +40,52 @@
 4934,45+,Male,Expats,Graduated,18000,shopping,BH
 4935,18-24,Female,Expats,Graduated,7100,shopping,BH
 4936,25-44,Female,Expats,Graduated,46000,shopping,BH
-4937,45+,Female,Expats,Graduated,8300,shopping,BH
+4937,45+,Female,Expats,Graduated,8200,shopping,BH
 4938,18-24,Male,Expats,No Degree,49000,shopping,BH
 4939,25-44,Male,Expats,No Degree,140000,shopping,BH
 4940,45+,Male,Expats,No Degree,24000,shopping,BH
 4941,18-24,Female,Expats,No Degree,13000,shopping,BH
 4942,25-44,Female,Expats,No Degree,34000,shopping,BH
-4943,45+,Female,Expats,No Degree,8100,shopping,BH
+4943,45+,Female,Expats,No Degree,7900,shopping,BH
 4944,18-24,Male,Expats,High School,11000,shopping,BH
-4945,25-44,Male,Expats,High School,35000,shopping,BH
-4946,45+,Male,Expats,High School,5800,shopping,BH
+4945,25-44,Male,Expats,High School,34000,shopping,BH
+4946,45+,Male,Expats,High School,5900,shopping,BH
 4947,18-24,Female,Expats,High School,4700,shopping,BH
 4948,25-44,Female,Expats,High School,14000,shopping,BH
 4949,45+,Female,Expats,High School,2800,shopping,BH
-4950,18-24,Male,Locals,Graduated,5500,shopping,BH
+4950,18-24,Male,Locals,Graduated,5600,shopping,BH
 4951,25-44,Male,Locals,Graduated,18000,shopping,BH
 4952,45+,Male,Locals,Graduated,3200,shopping,BH
-4953,18-24,Female,Locals,Graduated,3900,shopping,BH
+4953,18-24,Female,Locals,Graduated,3800,shopping,BH
 4954,25-44,Female,Locals,Graduated,12000,shopping,BH
-4955,45+,Female,Locals,Graduated,1200,shopping,BH
+4955,45+,Female,Locals,Graduated,1100,shopping,BH
 4956,18-24,Male,Locals,No Degree,11000,shopping,BH
 4957,25-44,Male,Locals,No Degree,20000,shopping,BH
-4958,45+,Male,Locals,No Degree,5300,shopping,BH
+4958,45+,Male,Locals,No Degree,5400,shopping,BH
 4959,18-24,Female,Locals,No Degree,7300,shopping,BH
 4960,25-44,Female,Locals,No Degree,13000,shopping,BH
 4961,45+,Female,Locals,No Degree,2400,shopping,BH
-4962,18-24,Male,Locals,High School,3900,shopping,BH
+4962,18-24,Male,Locals,High School,4000,shopping,BH
 4963,25-44,Male,Locals,High School,5400,shopping,BH
-4964,45+,Male,Locals,High School,980,shopping,BH
+4964,45+,Male,Locals,High School,990,shopping,BH
 4965,18-24,Female,Locals,High School,4100,shopping,BH
 4966,25-44,Female,Locals,High School,2900,shopping,BH
-4967,45+,Female,Locals,High School,350,shopping,BH
+4967,45+,Female,Locals,High School,380,shopping,BH
 4968,18-24,Male,Expats,Graduated,100000,shopping,EG
 4969,25-44,Male,Expats,Graduated,190000,shopping,EG
 4970,45+,Male,Expats,Graduated,33000,shopping,EG
 4971,18-24,Female,Expats,Graduated,46000,shopping,EG
 4972,25-44,Female,Expats,Graduated,78000,shopping,EG
 4973,45+,Female,Expats,Graduated,14000,shopping,EG
-4974,18-24,Male,Expats,No Degree,62000,shopping,EG
+4974,18-24,Male,Expats,No Degree,61000,shopping,EG
 4975,25-44,Male,Expats,No Degree,100000,shopping,EG
 4976,45+,Male,Expats,No Degree,25000,shopping,EG
 4977,18-24,Female,Expats,No Degree,36000,shopping,EG
 4978,25-44,Female,Expats,No Degree,50000,shopping,EG
 4979,45+,Female,Expats,No Degree,15000,shopping,EG
 4980,18-24,Male,Expats,High School,56000,shopping,EG
-4981,25-44,Male,Expats,High School,45000,shopping,EG
-4982,45+,Male,Expats,High School,8000,shopping,EG
+4981,25-44,Male,Expats,High School,44000,shopping,EG
+4982,45+,Male,Expats,High School,7900,shopping,EG
 4983,18-24,Female,Expats,High School,34000,shopping,EG
 4984,25-44,Female,Expats,High School,20000,shopping,EG
 4985,45+,Female,Expats,High School,4300,shopping,EG
@@ -96,34 +96,34 @@
 4990,25-44,Female,Locals,Graduated,1800000,shopping,EG
 4991,45+,Female,Locals,Graduated,250000,shopping,EG
 4992,18-24,Male,Locals,No Degree,1600000,shopping,EG
-4993,25-44,Male,Locals,No Degree,2500000,shopping,EG
-4994,45+,Male,Locals,No Degree,730000,shopping,EG
+4993,25-44,Male,Locals,No Degree,2600000,shopping,EG
+4994,45+,Male,Locals,No Degree,740000,shopping,EG
 4995,18-24,Female,Locals,No Degree,1100000,shopping,EG
 4996,25-44,Female,Locals,No Degree,1400000,shopping,EG
 4997,45+,Female,Locals,No Degree,450000,shopping,EG
 4998,18-24,Male,Locals,High School,1100000,shopping,EG
-4999,25-44,Male,Locals,High School,750000,shopping,EG
+4999,25-44,Male,Locals,High School,760000,shopping,EG
 5000,45+,Male,Locals,High School,140000,shopping,EG
 5001,18-24,Female,Locals,High School,900000,shopping,EG
 5002,25-44,Female,Locals,High School,360000,shopping,EG
 5003,45+,Female,Locals,High School,62000,shopping,EG
-5004,18-24,Male,Expats,Graduated,76000,shopping,IQ
+5004,18-24,Male,Expats,Graduated,75000,shopping,IQ
 5005,25-44,Male,Expats,Graduated,150000,shopping,IQ
-5006,45+,Male,Expats,Graduated,20000,shopping,IQ
+5006,45+,Male,Expats,Graduated,19000,shopping,IQ
 5007,18-24,Female,Expats,Graduated,18000,shopping,IQ
 5008,25-44,Female,Expats,Graduated,29000,shopping,IQ
-5009,45+,Female,Expats,Graduated,3500,shopping,IQ
+5009,45+,Female,Expats,Graduated,3400,shopping,IQ
 5010,18-24,Male,Expats,No Degree,72000,shopping,IQ
 5011,25-44,Male,Expats,No Degree,100000,shopping,IQ
-5012,45+,Male,Expats,No Degree,17000,shopping,IQ
+5012,45+,Male,Expats,No Degree,18000,shopping,IQ
 5013,18-24,Female,Expats,No Degree,33000,shopping,IQ
 5014,25-44,Female,Expats,No Degree,32000,shopping,IQ
 5015,45+,Female,Expats,No Degree,5500,shopping,IQ
 5016,18-24,Male,Expats,High School,38000,shopping,IQ
 5017,25-44,Male,Expats,High School,42000,shopping,IQ
-5018,45+,Male,Expats,High School,6000,shopping,IQ
+5018,45+,Male,Expats,High School,5900,shopping,IQ
 5019,18-24,Female,Expats,High School,14000,shopping,IQ
-5020,25-44,Female,Expats,High School,9600,shopping,IQ
+5020,25-44,Female,Expats,High School,9500,shopping,IQ
 5021,45+,Female,Expats,High School,1300,shopping,IQ
 5022,18-24,Male,Locals,Graduated,720000,shopping,IQ
 5023,25-44,Male,Locals,Graduated,1400000,shopping,IQ
@@ -133,41 +133,41 @@
 5027,45+,Female,Locals,Graduated,54000,shopping,IQ
 5028,18-24,Male,Locals,No Degree,1400000,shopping,IQ
 5029,25-44,Male,Locals,No Degree,1600000,shopping,IQ
-5030,45+,Male,Locals,No Degree,370000,shopping,IQ
-5031,18-24,Female,Locals,No Degree,590000,shopping,IQ
+5030,45+,Male,Locals,No Degree,380000,shopping,IQ
+5031,18-24,Female,Locals,No Degree,570000,shopping,IQ
 5032,25-44,Female,Locals,No Degree,560000,shopping,IQ
 5033,45+,Female,Locals,No Degree,140000,shopping,IQ
 5034,18-24,Male,Locals,High School,460000,shopping,IQ
 5035,25-44,Male,Locals,High School,430000,shopping,IQ
-5036,45+,Male,Locals,High School,68000,shopping,IQ
-5037,18-24,Female,Locals,High School,220000,shopping,IQ
+5036,45+,Male,Locals,High School,69000,shopping,IQ
+5037,18-24,Female,Locals,High School,210000,shopping,IQ
 5038,25-44,Female,Locals,High School,120000,shopping,IQ
 5039,45+,Female,Locals,High School,19000,shopping,IQ
 5040,18-24,Male,Expats,Graduated,58000,shopping,JO
 5041,25-44,Male,Expats,Graduated,130000,shopping,JO
 5042,45+,Male,Expats,Graduated,21000,shopping,JO
 5043,18-24,Female,Expats,Graduated,35000,shopping,JO
-5044,25-44,Female,Expats,Graduated,75000,shopping,JO
+5044,25-44,Female,Expats,Graduated,74000,shopping,JO
 5045,45+,Female,Expats,Graduated,16000,shopping,JO
-5046,18-24,Male,Expats,No Degree,79000,shopping,JO
+5046,18-24,Male,Expats,No Degree,80000,shopping,JO
 5047,25-44,Male,Expats,No Degree,130000,shopping,JO
 5048,45+,Male,Expats,No Degree,29000,shopping,JO
-5049,18-24,Female,Expats,No Degree,49000,shopping,JO
+5049,18-24,Female,Expats,No Degree,48000,shopping,JO
 5050,25-44,Female,Expats,No Degree,66000,shopping,JO
 5051,45+,Female,Expats,No Degree,25000,shopping,JO
 5052,18-24,Male,Expats,High School,45000,shopping,JO
 5053,25-44,Male,Expats,High School,41000,shopping,JO
-5054,45+,Male,Expats,High School,7300,shopping,JO
+5054,45+,Male,Expats,High School,7400,shopping,JO
 5055,18-24,Female,Expats,High School,41000,shopping,JO
 5056,25-44,Female,Expats,High School,25000,shopping,JO
-5057,45+,Female,Expats,High School,6300,shopping,JO
+5057,45+,Female,Expats,High School,6200,shopping,JO
 5058,18-24,Male,Locals,Graduated,170000,shopping,JO
 5059,25-44,Male,Locals,Graduated,330000,shopping,JO
 5060,45+,Male,Locals,Graduated,65000,shopping,JO
 5061,18-24,Female,Locals,Graduated,120000,shopping,JO
 5062,25-44,Female,Locals,Graduated,220000,shopping,JO
 5063,45+,Female,Locals,Graduated,33000,shopping,JO
-5064,18-24,Male,Locals,No Degree,220000,shopping,JO
+5064,18-24,Male,Locals,No Degree,230000,shopping,JO
 5065,25-44,Male,Locals,No Degree,290000,shopping,JO
 5066,45+,Male,Locals,No Degree,110000,shopping,JO
 5067,18-24,Female,Locals,No Degree,200000,shopping,JO
@@ -176,7 +176,7 @@
 5070,18-24,Male,Locals,High School,140000,shopping,JO
 5071,25-44,Male,Locals,High School,110000,shopping,JO
 5072,45+,Male,Locals,High School,26000,shopping,JO
-5073,18-24,Female,Locals,High School,140000,shopping,JO
+5073,18-24,Female,Locals,High School,130000,shopping,JO
 5074,25-44,Female,Locals,High School,70000,shopping,JO
 5075,45+,Female,Locals,High School,14000,shopping,JO
 5076,18-24,Male,Expats,Graduated,42000,shopping,KW
@@ -186,41 +186,41 @@
 5080,25-44,Female,Expats,Graduated,160000,shopping,KW
 5081,45+,Female,Expats,Graduated,22000,shopping,KW
 5082,18-24,Male,Expats,No Degree,120000,shopping,KW
-5083,25-44,Male,Expats,No Degree,400000,shopping,KW
+5083,25-44,Male,Expats,No Degree,410000,shopping,KW
 5084,45+,Male,Expats,No Degree,84000,shopping,KW
 5085,18-24,Female,Expats,No Degree,51000,shopping,KW
 5086,25-44,Female,Expats,No Degree,140000,shopping,KW
 5087,45+,Female,Expats,No Degree,29000,shopping,KW
-5088,18-24,Male,Expats,High School,23000,shopping,KW
+5088,18-24,Male,Expats,High School,22000,shopping,KW
 5089,25-44,Male,Expats,High School,100000,shopping,KW
 5090,45+,Male,Expats,High School,17000,shopping,KW
 5091,18-24,Female,Expats,High School,14000,shopping,KW
 5092,25-44,Female,Expats,High School,59000,shopping,KW
 5093,45+,Female,Expats,High School,8100,shopping,KW
-5094,18-24,Male,Locals,Graduated,4800,shopping,KW
+5094,18-24,Male,Locals,Graduated,5000,shopping,KW
 5095,25-44,Male,Locals,Graduated,23000,shopping,KW
 5096,45+,Male,Locals,Graduated,4100,shopping,KW
-5097,18-24,Female,Locals,Graduated,2400,shopping,KW
+5097,18-24,Female,Locals,Graduated,2500,shopping,KW
 5098,25-44,Female,Locals,Graduated,13000,shopping,KW
 5099,45+,Female,Locals,Graduated,1900,shopping,KW
-5100,18-24,Male,Locals,No Degree,18000,shopping,KW
-5101,25-44,Male,Locals,No Degree,40000,shopping,KW
-5102,45+,Male,Locals,No Degree,8200,shopping,KW
+5100,18-24,Male,Locals,No Degree,19000,shopping,KW
+5101,25-44,Male,Locals,No Degree,42000,shopping,KW
+5102,45+,Male,Locals,No Degree,8700,shopping,KW
 5103,18-24,Female,Locals,No Degree,12000,shopping,KW
 5104,25-44,Female,Locals,No Degree,23000,shopping,KW
 5105,45+,Female,Locals,No Degree,4600,shopping,KW
-5106,18-24,Male,Locals,High School,3000,shopping,KW
+5106,18-24,Male,Locals,High School,3100,shopping,KW
 5107,25-44,Male,Locals,High School,6000,shopping,KW
 5108,45+,Male,Locals,High School,1200,shopping,KW
-5109,18-24,Female,Locals,High School,2600,shopping,KW
-5110,25-44,Female,Locals,High School,3100,shopping,KW
-5111,45+,Female,Locals,High School,410,shopping,KW
+5109,18-24,Female,Locals,High School,2500,shopping,KW
+5110,25-44,Female,Locals,High School,3000,shopping,KW
+5111,45+,Female,Locals,High School,400,shopping,KW
 5112,18-24,Male,Expats,Graduated,36000,shopping,LB
 5113,25-44,Male,Expats,Graduated,73000,shopping,LB
 5114,45+,Male,Expats,Graduated,10000,shopping,LB
 5115,18-24,Female,Expats,Graduated,15000,shopping,LB
 5116,25-44,Female,Expats,Graduated,40000,shopping,LB
-5117,45+,Female,Expats,Graduated,9000,shopping,LB
+5117,45+,Female,Expats,Graduated,8900,shopping,LB
 5118,18-24,Male,Expats,No Degree,79000,shopping,LB
 5119,25-44,Male,Expats,No Degree,110000,shopping,LB
 5120,45+,Male,Expats,No Degree,19000,shopping,LB
@@ -241,7 +241,7 @@
 5135,45+,Female,Locals,Graduated,38000,shopping,LB
 5136,18-24,Male,Locals,No Degree,140000,shopping,LB
 5137,25-44,Male,Locals,No Degree,200000,shopping,LB
-5138,45+,Male,Locals,No Degree,96000,shopping,LB
+5138,45+,Male,Locals,No Degree,97000,shopping,LB
 5139,18-24,Female,Locals,No Degree,120000,shopping,LB
 5140,25-44,Female,Locals,No Degree,190000,shopping,LB
 5141,45+,Female,Locals,No Degree,110000,shopping,LB
@@ -257,27 +257,27 @@
 5151,18-24,Female,Expats,Graduated,6700,shopping,LY
 5152,25-44,Female,Expats,Graduated,15000,shopping,LY
 5153,45+,Female,Expats,Graduated,2900,shopping,LY
-5154,18-24,Male,Expats,No Degree,32000,shopping,LY
-5155,25-44,Male,Expats,No Degree,71000,shopping,LY
+5154,18-24,Male,Expats,No Degree,33000,shopping,LY
+5155,25-44,Male,Expats,No Degree,72000,shopping,LY
 5156,45+,Male,Expats,No Degree,10000,shopping,LY
-5157,18-24,Female,Expats,No Degree,9800,shopping,LY
+5157,18-24,Female,Expats,No Degree,9900,shopping,LY
 5158,25-44,Female,Expats,No Degree,18000,shopping,LY
-5159,45+,Female,Expats,No Degree,4300,shopping,LY
-5160,18-24,Male,Expats,High School,8700,shopping,LY
+5159,45+,Female,Expats,No Degree,4200,shopping,LY
+5160,18-24,Male,Expats,High School,8800,shopping,LY
 5161,25-44,Male,Expats,High School,15000,shopping,LY
-5162,45+,Male,Expats,High School,2100,shopping,LY
-5163,18-24,Female,Expats,High School,4000,shopping,LY
+5162,45+,Male,Expats,High School,2200,shopping,LY
+5163,18-24,Female,Expats,High School,4100,shopping,LY
 5164,25-44,Female,Expats,High School,4100,shopping,LY
 5165,45+,Female,Expats,High School,810,shopping,LY
 5166,18-24,Male,Locals,Graduated,110000,shopping,LY
 5167,25-44,Male,Locals,Graduated,240000,shopping,LY
-5168,45+,Male,Locals,Graduated,39000,shopping,LY
+5168,45+,Male,Locals,Graduated,40000,shopping,LY
 5169,18-24,Female,Locals,Graduated,87000,shopping,LY
 5170,25-44,Female,Locals,Graduated,150000,shopping,LY
 5171,45+,Female,Locals,Graduated,19000,shopping,LY
-5172,18-24,Male,Locals,No Degree,110000,shopping,LY
-5173,25-44,Male,Locals,No Degree,230000,shopping,LY
-5174,45+,Male,Locals,No Degree,54000,shopping,LY
+5172,18-24,Male,Locals,No Degree,120000,shopping,LY
+5173,25-44,Male,Locals,No Degree,240000,shopping,LY
+5174,45+,Male,Locals,No Degree,55000,shopping,LY
 5175,18-24,Female,Locals,No Degree,100000,shopping,LY
 5176,25-44,Female,Locals,No Degree,190000,shopping,LY
 5177,45+,Female,Locals,No Degree,47000,shopping,LY
@@ -287,31 +287,31 @@
 5181,18-24,Female,Locals,High School,65000,shopping,LY
 5182,25-44,Female,Locals,High School,38000,shopping,LY
 5183,45+,Female,Locals,High School,6200,shopping,LY
-5184,18-24,Male,Expats,Graduated,120000,shopping,MA
+5184,18-24,Male,Expats,Graduated,130000,shopping,MA
 5185,25-44,Male,Expats,Graduated,110000,shopping,MA
 5186,45+,Male,Expats,Graduated,16000,shopping,MA
 5187,18-24,Female,Expats,Graduated,46000,shopping,MA
-5188,25-44,Female,Expats,Graduated,41000,shopping,MA
+5188,25-44,Female,Expats,Graduated,40000,shopping,MA
 5189,45+,Female,Expats,Graduated,6000,shopping,MA
-5190,18-24,Male,Expats,No Degree,62000,shopping,MA
-5191,25-44,Male,Expats,No Degree,91000,shopping,MA
+5190,18-24,Male,Expats,No Degree,63000,shopping,MA
+5191,25-44,Male,Expats,No Degree,92000,shopping,MA
 5192,45+,Male,Expats,No Degree,20000,shopping,MA
 5193,18-24,Female,Expats,No Degree,41000,shopping,MA
 5194,25-44,Female,Expats,No Degree,47000,shopping,MA
-5195,45+,Female,Expats,No Degree,8300,shopping,MA
+5195,45+,Female,Expats,No Degree,8400,shopping,MA
 5196,18-24,Male,Expats,High School,45000,shopping,MA
 5197,25-44,Male,Expats,High School,29000,shopping,MA
-5198,45+,Male,Expats,High School,5400,shopping,MA
+5198,45+,Male,Expats,High School,5300,shopping,MA
 5199,18-24,Female,Expats,High School,20000,shopping,MA
-5200,25-44,Female,Expats,High School,13000,shopping,MA
+5200,25-44,Female,Expats,High School,12000,shopping,MA
 5201,45+,Female,Expats,High School,2500,shopping,MA
 5202,18-24,Male,Locals,Graduated,800000,shopping,MA
-5203,25-44,Male,Locals,Graduated,910000,shopping,MA
+5203,25-44,Male,Locals,Graduated,920000,shopping,MA
 5204,45+,Male,Locals,Graduated,130000,shopping,MA
 5205,18-24,Female,Locals,Graduated,490000,shopping,MA
 5206,25-44,Female,Locals,Graduated,420000,shopping,MA
 5207,45+,Female,Locals,Graduated,53000,shopping,MA
-5208,18-24,Male,Locals,No Degree,890000,shopping,MA
+5208,18-24,Male,Locals,No Degree,910000,shopping,MA
 5209,25-44,Male,Locals,No Degree,1200000,shopping,MA
 5210,45+,Male,Locals,No Degree,250000,shopping,MA
 5211,18-24,Female,Locals,No Degree,680000,shopping,MA
@@ -326,38 +326,38 @@
 5220,18-24,Male,Expats,Graduated,45000,shopping,OM
 5221,25-44,Male,Expats,Graduated,220000,shopping,OM
 5222,45+,Male,Expats,Graduated,25000,shopping,OM
-5223,18-24,Female,Expats,Graduated,9300,shopping,OM
+5223,18-24,Female,Expats,Graduated,9200,shopping,OM
 5224,25-44,Female,Expats,Graduated,53000,shopping,OM
 5225,45+,Female,Expats,Graduated,7900,shopping,OM
 5226,18-24,Male,Expats,No Degree,140000,shopping,OM
 5227,25-44,Male,Expats,No Degree,280000,shopping,OM
-5228,45+,Male,Expats,No Degree,31000,shopping,OM
+5228,45+,Male,Expats,No Degree,30000,shopping,OM
 5229,18-24,Female,Expats,No Degree,32000,shopping,OM
 5230,25-44,Female,Expats,No Degree,49000,shopping,OM
 5231,45+,Female,Expats,No Degree,7100,shopping,OM
 5232,18-24,Male,Expats,High School,18000,shopping,OM
 5233,25-44,Male,Expats,High School,54000,shopping,OM
-5234,45+,Male,Expats,High School,6700,shopping,OM
-5235,18-24,Female,Expats,High School,6300,shopping,OM
+5234,45+,Male,Expats,High School,6800,shopping,OM
+5235,18-24,Female,Expats,High School,6200,shopping,OM
 5236,25-44,Female,Expats,High School,14000,shopping,OM
 5237,45+,Female,Expats,High School,2100,shopping,OM
-5238,18-24,Male,Locals,Graduated,14000,shopping,OM
+5238,18-24,Male,Locals,Graduated,15000,shopping,OM
 5239,25-44,Male,Locals,Graduated,38000,shopping,OM
-5240,45+,Male,Locals,Graduated,2200,shopping,OM
+5240,45+,Male,Locals,Graduated,2300,shopping,OM
 5241,18-24,Female,Locals,Graduated,4000,shopping,OM
 5242,25-44,Female,Locals,Graduated,8600,shopping,OM
-5243,45+,Female,Locals,Graduated,450,shopping,OM
-5244,18-24,Male,Locals,No Degree,27000,shopping,OM
-5245,25-44,Male,Locals,No Degree,39000,shopping,OM
-5246,45+,Male,Locals,No Degree,4600,shopping,OM
+5243,45+,Female,Locals,Graduated,440,shopping,OM
+5244,18-24,Male,Locals,No Degree,29000,shopping,OM
+5245,25-44,Male,Locals,No Degree,41000,shopping,OM
+5246,45+,Male,Locals,No Degree,4700,shopping,OM
 5247,18-24,Female,Locals,No Degree,10000,shopping,OM
 5248,25-44,Female,Locals,No Degree,13000,shopping,OM
-5249,45+,Female,Locals,No Degree,1100,shopping,OM
-5250,18-24,Male,Locals,High School,8600,shopping,OM
+5249,45+,Female,Locals,No Degree,1200,shopping,OM
+5250,18-24,Male,Locals,High School,8800,shopping,OM
 5251,25-44,Male,Locals,High School,11000,shopping,OM
-5252,45+,Male,Locals,High School,990,shopping,OM
+5252,45+,Male,Locals,High School,960,shopping,OM
 5253,18-24,Female,Locals,High School,3200,shopping,OM
-5254,25-44,Female,Locals,High School,2000,shopping,OM
+5254,25-44,Female,Locals,High School,2100,shopping,OM
 5255,45+,Female,Locals,High School,180,shopping,OM
 5256,18-24,Male,Expats,Graduated,110000,shopping,QA
 5257,25-44,Male,Expats,Graduated,470000,shopping,QA
@@ -368,8 +368,8 @@
 5262,18-24,Male,Expats,No Degree,200000,shopping,QA
 5263,25-44,Male,Expats,No Degree,390000,shopping,QA
 5264,45+,Male,Expats,No Degree,55000,shopping,QA
-5265,18-24,Female,Expats,No Degree,41000,shopping,QA
-5266,25-44,Female,Expats,No Degree,83000,shopping,QA
+5265,18-24,Female,Expats,No Degree,40000,shopping,QA
+5266,25-44,Female,Expats,No Degree,82000,shopping,QA
 5267,45+,Female,Expats,No Degree,15000,shopping,QA
 5268,18-24,Male,Expats,High School,41000,shopping,QA
 5269,25-44,Male,Expats,High School,120000,shopping,QA
@@ -378,33 +378,33 @@
 5272,25-44,Female,Expats,High School,36000,shopping,QA
 5273,45+,Female,Expats,High School,4700,shopping,QA
 5274,18-24,Male,Locals,Graduated,3700,shopping,QA
-5275,25-44,Male,Locals,Graduated,9100,shopping,QA
-5276,45+,Male,Locals,Graduated,1000,shopping,QA
-5277,18-24,Female,Locals,Graduated,1700,shopping,QA
-5278,25-44,Female,Locals,Graduated,4300,shopping,QA
-5279,45+,Female,Locals,Graduated,430,shopping,QA
-5280,18-24,Male,Locals,No Degree,8500,shopping,QA
-5281,25-44,Male,Locals,No Degree,16000,shopping,QA
-5282,45+,Male,Locals,No Degree,2700,shopping,QA
-5283,18-24,Female,Locals,No Degree,4700,shopping,QA
-5284,25-44,Female,Locals,No Degree,8600,shopping,QA
+5275,25-44,Male,Locals,Graduated,9400,shopping,QA
+5276,45+,Male,Locals,Graduated,1100,shopping,QA
+5277,18-24,Female,Locals,Graduated,1600,shopping,QA
+5278,25-44,Female,Locals,Graduated,4400,shopping,QA
+5279,45+,Female,Locals,Graduated,420,shopping,QA
+5280,18-24,Male,Locals,No Degree,9400,shopping,QA
+5281,25-44,Male,Locals,No Degree,17000,shopping,QA
+5282,45+,Male,Locals,No Degree,2800,shopping,QA
+5283,18-24,Female,Locals,No Degree,4900,shopping,QA
+5284,25-44,Female,Locals,No Degree,8800,shopping,QA
 5285,45+,Female,Locals,No Degree,1300,shopping,QA
 5286,18-24,Male,Locals,High School,1600,shopping,QA
 5287,25-44,Male,Locals,High School,2900,shopping,QA
-5288,45+,Male,Locals,High School,270,shopping,QA
-5289,18-24,Female,Locals,High School,1500,shopping,QA
+5288,45+,Male,Locals,High School,280,shopping,QA
+5289,18-24,Female,Locals,High School,1400,shopping,QA
 5290,25-44,Female,Locals,High School,1100,shopping,QA
-5291,45+,Female,Locals,High School,120,shopping,QA
+5291,45+,Female,Locals,High School,130,shopping,QA
 5292,18-24,Male,Expats,Graduated,340000,shopping,SA
 5293,25-44,Male,Expats,Graduated,1800000,shopping,SA
 5294,45+,Male,Expats,Graduated,200000,shopping,SA
-5295,18-24,Female,Expats,Graduated,80000,shopping,SA
+5295,18-24,Female,Expats,Graduated,79000,shopping,SA
 5296,25-44,Female,Expats,Graduated,400000,shopping,SA
 5297,45+,Female,Expats,Graduated,51000,shopping,SA
 5298,18-24,Male,Expats,No Degree,110000,shopping,SA
 5299,25-44,Male,Expats,No Degree,350000,shopping,SA
 5300,45+,Male,Expats,No Degree,55000,shopping,SA
-5301,18-24,Female,Expats,No Degree,47000,shopping,SA
+5301,18-24,Female,Expats,No Degree,46000,shopping,SA
 5302,25-44,Female,Expats,No Degree,110000,shopping,SA
 5303,45+,Female,Expats,No Degree,20000,shopping,SA
 5304,18-24,Male,Expats,High School,130000,shopping,SA
@@ -416,13 +416,13 @@
 5310,18-24,Male,Locals,Graduated,190000,shopping,SA
 5311,25-44,Male,Locals,Graduated,790000,shopping,SA
 5312,45+,Male,Locals,Graduated,96000,shopping,SA
-5313,18-24,Female,Locals,Graduated,77000,shopping,SA
+5313,18-24,Female,Locals,Graduated,76000,shopping,SA
 5314,25-44,Female,Locals,Graduated,230000,shopping,SA
 5315,45+,Female,Locals,Graduated,24000,shopping,SA
 5316,18-24,Male,Locals,No Degree,1300000,shopping,SA
 5317,25-44,Male,Locals,No Degree,2400000,shopping,SA
 5318,45+,Male,Locals,No Degree,360000,shopping,SA
-5319,18-24,Female,Locals,No Degree,430000,shopping,SA
+5319,18-24,Female,Locals,No Degree,420000,shopping,SA
 5320,25-44,Female,Locals,No Degree,530000,shopping,SA
 5321,45+,Female,Locals,No Degree,92000,shopping,SA
 5322,18-24,Male,Locals,High School,120000,shopping,SA
@@ -434,37 +434,37 @@
 5328,18-24,Male,Expats,Graduated,12000,shopping,SO
 5329,25-44,Male,Expats,Graduated,13000,shopping,SO
 5330,45+,Male,Expats,Graduated,1800,shopping,SO
-5331,18-24,Female,Expats,Graduated,5300,shopping,SO
+5331,18-24,Female,Expats,Graduated,5400,shopping,SO
 5332,25-44,Female,Expats,Graduated,3200,shopping,SO
 5333,45+,Female,Expats,Graduated,390,shopping,SO
-5334,18-24,Male,Expats,No Degree,4100,shopping,SO
-5335,25-44,Male,Expats,No Degree,6400,shopping,SO
+5334,18-24,Male,Expats,No Degree,4200,shopping,SO
+5335,25-44,Male,Expats,No Degree,6600,shopping,SO
 5336,45+,Male,Expats,No Degree,1200,shopping,SO
-5337,18-24,Female,Expats,No Degree,2900,shopping,SO
-5338,25-44,Female,Expats,No Degree,1900,shopping,SO
-5339,45+,Female,Expats,No Degree,230,shopping,SO
+5337,18-24,Female,Expats,No Degree,3000,shopping,SO
+5338,25-44,Female,Expats,No Degree,1800,shopping,SO
+5339,45+,Female,Expats,No Degree,260,shopping,SO
 5340,18-24,Male,Expats,High School,3200,shopping,SO
 5341,25-44,Male,Expats,High School,2700,shopping,SO
-5342,45+,Male,Expats,High School,460,shopping,SO
+5342,45+,Male,Expats,High School,450,shopping,SO
 5343,18-24,Female,Expats,High School,2000,shopping,SO
-5344,25-44,Female,Expats,High School,840,shopping,SO
+5344,25-44,Female,Expats,High School,850,shopping,SO
 5345,45+,Female,Expats,High School,90,shopping,SO
-5346,18-24,Male,Locals,Graduated,35000,shopping,SO
+5346,18-24,Male,Locals,Graduated,36000,shopping,SO
 5347,25-44,Male,Locals,Graduated,37000,shopping,SO
 5348,45+,Male,Locals,Graduated,2600,shopping,SO
 5349,18-24,Female,Locals,Graduated,24000,shopping,SO
 5350,25-44,Female,Locals,Graduated,14000,shopping,SO
-5351,45+,Female,Locals,Graduated,1400,shopping,SO
-5352,18-24,Male,Locals,No Degree,56000,shopping,SO
-5353,25-44,Male,Locals,No Degree,39000,shopping,SO
-5354,45+,Male,Locals,No Degree,6300,shopping,SO
-5355,18-24,Female,Locals,No Degree,62000,shopping,SO
-5356,25-44,Female,Locals,No Degree,27000,shopping,SO
+5351,45+,Female,Locals,Graduated,1500,shopping,SO
+5352,18-24,Male,Locals,No Degree,58000,shopping,SO
+5353,25-44,Male,Locals,No Degree,40000,shopping,SO
+5354,45+,Male,Locals,No Degree,6400,shopping,SO
+5355,18-24,Female,Locals,No Degree,64000,shopping,SO
+5356,25-44,Female,Locals,No Degree,28000,shopping,SO
 5357,45+,Female,Locals,No Degree,2700,shopping,SO
 5358,18-24,Male,Locals,High School,13000,shopping,SO
-5359,25-44,Male,Locals,High School,7500,shopping,SO
-5360,45+,Male,Locals,High School,780,shopping,SO
-5361,18-24,Female,Locals,High School,9700,shopping,SO
+5359,25-44,Male,Locals,High School,7600,shopping,SO
+5360,45+,Male,Locals,High School,790,shopping,SO
+5361,18-24,Female,Locals,High School,9800,shopping,SO
 5362,25-44,Female,Locals,High School,3400,shopping,SO
 5363,45+,Female,Locals,High School,450,shopping,SO
 5364,18-24,Male,Expats,Graduated,46000,shopping,TN
@@ -472,7 +472,7 @@
 5366,45+,Male,Expats,Graduated,12000,shopping,TN
 5367,18-24,Female,Expats,Graduated,22000,shopping,TN
 5368,25-44,Female,Expats,Graduated,25000,shopping,TN
-5369,45+,Female,Expats,Graduated,5500,shopping,TN
+5369,45+,Female,Expats,Graduated,5400,shopping,TN
 5370,18-24,Male,Expats,No Degree,26000,shopping,TN
 5371,25-44,Male,Expats,No Degree,45000,shopping,TN
 5372,45+,Male,Expats,No Degree,11000,shopping,TN
@@ -483,7 +483,7 @@
 5377,25-44,Male,Expats,High School,16000,shopping,TN
 5378,45+,Male,Expats,High School,4100,shopping,TN
 5379,18-24,Female,Expats,High School,11000,shopping,TN
-5380,25-44,Female,Expats,High School,8100,shopping,TN
+5380,25-44,Female,Expats,High School,8000,shopping,TN
 5381,45+,Female,Expats,High School,2600,shopping,TN
 5382,18-24,Male,Locals,Graduated,250000,shopping,TN
 5383,25-44,Male,Locals,Graduated,490000,shopping,TN
@@ -491,8 +491,8 @@
 5385,18-24,Female,Locals,Graduated,260000,shopping,TN
 5386,25-44,Female,Locals,Graduated,420000,shopping,TN
 5387,45+,Female,Locals,Graduated,53000,shopping,TN
-5388,18-24,Male,Locals,No Degree,300000,shopping,TN
-5389,25-44,Male,Locals,No Degree,500000,shopping,TN
+5388,18-24,Male,Locals,No Degree,310000,shopping,TN
+5389,25-44,Male,Locals,No Degree,510000,shopping,TN
 5390,45+,Male,Locals,No Degree,140000,shopping,TN
 5391,18-24,Female,Locals,No Degree,320000,shopping,TN
 5392,25-44,Female,Locals,No Degree,390000,shopping,TN
@@ -503,64 +503,64 @@
 5397,18-24,Female,Locals,High School,150000,shopping,TN
 5398,25-44,Female,Locals,High School,110000,shopping,TN
 5399,45+,Female,Locals,High School,30000,shopping,TN
-5400,18-24,Male,Expats,Graduated,350000,shopping,AE
+5400,18-24,Male,Expats,Graduated,340000,shopping,AE
 5401,25-44,Male,Expats,Graduated,1700000,shopping,AE
 5402,45+,Male,Expats,Graduated,180000,shopping,AE
 5403,18-24,Female,Expats,Graduated,110000,shopping,AE
 5404,25-44,Female,Expats,Graduated,650000,shopping,AE
-5405,45+,Female,Expats,Graduated,82000,shopping,AE
+5405,45+,Female,Expats,Graduated,81000,shopping,AE
 5406,18-24,Male,Expats,No Degree,500000,shopping,AE
 5407,25-44,Male,Expats,No Degree,1200000,shopping,AE
 5408,45+,Male,Expats,No Degree,170000,shopping,AE
 5409,18-24,Female,Expats,No Degree,140000,shopping,AE
 5410,25-44,Female,Expats,No Degree,330000,shopping,AE
-5411,45+,Female,Expats,No Degree,69000,shopping,AE
+5411,45+,Female,Expats,No Degree,68000,shopping,AE
 5412,18-24,Male,Expats,High School,130000,shopping,AE
 5413,25-44,Male,Expats,High School,380000,shopping,AE
 5414,45+,Male,Expats,High School,50000,shopping,AE
-5415,18-24,Female,Expats,High School,61000,shopping,AE
+5415,18-24,Female,Expats,High School,60000,shopping,AE
 5416,25-44,Female,Expats,High School,140000,shopping,AE
 5417,45+,Female,Expats,High School,24000,shopping,AE
-5418,18-24,Male,Locals,Graduated,14000,shopping,AE
+5418,18-24,Male,Locals,Graduated,15000,shopping,AE
 5419,25-44,Male,Locals,Graduated,46000,shopping,AE
-5420,45+,Male,Locals,Graduated,4700,shopping,AE
-5421,18-24,Female,Locals,Graduated,7500,shopping,AE
+5420,45+,Male,Locals,Graduated,4800,shopping,AE
+5421,18-24,Female,Locals,Graduated,7400,shopping,AE
 5422,25-44,Female,Locals,Graduated,22000,shopping,AE
-5423,45+,Female,Locals,Graduated,1600,shopping,AE
-5424,18-24,Male,Locals,No Degree,41000,shopping,AE
-5425,25-44,Male,Locals,No Degree,78000,shopping,AE
-5426,45+,Male,Locals,No Degree,12000,shopping,AE
+5423,45+,Female,Locals,Graduated,1500,shopping,AE
+5424,18-24,Male,Locals,No Degree,43000,shopping,AE
+5425,25-44,Male,Locals,No Degree,82000,shopping,AE
+5426,45+,Male,Locals,No Degree,13000,shopping,AE
 5427,18-24,Female,Locals,No Degree,25000,shopping,AE
 5428,25-44,Female,Locals,No Degree,44000,shopping,AE
 5429,45+,Female,Locals,No Degree,5100,shopping,AE
-5430,18-24,Male,Locals,High School,9100,shopping,AE
+5430,18-24,Male,Locals,High School,9300,shopping,AE
 5431,25-44,Male,Locals,High School,13000,shopping,AE
 5432,45+,Male,Locals,High School,1600,shopping,AE
-5433,18-24,Female,Locals,High School,6400,shopping,AE
-5434,25-44,Female,Locals,High School,5300,shopping,AE
-5435,45+,Female,Locals,High School,530,shopping,AE
+5433,18-24,Female,Locals,High School,6300,shopping,AE
+5434,25-44,Female,Locals,High School,5400,shopping,AE
+5435,45+,Female,Locals,High School,540,shopping,AE
 5436,18-24,Male,Expats,Graduated,13000,shopping,YE
 5437,25-44,Male,Expats,Graduated,23000,shopping,YE
-5438,45+,Male,Expats,Graduated,2200,shopping,YE
-5439,18-24,Female,Expats,Graduated,2800,shopping,YE
+5438,45+,Male,Expats,Graduated,2300,shopping,YE
+5439,18-24,Female,Expats,Graduated,2700,shopping,YE
 5440,25-44,Female,Expats,Graduated,4400,shopping,YE
 5441,45+,Female,Expats,Graduated,440,shopping,YE
 5442,18-24,Male,Expats,No Degree,10000,shopping,YE
-5443,25-44,Male,Expats,No Degree,16000,shopping,YE
+5443,25-44,Male,Expats,No Degree,17000,shopping,YE
 5444,45+,Male,Expats,No Degree,1800,shopping,YE
 5445,18-24,Female,Expats,No Degree,6000,shopping,YE
-5446,25-44,Female,Expats,No Degree,5000,shopping,YE
-5447,45+,Female,Expats,No Degree,650,shopping,YE
+5446,25-44,Female,Expats,No Degree,5100,shopping,YE
+5447,45+,Female,Expats,No Degree,660,shopping,YE
 5448,18-24,Male,Expats,High School,5800,shopping,YE
-5449,25-44,Male,Expats,High School,5700,shopping,YE
-5450,45+,Male,Expats,High School,580,shopping,YE
-5451,18-24,Female,Expats,High School,2100,shopping,YE
+5449,25-44,Male,Expats,High School,5800,shopping,YE
+5450,45+,Male,Expats,High School,590,shopping,YE
+5451,18-24,Female,Expats,High School,2000,shopping,YE
 5452,25-44,Female,Expats,High School,1400,shopping,YE
-5453,45+,Female,Expats,High School,120,shopping,YE
-5454,18-24,Male,Locals,Graduated,92000,shopping,YE
+5453,45+,Female,Expats,High School,130,shopping,YE
+5454,18-24,Male,Locals,Graduated,93000,shopping,YE
 5455,25-44,Male,Locals,Graduated,190000,shopping,YE
 5456,45+,Male,Locals,Graduated,16000,shopping,YE
-5457,18-24,Female,Locals,Graduated,19000,shopping,YE
+5457,18-24,Female,Locals,Graduated,18000,shopping,YE
 5458,25-44,Female,Locals,Graduated,31000,shopping,YE
 5459,45+,Female,Locals,Graduated,1800,shopping,YE
 5460,18-24,Male,Locals,No Degree,150000,shopping,YE
@@ -568,37 +568,37 @@
 5462,45+,Male,Locals,No Degree,24000,shopping,YE
 5463,18-24,Female,Locals,No Degree,31000,shopping,YE
 5464,25-44,Female,Locals,No Degree,31000,shopping,YE
-5465,45+,Female,Locals,No Degree,3800,shopping,YE
-5466,18-24,Male,Locals,High School,59000,shopping,YE
-5467,25-44,Male,Locals,High School,55000,shopping,YE
-5468,45+,Male,Locals,High School,4900,shopping,YE
+5465,45+,Female,Locals,No Degree,3900,shopping,YE
+5466,18-24,Male,Locals,High School,60000,shopping,YE
+5467,25-44,Male,Locals,High School,56000,shopping,YE
+5468,45+,Male,Locals,High School,5000,shopping,YE
 5469,18-24,Female,Locals,High School,18000,shopping,YE
-5470,25-44,Female,Locals,High School,9000,shopping,YE
+5470,25-44,Female,Locals,High School,9100,shopping,YE
 5471,45+,Female,Locals,High School,720,shopping,YE
 5472,18-24,Male,Expats,Graduated,16000,shopping,PS
 5473,25-44,Male,Expats,Graduated,27000,shopping,PS
 5474,45+,Male,Expats,Graduated,4200,shopping,PS
-5475,18-24,Female,Expats,Graduated,13000,shopping,PS
-5476,25-44,Female,Expats,Graduated,19000,shopping,PS
-5477,45+,Female,Expats,Graduated,2600,shopping,PS
+5475,18-24,Female,Expats,Graduated,12000,shopping,PS
+5476,25-44,Female,Expats,Graduated,18000,shopping,PS
+5477,45+,Female,Expats,Graduated,2500,shopping,PS
 5478,18-24,Male,Expats,No Degree,7400,shopping,PS
 5479,25-44,Male,Expats,No Degree,9700,shopping,PS
 5480,45+,Male,Expats,No Degree,2700,shopping,PS
 5481,18-24,Female,Expats,No Degree,9600,shopping,PS
-5482,25-44,Female,Expats,No Degree,9800,shopping,PS
+5482,25-44,Female,Expats,No Degree,9700,shopping,PS
 5483,45+,Female,Expats,No Degree,3100,shopping,PS
-5484,18-24,Male,Expats,High School,9000,shopping,PS
+5484,18-24,Male,Expats,High School,8900,shopping,PS
 5485,25-44,Male,Expats,High School,5700,shopping,PS
 5486,45+,Male,Expats,High School,1200,shopping,PS
 5487,18-24,Female,Expats,High School,10000,shopping,PS
-5488,25-44,Female,Expats,High School,5000,shopping,PS
+5488,25-44,Female,Expats,High School,4800,shopping,PS
 5489,45+,Female,Expats,High School,1200,shopping,PS
-5490,18-24,Male,Locals,Graduated,71000,shopping,PS
+5490,18-24,Male,Locals,Graduated,70000,shopping,PS
 5491,25-44,Male,Locals,Graduated,110000,shopping,PS
 5492,45+,Male,Locals,Graduated,17000,shopping,PS
 5493,18-24,Female,Locals,Graduated,63000,shopping,PS
-5494,25-44,Female,Locals,Graduated,83000,shopping,PS
-5495,45+,Female,Locals,Graduated,8400,shopping,PS
+5494,25-44,Female,Locals,Graduated,82000,shopping,PS
+5495,45+,Female,Locals,Graduated,8300,shopping,PS
 5496,18-24,Male,Locals,No Degree,56000,shopping,PS
 5497,25-44,Male,Locals,No Degree,64000,shopping,PS
 5498,45+,Male,Locals,No Degree,21000,shopping,PS
@@ -608,72 +608,72 @@
 5502,18-24,Male,Locals,High School,44000,shopping,PS
 5503,25-44,Male,Locals,High School,28000,shopping,PS
 5504,45+,Male,Locals,High School,5900,shopping,PS
-5505,18-24,Female,Locals,High School,53000,shopping,PS
+5505,18-24,Female,Locals,High School,52000,shopping,PS
 5506,25-44,Female,Locals,High School,24000,shopping,PS
-5507,45+,Female,Locals,High School,3900,shopping,PS
+5507,45+,Female,Locals,High School,3800,shopping,PS
 7344,18-24,Male,Expats,Graduated,3000,stroke heart disease,DZ
-7345,25-44,Male,Expats,Graduated,4400,stroke heart disease,DZ
-7346,45+,Male,Expats,Graduated,880,stroke heart disease,DZ
-7347,18-24,Female,Expats,Graduated,1300,stroke heart disease,DZ
+7345,25-44,Male,Expats,Graduated,4600,stroke heart disease,DZ
+7346,45+,Male,Expats,Graduated,930,stroke heart disease,DZ
+7347,18-24,Female,Expats,Graduated,1400,stroke heart disease,DZ
 7348,25-44,Female,Expats,Graduated,1300,stroke heart disease,DZ
 7349,45+,Female,Expats,Graduated,390,stroke heart disease,DZ
-7350,18-24,Male,Expats,No Degree,2600,stroke heart disease,DZ
-7351,25-44,Male,Expats,No Degree,6000,stroke heart disease,DZ
-7352,45+,Male,Expats,No Degree,1500,stroke heart disease,DZ
-7353,18-24,Female,Expats,No Degree,1000,stroke heart disease,DZ
-7354,25-44,Female,Expats,No Degree,1900,stroke heart disease,DZ
-7355,45+,Female,Expats,No Degree,640,stroke heart disease,DZ
-7356,18-24,Male,Expats,High School,1200,stroke heart disease,DZ
-7357,25-44,Male,Expats,High School,1100,stroke heart disease,DZ
-7358,45+,Male,Expats,High School,240,stroke heart disease,DZ
-7359,18-24,Female,Expats,High School,500,stroke heart disease,DZ
+7350,18-24,Male,Expats,No Degree,2700,stroke heart disease,DZ
+7351,25-44,Male,Expats,No Degree,6200,stroke heart disease,DZ
+7352,45+,Male,Expats,No Degree,1600,stroke heart disease,DZ
+7353,18-24,Female,Expats,No Degree,1100,stroke heart disease,DZ
+7354,25-44,Female,Expats,No Degree,2100,stroke heart disease,DZ
+7355,45+,Female,Expats,No Degree,720,stroke heart disease,DZ
+7356,18-24,Male,Expats,High School,1300,stroke heart disease,DZ
+7357,25-44,Male,Expats,High School,1200,stroke heart disease,DZ
+7358,45+,Male,Expats,High School,250,stroke heart disease,DZ
+7359,18-24,Female,Expats,High School,480,stroke heart disease,DZ
 7360,25-44,Female,Expats,High School,310,stroke heart disease,DZ
 7361,45+,Female,Expats,High School,110,stroke heart disease,DZ
-7362,18-24,Male,Locals,Graduated,12000,stroke heart disease,DZ
-7363,25-44,Male,Locals,Graduated,34000,stroke heart disease,DZ
-7364,45+,Male,Locals,Graduated,7300,stroke heart disease,DZ
-7365,18-24,Female,Locals,Graduated,13000,stroke heart disease,DZ
-7366,25-44,Female,Locals,Graduated,21000,stroke heart disease,DZ
-7367,45+,Female,Locals,Graduated,3900,stroke heart disease,DZ
+7362,18-24,Male,Locals,Graduated,13000,stroke heart disease,DZ
+7363,25-44,Male,Locals,Graduated,35000,stroke heart disease,DZ
+7364,45+,Male,Locals,Graduated,7500,stroke heart disease,DZ
+7365,18-24,Female,Locals,Graduated,14000,stroke heart disease,DZ
+7366,25-44,Female,Locals,Graduated,22000,stroke heart disease,DZ
+7367,45+,Female,Locals,Graduated,4100,stroke heart disease,DZ
 7368,18-24,Male,Locals,No Degree,19000,stroke heart disease,DZ
-7369,25-44,Male,Locals,No Degree,56000,stroke heart disease,DZ
-7370,45+,Male,Locals,No Degree,13000,stroke heart disease,DZ
+7369,25-44,Male,Locals,No Degree,57000,stroke heart disease,DZ
+7370,45+,Male,Locals,No Degree,14000,stroke heart disease,DZ
 7371,18-24,Female,Locals,No Degree,15000,stroke heart disease,DZ
-7372,25-44,Female,Locals,No Degree,29000,stroke heart disease,DZ
-7373,45+,Female,Locals,No Degree,8100,stroke heart disease,DZ
-7374,18-24,Male,Locals,High School,5800,stroke heart disease,DZ
+7372,25-44,Female,Locals,No Degree,30000,stroke heart disease,DZ
+7373,45+,Female,Locals,No Degree,8600,stroke heart disease,DZ
+7374,18-24,Male,Locals,High School,6000,stroke heart disease,DZ
 7375,25-44,Male,Locals,High School,10000,stroke heart disease,DZ
-7376,45+,Male,Locals,High School,2900,stroke heart disease,DZ
-7377,18-24,Female,Locals,High School,5500,stroke heart disease,DZ
-7378,25-44,Female,Locals,High School,4700,stroke heart disease,DZ
-7379,45+,Female,Locals,High School,1600,stroke heart disease,DZ
-7380,18-24,Male,Expats,Graduated,450,stroke heart disease,BH
-7381,25-44,Male,Expats,Graduated,1400,stroke heart disease,BH
-7382,45+,Male,Expats,Graduated,260,stroke heart disease,BH
+7376,45+,Male,Locals,High School,3000,stroke heart disease,DZ
+7377,18-24,Female,Locals,High School,5700,stroke heart disease,DZ
+7378,25-44,Female,Locals,High School,5000,stroke heart disease,DZ
+7379,45+,Female,Locals,High School,1700,stroke heart disease,DZ
+7380,18-24,Male,Expats,Graduated,460,stroke heart disease,BH
+7381,25-44,Male,Expats,Graduated,1300,stroke heart disease,BH
+7382,45+,Male,Expats,Graduated,270,stroke heart disease,BH
 7383,18-24,Female,Expats,Graduated,70,stroke heart disease,BH
-7384,25-44,Female,Expats,Graduated,1100,stroke heart disease,BH
+7384,25-44,Female,Expats,Graduated,1200,stroke heart disease,BH
 7385,45+,Female,Expats,Graduated,820,stroke heart disease,BH
-7386,18-24,Male,Expats,No Degree,340,stroke heart disease,BH
-7387,25-44,Male,Expats,No Degree,850,stroke heart disease,BH
+7386,18-24,Male,Expats,No Degree,360,stroke heart disease,BH
+7387,25-44,Male,Expats,No Degree,900,stroke heart disease,BH
 7388,45+,Male,Expats,No Degree,180,stroke heart disease,BH
 7389,18-24,Female,Expats,No Degree,30,stroke heart disease,BH
-7390,25-44,Female,Expats,No Degree,370,stroke heart disease,BH
-7391,45+,Female,Expats,No Degree,510,stroke heart disease,BH
-7392,18-24,Male,Expats,High School,120,stroke heart disease,BH
+7390,25-44,Female,Expats,No Degree,420,stroke heart disease,BH
+7391,45+,Female,Expats,No Degree,540,stroke heart disease,BH
+7392,18-24,Male,Expats,High School,140,stroke heart disease,BH
 7393,25-44,Male,Expats,High School,410,stroke heart disease,BH
 7394,45+,Male,Expats,High School,80,stroke heart disease,BH
 7395,18-24,Female,Expats,High School,30,stroke heart disease,BH
 7396,25-44,Female,Expats,High School,430,stroke heart disease,BH
 7397,45+,Female,Expats,High School,230,stroke heart disease,BH
-7398,18-24,Male,Locals,Graduated,40,stroke heart disease,BH
-7399,25-44,Male,Locals,Graduated,70,stroke heart disease,BH
+7398,18-24,Male,Locals,Graduated,50,stroke heart disease,BH
+7399,25-44,Male,Locals,Graduated,90,stroke heart disease,BH
 7400,45+,Male,Locals,Graduated,20,stroke heart disease,BH
 7401,18-24,Female,Locals,Graduated,20,stroke heart disease,BH
 7402,25-44,Female,Locals,Graduated,90,stroke heart disease,BH
 7403,45+,Female,Locals,Graduated,20,stroke heart disease,BH
 7404,18-24,Male,Locals,No Degree,20,stroke heart disease,BH
-7405,25-44,Male,Locals,No Degree,50,stroke heart disease,BH
-7406,45+,Male,Locals,No Degree,20,stroke heart disease,BH
+7405,25-44,Male,Locals,No Degree,70,stroke heart disease,BH
+7406,45+,Male,Locals,No Degree,50,stroke heart disease,BH
 7407,18-24,Female,Locals,No Degree,20,stroke heart disease,BH
 7408,25-44,Female,Locals,No Degree,20,stroke heart disease,BH
 7409,45+,Female,Locals,No Degree,20,stroke heart disease,BH
@@ -683,374 +683,374 @@
 7413,18-24,Female,Locals,High School,20,stroke heart disease,BH
 7414,25-44,Female,Locals,High School,20,stroke heart disease,BH
 7415,45+,Female,Locals,High School,20,stroke heart disease,BH
-7416,18-24,Male,Expats,Graduated,3600,stroke heart disease,EG
-7417,25-44,Male,Expats,Graduated,6600,stroke heart disease,EG
-7418,45+,Male,Expats,Graduated,2300,stroke heart disease,EG
-7419,18-24,Female,Expats,Graduated,2000,stroke heart disease,EG
-7420,25-44,Female,Expats,Graduated,3900,stroke heart disease,EG
-7421,45+,Female,Expats,Graduated,1200,stroke heart disease,EG
-7422,18-24,Male,Expats,No Degree,1200,stroke heart disease,EG
-7423,25-44,Male,Expats,No Degree,2600,stroke heart disease,EG
-7424,45+,Male,Expats,No Degree,1500,stroke heart disease,EG
-7425,18-24,Female,Expats,No Degree,850,stroke heart disease,EG
-7426,25-44,Female,Expats,No Degree,1600,stroke heart disease,EG
-7427,45+,Female,Expats,No Degree,1400,stroke heart disease,EG
-7428,18-24,Male,Expats,High School,2200,stroke heart disease,EG
-7429,25-44,Male,Expats,High School,1400,stroke heart disease,EG
-7430,45+,Male,Expats,High School,540,stroke heart disease,EG
-7431,18-24,Female,Expats,High School,1400,stroke heart disease,EG
-7432,25-44,Female,Expats,High School,890,stroke heart disease,EG
-7433,45+,Female,Expats,High School,450,stroke heart disease,EG
-7434,18-24,Male,Locals,Graduated,66000,stroke heart disease,EG
-7435,25-44,Male,Locals,Graduated,150000,stroke heart disease,EG
-7436,45+,Male,Locals,Graduated,46000,stroke heart disease,EG
-7437,18-24,Female,Locals,Graduated,78000,stroke heart disease,EG
-7438,25-44,Female,Locals,Graduated,110000,stroke heart disease,EG
-7439,45+,Female,Locals,Graduated,31000,stroke heart disease,EG
-7440,18-24,Male,Locals,No Degree,34000,stroke heart disease,EG
-7441,25-44,Male,Locals,No Degree,79000,stroke heart disease,EG
-7442,45+,Male,Locals,No Degree,49000,stroke heart disease,EG
-7443,18-24,Female,Locals,No Degree,47000,stroke heart disease,EG
-7444,25-44,Female,Locals,No Degree,65000,stroke heart disease,EG
-7445,45+,Female,Locals,No Degree,45000,stroke heart disease,EG
-7446,18-24,Male,Locals,High School,43000,stroke heart disease,EG
-7447,25-44,Male,Locals,High School,31000,stroke heart disease,EG
-7448,45+,Male,Locals,High School,12000,stroke heart disease,EG
-7449,18-24,Female,Locals,High School,54000,stroke heart disease,EG
-7450,25-44,Female,Locals,High School,20000,stroke heart disease,EG
-7451,45+,Female,Locals,High School,6400,stroke heart disease,EG
-7452,18-24,Male,Expats,Graduated,1800,stroke heart disease,IQ
-7453,25-44,Male,Expats,Graduated,5800,stroke heart disease,IQ
-7454,45+,Male,Expats,Graduated,1300,stroke heart disease,IQ
-7455,18-24,Female,Expats,Graduated,760,stroke heart disease,IQ
-7456,25-44,Female,Expats,Graduated,1700,stroke heart disease,IQ
-7457,45+,Female,Expats,Graduated,330,stroke heart disease,IQ
-7458,18-24,Male,Expats,No Degree,1400,stroke heart disease,IQ
-7459,25-44,Male,Expats,No Degree,2800,stroke heart disease,IQ
-7460,45+,Male,Expats,No Degree,900,stroke heart disease,IQ
-7461,18-24,Female,Expats,No Degree,1100,stroke heart disease,IQ
-7462,25-44,Female,Expats,No Degree,1500,stroke heart disease,IQ
-7463,45+,Female,Expats,No Degree,370,stroke heart disease,IQ
-7464,18-24,Male,Expats,High School,990,stroke heart disease,IQ
-7465,25-44,Male,Expats,High School,1400,stroke heart disease,IQ
-7466,45+,Male,Expats,High School,440,stroke heart disease,IQ
-7467,18-24,Female,Expats,High School,610,stroke heart disease,IQ
-7468,25-44,Female,Expats,High School,580,stroke heart disease,IQ
-7469,45+,Female,Expats,High School,70,stroke heart disease,IQ
-7470,18-24,Male,Locals,Graduated,17000,stroke heart disease,IQ
-7471,25-44,Male,Locals,Graduated,68000,stroke heart disease,IQ
-7472,45+,Male,Locals,Graduated,20000,stroke heart disease,IQ
-7473,18-24,Female,Locals,Graduated,12000,stroke heart disease,IQ
-7474,25-44,Female,Locals,Graduated,30000,stroke heart disease,IQ
-7475,45+,Female,Locals,Graduated,6700,stroke heart disease,IQ
-7476,18-24,Male,Locals,No Degree,26000,stroke heart disease,IQ
-7477,25-44,Male,Locals,No Degree,63000,stroke heart disease,IQ
-7478,45+,Male,Locals,No Degree,30000,stroke heart disease,IQ
-7479,18-24,Female,Locals,No Degree,22000,stroke heart disease,IQ
-7480,25-44,Female,Locals,No Degree,34000,stroke heart disease,IQ
-7481,45+,Female,Locals,No Degree,12000,stroke heart disease,IQ
-7482,18-24,Male,Locals,High School,12000,stroke heart disease,IQ
-7483,25-44,Male,Locals,High School,20000,stroke heart disease,IQ
-7484,45+,Male,Locals,High School,6400,stroke heart disease,IQ
-7485,18-24,Female,Locals,High School,12000,stroke heart disease,IQ
-7486,25-44,Female,Locals,High School,9100,stroke heart disease,IQ
-7487,45+,Female,Locals,High School,2300,stroke heart disease,IQ
-7488,18-24,Male,Expats,Graduated,2700,stroke heart disease,JO
-7489,25-44,Male,Expats,Graduated,8100,stroke heart disease,JO
-7490,45+,Male,Expats,Graduated,2700,stroke heart disease,JO
-7491,18-24,Female,Expats,Graduated,2000,stroke heart disease,JO
-7492,25-44,Female,Expats,Graduated,7000,stroke heart disease,JO
-7493,45+,Female,Expats,Graduated,2200,stroke heart disease,JO
-7494,18-24,Male,Expats,No Degree,3300,stroke heart disease,JO
-7495,25-44,Male,Expats,No Degree,8400,stroke heart disease,JO
-7496,45+,Male,Expats,No Degree,3700,stroke heart disease,JO
-7497,18-24,Female,Expats,No Degree,1700,stroke heart disease,JO
-7498,25-44,Female,Expats,No Degree,4600,stroke heart disease,JO
-7499,45+,Female,Expats,No Degree,3300,stroke heart disease,JO
-7500,18-24,Male,Expats,High School,2300,stroke heart disease,JO
-7501,25-44,Male,Expats,High School,2600,stroke heart disease,JO
-7502,45+,Male,Expats,High School,800,stroke heart disease,JO
-7503,18-24,Female,Expats,High School,1600,stroke heart disease,JO
-7504,25-44,Female,Expats,High School,2000,stroke heart disease,JO
-7505,45+,Female,Expats,High School,870,stroke heart disease,JO
-7506,18-24,Male,Locals,Graduated,8300,stroke heart disease,JO
-7507,25-44,Male,Locals,Graduated,25000,stroke heart disease,JO
-7508,45+,Male,Locals,Graduated,9200,stroke heart disease,JO
-7509,18-24,Female,Locals,Graduated,7100,stroke heart disease,JO
-7510,25-44,Female,Locals,Graduated,25000,stroke heart disease,JO
-7511,45+,Female,Locals,Graduated,5600,stroke heart disease,JO
-7512,18-24,Male,Locals,No Degree,9900,stroke heart disease,JO
-7513,25-44,Male,Locals,No Degree,22000,stroke heart disease,JO
-7514,45+,Male,Locals,No Degree,15000,stroke heart disease,JO
-7515,18-24,Female,Locals,No Degree,10000,stroke heart disease,JO
-7516,25-44,Female,Locals,No Degree,21000,stroke heart disease,JO
-7517,45+,Female,Locals,No Degree,12000,stroke heart disease,JO
-7518,18-24,Male,Locals,High School,6700,stroke heart disease,JO
-7519,25-44,Male,Locals,High School,7600,stroke heart disease,JO
-7520,45+,Male,Locals,High School,4100,stroke heart disease,JO
-7521,18-24,Female,Locals,High School,7300,stroke heart disease,JO
-7522,25-44,Female,Locals,High School,7400,stroke heart disease,JO
-7523,45+,Female,Locals,High School,2400,stroke heart disease,JO
+7416,18-24,Male,Expats,Graduated,3900,stroke heart disease,EG
+7417,25-44,Male,Expats,Graduated,7500,stroke heart disease,EG
+7418,45+,Male,Expats,Graduated,2700,stroke heart disease,EG
+7419,18-24,Female,Expats,Graduated,2300,stroke heart disease,EG
+7420,25-44,Female,Expats,Graduated,4200,stroke heart disease,EG
+7421,45+,Female,Expats,Graduated,1400,stroke heart disease,EG
+7422,18-24,Male,Expats,No Degree,1500,stroke heart disease,EG
+7423,25-44,Male,Expats,No Degree,3000,stroke heart disease,EG
+7424,45+,Male,Expats,No Degree,2000,stroke heart disease,EG
+7425,18-24,Female,Expats,No Degree,1000,stroke heart disease,EG
+7426,25-44,Female,Expats,No Degree,1900,stroke heart disease,EG
+7427,45+,Female,Expats,No Degree,1600,stroke heart disease,EG
+7428,18-24,Male,Expats,High School,2300,stroke heart disease,EG
+7429,25-44,Male,Expats,High School,1700,stroke heart disease,EG
+7430,45+,Male,Expats,High School,650,stroke heart disease,EG
+7431,18-24,Female,Expats,High School,1600,stroke heart disease,EG
+7432,25-44,Female,Expats,High School,1000,stroke heart disease,EG
+7433,45+,Female,Expats,High School,480,stroke heart disease,EG
+7434,18-24,Male,Locals,Graduated,73000,stroke heart disease,EG
+7435,25-44,Male,Locals,Graduated,170000,stroke heart disease,EG
+7436,45+,Male,Locals,Graduated,56000,stroke heart disease,EG
+7437,18-24,Female,Locals,Graduated,85000,stroke heart disease,EG
+7438,25-44,Female,Locals,Graduated,130000,stroke heart disease,EG
+7439,45+,Female,Locals,Graduated,36000,stroke heart disease,EG
+7440,18-24,Male,Locals,No Degree,39000,stroke heart disease,EG
+7441,25-44,Male,Locals,No Degree,95000,stroke heart disease,EG
+7442,45+,Male,Locals,No Degree,62000,stroke heart disease,EG
+7443,18-24,Female,Locals,No Degree,54000,stroke heart disease,EG
+7444,25-44,Female,Locals,No Degree,74000,stroke heart disease,EG
+7445,45+,Female,Locals,No Degree,53000,stroke heart disease,EG
+7446,18-24,Male,Locals,High School,47000,stroke heart disease,EG
+7447,25-44,Male,Locals,High School,35000,stroke heart disease,EG
+7448,45+,Male,Locals,High School,14000,stroke heart disease,EG
+7449,18-24,Female,Locals,High School,60000,stroke heart disease,EG
+7450,25-44,Female,Locals,High School,23000,stroke heart disease,EG
+7451,45+,Female,Locals,High School,7400,stroke heart disease,EG
+7452,18-24,Male,Expats,Graduated,2200,stroke heart disease,IQ
+7453,25-44,Male,Expats,Graduated,7000,stroke heart disease,IQ
+7454,45+,Male,Expats,Graduated,1400,stroke heart disease,IQ
+7455,18-24,Female,Expats,Graduated,810,stroke heart disease,IQ
+7456,25-44,Female,Expats,Graduated,1900,stroke heart disease,IQ
+7457,45+,Female,Expats,Graduated,400,stroke heart disease,IQ
+7458,18-24,Male,Expats,No Degree,1900,stroke heart disease,IQ
+7459,25-44,Male,Expats,No Degree,3300,stroke heart disease,IQ
+7460,45+,Male,Expats,No Degree,1000,stroke heart disease,IQ
+7461,18-24,Female,Expats,No Degree,1200,stroke heart disease,IQ
+7462,25-44,Female,Expats,No Degree,1700,stroke heart disease,IQ
+7463,45+,Female,Expats,No Degree,490,stroke heart disease,IQ
+7464,18-24,Male,Expats,High School,1300,stroke heart disease,IQ
+7465,25-44,Male,Expats,High School,1600,stroke heart disease,IQ
+7466,45+,Male,Expats,High School,450,stroke heart disease,IQ
+7467,18-24,Female,Expats,High School,670,stroke heart disease,IQ
+7468,25-44,Female,Expats,High School,660,stroke heart disease,IQ
+7469,45+,Female,Expats,High School,90,stroke heart disease,IQ
+7470,18-24,Male,Locals,Graduated,22000,stroke heart disease,IQ
+7471,25-44,Male,Locals,Graduated,82000,stroke heart disease,IQ
+7472,45+,Male,Locals,Graduated,23000,stroke heart disease,IQ
+7473,18-24,Female,Locals,Graduated,13000,stroke heart disease,IQ
+7474,25-44,Female,Locals,Graduated,33000,stroke heart disease,IQ
+7475,45+,Female,Locals,Graduated,7800,stroke heart disease,IQ
+7476,18-24,Male,Locals,No Degree,35000,stroke heart disease,IQ
+7477,25-44,Male,Locals,No Degree,81000,stroke heart disease,IQ
+7478,45+,Male,Locals,No Degree,35000,stroke heart disease,IQ
+7479,18-24,Female,Locals,No Degree,25000,stroke heart disease,IQ
+7480,25-44,Female,Locals,No Degree,39000,stroke heart disease,IQ
+7481,45+,Female,Locals,No Degree,14000,stroke heart disease,IQ
+7482,18-24,Male,Locals,High School,14000,stroke heart disease,IQ
+7483,25-44,Male,Locals,High School,25000,stroke heart disease,IQ
+7484,45+,Male,Locals,High School,7300,stroke heart disease,IQ
+7485,18-24,Female,Locals,High School,13000,stroke heart disease,IQ
+7486,25-44,Female,Locals,High School,10000,stroke heart disease,IQ
+7487,45+,Female,Locals,High School,2600,stroke heart disease,IQ
+7488,18-24,Male,Expats,Graduated,2800,stroke heart disease,JO
+7489,25-44,Male,Expats,Graduated,9200,stroke heart disease,JO
+7490,45+,Male,Expats,Graduated,3000,stroke heart disease,JO
+7491,18-24,Female,Expats,Graduated,2400,stroke heart disease,JO
+7492,25-44,Female,Expats,Graduated,8300,stroke heart disease,JO
+7493,45+,Female,Expats,Graduated,2500,stroke heart disease,JO
+7494,18-24,Male,Expats,No Degree,3600,stroke heart disease,JO
+7495,25-44,Male,Expats,No Degree,10000,stroke heart disease,JO
+7496,45+,Male,Expats,No Degree,4300,stroke heart disease,JO
+7497,18-24,Female,Expats,No Degree,1900,stroke heart disease,JO
+7498,25-44,Female,Expats,No Degree,5500,stroke heart disease,JO
+7499,45+,Female,Expats,No Degree,3700,stroke heart disease,JO
+7500,18-24,Male,Expats,High School,2500,stroke heart disease,JO
+7501,25-44,Male,Expats,High School,3000,stroke heart disease,JO
+7502,45+,Male,Expats,High School,920,stroke heart disease,JO
+7503,18-24,Female,Expats,High School,1800,stroke heart disease,JO
+7504,25-44,Female,Expats,High School,2600,stroke heart disease,JO
+7505,45+,Female,Expats,High School,910,stroke heart disease,JO
+7506,18-24,Male,Locals,Graduated,9100,stroke heart disease,JO
+7507,25-44,Male,Locals,Graduated,28000,stroke heart disease,JO
+7508,45+,Male,Locals,Graduated,10000,stroke heart disease,JO
+7509,18-24,Female,Locals,Graduated,8400,stroke heart disease,JO
+7510,25-44,Female,Locals,Graduated,29000,stroke heart disease,JO
+7511,45+,Female,Locals,Graduated,6100,stroke heart disease,JO
+7512,18-24,Male,Locals,No Degree,11000,stroke heart disease,JO
+7513,25-44,Male,Locals,No Degree,25000,stroke heart disease,JO
+7514,45+,Male,Locals,No Degree,17000,stroke heart disease,JO
+7515,18-24,Female,Locals,No Degree,11000,stroke heart disease,JO
+7516,25-44,Female,Locals,No Degree,26000,stroke heart disease,JO
+7517,45+,Female,Locals,No Degree,13000,stroke heart disease,JO
+7518,18-24,Male,Locals,High School,7400,stroke heart disease,JO
+7519,25-44,Male,Locals,High School,8900,stroke heart disease,JO
+7520,45+,Male,Locals,High School,4500,stroke heart disease,JO
+7521,18-24,Female,Locals,High School,8000,stroke heart disease,JO
+7522,25-44,Female,Locals,High School,9000,stroke heart disease,JO
+7523,45+,Female,Locals,High School,2600,stroke heart disease,JO
 7524,18-24,Male,Expats,Graduated,1100,stroke heart disease,KW
-7525,25-44,Male,Expats,Graduated,11000,stroke heart disease,KW
-7526,45+,Male,Expats,Graduated,1700,stroke heart disease,KW
-7527,18-24,Female,Expats,Graduated,510,stroke heart disease,KW
-7528,25-44,Female,Expats,Graduated,8300,stroke heart disease,KW
-7529,45+,Female,Expats,Graduated,2600,stroke heart disease,KW
-7530,18-24,Male,Expats,No Degree,3600,stroke heart disease,KW
-7531,25-44,Male,Expats,No Degree,13000,stroke heart disease,KW
-7532,45+,Male,Expats,No Degree,3100,stroke heart disease,KW
-7533,18-24,Female,Expats,No Degree,730,stroke heart disease,KW
-7534,25-44,Female,Expats,No Degree,4700,stroke heart disease,KW
-7535,45+,Female,Expats,No Degree,1700,stroke heart disease,KW
-7536,18-24,Male,Expats,High School,560,stroke heart disease,KW
-7537,25-44,Male,Expats,High School,3600,stroke heart disease,KW
+7525,25-44,Male,Expats,Graduated,12000,stroke heart disease,KW
+7526,45+,Male,Expats,Graduated,1900,stroke heart disease,KW
+7527,18-24,Female,Expats,Graduated,520,stroke heart disease,KW
+7528,25-44,Female,Expats,Graduated,9300,stroke heart disease,KW
+7529,45+,Female,Expats,Graduated,2800,stroke heart disease,KW
+7530,18-24,Male,Expats,No Degree,3500,stroke heart disease,KW
+7531,25-44,Male,Expats,No Degree,14000,stroke heart disease,KW
+7532,45+,Male,Expats,No Degree,3400,stroke heart disease,KW
+7533,18-24,Female,Expats,No Degree,750,stroke heart disease,KW
+7534,25-44,Female,Expats,No Degree,5200,stroke heart disease,KW
+7535,45+,Female,Expats,No Degree,2000,stroke heart disease,KW
+7536,18-24,Male,Expats,High School,590,stroke heart disease,KW
+7537,25-44,Male,Expats,High School,3900,stroke heart disease,KW
 7538,45+,Male,Expats,High School,540,stroke heart disease,KW
-7539,18-24,Female,Expats,High School,350,stroke heart disease,KW
-7540,25-44,Female,Expats,High School,3000,stroke heart disease,KW
-7541,45+,Female,Expats,High School,940,stroke heart disease,KW
+7539,18-24,Female,Expats,High School,360,stroke heart disease,KW
+7540,25-44,Female,Expats,High School,3400,stroke heart disease,KW
+7541,45+,Female,Expats,High School,1000,stroke heart disease,KW
 7542,18-24,Male,Locals,Graduated,30,stroke heart disease,KW
-7543,25-44,Male,Locals,Graduated,330,stroke heart disease,KW
+7543,25-44,Male,Locals,Graduated,350,stroke heart disease,KW
 7544,45+,Male,Locals,Graduated,40,stroke heart disease,KW
 7545,18-24,Female,Locals,Graduated,20,stroke heart disease,KW
-7546,25-44,Female,Locals,Graduated,270,stroke heart disease,KW
-7547,45+,Female,Locals,Graduated,100,stroke heart disease,KW
+7546,25-44,Female,Locals,Graduated,280,stroke heart disease,KW
+7547,45+,Female,Locals,Graduated,90,stroke heart disease,KW
 7548,18-24,Male,Locals,No Degree,160,stroke heart disease,KW
-7549,25-44,Male,Locals,No Degree,390,stroke heart disease,KW
-7550,45+,Male,Locals,No Degree,90,stroke heart disease,KW
+7549,25-44,Male,Locals,No Degree,450,stroke heart disease,KW
+7550,45+,Male,Locals,No Degree,140,stroke heart disease,KW
 7551,18-24,Female,Locals,No Degree,60,stroke heart disease,KW
 7552,25-44,Female,Locals,No Degree,210,stroke heart disease,KW
 7553,45+,Female,Locals,No Degree,40,stroke heart disease,KW
 7554,18-24,Male,Locals,High School,20,stroke heart disease,KW
 7555,25-44,Male,Locals,High School,50,stroke heart disease,KW
 7556,45+,Male,Locals,High School,20,stroke heart disease,KW
-7557,18-24,Female,Locals,High School,30,stroke heart disease,KW
+7557,18-24,Female,Locals,High School,40,stroke heart disease,KW
 7558,25-44,Female,Locals,High School,70,stroke heart disease,KW
 7559,45+,Female,Locals,High School,20,stroke heart disease,KW
-7560,18-24,Male,Expats,Graduated,1000,stroke heart disease,LB
-7561,25-44,Male,Expats,Graduated,1700,stroke heart disease,LB
-7562,45+,Male,Expats,Graduated,420,stroke heart disease,LB
-7563,18-24,Female,Expats,Graduated,480,stroke heart disease,LB
-7564,25-44,Female,Expats,Graduated,1300,stroke heart disease,LB
-7565,45+,Female,Expats,Graduated,1000,stroke heart disease,LB
-7566,18-24,Male,Expats,No Degree,1500,stroke heart disease,LB
-7567,25-44,Male,Expats,No Degree,2800,stroke heart disease,LB
-7568,45+,Male,Expats,No Degree,790,stroke heart disease,LB
-7569,18-24,Female,Expats,No Degree,690,stroke heart disease,LB
-7570,25-44,Female,Expats,No Degree,1800,stroke heart disease,LB
-7571,45+,Female,Expats,No Degree,1600,stroke heart disease,LB
-7572,18-24,Male,Expats,High School,500,stroke heart disease,LB
-7573,25-44,Male,Expats,High School,730,stroke heart disease,LB
-7574,45+,Male,Expats,High School,260,stroke heart disease,LB
-7575,18-24,Female,Expats,High School,270,stroke heart disease,LB
-7576,25-44,Female,Expats,High School,500,stroke heart disease,LB
-7577,45+,Female,Expats,High School,340,stroke heart disease,LB
-7578,18-24,Male,Locals,Graduated,2200,stroke heart disease,LB
-7579,25-44,Male,Locals,Graduated,4300,stroke heart disease,LB
-7580,45+,Male,Locals,Graduated,2100,stroke heart disease,LB
-7581,18-24,Female,Locals,Graduated,2600,stroke heart disease,LB
-7582,25-44,Female,Locals,Graduated,6800,stroke heart disease,LB
-7583,45+,Female,Locals,Graduated,4900,stroke heart disease,LB
-7584,18-24,Male,Locals,No Degree,3800,stroke heart disease,LB
-7585,25-44,Male,Locals,No Degree,4500,stroke heart disease,LB
-7586,45+,Male,Locals,No Degree,4400,stroke heart disease,LB
-7587,18-24,Female,Locals,No Degree,3300,stroke heart disease,LB
-7588,25-44,Female,Locals,No Degree,8200,stroke heart disease,LB
-7589,45+,Female,Locals,No Degree,10000,stroke heart disease,LB
-7590,18-24,Male,Locals,High School,1800,stroke heart disease,LB
-7591,25-44,Male,Locals,High School,1200,stroke heart disease,LB
-7592,45+,Male,Locals,High School,650,stroke heart disease,LB
-7593,18-24,Female,Locals,High School,2800,stroke heart disease,LB
-7594,25-44,Female,Locals,High School,1400,stroke heart disease,LB
-7595,45+,Female,Locals,High School,1500,stroke heart disease,LB
-7596,18-24,Male,Expats,Graduated,880,stroke heart disease,LY
-7597,25-44,Male,Expats,Graduated,2600,stroke heart disease,LY
-7598,45+,Male,Expats,Graduated,640,stroke heart disease,LY
-7599,18-24,Female,Expats,Graduated,320,stroke heart disease,LY
-7600,25-44,Female,Expats,Graduated,1100,stroke heart disease,LY
-7601,45+,Female,Expats,Graduated,320,stroke heart disease,LY
-7602,18-24,Male,Expats,No Degree,1000,stroke heart disease,LY
-7603,25-44,Male,Expats,No Degree,2600,stroke heart disease,LY
-7604,45+,Male,Expats,No Degree,750,stroke heart disease,LY
-7605,18-24,Female,Expats,No Degree,380,stroke heart disease,LY
-7606,25-44,Female,Expats,No Degree,1100,stroke heart disease,LY
-7607,45+,Female,Expats,No Degree,480,stroke heart disease,LY
-7608,18-24,Male,Expats,High School,350,stroke heart disease,LY
-7609,25-44,Male,Expats,High School,720,stroke heart disease,LY
-7610,45+,Male,Expats,High School,160,stroke heart disease,LY
-7611,18-24,Female,Expats,High School,220,stroke heart disease,LY
-7612,25-44,Female,Expats,High School,310,stroke heart disease,LY
-7613,45+,Female,Expats,High School,100,stroke heart disease,LY
-7614,18-24,Male,Locals,Graduated,5300,stroke heart disease,LY
-7615,25-44,Male,Locals,Graduated,14000,stroke heart disease,LY
-7616,45+,Male,Locals,Graduated,4200,stroke heart disease,LY
-7617,18-24,Female,Locals,Graduated,4700,stroke heart disease,LY
-7618,25-44,Female,Locals,Graduated,11000,stroke heart disease,LY
-7619,45+,Female,Locals,Graduated,2400,stroke heart disease,LY
-7620,18-24,Male,Locals,No Degree,4600,stroke heart disease,LY
-7621,25-44,Male,Locals,No Degree,12000,stroke heart disease,LY
-7622,45+,Male,Locals,No Degree,5300,stroke heart disease,LY
-7623,18-24,Female,Locals,No Degree,4200,stroke heart disease,LY
-7624,25-44,Female,Locals,No Degree,12000,stroke heart disease,LY
-7625,45+,Female,Locals,No Degree,5600,stroke heart disease,LY
-7626,18-24,Male,Locals,High School,3100,stroke heart disease,LY
-7627,25-44,Male,Locals,High School,3000,stroke heart disease,LY
-7628,45+,Male,Locals,High School,1200,stroke heart disease,LY
-7629,18-24,Female,Locals,High School,3400,stroke heart disease,LY
-7630,25-44,Female,Locals,High School,2800,stroke heart disease,LY
-7631,45+,Female,Locals,High School,740,stroke heart disease,LY
-7632,18-24,Male,Expats,Graduated,1300,stroke heart disease,MA
-7633,25-44,Male,Expats,Graduated,2000,stroke heart disease,MA
-7634,45+,Male,Expats,Graduated,590,stroke heart disease,MA
-7635,18-24,Female,Expats,Graduated,420,stroke heart disease,MA
-7636,25-44,Female,Expats,Graduated,790,stroke heart disease,MA
-7637,45+,Female,Expats,Graduated,300,stroke heart disease,MA
-7638,18-24,Male,Expats,No Degree,670,stroke heart disease,MA
-7639,25-44,Male,Expats,No Degree,1200,stroke heart disease,MA
-7640,45+,Male,Expats,No Degree,530,stroke heart disease,MA
-7641,18-24,Female,Expats,No Degree,280,stroke heart disease,MA
-7642,25-44,Female,Expats,No Degree,780,stroke heart disease,MA
-7643,45+,Female,Expats,No Degree,300,stroke heart disease,MA
-7644,18-24,Male,Expats,High School,500,stroke heart disease,MA
-7645,25-44,Male,Expats,High School,420,stroke heart disease,MA
-7646,45+,Male,Expats,High School,160,stroke heart disease,MA
-7647,18-24,Female,Expats,High School,200,stroke heart disease,MA
-7648,25-44,Female,Expats,High School,190,stroke heart disease,MA
-7649,45+,Female,Expats,High School,90,stroke heart disease,MA
-7650,18-24,Male,Locals,Graduated,7700,stroke heart disease,MA
-7651,25-44,Male,Locals,Graduated,17000,stroke heart disease,MA
-7652,45+,Male,Locals,Graduated,7800,stroke heart disease,MA
-7653,18-24,Female,Locals,Graduated,6000,stroke heart disease,MA
-7654,25-44,Female,Locals,Graduated,8900,stroke heart disease,MA
-7655,45+,Female,Locals,Graduated,2700,stroke heart disease,MA
-7656,18-24,Male,Locals,No Degree,7200,stroke heart disease,MA
-7657,25-44,Male,Locals,No Degree,19000,stroke heart disease,MA
-7658,45+,Male,Locals,No Degree,9400,stroke heart disease,MA
-7659,18-24,Female,Locals,No Degree,6200,stroke heart disease,MA
-7660,25-44,Female,Locals,No Degree,11000,stroke heart disease,MA
-7661,45+,Female,Locals,No Degree,4900,stroke heart disease,MA
-7662,18-24,Male,Locals,High School,3000,stroke heart disease,MA
-7663,25-44,Male,Locals,High School,4800,stroke heart disease,MA
-7664,45+,Male,Locals,High School,2500,stroke heart disease,MA
-7665,18-24,Female,Locals,High School,2600,stroke heart disease,MA
-7666,25-44,Female,Locals,High School,2700,stroke heart disease,MA
-7667,45+,Female,Locals,High School,1100,stroke heart disease,MA
+7560,18-24,Male,Expats,Graduated,1400,stroke heart disease,LB
+7561,25-44,Male,Expats,Graduated,2700,stroke heart disease,LB
+7562,45+,Male,Expats,Graduated,690,stroke heart disease,LB
+7563,18-24,Female,Expats,Graduated,540,stroke heart disease,LB
+7564,25-44,Female,Expats,Graduated,1600,stroke heart disease,LB
+7565,45+,Female,Expats,Graduated,1100,stroke heart disease,LB
+7566,18-24,Male,Expats,No Degree,2200,stroke heart disease,LB
+7567,25-44,Male,Expats,No Degree,4600,stroke heart disease,LB
+7568,45+,Male,Expats,No Degree,1200,stroke heart disease,LB
+7569,18-24,Female,Expats,No Degree,790,stroke heart disease,LB
+7570,25-44,Female,Expats,No Degree,2000,stroke heart disease,LB
+7571,45+,Female,Expats,No Degree,1900,stroke heart disease,LB
+7572,18-24,Male,Expats,High School,850,stroke heart disease,LB
+7573,25-44,Male,Expats,High School,1300,stroke heart disease,LB
+7574,45+,Male,Expats,High School,360,stroke heart disease,LB
+7575,18-24,Female,Expats,High School,320,stroke heart disease,LB
+7576,25-44,Female,Expats,High School,580,stroke heart disease,LB
+7577,45+,Female,Expats,High School,400,stroke heart disease,LB
+7578,18-24,Male,Locals,Graduated,3000,stroke heart disease,LB
+7579,25-44,Male,Locals,Graduated,7700,stroke heart disease,LB
+7580,45+,Male,Locals,Graduated,3200,stroke heart disease,LB
+7581,18-24,Female,Locals,Graduated,3000,stroke heart disease,LB
+7582,25-44,Female,Locals,Graduated,8200,stroke heart disease,LB
+7583,45+,Female,Locals,Graduated,5600,stroke heart disease,LB
+7584,18-24,Male,Locals,No Degree,5000,stroke heart disease,LB
+7585,25-44,Male,Locals,No Degree,7600,stroke heart disease,LB
+7586,45+,Male,Locals,No Degree,6600,stroke heart disease,LB
+7587,18-24,Female,Locals,No Degree,3800,stroke heart disease,LB
+7588,25-44,Female,Locals,No Degree,9600,stroke heart disease,LB
+7589,45+,Female,Locals,No Degree,12000,stroke heart disease,LB
+7590,18-24,Male,Locals,High School,2600,stroke heart disease,LB
+7591,25-44,Male,Locals,High School,1900,stroke heart disease,LB
+7592,45+,Male,Locals,High School,940,stroke heart disease,LB
+7593,18-24,Female,Locals,High School,3200,stroke heart disease,LB
+7594,25-44,Female,Locals,High School,1800,stroke heart disease,LB
+7595,45+,Female,Locals,High School,1800,stroke heart disease,LB
+7596,18-24,Male,Expats,Graduated,1000,stroke heart disease,LY
+7597,25-44,Male,Expats,Graduated,3200,stroke heart disease,LY
+7598,45+,Male,Expats,Graduated,830,stroke heart disease,LY
+7599,18-24,Female,Expats,Graduated,410,stroke heart disease,LY
+7600,25-44,Female,Expats,Graduated,1400,stroke heart disease,LY
+7601,45+,Female,Expats,Graduated,410,stroke heart disease,LY
+7602,18-24,Male,Expats,No Degree,1300,stroke heart disease,LY
+7603,25-44,Male,Expats,No Degree,3200,stroke heart disease,LY
+7604,45+,Male,Expats,No Degree,840,stroke heart disease,LY
+7605,18-24,Female,Expats,No Degree,440,stroke heart disease,LY
+7606,25-44,Female,Expats,No Degree,1400,stroke heart disease,LY
+7607,45+,Female,Expats,No Degree,540,stroke heart disease,LY
+7608,18-24,Male,Expats,High School,480,stroke heart disease,LY
+7609,25-44,Male,Expats,High School,950,stroke heart disease,LY
+7610,45+,Male,Expats,High School,220,stroke heart disease,LY
+7611,18-24,Female,Expats,High School,270,stroke heart disease,LY
+7612,25-44,Female,Expats,High School,370,stroke heart disease,LY
+7613,45+,Female,Expats,High School,120,stroke heart disease,LY
+7614,18-24,Male,Locals,Graduated,6700,stroke heart disease,LY
+7615,25-44,Male,Locals,Graduated,18000,stroke heart disease,LY
+7616,45+,Male,Locals,Graduated,5100,stroke heart disease,LY
+7617,18-24,Female,Locals,Graduated,5900,stroke heart disease,LY
+7618,25-44,Female,Locals,Graduated,15000,stroke heart disease,LY
+7619,45+,Female,Locals,Graduated,3000,stroke heart disease,LY
+7620,18-24,Male,Locals,No Degree,5800,stroke heart disease,LY
+7621,25-44,Male,Locals,No Degree,15000,stroke heart disease,LY
+7622,45+,Male,Locals,No Degree,6300,stroke heart disease,LY
+7623,18-24,Female,Locals,No Degree,5400,stroke heart disease,LY
+7624,25-44,Female,Locals,No Degree,16000,stroke heart disease,LY
+7625,45+,Female,Locals,No Degree,7100,stroke heart disease,LY
+7626,18-24,Male,Locals,High School,4100,stroke heart disease,LY
+7627,25-44,Male,Locals,High School,3900,stroke heart disease,LY
+7628,45+,Male,Locals,High School,1500,stroke heart disease,LY
+7629,18-24,Female,Locals,High School,4200,stroke heart disease,LY
+7630,25-44,Female,Locals,High School,3500,stroke heart disease,LY
+7631,45+,Female,Locals,High School,920,stroke heart disease,LY
+7632,18-24,Male,Expats,Graduated,2000,stroke heart disease,MA
+7633,25-44,Male,Expats,Graduated,2400,stroke heart disease,MA
+7634,45+,Male,Expats,Graduated,720,stroke heart disease,MA
+7635,18-24,Female,Expats,Graduated,560,stroke heart disease,MA
+7636,25-44,Female,Expats,Graduated,860,stroke heart disease,MA
+7637,45+,Female,Expats,Graduated,330,stroke heart disease,MA
+7638,18-24,Male,Expats,No Degree,840,stroke heart disease,MA
+7639,25-44,Male,Expats,No Degree,1300,stroke heart disease,MA
+7640,45+,Male,Expats,No Degree,580,stroke heart disease,MA
+7641,18-24,Female,Expats,No Degree,410,stroke heart disease,MA
+7642,25-44,Female,Expats,No Degree,920,stroke heart disease,MA
+7643,45+,Female,Expats,No Degree,360,stroke heart disease,MA
+7644,18-24,Male,Expats,High School,720,stroke heart disease,MA
+7645,25-44,Male,Expats,High School,540,stroke heart disease,MA
+7646,45+,Male,Expats,High School,220,stroke heart disease,MA
+7647,18-24,Female,Expats,High School,280,stroke heart disease,MA
+7648,25-44,Female,Expats,High School,240,stroke heart disease,MA
+7649,45+,Female,Expats,High School,120,stroke heart disease,MA
+7650,18-24,Male,Locals,Graduated,11000,stroke heart disease,MA
+7651,25-44,Male,Locals,Graduated,20000,stroke heart disease,MA
+7652,45+,Male,Locals,Graduated,9000,stroke heart disease,MA
+7653,18-24,Female,Locals,Graduated,7900,stroke heart disease,MA
+7654,25-44,Female,Locals,Graduated,10000,stroke heart disease,MA
+7655,45+,Female,Locals,Graduated,3100,stroke heart disease,MA
+7656,18-24,Male,Locals,No Degree,10000,stroke heart disease,MA
+7657,25-44,Male,Locals,No Degree,23000,stroke heart disease,MA
+7658,45+,Male,Locals,No Degree,11000,stroke heart disease,MA
+7659,18-24,Female,Locals,No Degree,8900,stroke heart disease,MA
+7660,25-44,Female,Locals,No Degree,13000,stroke heart disease,MA
+7661,45+,Female,Locals,No Degree,5400,stroke heart disease,MA
+7662,18-24,Male,Locals,High School,4500,stroke heart disease,MA
+7663,25-44,Male,Locals,High School,5700,stroke heart disease,MA
+7664,45+,Male,Locals,High School,3000,stroke heart disease,MA
+7665,18-24,Female,Locals,High School,3600,stroke heart disease,MA
+7666,25-44,Female,Locals,High School,3000,stroke heart disease,MA
+7667,45+,Female,Locals,High School,1200,stroke heart disease,MA
 7668,18-24,Male,Expats,Graduated,700,stroke heart disease,OM
-7669,25-44,Male,Expats,Graduated,2900,stroke heart disease,OM
-7670,45+,Male,Expats,Graduated,500,stroke heart disease,OM
-7671,18-24,Female,Expats,Graduated,100,stroke heart disease,OM
+7669,25-44,Male,Expats,Graduated,2800,stroke heart disease,OM
+7670,45+,Male,Expats,Graduated,510,stroke heart disease,OM
+7671,18-24,Female,Expats,Graduated,90,stroke heart disease,OM
 7672,25-44,Female,Expats,Graduated,2700,stroke heart disease,OM
-7673,45+,Female,Expats,Graduated,970,stroke heart disease,OM
+7673,45+,Female,Expats,Graduated,990,stroke heart disease,OM
 7674,18-24,Male,Expats,No Degree,1200,stroke heart disease,OM
-7675,25-44,Male,Expats,No Degree,2400,stroke heart disease,OM
-7676,45+,Male,Expats,No Degree,440,stroke heart disease,OM
+7675,25-44,Male,Expats,No Degree,2500,stroke heart disease,OM
+7676,45+,Male,Expats,No Degree,460,stroke heart disease,OM
 7677,18-24,Female,Expats,No Degree,230,stroke heart disease,OM
 7678,25-44,Female,Expats,No Degree,1100,stroke heart disease,OM
 7679,45+,Female,Expats,No Degree,720,stroke heart disease,OM
 7680,18-24,Male,Expats,High School,200,stroke heart disease,OM
-7681,25-44,Male,Expats,High School,770,stroke heart disease,OM
-7682,45+,Male,Expats,High School,170,stroke heart disease,OM
+7681,25-44,Male,Expats,High School,780,stroke heart disease,OM
+7682,45+,Male,Expats,High School,150,stroke heart disease,OM
 7683,18-24,Female,Expats,High School,100,stroke heart disease,OM
 7684,25-44,Female,Expats,High School,540,stroke heart disease,OM
-7685,45+,Female,Expats,High School,280,stroke heart disease,OM
-7686,18-24,Male,Locals,Graduated,90,stroke heart disease,OM
+7685,45+,Female,Expats,High School,300,stroke heart disease,OM
+7686,18-24,Male,Locals,Graduated,100,stroke heart disease,OM
 7687,25-44,Male,Locals,Graduated,270,stroke heart disease,OM
-7688,45+,Male,Locals,Graduated,20,stroke heart disease,OM
+7688,45+,Male,Locals,Graduated,30,stroke heart disease,OM
 7689,18-24,Female,Locals,Graduated,20,stroke heart disease,OM
 7690,25-44,Female,Locals,Graduated,90,stroke heart disease,OM
 7691,45+,Female,Locals,Graduated,20,stroke heart disease,OM
 7692,18-24,Male,Locals,No Degree,70,stroke heart disease,OM
-7693,25-44,Male,Locals,No Degree,190,stroke heart disease,OM
-7694,45+,Male,Locals,No Degree,20,stroke heart disease,OM
+7693,25-44,Male,Locals,No Degree,200,stroke heart disease,OM
+7694,45+,Male,Locals,No Degree,30,stroke heart disease,OM
 7695,18-24,Female,Locals,No Degree,20,stroke heart disease,OM
 7696,25-44,Female,Locals,No Degree,50,stroke heart disease,OM
 7697,45+,Female,Locals,No Degree,20,stroke heart disease,OM
 7698,18-24,Male,Locals,High School,40,stroke heart disease,OM
-7699,25-44,Male,Locals,High School,40,stroke heart disease,OM
+7699,25-44,Male,Locals,High School,50,stroke heart disease,OM
 7700,45+,Male,Locals,High School,20,stroke heart disease,OM
 7701,18-24,Female,Locals,High School,20,stroke heart disease,OM
 7702,25-44,Female,Locals,High School,20,stroke heart disease,OM
 7703,45+,Female,Locals,High School,20,stroke heart disease,OM
-7704,18-24,Male,Expats,Graduated,3100,stroke heart disease,QA
-7705,25-44,Male,Expats,Graduated,11000,stroke heart disease,QA
-7706,45+,Male,Expats,Graduated,2100,stroke heart disease,QA
-7707,18-24,Female,Expats,Graduated,610,stroke heart disease,QA
-7708,25-44,Female,Expats,Graduated,6000,stroke heart disease,QA
-7709,45+,Female,Expats,Graduated,1600,stroke heart disease,QA
-7710,18-24,Male,Expats,No Degree,4600,stroke heart disease,QA
-7711,25-44,Male,Expats,No Degree,10000,stroke heart disease,QA
-7712,45+,Male,Expats,No Degree,1800,stroke heart disease,QA
-7713,18-24,Female,Expats,No Degree,640,stroke heart disease,QA
-7714,25-44,Female,Expats,No Degree,2400,stroke heart disease,QA
-7715,45+,Female,Expats,No Degree,990,stroke heart disease,QA
-7716,18-24,Male,Expats,High School,1200,stroke heart disease,QA
-7717,25-44,Male,Expats,High School,2600,stroke heart disease,QA
-7718,45+,Male,Expats,High School,600,stroke heart disease,QA
-7719,18-24,Female,Expats,High School,330,stroke heart disease,QA
-7720,25-44,Female,Expats,High School,1600,stroke heart disease,QA
-7721,45+,Female,Expats,High School,530,stroke heart disease,QA
+7704,18-24,Male,Expats,Graduated,3400,stroke heart disease,QA
+7705,25-44,Male,Expats,Graduated,13000,stroke heart disease,QA
+7706,45+,Male,Expats,Graduated,2200,stroke heart disease,QA
+7707,18-24,Female,Expats,Graduated,700,stroke heart disease,QA
+7708,25-44,Female,Expats,Graduated,7100,stroke heart disease,QA
+7709,45+,Female,Expats,Graduated,1800,stroke heart disease,QA
+7710,18-24,Male,Expats,No Degree,5100,stroke heart disease,QA
+7711,25-44,Male,Expats,No Degree,12000,stroke heart disease,QA
+7712,45+,Male,Expats,No Degree,1900,stroke heart disease,QA
+7713,18-24,Female,Expats,No Degree,720,stroke heart disease,QA
+7714,25-44,Female,Expats,No Degree,2700,stroke heart disease,QA
+7715,45+,Female,Expats,No Degree,1100,stroke heart disease,QA
+7716,18-24,Male,Expats,High School,1300,stroke heart disease,QA
+7717,25-44,Male,Expats,High School,3100,stroke heart disease,QA
+7718,45+,Male,Expats,High School,670,stroke heart disease,QA
+7719,18-24,Female,Expats,High School,360,stroke heart disease,QA
+7720,25-44,Female,Expats,High School,1800,stroke heart disease,QA
+7721,45+,Female,Expats,High School,570,stroke heart disease,QA
 7722,18-24,Male,Locals,Graduated,20,stroke heart disease,QA
-7723,25-44,Male,Locals,Graduated,150,stroke heart disease,QA
+7723,25-44,Male,Locals,Graduated,190,stroke heart disease,QA
 7724,45+,Male,Locals,Graduated,20,stroke heart disease,QA
 7725,18-24,Female,Locals,Graduated,30,stroke heart disease,QA
 7726,25-44,Female,Locals,Graduated,70,stroke heart disease,QA
 7727,45+,Female,Locals,Graduated,20,stroke heart disease,QA
-7728,18-24,Male,Locals,No Degree,70,stroke heart disease,QA
-7729,25-44,Male,Locals,No Degree,90,stroke heart disease,QA
-7730,45+,Male,Locals,No Degree,30,stroke heart disease,QA
+7728,18-24,Male,Locals,No Degree,80,stroke heart disease,QA
+7729,25-44,Male,Locals,No Degree,140,stroke heart disease,QA
+7730,45+,Male,Locals,No Degree,20,stroke heart disease,QA
 7731,18-24,Female,Locals,No Degree,20,stroke heart disease,QA
-7732,25-44,Female,Locals,No Degree,90,stroke heart disease,QA
-7733,45+,Female,Locals,No Degree,50,stroke heart disease,QA
+7732,25-44,Female,Locals,No Degree,110,stroke heart disease,QA
+7733,45+,Female,Locals,No Degree,30,stroke heart disease,QA
 7734,18-24,Male,Locals,High School,20,stroke heart disease,QA
-7735,25-44,Male,Locals,High School,30,stroke heart disease,QA
+7735,25-44,Male,Locals,High School,20,stroke heart disease,QA
 7736,45+,Male,Locals,High School,20,stroke heart disease,QA
 7737,18-24,Female,Locals,High School,20,stroke heart disease,QA
 7738,25-44,Female,Locals,High School,20,stroke heart disease,QA
 7739,45+,Female,Locals,High School,20,stroke heart disease,QA
-7740,18-24,Male,Expats,Graduated,12000,stroke heart disease,SA
-7741,25-44,Male,Expats,Graduated,72000,stroke heart disease,SA
-7742,45+,Male,Expats,Graduated,14000,stroke heart disease,SA
-7743,18-24,Female,Expats,Graduated,3000,stroke heart disease,SA
-7744,25-44,Female,Expats,Graduated,26000,stroke heart disease,SA
-7745,45+,Female,Expats,Graduated,7700,stroke heart disease,SA
-7746,18-24,Male,Expats,No Degree,3600,stroke heart disease,SA
-7747,25-44,Male,Expats,No Degree,15000,stroke heart disease,SA
-7748,45+,Male,Expats,No Degree,3500,stroke heart disease,SA
-7749,18-24,Female,Expats,No Degree,1000,stroke heart disease,SA
-7750,25-44,Female,Expats,No Degree,6200,stroke heart disease,SA
-7751,45+,Female,Expats,No Degree,2300,stroke heart disease,SA
-7752,18-24,Male,Expats,High School,4000,stroke heart disease,SA
-7753,25-44,Male,Expats,High School,17000,stroke heart disease,SA
-7754,45+,Male,Expats,High School,3700,stroke heart disease,SA
-7755,18-24,Female,Expats,High School,1400,stroke heart disease,SA
-7756,25-44,Female,Expats,High School,7500,stroke heart disease,SA
-7757,45+,Female,Expats,High School,2400,stroke heart disease,SA
-7758,18-24,Male,Locals,Graduated,4800,stroke heart disease,SA
-7759,25-44,Male,Locals,Graduated,23000,stroke heart disease,SA
-7760,45+,Male,Locals,Graduated,4400,stroke heart disease,SA
+7740,18-24,Male,Expats,Graduated,13000,stroke heart disease,SA
+7741,25-44,Male,Expats,Graduated,78000,stroke heart disease,SA
+7742,45+,Male,Expats,Graduated,15000,stroke heart disease,SA
+7743,18-24,Female,Expats,Graduated,3100,stroke heart disease,SA
+7744,25-44,Female,Expats,Graduated,27000,stroke heart disease,SA
+7745,45+,Female,Expats,Graduated,8000,stroke heart disease,SA
+7746,18-24,Male,Expats,No Degree,3900,stroke heart disease,SA
+7747,25-44,Male,Expats,No Degree,16000,stroke heart disease,SA
+7748,45+,Male,Expats,No Degree,3800,stroke heart disease,SA
+7749,18-24,Female,Expats,No Degree,1100,stroke heart disease,SA
+7750,25-44,Female,Expats,No Degree,6600,stroke heart disease,SA
+7751,45+,Female,Expats,No Degree,2400,stroke heart disease,SA
+7752,18-24,Male,Expats,High School,4200,stroke heart disease,SA
+7753,25-44,Male,Expats,High School,19000,stroke heart disease,SA
+7754,45+,Male,Expats,High School,4100,stroke heart disease,SA
+7755,18-24,Female,Expats,High School,1500,stroke heart disease,SA
+7756,25-44,Female,Expats,High School,8000,stroke heart disease,SA
+7757,45+,Female,Expats,High School,2500,stroke heart disease,SA
+7758,18-24,Male,Locals,Graduated,5100,stroke heart disease,SA
+7759,25-44,Male,Locals,Graduated,25000,stroke heart disease,SA
+7760,45+,Male,Locals,Graduated,4800,stroke heart disease,SA
 7761,18-24,Female,Locals,Graduated,1300,stroke heart disease,SA
-7762,25-44,Female,Locals,Graduated,7200,stroke heart disease,SA
+7762,25-44,Female,Locals,Graduated,7400,stroke heart disease,SA
 7763,45+,Female,Locals,Graduated,2200,stroke heart disease,SA
-7764,18-24,Male,Locals,No Degree,43000,stroke heart disease,SA
-7765,25-44,Male,Locals,No Degree,96000,stroke heart disease,SA
-7766,45+,Male,Locals,No Degree,18000,stroke heart disease,SA
-7767,18-24,Female,Locals,No Degree,9700,stroke heart disease,SA
-7768,25-44,Female,Locals,No Degree,15000,stroke heart disease,SA
-7769,45+,Female,Locals,No Degree,6000,stroke heart disease,SA
-7770,18-24,Male,Locals,High School,2600,stroke heart disease,SA
-7771,25-44,Male,Locals,High School,9200,stroke heart disease,SA
-7772,45+,Male,Locals,High School,1900,stroke heart disease,SA
+7764,18-24,Male,Locals,No Degree,45000,stroke heart disease,SA
+7765,25-44,Male,Locals,No Degree,110000,stroke heart disease,SA
+7766,45+,Male,Locals,No Degree,19000,stroke heart disease,SA
+7767,18-24,Female,Locals,No Degree,9900,stroke heart disease,SA
+7768,25-44,Female,Locals,No Degree,16000,stroke heart disease,SA
+7769,45+,Female,Locals,No Degree,6400,stroke heart disease,SA
+7770,18-24,Male,Locals,High School,2800,stroke heart disease,SA
+7771,25-44,Male,Locals,High School,10000,stroke heart disease,SA
+7772,45+,Male,Locals,High School,2000,stroke heart disease,SA
 7773,18-24,Female,Locals,High School,1000,stroke heart disease,SA
-7774,25-44,Female,Locals,High School,2900,stroke heart disease,SA
-7775,45+,Female,Locals,High School,870,stroke heart disease,SA
+7774,25-44,Female,Locals,High School,3000,stroke heart disease,SA
+7775,45+,Female,Locals,High School,920,stroke heart disease,SA
 7776,18-24,Male,Expats,Graduated,70,stroke heart disease,SO
-7777,25-44,Male,Expats,Graduated,170,stroke heart disease,SO
+7777,25-44,Male,Expats,Graduated,160,stroke heart disease,SO
 7778,45+,Male,Expats,Graduated,20,stroke heart disease,SO
 7779,18-24,Female,Expats,Graduated,40,stroke heart disease,SO
 7780,25-44,Female,Expats,Graduated,40,stroke heart disease,SO
 7781,45+,Female,Expats,Graduated,20,stroke heart disease,SO
 7782,18-24,Male,Expats,No Degree,20,stroke heart disease,SO
-7783,25-44,Male,Expats,No Degree,30,stroke heart disease,SO
+7783,25-44,Male,Expats,No Degree,20,stroke heart disease,SO
 7784,45+,Male,Expats,No Degree,20,stroke heart disease,SO
 7785,18-24,Female,Expats,No Degree,20,stroke heart disease,SO
 7786,25-44,Female,Expats,No Degree,20,stroke heart disease,SO
@@ -1061,17 +1061,17 @@
 7791,18-24,Female,Expats,High School,20,stroke heart disease,SO
 7792,25-44,Female,Expats,High School,20,stroke heart disease,SO
 7793,45+,Female,Expats,High School,20,stroke heart disease,SO
-7794,18-24,Male,Locals,Graduated,300,stroke heart disease,SO
-7795,25-44,Male,Locals,Graduated,400,stroke heart disease,SO
+7794,18-24,Male,Locals,Graduated,310,stroke heart disease,SO
+7795,25-44,Male,Locals,Graduated,420,stroke heart disease,SO
 7796,45+,Male,Locals,Graduated,20,stroke heart disease,SO
 7797,18-24,Female,Locals,Graduated,270,stroke heart disease,SO
-7798,25-44,Female,Locals,Graduated,130,stroke heart disease,SO
+7798,25-44,Female,Locals,Graduated,120,stroke heart disease,SO
 7799,45+,Female,Locals,Graduated,20,stroke heart disease,SO
-7800,18-24,Male,Locals,No Degree,170,stroke heart disease,SO
+7800,18-24,Male,Locals,No Degree,180,stroke heart disease,SO
 7801,25-44,Male,Locals,No Degree,90,stroke heart disease,SO
 7802,45+,Male,Locals,No Degree,20,stroke heart disease,SO
-7803,18-24,Female,Locals,No Degree,180,stroke heart disease,SO
-7804,25-44,Female,Locals,No Degree,80,stroke heart disease,SO
+7803,18-24,Female,Locals,No Degree,170,stroke heart disease,SO
+7804,25-44,Female,Locals,No Degree,70,stroke heart disease,SO
 7805,45+,Female,Locals,No Degree,20,stroke heart disease,SO
 7806,18-24,Male,Locals,High School,90,stroke heart disease,SO
 7807,25-44,Male,Locals,High School,80,stroke heart disease,SO
@@ -1079,147 +1079,147 @@
 7809,18-24,Female,Locals,High School,90,stroke heart disease,SO
 7810,25-44,Female,Locals,High School,20,stroke heart disease,SO
 7811,45+,Female,Locals,High School,30,stroke heart disease,SO
-7812,18-24,Male,Expats,Graduated,620,stroke heart disease,TN
+7812,18-24,Male,Expats,Graduated,630,stroke heart disease,TN
 7813,25-44,Male,Expats,Graduated,1300,stroke heart disease,TN
-7814,45+,Male,Expats,Graduated,680,stroke heart disease,TN
-7815,18-24,Female,Expats,Graduated,510,stroke heart disease,TN
-7816,25-44,Female,Expats,Graduated,910,stroke heart disease,TN
-7817,45+,Female,Expats,Graduated,400,stroke heart disease,TN
-7818,18-24,Male,Expats,No Degree,360,stroke heart disease,TN
-7819,25-44,Male,Expats,No Degree,740,stroke heart disease,TN
-7820,45+,Male,Expats,No Degree,440,stroke heart disease,TN
-7821,18-24,Female,Expats,No Degree,280,stroke heart disease,TN
-7822,25-44,Female,Expats,No Degree,850,stroke heart disease,TN
-7823,45+,Female,Expats,No Degree,410,stroke heart disease,TN
-7824,18-24,Male,Expats,High School,250,stroke heart disease,TN
-7825,25-44,Male,Expats,High School,340,stroke heart disease,TN
-7826,45+,Male,Expats,High School,190,stroke heart disease,TN
+7814,45+,Male,Expats,Graduated,670,stroke heart disease,TN
+7815,18-24,Female,Expats,Graduated,560,stroke heart disease,TN
+7816,25-44,Female,Expats,Graduated,1100,stroke heart disease,TN
+7817,45+,Female,Expats,Graduated,410,stroke heart disease,TN
+7818,18-24,Male,Expats,No Degree,400,stroke heart disease,TN
+7819,25-44,Male,Expats,No Degree,790,stroke heart disease,TN
+7820,45+,Male,Expats,No Degree,450,stroke heart disease,TN
+7821,18-24,Female,Expats,No Degree,400,stroke heart disease,TN
+7822,25-44,Female,Expats,No Degree,910,stroke heart disease,TN
+7823,45+,Female,Expats,No Degree,440,stroke heart disease,TN
+7824,18-24,Male,Expats,High School,300,stroke heart disease,TN
+7825,25-44,Male,Expats,High School,360,stroke heart disease,TN
+7826,45+,Male,Expats,High School,200,stroke heart disease,TN
 7827,18-24,Female,Expats,High School,160,stroke heart disease,TN
-7828,25-44,Female,Expats,High School,350,stroke heart disease,TN
+7828,25-44,Female,Expats,High School,390,stroke heart disease,TN
 7829,45+,Female,Expats,High School,90,stroke heart disease,TN
-7830,18-24,Male,Locals,Graduated,3300,stroke heart disease,TN
-7831,25-44,Male,Locals,Graduated,11000,stroke heart disease,TN
-7832,45+,Male,Locals,Graduated,7500,stroke heart disease,TN
-7833,18-24,Female,Locals,Graduated,7500,stroke heart disease,TN
-7834,25-44,Female,Locals,Graduated,18000,stroke heart disease,TN
-7835,45+,Female,Locals,Graduated,5300,stroke heart disease,TN
-7836,18-24,Male,Locals,No Degree,2500,stroke heart disease,TN
-7837,25-44,Male,Locals,No Degree,11000,stroke heart disease,TN
-7838,45+,Male,Locals,No Degree,9500,stroke heart disease,TN
-7839,18-24,Female,Locals,No Degree,5100,stroke heart disease,TN
-7840,25-44,Female,Locals,No Degree,15000,stroke heart disease,TN
-7841,45+,Female,Locals,No Degree,9000,stroke heart disease,TN
-7842,18-24,Male,Locals,High School,1500,stroke heart disease,TN
-7843,25-44,Male,Locals,High School,3700,stroke heart disease,TN
-7844,45+,Male,Locals,High School,3300,stroke heart disease,TN
-7845,18-24,Female,Locals,High School,3500,stroke heart disease,TN
-7846,25-44,Female,Locals,High School,5100,stroke heart disease,TN
-7847,45+,Female,Locals,High School,2700,stroke heart disease,TN
-7848,18-24,Male,Expats,Graduated,5600,stroke heart disease,AE
-7849,25-44,Male,Expats,Graduated,22000,stroke heart disease,AE
-7850,45+,Male,Expats,Graduated,5400,stroke heart disease,AE
-7851,18-24,Female,Expats,Graduated,4500,stroke heart disease,AE
-7852,25-44,Female,Expats,Graduated,48000,stroke heart disease,AE
+7830,18-24,Male,Locals,Graduated,3500,stroke heart disease,TN
+7831,25-44,Male,Locals,Graduated,12000,stroke heart disease,TN
+7832,45+,Male,Locals,Graduated,8000,stroke heart disease,TN
+7833,18-24,Female,Locals,Graduated,8600,stroke heart disease,TN
+7834,25-44,Female,Locals,Graduated,21000,stroke heart disease,TN
+7835,45+,Female,Locals,Graduated,5600,stroke heart disease,TN
+7836,18-24,Male,Locals,No Degree,2800,stroke heart disease,TN
+7837,25-44,Male,Locals,No Degree,12000,stroke heart disease,TN
+7838,45+,Male,Locals,No Degree,10000,stroke heart disease,TN
+7839,18-24,Female,Locals,No Degree,6000,stroke heart disease,TN
+7840,25-44,Female,Locals,No Degree,17000,stroke heart disease,TN
+7841,45+,Female,Locals,No Degree,9400,stroke heart disease,TN
+7842,18-24,Male,Locals,High School,1700,stroke heart disease,TN
+7843,25-44,Male,Locals,High School,3900,stroke heart disease,TN
+7844,45+,Male,Locals,High School,3500,stroke heart disease,TN
+7845,18-24,Female,Locals,High School,4100,stroke heart disease,TN
+7846,25-44,Female,Locals,High School,5800,stroke heart disease,TN
+7847,45+,Female,Locals,High School,2800,stroke heart disease,TN
+7848,18-24,Male,Expats,Graduated,6100,stroke heart disease,AE
+7849,25-44,Male,Expats,Graduated,24000,stroke heart disease,AE
+7850,45+,Male,Expats,Graduated,6000,stroke heart disease,AE
+7851,18-24,Female,Expats,Graduated,4700,stroke heart disease,AE
+7852,25-44,Female,Expats,Graduated,49000,stroke heart disease,AE
 7853,45+,Female,Expats,Graduated,11000,stroke heart disease,AE
-7854,18-24,Male,Expats,No Degree,9200,stroke heart disease,AE
-7855,25-44,Male,Expats,No Degree,17000,stroke heart disease,AE
-7856,45+,Male,Expats,No Degree,4900,stroke heart disease,AE
+7854,18-24,Male,Expats,No Degree,10000,stroke heart disease,AE
+7855,25-44,Male,Expats,No Degree,19000,stroke heart disease,AE
+7856,45+,Male,Expats,No Degree,5300,stroke heart disease,AE
 7857,18-24,Female,Expats,No Degree,5300,stroke heart disease,AE
-7858,25-44,Female,Expats,No Degree,20000,stroke heart disease,AE
-7859,45+,Female,Expats,No Degree,7700,stroke heart disease,AE
-7860,18-24,Male,Expats,High School,1900,stroke heart disease,AE
-7861,25-44,Male,Expats,High School,4300,stroke heart disease,AE
-7862,45+,Male,Expats,High School,1400,stroke heart disease,AE
-7863,18-24,Female,Expats,High School,2200,stroke heart disease,AE
+7858,25-44,Female,Expats,No Degree,21000,stroke heart disease,AE
+7859,45+,Female,Expats,No Degree,8000,stroke heart disease,AE
+7860,18-24,Male,Expats,High School,2200,stroke heart disease,AE
+7861,25-44,Male,Expats,High School,4800,stroke heart disease,AE
+7862,45+,Male,Expats,High School,1500,stroke heart disease,AE
+7863,18-24,Female,Expats,High School,2300,stroke heart disease,AE
 7864,25-44,Female,Expats,High School,11000,stroke heart disease,AE
-7865,45+,Female,Expats,High School,3400,stroke heart disease,AE
+7865,45+,Female,Expats,High School,3500,stroke heart disease,AE
 7866,18-24,Male,Locals,Graduated,190,stroke heart disease,AE
-7867,25-44,Male,Locals,Graduated,570,stroke heart disease,AE
+7867,25-44,Male,Locals,Graduated,630,stroke heart disease,AE
 7868,45+,Male,Locals,Graduated,90,stroke heart disease,AE
-7869,18-24,Female,Locals,Graduated,170,stroke heart disease,AE
-7870,25-44,Female,Locals,Graduated,890,stroke heart disease,AE
-7871,45+,Female,Locals,Graduated,70,stroke heart disease,AE
-7872,18-24,Male,Locals,No Degree,350,stroke heart disease,AE
-7873,25-44,Male,Locals,No Degree,900,stroke heart disease,AE
-7874,45+,Male,Locals,No Degree,140,stroke heart disease,AE
-7875,18-24,Female,Locals,No Degree,380,stroke heart disease,AE
-7876,25-44,Female,Locals,No Degree,1200,stroke heart disease,AE
-7877,45+,Female,Locals,No Degree,180,stroke heart disease,AE
+7869,18-24,Female,Locals,Graduated,180,stroke heart disease,AE
+7870,25-44,Female,Locals,Graduated,870,stroke heart disease,AE
+7871,45+,Female,Locals,Graduated,60,stroke heart disease,AE
+7872,18-24,Male,Locals,No Degree,460,stroke heart disease,AE
+7873,25-44,Male,Locals,No Degree,1100,stroke heart disease,AE
+7874,45+,Male,Locals,No Degree,150,stroke heart disease,AE
+7875,18-24,Female,Locals,No Degree,400,stroke heart disease,AE
+7876,25-44,Female,Locals,No Degree,1300,stroke heart disease,AE
+7877,45+,Female,Locals,No Degree,220,stroke heart disease,AE
 7878,18-24,Male,Locals,High School,110,stroke heart disease,AE
 7879,25-44,Male,Locals,High School,180,stroke heart disease,AE
 7880,45+,Male,Locals,High School,60,stroke heart disease,AE
-7881,18-24,Female,Locals,High School,100,stroke heart disease,AE
+7881,18-24,Female,Locals,High School,120,stroke heart disease,AE
 7882,25-44,Female,Locals,High School,180,stroke heart disease,AE
 7883,45+,Female,Locals,High School,20,stroke heart disease,AE
 7884,18-24,Male,Expats,Graduated,1500,stroke heart disease,YE
-7885,25-44,Male,Expats,Graduated,2400,stroke heart disease,YE
-7886,45+,Male,Expats,Graduated,260,stroke heart disease,YE
-7887,18-24,Female,Expats,Graduated,120,stroke heart disease,YE
-7888,25-44,Female,Expats,Graduated,340,stroke heart disease,YE
+7885,25-44,Male,Expats,Graduated,2500,stroke heart disease,YE
+7886,45+,Male,Expats,Graduated,270,stroke heart disease,YE
+7887,18-24,Female,Expats,Graduated,140,stroke heart disease,YE
+7888,25-44,Female,Expats,Graduated,400,stroke heart disease,YE
 7889,45+,Female,Expats,Graduated,70,stroke heart disease,YE
-7890,18-24,Male,Expats,No Degree,580,stroke heart disease,YE
-7891,25-44,Male,Expats,No Degree,1100,stroke heart disease,YE
+7890,18-24,Male,Expats,No Degree,610,stroke heart disease,YE
+7891,25-44,Male,Expats,No Degree,1200,stroke heart disease,YE
 7892,45+,Male,Expats,No Degree,90,stroke heart disease,YE
-7893,18-24,Female,Expats,No Degree,230,stroke heart disease,YE
-7894,25-44,Female,Expats,No Degree,230,stroke heart disease,YE
-7895,45+,Female,Expats,No Degree,50,stroke heart disease,YE
-7896,18-24,Male,Expats,High School,520,stroke heart disease,YE
-7897,25-44,Male,Expats,High School,630,stroke heart disease,YE
-7898,45+,Male,Expats,High School,100,stroke heart disease,YE
+7893,18-24,Female,Expats,No Degree,240,stroke heart disease,YE
+7894,25-44,Female,Expats,No Degree,270,stroke heart disease,YE
+7895,45+,Female,Expats,No Degree,70,stroke heart disease,YE
+7896,18-24,Male,Expats,High School,550,stroke heart disease,YE
+7897,25-44,Male,Expats,High School,620,stroke heart disease,YE
+7898,45+,Male,Expats,High School,120,stroke heart disease,YE
 7899,18-24,Female,Expats,High School,220,stroke heart disease,YE
-7900,25-44,Female,Expats,High School,100,stroke heart disease,YE
+7900,25-44,Female,Expats,High School,110,stroke heart disease,YE
 7901,45+,Female,Expats,High School,20,stroke heart disease,YE
-7902,18-24,Male,Locals,Graduated,11000,stroke heart disease,YE
-7903,25-44,Male,Locals,Graduated,27000,stroke heart disease,YE
-7904,45+,Male,Locals,Graduated,2800,stroke heart disease,YE
-7905,18-24,Female,Locals,Graduated,1500,stroke heart disease,YE
-7906,25-44,Female,Locals,Graduated,3200,stroke heart disease,YE
-7907,45+,Female,Locals,Graduated,380,stroke heart disease,YE
+7902,18-24,Male,Locals,Graduated,12000,stroke heart disease,YE
+7903,25-44,Male,Locals,Graduated,28000,stroke heart disease,YE
+7904,45+,Male,Locals,Graduated,3100,stroke heart disease,YE
+7905,18-24,Female,Locals,Graduated,1600,stroke heart disease,YE
+7906,25-44,Female,Locals,Graduated,3700,stroke heart disease,YE
+7907,45+,Female,Locals,Graduated,420,stroke heart disease,YE
 7908,18-24,Male,Locals,No Degree,14000,stroke heart disease,YE
-7909,25-44,Male,Locals,No Degree,19000,stroke heart disease,YE
-7910,45+,Male,Locals,No Degree,3500,stroke heart disease,YE
-7911,18-24,Female,Locals,No Degree,1800,stroke heart disease,YE
-7912,25-44,Female,Locals,No Degree,2500,stroke heart disease,YE
-7913,45+,Female,Locals,No Degree,530,stroke heart disease,YE
-7914,18-24,Male,Locals,High School,8200,stroke heart disease,YE
-7915,25-44,Male,Locals,High School,7800,stroke heart disease,YE
-7916,45+,Male,Locals,High School,910,stroke heart disease,YE
-7917,18-24,Female,Locals,High School,1800,stroke heart disease,YE
-7918,25-44,Female,Locals,High School,930,stroke heart disease,YE
-7919,45+,Female,Locals,High School,130,stroke heart disease,YE
-7920,18-24,Male,Expats,Graduated,360,stroke heart disease,PS
-7921,25-44,Male,Expats,Graduated,880,stroke heart disease,PS
-7922,45+,Male,Expats,Graduated,270,stroke heart disease,PS
-7923,18-24,Female,Expats,Graduated,520,stroke heart disease,PS
-7924,25-44,Female,Expats,Graduated,1400,stroke heart disease,PS
-7925,45+,Female,Expats,Graduated,330,stroke heart disease,PS
+7909,25-44,Male,Locals,No Degree,20000,stroke heart disease,YE
+7910,45+,Male,Locals,No Degree,3900,stroke heart disease,YE
+7911,18-24,Female,Locals,No Degree,1900,stroke heart disease,YE
+7912,25-44,Female,Locals,No Degree,2700,stroke heart disease,YE
+7913,45+,Female,Locals,No Degree,660,stroke heart disease,YE
+7914,18-24,Male,Locals,High School,8700,stroke heart disease,YE
+7915,25-44,Male,Locals,High School,8300,stroke heart disease,YE
+7916,45+,Male,Locals,High School,990,stroke heart disease,YE
+7917,18-24,Female,Locals,High School,2000,stroke heart disease,YE
+7918,25-44,Female,Locals,High School,990,stroke heart disease,YE
+7919,45+,Female,Locals,High School,150,stroke heart disease,YE
+7920,18-24,Male,Expats,Graduated,390,stroke heart disease,PS
+7921,25-44,Male,Expats,Graduated,930,stroke heart disease,PS
+7922,45+,Male,Expats,Graduated,290,stroke heart disease,PS
+7923,18-24,Female,Expats,Graduated,540,stroke heart disease,PS
+7924,25-44,Female,Expats,Graduated,1500,stroke heart disease,PS
+7925,45+,Female,Expats,Graduated,340,stroke heart disease,PS
 7926,18-24,Male,Expats,No Degree,90,stroke heart disease,PS
-7927,25-44,Male,Expats,No Degree,180,stroke heart disease,PS
-7928,45+,Male,Expats,No Degree,110,stroke heart disease,PS
-7929,18-24,Female,Expats,No Degree,280,stroke heart disease,PS
-7930,25-44,Female,Expats,No Degree,720,stroke heart disease,PS
-7931,45+,Female,Expats,No Degree,260,stroke heart disease,PS
+7927,25-44,Male,Expats,No Degree,200,stroke heart disease,PS
+7928,45+,Male,Expats,No Degree,120,stroke heart disease,PS
+7929,18-24,Female,Expats,No Degree,300,stroke heart disease,PS
+7930,25-44,Female,Expats,No Degree,730,stroke heart disease,PS
+7931,45+,Female,Expats,No Degree,270,stroke heart disease,PS
 7932,18-24,Male,Expats,High School,90,stroke heart disease,PS
-7933,25-44,Male,Expats,High School,200,stroke heart disease,PS
-7934,45+,Male,Expats,High School,40,stroke heart disease,PS
-7935,18-24,Female,Expats,High School,360,stroke heart disease,PS
-7936,25-44,Female,Expats,High School,420,stroke heart disease,PS
+7933,25-44,Male,Expats,High School,230,stroke heart disease,PS
+7934,45+,Male,Expats,High School,60,stroke heart disease,PS
+7935,18-24,Female,Expats,High School,430,stroke heart disease,PS
+7936,25-44,Female,Expats,High School,440,stroke heart disease,PS
 7937,45+,Female,Expats,High School,80,stroke heart disease,PS
-7938,18-24,Male,Locals,Graduated,1000,stroke heart disease,PS
-7939,25-44,Male,Locals,Graduated,3900,stroke heart disease,PS
-7940,45+,Male,Locals,Graduated,960,stroke heart disease,PS
-7941,18-24,Female,Locals,Graduated,2800,stroke heart disease,PS
-7942,25-44,Female,Locals,Graduated,6200,stroke heart disease,PS
-7943,45+,Female,Locals,Graduated,1000,stroke heart disease,PS
-7944,18-24,Male,Locals,No Degree,750,stroke heart disease,PS
-7945,25-44,Male,Locals,No Degree,1600,stroke heart disease,PS
+7938,18-24,Male,Locals,Graduated,1200,stroke heart disease,PS
+7939,25-44,Male,Locals,Graduated,4200,stroke heart disease,PS
+7940,45+,Male,Locals,Graduated,1000,stroke heart disease,PS
+7941,18-24,Female,Locals,Graduated,3000,stroke heart disease,PS
+7942,25-44,Female,Locals,Graduated,6500,stroke heart disease,PS
+7943,45+,Female,Locals,Graduated,1100,stroke heart disease,PS
+7944,18-24,Male,Locals,No Degree,870,stroke heart disease,PS
+7945,25-44,Male,Locals,No Degree,1800,stroke heart disease,PS
 7946,45+,Male,Locals,No Degree,1100,stroke heart disease,PS
-7947,18-24,Female,Locals,No Degree,1600,stroke heart disease,PS
-7948,25-44,Female,Locals,No Degree,4900,stroke heart disease,PS
-7949,45+,Female,Locals,No Degree,2200,stroke heart disease,PS
-7950,18-24,Male,Locals,High School,720,stroke heart disease,PS
-7951,25-44,Male,Locals,High School,770,stroke heart disease,PS
-7952,45+,Male,Locals,High School,320,stroke heart disease,PS
-7953,18-24,Female,Locals,High School,1900,stroke heart disease,PS
-7954,25-44,Female,Locals,High School,1800,stroke heart disease,PS
-7955,45+,Female,Locals,High School,470,stroke heart disease,PS
+7947,18-24,Female,Locals,No Degree,1700,stroke heart disease,PS
+7948,25-44,Female,Locals,No Degree,5000,stroke heart disease,PS
+7949,45+,Female,Locals,No Degree,2300,stroke heart disease,PS
+7950,18-24,Male,Locals,High School,800,stroke heart disease,PS
+7951,25-44,Male,Locals,High School,840,stroke heart disease,PS
+7952,45+,Male,Locals,High School,360,stroke heart disease,PS
+7953,18-24,Female,Locals,High School,2000,stroke heart disease,PS
+7954,25-44,Female,Locals,High School,1900,stroke heart disease,PS
+7955,45+,Female,Locals,High School,480,stroke heart disease,PS

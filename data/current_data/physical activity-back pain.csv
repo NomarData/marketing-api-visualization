@@ -1,52 +1,52 @@
 ,age_range,gender,citizenship,scholarity,audience,topic,country_code
-2448,18-24,Male,Expats,Graduated,88000,physical activity,DZ
-2449,25-44,Male,Expats,Graduated,71000,physical activity,DZ
-2450,45+,Male,Expats,Graduated,8100,physical activity,DZ
+2448,18-24,Male,Expats,Graduated,89000,physical activity,DZ
+2449,25-44,Male,Expats,Graduated,72000,physical activity,DZ
+2450,45+,Male,Expats,Graduated,8200,physical activity,DZ
 2451,18-24,Female,Expats,Graduated,20000,physical activity,DZ
-2452,25-44,Female,Expats,Graduated,14000,physical activity,DZ
-2453,45+,Female,Expats,Graduated,2400,physical activity,DZ
-2454,18-24,Male,Expats,No Degree,42000,physical activity,DZ
-2455,25-44,Male,Expats,No Degree,48000,physical activity,DZ
-2456,45+,Male,Expats,No Degree,7800,physical activity,DZ
+2452,25-44,Female,Expats,Graduated,15000,physical activity,DZ
+2453,45+,Female,Expats,Graduated,2500,physical activity,DZ
+2454,18-24,Male,Expats,No Degree,43000,physical activity,DZ
+2455,25-44,Male,Expats,No Degree,49000,physical activity,DZ
+2456,45+,Male,Expats,No Degree,8000,physical activity,DZ
 2457,18-24,Female,Expats,No Degree,13000,physical activity,DZ
 2458,25-44,Female,Expats,No Degree,13000,physical activity,DZ
-2459,45+,Female,Expats,No Degree,2600,physical activity,DZ
+2459,45+,Female,Expats,No Degree,2700,physical activity,DZ
 2460,18-24,Male,Expats,High School,33000,physical activity,DZ
 2461,25-44,Male,Expats,High School,16000,physical activity,DZ
-2462,45+,Male,Expats,High School,2600,physical activity,DZ
-2463,18-24,Female,Expats,High School,8800,physical activity,DZ
-2464,25-44,Female,Expats,High School,3600,physical activity,DZ
-2465,45+,Female,Expats,High School,1000,physical activity,DZ
+2462,45+,Male,Expats,High School,2700,physical activity,DZ
+2463,18-24,Female,Expats,High School,8900,physical activity,DZ
+2464,25-44,Female,Expats,High School,3700,physical activity,DZ
+2465,45+,Female,Expats,High School,1100,physical activity,DZ
 2466,18-24,Male,Locals,Graduated,370000,physical activity,DZ
-2467,25-44,Male,Locals,Graduated,470000,physical activity,DZ
-2468,45+,Male,Locals,Graduated,43000,physical activity,DZ
+2467,25-44,Male,Locals,Graduated,480000,physical activity,DZ
+2468,45+,Male,Locals,Graduated,44000,physical activity,DZ
 2469,18-24,Female,Locals,Graduated,170000,physical activity,DZ
-2470,25-44,Female,Locals,Graduated,190000,physical activity,DZ
+2470,25-44,Female,Locals,Graduated,200000,physical activity,DZ
 2471,45+,Female,Locals,Graduated,19000,physical activity,DZ
-2472,18-24,Male,Locals,No Degree,360000,physical activity,DZ
-2473,25-44,Male,Locals,No Degree,470000,physical activity,DZ
-2474,45+,Male,Locals,No Degree,60000,physical activity,DZ
-2475,18-24,Female,Locals,No Degree,170000,physical activity,DZ
-2476,25-44,Female,Locals,No Degree,180000,physical activity,DZ
-2477,45+,Female,Locals,No Degree,31000,physical activity,DZ
+2472,18-24,Male,Locals,No Degree,370000,physical activity,DZ
+2473,25-44,Male,Locals,No Degree,480000,physical activity,DZ
+2474,45+,Male,Locals,No Degree,61000,physical activity,DZ
+2475,18-24,Female,Locals,No Degree,180000,physical activity,DZ
+2476,25-44,Female,Locals,No Degree,190000,physical activity,DZ
+2477,45+,Female,Locals,No Degree,32000,physical activity,DZ
 2478,18-24,Male,Locals,High School,170000,physical activity,DZ
 2479,25-44,Male,Locals,High School,130000,physical activity,DZ
 2480,45+,Male,Locals,High School,16000,physical activity,DZ
-2481,18-24,Female,Locals,High School,86000,physical activity,DZ
-2482,25-44,Female,Locals,High School,45000,physical activity,DZ
-2483,45+,Female,Locals,High School,8300,physical activity,DZ
+2481,18-24,Female,Locals,High School,88000,physical activity,DZ
+2482,25-44,Female,Locals,High School,46000,physical activity,DZ
+2483,45+,Female,Locals,High School,8500,physical activity,DZ
 2484,18-24,Male,Expats,Graduated,11000,physical activity,BH
 2485,25-44,Male,Expats,Graduated,46000,physical activity,BH
-2486,45+,Male,Expats,Graduated,5000,physical activity,BH
-2487,18-24,Female,Expats,Graduated,2600,physical activity,BH
+2486,45+,Male,Expats,Graduated,5100,physical activity,BH
+2487,18-24,Female,Expats,Graduated,2500,physical activity,BH
 2488,25-44,Female,Expats,Graduated,23000,physical activity,BH
-2489,45+,Female,Expats,Graduated,4000,physical activity,BH
+2489,45+,Female,Expats,Graduated,4100,physical activity,BH
 2490,18-24,Male,Expats,No Degree,12000,physical activity,BH
 2491,25-44,Male,Expats,No Degree,37000,physical activity,BH
-2492,45+,Male,Expats,No Degree,6000,physical activity,BH
+2492,45+,Male,Expats,No Degree,6100,physical activity,BH
 2493,18-24,Female,Expats,No Degree,3000,physical activity,BH
 2494,25-44,Female,Expats,No Degree,11000,physical activity,BH
-2495,45+,Female,Expats,No Degree,2700,physical activity,BH
+2495,45+,Female,Expats,No Degree,2800,physical activity,BH
 2496,18-24,Male,Expats,High School,4900,physical activity,BH
 2497,25-44,Male,Expats,High School,12000,physical activity,BH
 2498,45+,Male,Expats,High School,1600,physical activity,BH
@@ -55,439 +55,439 @@
 2501,45+,Female,Expats,High School,1200,physical activity,BH
 2502,18-24,Male,Locals,Graduated,2500,physical activity,BH
 2503,25-44,Male,Locals,Graduated,7200,physical activity,BH
-2504,45+,Male,Locals,Graduated,720,physical activity,BH
+2504,45+,Male,Locals,Graduated,760,physical activity,BH
 2505,18-24,Female,Locals,Graduated,1100,physical activity,BH
-2506,25-44,Female,Locals,Graduated,4000,physical activity,BH
+2506,25-44,Female,Locals,Graduated,4100,physical activity,BH
 2507,45+,Female,Locals,Graduated,370,physical activity,BH
-2508,18-24,Male,Locals,No Degree,2500,physical activity,BH
+2508,18-24,Male,Locals,No Degree,2600,physical activity,BH
 2509,25-44,Male,Locals,No Degree,4900,physical activity,BH
-2510,45+,Male,Locals,No Degree,870,physical activity,BH
-2511,18-24,Female,Locals,No Degree,1600,physical activity,BH
+2510,45+,Male,Locals,No Degree,850,physical activity,BH
+2511,18-24,Female,Locals,No Degree,1400,physical activity,BH
 2512,25-44,Female,Locals,No Degree,3100,physical activity,BH
-2513,45+,Female,Locals,No Degree,320,physical activity,BH
+2513,45+,Female,Locals,No Degree,340,physical activity,BH
 2514,18-24,Male,Locals,High School,1500,physical activity,BH
-2515,25-44,Male,Locals,High School,1900,physical activity,BH
-2516,45+,Male,Locals,High School,260,physical activity,BH
+2515,25-44,Male,Locals,High School,2000,physical activity,BH
+2516,45+,Male,Locals,High School,270,physical activity,BH
 2517,18-24,Female,Locals,High School,1100,physical activity,BH
 2518,25-44,Female,Locals,High School,770,physical activity,BH
-2519,45+,Female,Locals,High School,70,physical activity,BH
+2519,45+,Female,Locals,High School,80,physical activity,BH
 2520,18-24,Male,Expats,Graduated,51000,physical activity,EG
-2521,25-44,Male,Expats,Graduated,76000,physical activity,EG
+2521,25-44,Male,Expats,Graduated,77000,physical activity,EG
 2522,45+,Male,Expats,Graduated,12000,physical activity,EG
 2523,18-24,Female,Expats,Graduated,21000,physical activity,EG
 2524,25-44,Female,Expats,Graduated,37000,physical activity,EG
 2525,45+,Female,Expats,Graduated,6000,physical activity,EG
 2526,18-24,Male,Expats,No Degree,19000,physical activity,EG
 2527,25-44,Male,Expats,No Degree,26000,physical activity,EG
-2528,45+,Male,Expats,No Degree,6100,physical activity,EG
+2528,45+,Male,Expats,No Degree,6300,physical activity,EG
 2529,18-24,Female,Expats,No Degree,8500,physical activity,EG
 2530,25-44,Female,Expats,No Degree,15000,physical activity,EG
-2531,45+,Female,Expats,No Degree,4800,physical activity,EG
+2531,45+,Female,Expats,No Degree,4900,physical activity,EG
 2532,18-24,Male,Expats,High School,32000,physical activity,EG
-2533,25-44,Male,Expats,High School,17000,physical activity,EG
-2534,45+,Male,Expats,High School,2500,physical activity,EG
+2533,25-44,Male,Expats,High School,18000,physical activity,EG
+2534,45+,Male,Expats,High School,2600,physical activity,EG
 2535,18-24,Female,Expats,High School,17000,physical activity,EG
 2536,25-44,Female,Expats,High School,9200,physical activity,EG
 2537,45+,Female,Expats,High School,1900,physical activity,EG
 2538,18-24,Male,Locals,Graduated,1000000,physical activity,EG
 2539,25-44,Male,Locals,Graduated,1500000,physical activity,EG
-2540,45+,Male,Locals,Graduated,180000,physical activity,EG
+2540,45+,Male,Locals,Graduated,190000,physical activity,EG
 2541,18-24,Female,Locals,Graduated,660000,physical activity,EG
 2542,25-44,Female,Locals,Graduated,1000000,physical activity,EG
 2543,45+,Female,Locals,Graduated,120000,physical activity,EG
-2544,18-24,Male,Locals,No Degree,470000,physical activity,EG
-2545,25-44,Male,Locals,No Degree,620000,physical activity,EG
+2544,18-24,Male,Locals,No Degree,480000,physical activity,EG
+2545,25-44,Male,Locals,No Degree,630000,physical activity,EG
 2546,45+,Male,Locals,No Degree,170000,physical activity,EG
 2547,18-24,Female,Locals,No Degree,290000,physical activity,EG
-2548,25-44,Female,Locals,No Degree,450000,physical activity,EG
+2548,25-44,Female,Locals,No Degree,460000,physical activity,EG
 2549,45+,Female,Locals,No Degree,150000,physical activity,EG
-2550,18-24,Male,Locals,High School,650000,physical activity,EG
-2551,25-44,Male,Locals,High School,290000,physical activity,EG
-2552,45+,Male,Locals,High School,45000,physical activity,EG
+2550,18-24,Male,Locals,High School,660000,physical activity,EG
+2551,25-44,Male,Locals,High School,300000,physical activity,EG
+2552,45+,Male,Locals,High School,46000,physical activity,EG
 2553,18-24,Female,Locals,High School,480000,physical activity,EG
 2554,25-44,Female,Locals,High School,170000,physical activity,EG
-2555,45+,Female,Locals,High School,27000,physical activity,EG
-2556,18-24,Male,Expats,Graduated,33000,physical activity,IQ
-2557,25-44,Male,Expats,Graduated,63000,physical activity,IQ
-2558,45+,Male,Expats,Graduated,6700,physical activity,IQ
-2559,18-24,Female,Expats,Graduated,4700,physical activity,IQ
+2555,45+,Female,Locals,High School,28000,physical activity,EG
+2556,18-24,Male,Expats,Graduated,34000,physical activity,IQ
+2557,25-44,Male,Expats,Graduated,64000,physical activity,IQ
+2558,45+,Male,Expats,Graduated,6800,physical activity,IQ
+2559,18-24,Female,Expats,Graduated,4800,physical activity,IQ
 2560,25-44,Female,Expats,Graduated,11000,physical activity,IQ
 2561,45+,Female,Expats,Graduated,1400,physical activity,IQ
-2562,18-24,Male,Expats,No Degree,21000,physical activity,IQ
-2563,25-44,Male,Expats,No Degree,28000,physical activity,IQ
-2564,45+,Male,Expats,No Degree,4300,physical activity,IQ
-2565,18-24,Female,Expats,No Degree,5300,physical activity,IQ
-2566,25-44,Female,Expats,No Degree,7500,physical activity,IQ
-2567,45+,Female,Expats,No Degree,1600,physical activity,IQ
-2568,18-24,Male,Expats,High School,18000,physical activity,IQ
-2569,25-44,Male,Expats,High School,17000,physical activity,IQ
-2570,45+,Male,Expats,High School,1900,physical activity,IQ
-2571,18-24,Female,Expats,High School,4000,physical activity,IQ
-2572,25-44,Female,Expats,High School,3400,physical activity,IQ
-2573,45+,Female,Expats,High School,550,physical activity,IQ
-2574,18-24,Male,Locals,Graduated,340000,physical activity,IQ
-2575,25-44,Male,Locals,Graduated,670000,physical activity,IQ
-2576,45+,Male,Locals,Graduated,68000,physical activity,IQ
-2577,18-24,Female,Locals,Graduated,68000,physical activity,IQ
+2562,18-24,Male,Expats,No Degree,22000,physical activity,IQ
+2563,25-44,Male,Expats,No Degree,29000,physical activity,IQ
+2564,45+,Male,Expats,No Degree,4500,physical activity,IQ
+2565,18-24,Female,Expats,No Degree,5400,physical activity,IQ
+2566,25-44,Female,Expats,No Degree,7800,physical activity,IQ
+2567,45+,Female,Expats,No Degree,1700,physical activity,IQ
+2568,18-24,Male,Expats,High School,19000,physical activity,IQ
+2569,25-44,Male,Expats,High School,18000,physical activity,IQ
+2570,45+,Male,Expats,High School,2000,physical activity,IQ
+2571,18-24,Female,Expats,High School,4100,physical activity,IQ
+2572,25-44,Female,Expats,High School,3500,physical activity,IQ
+2573,45+,Female,Expats,High School,570,physical activity,IQ
+2574,18-24,Male,Locals,Graduated,350000,physical activity,IQ
+2575,25-44,Male,Locals,Graduated,680000,physical activity,IQ
+2576,45+,Male,Locals,Graduated,72000,physical activity,IQ
+2577,18-24,Female,Locals,Graduated,69000,physical activity,IQ
 2578,25-44,Female,Locals,Graduated,160000,physical activity,IQ
-2579,45+,Female,Locals,Graduated,21000,physical activity,IQ
-2580,18-24,Male,Locals,No Degree,410000,physical activity,IQ
-2581,25-44,Male,Locals,No Degree,520000,physical activity,IQ
-2582,45+,Male,Locals,No Degree,96000,physical activity,IQ
-2583,18-24,Female,Locals,No Degree,92000,physical activity,IQ
-2584,25-44,Female,Locals,No Degree,150000,physical activity,IQ
-2585,45+,Female,Locals,No Degree,40000,physical activity,IQ
-2586,18-24,Male,Locals,High School,230000,physical activity,IQ
+2579,45+,Female,Locals,Graduated,22000,physical activity,IQ
+2580,18-24,Male,Locals,No Degree,420000,physical activity,IQ
+2581,25-44,Male,Locals,No Degree,540000,physical activity,IQ
+2582,45+,Male,Locals,No Degree,100000,physical activity,IQ
+2583,18-24,Female,Locals,No Degree,94000,physical activity,IQ
+2584,25-44,Female,Locals,No Degree,160000,physical activity,IQ
+2585,45+,Female,Locals,No Degree,41000,physical activity,IQ
+2586,18-24,Male,Locals,High School,240000,physical activity,IQ
 2587,25-44,Male,Locals,High School,200000,physical activity,IQ
-2588,45+,Male,Locals,High School,23000,physical activity,IQ
-2589,18-24,Female,Locals,High School,68000,physical activity,IQ
-2590,25-44,Female,Locals,High School,48000,physical activity,IQ
-2591,45+,Female,Locals,High School,7400,physical activity,IQ
+2588,45+,Male,Locals,High School,24000,physical activity,IQ
+2589,18-24,Female,Locals,High School,69000,physical activity,IQ
+2590,25-44,Female,Locals,High School,49000,physical activity,IQ
+2591,45+,Female,Locals,High School,7600,physical activity,IQ
 2592,18-24,Male,Expats,Graduated,33000,physical activity,JO
-2593,25-44,Male,Expats,Graduated,61000,physical activity,JO
-2594,45+,Male,Expats,Graduated,7700,physical activity,JO
-2595,18-24,Female,Expats,Graduated,19000,physical activity,JO
+2593,25-44,Male,Expats,Graduated,62000,physical activity,JO
+2594,45+,Male,Expats,Graduated,8200,physical activity,JO
+2595,18-24,Female,Expats,Graduated,18000,physical activity,JO
 2596,25-44,Female,Expats,Graduated,46000,physical activity,JO
 2597,45+,Female,Expats,Graduated,8100,physical activity,JO
-2598,18-24,Male,Expats,No Degree,30000,physical activity,JO
-2599,25-44,Male,Expats,No Degree,42000,physical activity,JO
-2600,45+,Male,Expats,No Degree,7500,physical activity,JO
+2598,18-24,Male,Expats,No Degree,31000,physical activity,JO
+2599,25-44,Male,Expats,No Degree,44000,physical activity,JO
+2600,45+,Male,Expats,No Degree,8300,physical activity,JO
 2601,18-24,Female,Expats,No Degree,12000,physical activity,JO
 2602,25-44,Female,Expats,No Degree,27000,physical activity,JO
 2603,45+,Female,Expats,No Degree,9600,physical activity,JO
 2604,18-24,Male,Expats,High School,29000,physical activity,JO
-2605,25-44,Male,Expats,High School,18000,physical activity,JO
-2606,45+,Male,Expats,High School,2200,physical activity,JO
+2605,25-44,Male,Expats,High School,19000,physical activity,JO
+2606,45+,Male,Expats,High School,2500,physical activity,JO
 2607,18-24,Female,Expats,High School,24000,physical activity,JO
 2608,25-44,Female,Expats,High School,14000,physical activity,JO
 2609,45+,Female,Expats,High School,3200,physical activity,JO
 2610,18-24,Male,Locals,Graduated,100000,physical activity,JO
-2611,25-44,Male,Locals,Graduated,180000,physical activity,JO
-2612,45+,Male,Locals,Graduated,24000,physical activity,JO
-2613,18-24,Female,Locals,Graduated,61000,physical activity,JO
+2611,25-44,Male,Locals,Graduated,190000,physical activity,JO
+2612,45+,Male,Locals,Graduated,26000,physical activity,JO
+2613,18-24,Female,Locals,Graduated,62000,physical activity,JO
 2614,25-44,Female,Locals,Graduated,140000,physical activity,JO
 2615,45+,Female,Locals,Graduated,18000,physical activity,JO
-2616,18-24,Male,Locals,No Degree,90000,physical activity,JO
+2616,18-24,Male,Locals,No Degree,93000,physical activity,JO
 2617,25-44,Male,Locals,No Degree,110000,physical activity,JO
-2618,45+,Male,Locals,No Degree,31000,physical activity,JO
-2619,18-24,Female,Locals,No Degree,53000,physical activity,JO
+2618,45+,Male,Locals,No Degree,36000,physical activity,JO
+2619,18-24,Female,Locals,No Degree,54000,physical activity,JO
 2620,25-44,Female,Locals,No Degree,110000,physical activity,JO
 2621,45+,Female,Locals,No Degree,33000,physical activity,JO
-2622,18-24,Male,Locals,High School,88000,physical activity,JO
-2623,25-44,Male,Locals,High School,54000,physical activity,JO
-2624,45+,Male,Locals,High School,9400,physical activity,JO
-2625,18-24,Female,Locals,High School,69000,physical activity,JO
+2622,18-24,Male,Locals,High School,89000,physical activity,JO
+2623,25-44,Male,Locals,High School,56000,physical activity,JO
+2624,45+,Male,Locals,High School,10000,physical activity,JO
+2625,18-24,Female,Locals,High School,70000,physical activity,JO
 2626,25-44,Female,Locals,High School,42000,physical activity,JO
 2627,45+,Female,Locals,High School,7300,physical activity,JO
-2628,18-24,Male,Expats,Graduated,17000,physical activity,KW
-2629,25-44,Male,Expats,Graduated,130000,physical activity,KW
-2630,45+,Male,Expats,Graduated,14000,physical activity,KW
+2628,18-24,Male,Expats,Graduated,18000,physical activity,KW
+2629,25-44,Male,Expats,Graduated,140000,physical activity,KW
+2630,45+,Male,Expats,Graduated,16000,physical activity,KW
 2631,18-24,Female,Expats,Graduated,6200,physical activity,KW
 2632,25-44,Female,Expats,Graduated,71000,physical activity,KW
-2633,45+,Female,Expats,Graduated,9100,physical activity,KW
-2634,18-24,Male,Expats,No Degree,26000,physical activity,KW
-2635,25-44,Male,Expats,No Degree,94000,physical activity,KW
-2636,45+,Male,Expats,No Degree,17000,physical activity,KW
+2633,45+,Female,Expats,Graduated,9000,physical activity,KW
+2634,18-24,Male,Expats,No Degree,27000,physical activity,KW
+2635,25-44,Male,Expats,No Degree,100000,physical activity,KW
+2636,45+,Male,Expats,No Degree,19000,physical activity,KW
 2637,18-24,Female,Expats,No Degree,7800,physical activity,KW
 2638,25-44,Female,Expats,No Degree,41000,physical activity,KW
-2639,45+,Female,Expats,No Degree,8000,physical activity,KW
-2640,18-24,Male,Expats,High School,8700,physical activity,KW
-2641,25-44,Male,Expats,High School,35000,physical activity,KW
-2642,45+,Male,Expats,High School,4200,physical activity,KW
-2643,18-24,Female,Expats,High School,4900,physical activity,KW
+2639,45+,Female,Expats,No Degree,8200,physical activity,KW
+2640,18-24,Male,Expats,High School,8900,physical activity,KW
+2641,25-44,Male,Expats,High School,37000,physical activity,KW
+2642,45+,Male,Expats,High School,4600,physical activity,KW
+2643,18-24,Female,Expats,High School,5000,physical activity,KW
 2644,25-44,Female,Expats,High School,24000,physical activity,KW
-2645,45+,Female,Expats,High School,3200,physical activity,KW
+2645,45+,Female,Expats,High School,3300,physical activity,KW
 2646,18-24,Male,Locals,Graduated,1900,physical activity,KW
-2647,25-44,Male,Locals,Graduated,8200,physical activity,KW
+2647,25-44,Male,Locals,Graduated,8500,physical activity,KW
 2648,45+,Male,Locals,Graduated,1100,physical activity,KW
 2649,18-24,Female,Locals,Graduated,910,physical activity,KW
-2650,25-44,Female,Locals,Graduated,5200,physical activity,KW
-2651,45+,Female,Locals,Graduated,620,physical activity,KW
-2652,18-24,Male,Locals,No Degree,3000,physical activity,KW
-2653,25-44,Male,Locals,No Degree,7900,physical activity,KW
-2654,45+,Male,Locals,No Degree,1300,physical activity,KW
-2655,18-24,Female,Locals,No Degree,2100,physical activity,KW
-2656,25-44,Female,Locals,No Degree,5300,physical activity,KW
-2657,45+,Female,Locals,No Degree,880,physical activity,KW
+2650,25-44,Female,Locals,Graduated,5300,physical activity,KW
+2651,45+,Female,Locals,Graduated,640,physical activity,KW
+2652,18-24,Male,Locals,No Degree,3100,physical activity,KW
+2653,25-44,Male,Locals,No Degree,8400,physical activity,KW
+2654,45+,Male,Locals,No Degree,1400,physical activity,KW
+2655,18-24,Female,Locals,No Degree,2200,physical activity,KW
+2656,25-44,Female,Locals,No Degree,5400,physical activity,KW
+2657,45+,Female,Locals,No Degree,950,physical activity,KW
 2658,18-24,Male,Locals,High School,1100,physical activity,KW
 2659,25-44,Male,Locals,High School,2000,physical activity,KW
-2660,45+,Male,Locals,High School,290,physical activity,KW
-2661,18-24,Female,Locals,High School,820,physical activity,KW
+2660,45+,Male,Locals,High School,300,physical activity,KW
+2661,18-24,Female,Locals,High School,810,physical activity,KW
 2662,25-44,Female,Locals,High School,1200,physical activity,KW
 2663,45+,Female,Locals,High School,180,physical activity,KW
 2664,18-24,Male,Expats,Graduated,16000,physical activity,LB
-2665,25-44,Male,Expats,Graduated,34000,physical activity,LB
-2666,45+,Male,Expats,Graduated,4100,physical activity,LB
-2667,18-24,Female,Expats,Graduated,6000,physical activity,LB
+2665,25-44,Male,Expats,Graduated,35000,physical activity,LB
+2666,45+,Male,Expats,Graduated,4300,physical activity,LB
+2667,18-24,Female,Expats,Graduated,6100,physical activity,LB
 2668,25-44,Female,Expats,Graduated,22000,physical activity,LB
-2669,45+,Female,Expats,Graduated,4600,physical activity,LB
-2670,18-24,Male,Expats,No Degree,23000,physical activity,LB
-2671,25-44,Male,Expats,No Degree,44000,physical activity,LB
-2672,45+,Male,Expats,No Degree,6900,physical activity,LB
-2673,18-24,Female,Expats,No Degree,8900,physical activity,LB
+2669,45+,Female,Expats,Graduated,4700,physical activity,LB
+2670,18-24,Male,Expats,No Degree,24000,physical activity,LB
+2671,25-44,Male,Expats,No Degree,46000,physical activity,LB
+2672,45+,Male,Expats,No Degree,7300,physical activity,LB
+2673,18-24,Female,Expats,No Degree,9300,physical activity,LB
 2674,25-44,Female,Expats,No Degree,23000,physical activity,LB
-2675,45+,Female,Expats,No Degree,5800,physical activity,LB
+2675,45+,Female,Expats,No Degree,6000,physical activity,LB
 2676,18-24,Male,Expats,High School,11000,physical activity,LB
 2677,25-44,Male,Expats,High School,13000,physical activity,LB
-2678,45+,Male,Expats,High School,1500,physical activity,LB
-2679,18-24,Female,Expats,High School,5400,physical activity,LB
-2680,25-44,Female,Expats,High School,8800,physical activity,LB
+2678,45+,Male,Expats,High School,1600,physical activity,LB
+2679,18-24,Female,Expats,High School,5500,physical activity,LB
+2680,25-44,Female,Expats,High School,8900,physical activity,LB
 2681,45+,Female,Expats,High School,1700,physical activity,LB
 2682,18-24,Male,Locals,Graduated,43000,physical activity,LB
-2683,25-44,Male,Locals,Graduated,88000,physical activity,LB
+2683,25-44,Male,Locals,Graduated,89000,physical activity,LB
 2684,45+,Male,Locals,Graduated,19000,physical activity,LB
 2685,18-24,Female,Locals,Graduated,40000,physical activity,LB
 2686,25-44,Female,Locals,Graduated,100000,physical activity,LB
 2687,45+,Female,Locals,Graduated,22000,physical activity,LB
-2688,18-24,Male,Locals,No Degree,57000,physical activity,LB
-2689,25-44,Male,Locals,No Degree,85000,physical activity,LB
-2690,45+,Male,Locals,No Degree,34000,physical activity,LB
-2691,18-24,Female,Locals,No Degree,40000,physical activity,LB
-2692,25-44,Female,Locals,No Degree,94000,physical activity,LB
-2693,45+,Female,Locals,No Degree,49000,physical activity,LB
-2694,18-24,Male,Locals,High School,35000,physical activity,LB
+2688,18-24,Male,Locals,No Degree,59000,physical activity,LB
+2689,25-44,Male,Locals,No Degree,88000,physical activity,LB
+2690,45+,Male,Locals,No Degree,36000,physical activity,LB
+2691,18-24,Female,Locals,No Degree,41000,physical activity,LB
+2692,25-44,Female,Locals,No Degree,95000,physical activity,LB
+2693,45+,Female,Locals,No Degree,51000,physical activity,LB
+2694,18-24,Male,Locals,High School,36000,physical activity,LB
 2695,25-44,Male,Locals,High School,25000,physical activity,LB
-2696,45+,Male,Locals,High School,6400,physical activity,LB
-2697,18-24,Female,Locals,High School,40000,physical activity,LB
+2696,45+,Male,Locals,High School,6500,physical activity,LB
+2697,18-24,Female,Locals,High School,41000,physical activity,LB
 2698,25-44,Female,Locals,High School,28000,physical activity,LB
-2699,45+,Female,Locals,High School,7900,physical activity,LB
-2700,18-24,Male,Expats,Graduated,8300,physical activity,LY
+2699,45+,Female,Locals,High School,8000,physical activity,LB
+2700,18-24,Male,Expats,Graduated,8500,physical activity,LY
 2701,25-44,Male,Expats,Graduated,23000,physical activity,LY
 2702,45+,Male,Expats,Graduated,2800,physical activity,LY
 2703,18-24,Female,Expats,Graduated,2600,physical activity,LY
-2704,25-44,Female,Expats,Graduated,7600,physical activity,LY
-2705,45+,Female,Expats,Graduated,1300,physical activity,LY
-2706,18-24,Male,Expats,No Degree,9300,physical activity,LY
-2707,25-44,Male,Expats,No Degree,20000,physical activity,LY
+2704,25-44,Female,Expats,Graduated,7700,physical activity,LY
+2705,45+,Female,Expats,Graduated,1400,physical activity,LY
+2706,18-24,Male,Expats,No Degree,9700,physical activity,LY
+2707,25-44,Male,Expats,No Degree,21000,physical activity,LY
 2708,45+,Male,Expats,No Degree,2900,physical activity,LY
 2709,18-24,Female,Expats,No Degree,3000,physical activity,LY
-2710,25-44,Female,Expats,No Degree,6400,physical activity,LY
-2711,45+,Female,Expats,No Degree,1700,physical activity,LY
+2710,25-44,Female,Expats,No Degree,6600,physical activity,LY
+2711,45+,Female,Expats,No Degree,1800,physical activity,LY
 2712,18-24,Male,Expats,High School,4100,physical activity,LY
-2713,25-44,Male,Expats,High School,5700,physical activity,LY
-2714,45+,Male,Expats,High School,850,physical activity,LY
-2715,18-24,Female,Expats,High School,1700,physical activity,LY
+2713,25-44,Male,Expats,High School,5800,physical activity,LY
+2714,45+,Male,Expats,High School,870,physical activity,LY
+2715,18-24,Female,Expats,High School,1800,physical activity,LY
 2716,25-44,Female,Expats,High School,2000,physical activity,LY
-2717,45+,Female,Expats,High School,280,physical activity,LY
-2718,18-24,Male,Locals,Graduated,55000,physical activity,LY
+2717,45+,Female,Expats,High School,300,physical activity,LY
+2718,18-24,Male,Locals,Graduated,56000,physical activity,LY
 2719,25-44,Male,Locals,Graduated,130000,physical activity,LY
 2720,45+,Male,Locals,Graduated,17000,physical activity,LY
-2721,18-24,Female,Locals,Graduated,39000,physical activity,LY
-2722,25-44,Female,Locals,Graduated,85000,physical activity,LY
+2721,18-24,Female,Locals,Graduated,40000,physical activity,LY
+2722,25-44,Female,Locals,Graduated,87000,physical activity,LY
 2723,45+,Female,Locals,Graduated,10000,physical activity,LY
-2724,18-24,Male,Locals,No Degree,43000,physical activity,LY
-2725,25-44,Male,Locals,No Degree,93000,physical activity,LY
+2724,18-24,Male,Locals,No Degree,44000,physical activity,LY
+2725,25-44,Male,Locals,No Degree,94000,physical activity,LY
 2726,45+,Male,Locals,No Degree,20000,physical activity,LY
-2727,18-24,Female,Locals,No Degree,39000,physical activity,LY
-2728,25-44,Female,Locals,No Degree,82000,physical activity,LY
+2727,18-24,Female,Locals,No Degree,40000,physical activity,LY
+2728,25-44,Female,Locals,No Degree,85000,physical activity,LY
 2729,45+,Female,Locals,No Degree,23000,physical activity,LY
-2730,18-24,Male,Locals,High School,32000,physical activity,LY
+2730,18-24,Male,Locals,High School,33000,physical activity,LY
 2731,25-44,Male,Locals,High School,29000,physical activity,LY
 2732,45+,Male,Locals,High School,4700,physical activity,LY
-2733,18-24,Female,Locals,High School,31000,physical activity,LY
+2733,18-24,Female,Locals,High School,32000,physical activity,LY
 2734,25-44,Female,Locals,High School,21000,physical activity,LY
-2735,45+,Female,Locals,High School,3300,physical activity,LY
+2735,45+,Female,Locals,High School,3400,physical activity,LY
 2736,18-24,Male,Expats,Graduated,77000,physical activity,MA
-2737,25-44,Male,Expats,Graduated,52000,physical activity,MA
-2738,45+,Male,Expats,Graduated,6000,physical activity,MA
+2737,25-44,Male,Expats,Graduated,53000,physical activity,MA
+2738,45+,Male,Expats,Graduated,6100,physical activity,MA
 2739,18-24,Female,Expats,Graduated,20000,physical activity,MA
 2740,25-44,Female,Expats,Graduated,17000,physical activity,MA
 2741,45+,Female,Expats,Graduated,2400,physical activity,MA
-2742,18-24,Male,Expats,No Degree,25000,physical activity,MA
-2743,25-44,Male,Expats,No Degree,27000,physical activity,MA
-2744,45+,Male,Expats,No Degree,4700,physical activity,MA
+2742,18-24,Male,Expats,No Degree,26000,physical activity,MA
+2743,25-44,Male,Expats,No Degree,28000,physical activity,MA
+2744,45+,Male,Expats,No Degree,4800,physical activity,MA
 2745,18-24,Female,Expats,No Degree,11000,physical activity,MA
 2746,25-44,Female,Expats,No Degree,13000,physical activity,MA
-2747,45+,Female,Expats,No Degree,2600,physical activity,MA
+2747,45+,Female,Expats,No Degree,2700,physical activity,MA
 2748,18-24,Male,Expats,High School,29000,physical activity,MA
-2749,25-44,Male,Expats,High School,13000,physical activity,MA
+2749,25-44,Male,Expats,High School,14000,physical activity,MA
 2750,45+,Male,Expats,High School,1800,physical activity,MA
-2751,18-24,Female,Expats,High School,8600,physical activity,MA
+2751,18-24,Female,Expats,High School,8700,physical activity,MA
 2752,25-44,Female,Expats,High School,4800,physical activity,MA
-2753,45+,Female,Expats,High School,1000,physical activity,MA
+2753,45+,Female,Expats,High School,1100,physical activity,MA
 2754,18-24,Male,Locals,Graduated,500000,physical activity,MA
 2755,25-44,Male,Locals,Graduated,440000,physical activity,MA
-2756,45+,Male,Locals,Graduated,42000,physical activity,MA
-2757,18-24,Female,Locals,Graduated,230000,physical activity,MA
+2756,45+,Male,Locals,Graduated,43000,physical activity,MA
+2757,18-24,Female,Locals,Graduated,240000,physical activity,MA
 2758,25-44,Female,Locals,Graduated,200000,physical activity,MA
 2759,45+,Female,Locals,Graduated,22000,physical activity,MA
-2760,18-24,Male,Locals,No Degree,340000,physical activity,MA
-2761,25-44,Male,Locals,No Degree,360000,physical activity,MA
-2762,45+,Male,Locals,No Degree,51000,physical activity,MA
-2763,18-24,Female,Locals,No Degree,190000,physical activity,MA
-2764,25-44,Female,Locals,No Degree,170000,physical activity,MA
-2765,45+,Female,Locals,No Degree,32000,physical activity,MA
+2760,18-24,Male,Locals,No Degree,350000,physical activity,MA
+2761,25-44,Male,Locals,No Degree,370000,physical activity,MA
+2762,45+,Male,Locals,No Degree,53000,physical activity,MA
+2763,18-24,Female,Locals,No Degree,200000,physical activity,MA
+2764,25-44,Female,Locals,No Degree,180000,physical activity,MA
+2765,45+,Female,Locals,No Degree,33000,physical activity,MA
 2766,18-24,Male,Locals,High School,220000,physical activity,MA
 2767,25-44,Male,Locals,High School,120000,physical activity,MA
 2768,45+,Male,Locals,High School,14000,physical activity,MA
 2769,18-24,Female,Locals,High School,120000,physical activity,MA
-2770,25-44,Female,Locals,High School,55000,physical activity,MA
-2771,45+,Female,Locals,High School,8900,physical activity,MA
+2770,25-44,Female,Locals,High School,56000,physical activity,MA
+2771,45+,Female,Locals,High School,9000,physical activity,MA
 2772,18-24,Male,Expats,Graduated,16000,physical activity,OM
-2773,25-44,Male,Expats,Graduated,65000,physical activity,OM
-2774,45+,Male,Expats,Graduated,6400,physical activity,OM
+2773,25-44,Male,Expats,Graduated,66000,physical activity,OM
+2774,45+,Male,Expats,Graduated,6500,physical activity,OM
 2775,18-24,Female,Expats,Graduated,2700,physical activity,OM
 2776,25-44,Female,Expats,Graduated,22000,physical activity,OM
 2777,45+,Female,Expats,Graduated,3300,physical activity,OM
 2778,18-24,Male,Expats,No Degree,22000,physical activity,OM
 2779,25-44,Male,Expats,No Degree,45000,physical activity,OM
 2780,45+,Male,Expats,No Degree,5400,physical activity,OM
-2781,18-24,Female,Expats,No Degree,5800,physical activity,OM
+2781,18-24,Female,Expats,No Degree,5900,physical activity,OM
 2782,25-44,Female,Expats,No Degree,12000,physical activity,OM
-2783,45+,Female,Expats,No Degree,2100,physical activity,OM
+2783,45+,Female,Expats,No Degree,2200,physical activity,OM
 2784,18-24,Male,Expats,High School,5600,physical activity,OM
 2785,25-44,Male,Expats,High School,13000,physical activity,OM
 2786,45+,Male,Expats,High School,1700,physical activity,OM
-2787,18-24,Female,Expats,High School,1900,physical activity,OM
-2788,25-44,Female,Expats,High School,4800,physical activity,OM
-2789,45+,Female,Expats,High School,860,physical activity,OM
-2790,18-24,Male,Locals,Graduated,4000,physical activity,OM
+2787,18-24,Female,Expats,High School,2000,physical activity,OM
+2788,25-44,Female,Expats,High School,4900,physical activity,OM
+2789,45+,Female,Expats,High School,850,physical activity,OM
+2790,18-24,Male,Locals,Graduated,4100,physical activity,OM
 2791,25-44,Male,Locals,Graduated,12000,physical activity,OM
-2792,45+,Male,Locals,Graduated,530,physical activity,OM
-2793,18-24,Female,Locals,Graduated,720,physical activity,OM
+2792,45+,Male,Locals,Graduated,510,physical activity,OM
+2793,18-24,Female,Locals,Graduated,740,physical activity,OM
 2794,25-44,Female,Locals,Graduated,2300,physical activity,OM
 2795,45+,Female,Locals,Graduated,120,physical activity,OM
-2796,18-24,Male,Locals,No Degree,4300,physical activity,OM
-2797,25-44,Male,Locals,No Degree,7200,physical activity,OM
+2796,18-24,Male,Locals,No Degree,4600,physical activity,OM
+2797,25-44,Male,Locals,No Degree,7300,physical activity,OM
 2798,45+,Male,Locals,No Degree,690,physical activity,OM
 2799,18-24,Female,Locals,No Degree,1100,physical activity,OM
 2800,25-44,Female,Locals,No Degree,2500,physical activity,OM
-2801,45+,Female,Locals,No Degree,220,physical activity,OM
-2802,18-24,Male,Locals,High School,2600,physical activity,OM
+2801,45+,Female,Locals,No Degree,230,physical activity,OM
+2802,18-24,Male,Locals,High School,2700,physical activity,OM
 2803,25-44,Male,Locals,High School,3200,physical activity,OM
 2804,45+,Male,Locals,High School,190,physical activity,OM
-2805,18-24,Female,Locals,High School,720,physical activity,OM
-2806,25-44,Female,Locals,High School,580,physical activity,OM
-2807,45+,Female,Locals,High School,50,physical activity,OM
+2805,18-24,Female,Locals,High School,760,physical activity,OM
+2806,25-44,Female,Locals,High School,590,physical activity,OM
+2807,45+,Female,Locals,High School,40,physical activity,OM
 2808,18-24,Male,Expats,Graduated,61000,physical activity,QA
 2809,25-44,Male,Expats,Graduated,260000,physical activity,QA
 2810,45+,Male,Expats,Graduated,25000,physical activity,QA
 2811,18-24,Female,Expats,Graduated,14000,physical activity,QA
 2812,25-44,Female,Expats,Graduated,97000,physical activity,QA
 2813,45+,Female,Expats,Graduated,10000,physical activity,QA
-2814,18-24,Male,Expats,No Degree,76000,physical activity,QA
+2814,18-24,Male,Expats,No Degree,77000,physical activity,QA
 2815,25-44,Male,Expats,No Degree,150000,physical activity,QA
 2816,45+,Male,Expats,No Degree,21000,physical activity,QA
 2817,18-24,Female,Expats,No Degree,15000,physical activity,QA
 2818,25-44,Female,Expats,No Degree,40000,physical activity,QA
-2819,45+,Female,Expats,No Degree,7000,physical activity,QA
+2819,45+,Female,Expats,No Degree,7100,physical activity,QA
 2820,18-24,Male,Expats,High School,23000,physical activity,QA
 2821,25-44,Male,Expats,High School,59000,physical activity,QA
-2822,45+,Male,Expats,High School,6700,physical activity,QA
+2822,45+,Male,Expats,High School,6800,physical activity,QA
 2823,18-24,Female,Expats,High School,7200,physical activity,QA
 2824,25-44,Female,Expats,High School,22000,physical activity,QA
-2825,45+,Female,Expats,High School,2900,physical activity,QA
+2825,45+,Female,Expats,High School,3000,physical activity,QA
 2826,18-24,Male,Locals,Graduated,1800,physical activity,QA
-2827,25-44,Male,Locals,Graduated,4100,physical activity,QA
-2828,45+,Male,Locals,Graduated,340,physical activity,QA
-2829,18-24,Female,Locals,Graduated,590,physical activity,QA
+2827,25-44,Male,Locals,Graduated,4300,physical activity,QA
+2828,45+,Male,Locals,Graduated,350,physical activity,QA
+2829,18-24,Female,Locals,Graduated,560,physical activity,QA
 2830,25-44,Female,Locals,Graduated,1900,physical activity,QA
-2831,45+,Female,Locals,Graduated,200,physical activity,QA
-2832,18-24,Male,Locals,No Degree,2100,physical activity,QA
-2833,25-44,Male,Locals,No Degree,4600,physical activity,QA
-2834,45+,Male,Locals,No Degree,560,physical activity,QA
-2835,18-24,Female,Locals,No Degree,960,physical activity,QA
-2836,25-44,Female,Locals,No Degree,2400,physical activity,QA
-2837,45+,Female,Locals,No Degree,440,physical activity,QA
-2838,18-24,Male,Locals,High School,780,physical activity,QA
+2831,45+,Female,Locals,Graduated,210,physical activity,QA
+2832,18-24,Male,Locals,No Degree,2200,physical activity,QA
+2833,25-44,Male,Locals,No Degree,4700,physical activity,QA
+2834,45+,Male,Locals,No Degree,590,physical activity,QA
+2835,18-24,Female,Locals,No Degree,950,physical activity,QA
+2836,25-44,Female,Locals,No Degree,2500,physical activity,QA
+2837,45+,Female,Locals,No Degree,420,physical activity,QA
+2838,18-24,Male,Locals,High School,810,physical activity,QA
 2839,25-44,Male,Locals,High School,1300,physical activity,QA
-2840,45+,Male,Locals,High School,100,physical activity,QA
-2841,18-24,Female,Locals,High School,530,physical activity,QA
-2842,25-44,Female,Locals,High School,480,physical activity,QA
+2840,45+,Male,Locals,High School,110,physical activity,QA
+2841,18-24,Female,Locals,High School,540,physical activity,QA
+2842,25-44,Female,Locals,High School,500,physical activity,QA
 2843,45+,Female,Locals,High School,20,physical activity,QA
 2844,18-24,Male,Expats,Graduated,160000,physical activity,SA
 2845,25-44,Male,Expats,Graduated,770000,physical activity,SA
-2846,45+,Male,Expats,Graduated,71000,physical activity,SA
+2846,45+,Male,Expats,Graduated,72000,physical activity,SA
 2847,18-24,Female,Expats,Graduated,29000,physical activity,SA
 2848,25-44,Female,Expats,Graduated,210000,physical activity,SA
 2849,45+,Female,Expats,Graduated,26000,physical activity,SA
 2850,18-24,Male,Expats,No Degree,45000,physical activity,SA
 2851,25-44,Male,Expats,No Degree,130000,physical activity,SA
-2852,45+,Male,Expats,No Degree,17000,physical activity,SA
+2852,45+,Male,Expats,No Degree,18000,physical activity,SA
 2853,18-24,Female,Expats,No Degree,14000,physical activity,SA
 2854,25-44,Female,Expats,No Degree,48000,physical activity,SA
 2855,45+,Female,Expats,No Degree,8800,physical activity,SA
-2856,18-24,Male,Expats,High School,57000,physical activity,SA
+2856,18-24,Male,Expats,High School,56000,physical activity,SA
 2857,25-44,Male,Expats,High School,170000,physical activity,SA
 2858,45+,Male,Expats,High School,18000,physical activity,SA
 2859,18-24,Female,Expats,High School,19000,physical activity,SA
-2860,25-44,Female,Expats,High School,53000,physical activity,SA
-2861,45+,Female,Expats,High School,7100,physical activity,SA
-2862,18-24,Male,Locals,Graduated,71000,physical activity,SA
+2860,25-44,Female,Expats,High School,54000,physical activity,SA
+2861,45+,Female,Expats,High School,7200,physical activity,SA
+2862,18-24,Male,Locals,Graduated,72000,physical activity,SA
 2863,25-44,Male,Locals,Graduated,280000,physical activity,SA
 2864,45+,Male,Locals,Graduated,27000,physical activity,SA
 2865,18-24,Female,Locals,Graduated,19000,physical activity,SA
-2866,25-44,Female,Locals,Graduated,82000,physical activity,SA
-2867,45+,Female,Locals,Graduated,9500,physical activity,SA
+2866,25-44,Female,Locals,Graduated,83000,physical activity,SA
+2867,45+,Female,Locals,Graduated,9700,physical activity,SA
 2868,18-24,Male,Locals,No Degree,360000,physical activity,SA
 2869,25-44,Male,Locals,No Degree,690000,physical activity,SA
-2870,45+,Male,Locals,No Degree,86000,physical activity,SA
-2871,18-24,Female,Locals,No Degree,66000,physical activity,SA
-2872,25-44,Female,Locals,No Degree,120000,physical activity,SA
+2870,45+,Male,Locals,No Degree,87000,physical activity,SA
+2871,18-24,Female,Locals,No Degree,68000,physical activity,SA
+2872,25-44,Female,Locals,No Degree,130000,physical activity,SA
 2873,45+,Female,Locals,No Degree,24000,physical activity,SA
 2874,18-24,Male,Locals,High School,41000,physical activity,SA
 2875,25-44,Male,Locals,High School,98000,physical activity,SA
 2876,45+,Male,Locals,High School,11000,physical activity,SA
 2877,18-24,Female,Locals,High School,17000,physical activity,SA
-2878,25-44,Female,Locals,High School,25000,physical activity,SA
-2879,45+,Female,Locals,High School,3200,physical activity,SA
+2878,25-44,Female,Locals,High School,26000,physical activity,SA
+2879,45+,Female,Locals,High School,3300,physical activity,SA
 2880,18-24,Male,Expats,Graduated,4400,physical activity,SO
 2881,25-44,Male,Expats,Graduated,4400,physical activity,SO
-2882,45+,Male,Expats,Graduated,560,physical activity,SO
+2882,45+,Male,Expats,Graduated,570,physical activity,SO
 2883,18-24,Female,Expats,Graduated,1500,physical activity,SO
 2884,25-44,Female,Expats,Graduated,1300,physical activity,SO
-2885,45+,Female,Expats,Graduated,160,physical activity,SO
+2885,45+,Female,Expats,Graduated,180,physical activity,SO
 2886,18-24,Male,Expats,No Degree,1100,physical activity,SO
 2887,25-44,Male,Expats,No Degree,1400,physical activity,SO
-2888,45+,Male,Expats,No Degree,180,physical activity,SO
-2889,18-24,Female,Expats,No Degree,550,physical activity,SO
-2890,25-44,Female,Expats,No Degree,550,physical activity,SO
+2888,45+,Male,Expats,No Degree,190,physical activity,SO
+2889,18-24,Female,Expats,No Degree,570,physical activity,SO
+2890,25-44,Female,Expats,No Degree,540,physical activity,SO
 2891,45+,Female,Expats,No Degree,20,physical activity,SO
 2892,18-24,Male,Expats,High School,1300,physical activity,SO
-2893,25-44,Male,Expats,High School,900,physical activity,SO
-2894,45+,Male,Expats,High School,190,physical activity,SO
-2895,18-24,Female,Expats,High School,630,physical activity,SO
-2896,25-44,Female,Expats,High School,250,physical activity,SO
-2897,45+,Female,Expats,High School,20,physical activity,SO
+2893,25-44,Male,Expats,High School,880,physical activity,SO
+2894,45+,Male,Expats,High School,170,physical activity,SO
+2895,18-24,Female,Expats,High School,620,physical activity,SO
+2896,25-44,Female,Expats,High School,220,physical activity,SO
+2897,45+,Female,Expats,High School,30,physical activity,SO
 2898,18-24,Male,Locals,Graduated,13000,physical activity,SO
 2899,25-44,Male,Locals,Graduated,12000,physical activity,SO
 2900,45+,Male,Locals,Graduated,660,physical activity,SO
-2901,18-24,Female,Locals,Graduated,7000,physical activity,SO
+2901,18-24,Female,Locals,Graduated,7100,physical activity,SO
 2902,25-44,Female,Locals,Graduated,4700,physical activity,SO
-2903,45+,Female,Locals,Graduated,460,physical activity,SO
+2903,45+,Female,Locals,Graduated,500,physical activity,SO
 2904,18-24,Male,Locals,No Degree,12000,physical activity,SO
-2905,25-44,Male,Locals,No Degree,7400,physical activity,SO
+2905,25-44,Male,Locals,No Degree,7500,physical activity,SO
 2906,45+,Male,Locals,No Degree,1300,physical activity,SO
-2907,18-24,Female,Locals,No Degree,13000,physical activity,SO
-2908,25-44,Female,Locals,No Degree,7300,physical activity,SO
-2909,45+,Female,Locals,No Degree,670,physical activity,SO
+2907,18-24,Female,Locals,No Degree,14000,physical activity,SO
+2908,25-44,Female,Locals,No Degree,7500,physical activity,SO
+2909,45+,Female,Locals,No Degree,700,physical activity,SO
 2910,18-24,Male,Locals,High School,5000,physical activity,SO
 2911,25-44,Male,Locals,High School,2300,physical activity,SO
-2912,45+,Male,Locals,High School,200,physical activity,SO
+2912,45+,Male,Locals,High School,190,physical activity,SO
 2913,18-24,Female,Locals,High School,3100,physical activity,SO
 2914,25-44,Female,Locals,High School,1200,physical activity,SO
 2915,45+,Female,Locals,High School,230,physical activity,SO
 2916,18-24,Male,Expats,Graduated,28000,physical activity,TN
-2917,25-44,Male,Expats,Graduated,27000,physical activity,TN
+2917,25-44,Male,Expats,Graduated,28000,physical activity,TN
 2918,45+,Male,Expats,Graduated,4900,physical activity,TN
 2919,18-24,Female,Expats,Graduated,11000,physical activity,TN
 2920,25-44,Female,Expats,Graduated,12000,physical activity,TN
 2921,45+,Female,Expats,Graduated,2300,physical activity,TN
 2922,18-24,Male,Expats,No Degree,12000,physical activity,TN
-2923,25-44,Male,Expats,No Degree,15000,physical activity,TN
+2923,25-44,Male,Expats,No Degree,16000,physical activity,TN
 2924,45+,Male,Expats,No Degree,3400,physical activity,TN
-2925,18-24,Female,Expats,No Degree,6300,physical activity,TN
+2925,18-24,Female,Expats,No Degree,6500,physical activity,TN
 2926,25-44,Female,Expats,No Degree,8200,physical activity,TN
 2927,45+,Female,Expats,No Degree,2000,physical activity,TN
 2928,18-24,Male,Expats,High School,12000,physical activity,TN
 2929,25-44,Male,Expats,High School,7400,physical activity,TN
-2930,45+,Male,Expats,High School,1800,physical activity,TN
+2930,45+,Male,Expats,High School,1700,physical activity,TN
 2931,18-24,Female,Expats,High School,5600,physical activity,TN
-2932,25-44,Female,Expats,High School,3400,physical activity,TN
+2932,25-44,Female,Expats,High School,3500,physical activity,TN
 2933,45+,Female,Expats,High School,1100,physical activity,TN
 2934,18-24,Male,Locals,Graduated,160000,physical activity,TN
 2935,25-44,Male,Locals,Graduated,250000,physical activity,TN
-2936,45+,Male,Locals,Graduated,43000,physical activity,TN
+2936,45+,Male,Locals,Graduated,44000,physical activity,TN
 2937,18-24,Female,Locals,Graduated,140000,physical activity,TN
 2938,25-44,Female,Locals,Graduated,230000,physical activity,TN
 2939,45+,Female,Locals,Graduated,25000,physical activity,TN
@@ -495,24 +495,24 @@
 2941,25-44,Male,Locals,No Degree,180000,physical activity,TN
 2942,45+,Male,Locals,No Degree,42000,physical activity,TN
 2943,18-24,Female,Locals,No Degree,120000,physical activity,TN
-2944,25-44,Female,Locals,No Degree,140000,physical activity,TN
+2944,25-44,Female,Locals,No Degree,150000,physical activity,TN
 2945,45+,Female,Locals,No Degree,31000,physical activity,TN
-2946,18-24,Male,Locals,High School,79000,physical activity,TN
+2946,18-24,Male,Locals,High School,80000,physical activity,TN
 2947,25-44,Male,Locals,High School,74000,physical activity,TN
 2948,45+,Male,Locals,High School,17000,physical activity,TN
 2949,18-24,Female,Locals,High School,83000,physical activity,TN
-2950,25-44,Female,Locals,High School,56000,physical activity,TN
+2950,25-44,Female,Locals,High School,57000,physical activity,TN
 2951,45+,Female,Locals,High School,13000,physical activity,TN
 2952,18-24,Male,Expats,Graduated,180000,physical activity,AE
 2953,25-44,Male,Expats,Graduated,810000,physical activity,AE
-2954,45+,Male,Expats,Graduated,67000,physical activity,AE
+2954,45+,Male,Expats,Graduated,68000,physical activity,AE
 2955,18-24,Female,Expats,Graduated,50000,physical activity,AE
 2956,25-44,Female,Expats,Graduated,370000,physical activity,AE
 2957,45+,Female,Expats,Graduated,44000,physical activity,AE
-2958,18-24,Male,Expats,No Degree,170000,physical activity,AE
+2958,18-24,Male,Expats,No Degree,180000,physical activity,AE
 2959,25-44,Male,Expats,No Degree,420000,physical activity,AE
-2960,45+,Male,Expats,No Degree,51000,physical activity,AE
-2961,18-24,Female,Expats,No Degree,35000,physical activity,AE
+2960,45+,Male,Expats,No Degree,52000,physical activity,AE
+2961,18-24,Female,Expats,No Degree,36000,physical activity,AE
 2962,25-44,Female,Expats,No Degree,130000,physical activity,AE
 2963,45+,Female,Expats,No Degree,29000,physical activity,AE
 2964,18-24,Male,Expats,High School,63000,physical activity,AE
@@ -521,158 +521,158 @@
 2967,18-24,Female,Expats,High School,27000,physical activity,AE
 2968,25-44,Female,Expats,High School,76000,physical activity,AE
 2969,45+,Female,Expats,High School,13000,physical activity,AE
-2970,18-24,Male,Locals,Graduated,6400,physical activity,AE
-2971,25-44,Male,Locals,Graduated,19000,physical activity,AE
+2970,18-24,Male,Locals,Graduated,6500,physical activity,AE
+2971,25-44,Male,Locals,Graduated,20000,physical activity,AE
 2972,45+,Male,Locals,Graduated,1500,physical activity,AE
 2973,18-24,Female,Locals,Graduated,2600,physical activity,AE
 2974,25-44,Female,Locals,Graduated,9200,physical activity,AE
-2975,45+,Female,Locals,Graduated,640,physical activity,AE
-2976,18-24,Male,Locals,No Degree,8000,physical activity,AE
-2977,25-44,Male,Locals,No Degree,17000,physical activity,AE
-2978,45+,Male,Locals,No Degree,2400,physical activity,AE
-2979,18-24,Female,Locals,No Degree,3600,physical activity,AE
-2980,25-44,Female,Locals,No Degree,9600,physical activity,AE
-2981,45+,Female,Locals,No Degree,1000,physical activity,AE
-2982,18-24,Male,Locals,High School,4100,physical activity,AE
-2983,25-44,Male,Locals,High School,4900,physical activity,AE
-2984,45+,Male,Locals,High School,420,physical activity,AE
+2975,45+,Female,Locals,Graduated,600,physical activity,AE
+2976,18-24,Male,Locals,No Degree,9000,physical activity,AE
+2977,25-44,Male,Locals,No Degree,19000,physical activity,AE
+2978,45+,Male,Locals,No Degree,2600,physical activity,AE
+2979,18-24,Female,Locals,No Degree,3900,physical activity,AE
+2980,25-44,Female,Locals,No Degree,10000,physical activity,AE
+2981,45+,Female,Locals,No Degree,1100,physical activity,AE
+2982,18-24,Male,Locals,High School,4200,physical activity,AE
+2983,25-44,Male,Locals,High School,5100,physical activity,AE
+2984,45+,Male,Locals,High School,450,physical activity,AE
 2985,18-24,Female,Locals,High School,1900,physical activity,AE
-2986,25-44,Female,Locals,High School,2000,physical activity,AE
-2987,45+,Female,Locals,High School,210,physical activity,AE
+2986,25-44,Female,Locals,High School,2100,physical activity,AE
+2987,45+,Female,Locals,High School,220,physical activity,AE
 2988,18-24,Male,Expats,Graduated,4300,physical activity,YE
-2989,25-44,Male,Expats,Graduated,6800,physical activity,YE
-2990,45+,Male,Expats,Graduated,600,physical activity,YE
+2989,25-44,Male,Expats,Graduated,6900,physical activity,YE
+2990,45+,Male,Expats,Graduated,610,physical activity,YE
 2991,18-24,Female,Expats,Graduated,680,physical activity,YE
-2992,25-44,Female,Expats,Graduated,1300,physical activity,YE
+2992,25-44,Female,Expats,Graduated,1400,physical activity,YE
 2993,45+,Female,Expats,Graduated,160,physical activity,YE
 2994,18-24,Male,Expats,No Degree,2200,physical activity,YE
-2995,25-44,Male,Expats,No Degree,3500,physical activity,YE
-2996,45+,Male,Expats,No Degree,430,physical activity,YE
-2997,18-24,Female,Expats,No Degree,1100,physical activity,YE
-2998,25-44,Female,Expats,No Degree,1100,physical activity,YE
+2995,25-44,Male,Expats,No Degree,3600,physical activity,YE
+2996,45+,Male,Expats,No Degree,410,physical activity,YE
+2997,18-24,Female,Expats,No Degree,1000,physical activity,YE
+2998,25-44,Female,Expats,No Degree,1000,physical activity,YE
 2999,45+,Female,Expats,No Degree,240,physical activity,YE
 3000,18-24,Male,Expats,High School,1800,physical activity,YE
 3001,25-44,Male,Expats,High School,1500,physical activity,YE
 3002,45+,Male,Expats,High School,180,physical activity,YE
-3003,18-24,Female,Expats,High School,590,physical activity,YE
-3004,25-44,Female,Expats,High School,440,physical activity,YE
+3003,18-24,Female,Expats,High School,620,physical activity,YE
+3004,25-44,Female,Expats,High School,430,physical activity,YE
 3005,45+,Female,Expats,High School,20,physical activity,YE
-3006,18-24,Male,Locals,Graduated,26000,physical activity,YE
-3007,25-44,Male,Locals,Graduated,53000,physical activity,YE
-3008,45+,Male,Locals,Graduated,4600,physical activity,YE
-3009,18-24,Female,Locals,Graduated,5500,physical activity,YE
+3006,18-24,Male,Locals,Graduated,27000,physical activity,YE
+3007,25-44,Male,Locals,Graduated,54000,physical activity,YE
+3008,45+,Male,Locals,Graduated,4700,physical activity,YE
+3009,18-24,Female,Locals,Graduated,5600,physical activity,YE
 3010,25-44,Female,Locals,Graduated,11000,physical activity,YE
-3011,45+,Female,Locals,Graduated,730,physical activity,YE
+3011,45+,Female,Locals,Graduated,740,physical activity,YE
 3012,18-24,Male,Locals,No Degree,22000,physical activity,YE
 3013,25-44,Male,Locals,No Degree,30000,physical activity,YE
-3014,45+,Male,Locals,No Degree,5000,physical activity,YE
-3015,18-24,Female,Locals,No Degree,6300,physical activity,YE
-3016,25-44,Female,Locals,No Degree,7800,physical activity,YE
+3014,45+,Male,Locals,No Degree,5100,physical activity,YE
+3015,18-24,Female,Locals,No Degree,6400,physical activity,YE
+3016,25-44,Female,Locals,No Degree,7900,physical activity,YE
 3017,45+,Female,Locals,No Degree,1200,physical activity,YE
 3018,18-24,Male,Locals,High School,18000,physical activity,YE
 3019,25-44,Male,Locals,High School,14000,physical activity,YE
 3020,45+,Male,Locals,High School,1600,physical activity,YE
-3021,18-24,Female,Locals,High School,6000,physical activity,YE
+3021,18-24,Female,Locals,High School,6100,physical activity,YE
 3022,25-44,Female,Locals,High School,2900,physical activity,YE
 3023,45+,Female,Locals,High School,240,physical activity,YE
-3024,18-24,Male,Expats,Graduated,7900,physical activity,PS
+3024,18-24,Male,Expats,Graduated,8100,physical activity,PS
 3025,25-44,Male,Expats,Graduated,11000,physical activity,PS
 3026,45+,Male,Expats,Graduated,1200,physical activity,PS
-3027,18-24,Female,Expats,Graduated,4500,physical activity,PS
-3028,25-44,Female,Expats,Graduated,7900,physical activity,PS
-3029,45+,Female,Expats,Graduated,950,physical activity,PS
-3030,18-24,Male,Expats,No Degree,2500,physical activity,PS
+3027,18-24,Female,Expats,Graduated,4600,physical activity,PS
+3028,25-44,Female,Expats,Graduated,8000,physical activity,PS
+3029,45+,Female,Expats,Graduated,980,physical activity,PS
+3030,18-24,Male,Expats,No Degree,2600,physical activity,PS
 3031,25-44,Male,Expats,No Degree,2600,physical activity,PS
-3032,45+,Male,Expats,No Degree,470,physical activity,PS
-3033,18-24,Female,Expats,No Degree,1700,physical activity,PS
+3032,45+,Male,Expats,No Degree,520,physical activity,PS
+3033,18-24,Female,Expats,No Degree,1800,physical activity,PS
 3034,25-44,Female,Expats,No Degree,2700,physical activity,PS
-3035,45+,Female,Expats,No Degree,900,physical activity,PS
+3035,45+,Female,Expats,No Degree,940,physical activity,PS
 3036,18-24,Male,Expats,High School,4700,physical activity,PS
-3037,25-44,Male,Expats,High School,2300,physical activity,PS
-3038,45+,Male,Expats,High School,360,physical activity,PS
-3039,18-24,Female,Expats,High School,4000,physical activity,PS
+3037,25-44,Male,Expats,High School,2400,physical activity,PS
+3038,45+,Male,Expats,High School,400,physical activity,PS
+3039,18-24,Female,Expats,High School,4200,physical activity,PS
 3040,25-44,Female,Expats,High School,2100,physical activity,PS
-3041,45+,Female,Expats,High School,380,physical activity,PS
-3042,18-24,Male,Locals,Graduated,32000,physical activity,PS
-3043,25-44,Male,Locals,Graduated,43000,physical activity,PS
-3044,45+,Male,Locals,Graduated,4200,physical activity,PS
-3045,18-24,Female,Locals,Graduated,21000,physical activity,PS
+3041,45+,Female,Expats,High School,410,physical activity,PS
+3042,18-24,Male,Locals,Graduated,33000,physical activity,PS
+3043,25-44,Male,Locals,Graduated,44000,physical activity,PS
+3044,45+,Male,Locals,Graduated,4500,physical activity,PS
+3045,18-24,Female,Locals,Graduated,22000,physical activity,PS
 3046,25-44,Female,Locals,Graduated,35000,physical activity,PS
-3047,45+,Female,Locals,Graduated,2800,physical activity,PS
-3048,18-24,Male,Locals,No Degree,14000,physical activity,PS
+3047,45+,Female,Locals,Graduated,2900,physical activity,PS
+3048,18-24,Male,Locals,No Degree,15000,physical activity,PS
 3049,25-44,Male,Locals,No Degree,14000,physical activity,PS
-3050,45+,Male,Locals,No Degree,3200,physical activity,PS
-3051,18-24,Female,Locals,No Degree,9600,physical activity,PS
+3050,45+,Male,Locals,No Degree,3500,physical activity,PS
+3051,18-24,Female,Locals,No Degree,10000,physical activity,PS
 3052,25-44,Female,Locals,No Degree,16000,physical activity,PS
-3053,45+,Female,Locals,No Degree,4500,physical activity,PS
+3053,45+,Female,Locals,No Degree,4700,physical activity,PS
 3054,18-24,Male,Locals,High School,21000,physical activity,PS
-3055,25-44,Male,Locals,High School,9500,physical activity,PS
-3056,45+,Male,Locals,High School,1400,physical activity,PS
+3055,25-44,Male,Locals,High School,9800,physical activity,PS
+3056,45+,Male,Locals,High School,1500,physical activity,PS
 3057,18-24,Female,Locals,High School,18000,physical activity,PS
-3058,25-44,Female,Locals,High School,9000,physical activity,PS
+3058,25-44,Female,Locals,High School,9200,physical activity,PS
 3059,45+,Female,Locals,High School,1300,physical activity,PS
-7956,18-24,Male,Expats,Graduated,4000,back pain,DZ
-7957,25-44,Male,Expats,Graduated,6800,back pain,DZ
+7956,18-24,Male,Expats,Graduated,4100,back pain,DZ
+7957,25-44,Male,Expats,Graduated,7000,back pain,DZ
 7958,45+,Male,Expats,Graduated,1200,back pain,DZ
 7959,18-24,Female,Expats,Graduated,1400,back pain,DZ
-7960,25-44,Female,Expats,Graduated,1700,back pain,DZ
-7961,45+,Female,Expats,Graduated,400,back pain,DZ
-7962,18-24,Male,Expats,No Degree,3600,back pain,DZ
-7963,25-44,Male,Expats,No Degree,8100,back pain,DZ
+7960,25-44,Female,Expats,Graduated,1800,back pain,DZ
+7961,45+,Female,Expats,Graduated,410,back pain,DZ
+7962,18-24,Male,Expats,No Degree,3700,back pain,DZ
+7963,25-44,Male,Expats,No Degree,8300,back pain,DZ
 7964,45+,Male,Expats,No Degree,2100,back pain,DZ
 7965,18-24,Female,Expats,No Degree,1500,back pain,DZ
-7966,25-44,Female,Expats,No Degree,2400,back pain,DZ
-7967,45+,Female,Expats,No Degree,690,back pain,DZ
-7968,18-24,Male,Expats,High School,1500,back pain,DZ
+7966,25-44,Female,Expats,No Degree,2500,back pain,DZ
+7967,45+,Female,Expats,No Degree,700,back pain,DZ
+7968,18-24,Male,Expats,High School,1600,back pain,DZ
 7969,25-44,Male,Expats,High School,1800,back pain,DZ
 7970,45+,Male,Expats,High School,450,back pain,DZ
 7971,18-24,Female,Expats,High School,680,back pain,DZ
-7972,25-44,Female,Expats,High School,440,back pain,DZ
-7973,45+,Female,Expats,High School,160,back pain,DZ
+7972,25-44,Female,Expats,High School,460,back pain,DZ
+7973,45+,Female,Expats,High School,170,back pain,DZ
 7974,18-24,Male,Locals,Graduated,20000,back pain,DZ
-7975,25-44,Male,Locals,Graduated,56000,back pain,DZ
-7976,45+,Male,Locals,Graduated,9100,back pain,DZ
+7975,25-44,Male,Locals,Graduated,58000,back pain,DZ
+7976,45+,Male,Locals,Graduated,9200,back pain,DZ
 7977,18-24,Female,Locals,Graduated,13000,back pain,DZ
-7978,25-44,Female,Locals,Graduated,23000,back pain,DZ
-7979,45+,Female,Locals,Graduated,3400,back pain,DZ
+7978,25-44,Female,Locals,Graduated,24000,back pain,DZ
+7979,45+,Female,Locals,Graduated,3500,back pain,DZ
 7980,18-24,Male,Locals,No Degree,36000,back pain,DZ
-7981,25-44,Male,Locals,No Degree,94000,back pain,DZ
+7981,25-44,Male,Locals,No Degree,97000,back pain,DZ
 7982,45+,Male,Locals,No Degree,20000,back pain,DZ
 7983,18-24,Female,Locals,No Degree,24000,back pain,DZ
-7984,25-44,Female,Locals,No Degree,36000,back pain,DZ
-7985,45+,Female,Locals,No Degree,9100,back pain,DZ
-7986,18-24,Male,Locals,High School,9400,back pain,DZ
-7987,25-44,Male,Locals,High School,17000,back pain,DZ
-7988,45+,Male,Locals,High School,3600,back pain,DZ
+7984,25-44,Female,Locals,No Degree,39000,back pain,DZ
+7985,45+,Female,Locals,No Degree,9400,back pain,DZ
+7986,18-24,Male,Locals,High School,9500,back pain,DZ
+7987,25-44,Male,Locals,High School,18000,back pain,DZ
+7988,45+,Male,Locals,High School,3700,back pain,DZ
 7989,18-24,Female,Locals,High School,6900,back pain,DZ
-7990,25-44,Female,Locals,High School,6200,back pain,DZ
-7991,45+,Female,Locals,High School,1600,back pain,DZ
-7992,18-24,Male,Expats,Graduated,80,back pain,BH
-7993,25-44,Male,Expats,Graduated,340,back pain,BH
-7994,45+,Male,Expats,Graduated,130,back pain,BH
+7990,25-44,Female,Locals,High School,6600,back pain,DZ
+7991,45+,Female,Locals,High School,1700,back pain,DZ
+7992,18-24,Male,Expats,Graduated,280,back pain,BH
+7993,25-44,Male,Expats,Graduated,860,back pain,BH
+7994,45+,Male,Expats,Graduated,140,back pain,BH
 7995,18-24,Female,Expats,Graduated,20,back pain,BH
-7996,25-44,Female,Expats,Graduated,270,back pain,BH
-7997,45+,Female,Expats,Graduated,310,back pain,BH
-7998,18-24,Male,Expats,No Degree,90,back pain,BH
-7999,25-44,Male,Expats,No Degree,300,back pain,BH
-8000,45+,Male,Expats,No Degree,150,back pain,BH
+7996,25-44,Female,Expats,Graduated,310,back pain,BH
+7997,45+,Female,Expats,Graduated,330,back pain,BH
+7998,18-24,Male,Expats,No Degree,180,back pain,BH
+7999,25-44,Male,Expats,No Degree,540,back pain,BH
+8000,45+,Male,Expats,No Degree,160,back pain,BH
 8001,18-24,Female,Expats,No Degree,20,back pain,BH
 8002,25-44,Female,Expats,No Degree,260,back pain,BH
-8003,45+,Female,Expats,No Degree,280,back pain,BH
-8004,18-24,Male,Expats,High School,20,back pain,BH
-8005,25-44,Male,Expats,High School,110,back pain,BH
-8006,45+,Male,Expats,High School,30,back pain,BH
+8003,45+,Female,Expats,No Degree,290,back pain,BH
+8004,18-24,Male,Expats,High School,80,back pain,BH
+8005,25-44,Male,Expats,High School,250,back pain,BH
+8006,45+,Male,Expats,High School,40,back pain,BH
 8007,18-24,Female,Expats,High School,20,back pain,BH
-8008,25-44,Female,Expats,High School,130,back pain,BH
+8008,25-44,Female,Expats,High School,140,back pain,BH
 8009,45+,Female,Expats,High School,160,back pain,BH
 8010,18-24,Male,Locals,Graduated,20,back pain,BH
-8011,25-44,Male,Locals,Graduated,30,back pain,BH
+8011,25-44,Male,Locals,Graduated,40,back pain,BH
 8012,45+,Male,Locals,Graduated,20,back pain,BH
 8013,18-24,Female,Locals,Graduated,20,back pain,BH
 8014,25-44,Female,Locals,Graduated,20,back pain,BH
 8015,45+,Female,Locals,Graduated,20,back pain,BH
 8016,18-24,Male,Locals,No Degree,20,back pain,BH
-8017,25-44,Male,Locals,No Degree,20,back pain,BH
+8017,25-44,Male,Locals,No Degree,30,back pain,BH
 8018,45+,Male,Locals,No Degree,20,back pain,BH
 8019,18-24,Female,Locals,No Degree,20,back pain,BH
 8020,25-44,Female,Locals,No Degree,20,back pain,BH
@@ -683,323 +683,323 @@
 8025,18-24,Female,Locals,High School,20,back pain,BH
 8026,25-44,Female,Locals,High School,20,back pain,BH
 8027,45+,Female,Locals,High School,20,back pain,BH
-8028,18-24,Male,Expats,Graduated,500,back pain,EG
-8029,25-44,Male,Expats,Graduated,2000,back pain,EG
-8030,45+,Male,Expats,Graduated,1000,back pain,EG
-8031,18-24,Female,Expats,Graduated,470,back pain,EG
-8032,25-44,Female,Expats,Graduated,1300,back pain,EG
-8033,45+,Female,Expats,Graduated,740,back pain,EG
-8034,18-24,Male,Expats,No Degree,240,back pain,EG
-8035,25-44,Male,Expats,No Degree,800,back pain,EG
-8036,45+,Male,Expats,No Degree,800,back pain,EG
-8037,18-24,Female,Expats,No Degree,170,back pain,EG
-8038,25-44,Female,Expats,No Degree,630,back pain,EG
+8028,18-24,Male,Expats,Graduated,560,back pain,EG
+8029,25-44,Male,Expats,Graduated,2300,back pain,EG
+8030,45+,Male,Expats,Graduated,1100,back pain,EG
+8031,18-24,Female,Expats,Graduated,530,back pain,EG
+8032,25-44,Female,Expats,Graduated,1500,back pain,EG
+8033,45+,Female,Expats,Graduated,810,back pain,EG
+8034,18-24,Male,Expats,No Degree,260,back pain,EG
+8035,25-44,Male,Expats,No Degree,840,back pain,EG
+8036,45+,Male,Expats,No Degree,810,back pain,EG
+8037,18-24,Female,Expats,No Degree,200,back pain,EG
+8038,25-44,Female,Expats,No Degree,660,back pain,EG
 8039,45+,Female,Expats,No Degree,810,back pain,EG
-8040,18-24,Male,Expats,High School,430,back pain,EG
-8041,25-44,Male,Expats,High School,430,back pain,EG
-8042,45+,Male,Expats,High School,220,back pain,EG
-8043,18-24,Female,Expats,High School,370,back pain,EG
-8044,25-44,Female,Expats,High School,330,back pain,EG
-8045,45+,Female,Expats,High School,200,back pain,EG
-8046,18-24,Male,Locals,Graduated,11000,back pain,EG
-8047,25-44,Male,Locals,Graduated,41000,back pain,EG
-8048,45+,Male,Locals,Graduated,20000,back pain,EG
-8049,18-24,Female,Locals,Graduated,15000,back pain,EG
-8050,25-44,Female,Locals,Graduated,39000,back pain,EG
-8051,45+,Female,Locals,Graduated,18000,back pain,EG
-8052,18-24,Male,Locals,No Degree,5400,back pain,EG
-8053,25-44,Male,Locals,No Degree,24000,back pain,EG
-8054,45+,Male,Locals,No Degree,25000,back pain,EG
-8055,18-24,Female,Locals,No Degree,8000,back pain,EG
-8056,25-44,Female,Locals,No Degree,24000,back pain,EG
+8040,18-24,Male,Expats,High School,460,back pain,EG
+8041,25-44,Male,Expats,High School,460,back pain,EG
+8042,45+,Male,Expats,High School,230,back pain,EG
+8043,18-24,Female,Expats,High School,420,back pain,EG
+8044,25-44,Female,Expats,High School,340,back pain,EG
+8045,45+,Female,Expats,High School,210,back pain,EG
+8046,18-24,Male,Locals,Graduated,12000,back pain,EG
+8047,25-44,Male,Locals,Graduated,48000,back pain,EG
+8048,45+,Male,Locals,Graduated,22000,back pain,EG
+8049,18-24,Female,Locals,Graduated,17000,back pain,EG
+8050,25-44,Female,Locals,Graduated,46000,back pain,EG
+8051,45+,Female,Locals,Graduated,19000,back pain,EG
+8052,18-24,Male,Locals,No Degree,5900,back pain,EG
+8053,25-44,Male,Locals,No Degree,25000,back pain,EG
+8054,45+,Male,Locals,No Degree,26000,back pain,EG
+8055,18-24,Female,Locals,No Degree,8700,back pain,EG
+8056,25-44,Female,Locals,No Degree,25000,back pain,EG
 8057,45+,Female,Locals,No Degree,33000,back pain,EG
-8058,18-24,Male,Locals,High School,7600,back pain,EG
-8059,25-44,Male,Locals,High School,8700,back pain,EG
-8060,45+,Male,Locals,High School,4800,back pain,EG
-8061,18-24,Female,Locals,High School,11000,back pain,EG
-8062,25-44,Female,Locals,High School,7200,back pain,EG
-8063,45+,Female,Locals,High School,4100,back pain,EG
-8064,18-24,Male,Expats,Graduated,1400,back pain,IQ
-8065,25-44,Male,Expats,Graduated,2900,back pain,IQ
-8066,45+,Male,Expats,Graduated,620,back pain,IQ
-8067,18-24,Female,Expats,Graduated,80,back pain,IQ
-8068,25-44,Female,Expats,Graduated,320,back pain,IQ
-8069,45+,Female,Expats,Graduated,110,back pain,IQ
-8070,18-24,Male,Expats,No Degree,880,back pain,IQ
-8071,25-44,Male,Expats,No Degree,1400,back pain,IQ
-8072,45+,Male,Expats,No Degree,480,back pain,IQ
-8073,18-24,Female,Expats,No Degree,140,back pain,IQ
-8074,25-44,Female,Expats,No Degree,260,back pain,IQ
-8075,45+,Female,Expats,No Degree,120,back pain,IQ
-8076,18-24,Male,Expats,High School,740,back pain,IQ
-8077,25-44,Male,Expats,High School,790,back pain,IQ
-8078,45+,Male,Expats,High School,200,back pain,IQ
-8079,18-24,Female,Expats,High School,50,back pain,IQ
-8080,25-44,Female,Expats,High School,100,back pain,IQ
-8081,45+,Female,Expats,High School,30,back pain,IQ
-8082,18-24,Male,Locals,Graduated,14000,back pain,IQ
-8083,25-44,Male,Locals,Graduated,36000,back pain,IQ
-8084,45+,Male,Locals,Graduated,8500,back pain,IQ
-8085,18-24,Female,Locals,Graduated,1200,back pain,IQ
-8086,25-44,Female,Locals,Graduated,6600,back pain,IQ
-8087,45+,Female,Locals,Graduated,2300,back pain,IQ
-8088,18-24,Male,Locals,No Degree,20000,back pain,IQ
-8089,25-44,Male,Locals,No Degree,32000,back pain,IQ
-8090,45+,Male,Locals,No Degree,14000,back pain,IQ
-8091,18-24,Female,Locals,No Degree,2700,back pain,IQ
-8092,25-44,Female,Locals,No Degree,7200,back pain,IQ
-8093,45+,Female,Locals,No Degree,4500,back pain,IQ
-8094,18-24,Male,Locals,High School,9800,back pain,IQ
-8095,25-44,Male,Locals,High School,11000,back pain,IQ
-8096,45+,Male,Locals,High School,2900,back pain,IQ
-8097,18-24,Female,Locals,High School,1100,back pain,IQ
-8098,25-44,Female,Locals,High School,2000,back pain,IQ
-8099,45+,Female,Locals,High School,730,back pain,IQ
-8100,18-24,Male,Expats,Graduated,2300,back pain,JO
-8101,25-44,Male,Expats,Graduated,7100,back pain,JO
-8102,45+,Male,Expats,Graduated,1700,back pain,JO
-8103,18-24,Female,Expats,Graduated,1100,back pain,JO
-8104,25-44,Female,Expats,Graduated,3600,back pain,JO
-8105,45+,Female,Expats,Graduated,1300,back pain,JO
-8106,18-24,Male,Expats,No Degree,2400,back pain,JO
-8107,25-44,Male,Expats,No Degree,7100,back pain,JO
-8108,45+,Male,Expats,No Degree,2300,back pain,JO
-8109,18-24,Female,Expats,No Degree,1000,back pain,JO
-8110,25-44,Female,Expats,No Degree,3100,back pain,JO
-8111,45+,Female,Expats,No Degree,2000,back pain,JO
-8112,18-24,Male,Expats,High School,1600,back pain,JO
-8113,25-44,Male,Expats,High School,2400,back pain,JO
-8114,45+,Male,Expats,High School,610,back pain,JO
-8115,18-24,Female,Expats,High School,1100,back pain,JO
-8116,25-44,Female,Expats,High School,1200,back pain,JO
-8117,45+,Female,Expats,High School,540,back pain,JO
-8118,18-24,Male,Locals,Graduated,6700,back pain,JO
-8119,25-44,Male,Locals,Graduated,18000,back pain,JO
-8120,45+,Male,Locals,Graduated,4900,back pain,JO
-8121,18-24,Female,Locals,Graduated,4000,back pain,JO
-8122,25-44,Female,Locals,Graduated,12000,back pain,JO
-8123,45+,Female,Locals,Graduated,2900,back pain,JO
-8124,18-24,Male,Locals,No Degree,6500,back pain,JO
-8125,25-44,Male,Locals,No Degree,17000,back pain,JO
-8126,45+,Male,Locals,No Degree,8600,back pain,JO
-8127,18-24,Female,Locals,No Degree,4300,back pain,JO
-8128,25-44,Female,Locals,No Degree,14000,back pain,JO
-8129,45+,Female,Locals,No Degree,7300,back pain,JO
-8130,18-24,Male,Locals,High School,4600,back pain,JO
-8131,25-44,Male,Locals,High School,6100,back pain,JO
-8132,45+,Male,Locals,High School,2100,back pain,JO
-8133,18-24,Female,Locals,High School,3700,back pain,JO
-8134,25-44,Female,Locals,High School,4400,back pain,JO
-8135,45+,Female,Locals,High School,1300,back pain,JO
-8136,18-24,Male,Expats,Graduated,440,back pain,KW
-8137,25-44,Male,Expats,Graduated,4300,back pain,KW
-8138,45+,Male,Expats,Graduated,860,back pain,KW
-8139,18-24,Female,Expats,Graduated,210,back pain,KW
-8140,25-44,Female,Expats,Graduated,5000,back pain,KW
-8141,45+,Female,Expats,Graduated,1400,back pain,KW
-8142,18-24,Male,Expats,No Degree,840,back pain,KW
-8143,25-44,Male,Expats,No Degree,4000,back pain,KW
+8058,18-24,Male,Locals,High School,8500,back pain,EG
+8059,25-44,Male,Locals,High School,9500,back pain,EG
+8060,45+,Male,Locals,High School,5000,back pain,EG
+8061,18-24,Female,Locals,High School,12000,back pain,EG
+8062,25-44,Female,Locals,High School,7600,back pain,EG
+8063,45+,Female,Locals,High School,4200,back pain,EG
+8064,18-24,Male,Expats,Graduated,1900,back pain,IQ
+8065,25-44,Male,Expats,Graduated,3900,back pain,IQ
+8066,45+,Male,Expats,Graduated,690,back pain,IQ
+8067,18-24,Female,Expats,Graduated,90,back pain,IQ
+8068,25-44,Female,Expats,Graduated,390,back pain,IQ
+8069,45+,Female,Expats,Graduated,120,back pain,IQ
+8070,18-24,Male,Expats,No Degree,1200,back pain,IQ
+8071,25-44,Male,Expats,No Degree,1900,back pain,IQ
+8072,45+,Male,Expats,No Degree,530,back pain,IQ
+8073,18-24,Female,Expats,No Degree,170,back pain,IQ
+8074,25-44,Female,Expats,No Degree,310,back pain,IQ
+8075,45+,Female,Expats,No Degree,140,back pain,IQ
+8076,18-24,Male,Expats,High School,1000,back pain,IQ
+8077,25-44,Male,Expats,High School,1100,back pain,IQ
+8078,45+,Male,Expats,High School,230,back pain,IQ
+8079,18-24,Female,Expats,High School,60,back pain,IQ
+8080,25-44,Female,Expats,High School,120,back pain,IQ
+8081,45+,Female,Expats,High School,40,back pain,IQ
+8082,18-24,Male,Locals,Graduated,20000,back pain,IQ
+8083,25-44,Male,Locals,Graduated,46000,back pain,IQ
+8084,45+,Male,Locals,Graduated,9400,back pain,IQ
+8085,18-24,Female,Locals,Graduated,1500,back pain,IQ
+8086,25-44,Female,Locals,Graduated,7600,back pain,IQ
+8087,45+,Female,Locals,Graduated,2700,back pain,IQ
+8088,18-24,Male,Locals,No Degree,27000,back pain,IQ
+8089,25-44,Male,Locals,No Degree,40000,back pain,IQ
+8090,45+,Male,Locals,No Degree,16000,back pain,IQ
+8091,18-24,Female,Locals,No Degree,3300,back pain,IQ
+8092,25-44,Female,Locals,No Degree,8400,back pain,IQ
+8093,45+,Female,Locals,No Degree,5000,back pain,IQ
+8094,18-24,Male,Locals,High School,14000,back pain,IQ
+8095,25-44,Male,Locals,High School,15000,back pain,IQ
+8096,45+,Male,Locals,High School,3300,back pain,IQ
+8097,18-24,Female,Locals,High School,1300,back pain,IQ
+8098,25-44,Female,Locals,High School,2300,back pain,IQ
+8099,45+,Female,Locals,High School,830,back pain,IQ
+8100,18-24,Male,Expats,Graduated,2600,back pain,JO
+8101,25-44,Male,Expats,Graduated,7900,back pain,JO
+8102,45+,Male,Expats,Graduated,1900,back pain,JO
+8103,18-24,Female,Expats,Graduated,1300,back pain,JO
+8104,25-44,Female,Expats,Graduated,4100,back pain,JO
+8105,45+,Female,Expats,Graduated,1400,back pain,JO
+8106,18-24,Male,Expats,No Degree,2800,back pain,JO
+8107,25-44,Male,Expats,No Degree,8300,back pain,JO
+8108,45+,Male,Expats,No Degree,2700,back pain,JO
+8109,18-24,Female,Expats,No Degree,1200,back pain,JO
+8110,25-44,Female,Expats,No Degree,3600,back pain,JO
+8111,45+,Female,Expats,No Degree,2300,back pain,JO
+8112,18-24,Male,Expats,High School,1800,back pain,JO
+8113,25-44,Male,Expats,High School,2600,back pain,JO
+8114,45+,Male,Expats,High School,680,back pain,JO
+8115,18-24,Female,Expats,High School,1200,back pain,JO
+8116,25-44,Female,Expats,High School,1400,back pain,JO
+8117,45+,Female,Expats,High School,610,back pain,JO
+8118,18-24,Male,Locals,Graduated,7500,back pain,JO
+8119,25-44,Male,Locals,Graduated,20000,back pain,JO
+8120,45+,Male,Locals,Graduated,5700,back pain,JO
+8121,18-24,Female,Locals,Graduated,5100,back pain,JO
+8122,25-44,Female,Locals,Graduated,15000,back pain,JO
+8123,45+,Female,Locals,Graduated,3200,back pain,JO
+8124,18-24,Male,Locals,No Degree,7500,back pain,JO
+8125,25-44,Male,Locals,No Degree,19000,back pain,JO
+8126,45+,Male,Locals,No Degree,9900,back pain,JO
+8127,18-24,Female,Locals,No Degree,5300,back pain,JO
+8128,25-44,Female,Locals,No Degree,16000,back pain,JO
+8129,45+,Female,Locals,No Degree,8300,back pain,JO
+8130,18-24,Male,Locals,High School,5200,back pain,JO
+8131,25-44,Male,Locals,High School,7000,back pain,JO
+8132,45+,Male,Locals,High School,2400,back pain,JO
+8133,18-24,Female,Locals,High School,4500,back pain,JO
+8134,25-44,Female,Locals,High School,5100,back pain,JO
+8135,45+,Female,Locals,High School,1500,back pain,JO
+8136,18-24,Male,Expats,Graduated,580,back pain,KW
+8137,25-44,Male,Expats,Graduated,4900,back pain,KW
+8138,45+,Male,Expats,Graduated,890,back pain,KW
+8139,18-24,Female,Expats,Graduated,220,back pain,KW
+8140,25-44,Female,Expats,Graduated,5500,back pain,KW
+8141,45+,Female,Expats,Graduated,1500,back pain,KW
+8142,18-24,Male,Expats,No Degree,950,back pain,KW
+8143,25-44,Male,Expats,No Degree,4400,back pain,KW
 8144,45+,Male,Expats,No Degree,1100,back pain,KW
-8145,18-24,Female,Expats,No Degree,250,back pain,KW
-8146,25-44,Female,Expats,No Degree,3700,back pain,KW
-8147,45+,Female,Expats,No Degree,1300,back pain,KW
-8148,18-24,Male,Expats,High School,180,back pain,KW
-8149,25-44,Male,Expats,High School,1300,back pain,KW
-8150,45+,Male,Expats,High School,250,back pain,KW
+8145,18-24,Female,Expats,No Degree,270,back pain,KW
+8146,25-44,Female,Expats,No Degree,4000,back pain,KW
+8147,45+,Female,Expats,No Degree,1400,back pain,KW
+8148,18-24,Male,Expats,High School,230,back pain,KW
+8149,25-44,Male,Expats,High School,1500,back pain,KW
+8150,45+,Male,Expats,High School,260,back pain,KW
 8151,18-24,Female,Expats,High School,110,back pain,KW
-8152,25-44,Female,Expats,High School,2100,back pain,KW
-8153,45+,Female,Expats,High School,570,back pain,KW
+8152,25-44,Female,Expats,High School,2300,back pain,KW
+8153,45+,Female,Expats,High School,610,back pain,KW
 8154,18-24,Male,Locals,Graduated,40,back pain,KW
 8155,25-44,Male,Locals,Graduated,450,back pain,KW
 8156,45+,Male,Locals,Graduated,50,back pain,KW
 8157,18-24,Female,Locals,Graduated,20,back pain,KW
-8158,25-44,Female,Locals,Graduated,150,back pain,KW
-8159,45+,Female,Locals,Graduated,30,back pain,KW
+8158,25-44,Female,Locals,Graduated,160,back pain,KW
+8159,45+,Female,Locals,Graduated,40,back pain,KW
 8160,18-24,Male,Locals,No Degree,70,back pain,KW
-8161,25-44,Male,Locals,No Degree,430,back pain,KW
-8162,45+,Male,Locals,No Degree,80,back pain,KW
+8161,25-44,Male,Locals,No Degree,440,back pain,KW
+8162,45+,Male,Locals,No Degree,90,back pain,KW
 8163,18-24,Female,Locals,No Degree,20,back pain,KW
-8164,25-44,Female,Locals,No Degree,150,back pain,KW
-8165,45+,Female,Locals,No Degree,40,back pain,KW
+8164,25-44,Female,Locals,No Degree,160,back pain,KW
+8165,45+,Female,Locals,No Degree,50,back pain,KW
 8166,18-24,Male,Locals,High School,20,back pain,KW
-8167,25-44,Male,Locals,High School,110,back pain,KW
+8167,25-44,Male,Locals,High School,120,back pain,KW
 8168,45+,Male,Locals,High School,20,back pain,KW
 8169,18-24,Female,Locals,High School,20,back pain,KW
 8170,25-44,Female,Locals,High School,30,back pain,KW
 8171,45+,Female,Locals,High School,20,back pain,KW
-8172,18-24,Male,Expats,Graduated,420,back pain,LB
-8173,25-44,Male,Expats,Graduated,670,back pain,LB
-8174,45+,Male,Expats,Graduated,140,back pain,LB
-8175,18-24,Female,Expats,Graduated,90,back pain,LB
-8176,25-44,Female,Expats,Graduated,340,back pain,LB
-8177,45+,Female,Expats,Graduated,140,back pain,LB
-8178,18-24,Male,Expats,No Degree,550,back pain,LB
-8179,25-44,Male,Expats,No Degree,880,back pain,LB
-8180,45+,Male,Expats,No Degree,280,back pain,LB
-8181,18-24,Female,Expats,No Degree,190,back pain,LB
-8182,25-44,Female,Expats,No Degree,420,back pain,LB
-8183,45+,Female,Expats,No Degree,240,back pain,LB
-8184,18-24,Male,Expats,High School,220,back pain,LB
-8185,25-44,Male,Expats,High School,260,back pain,LB
-8186,45+,Male,Expats,High School,50,back pain,LB
+8172,18-24,Male,Expats,Graduated,460,back pain,LB
+8173,25-44,Male,Expats,Graduated,780,back pain,LB
+8174,45+,Male,Expats,Graduated,180,back pain,LB
+8175,18-24,Female,Expats,Graduated,100,back pain,LB
+8176,25-44,Female,Expats,Graduated,380,back pain,LB
+8177,45+,Female,Expats,Graduated,160,back pain,LB
+8178,18-24,Male,Expats,No Degree,640,back pain,LB
+8179,25-44,Male,Expats,No Degree,970,back pain,LB
+8180,45+,Male,Expats,No Degree,330,back pain,LB
+8181,18-24,Female,Expats,No Degree,210,back pain,LB
+8182,25-44,Female,Expats,No Degree,460,back pain,LB
+8183,45+,Female,Expats,No Degree,260,back pain,LB
+8184,18-24,Male,Expats,High School,260,back pain,LB
+8185,25-44,Male,Expats,High School,290,back pain,LB
+8186,45+,Male,Expats,High School,70,back pain,LB
 8187,18-24,Female,Expats,High School,130,back pain,LB
-8188,25-44,Female,Expats,High School,150,back pain,LB
-8189,45+,Female,Expats,High School,60,back pain,LB
-8190,18-24,Male,Locals,Graduated,1100,back pain,LB
-8191,25-44,Male,Locals,Graduated,1900,back pain,LB
-8192,45+,Male,Locals,Graduated,680,back pain,LB
-8193,18-24,Female,Locals,Graduated,840,back pain,LB
-8194,25-44,Female,Locals,Graduated,1600,back pain,LB
-8195,45+,Female,Locals,Graduated,560,back pain,LB
-8196,18-24,Male,Locals,No Degree,1700,back pain,LB
-8197,25-44,Male,Locals,No Degree,2000,back pain,LB
-8198,45+,Male,Locals,No Degree,1400,back pain,LB
-8199,18-24,Female,Locals,No Degree,1100,back pain,LB
-8200,25-44,Female,Locals,No Degree,2100,back pain,LB
-8201,45+,Female,Locals,No Degree,1600,back pain,LB
-8202,18-24,Male,Locals,High School,990,back pain,LB
-8203,25-44,Male,Locals,High School,570,back pain,LB
-8204,45+,Male,Locals,High School,200,back pain,LB
-8205,18-24,Female,Locals,High School,1000,back pain,LB
-8206,25-44,Female,Locals,High School,470,back pain,LB
-8207,45+,Female,Locals,High School,230,back pain,LB
-8208,18-24,Male,Expats,Graduated,340,back pain,LY
-8209,25-44,Male,Expats,Graduated,980,back pain,LY
-8210,45+,Male,Expats,Graduated,250,back pain,LY
-8211,18-24,Female,Expats,Graduated,100,back pain,LY
-8212,25-44,Female,Expats,Graduated,260,back pain,LY
-8213,45+,Female,Expats,Graduated,80,back pain,LY
-8214,18-24,Male,Expats,No Degree,1000,back pain,LY
-8215,25-44,Male,Expats,No Degree,2000,back pain,LY
-8216,45+,Male,Expats,No Degree,550,back pain,LY
-8217,18-24,Female,Expats,No Degree,150,back pain,LY
-8218,25-44,Female,Expats,No Degree,400,back pain,LY
-8219,45+,Female,Expats,No Degree,230,back pain,LY
-8220,18-24,Male,Expats,High School,140,back pain,LY
-8221,25-44,Male,Expats,High School,270,back pain,LY
-8222,45+,Male,Expats,High School,80,back pain,LY
-8223,18-24,Female,Expats,High School,50,back pain,LY
-8224,25-44,Female,Expats,High School,50,back pain,LY
-8225,45+,Female,Expats,High School,30,back pain,LY
-8226,18-24,Male,Locals,Graduated,1800,back pain,LY
-8227,25-44,Male,Locals,Graduated,4700,back pain,LY
-8228,45+,Male,Locals,Graduated,1700,back pain,LY
-8229,18-24,Female,Locals,Graduated,1200,back pain,LY
-8230,25-44,Female,Locals,Graduated,2500,back pain,LY
-8231,45+,Female,Locals,Graduated,740,back pain,LY
-8232,18-24,Male,Locals,No Degree,2700,back pain,LY
-8233,25-44,Male,Locals,No Degree,6800,back pain,LY
-8234,45+,Male,Locals,No Degree,3500,back pain,LY
-8235,18-24,Female,Locals,No Degree,1600,back pain,LY
-8236,25-44,Female,Locals,No Degree,4000,back pain,LY
-8237,45+,Female,Locals,No Degree,2400,back pain,LY
-8238,18-24,Male,Locals,High School,920,back pain,LY
-8239,25-44,Male,Locals,High School,1200,back pain,LY
-8240,45+,Male,Locals,High School,520,back pain,LY
-8241,18-24,Female,Locals,High School,750,back pain,LY
-8242,25-44,Female,Locals,High School,690,back pain,LY
-8243,45+,Female,Locals,High School,280,back pain,LY
-8244,18-24,Male,Expats,Graduated,280,back pain,MA
-8245,25-44,Male,Expats,Graduated,220,back pain,MA
+8188,25-44,Female,Expats,High School,160,back pain,LB
+8189,45+,Female,Expats,High School,70,back pain,LB
+8190,18-24,Male,Locals,Graduated,1300,back pain,LB
+8191,25-44,Male,Locals,Graduated,2600,back pain,LB
+8192,45+,Male,Locals,Graduated,1100,back pain,LB
+8193,18-24,Female,Locals,Graduated,910,back pain,LB
+8194,25-44,Female,Locals,Graduated,1800,back pain,LB
+8195,45+,Female,Locals,Graduated,710,back pain,LB
+8196,18-24,Male,Locals,No Degree,2000,back pain,LB
+8197,25-44,Male,Locals,No Degree,2900,back pain,LB
+8198,45+,Male,Locals,No Degree,2300,back pain,LB
+8199,18-24,Female,Locals,No Degree,1200,back pain,LB
+8200,25-44,Female,Locals,No Degree,2500,back pain,LB
+8201,45+,Female,Locals,No Degree,1900,back pain,LB
+8202,18-24,Male,Locals,High School,1100,back pain,LB
+8203,25-44,Male,Locals,High School,780,back pain,LB
+8204,45+,Male,Locals,High School,340,back pain,LB
+8205,18-24,Female,Locals,High School,1100,back pain,LB
+8206,25-44,Female,Locals,High School,560,back pain,LB
+8207,45+,Female,Locals,High School,280,back pain,LB
+8208,18-24,Male,Expats,Graduated,410,back pain,LY
+8209,25-44,Male,Expats,Graduated,1200,back pain,LY
+8210,45+,Male,Expats,Graduated,310,back pain,LY
+8211,18-24,Female,Expats,Graduated,150,back pain,LY
+8212,25-44,Female,Expats,Graduated,420,back pain,LY
+8213,45+,Female,Expats,Graduated,120,back pain,LY
+8214,18-24,Male,Expats,No Degree,1100,back pain,LY
+8215,25-44,Male,Expats,No Degree,2200,back pain,LY
+8216,45+,Male,Expats,No Degree,610,back pain,LY
+8217,18-24,Female,Expats,No Degree,200,back pain,LY
+8218,25-44,Female,Expats,No Degree,590,back pain,LY
+8219,45+,Female,Expats,No Degree,300,back pain,LY
+8220,18-24,Male,Expats,High School,160,back pain,LY
+8221,25-44,Male,Expats,High School,340,back pain,LY
+8222,45+,Male,Expats,High School,90,back pain,LY
+8223,18-24,Female,Expats,High School,70,back pain,LY
+8224,25-44,Female,Expats,High School,100,back pain,LY
+8225,45+,Female,Expats,High School,40,back pain,LY
+8226,18-24,Male,Locals,Graduated,2200,back pain,LY
+8227,25-44,Male,Locals,Graduated,6300,back pain,LY
+8228,45+,Male,Locals,Graduated,2100,back pain,LY
+8229,18-24,Female,Locals,Graduated,1700,back pain,LY
+8230,25-44,Female,Locals,Graduated,4200,back pain,LY
+8231,45+,Female,Locals,Graduated,1100,back pain,LY
+8232,18-24,Male,Locals,No Degree,3000,back pain,LY
+8233,25-44,Male,Locals,No Degree,8100,back pain,LY
+8234,45+,Male,Locals,No Degree,3900,back pain,LY
+8235,18-24,Female,Locals,No Degree,2100,back pain,LY
+8236,25-44,Female,Locals,No Degree,6000,back pain,LY
+8237,45+,Female,Locals,No Degree,3100,back pain,LY
+8238,18-24,Male,Locals,High School,1200,back pain,LY
+8239,25-44,Male,Locals,High School,1600,back pain,LY
+8240,45+,Male,Locals,High School,630,back pain,LY
+8241,18-24,Female,Locals,High School,1100,back pain,LY
+8242,25-44,Female,Locals,High School,1100,back pain,LY
+8243,45+,Female,Locals,High School,400,back pain,LY
+8244,18-24,Male,Expats,Graduated,390,back pain,MA
+8245,25-44,Male,Expats,Graduated,290,back pain,MA
 8246,45+,Male,Expats,Graduated,60,back pain,MA
-8247,18-24,Female,Expats,Graduated,60,back pain,MA
-8248,25-44,Female,Expats,Graduated,70,back pain,MA
+8247,18-24,Female,Expats,Graduated,100,back pain,MA
+8248,25-44,Female,Expats,Graduated,90,back pain,MA
 8249,45+,Female,Expats,Graduated,30,back pain,MA
-8250,18-24,Male,Expats,No Degree,150,back pain,MA
-8251,25-44,Male,Expats,No Degree,250,back pain,MA
-8252,45+,Male,Expats,No Degree,80,back pain,MA
-8253,18-24,Female,Expats,No Degree,50,back pain,MA
-8254,25-44,Female,Expats,No Degree,70,back pain,MA
+8250,18-24,Male,Expats,No Degree,180,back pain,MA
+8251,25-44,Male,Expats,No Degree,300,back pain,MA
+8252,45+,Male,Expats,No Degree,100,back pain,MA
+8253,18-24,Female,Expats,No Degree,90,back pain,MA
+8254,25-44,Female,Expats,No Degree,100,back pain,MA
 8255,45+,Female,Expats,No Degree,40,back pain,MA
-8256,18-24,Male,Expats,High School,120,back pain,MA
-8257,25-44,Male,Expats,High School,70,back pain,MA
+8256,18-24,Male,Expats,High School,170,back pain,MA
+8257,25-44,Male,Expats,High School,80,back pain,MA
 8258,45+,Male,Expats,High School,20,back pain,MA
-8259,18-24,Female,Expats,High School,30,back pain,MA
-8260,25-44,Female,Expats,High School,20,back pain,MA
+8259,18-24,Female,Expats,High School,60,back pain,MA
+8260,25-44,Female,Expats,High School,30,back pain,MA
 8261,45+,Female,Expats,High School,20,back pain,MA
-8262,18-24,Male,Locals,Graduated,1700,back pain,MA
-8263,25-44,Male,Locals,Graduated,1700,back pain,MA
-8264,45+,Male,Locals,Graduated,390,back pain,MA
-8265,18-24,Female,Locals,Graduated,800,back pain,MA
-8266,25-44,Female,Locals,Graduated,740,back pain,MA
-8267,45+,Female,Locals,Graduated,170,back pain,MA
-8268,18-24,Male,Locals,No Degree,2500,back pain,MA
-8269,25-44,Male,Locals,No Degree,2900,back pain,MA
-8270,45+,Male,Locals,No Degree,840,back pain,MA
-8271,18-24,Female,Locals,No Degree,1100,back pain,MA
-8272,25-44,Female,Locals,No Degree,860,back pain,MA
-8273,45+,Female,Locals,No Degree,340,back pain,MA
-8274,18-24,Male,Locals,High School,840,back pain,MA
-8275,25-44,Male,Locals,High School,510,back pain,MA
-8276,45+,Male,Locals,High School,150,back pain,MA
-8277,18-24,Female,Locals,High School,400,back pain,MA
-8278,25-44,Female,Locals,High School,200,back pain,MA
-8279,45+,Female,Locals,High School,100,back pain,MA
-8280,18-24,Male,Expats,Graduated,170,back pain,OM
-8281,25-44,Male,Expats,Graduated,980,back pain,OM
-8282,45+,Male,Expats,Graduated,250,back pain,OM
+8262,18-24,Male,Locals,Graduated,2400,back pain,MA
+8263,25-44,Male,Locals,Graduated,2100,back pain,MA
+8264,45+,Male,Locals,Graduated,450,back pain,MA
+8265,18-24,Female,Locals,Graduated,1200,back pain,MA
+8266,25-44,Female,Locals,Graduated,920,back pain,MA
+8267,45+,Female,Locals,Graduated,190,back pain,MA
+8268,18-24,Male,Locals,No Degree,3000,back pain,MA
+8269,25-44,Male,Locals,No Degree,3300,back pain,MA
+8270,45+,Male,Locals,No Degree,930,back pain,MA
+8271,18-24,Female,Locals,No Degree,1900,back pain,MA
+8272,25-44,Female,Locals,No Degree,1200,back pain,MA
+8273,45+,Female,Locals,No Degree,410,back pain,MA
+8274,18-24,Male,Locals,High School,1200,back pain,MA
+8275,25-44,Male,Locals,High School,630,back pain,MA
+8276,45+,Male,Locals,High School,170,back pain,MA
+8277,18-24,Female,Locals,High School,680,back pain,MA
+8278,25-44,Female,Locals,High School,270,back pain,MA
+8279,45+,Female,Locals,High School,110,back pain,MA
+8280,18-24,Male,Expats,Graduated,480,back pain,OM
+8281,25-44,Male,Expats,Graduated,1800,back pain,OM
+8282,45+,Male,Expats,Graduated,260,back pain,OM
 8283,18-24,Female,Expats,Graduated,30,back pain,OM
-8284,25-44,Female,Expats,Graduated,630,back pain,OM
+8284,25-44,Female,Expats,Graduated,650,back pain,OM
 8285,45+,Female,Expats,Graduated,260,back pain,OM
-8286,18-24,Male,Expats,No Degree,250,back pain,OM
-8287,25-44,Male,Expats,No Degree,850,back pain,OM
-8288,45+,Male,Expats,No Degree,210,back pain,OM
+8286,18-24,Male,Expats,No Degree,500,back pain,OM
+8287,25-44,Male,Expats,No Degree,1400,back pain,OM
+8288,45+,Male,Expats,No Degree,220,back pain,OM
 8289,18-24,Female,Expats,No Degree,50,back pain,OM
 8290,25-44,Female,Expats,No Degree,740,back pain,OM
 8291,45+,Female,Expats,No Degree,250,back pain,OM
-8292,18-24,Male,Expats,High School,70,back pain,OM
-8293,25-44,Male,Expats,High School,230,back pain,OM
+8292,18-24,Male,Expats,High School,170,back pain,OM
+8293,25-44,Male,Expats,High School,450,back pain,OM
 8294,45+,Male,Expats,High School,70,back pain,OM
 8295,18-24,Female,Expats,High School,20,back pain,OM
-8296,25-44,Female,Expats,High School,240,back pain,OM
+8296,25-44,Female,Expats,High School,250,back pain,OM
 8297,45+,Female,Expats,High School,100,back pain,OM
-8298,18-24,Male,Locals,Graduated,20,back pain,OM
-8299,25-44,Male,Locals,Graduated,90,back pain,OM
+8298,18-24,Male,Locals,Graduated,30,back pain,OM
+8299,25-44,Male,Locals,Graduated,100,back pain,OM
 8300,45+,Male,Locals,Graduated,20,back pain,OM
 8301,18-24,Female,Locals,Graduated,20,back pain,OM
 8302,25-44,Female,Locals,Graduated,20,back pain,OM
 8303,45+,Female,Locals,Graduated,20,back pain,OM
-8304,18-24,Male,Locals,No Degree,20,back pain,OM
-8305,25-44,Male,Locals,No Degree,40,back pain,OM
+8304,18-24,Male,Locals,No Degree,30,back pain,OM
+8305,25-44,Male,Locals,No Degree,50,back pain,OM
 8306,45+,Male,Locals,No Degree,20,back pain,OM
 8307,18-24,Female,Locals,No Degree,20,back pain,OM
 8308,25-44,Female,Locals,No Degree,20,back pain,OM
 8309,45+,Female,Locals,No Degree,20,back pain,OM
 8310,18-24,Male,Locals,High School,20,back pain,OM
-8311,25-44,Male,Locals,High School,20,back pain,OM
+8311,25-44,Male,Locals,High School,30,back pain,OM
 8312,45+,Male,Locals,High School,20,back pain,OM
 8313,18-24,Female,Locals,High School,20,back pain,OM
 8314,25-44,Female,Locals,High School,20,back pain,OM
 8315,45+,Female,Locals,High School,20,back pain,OM
-8316,18-24,Male,Expats,Graduated,330,back pain,QA
-8317,25-44,Male,Expats,Graduated,2100,back pain,QA
-8318,45+,Male,Expats,Graduated,770,back pain,QA
-8319,18-24,Female,Expats,Graduated,340,back pain,QA
-8320,25-44,Female,Expats,Graduated,2500,back pain,QA
-8321,45+,Female,Expats,Graduated,780,back pain,QA
-8322,18-24,Male,Expats,No Degree,330,back pain,QA
-8323,25-44,Male,Expats,No Degree,1100,back pain,QA
-8324,45+,Male,Expats,No Degree,600,back pain,QA
-8325,18-24,Female,Expats,No Degree,300,back pain,QA
-8326,25-44,Female,Expats,No Degree,1700,back pain,QA
-8327,45+,Female,Expats,No Degree,690,back pain,QA
-8328,18-24,Male,Expats,High School,80,back pain,QA
-8329,25-44,Male,Expats,High School,540,back pain,QA
-8330,45+,Male,Expats,High School,240,back pain,QA
-8331,18-24,Female,Expats,High School,150,back pain,QA
-8332,25-44,Female,Expats,High School,740,back pain,QA
-8333,45+,Female,Expats,High School,260,back pain,QA
+8316,18-24,Male,Expats,Graduated,720,back pain,QA
+8317,25-44,Male,Expats,Graduated,3000,back pain,QA
+8318,45+,Male,Expats,Graduated,800,back pain,QA
+8319,18-24,Female,Expats,Graduated,400,back pain,QA
+8320,25-44,Female,Expats,Graduated,3000,back pain,QA
+8321,45+,Female,Expats,Graduated,840,back pain,QA
+8322,18-24,Male,Expats,No Degree,550,back pain,QA
+8323,25-44,Male,Expats,No Degree,1500,back pain,QA
+8324,45+,Male,Expats,No Degree,610,back pain,QA
+8325,18-24,Female,Expats,No Degree,360,back pain,QA
+8326,25-44,Female,Expats,No Degree,2000,back pain,QA
+8327,45+,Female,Expats,No Degree,750,back pain,QA
+8328,18-24,Male,Expats,High School,210,back pain,QA
+8329,25-44,Male,Expats,High School,750,back pain,QA
+8330,45+,Male,Expats,High School,250,back pain,QA
+8331,18-24,Female,Expats,High School,180,back pain,QA
+8332,25-44,Female,Expats,High School,910,back pain,QA
+8333,45+,Female,Expats,High School,290,back pain,QA
 8334,18-24,Male,Locals,Graduated,20,back pain,QA
-8335,25-44,Male,Locals,Graduated,60,back pain,QA
+8335,25-44,Male,Locals,Graduated,70,back pain,QA
 8336,45+,Male,Locals,Graduated,20,back pain,QA
 8337,18-24,Female,Locals,Graduated,20,back pain,QA
-8338,25-44,Female,Locals,Graduated,30,back pain,QA
+8338,25-44,Female,Locals,Graduated,50,back pain,QA
 8339,45+,Female,Locals,Graduated,20,back pain,QA
 8340,18-24,Male,Locals,No Degree,20,back pain,QA
 8341,25-44,Male,Locals,No Degree,30,back pain,QA
 8342,45+,Male,Locals,No Degree,20,back pain,QA
 8343,18-24,Female,Locals,No Degree,20,back pain,QA
-8344,25-44,Female,Locals,No Degree,50,back pain,QA
+8344,25-44,Female,Locals,No Degree,70,back pain,QA
 8345,45+,Female,Locals,No Degree,20,back pain,QA
 8346,18-24,Male,Locals,High School,20,back pain,QA
 8347,25-44,Male,Locals,High School,20,back pain,QA
@@ -1007,50 +1007,50 @@
 8349,18-24,Female,Locals,High School,20,back pain,QA
 8350,25-44,Female,Locals,High School,20,back pain,QA
 8351,45+,Female,Locals,High School,20,back pain,QA
-8352,18-24,Male,Expats,Graduated,1700,back pain,SA
-8353,25-44,Male,Expats,Graduated,12000,back pain,SA
-8354,45+,Male,Expats,Graduated,3300,back pain,SA
-8355,18-24,Female,Expats,Graduated,360,back pain,SA
-8356,25-44,Female,Expats,Graduated,5900,back pain,SA
-8357,45+,Female,Expats,Graduated,2100,back pain,SA
-8358,18-24,Male,Expats,No Degree,460,back pain,SA
-8359,25-44,Male,Expats,No Degree,2200,back pain,SA
-8360,45+,Male,Expats,No Degree,810,back pain,SA
+8352,18-24,Male,Expats,Graduated,2600,back pain,SA
+8353,25-44,Male,Expats,Graduated,15000,back pain,SA
+8354,45+,Male,Expats,Graduated,3500,back pain,SA
+8355,18-24,Female,Expats,Graduated,350,back pain,SA
+8356,25-44,Female,Expats,Graduated,6600,back pain,SA
+8357,45+,Female,Expats,Graduated,2300,back pain,SA
+8358,18-24,Male,Expats,No Degree,600,back pain,SA
+8359,25-44,Male,Expats,No Degree,2800,back pain,SA
+8360,45+,Male,Expats,No Degree,850,back pain,SA
 8361,18-24,Female,Expats,No Degree,120,back pain,SA
-8362,25-44,Female,Expats,No Degree,1800,back pain,SA
-8363,45+,Female,Expats,No Degree,670,back pain,SA
-8364,18-24,Male,Expats,High School,550,back pain,SA
-8365,25-44,Male,Expats,High School,3000,back pain,SA
-8366,45+,Male,Expats,High School,920,back pain,SA
-8367,18-24,Female,Expats,High School,210,back pain,SA
-8368,25-44,Female,Expats,High School,2200,back pain,SA
-8369,45+,Female,Expats,High School,750,back pain,SA
-8370,18-24,Male,Locals,Graduated,740,back pain,SA
-8371,25-44,Male,Locals,Graduated,4000,back pain,SA
-8372,45+,Male,Locals,Graduated,900,back pain,SA
+8362,25-44,Female,Expats,No Degree,2000,back pain,SA
+8363,45+,Female,Expats,No Degree,700,back pain,SA
+8364,18-24,Male,Expats,High School,810,back pain,SA
+8365,25-44,Male,Expats,High School,3800,back pain,SA
+8366,45+,Male,Expats,High School,960,back pain,SA
+8367,18-24,Female,Expats,High School,200,back pain,SA
+8368,25-44,Female,Expats,High School,2300,back pain,SA
+8369,45+,Female,Expats,High School,790,back pain,SA
+8370,18-24,Male,Locals,Graduated,890,back pain,SA
+8371,25-44,Male,Locals,Graduated,4700,back pain,SA
+8372,45+,Male,Locals,Graduated,950,back pain,SA
 8373,18-24,Female,Locals,Graduated,170,back pain,SA
-8374,25-44,Female,Locals,Graduated,1500,back pain,SA
-8375,45+,Female,Locals,Graduated,500,back pain,SA
-8376,18-24,Male,Locals,No Degree,4400,back pain,SA
-8377,25-44,Male,Locals,No Degree,13000,back pain,SA
-8378,45+,Male,Locals,No Degree,3500,back pain,SA
-8379,18-24,Female,Locals,No Degree,590,back pain,SA
-8380,25-44,Female,Locals,No Degree,5100,back pain,SA
-8381,45+,Female,Locals,No Degree,1800,back pain,SA
-8382,18-24,Male,Locals,High School,520,back pain,SA
-8383,25-44,Male,Locals,High School,1400,back pain,SA
-8384,45+,Male,Locals,High School,450,back pain,SA
+8374,25-44,Female,Locals,Graduated,1700,back pain,SA
+8375,45+,Female,Locals,Graduated,540,back pain,SA
+8376,18-24,Male,Locals,No Degree,4700,back pain,SA
+8377,25-44,Male,Locals,No Degree,15000,back pain,SA
+8378,45+,Male,Locals,No Degree,3700,back pain,SA
+8379,18-24,Female,Locals,No Degree,570,back pain,SA
+8380,25-44,Female,Locals,No Degree,5600,back pain,SA
+8381,45+,Female,Locals,No Degree,1900,back pain,SA
+8382,18-24,Male,Locals,High School,580,back pain,SA
+8383,25-44,Male,Locals,High School,1700,back pain,SA
+8384,45+,Male,Locals,High School,480,back pain,SA
 8385,18-24,Female,Locals,High School,150,back pain,SA
-8386,25-44,Female,Locals,High School,680,back pain,SA
-8387,45+,Female,Locals,High School,250,back pain,SA
+8386,25-44,Female,Locals,High School,770,back pain,SA
+8387,45+,Female,Locals,High School,260,back pain,SA
 8388,18-24,Male,Expats,Graduated,20,back pain,SO
-8389,25-44,Male,Expats,Graduated,30,back pain,SO
+8389,25-44,Male,Expats,Graduated,40,back pain,SO
 8390,45+,Male,Expats,Graduated,20,back pain,SO
 8391,18-24,Female,Expats,Graduated,20,back pain,SO
 8392,25-44,Female,Expats,Graduated,20,back pain,SO
 8393,45+,Female,Expats,Graduated,20,back pain,SO
 8394,18-24,Male,Expats,No Degree,20,back pain,SO
-8395,25-44,Male,Expats,No Degree,20,back pain,SO
+8395,25-44,Male,Expats,No Degree,40,back pain,SO
 8396,45+,Male,Expats,No Degree,20,back pain,SO
 8397,18-24,Female,Expats,No Degree,20,back pain,SO
 8398,25-44,Female,Expats,No Degree,20,back pain,SO
@@ -1061,17 +1061,17 @@
 8403,18-24,Female,Expats,High School,20,back pain,SO
 8404,25-44,Female,Expats,High School,20,back pain,SO
 8405,45+,Female,Expats,High School,20,back pain,SO
-8406,18-24,Male,Locals,Graduated,50,back pain,SO
-8407,25-44,Male,Locals,Graduated,60,back pain,SO
+8406,18-24,Male,Locals,Graduated,90,back pain,SO
+8407,25-44,Male,Locals,Graduated,90,back pain,SO
 8408,45+,Male,Locals,Graduated,20,back pain,SO
 8409,18-24,Female,Locals,Graduated,20,back pain,SO
 8410,25-44,Female,Locals,Graduated,20,back pain,SO
 8411,45+,Female,Locals,Graduated,20,back pain,SO
-8412,18-24,Male,Locals,No Degree,240,back pain,SO
-8413,25-44,Male,Locals,No Degree,150,back pain,SO
-8414,45+,Male,Locals,No Degree,20,back pain,SO
-8415,18-24,Female,Locals,No Degree,40,back pain,SO
-8416,25-44,Female,Locals,No Degree,20,back pain,SO
+8412,18-24,Male,Locals,No Degree,430,back pain,SO
+8413,25-44,Male,Locals,No Degree,250,back pain,SO
+8414,45+,Male,Locals,No Degree,40,back pain,SO
+8415,18-24,Female,Locals,No Degree,90,back pain,SO
+8416,25-44,Female,Locals,No Degree,30,back pain,SO
 8417,45+,Female,Locals,No Degree,20,back pain,SO
 8418,18-24,Male,Locals,High School,20,back pain,SO
 8419,25-44,Male,Locals,High School,20,back pain,SO
@@ -1079,89 +1079,89 @@
 8421,18-24,Female,Locals,High School,20,back pain,SO
 8422,25-44,Female,Locals,High School,20,back pain,SO
 8423,45+,Female,Locals,High School,20,back pain,SO
-8424,18-24,Male,Expats,Graduated,650,back pain,TN
-8425,25-44,Male,Expats,Graduated,1200,back pain,TN
-8426,45+,Male,Expats,Graduated,520,back pain,TN
-8427,18-24,Female,Expats,Graduated,260,back pain,TN
-8428,25-44,Female,Expats,Graduated,290,back pain,TN
+8424,18-24,Male,Expats,Graduated,810,back pain,TN
+8425,25-44,Male,Expats,Graduated,1300,back pain,TN
+8426,45+,Male,Expats,Graduated,540,back pain,TN
+8427,18-24,Female,Expats,Graduated,330,back pain,TN
+8428,25-44,Female,Expats,Graduated,340,back pain,TN
 8429,45+,Female,Expats,Graduated,150,back pain,TN
-8430,18-24,Male,Expats,No Degree,480,back pain,TN
-8431,25-44,Male,Expats,No Degree,1600,back pain,TN
-8432,45+,Male,Expats,No Degree,860,back pain,TN
-8433,18-24,Female,Expats,No Degree,210,back pain,TN
-8434,25-44,Female,Expats,No Degree,330,back pain,TN
-8435,45+,Female,Expats,No Degree,200,back pain,TN
-8436,18-24,Male,Expats,High School,320,back pain,TN
-8437,25-44,Male,Expats,High School,360,back pain,TN
-8438,45+,Male,Expats,High School,220,back pain,TN
-8439,18-24,Female,Expats,High School,120,back pain,TN
-8440,25-44,Female,Expats,High School,80,back pain,TN
+8430,18-24,Male,Expats,No Degree,540,back pain,TN
+8431,25-44,Male,Expats,No Degree,1700,back pain,TN
+8432,45+,Male,Expats,No Degree,900,back pain,TN
+8433,18-24,Female,Expats,No Degree,260,back pain,TN
+8434,25-44,Female,Expats,No Degree,370,back pain,TN
+8435,45+,Female,Expats,No Degree,210,back pain,TN
+8436,18-24,Male,Expats,High School,380,back pain,TN
+8437,25-44,Male,Expats,High School,410,back pain,TN
+8438,45+,Male,Expats,High School,230,back pain,TN
+8439,18-24,Female,Expats,High School,160,back pain,TN
+8440,25-44,Female,Expats,High School,90,back pain,TN
 8441,45+,Female,Expats,High School,80,back pain,TN
-8442,18-24,Male,Locals,Graduated,4000,back pain,TN
-8443,25-44,Male,Locals,Graduated,11000,back pain,TN
-8444,45+,Male,Locals,Graduated,5500,back pain,TN
-8445,18-24,Female,Locals,Graduated,2900,back pain,TN
-8446,25-44,Female,Locals,Graduated,4100,back pain,TN
-8447,45+,Female,Locals,Graduated,1900,back pain,TN
-8448,18-24,Male,Locals,No Degree,6000,back pain,TN
-8449,25-44,Male,Locals,No Degree,18000,back pain,TN
-8450,45+,Male,Locals,No Degree,11000,back pain,TN
-8451,18-24,Female,Locals,No Degree,4300,back pain,TN
-8452,25-44,Female,Locals,No Degree,5300,back pain,TN
-8453,45+,Female,Locals,No Degree,5500,back pain,TN
-8454,18-24,Male,Locals,High School,2300,back pain,TN
-8455,25-44,Male,Locals,High School,4100,back pain,TN
-8456,45+,Male,Locals,High School,2800,back pain,TN
-8457,18-24,Female,Locals,High School,1700,back pain,TN
-8458,25-44,Female,Locals,High School,1300,back pain,TN
+8442,18-24,Male,Locals,Graduated,5100,back pain,TN
+8443,25-44,Male,Locals,Graduated,12000,back pain,TN
+8444,45+,Male,Locals,Graduated,5800,back pain,TN
+8445,18-24,Female,Locals,Graduated,3900,back pain,TN
+8446,25-44,Female,Locals,Graduated,4800,back pain,TN
+8447,45+,Female,Locals,Graduated,2000,back pain,TN
+8448,18-24,Male,Locals,No Degree,6800,back pain,TN
+8449,25-44,Male,Locals,No Degree,20000,back pain,TN
+8450,45+,Male,Locals,No Degree,12000,back pain,TN
+8451,18-24,Female,Locals,No Degree,5000,back pain,TN
+8452,25-44,Female,Locals,No Degree,6000,back pain,TN
+8453,45+,Female,Locals,No Degree,5700,back pain,TN
+8454,18-24,Male,Locals,High School,2800,back pain,TN
+8455,25-44,Male,Locals,High School,4600,back pain,TN
+8456,45+,Male,Locals,High School,2900,back pain,TN
+8457,18-24,Female,Locals,High School,2300,back pain,TN
+8458,25-44,Female,Locals,High School,1500,back pain,TN
 8459,45+,Female,Locals,High School,1400,back pain,TN
-8460,18-24,Male,Expats,Graduated,5100,back pain,AE
-8461,25-44,Male,Expats,Graduated,28000,back pain,AE
-8462,45+,Male,Expats,Graduated,7600,back pain,AE
-8463,18-24,Female,Expats,Graduated,1200,back pain,AE
-8464,25-44,Female,Expats,Graduated,11000,back pain,AE
-8465,45+,Female,Expats,Graduated,3900,back pain,AE
-8466,18-24,Male,Expats,No Degree,7400,back pain,AE
-8467,25-44,Male,Expats,No Degree,27000,back pain,AE
-8468,45+,Male,Expats,No Degree,9300,back pain,AE
-8469,18-24,Female,Expats,No Degree,1300,back pain,AE
-8470,25-44,Female,Expats,No Degree,6800,back pain,AE
-8471,45+,Female,Expats,No Degree,3300,back pain,AE
-8472,18-24,Male,Expats,High School,1800,back pain,AE
-8473,25-44,Male,Expats,High School,6800,back pain,AE
-8474,45+,Male,Expats,High School,2300,back pain,AE
-8475,18-24,Female,Expats,High School,580,back pain,AE
-8476,25-44,Female,Expats,High School,2900,back pain,AE
-8477,45+,Female,Expats,High School,1200,back pain,AE
-8478,18-24,Male,Locals,Graduated,140,back pain,AE
-8479,25-44,Male,Locals,Graduated,640,back pain,AE
-8480,45+,Male,Locals,Graduated,170,back pain,AE
-8481,18-24,Female,Locals,Graduated,50,back pain,AE
-8482,25-44,Female,Locals,Graduated,210,back pain,AE
-8483,45+,Female,Locals,Graduated,60,back pain,AE
-8484,18-24,Male,Locals,No Degree,340,back pain,AE
-8485,25-44,Male,Locals,No Degree,1300,back pain,AE
-8486,45+,Male,Locals,No Degree,650,back pain,AE
-8487,18-24,Female,Locals,No Degree,140,back pain,AE
-8488,25-44,Female,Locals,No Degree,520,back pain,AE
-8489,45+,Female,Locals,No Degree,170,back pain,AE
+8460,18-24,Male,Expats,Graduated,5800,back pain,AE
+8461,25-44,Male,Expats,Graduated,32000,back pain,AE
+8462,45+,Male,Expats,Graduated,8700,back pain,AE
+8463,18-24,Female,Expats,Graduated,1400,back pain,AE
+8464,25-44,Female,Expats,Graduated,13000,back pain,AE
+8465,45+,Female,Expats,Graduated,4400,back pain,AE
+8466,18-24,Male,Expats,No Degree,8200,back pain,AE
+8467,25-44,Male,Expats,No Degree,30000,back pain,AE
+8468,45+,Male,Expats,No Degree,11000,back pain,AE
+8469,18-24,Female,Expats,No Degree,1500,back pain,AE
+8470,25-44,Female,Expats,No Degree,7700,back pain,AE
+8471,45+,Female,Expats,No Degree,3700,back pain,AE
+8472,18-24,Male,Expats,High School,2000,back pain,AE
+8473,25-44,Male,Expats,High School,7800,back pain,AE
+8474,45+,Male,Expats,High School,2700,back pain,AE
+8475,18-24,Female,Expats,High School,660,back pain,AE
+8476,25-44,Female,Expats,High School,3400,back pain,AE
+8477,45+,Female,Expats,High School,1300,back pain,AE
+8478,18-24,Male,Locals,Graduated,160,back pain,AE
+8479,25-44,Male,Locals,Graduated,720,back pain,AE
+8480,45+,Male,Locals,Graduated,200,back pain,AE
+8481,18-24,Female,Locals,Graduated,60,back pain,AE
+8482,25-44,Female,Locals,Graduated,250,back pain,AE
+8483,45+,Female,Locals,Graduated,70,back pain,AE
+8484,18-24,Male,Locals,No Degree,420,back pain,AE
+8485,25-44,Male,Locals,No Degree,1700,back pain,AE
+8486,45+,Male,Locals,No Degree,800,back pain,AE
+8487,18-24,Female,Locals,No Degree,180,back pain,AE
+8488,25-44,Female,Locals,No Degree,640,back pain,AE
+8489,45+,Female,Locals,No Degree,210,back pain,AE
 8490,18-24,Male,Locals,High School,100,back pain,AE
-8491,25-44,Male,Locals,High School,170,back pain,AE
-8492,45+,Male,Locals,High School,50,back pain,AE
+8491,25-44,Male,Locals,High School,200,back pain,AE
+8492,45+,Male,Locals,High School,60,back pain,AE
 8493,18-24,Female,Locals,High School,50,back pain,AE
-8494,25-44,Female,Locals,High School,70,back pain,AE
-8495,45+,Female,Locals,High School,20,back pain,AE
-8496,18-24,Male,Expats,Graduated,200,back pain,YE
+8494,25-44,Female,Locals,High School,80,back pain,AE
+8495,45+,Female,Locals,High School,30,back pain,AE
+8496,18-24,Male,Expats,Graduated,210,back pain,YE
 8497,25-44,Male,Expats,Graduated,440,back pain,YE
 8498,45+,Male,Expats,Graduated,70,back pain,YE
 8499,18-24,Female,Expats,Graduated,30,back pain,YE
 8500,25-44,Female,Expats,Graduated,50,back pain,YE
 8501,45+,Female,Expats,Graduated,20,back pain,YE
-8502,18-24,Male,Expats,No Degree,110,back pain,YE
-8503,25-44,Male,Expats,No Degree,200,back pain,YE
+8502,18-24,Male,Expats,No Degree,120,back pain,YE
+8503,25-44,Male,Expats,No Degree,220,back pain,YE
 8504,45+,Male,Expats,No Degree,40,back pain,YE
-8505,18-24,Female,Expats,No Degree,50,back pain,YE
-8506,25-44,Female,Expats,No Degree,40,back pain,YE
+8505,18-24,Female,Expats,No Degree,60,back pain,YE
+8506,25-44,Female,Expats,No Degree,50,back pain,YE
 8507,45+,Female,Expats,No Degree,20,back pain,YE
 8508,18-24,Male,Expats,High School,130,back pain,YE
 8509,25-44,Male,Expats,High School,100,back pain,YE
@@ -1170,56 +1170,56 @@
 8512,25-44,Female,Expats,High School,20,back pain,YE
 8513,45+,Female,Expats,High School,20,back pain,YE
 8514,18-24,Male,Locals,Graduated,1900,back pain,YE
-8515,25-44,Male,Locals,Graduated,4500,back pain,YE
-8516,45+,Male,Locals,Graduated,610,back pain,YE
-8517,18-24,Female,Locals,Graduated,370,back pain,YE
-8518,25-44,Female,Locals,Graduated,580,back pain,YE
+8515,25-44,Male,Locals,Graduated,4600,back pain,YE
+8516,45+,Male,Locals,Graduated,630,back pain,YE
+8517,18-24,Female,Locals,Graduated,380,back pain,YE
+8518,25-44,Female,Locals,Graduated,600,back pain,YE
 8519,45+,Female,Locals,Graduated,80,back pain,YE
-8520,18-24,Male,Locals,No Degree,1800,back pain,YE
-8521,25-44,Male,Locals,No Degree,2800,back pain,YE
-8522,45+,Male,Locals,No Degree,650,back pain,YE
+8520,18-24,Male,Locals,No Degree,1900,back pain,YE
+8521,25-44,Male,Locals,No Degree,2900,back pain,YE
+8522,45+,Male,Locals,No Degree,680,back pain,YE
 8523,18-24,Female,Locals,No Degree,410,back pain,YE
-8524,25-44,Female,Locals,No Degree,450,back pain,YE
+8524,25-44,Female,Locals,No Degree,460,back pain,YE
 8525,45+,Female,Locals,No Degree,130,back pain,YE
-8526,18-24,Male,Locals,High School,1300,back pain,YE
+8526,18-24,Male,Locals,High School,1400,back pain,YE
 8527,25-44,Male,Locals,High School,1200,back pain,YE
-8528,45+,Male,Locals,High School,190,back pain,YE
-8529,18-24,Female,Locals,High School,470,back pain,YE
-8530,25-44,Female,Locals,High School,140,back pain,YE
+8528,45+,Male,Locals,High School,200,back pain,YE
+8529,18-24,Female,Locals,High School,480,back pain,YE
+8530,25-44,Female,Locals,High School,150,back pain,YE
 8531,45+,Female,Locals,High School,30,back pain,YE
-8532,18-24,Male,Expats,Graduated,70,back pain,PS
-8533,25-44,Male,Expats,Graduated,170,back pain,PS
+8532,18-24,Male,Expats,Graduated,80,back pain,PS
+8533,25-44,Male,Expats,Graduated,180,back pain,PS
 8534,45+,Male,Expats,Graduated,60,back pain,PS
-8535,18-24,Female,Expats,Graduated,60,back pain,PS
-8536,25-44,Female,Expats,Graduated,130,back pain,PS
+8535,18-24,Female,Expats,Graduated,70,back pain,PS
+8536,25-44,Female,Expats,Graduated,140,back pain,PS
 8537,45+,Female,Expats,Graduated,80,back pain,PS
-8538,18-24,Male,Expats,No Degree,20,back pain,PS
-8539,25-44,Male,Expats,No Degree,60,back pain,PS
+8538,18-24,Male,Expats,No Degree,30,back pain,PS
+8539,25-44,Male,Expats,No Degree,70,back pain,PS
 8540,45+,Male,Expats,No Degree,60,back pain,PS
-8541,18-24,Female,Expats,No Degree,30,back pain,PS
+8541,18-24,Female,Expats,No Degree,40,back pain,PS
 8542,25-44,Female,Expats,No Degree,80,back pain,PS
-8543,45+,Female,Expats,No Degree,110,back pain,PS
+8543,45+,Female,Expats,No Degree,120,back pain,PS
 8544,18-24,Male,Expats,High School,40,back pain,PS
 8545,25-44,Male,Expats,High School,40,back pain,PS
 8546,45+,Male,Expats,High School,20,back pain,PS
-8547,18-24,Female,Expats,High School,60,back pain,PS
-8548,25-44,Female,Expats,High School,40,back pain,PS
-8549,45+,Female,Expats,High School,20,back pain,PS
-8550,18-24,Male,Locals,Graduated,210,back pain,PS
-8551,25-44,Male,Locals,Graduated,710,back pain,PS
-8552,45+,Male,Locals,Graduated,260,back pain,PS
-8553,18-24,Female,Locals,Graduated,270,back pain,PS
-8554,25-44,Female,Locals,Graduated,590,back pain,PS
-8555,45+,Female,Locals,Graduated,310,back pain,PS
-8556,18-24,Male,Locals,No Degree,140,back pain,PS
-8557,25-44,Male,Locals,No Degree,440,back pain,PS
-8558,45+,Male,Locals,No Degree,330,back pain,PS
-8559,18-24,Female,Locals,No Degree,170,back pain,PS
-8560,25-44,Female,Locals,No Degree,500,back pain,PS
-8561,45+,Female,Locals,No Degree,690,back pain,PS
-8562,18-24,Male,Locals,High School,110,back pain,PS
-8563,25-44,Male,Locals,High School,210,back pain,PS
+8547,18-24,Female,Expats,High School,70,back pain,PS
+8548,25-44,Female,Expats,High School,50,back pain,PS
+8549,45+,Female,Expats,High School,30,back pain,PS
+8550,18-24,Male,Locals,Graduated,230,back pain,PS
+8551,25-44,Male,Locals,Graduated,730,back pain,PS
+8552,45+,Male,Locals,Graduated,270,back pain,PS
+8553,18-24,Female,Locals,Graduated,300,back pain,PS
+8554,25-44,Female,Locals,Graduated,660,back pain,PS
+8555,45+,Female,Locals,Graduated,330,back pain,PS
+8556,18-24,Male,Locals,No Degree,160,back pain,PS
+8557,25-44,Male,Locals,No Degree,450,back pain,PS
+8558,45+,Male,Locals,No Degree,340,back pain,PS
+8559,18-24,Female,Locals,No Degree,200,back pain,PS
+8560,25-44,Female,Locals,No Degree,530,back pain,PS
+8561,45+,Female,Locals,No Degree,720,back pain,PS
+8562,18-24,Male,Locals,High School,130,back pain,PS
+8563,25-44,Male,Locals,High School,220,back pain,PS
 8564,45+,Male,Locals,High School,110,back pain,PS
-8565,18-24,Female,Locals,High School,290,back pain,PS
-8566,25-44,Female,Locals,High School,170,back pain,PS
-8567,45+,Female,Locals,High School,130,back pain,PS
+8565,18-24,Female,Locals,High School,320,back pain,PS
+8566,25-44,Female,Locals,High School,180,back pain,PS
+8567,45+,Female,Locals,High School,140,back pain,PS

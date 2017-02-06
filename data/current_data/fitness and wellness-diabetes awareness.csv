@@ -1,50 +1,50 @@
 ,age_range,gender,citizenship,scholarity,audience,topic,country_code
 612,18-24,Male,Expats,Graduated,100000,fitness and wellness,DZ
-613,25-44,Male,Expats,Graduated,97000,fitness and wellness,DZ
+613,25-44,Male,Expats,Graduated,99000,fitness and wellness,DZ
 614,45+,Male,Expats,Graduated,13000,fitness and wellness,DZ
 615,18-24,Female,Expats,Graduated,34000,fitness and wellness,DZ
 616,25-44,Female,Expats,Graduated,27000,fitness and wellness,DZ
-617,45+,Female,Expats,Graduated,5000,fitness and wellness,DZ
-618,18-24,Male,Expats,No Degree,57000,fitness and wellness,DZ
-619,25-44,Male,Expats,No Degree,80000,fitness and wellness,DZ
-620,45+,Male,Expats,No Degree,15000,fitness and wellness,DZ
-621,18-24,Female,Expats,No Degree,26000,fitness and wellness,DZ
-622,25-44,Female,Expats,No Degree,30000,fitness and wellness,DZ
-623,45+,Female,Expats,No Degree,6500,fitness and wellness,DZ
-624,18-24,Male,Expats,High School,38000,fitness and wellness,DZ
+617,45+,Female,Expats,Graduated,5100,fitness and wellness,DZ
+618,18-24,Male,Expats,No Degree,58000,fitness and wellness,DZ
+619,25-44,Male,Expats,No Degree,82000,fitness and wellness,DZ
+620,45+,Male,Expats,No Degree,16000,fitness and wellness,DZ
+621,18-24,Female,Expats,No Degree,27000,fitness and wellness,DZ
+622,25-44,Female,Expats,No Degree,31000,fitness and wellness,DZ
+623,45+,Female,Expats,No Degree,6700,fitness and wellness,DZ
+624,18-24,Male,Expats,High School,39000,fitness and wellness,DZ
 625,25-44,Male,Expats,High School,22000,fitness and wellness,DZ
-626,45+,Male,Expats,High School,4400,fitness and wellness,DZ
+626,45+,Male,Expats,High School,4500,fitness and wellness,DZ
 627,18-24,Female,Expats,High School,14000,fitness and wellness,DZ
 628,25-44,Female,Expats,High School,7100,fitness and wellness,DZ
 629,45+,Female,Expats,High School,2100,fitness and wellness,DZ
-630,18-24,Male,Locals,Graduated,440000,fitness and wellness,DZ
-631,25-44,Male,Locals,Graduated,670000,fitness and wellness,DZ
-632,45+,Male,Locals,Graduated,78000,fitness and wellness,DZ
-633,18-24,Female,Locals,Graduated,300000,fitness and wellness,DZ
-634,25-44,Female,Locals,Graduated,370000,fitness and wellness,DZ
-635,45+,Female,Locals,Graduated,37000,fitness and wellness,DZ
-636,18-24,Male,Locals,No Degree,500000,fitness and wellness,DZ
-637,25-44,Male,Locals,No Degree,770000,fitness and wellness,DZ
-638,45+,Male,Locals,No Degree,120000,fitness and wellness,DZ
-639,18-24,Female,Locals,No Degree,370000,fitness and wellness,DZ
-640,25-44,Female,Locals,No Degree,430000,fitness and wellness,DZ
-641,45+,Female,Locals,No Degree,74000,fitness and wellness,DZ
+630,18-24,Male,Locals,Graduated,450000,fitness and wellness,DZ
+631,25-44,Male,Locals,Graduated,680000,fitness and wellness,DZ
+632,45+,Male,Locals,Graduated,80000,fitness and wellness,DZ
+633,18-24,Female,Locals,Graduated,310000,fitness and wellness,DZ
+634,25-44,Female,Locals,Graduated,380000,fitness and wellness,DZ
+635,45+,Female,Locals,Graduated,38000,fitness and wellness,DZ
+636,18-24,Male,Locals,No Degree,510000,fitness and wellness,DZ
+637,25-44,Male,Locals,No Degree,790000,fitness and wellness,DZ
+638,45+,Male,Locals,No Degree,130000,fitness and wellness,DZ
+639,18-24,Female,Locals,No Degree,380000,fitness and wellness,DZ
+640,25-44,Female,Locals,No Degree,440000,fitness and wellness,DZ
+641,45+,Female,Locals,No Degree,76000,fitness and wellness,DZ
 642,18-24,Male,Locals,High School,210000,fitness and wellness,DZ
-643,25-44,Male,Locals,High School,180000,fitness and wellness,DZ
-644,45+,Male,Locals,High School,29000,fitness and wellness,DZ
+643,25-44,Male,Locals,High School,190000,fitness and wellness,DZ
+644,45+,Male,Locals,High School,30000,fitness and wellness,DZ
 645,18-24,Female,Locals,High School,150000,fitness and wellness,DZ
-646,25-44,Female,Locals,High School,87000,fitness and wellness,DZ
-647,45+,Female,Locals,High School,16000,fitness and wellness,DZ
+646,25-44,Female,Locals,High School,88000,fitness and wellness,DZ
+647,45+,Female,Locals,High School,17000,fitness and wellness,DZ
 648,18-24,Male,Expats,Graduated,15000,fitness and wellness,BH
-649,25-44,Male,Expats,Graduated,72000,fitness and wellness,BH
-650,45+,Male,Expats,Graduated,9500,fitness and wellness,BH
+649,25-44,Male,Expats,Graduated,73000,fitness and wellness,BH
+650,45+,Male,Expats,Graduated,9700,fitness and wellness,BH
 651,18-24,Female,Expats,Graduated,4200,fitness and wellness,BH
 652,25-44,Female,Expats,Graduated,36000,fitness and wellness,BH
 653,45+,Female,Expats,Graduated,6300,fitness and wellness,BH
-654,18-24,Male,Expats,No Degree,19000,fitness and wellness,BH
-655,25-44,Male,Expats,No Degree,60000,fitness and wellness,BH
+654,18-24,Male,Expats,No Degree,20000,fitness and wellness,BH
+655,25-44,Male,Expats,No Degree,61000,fitness and wellness,BH
 656,45+,Male,Expats,No Degree,11000,fitness and wellness,BH
-657,18-24,Female,Expats,No Degree,5200,fitness and wellness,BH
+657,18-24,Female,Expats,No Degree,5300,fitness and wellness,BH
 658,25-44,Female,Expats,No Degree,20000,fitness and wellness,BH
 659,45+,Female,Expats,No Degree,5100,fitness and wellness,BH
 660,18-24,Male,Expats,High School,6700,fitness and wellness,BH
@@ -56,358 +56,358 @@
 666,18-24,Male,Locals,Graduated,3300,fitness and wellness,BH
 667,25-44,Male,Locals,Graduated,10000,fitness and wellness,BH
 668,45+,Male,Locals,Graduated,1400,fitness and wellness,BH
-669,18-24,Female,Locals,Graduated,2100,fitness and wellness,BH
-670,25-44,Female,Locals,Graduated,6600,fitness and wellness,BH
-671,45+,Female,Locals,Graduated,670,fitness and wellness,BH
-672,18-24,Male,Locals,No Degree,4000,fitness and wellness,BH
-673,25-44,Male,Locals,No Degree,8000,fitness and wellness,BH
-674,45+,Male,Locals,No Degree,1800,fitness and wellness,BH
-675,18-24,Female,Locals,No Degree,2900,fitness and wellness,BH
+669,18-24,Female,Locals,Graduated,2000,fitness and wellness,BH
+670,25-44,Female,Locals,Graduated,6700,fitness and wellness,BH
+671,45+,Female,Locals,Graduated,680,fitness and wellness,BH
+672,18-24,Male,Locals,No Degree,4100,fitness and wellness,BH
+673,25-44,Male,Locals,No Degree,8100,fitness and wellness,BH
+674,45+,Male,Locals,No Degree,1900,fitness and wellness,BH
+675,18-24,Female,Locals,No Degree,2800,fitness and wellness,BH
 676,25-44,Female,Locals,No Degree,6100,fitness and wellness,BH
-677,45+,Female,Locals,No Degree,940,fitness and wellness,BH
-678,18-24,Male,Locals,High School,1900,fitness and wellness,BH
+677,45+,Female,Locals,No Degree,950,fitness and wellness,BH
+678,18-24,Male,Locals,High School,2000,fitness and wellness,BH
 679,25-44,Male,Locals,High School,3000,fitness and wellness,BH
-680,45+,Male,Locals,High School,500,fitness and wellness,BH
+680,45+,Male,Locals,High School,510,fitness and wellness,BH
 681,18-24,Female,Locals,High School,2100,fitness and wellness,BH
 682,25-44,Female,Locals,High School,1400,fitness and wellness,BH
-683,45+,Female,Locals,High School,190,fitness and wellness,BH
-684,18-24,Male,Expats,Graduated,63000,fitness and wellness,EG
+683,45+,Female,Locals,High School,200,fitness and wellness,BH
+684,18-24,Male,Expats,Graduated,64000,fitness and wellness,EG
 685,25-44,Male,Expats,Graduated,110000,fitness and wellness,EG
 686,45+,Male,Expats,Graduated,20000,fitness and wellness,EG
-687,18-24,Female,Expats,Graduated,30000,fitness and wellness,EG
+687,18-24,Female,Expats,Graduated,31000,fitness and wellness,EG
 688,25-44,Female,Expats,Graduated,57000,fitness and wellness,EG
 689,45+,Female,Expats,Graduated,11000,fitness and wellness,EG
-690,18-24,Male,Expats,No Degree,28000,fitness and wellness,EG
-691,25-44,Male,Expats,No Degree,45000,fitness and wellness,EG
-692,45+,Male,Expats,No Degree,12000,fitness and wellness,EG
+690,18-24,Male,Expats,No Degree,29000,fitness and wellness,EG
+691,25-44,Male,Expats,No Degree,46000,fitness and wellness,EG
+692,45+,Male,Expats,No Degree,13000,fitness and wellness,EG
 693,18-24,Female,Expats,No Degree,16000,fitness and wellness,EG
-694,25-44,Female,Expats,No Degree,28000,fitness and wellness,EG
+694,25-44,Female,Expats,No Degree,29000,fitness and wellness,EG
 695,45+,Female,Expats,No Degree,10000,fitness and wellness,EG
-696,18-24,Male,Expats,High School,38000,fitness and wellness,EG
-697,25-44,Male,Expats,High School,25000,fitness and wellness,EG
-698,45+,Male,Expats,High School,4700,fitness and wellness,EG
+696,18-24,Male,Expats,High School,39000,fitness and wellness,EG
+697,25-44,Male,Expats,High School,26000,fitness and wellness,EG
+698,45+,Male,Expats,High School,4800,fitness and wellness,EG
 699,18-24,Female,Expats,High School,24000,fitness and wellness,EG
-700,25-44,Female,Expats,High School,15000,fitness and wellness,EG
+700,25-44,Female,Expats,High School,14000,fitness and wellness,EG
 701,45+,Female,Expats,High School,3300,fitness and wellness,EG
 702,18-24,Male,Locals,Graduated,1200000,fitness and wellness,EG
 703,25-44,Male,Locals,Graduated,2100000,fitness and wellness,EG
-704,45+,Male,Locals,Graduated,320000,fitness and wellness,EG
-705,18-24,Female,Locals,Graduated,920000,fitness and wellness,EG
+704,45+,Male,Locals,Graduated,330000,fitness and wellness,EG
+705,18-24,Female,Locals,Graduated,930000,fitness and wellness,EG
 706,25-44,Female,Locals,Graduated,1500000,fitness and wellness,EG
 707,45+,Female,Locals,Graduated,200000,fitness and wellness,EG
-708,18-24,Male,Locals,No Degree,690000,fitness and wellness,EG
+708,18-24,Male,Locals,No Degree,710000,fitness and wellness,EG
 709,25-44,Male,Locals,No Degree,1100000,fitness and wellness,EG
-710,45+,Male,Locals,No Degree,360000,fitness and wellness,EG
-711,18-24,Female,Locals,No Degree,550000,fitness and wellness,EG
-712,25-44,Female,Locals,No Degree,870000,fitness and wellness,EG
-713,45+,Female,Locals,No Degree,320000,fitness and wellness,EG
-714,18-24,Male,Locals,High School,760000,fitness and wellness,EG
-715,25-44,Male,Locals,High School,440000,fitness and wellness,EG
-716,45+,Male,Locals,High School,83000,fitness and wellness,EG
+710,45+,Male,Locals,No Degree,370000,fitness and wellness,EG
+711,18-24,Female,Locals,No Degree,570000,fitness and wellness,EG
+712,25-44,Female,Locals,No Degree,880000,fitness and wellness,EG
+713,45+,Female,Locals,No Degree,330000,fitness and wellness,EG
+714,18-24,Male,Locals,High School,770000,fitness and wellness,EG
+715,25-44,Male,Locals,High School,450000,fitness and wellness,EG
+716,45+,Male,Locals,High School,85000,fitness and wellness,EG
 717,18-24,Female,Locals,High School,680000,fitness and wellness,EG
 718,25-44,Female,Locals,High School,270000,fitness and wellness,EG
 719,45+,Female,Locals,High School,48000,fitness and wellness,EG
 720,18-24,Male,Expats,Graduated,48000,fitness and wellness,IQ
-721,25-44,Male,Expats,Graduated,98000,fitness and wellness,IQ
+721,25-44,Male,Expats,Graduated,99000,fitness and wellness,IQ
 722,45+,Male,Expats,Graduated,13000,fitness and wellness,IQ
 723,18-24,Female,Expats,Graduated,9100,fitness and wellness,IQ
 724,25-44,Female,Expats,Graduated,19000,fitness and wellness,IQ
 725,45+,Female,Expats,Graduated,2500,fitness and wellness,IQ
-726,18-24,Male,Expats,No Degree,36000,fitness and wellness,IQ
-727,25-44,Male,Expats,No Degree,53000,fitness and wellness,IQ
+726,18-24,Male,Expats,No Degree,37000,fitness and wellness,IQ
+727,25-44,Male,Expats,No Degree,54000,fitness and wellness,IQ
 728,45+,Male,Expats,No Degree,10000,fitness and wellness,IQ
 729,18-24,Female,Expats,No Degree,13000,fitness and wellness,IQ
 730,25-44,Female,Expats,No Degree,17000,fitness and wellness,IQ
-731,45+,Female,Expats,No Degree,3400,fitness and wellness,IQ
-732,18-24,Male,Expats,High School,25000,fitness and wellness,IQ
-733,25-44,Male,Expats,High School,27000,fitness and wellness,IQ
+731,45+,Female,Expats,No Degree,3500,fitness and wellness,IQ
+732,18-24,Male,Expats,High School,26000,fitness and wellness,IQ
+733,25-44,Male,Expats,High School,28000,fitness and wellness,IQ
 734,45+,Male,Expats,High School,4000,fitness and wellness,IQ
-735,18-24,Female,Expats,High School,7800,fitness and wellness,IQ
+735,18-24,Female,Expats,High School,7900,fitness and wellness,IQ
 736,25-44,Female,Expats,High School,6100,fitness and wellness,IQ
-737,45+,Female,Expats,High School,970,fitness and wellness,IQ
+737,45+,Female,Expats,High School,990,fitness and wellness,IQ
 738,18-24,Male,Locals,Graduated,490000,fitness and wellness,IQ
 739,25-44,Male,Locals,Graduated,1000000,fitness and wellness,IQ
 740,45+,Male,Locals,Graduated,140000,fitness and wellness,IQ
 741,18-24,Female,Locals,Graduated,130000,fitness and wellness,IQ
 742,25-44,Female,Locals,Graduated,260000,fitness and wellness,IQ
 743,45+,Female,Locals,Graduated,41000,fitness and wellness,IQ
-744,18-24,Male,Locals,No Degree,750000,fitness and wellness,IQ
+744,18-24,Male,Locals,No Degree,760000,fitness and wellness,IQ
 745,25-44,Male,Locals,No Degree,1000000,fitness and wellness,IQ
-746,45+,Male,Locals,No Degree,240000,fitness and wellness,IQ
-747,18-24,Female,Locals,No Degree,230000,fitness and wellness,IQ
-748,25-44,Female,Locals,No Degree,320000,fitness and wellness,IQ
-749,45+,Female,Locals,No Degree,94000,fitness and wellness,IQ
+746,45+,Male,Locals,No Degree,250000,fitness and wellness,IQ
+747,18-24,Female,Locals,No Degree,240000,fitness and wellness,IQ
+748,25-44,Female,Locals,No Degree,330000,fitness and wellness,IQ
+749,45+,Female,Locals,No Degree,96000,fitness and wellness,IQ
 750,18-24,Male,Locals,High School,320000,fitness and wellness,IQ
 751,25-44,Male,Locals,High School,310000,fitness and wellness,IQ
-752,45+,Male,Locals,High School,48000,fitness and wellness,IQ
+752,45+,Male,Locals,High School,49000,fitness and wellness,IQ
 753,18-24,Female,Locals,High School,130000,fitness and wellness,IQ
-754,25-44,Female,Locals,High School,84000,fitness and wellness,IQ
+754,25-44,Female,Locals,High School,85000,fitness and wellness,IQ
 755,45+,Female,Locals,High School,14000,fitness and wellness,IQ
 756,18-24,Male,Expats,Graduated,41000,fitness and wellness,JO
-757,25-44,Male,Expats,Graduated,86000,fitness and wellness,JO
-758,45+,Male,Expats,Graduated,14000,fitness and wellness,JO
+757,25-44,Male,Expats,Graduated,88000,fitness and wellness,JO
+758,45+,Male,Expats,Graduated,15000,fitness and wellness,JO
 759,18-24,Female,Expats,Graduated,27000,fitness and wellness,JO
 760,25-44,Female,Expats,Graduated,61000,fitness and wellness,JO
 761,45+,Female,Expats,Graduated,13000,fitness and wellness,JO
-762,18-24,Male,Expats,No Degree,43000,fitness and wellness,JO
-763,25-44,Male,Expats,No Degree,73000,fitness and wellness,JO
-764,45+,Male,Expats,No Degree,17000,fitness and wellness,JO
+762,18-24,Male,Expats,No Degree,44000,fitness and wellness,JO
+763,25-44,Male,Expats,No Degree,76000,fitness and wellness,JO
+764,45+,Male,Expats,No Degree,18000,fitness and wellness,JO
 765,18-24,Female,Expats,No Degree,26000,fitness and wellness,JO
 766,25-44,Female,Expats,No Degree,44000,fitness and wellness,JO
 767,45+,Female,Expats,No Degree,19000,fitness and wellness,JO
 768,18-24,Male,Expats,High School,34000,fitness and wellness,JO
-769,25-44,Male,Expats,High School,27000,fitness and wellness,JO
-770,45+,Male,Expats,High School,4800,fitness and wellness,JO
+769,25-44,Male,Expats,High School,28000,fitness and wellness,JO
+770,45+,Male,Expats,High School,5000,fitness and wellness,JO
 771,18-24,Female,Expats,High School,33000,fitness and wellness,JO
 772,25-44,Female,Expats,High School,20000,fitness and wellness,JO
 773,45+,Female,Expats,High School,5100,fitness and wellness,JO
-774,18-24,Male,Locals,Graduated,120000,fitness and wellness,JO
+774,18-24,Male,Locals,Graduated,130000,fitness and wellness,JO
 775,25-44,Male,Locals,Graduated,250000,fitness and wellness,JO
-776,45+,Male,Locals,Graduated,44000,fitness and wellness,JO
+776,45+,Male,Locals,Graduated,46000,fitness and wellness,JO
 777,18-24,Female,Locals,Graduated,92000,fitness and wellness,JO
 778,25-44,Female,Locals,Graduated,190000,fitness and wellness,JO
 779,45+,Female,Locals,Graduated,28000,fitness and wellness,JO
-780,18-24,Male,Locals,No Degree,120000,fitness and wellness,JO
-781,25-44,Male,Locals,No Degree,170000,fitness and wellness,JO
-782,45+,Male,Locals,No Degree,68000,fitness and wellness,JO
+780,18-24,Male,Locals,No Degree,130000,fitness and wellness,JO
+781,25-44,Male,Locals,No Degree,180000,fitness and wellness,JO
+782,45+,Male,Locals,No Degree,71000,fitness and wellness,JO
 783,18-24,Female,Locals,No Degree,120000,fitness and wellness,JO
 784,25-44,Female,Locals,No Degree,180000,fitness and wellness,JO
-785,45+,Female,Locals,No Degree,66000,fitness and wellness,JO
-786,18-24,Male,Locals,High School,100000,fitness and wellness,JO
-787,25-44,Male,Locals,High School,76000,fitness and wellness,JO
+785,45+,Female,Locals,No Degree,67000,fitness and wellness,JO
+786,18-24,Male,Locals,High School,110000,fitness and wellness,JO
+787,25-44,Male,Locals,High School,78000,fitness and wellness,JO
 788,45+,Male,Locals,High School,18000,fitness and wellness,JO
 789,18-24,Female,Locals,High School,110000,fitness and wellness,JO
 790,25-44,Female,Locals,High School,58000,fitness and wellness,JO
 791,45+,Female,Locals,High School,12000,fitness and wellness,JO
-792,18-24,Male,Expats,Graduated,26000,fitness and wellness,KW
-793,25-44,Male,Expats,Graduated,220000,fitness and wellness,KW
-794,45+,Male,Expats,Graduated,31000,fitness and wellness,KW
+792,18-24,Male,Expats,Graduated,27000,fitness and wellness,KW
+793,25-44,Male,Expats,Graduated,230000,fitness and wellness,KW
+794,45+,Male,Expats,Graduated,32000,fitness and wellness,KW
 795,18-24,Female,Expats,Graduated,12000,fitness and wellness,KW
 796,25-44,Female,Expats,Graduated,120000,fitness and wellness,KW
 797,45+,Female,Expats,Graduated,17000,fitness and wellness,KW
-798,18-24,Male,Expats,No Degree,49000,fitness and wellness,KW
-799,25-44,Male,Expats,No Degree,190000,fitness and wellness,KW
-800,45+,Male,Expats,No Degree,40000,fitness and wellness,KW
+798,18-24,Male,Expats,No Degree,50000,fitness and wellness,KW
+799,25-44,Male,Expats,No Degree,200000,fitness and wellness,KW
+800,45+,Male,Expats,No Degree,41000,fitness and wellness,KW
 801,18-24,Female,Expats,No Degree,21000,fitness and wellness,KW
-802,25-44,Female,Expats,No Degree,86000,fitness and wellness,KW
+802,25-44,Female,Expats,No Degree,87000,fitness and wellness,KW
 803,45+,Female,Expats,No Degree,18000,fitness and wellness,KW
 804,18-24,Male,Expats,High School,13000,fitness and wellness,KW
-805,25-44,Male,Expats,High School,63000,fitness and wellness,KW
-806,45+,Male,Expats,High School,9500,fitness and wellness,KW
+805,25-44,Male,Expats,High School,64000,fitness and wellness,KW
+806,45+,Male,Expats,High School,9800,fitness and wellness,KW
 807,18-24,Female,Expats,High School,9100,fitness and wellness,KW
 808,25-44,Female,Expats,High School,43000,fitness and wellness,KW
-809,45+,Female,Expats,High School,6000,fitness and wellness,KW
-810,18-24,Male,Locals,Graduated,2700,fitness and wellness,KW
+809,45+,Female,Expats,High School,6100,fitness and wellness,KW
+810,18-24,Male,Locals,Graduated,2800,fitness and wellness,KW
 811,25-44,Male,Locals,Graduated,13000,fitness and wellness,KW
-812,45+,Male,Locals,Graduated,2000,fitness and wellness,KW
+812,45+,Male,Locals,Graduated,2100,fitness and wellness,KW
 813,18-24,Female,Locals,Graduated,1400,fitness and wellness,KW
-814,25-44,Female,Locals,Graduated,8300,fitness and wellness,KW
+814,25-44,Female,Locals,Graduated,8500,fitness and wellness,KW
 815,45+,Female,Locals,Graduated,1200,fitness and wellness,KW
-816,18-24,Male,Locals,No Degree,5900,fitness and wellness,KW
-817,25-44,Male,Locals,No Degree,15000,fitness and wellness,KW
-818,45+,Male,Locals,No Degree,3100,fitness and wellness,KW
-819,18-24,Female,Locals,No Degree,4200,fitness and wellness,KW
+816,18-24,Male,Locals,No Degree,6000,fitness and wellness,KW
+817,25-44,Male,Locals,No Degree,16000,fitness and wellness,KW
+818,45+,Male,Locals,No Degree,3300,fitness and wellness,KW
+819,18-24,Female,Locals,No Degree,4400,fitness and wellness,KW
 820,25-44,Female,Locals,No Degree,11000,fitness and wellness,KW
-821,45+,Female,Locals,No Degree,2100,fitness and wellness,KW
-822,18-24,Male,Locals,High School,1700,fitness and wellness,KW
+821,45+,Female,Locals,No Degree,2200,fitness and wellness,KW
+822,18-24,Male,Locals,High School,1800,fitness and wellness,KW
 823,25-44,Male,Locals,High School,3300,fitness and wellness,KW
 824,45+,Male,Locals,High School,600,fitness and wellness,KW
 825,18-24,Female,Locals,High School,1500,fitness and wellness,KW
 826,25-44,Female,Locals,High School,1900,fitness and wellness,KW
-827,45+,Female,Locals,High School,260,fitness and wellness,KW
+827,45+,Female,Locals,High School,280,fitness and wellness,KW
 828,18-24,Male,Expats,Graduated,22000,fitness and wellness,LB
-829,25-44,Male,Expats,Graduated,46000,fitness and wellness,LB
-830,45+,Male,Expats,Graduated,6300,fitness and wellness,LB
-831,18-24,Female,Expats,Graduated,9100,fitness and wellness,LB
-832,25-44,Female,Expats,Graduated,29000,fitness and wellness,LB
+829,25-44,Male,Expats,Graduated,47000,fitness and wellness,LB
+830,45+,Male,Expats,Graduated,6500,fitness and wellness,LB
+831,18-24,Female,Expats,Graduated,9200,fitness and wellness,LB
+832,25-44,Female,Expats,Graduated,30000,fitness and wellness,LB
 833,45+,Female,Expats,Graduated,7000,fitness and wellness,LB
-834,18-24,Male,Expats,No Degree,38000,fitness and wellness,LB
-835,25-44,Male,Expats,No Degree,64000,fitness and wellness,LB
+834,18-24,Male,Expats,No Degree,39000,fitness and wellness,LB
+835,25-44,Male,Expats,No Degree,67000,fitness and wellness,LB
 836,45+,Male,Expats,No Degree,11000,fitness and wellness,LB
-837,18-24,Female,Expats,No Degree,19000,fitness and wellness,LB
-838,25-44,Female,Expats,No Degree,35000,fitness and wellness,LB
+837,18-24,Female,Expats,No Degree,20000,fitness and wellness,LB
+838,25-44,Female,Expats,No Degree,36000,fitness and wellness,LB
 839,45+,Female,Expats,No Degree,10000,fitness and wellness,LB
 840,18-24,Male,Expats,High School,14000,fitness and wellness,LB
 841,25-44,Male,Expats,High School,18000,fitness and wellness,LB
-842,45+,Male,Expats,High School,2500,fitness and wellness,LB
-843,18-24,Female,Expats,High School,7600,fitness and wellness,LB
+842,45+,Male,Expats,High School,2600,fitness and wellness,LB
+843,18-24,Female,Expats,High School,7700,fitness and wellness,LB
 844,25-44,Female,Expats,High School,12000,fitness and wellness,LB
-845,45+,Female,Expats,High School,2800,fitness and wellness,LB
-846,18-24,Male,Locals,Graduated,49000,fitness and wellness,LB
+845,45+,Female,Expats,High School,2900,fitness and wellness,LB
+846,18-24,Male,Locals,Graduated,50000,fitness and wellness,LB
 847,25-44,Male,Locals,Graduated,110000,fitness and wellness,LB
-848,45+,Male,Locals,Graduated,28000,fitness and wellness,LB
-849,18-24,Female,Locals,Graduated,50000,fitness and wellness,LB
+848,45+,Male,Locals,Graduated,29000,fitness and wellness,LB
+849,18-24,Female,Locals,Graduated,51000,fitness and wellness,LB
 850,25-44,Female,Locals,Graduated,130000,fitness and wellness,LB
 851,45+,Female,Locals,Graduated,31000,fitness and wellness,LB
-852,18-24,Male,Locals,No Degree,77000,fitness and wellness,LB
+852,18-24,Male,Locals,No Degree,79000,fitness and wellness,LB
 853,25-44,Male,Locals,No Degree,120000,fitness and wellness,LB
-854,45+,Male,Locals,No Degree,56000,fitness and wellness,LB
-855,18-24,Female,Locals,No Degree,66000,fitness and wellness,LB
+854,45+,Male,Locals,No Degree,58000,fitness and wellness,LB
+855,18-24,Female,Locals,No Degree,68000,fitness and wellness,LB
 856,25-44,Female,Locals,No Degree,140000,fitness and wellness,LB
-857,45+,Female,Locals,No Degree,82000,fitness and wellness,LB
+857,45+,Female,Locals,No Degree,83000,fitness and wellness,LB
 858,18-24,Male,Locals,High School,41000,fitness and wellness,LB
 859,25-44,Male,Locals,High School,31000,fitness and wellness,LB
-860,45+,Male,Locals,High School,9300,fitness and wellness,LB
-861,18-24,Female,Locals,High School,51000,fitness and wellness,LB
+860,45+,Male,Locals,High School,9600,fitness and wellness,LB
+861,18-24,Female,Locals,High School,52000,fitness and wellness,LB
 862,25-44,Female,Locals,High School,35000,fitness and wellness,LB
 863,45+,Female,Locals,High School,12000,fitness and wellness,LB
 864,18-24,Male,Expats,Graduated,13000,fitness and wellness,LY
-865,25-44,Male,Expats,Graduated,35000,fitness and wellness,LY
-866,45+,Male,Expats,Graduated,4700,fitness and wellness,LY
-867,18-24,Female,Expats,Graduated,4000,fitness and wellness,LY
+865,25-44,Male,Expats,Graduated,37000,fitness and wellness,LY
+866,45+,Male,Expats,Graduated,4900,fitness and wellness,LY
+867,18-24,Female,Expats,Graduated,4100,fitness and wellness,LY
 868,25-44,Female,Expats,Graduated,11000,fitness and wellness,LY
 869,45+,Female,Expats,Graduated,2400,fitness and wellness,LY
-870,18-24,Male,Expats,No Degree,17000,fitness and wellness,LY
-871,25-44,Male,Expats,No Degree,38000,fitness and wellness,LY
-872,45+,Male,Expats,No Degree,5900,fitness and wellness,LY
-873,18-24,Female,Expats,No Degree,5300,fitness and wellness,LY
-874,25-44,Female,Expats,No Degree,11000,fitness and wellness,LY
+870,18-24,Male,Expats,No Degree,18000,fitness and wellness,LY
+871,25-44,Male,Expats,No Degree,40000,fitness and wellness,LY
+872,45+,Male,Expats,No Degree,6100,fitness and wellness,LY
+873,18-24,Female,Expats,No Degree,5400,fitness and wellness,LY
+874,25-44,Female,Expats,No Degree,12000,fitness and wellness,LY
 875,45+,Female,Expats,No Degree,3200,fitness and wellness,LY
-876,18-24,Male,Expats,High School,5700,fitness and wellness,LY
-877,25-44,Male,Expats,High School,9200,fitness and wellness,LY
-878,45+,Male,Expats,High School,1500,fitness and wellness,LY
-879,18-24,Female,Expats,High School,2600,fitness and wellness,LY
+876,18-24,Male,Expats,High School,5900,fitness and wellness,LY
+877,25-44,Male,Expats,High School,9600,fitness and wellness,LY
+878,45+,Male,Expats,High School,1600,fitness and wellness,LY
+879,18-24,Female,Expats,High School,2700,fitness and wellness,LY
 880,25-44,Female,Expats,High School,3000,fitness and wellness,LY
-881,45+,Female,Expats,High School,610,fitness and wellness,LY
-882,18-24,Male,Locals,Graduated,73000,fitness and wellness,LY
-883,25-44,Male,Locals,Graduated,170000,fitness and wellness,LY
+881,45+,Female,Expats,High School,640,fitness and wellness,LY
+882,18-24,Male,Locals,Graduated,75000,fitness and wellness,LY
+883,25-44,Male,Locals,Graduated,180000,fitness and wellness,LY
 884,45+,Male,Locals,Graduated,29000,fitness and wellness,LY
-885,18-24,Female,Locals,Graduated,58000,fitness and wellness,LY
+885,18-24,Female,Locals,Graduated,59000,fitness and wellness,LY
 886,25-44,Female,Locals,Graduated,120000,fitness and wellness,LY
 887,45+,Female,Locals,Graduated,15000,fitness and wellness,LY
-888,18-24,Male,Locals,No Degree,66000,fitness and wellness,LY
+888,18-24,Male,Locals,No Degree,69000,fitness and wellness,LY
 889,25-44,Male,Locals,No Degree,150000,fitness and wellness,LY
-890,45+,Male,Locals,No Degree,36000,fitness and wellness,LY
-891,18-24,Female,Locals,No Degree,61000,fitness and wellness,LY
+890,45+,Male,Locals,No Degree,38000,fitness and wellness,LY
+891,18-24,Female,Locals,No Degree,63000,fitness and wellness,LY
 892,25-44,Female,Locals,No Degree,130000,fitness and wellness,LY
-893,45+,Female,Locals,No Degree,36000,fitness and wellness,LY
-894,18-24,Male,Locals,High School,41000,fitness and wellness,LY
-895,25-44,Male,Locals,High School,40000,fitness and wellness,LY
-896,45+,Male,Locals,High School,8100,fitness and wellness,LY
+893,45+,Female,Locals,No Degree,37000,fitness and wellness,LY
+894,18-24,Male,Locals,High School,43000,fitness and wellness,LY
+895,25-44,Male,Locals,High School,41000,fitness and wellness,LY
+896,45+,Male,Locals,High School,8400,fitness and wellness,LY
 897,18-24,Female,Locals,High School,45000,fitness and wellness,LY
-898,25-44,Female,Locals,High School,29000,fitness and wellness,LY
-899,45+,Female,Locals,High School,4900,fitness and wellness,LY
-900,18-24,Male,Expats,Graduated,91000,fitness and wellness,MA
-901,25-44,Male,Expats,Graduated,73000,fitness and wellness,MA
+898,25-44,Female,Locals,High School,30000,fitness and wellness,LY
+899,45+,Female,Locals,High School,5000,fitness and wellness,LY
+900,18-24,Male,Expats,Graduated,92000,fitness and wellness,MA
+901,25-44,Male,Expats,Graduated,75000,fitness and wellness,MA
 902,45+,Male,Expats,Graduated,11000,fitness and wellness,MA
 903,18-24,Female,Expats,Graduated,30000,fitness and wellness,MA
 904,25-44,Female,Expats,Graduated,29000,fitness and wellness,MA
-905,45+,Female,Expats,Graduated,4700,fitness and wellness,MA
-906,18-24,Male,Expats,No Degree,34000,fitness and wellness,MA
-907,25-44,Male,Expats,No Degree,45000,fitness and wellness,MA
-908,45+,Male,Expats,No Degree,10000,fitness and wellness,MA
+905,45+,Female,Expats,Graduated,4800,fitness and wellness,MA
+906,18-24,Male,Expats,No Degree,35000,fitness and wellness,MA
+907,25-44,Male,Expats,No Degree,47000,fitness and wellness,MA
+908,45+,Male,Expats,No Degree,11000,fitness and wellness,MA
 909,18-24,Female,Expats,No Degree,22000,fitness and wellness,MA
 910,25-44,Female,Expats,No Degree,28000,fitness and wellness,MA
 911,45+,Female,Expats,No Degree,6300,fitness and wellness,MA
-912,18-24,Male,Expats,High School,33000,fitness and wellness,MA
-913,25-44,Male,Expats,High School,18000,fitness and wellness,MA
+912,18-24,Male,Expats,High School,34000,fitness and wellness,MA
+913,25-44,Male,Expats,High School,19000,fitness and wellness,MA
 914,45+,Male,Expats,High School,3400,fitness and wellness,MA
 915,18-24,Female,Expats,High School,13000,fitness and wellness,MA
-916,25-44,Female,Expats,High School,8600,fitness and wellness,MA
+916,25-44,Female,Expats,High School,8700,fitness and wellness,MA
 917,45+,Female,Expats,High School,2100,fitness and wellness,MA
-918,18-24,Male,Locals,Graduated,590000,fitness and wellness,MA
-919,25-44,Male,Locals,Graduated,620000,fitness and wellness,MA
-920,45+,Male,Locals,Graduated,86000,fitness and wellness,MA
+918,18-24,Male,Locals,Graduated,600000,fitness and wellness,MA
+919,25-44,Male,Locals,Graduated,630000,fitness and wellness,MA
+920,45+,Male,Locals,Graduated,88000,fitness and wellness,MA
 921,18-24,Female,Locals,Graduated,360000,fitness and wellness,MA
 922,25-44,Female,Locals,Graduated,330000,fitness and wellness,MA
 923,45+,Female,Locals,Graduated,44000,fitness and wellness,MA
-924,18-24,Male,Locals,No Degree,480000,fitness and wellness,MA
-925,25-44,Male,Locals,No Degree,610000,fitness and wellness,MA
+924,18-24,Male,Locals,No Degree,490000,fitness and wellness,MA
+925,25-44,Male,Locals,No Degree,640000,fitness and wellness,MA
 926,45+,Male,Locals,No Degree,130000,fitness and wellness,MA
-927,18-24,Female,Locals,No Degree,380000,fitness and wellness,MA
-928,25-44,Female,Locals,No Degree,380000,fitness and wellness,MA
-929,45+,Female,Locals,No Degree,83000,fitness and wellness,MA
+927,18-24,Female,Locals,No Degree,390000,fitness and wellness,MA
+928,25-44,Female,Locals,No Degree,390000,fitness and wellness,MA
+929,45+,Female,Locals,No Degree,85000,fitness and wellness,MA
 930,18-24,Male,Locals,High School,260000,fitness and wellness,MA
 931,25-44,Male,Locals,High School,170000,fitness and wellness,MA
-932,45+,Male,Locals,High School,28000,fitness and wellness,MA
+932,45+,Male,Locals,High School,29000,fitness and wellness,MA
 933,18-24,Female,Locals,High School,180000,fitness and wellness,MA
-934,25-44,Female,Locals,High School,96000,fitness and wellness,MA
+934,25-44,Female,Locals,High School,97000,fitness and wellness,MA
 935,45+,Female,Locals,High School,18000,fitness and wellness,MA
 936,18-24,Male,Expats,Graduated,26000,fitness and wellness,OM
 937,25-44,Male,Expats,Graduated,120000,fitness and wellness,OM
 938,45+,Male,Expats,Graduated,14000,fitness and wellness,OM
-939,18-24,Female,Expats,Graduated,5300,fitness and wellness,OM
+939,18-24,Female,Expats,Graduated,5200,fitness and wellness,OM
 940,25-44,Female,Expats,Graduated,40000,fitness and wellness,OM
-941,45+,Female,Expats,Graduated,6100,fitness and wellness,OM
-942,18-24,Male,Expats,No Degree,51000,fitness and wellness,OM
+941,45+,Female,Expats,Graduated,6000,fitness and wellness,OM
+942,18-24,Male,Expats,No Degree,52000,fitness and wellness,OM
 943,25-44,Male,Expats,No Degree,110000,fitness and wellness,OM
 944,45+,Male,Expats,No Degree,13000,fitness and wellness,OM
 945,18-24,Female,Expats,No Degree,13000,fitness and wellness,OM
 946,25-44,Female,Expats,No Degree,27000,fitness and wellness,OM
-947,45+,Female,Expats,No Degree,4400,fitness and wellness,OM
+947,45+,Female,Expats,No Degree,4500,fitness and wellness,OM
 948,18-24,Male,Expats,High School,9600,fitness and wellness,OM
-949,25-44,Male,Expats,High School,27000,fitness and wellness,OM
-950,45+,Male,Expats,High School,3700,fitness and wellness,OM
-951,18-24,Female,Expats,High School,3600,fitness and wellness,OM
-952,25-44,Female,Expats,High School,9600,fitness and wellness,OM
+949,25-44,Male,Expats,High School,28000,fitness and wellness,OM
+950,45+,Male,Expats,High School,3800,fitness and wellness,OM
+951,18-24,Female,Expats,High School,3700,fitness and wellness,OM
+952,25-44,Female,Expats,High School,9700,fitness and wellness,OM
 953,45+,Female,Expats,High School,1700,fitness and wellness,OM
-954,18-24,Male,Locals,Graduated,7300,fitness and wellness,OM
+954,18-24,Male,Locals,Graduated,7400,fitness and wellness,OM
 955,25-44,Male,Locals,Graduated,22000,fitness and wellness,OM
 956,45+,Male,Locals,Graduated,1100,fitness and wellness,OM
-957,18-24,Female,Locals,Graduated,1600,fitness and wellness,OM
-958,25-44,Female,Locals,Graduated,4600,fitness and wellness,OM
-959,45+,Female,Locals,Graduated,230,fitness and wellness,OM
-960,18-24,Male,Locals,No Degree,9500,fitness and wellness,OM
+957,18-24,Female,Locals,Graduated,1700,fitness and wellness,OM
+958,25-44,Female,Locals,Graduated,4700,fitness and wellness,OM
+959,45+,Female,Locals,Graduated,220,fitness and wellness,OM
+960,18-24,Male,Locals,No Degree,9900,fitness and wellness,OM
 961,25-44,Male,Locals,No Degree,18000,fitness and wellness,OM
 962,45+,Male,Locals,No Degree,1800,fitness and wellness,OM
-963,18-24,Female,Locals,No Degree,3000,fitness and wellness,OM
-964,25-44,Female,Locals,No Degree,5700,fitness and wellness,OM
-965,45+,Female,Locals,No Degree,560,fitness and wellness,OM
-966,18-24,Male,Locals,High School,4400,fitness and wellness,OM
+963,18-24,Female,Locals,No Degree,3100,fitness and wellness,OM
+964,25-44,Female,Locals,No Degree,5900,fitness and wellness,OM
+965,45+,Female,Locals,No Degree,590,fitness and wellness,OM
+966,18-24,Male,Locals,High School,4500,fitness and wellness,OM
 967,25-44,Male,Locals,High School,6500,fitness and wellness,OM
-968,45+,Male,Locals,High School,520,fitness and wellness,OM
+968,45+,Male,Locals,High School,540,fitness and wellness,OM
 969,18-24,Female,Locals,High School,1400,fitness and wellness,OM
-970,25-44,Female,Locals,High School,1100,fitness and wellness,OM
+970,25-44,Female,Locals,High School,1200,fitness and wellness,OM
 971,45+,Female,Locals,High School,100,fitness and wellness,OM
 972,18-24,Male,Expats,Graduated,77000,fitness and wellness,QA
-973,25-44,Male,Expats,Graduated,340000,fitness and wellness,QA
+973,25-44,Male,Expats,Graduated,350000,fitness and wellness,QA
 974,45+,Male,Expats,Graduated,37000,fitness and wellness,QA
 975,18-24,Female,Expats,Graduated,18000,fitness and wellness,QA
 976,25-44,Female,Expats,Graduated,120000,fitness and wellness,QA
 977,45+,Female,Expats,Graduated,13000,fitness and wellness,QA
 978,18-24,Male,Expats,No Degree,110000,fitness and wellness,QA
 979,25-44,Male,Expats,No Degree,230000,fitness and wellness,QA
-980,45+,Male,Expats,No Degree,32000,fitness and wellness,QA
+980,45+,Male,Expats,No Degree,33000,fitness and wellness,QA
 981,18-24,Female,Expats,No Degree,22000,fitness and wellness,QA
 982,25-44,Female,Expats,No Degree,55000,fitness and wellness,QA
 983,45+,Female,Expats,No Degree,11000,fitness and wellness,QA
 984,18-24,Male,Expats,High School,29000,fitness and wellness,QA
-985,25-44,Male,Expats,High School,79000,fitness and wellness,QA
+985,25-44,Male,Expats,High School,80000,fitness and wellness,QA
 986,45+,Male,Expats,High School,10000,fitness and wellness,QA
 987,18-24,Female,Expats,High School,9300,fitness and wellness,QA
 988,25-44,Female,Expats,High School,29000,fitness and wellness,QA
 989,45+,Female,Expats,High School,3900,fitness and wellness,QA
-990,18-24,Male,Locals,Graduated,2200,fitness and wellness,QA
-991,25-44,Male,Locals,Graduated,5600,fitness and wellness,QA
-992,45+,Male,Locals,Graduated,630,fitness and wellness,QA
-993,18-24,Female,Locals,Graduated,800,fitness and wellness,QA
+990,18-24,Male,Locals,Graduated,2300,fitness and wellness,QA
+991,25-44,Male,Locals,Graduated,5900,fitness and wellness,QA
+992,45+,Male,Locals,Graduated,640,fitness and wellness,QA
+993,18-24,Female,Locals,Graduated,790,fitness and wellness,QA
 994,25-44,Female,Locals,Graduated,2700,fitness and wellness,QA
 995,45+,Female,Locals,Graduated,270,fitness and wellness,QA
-996,18-24,Male,Locals,No Degree,3200,fitness and wellness,QA
-997,25-44,Male,Locals,No Degree,6800,fitness and wellness,QA
-998,45+,Male,Locals,No Degree,990,fitness and wellness,QA
-999,18-24,Female,Locals,No Degree,1500,fitness and wellness,QA
-1000,25-44,Female,Locals,No Degree,3500,fitness and wellness,QA
-1001,45+,Female,Locals,No Degree,570,fitness and wellness,QA
-1002,18-24,Male,Locals,High School,990,fitness and wellness,QA
+996,18-24,Male,Locals,No Degree,3300,fitness and wellness,QA
+997,25-44,Male,Locals,No Degree,7000,fitness and wellness,QA
+998,45+,Male,Locals,No Degree,1100,fitness and wellness,QA
+999,18-24,Female,Locals,No Degree,1600,fitness and wellness,QA
+1000,25-44,Female,Locals,No Degree,3600,fitness and wellness,QA
+1001,45+,Female,Locals,No Degree,590,fitness and wellness,QA
+1002,18-24,Male,Locals,High School,1000,fitness and wellness,QA
 1003,25-44,Male,Locals,High School,1700,fitness and wellness,QA
-1004,45+,Male,Locals,High School,170,fitness and wellness,QA
-1005,18-24,Female,Locals,High School,760,fitness and wellness,QA
-1006,25-44,Female,Locals,High School,670,fitness and wellness,QA
+1004,45+,Male,Locals,High School,180,fitness and wellness,QA
+1005,18-24,Female,Locals,High School,730,fitness and wellness,QA
+1006,25-44,Female,Locals,High School,680,fitness and wellness,QA
 1007,45+,Female,Locals,High School,60,fitness and wellness,QA
 1008,18-24,Male,Expats,Graduated,230000,fitness and wellness,SA
 1009,25-44,Male,Expats,Graduated,1200000,fitness and wellness,SA
 1010,45+,Male,Expats,Graduated,130000,fitness and wellness,SA
 1011,18-24,Female,Expats,Graduated,53000,fitness and wellness,SA
-1012,25-44,Female,Expats,Graduated,330000,fitness and wellness,SA
+1012,25-44,Female,Expats,Graduated,320000,fitness and wellness,SA
 1013,45+,Female,Expats,Graduated,42000,fitness and wellness,SA
-1014,18-24,Male,Expats,No Degree,68000,fitness and wellness,SA
+1014,18-24,Male,Expats,No Degree,69000,fitness and wellness,SA
 1015,25-44,Male,Expats,No Degree,230000,fitness and wellness,SA
-1016,45+,Male,Expats,No Degree,34000,fitness and wellness,SA
+1016,45+,Male,Expats,No Degree,35000,fitness and wellness,SA
 1017,18-24,Female,Expats,No Degree,27000,fitness and wellness,SA
 1018,25-44,Female,Expats,No Degree,82000,fitness and wellness,SA
 1019,45+,Female,Expats,No Degree,16000,fitness and wellness,SA
-1020,18-24,Male,Expats,High School,81000,fitness and wellness,SA
+1020,18-24,Male,Expats,High School,82000,fitness and wellness,SA
 1021,25-44,Male,Expats,High School,270000,fitness and wellness,SA
 1022,45+,Male,Expats,High School,33000,fitness and wellness,SA
 1023,18-24,Female,Expats,High School,33000,fitness and wellness,SA
@@ -419,87 +419,87 @@
 1029,18-24,Female,Locals,Graduated,37000,fitness and wellness,SA
 1030,25-44,Female,Locals,Graduated,140000,fitness and wellness,SA
 1031,45+,Female,Locals,Graduated,16000,fitness and wellness,SA
-1032,18-24,Male,Locals,No Degree,630000,fitness and wellness,SA
+1032,18-24,Male,Locals,No Degree,640000,fitness and wellness,SA
 1033,25-44,Male,Locals,No Degree,1300000,fitness and wellness,SA
 1034,45+,Male,Locals,No Degree,190000,fitness and wellness,SA
-1035,18-24,Female,Locals,No Degree,170000,fitness and wellness,SA
-1036,25-44,Female,Locals,No Degree,270000,fitness and wellness,SA
+1035,18-24,Female,Locals,No Degree,180000,fitness and wellness,SA
+1036,25-44,Female,Locals,No Degree,280000,fitness and wellness,SA
 1037,45+,Female,Locals,No Degree,50000,fitness and wellness,SA
 1038,18-24,Male,Locals,High School,63000,fitness and wellness,SA
 1039,25-44,Male,Locals,High School,170000,fitness and wellness,SA
 1040,45+,Male,Locals,High School,21000,fitness and wellness,SA
-1041,18-24,Female,Locals,High School,31000,fitness and wellness,SA
-1042,25-44,Female,Locals,High School,46000,fitness and wellness,SA
-1043,45+,Female,Locals,High School,5900,fitness and wellness,SA
-1044,18-24,Male,Expats,Graduated,7200,fitness and wellness,SO
-1045,25-44,Male,Expats,Graduated,7700,fitness and wellness,SO
+1041,18-24,Female,Locals,High School,32000,fitness and wellness,SA
+1042,25-44,Female,Locals,High School,47000,fitness and wellness,SA
+1043,45+,Female,Locals,High School,6000,fitness and wellness,SA
+1044,18-24,Male,Expats,Graduated,7300,fitness and wellness,SO
+1045,25-44,Male,Expats,Graduated,7800,fitness and wellness,SO
 1046,45+,Male,Expats,Graduated,1000,fitness and wellness,SO
-1047,18-24,Female,Expats,Graduated,3000,fitness and wellness,SO
+1047,18-24,Female,Expats,Graduated,3100,fitness and wellness,SO
 1048,25-44,Female,Expats,Graduated,2100,fitness and wellness,SO
-1049,45+,Female,Expats,Graduated,290,fitness and wellness,SO
-1050,18-24,Male,Expats,No Degree,1800,fitness and wellness,SO
+1049,45+,Female,Expats,Graduated,280,fitness and wellness,SO
+1050,18-24,Male,Expats,No Degree,1900,fitness and wellness,SO
 1051,25-44,Male,Expats,No Degree,2600,fitness and wellness,SO
-1052,45+,Male,Expats,No Degree,490,fitness and wellness,SO
+1052,45+,Male,Expats,No Degree,530,fitness and wellness,SO
 1053,18-24,Female,Expats,No Degree,1300,fitness and wellness,SO
-1054,25-44,Female,Expats,No Degree,930,fitness and wellness,SO
+1054,25-44,Female,Expats,No Degree,940,fitness and wellness,SO
 1055,45+,Female,Expats,No Degree,90,fitness and wellness,SO
-1056,18-24,Male,Expats,High School,1900,fitness and wellness,SO
+1056,18-24,Male,Expats,High School,2000,fitness and wellness,SO
 1057,25-44,Male,Expats,High School,1500,fitness and wellness,SO
-1058,45+,Male,Expats,High School,260,fitness and wellness,SO
+1058,45+,Male,Expats,High School,240,fitness and wellness,SO
 1059,18-24,Female,Expats,High School,1100,fitness and wellness,SO
-1060,25-44,Female,Expats,High School,510,fitness and wellness,SO
-1061,45+,Female,Expats,High School,50,fitness and wellness,SO
+1060,25-44,Female,Expats,High School,470,fitness and wellness,SO
+1061,45+,Female,Expats,High School,80,fitness and wellness,SO
 1062,18-24,Male,Locals,Graduated,21000,fitness and wellness,SO
 1063,25-44,Male,Locals,Graduated,22000,fitness and wellness,SO
-1064,45+,Male,Locals,Graduated,1500,fitness and wellness,SO
+1064,45+,Male,Locals,Graduated,1600,fitness and wellness,SO
 1065,18-24,Female,Locals,Graduated,14000,fitness and wellness,SO
-1066,25-44,Female,Locals,Graduated,9100,fitness and wellness,SO
+1066,25-44,Female,Locals,Graduated,9300,fitness and wellness,SO
 1067,45+,Female,Locals,Graduated,1000,fitness and wellness,SO
-1068,18-24,Male,Locals,No Degree,23000,fitness and wellness,SO
+1068,18-24,Male,Locals,No Degree,24000,fitness and wellness,SO
 1069,25-44,Male,Locals,No Degree,15000,fitness and wellness,SO
-1070,45+,Male,Locals,No Degree,2900,fitness and wellness,SO
-1071,18-24,Female,Locals,No Degree,27000,fitness and wellness,SO
-1072,25-44,Female,Locals,No Degree,13000,fitness and wellness,SO
-1073,45+,Female,Locals,No Degree,1200,fitness and wellness,SO
-1074,18-24,Male,Locals,High School,7900,fitness and wellness,SO
-1075,25-44,Male,Locals,High School,4200,fitness and wellness,SO
-1076,45+,Male,Locals,High School,400,fitness and wellness,SO
-1077,18-24,Female,Locals,High School,5700,fitness and wellness,SO
+1070,45+,Male,Locals,No Degree,3000,fitness and wellness,SO
+1071,18-24,Female,Locals,No Degree,28000,fitness and wellness,SO
+1072,25-44,Female,Locals,No Degree,14000,fitness and wellness,SO
+1073,45+,Female,Locals,No Degree,1300,fitness and wellness,SO
+1074,18-24,Male,Locals,High School,8200,fitness and wellness,SO
+1075,25-44,Male,Locals,High School,4300,fitness and wellness,SO
+1076,45+,Male,Locals,High School,390,fitness and wellness,SO
+1077,18-24,Female,Locals,High School,5800,fitness and wellness,SO
 1078,25-44,Female,Locals,High School,2100,fitness and wellness,SO
 1079,45+,Female,Locals,High School,360,fitness and wellness,SO
 1080,18-24,Male,Expats,Graduated,33000,fitness and wellness,TN
 1081,25-44,Male,Expats,Graduated,38000,fitness and wellness,TN
-1082,45+,Male,Expats,Graduated,8200,fitness and wellness,TN
+1082,45+,Male,Expats,Graduated,8400,fitness and wellness,TN
 1083,18-24,Female,Expats,Graduated,15000,fitness and wellness,TN
 1084,25-44,Female,Expats,Graduated,19000,fitness and wellness,TN
-1085,45+,Female,Expats,Graduated,4200,fitness and wellness,TN
-1086,18-24,Male,Expats,No Degree,15000,fitness and wellness,TN
+1085,45+,Female,Expats,Graduated,4100,fitness and wellness,TN
+1086,18-24,Male,Expats,No Degree,16000,fitness and wellness,TN
 1087,25-44,Male,Expats,No Degree,25000,fitness and wellness,TN
 1088,45+,Male,Expats,No Degree,6400,fitness and wellness,TN
 1089,18-24,Female,Expats,No Degree,10000,fitness and wellness,TN
 1090,25-44,Female,Expats,No Degree,15000,fitness and wellness,TN
-1091,45+,Female,Expats,No Degree,4100,fitness and wellness,TN
+1091,45+,Female,Expats,No Degree,4000,fitness and wellness,TN
 1092,18-24,Male,Expats,High School,14000,fitness and wellness,TN
-1093,25-44,Male,Expats,High School,10000,fitness and wellness,TN
+1093,25-44,Male,Expats,High School,11000,fitness and wellness,TN
 1094,45+,Male,Expats,High School,2800,fitness and wellness,TN
-1095,18-24,Female,Expats,High School,7700,fitness and wellness,TN
-1096,25-44,Female,Expats,High School,5500,fitness and wellness,TN
-1097,45+,Female,Expats,High School,2100,fitness and wellness,TN
-1098,18-24,Male,Locals,Graduated,180000,fitness and wellness,TN
+1095,18-24,Female,Expats,High School,7800,fitness and wellness,TN
+1096,25-44,Female,Expats,High School,5600,fitness and wellness,TN
+1097,45+,Female,Expats,High School,2000,fitness and wellness,TN
+1098,18-24,Male,Locals,Graduated,190000,fitness and wellness,TN
 1099,25-44,Male,Locals,Graduated,350000,fitness and wellness,TN
-1100,45+,Male,Locals,Graduated,77000,fitness and wellness,TN
+1100,45+,Male,Locals,Graduated,79000,fitness and wellness,TN
 1101,18-24,Female,Locals,Graduated,200000,fitness and wellness,TN
 1102,25-44,Female,Locals,Graduated,340000,fitness and wellness,TN
 1103,45+,Female,Locals,Graduated,45000,fitness and wellness,TN
-1104,18-24,Male,Locals,No Degree,160000,fitness and wellness,TN
+1104,18-24,Male,Locals,No Degree,170000,fitness and wellness,TN
 1105,25-44,Male,Locals,No Degree,290000,fitness and wellness,TN
-1106,45+,Male,Locals,No Degree,82000,fitness and wellness,TN
+1106,45+,Male,Locals,No Degree,84000,fitness and wellness,TN
 1107,18-24,Female,Locals,No Degree,190000,fitness and wellness,TN
-1108,25-44,Female,Locals,No Degree,250000,fitness and wellness,TN
-1109,45+,Female,Locals,No Degree,66000,fitness and wellness,TN
-1110,18-24,Male,Locals,High School,93000,fitness and wellness,TN
+1108,25-44,Female,Locals,No Degree,260000,fitness and wellness,TN
+1109,45+,Female,Locals,No Degree,67000,fitness and wellness,TN
+1110,18-24,Male,Locals,High School,94000,fitness and wellness,TN
 1111,25-44,Male,Locals,High School,110000,fitness and wellness,TN
-1112,45+,Male,Locals,High School,31000,fitness and wellness,TN
+1112,45+,Male,Locals,High School,32000,fitness and wellness,TN
 1113,18-24,Female,Locals,High School,110000,fitness and wellness,TN
 1114,25-44,Female,Locals,High School,88000,fitness and wellness,TN
 1115,45+,Female,Locals,High School,24000,fitness and wellness,TN
@@ -509,173 +509,173 @@
 1119,18-24,Female,Expats,Graduated,76000,fitness and wellness,AE
 1120,25-44,Female,Expats,Graduated,520000,fitness and wellness,AE
 1121,45+,Female,Expats,Graduated,66000,fitness and wellness,AE
-1122,18-24,Male,Expats,No Degree,260000,fitness and wellness,AE
-1123,25-44,Male,Expats,No Degree,610000,fitness and wellness,AE
-1124,45+,Male,Expats,No Degree,87000,fitness and wellness,AE
+1122,18-24,Male,Expats,No Degree,270000,fitness and wellness,AE
+1123,25-44,Male,Expats,No Degree,620000,fitness and wellness,AE
+1124,45+,Male,Expats,No Degree,89000,fitness and wellness,AE
 1125,18-24,Female,Expats,No Degree,68000,fitness and wellness,AE
 1126,25-44,Female,Expats,No Degree,210000,fitness and wellness,AE
-1127,45+,Female,Expats,No Degree,49000,fitness and wellness,AE
+1127,45+,Female,Expats,No Degree,50000,fitness and wellness,AE
 1128,18-24,Male,Expats,High School,83000,fitness and wellness,AE
-1129,25-44,Male,Expats,High School,230000,fitness and wellness,AE
-1130,45+,Male,Expats,High School,29000,fitness and wellness,AE
+1129,25-44,Male,Expats,High School,240000,fitness and wellness,AE
+1130,45+,Male,Expats,High School,30000,fitness and wellness,AE
 1131,18-24,Female,Expats,High School,40000,fitness and wellness,AE
 1132,25-44,Female,Expats,High School,110000,fitness and wellness,AE
 1133,45+,Female,Expats,High School,20000,fitness and wellness,AE
-1134,18-24,Male,Locals,Graduated,8600,fitness and wellness,AE
-1135,25-44,Male,Locals,Graduated,27000,fitness and wellness,AE
-1136,45+,Male,Locals,Graduated,2600,fitness and wellness,AE
+1134,18-24,Male,Locals,Graduated,8700,fitness and wellness,AE
+1135,25-44,Male,Locals,Graduated,28000,fitness and wellness,AE
+1136,45+,Male,Locals,Graduated,2700,fitness and wellness,AE
 1137,18-24,Female,Locals,Graduated,3800,fitness and wellness,AE
 1138,25-44,Female,Locals,Graduated,14000,fitness and wellness,AE
-1139,45+,Female,Locals,Graduated,1000,fitness and wellness,AE
-1140,18-24,Male,Locals,No Degree,14000,fitness and wellness,AE
-1141,25-44,Male,Locals,No Degree,31000,fitness and wellness,AE
-1142,45+,Male,Locals,No Degree,4900,fitness and wellness,AE
-1143,18-24,Female,Locals,No Degree,7800,fitness and wellness,AE
-1144,25-44,Female,Locals,No Degree,19000,fitness and wellness,AE
-1145,45+,Female,Locals,No Degree,2700,fitness and wellness,AE
-1146,18-24,Male,Locals,High School,5300,fitness and wellness,AE
-1147,25-44,Male,Locals,High School,7100,fitness and wellness,AE
-1148,45+,Male,Locals,High School,820,fitness and wellness,AE
+1139,45+,Female,Locals,Graduated,970,fitness and wellness,AE
+1140,18-24,Male,Locals,No Degree,15000,fitness and wellness,AE
+1141,25-44,Male,Locals,No Degree,33000,fitness and wellness,AE
+1142,45+,Male,Locals,No Degree,5200,fitness and wellness,AE
+1143,18-24,Female,Locals,No Degree,8100,fitness and wellness,AE
+1144,25-44,Female,Locals,No Degree,20000,fitness and wellness,AE
+1145,45+,Female,Locals,No Degree,2900,fitness and wellness,AE
+1146,18-24,Male,Locals,High School,5400,fitness and wellness,AE
+1147,25-44,Male,Locals,High School,7500,fitness and wellness,AE
+1148,45+,Male,Locals,High School,860,fitness and wellness,AE
 1149,18-24,Female,Locals,High School,3000,fitness and wellness,AE
-1150,25-44,Female,Locals,High School,3200,fitness and wellness,AE
-1151,45+,Female,Locals,High School,370,fitness and wellness,AE
+1150,25-44,Female,Locals,High School,3300,fitness and wellness,AE
+1151,45+,Female,Locals,High School,400,fitness and wellness,AE
 1152,18-24,Male,Expats,Graduated,7000,fitness and wellness,YE
 1153,25-44,Male,Expats,Graduated,13000,fitness and wellness,YE
 1154,45+,Male,Expats,Graduated,1400,fitness and wellness,YE
 1155,18-24,Female,Expats,Graduated,1400,fitness and wellness,YE
 1156,25-44,Female,Expats,Graduated,2500,fitness and wellness,YE
-1157,45+,Female,Expats,Graduated,320,fitness and wellness,YE
-1158,18-24,Male,Expats,No Degree,4200,fitness and wellness,YE
-1159,25-44,Male,Expats,No Degree,6500,fitness and wellness,YE
-1160,45+,Male,Expats,No Degree,880,fitness and wellness,YE
-1161,18-24,Female,Expats,No Degree,2200,fitness and wellness,YE
+1157,45+,Female,Expats,Graduated,330,fitness and wellness,YE
+1158,18-24,Male,Expats,No Degree,4300,fitness and wellness,YE
+1159,25-44,Male,Expats,No Degree,6700,fitness and wellness,YE
+1160,45+,Male,Expats,No Degree,890,fitness and wellness,YE
+1161,18-24,Female,Expats,No Degree,2300,fitness and wellness,YE
 1162,25-44,Female,Expats,No Degree,2200,fitness and wellness,YE
 1163,45+,Female,Expats,No Degree,410,fitness and wellness,YE
-1164,18-24,Male,Expats,High School,3000,fitness and wellness,YE
+1164,18-24,Male,Expats,High School,3100,fitness and wellness,YE
 1165,25-44,Male,Expats,High School,2900,fitness and wellness,YE
-1166,45+,Male,Expats,High School,350,fitness and wellness,YE
+1166,45+,Male,Expats,High School,390,fitness and wellness,YE
 1167,18-24,Female,Expats,High School,1100,fitness and wellness,YE
 1168,25-44,Female,Expats,High School,740,fitness and wellness,YE
 1169,45+,Female,Expats,High School,80,fitness and wellness,YE
 1170,18-24,Male,Locals,Graduated,50000,fitness and wellness,YE
 1171,25-44,Male,Locals,Graduated,110000,fitness and wellness,YE
-1172,45+,Male,Locals,Graduated,9800,fitness and wellness,YE
+1172,45+,Male,Locals,Graduated,10000,fitness and wellness,YE
 1173,18-24,Female,Locals,Graduated,11000,fitness and wellness,YE
 1174,25-44,Female,Locals,Graduated,21000,fitness and wellness,YE
 1175,45+,Female,Locals,Graduated,1400,fitness and wellness,YE
-1176,18-24,Male,Locals,No Degree,55000,fitness and wellness,YE
-1177,25-44,Male,Locals,No Degree,78000,fitness and wellness,YE
-1178,45+,Male,Locals,No Degree,12000,fitness and wellness,YE
-1179,18-24,Female,Locals,No Degree,13000,fitness and wellness,YE
+1176,18-24,Male,Locals,No Degree,57000,fitness and wellness,YE
+1177,25-44,Male,Locals,No Degree,80000,fitness and wellness,YE
+1178,45+,Male,Locals,No Degree,13000,fitness and wellness,YE
+1179,18-24,Female,Locals,No Degree,14000,fitness and wellness,YE
 1180,25-44,Female,Locals,No Degree,16000,fitness and wellness,YE
-1181,45+,Female,Locals,No Degree,2200,fitness and wellness,YE
-1182,18-24,Male,Locals,High School,33000,fitness and wellness,YE
-1183,25-44,Male,Locals,High School,30000,fitness and wellness,YE
+1181,45+,Female,Locals,No Degree,2400,fitness and wellness,YE
+1182,18-24,Male,Locals,High School,34000,fitness and wellness,YE
+1183,25-44,Male,Locals,High School,31000,fitness and wellness,YE
 1184,45+,Male,Locals,High School,3000,fitness and wellness,YE
 1185,18-24,Female,Locals,High School,11000,fitness and wellness,YE
-1186,25-44,Female,Locals,High School,5500,fitness and wellness,YE
-1187,45+,Female,Locals,High School,500,fitness and wellness,YE
+1186,25-44,Female,Locals,High School,5600,fitness and wellness,YE
+1187,45+,Female,Locals,High School,510,fitness and wellness,YE
 1188,18-24,Male,Expats,Graduated,11000,fitness and wellness,PS
 1189,25-44,Male,Expats,Graduated,18000,fitness and wellness,PS
-1190,45+,Male,Expats,Graduated,2700,fitness and wellness,PS
+1190,45+,Male,Expats,Graduated,2800,fitness and wellness,PS
 1191,18-24,Female,Expats,Graduated,7800,fitness and wellness,PS
 1192,25-44,Female,Expats,Graduated,13000,fitness and wellness,PS
 1193,45+,Female,Expats,Graduated,1900,fitness and wellness,PS
-1194,18-24,Male,Expats,No Degree,3600,fitness and wellness,PS
+1194,18-24,Male,Expats,No Degree,3700,fitness and wellness,PS
 1195,25-44,Male,Expats,No Degree,4900,fitness and wellness,PS
 1196,45+,Male,Expats,No Degree,1300,fitness and wellness,PS
-1197,18-24,Female,Expats,No Degree,3800,fitness and wellness,PS
-1198,25-44,Female,Expats,No Degree,5500,fitness and wellness,PS
+1197,18-24,Female,Expats,No Degree,3900,fitness and wellness,PS
+1198,25-44,Female,Expats,No Degree,5400,fitness and wellness,PS
 1199,45+,Female,Expats,No Degree,2200,fitness and wellness,PS
-1200,18-24,Male,Expats,High School,6200,fitness and wellness,PS
-1201,25-44,Male,Expats,High School,3600,fitness and wellness,PS
-1202,45+,Male,Expats,High School,720,fitness and wellness,PS
+1200,18-24,Male,Expats,High School,6400,fitness and wellness,PS
+1201,25-44,Male,Expats,High School,3700,fitness and wellness,PS
+1202,45+,Male,Expats,High School,780,fitness and wellness,PS
 1203,18-24,Female,Expats,High School,6800,fitness and wellness,PS
 1204,25-44,Female,Expats,High School,3600,fitness and wellness,PS
-1205,45+,Female,Expats,High School,860,fitness and wellness,PS
-1206,18-24,Male,Locals,Graduated,45000,fitness and wellness,PS
-1207,25-44,Male,Locals,Graduated,73000,fitness and wellness,PS
-1208,45+,Male,Locals,Graduated,10000,fitness and wellness,PS
-1209,18-24,Female,Locals,Graduated,41000,fitness and wellness,PS
-1210,25-44,Female,Locals,Graduated,63000,fitness and wellness,PS
-1211,45+,Female,Locals,Graduated,6300,fitness and wellness,PS
-1212,18-24,Male,Locals,No Degree,25000,fitness and wellness,PS
-1213,25-44,Male,Locals,No Degree,32000,fitness and wellness,PS
-1214,45+,Male,Locals,No Degree,10000,fitness and wellness,PS
-1215,18-24,Female,Locals,No Degree,26000,fitness and wellness,PS
-1216,25-44,Female,Locals,No Degree,40000,fitness and wellness,PS
+1205,45+,Female,Expats,High School,900,fitness and wellness,PS
+1206,18-24,Male,Locals,Graduated,46000,fitness and wellness,PS
+1207,25-44,Male,Locals,Graduated,75000,fitness and wellness,PS
+1208,45+,Male,Locals,Graduated,11000,fitness and wellness,PS
+1209,18-24,Female,Locals,Graduated,42000,fitness and wellness,PS
+1210,25-44,Female,Locals,Graduated,64000,fitness and wellness,PS
+1211,45+,Female,Locals,Graduated,6400,fitness and wellness,PS
+1212,18-24,Male,Locals,No Degree,27000,fitness and wellness,PS
+1213,25-44,Male,Locals,No Degree,34000,fitness and wellness,PS
+1214,45+,Male,Locals,No Degree,11000,fitness and wellness,PS
+1215,18-24,Female,Locals,No Degree,28000,fitness and wellness,PS
+1216,25-44,Female,Locals,No Degree,41000,fitness and wellness,PS
 1217,45+,Female,Locals,No Degree,14000,fitness and wellness,PS
 1218,18-24,Male,Locals,High School,29000,fitness and wellness,PS
-1219,25-44,Male,Locals,High School,17000,fitness and wellness,PS
-1220,45+,Male,Locals,High School,3600,fitness and wellness,PS
-1221,18-24,Female,Locals,High School,34000,fitness and wellness,PS
+1219,25-44,Male,Locals,High School,18000,fitness and wellness,PS
+1220,45+,Male,Locals,High School,3800,fitness and wellness,PS
+1221,18-24,Female,Locals,High School,35000,fitness and wellness,PS
 1222,25-44,Female,Locals,High School,17000,fitness and wellness,PS
 1223,45+,Female,Locals,High School,2900,fitness and wellness,PS
-3060,18-24,Male,Expats,Graduated,5900,diabetes awareness,DZ
-3061,25-44,Male,Expats,Graduated,7200,diabetes awareness,DZ
+3060,18-24,Male,Expats,Graduated,6300,diabetes awareness,DZ
+3061,25-44,Male,Expats,Graduated,7800,diabetes awareness,DZ
 3062,45+,Male,Expats,Graduated,1700,diabetes awareness,DZ
-3063,18-24,Female,Expats,Graduated,2600,diabetes awareness,DZ
-3064,25-44,Female,Expats,Graduated,2500,diabetes awareness,DZ
-3065,45+,Female,Expats,Graduated,730,diabetes awareness,DZ
-3066,18-24,Male,Expats,No Degree,3800,diabetes awareness,DZ
-3067,25-44,Male,Expats,No Degree,6600,diabetes awareness,DZ
-3068,45+,Male,Expats,No Degree,1700,diabetes awareness,DZ
-3069,18-24,Female,Expats,No Degree,1900,diabetes awareness,DZ
-3070,25-44,Female,Expats,No Degree,2900,diabetes awareness,DZ
-3071,45+,Female,Expats,No Degree,910,diabetes awareness,DZ
-3072,18-24,Male,Expats,High School,2100,diabetes awareness,DZ
-3073,25-44,Male,Expats,High School,1800,diabetes awareness,DZ
-3074,45+,Male,Expats,High School,450,diabetes awareness,DZ
-3075,18-24,Female,Expats,High School,1000,diabetes awareness,DZ
-3076,25-44,Female,Expats,High School,450,diabetes awareness,DZ
-3077,45+,Female,Expats,High School,240,diabetes awareness,DZ
-3078,18-24,Male,Locals,Graduated,27000,diabetes awareness,DZ
-3079,25-44,Male,Locals,Graduated,57000,diabetes awareness,DZ
-3080,45+,Male,Locals,Graduated,12000,diabetes awareness,DZ
-3081,18-24,Female,Locals,Graduated,26000,diabetes awareness,DZ
-3082,25-44,Female,Locals,Graduated,38000,diabetes awareness,DZ
-3083,45+,Female,Locals,Graduated,6500,diabetes awareness,DZ
-3084,18-24,Male,Locals,No Degree,36000,diabetes awareness,DZ
-3085,25-44,Male,Locals,No Degree,79000,diabetes awareness,DZ
-3086,45+,Male,Locals,No Degree,20000,diabetes awareness,DZ
-3087,18-24,Female,Locals,No Degree,28000,diabetes awareness,DZ
-3088,25-44,Female,Locals,No Degree,43000,diabetes awareness,DZ
-3089,45+,Female,Locals,No Degree,11000,diabetes awareness,DZ
-3090,18-24,Male,Locals,High School,12000,diabetes awareness,DZ
-3091,25-44,Male,Locals,High School,16000,diabetes awareness,DZ
-3092,45+,Male,Locals,High School,4200,diabetes awareness,DZ
-3093,18-24,Female,Locals,High School,12000,diabetes awareness,DZ
-3094,25-44,Female,Locals,High School,8800,diabetes awareness,DZ
-3095,45+,Female,Locals,High School,2600,diabetes awareness,DZ
-3096,18-24,Male,Expats,Graduated,650,diabetes awareness,BH
+3063,18-24,Female,Expats,Graduated,3200,diabetes awareness,DZ
+3064,25-44,Female,Expats,Graduated,2900,diabetes awareness,DZ
+3065,45+,Female,Expats,Graduated,810,diabetes awareness,DZ
+3066,18-24,Male,Expats,No Degree,4300,diabetes awareness,DZ
+3067,25-44,Male,Expats,No Degree,7400,diabetes awareness,DZ
+3068,45+,Male,Expats,No Degree,2000,diabetes awareness,DZ
+3069,18-24,Female,Expats,No Degree,2200,diabetes awareness,DZ
+3070,25-44,Female,Expats,No Degree,3400,diabetes awareness,DZ
+3071,45+,Female,Expats,No Degree,1100,diabetes awareness,DZ
+3072,18-24,Male,Expats,High School,2300,diabetes awareness,DZ
+3073,25-44,Male,Expats,High School,1900,diabetes awareness,DZ
+3074,45+,Male,Expats,High School,500,diabetes awareness,DZ
+3075,18-24,Female,Expats,High School,1200,diabetes awareness,DZ
+3076,25-44,Female,Expats,High School,540,diabetes awareness,DZ
+3077,45+,Female,Expats,High School,310,diabetes awareness,DZ
+3078,18-24,Male,Locals,Graduated,30000,diabetes awareness,DZ
+3079,25-44,Male,Locals,Graduated,60000,diabetes awareness,DZ
+3080,45+,Male,Locals,Graduated,13000,diabetes awareness,DZ
+3081,18-24,Female,Locals,Graduated,31000,diabetes awareness,DZ
+3082,25-44,Female,Locals,Graduated,45000,diabetes awareness,DZ
+3083,45+,Female,Locals,Graduated,7400,diabetes awareness,DZ
+3084,18-24,Male,Locals,No Degree,40000,diabetes awareness,DZ
+3085,25-44,Male,Locals,No Degree,86000,diabetes awareness,DZ
+3086,45+,Male,Locals,No Degree,22000,diabetes awareness,DZ
+3087,18-24,Female,Locals,No Degree,33000,diabetes awareness,DZ
+3088,25-44,Female,Locals,No Degree,50000,diabetes awareness,DZ
+3089,45+,Female,Locals,No Degree,13000,diabetes awareness,DZ
+3090,18-24,Male,Locals,High School,13000,diabetes awareness,DZ
+3091,25-44,Male,Locals,High School,17000,diabetes awareness,DZ
+3092,45+,Male,Locals,High School,4600,diabetes awareness,DZ
+3093,18-24,Female,Locals,High School,14000,diabetes awareness,DZ
+3094,25-44,Female,Locals,High School,10000,diabetes awareness,DZ
+3095,45+,Female,Locals,High School,3200,diabetes awareness,DZ
+3096,18-24,Male,Expats,Graduated,630,diabetes awareness,BH
 3097,25-44,Male,Expats,Graduated,2400,diabetes awareness,BH
-3098,45+,Male,Expats,Graduated,650,diabetes awareness,BH
+3098,45+,Male,Expats,Graduated,700,diabetes awareness,BH
 3099,18-24,Female,Expats,Graduated,120,diabetes awareness,BH
-3100,25-44,Female,Expats,Graduated,1600,diabetes awareness,BH
-3101,45+,Female,Expats,Graduated,1000,diabetes awareness,BH
-3102,18-24,Male,Expats,No Degree,580,diabetes awareness,BH
-3103,25-44,Male,Expats,No Degree,1400,diabetes awareness,BH
-3104,45+,Male,Expats,No Degree,460,diabetes awareness,BH
-3105,18-24,Female,Expats,No Degree,130,diabetes awareness,BH
-3106,25-44,Female,Expats,No Degree,650,diabetes awareness,BH
-3107,45+,Female,Expats,No Degree,680,diabetes awareness,BH
-3108,18-24,Male,Expats,High School,160,diabetes awareness,BH
-3109,25-44,Male,Expats,High School,500,diabetes awareness,BH
-3110,45+,Male,Expats,High School,170,diabetes awareness,BH
-3111,18-24,Female,Expats,High School,60,diabetes awareness,BH
-3112,25-44,Female,Expats,High School,570,diabetes awareness,BH
-3113,45+,Female,Expats,High School,300,diabetes awareness,BH
-3114,18-24,Male,Locals,Graduated,80,diabetes awareness,BH
-3115,25-44,Male,Locals,Graduated,260,diabetes awareness,BH
+3100,25-44,Female,Expats,Graduated,1700,diabetes awareness,BH
+3101,45+,Female,Expats,Graduated,1100,diabetes awareness,BH
+3102,18-24,Male,Expats,No Degree,540,diabetes awareness,BH
+3103,25-44,Male,Expats,No Degree,1300,diabetes awareness,BH
+3104,45+,Male,Expats,No Degree,440,diabetes awareness,BH
+3105,18-24,Female,Expats,No Degree,140,diabetes awareness,BH
+3106,25-44,Female,Expats,No Degree,660,diabetes awareness,BH
+3107,45+,Female,Expats,No Degree,740,diabetes awareness,BH
+3108,18-24,Male,Expats,High School,150,diabetes awareness,BH
+3109,25-44,Male,Expats,High School,520,diabetes awareness,BH
+3110,45+,Male,Expats,High School,180,diabetes awareness,BH
+3111,18-24,Female,Expats,High School,50,diabetes awareness,BH
+3112,25-44,Female,Expats,High School,540,diabetes awareness,BH
+3113,45+,Female,Expats,High School,310,diabetes awareness,BH
+3114,18-24,Male,Locals,Graduated,70,diabetes awareness,BH
+3115,25-44,Male,Locals,Graduated,270,diabetes awareness,BH
 3116,45+,Male,Locals,Graduated,100,diabetes awareness,BH
-3117,18-24,Female,Locals,Graduated,70,diabetes awareness,BH
-3118,25-44,Female,Locals,Graduated,250,diabetes awareness,BH
-3119,45+,Female,Locals,Graduated,30,diabetes awareness,BH
-3120,18-24,Male,Locals,No Degree,20,diabetes awareness,BH
-3121,25-44,Male,Locals,No Degree,170,diabetes awareness,BH
+3117,18-24,Female,Locals,Graduated,90,diabetes awareness,BH
+3118,25-44,Female,Locals,Graduated,270,diabetes awareness,BH
+3119,45+,Female,Locals,Graduated,20,diabetes awareness,BH
+3120,18-24,Male,Locals,No Degree,30,diabetes awareness,BH
+3121,25-44,Male,Locals,No Degree,200,diabetes awareness,BH
 3122,45+,Male,Locals,No Degree,60,diabetes awareness,BH
-3123,18-24,Female,Locals,No Degree,20,diabetes awareness,BH
-3124,25-44,Female,Locals,No Degree,160,diabetes awareness,BH
+3123,18-24,Female,Locals,No Degree,30,diabetes awareness,BH
+3124,25-44,Female,Locals,No Degree,170,diabetes awareness,BH
 3125,45+,Female,Locals,No Degree,20,diabetes awareness,BH
 3126,18-24,Male,Locals,High School,20,diabetes awareness,BH
 3127,25-44,Male,Locals,High School,80,diabetes awareness,BH
@@ -683,379 +683,379 @@
 3129,18-24,Female,Locals,High School,50,diabetes awareness,BH
 3130,25-44,Female,Locals,High School,40,diabetes awareness,BH
 3131,45+,Female,Locals,High School,20,diabetes awareness,BH
-3132,18-24,Male,Expats,Graduated,3900,diabetes awareness,EG
-3133,25-44,Male,Expats,Graduated,7700,diabetes awareness,EG
-3134,45+,Male,Expats,Graduated,3200,diabetes awareness,EG
-3135,18-24,Female,Expats,Graduated,1800,diabetes awareness,EG
-3136,25-44,Female,Expats,Graduated,4100,diabetes awareness,EG
-3137,45+,Female,Expats,Graduated,1600,diabetes awareness,EG
-3138,18-24,Male,Expats,No Degree,2000,diabetes awareness,EG
-3139,25-44,Male,Expats,No Degree,3500,diabetes awareness,EG
-3140,45+,Male,Expats,No Degree,2200,diabetes awareness,EG
-3141,18-24,Female,Expats,No Degree,810,diabetes awareness,EG
-3142,25-44,Female,Expats,No Degree,1800,diabetes awareness,EG
-3143,45+,Female,Expats,No Degree,1800,diabetes awareness,EG
-3144,18-24,Male,Expats,High School,2400,diabetes awareness,EG
-3145,25-44,Male,Expats,High School,1700,diabetes awareness,EG
-3146,45+,Male,Expats,High School,870,diabetes awareness,EG
-3147,18-24,Female,Expats,High School,1400,diabetes awareness,EG
+3132,18-24,Male,Expats,Graduated,4200,diabetes awareness,EG
+3133,25-44,Male,Expats,Graduated,8300,diabetes awareness,EG
+3134,45+,Male,Expats,Graduated,3400,diabetes awareness,EG
+3135,18-24,Female,Expats,Graduated,1900,diabetes awareness,EG
+3136,25-44,Female,Expats,Graduated,4400,diabetes awareness,EG
+3137,45+,Female,Expats,Graduated,1700,diabetes awareness,EG
+3138,18-24,Male,Expats,No Degree,2200,diabetes awareness,EG
+3139,25-44,Male,Expats,No Degree,3700,diabetes awareness,EG
+3140,45+,Male,Expats,No Degree,2300,diabetes awareness,EG
+3141,18-24,Female,Expats,No Degree,920,diabetes awareness,EG
+3142,25-44,Female,Expats,No Degree,1900,diabetes awareness,EG
+3143,45+,Female,Expats,No Degree,2000,diabetes awareness,EG
+3144,18-24,Male,Expats,High School,2500,diabetes awareness,EG
+3145,25-44,Male,Expats,High School,1900,diabetes awareness,EG
+3146,45+,Male,Expats,High School,940,diabetes awareness,EG
+3147,18-24,Female,Expats,High School,1500,diabetes awareness,EG
 3148,25-44,Female,Expats,High School,1100,diabetes awareness,EG
 3149,45+,Female,Expats,High School,500,diabetes awareness,EG
-3150,18-24,Male,Locals,Graduated,78000,diabetes awareness,EG
-3151,25-44,Male,Locals,Graduated,150000,diabetes awareness,EG
-3152,45+,Male,Locals,Graduated,65000,diabetes awareness,EG
-3153,18-24,Female,Locals,Graduated,62000,diabetes awareness,EG
-3154,25-44,Female,Locals,Graduated,120000,diabetes awareness,EG
-3155,45+,Female,Locals,Graduated,38000,diabetes awareness,EG
-3156,18-24,Male,Locals,No Degree,50000,diabetes awareness,EG
-3157,25-44,Male,Locals,No Degree,93000,diabetes awareness,EG
-3158,45+,Male,Locals,No Degree,69000,diabetes awareness,EG
-3159,18-24,Female,Locals,No Degree,38000,diabetes awareness,EG
-3160,25-44,Female,Locals,No Degree,76000,diabetes awareness,EG
-3161,45+,Female,Locals,No Degree,59000,diabetes awareness,EG
-3162,18-24,Male,Locals,High School,55000,diabetes awareness,EG
-3163,25-44,Male,Locals,High School,34000,diabetes awareness,EG
+3150,18-24,Male,Locals,Graduated,82000,diabetes awareness,EG
+3151,25-44,Male,Locals,Graduated,160000,diabetes awareness,EG
+3152,45+,Male,Locals,Graduated,68000,diabetes awareness,EG
+3153,18-24,Female,Locals,Graduated,69000,diabetes awareness,EG
+3154,25-44,Female,Locals,Graduated,130000,diabetes awareness,EG
+3155,45+,Female,Locals,Graduated,40000,diabetes awareness,EG
+3156,18-24,Male,Locals,No Degree,53000,diabetes awareness,EG
+3157,25-44,Male,Locals,No Degree,98000,diabetes awareness,EG
+3158,45+,Male,Locals,No Degree,74000,diabetes awareness,EG
+3159,18-24,Female,Locals,No Degree,42000,diabetes awareness,EG
+3160,25-44,Female,Locals,No Degree,81000,diabetes awareness,EG
+3161,45+,Female,Locals,No Degree,63000,diabetes awareness,EG
+3162,18-24,Male,Locals,High School,58000,diabetes awareness,EG
+3163,25-44,Male,Locals,High School,37000,diabetes awareness,EG
 3164,45+,Male,Locals,High School,17000,diabetes awareness,EG
-3165,18-24,Female,Locals,High School,48000,diabetes awareness,EG
-3166,25-44,Female,Locals,High School,23000,diabetes awareness,EG
-3167,45+,Female,Locals,High School,8900,diabetes awareness,EG
-3168,18-24,Male,Expats,Graduated,4300,diabetes awareness,IQ
-3169,25-44,Male,Expats,Graduated,11000,diabetes awareness,IQ
-3170,45+,Male,Expats,Graduated,3000,diabetes awareness,IQ
-3171,18-24,Female,Expats,Graduated,800,diabetes awareness,IQ
-3172,25-44,Female,Expats,Graduated,2100,diabetes awareness,IQ
-3173,45+,Female,Expats,Graduated,520,diabetes awareness,IQ
-3174,18-24,Male,Expats,No Degree,4400,diabetes awareness,IQ
-3175,25-44,Male,Expats,No Degree,7200,diabetes awareness,IQ
-3176,45+,Male,Expats,No Degree,2200,diabetes awareness,IQ
-3177,18-24,Female,Expats,No Degree,1500,diabetes awareness,IQ
-3178,25-44,Female,Expats,No Degree,2000,diabetes awareness,IQ
-3179,45+,Female,Expats,No Degree,800,diabetes awareness,IQ
-3180,18-24,Male,Expats,High School,2300,diabetes awareness,IQ
-3181,25-44,Male,Expats,High School,3200,diabetes awareness,IQ
-3182,45+,Male,Expats,High School,950,diabetes awareness,IQ
-3183,18-24,Female,Expats,High School,690,diabetes awareness,IQ
-3184,25-44,Female,Expats,High School,550,diabetes awareness,IQ
-3185,45+,Female,Expats,High School,170,diabetes awareness,IQ
-3186,18-24,Male,Locals,Graduated,41000,diabetes awareness,IQ
-3187,25-44,Male,Locals,Graduated,120000,diabetes awareness,IQ
-3188,45+,Male,Locals,Graduated,37000,diabetes awareness,IQ
-3189,18-24,Female,Locals,Graduated,11000,diabetes awareness,IQ
-3190,25-44,Female,Locals,Graduated,29000,diabetes awareness,IQ
-3191,45+,Female,Locals,Graduated,10000,diabetes awareness,IQ
-3192,18-24,Male,Locals,No Degree,80000,diabetes awareness,IQ
-3193,25-44,Male,Locals,No Degree,130000,diabetes awareness,IQ
-3194,45+,Male,Locals,No Degree,63000,diabetes awareness,IQ
-3195,18-24,Female,Locals,No Degree,28000,diabetes awareness,IQ
-3196,25-44,Female,Locals,No Degree,40000,diabetes awareness,IQ
-3197,45+,Female,Locals,No Degree,22000,diabetes awareness,IQ
-3198,18-24,Male,Locals,High School,26000,diabetes awareness,IQ
-3199,25-44,Male,Locals,High School,36000,diabetes awareness,IQ
-3200,45+,Male,Locals,High School,13000,diabetes awareness,IQ
-3201,18-24,Female,Locals,High School,11000,diabetes awareness,IQ
-3202,25-44,Female,Locals,High School,9900,diabetes awareness,IQ
-3203,45+,Female,Locals,High School,3400,diabetes awareness,IQ
-3204,18-24,Male,Expats,Graduated,1800,diabetes awareness,JO
-3205,25-44,Male,Expats,Graduated,8600,diabetes awareness,JO
-3206,45+,Male,Expats,Graduated,2600,diabetes awareness,JO
-3207,18-24,Female,Expats,Graduated,910,diabetes awareness,JO
-3208,25-44,Female,Expats,Graduated,4000,diabetes awareness,JO
-3209,45+,Female,Expats,Graduated,2100,diabetes awareness,JO
-3210,18-24,Male,Expats,No Degree,2700,diabetes awareness,JO
-3211,25-44,Male,Expats,No Degree,9000,diabetes awareness,JO
-3212,45+,Male,Expats,No Degree,3800,diabetes awareness,JO
-3213,18-24,Female,Expats,No Degree,720,diabetes awareness,JO
-3214,25-44,Female,Expats,No Degree,3300,diabetes awareness,JO
-3215,45+,Female,Expats,No Degree,3500,diabetes awareness,JO
-3216,18-24,Male,Expats,High School,1600,diabetes awareness,JO
-3217,25-44,Male,Expats,High School,2700,diabetes awareness,JO
-3218,45+,Male,Expats,High School,1000,diabetes awareness,JO
-3219,18-24,Female,Expats,High School,970,diabetes awareness,JO
-3220,25-44,Female,Expats,High School,1200,diabetes awareness,JO
-3221,45+,Female,Expats,High School,870,diabetes awareness,JO
-3222,18-24,Male,Locals,Graduated,7500,diabetes awareness,JO
-3223,25-44,Male,Locals,Graduated,25000,diabetes awareness,JO
-3224,45+,Male,Locals,Graduated,9200,diabetes awareness,JO
-3225,18-24,Female,Locals,Graduated,3500,diabetes awareness,JO
-3226,25-44,Female,Locals,Graduated,14000,diabetes awareness,JO
-3227,45+,Female,Locals,Graduated,4600,diabetes awareness,JO
-3228,18-24,Male,Locals,No Degree,10000,diabetes awareness,JO
-3229,25-44,Male,Locals,No Degree,23000,diabetes awareness,JO
-3230,45+,Male,Locals,No Degree,15000,diabetes awareness,JO
-3231,18-24,Female,Locals,No Degree,4500,diabetes awareness,JO
-3232,25-44,Female,Locals,No Degree,14000,diabetes awareness,JO
-3233,45+,Female,Locals,No Degree,11000,diabetes awareness,JO
-3234,18-24,Male,Locals,High School,5700,diabetes awareness,JO
-3235,25-44,Male,Locals,High School,8800,diabetes awareness,JO
-3236,45+,Male,Locals,High School,4000,diabetes awareness,JO
-3237,18-24,Female,Locals,High School,3900,diabetes awareness,JO
-3238,25-44,Female,Locals,High School,4500,diabetes awareness,JO
-3239,45+,Female,Locals,High School,1900,diabetes awareness,JO
-3240,18-24,Male,Expats,Graduated,1600,diabetes awareness,KW
+3165,18-24,Female,Locals,High School,52000,diabetes awareness,EG
+3166,25-44,Female,Locals,High School,25000,diabetes awareness,EG
+3167,45+,Female,Locals,High School,9400,diabetes awareness,EG
+3168,18-24,Male,Expats,Graduated,4600,diabetes awareness,IQ
+3169,25-44,Male,Expats,Graduated,12000,diabetes awareness,IQ
+3170,45+,Male,Expats,Graduated,3300,diabetes awareness,IQ
+3171,18-24,Female,Expats,Graduated,880,diabetes awareness,IQ
+3172,25-44,Female,Expats,Graduated,2300,diabetes awareness,IQ
+3173,45+,Female,Expats,Graduated,580,diabetes awareness,IQ
+3174,18-24,Male,Expats,No Degree,4800,diabetes awareness,IQ
+3175,25-44,Male,Expats,No Degree,7900,diabetes awareness,IQ
+3176,45+,Male,Expats,No Degree,2500,diabetes awareness,IQ
+3177,18-24,Female,Expats,No Degree,1600,diabetes awareness,IQ
+3178,25-44,Female,Expats,No Degree,2200,diabetes awareness,IQ
+3179,45+,Female,Expats,No Degree,940,diabetes awareness,IQ
+3180,18-24,Male,Expats,High School,2500,diabetes awareness,IQ
+3181,25-44,Male,Expats,High School,3600,diabetes awareness,IQ
+3182,45+,Male,Expats,High School,1000,diabetes awareness,IQ
+3183,18-24,Female,Expats,High School,740,diabetes awareness,IQ
+3184,25-44,Female,Expats,High School,650,diabetes awareness,IQ
+3185,45+,Female,Expats,High School,180,diabetes awareness,IQ
+3186,18-24,Male,Locals,Graduated,45000,diabetes awareness,IQ
+3187,25-44,Male,Locals,Graduated,130000,diabetes awareness,IQ
+3188,45+,Male,Locals,Graduated,41000,diabetes awareness,IQ
+3189,18-24,Female,Locals,Graduated,13000,diabetes awareness,IQ
+3190,25-44,Female,Locals,Graduated,32000,diabetes awareness,IQ
+3191,45+,Female,Locals,Graduated,11000,diabetes awareness,IQ
+3192,18-24,Male,Locals,No Degree,88000,diabetes awareness,IQ
+3193,25-44,Male,Locals,No Degree,150000,diabetes awareness,IQ
+3194,45+,Male,Locals,No Degree,70000,diabetes awareness,IQ
+3195,18-24,Female,Locals,No Degree,31000,diabetes awareness,IQ
+3196,25-44,Female,Locals,No Degree,45000,diabetes awareness,IQ
+3197,45+,Female,Locals,No Degree,25000,diabetes awareness,IQ
+3198,18-24,Male,Locals,High School,29000,diabetes awareness,IQ
+3199,25-44,Male,Locals,High School,41000,diabetes awareness,IQ
+3200,45+,Male,Locals,High School,14000,diabetes awareness,IQ
+3201,18-24,Female,Locals,High School,12000,diabetes awareness,IQ
+3202,25-44,Female,Locals,High School,11000,diabetes awareness,IQ
+3203,45+,Female,Locals,High School,4000,diabetes awareness,IQ
+3204,18-24,Male,Expats,Graduated,2000,diabetes awareness,JO
+3205,25-44,Male,Expats,Graduated,9500,diabetes awareness,JO
+3206,45+,Male,Expats,Graduated,2800,diabetes awareness,JO
+3207,18-24,Female,Expats,Graduated,950,diabetes awareness,JO
+3208,25-44,Female,Expats,Graduated,4300,diabetes awareness,JO
+3209,45+,Female,Expats,Graduated,2300,diabetes awareness,JO
+3210,18-24,Male,Expats,No Degree,2900,diabetes awareness,JO
+3211,25-44,Male,Expats,No Degree,10000,diabetes awareness,JO
+3212,45+,Male,Expats,No Degree,4300,diabetes awareness,JO
+3213,18-24,Female,Expats,No Degree,760,diabetes awareness,JO
+3214,25-44,Female,Expats,No Degree,3800,diabetes awareness,JO
+3215,45+,Female,Expats,No Degree,3800,diabetes awareness,JO
+3216,18-24,Male,Expats,High School,1700,diabetes awareness,JO
+3217,25-44,Male,Expats,High School,3100,diabetes awareness,JO
+3218,45+,Male,Expats,High School,1100,diabetes awareness,JO
+3219,18-24,Female,Expats,High School,1000,diabetes awareness,JO
+3220,25-44,Female,Expats,High School,1400,diabetes awareness,JO
+3221,45+,Female,Expats,High School,900,diabetes awareness,JO
+3222,18-24,Male,Locals,Graduated,7900,diabetes awareness,JO
+3223,25-44,Male,Locals,Graduated,28000,diabetes awareness,JO
+3224,45+,Male,Locals,Graduated,10000,diabetes awareness,JO
+3225,18-24,Female,Locals,Graduated,3600,diabetes awareness,JO
+3226,25-44,Female,Locals,Graduated,16000,diabetes awareness,JO
+3227,45+,Female,Locals,Graduated,4900,diabetes awareness,JO
+3228,18-24,Male,Locals,No Degree,11000,diabetes awareness,JO
+3229,25-44,Male,Locals,No Degree,26000,diabetes awareness,JO
+3230,45+,Male,Locals,No Degree,16000,diabetes awareness,JO
+3231,18-24,Female,Locals,No Degree,4700,diabetes awareness,JO
+3232,25-44,Female,Locals,No Degree,17000,diabetes awareness,JO
+3233,45+,Female,Locals,No Degree,12000,diabetes awareness,JO
+3234,18-24,Male,Locals,High School,6000,diabetes awareness,JO
+3235,25-44,Male,Locals,High School,9500,diabetes awareness,JO
+3236,45+,Male,Locals,High School,4300,diabetes awareness,JO
+3237,18-24,Female,Locals,High School,4000,diabetes awareness,JO
+3238,25-44,Female,Locals,High School,5200,diabetes awareness,JO
+3239,45+,Female,Locals,High School,2100,diabetes awareness,JO
+3240,18-24,Male,Expats,Graduated,1700,diabetes awareness,KW
 3241,25-44,Male,Expats,Graduated,12000,diabetes awareness,KW
 3242,45+,Male,Expats,Graduated,3000,diabetes awareness,KW
-3243,18-24,Female,Expats,Graduated,450,diabetes awareness,KW
-3244,25-44,Female,Expats,Graduated,9100,diabetes awareness,KW
-3245,45+,Female,Expats,Graduated,3200,diabetes awareness,KW
+3243,18-24,Female,Expats,Graduated,460,diabetes awareness,KW
+3244,25-44,Female,Expats,Graduated,9700,diabetes awareness,KW
+3245,45+,Female,Expats,Graduated,3400,diabetes awareness,KW
 3246,18-24,Male,Expats,No Degree,3900,diabetes awareness,KW
 3247,25-44,Male,Expats,No Degree,15000,diabetes awareness,KW
-3248,45+,Male,Expats,No Degree,3700,diabetes awareness,KW
-3249,18-24,Female,Expats,No Degree,620,diabetes awareness,KW
-3250,25-44,Female,Expats,No Degree,5100,diabetes awareness,KW
-3251,45+,Female,Expats,No Degree,2100,diabetes awareness,KW
+3248,45+,Male,Expats,No Degree,3800,diabetes awareness,KW
+3249,18-24,Female,Expats,No Degree,630,diabetes awareness,KW
+3250,25-44,Female,Expats,No Degree,5400,diabetes awareness,KW
+3251,45+,Female,Expats,No Degree,2300,diabetes awareness,KW
 3252,18-24,Male,Expats,High School,610,diabetes awareness,KW
 3253,25-44,Male,Expats,High School,3700,diabetes awareness,KW
-3254,45+,Male,Expats,High School,680,diabetes awareness,KW
-3255,18-24,Female,Expats,High School,360,diabetes awareness,KW
-3256,25-44,Female,Expats,High School,3100,diabetes awareness,KW
+3254,45+,Male,Expats,High School,690,diabetes awareness,KW
+3255,18-24,Female,Expats,High School,370,diabetes awareness,KW
+3256,25-44,Female,Expats,High School,3400,diabetes awareness,KW
 3257,45+,Female,Expats,High School,1200,diabetes awareness,KW
 3258,18-24,Male,Locals,Graduated,60,diabetes awareness,KW
-3259,25-44,Male,Locals,Graduated,370,diabetes awareness,KW
-3260,45+,Male,Locals,Graduated,120,diabetes awareness,KW
+3259,25-44,Male,Locals,Graduated,380,diabetes awareness,KW
+3260,45+,Male,Locals,Graduated,110,diabetes awareness,KW
 3261,18-24,Female,Locals,Graduated,20,diabetes awareness,KW
-3262,25-44,Female,Locals,Graduated,180,diabetes awareness,KW
+3262,25-44,Female,Locals,Graduated,170,diabetes awareness,KW
 3263,45+,Female,Locals,Graduated,110,diabetes awareness,KW
-3264,18-24,Male,Locals,No Degree,40,diabetes awareness,KW
-3265,25-44,Male,Locals,No Degree,490,diabetes awareness,KW
+3264,18-24,Male,Locals,No Degree,50,diabetes awareness,KW
+3265,25-44,Male,Locals,No Degree,510,diabetes awareness,KW
 3266,45+,Male,Locals,No Degree,210,diabetes awareness,KW
 3267,18-24,Female,Locals,No Degree,20,diabetes awareness,KW
-3268,25-44,Female,Locals,No Degree,370,diabetes awareness,KW
-3269,45+,Female,Locals,No Degree,120,diabetes awareness,KW
-3270,18-24,Male,Locals,High School,20,diabetes awareness,KW
-3271,25-44,Male,Locals,High School,110,diabetes awareness,KW
+3268,25-44,Female,Locals,No Degree,360,diabetes awareness,KW
+3269,45+,Female,Locals,No Degree,110,diabetes awareness,KW
+3270,18-24,Male,Locals,High School,30,diabetes awareness,KW
+3271,25-44,Male,Locals,High School,100,diabetes awareness,KW
 3272,45+,Male,Locals,High School,70,diabetes awareness,KW
 3273,18-24,Female,Locals,High School,20,diabetes awareness,KW
 3274,25-44,Female,Locals,High School,90,diabetes awareness,KW
 3275,45+,Female,Locals,High School,20,diabetes awareness,KW
-3276,18-24,Male,Expats,Graduated,650,diabetes awareness,LB
-3277,25-44,Male,Expats,Graduated,1400,diabetes awareness,LB
-3278,45+,Male,Expats,Graduated,440,diabetes awareness,LB
-3279,18-24,Female,Expats,Graduated,240,diabetes awareness,LB
-3280,25-44,Female,Expats,Graduated,1000,diabetes awareness,LB
+3276,18-24,Male,Expats,Graduated,740,diabetes awareness,LB
+3277,25-44,Male,Expats,Graduated,1700,diabetes awareness,LB
+3278,45+,Male,Expats,Graduated,540,diabetes awareness,LB
+3279,18-24,Female,Expats,Graduated,270,diabetes awareness,LB
+3280,25-44,Female,Expats,Graduated,1100,diabetes awareness,LB
 3281,45+,Female,Expats,Graduated,810,diabetes awareness,LB
-3282,18-24,Male,Expats,No Degree,960,diabetes awareness,LB
-3283,25-44,Male,Expats,No Degree,2300,diabetes awareness,LB
-3284,45+,Male,Expats,No Degree,780,diabetes awareness,LB
-3285,18-24,Female,Expats,No Degree,440,diabetes awareness,LB
-3286,25-44,Female,Expats,No Degree,1300,diabetes awareness,LB
-3287,45+,Female,Expats,No Degree,1300,diabetes awareness,LB
-3288,18-24,Male,Expats,High School,330,diabetes awareness,LB
-3289,25-44,Male,Expats,High School,650,diabetes awareness,LB
-3290,45+,Male,Expats,High School,160,diabetes awareness,LB
-3291,18-24,Female,Expats,High School,170,diabetes awareness,LB
-3292,25-44,Female,Expats,High School,450,diabetes awareness,LB
-3293,45+,Female,Expats,High School,300,diabetes awareness,LB
-3294,18-24,Male,Locals,Graduated,1000,diabetes awareness,LB
-3295,25-44,Male,Locals,Graduated,2600,diabetes awareness,LB
-3296,45+,Male,Locals,Graduated,1500,diabetes awareness,LB
-3297,18-24,Female,Locals,Graduated,1500,diabetes awareness,LB
-3298,25-44,Female,Locals,Graduated,4900,diabetes awareness,LB
-3299,45+,Female,Locals,Graduated,3900,diabetes awareness,LB
-3300,18-24,Male,Locals,No Degree,2000,diabetes awareness,LB
-3301,25-44,Male,Locals,No Degree,3200,diabetes awareness,LB
-3302,45+,Male,Locals,No Degree,3100,diabetes awareness,LB
-3303,18-24,Female,Locals,No Degree,2100,diabetes awareness,LB
-3304,25-44,Female,Locals,No Degree,5300,diabetes awareness,LB
-3305,45+,Female,Locals,No Degree,8400,diabetes awareness,LB
-3306,18-24,Male,Locals,High School,750,diabetes awareness,LB
-3307,25-44,Male,Locals,High School,880,diabetes awareness,LB
-3308,45+,Male,Locals,High School,610,diabetes awareness,LB
-3309,18-24,Female,Locals,High School,1600,diabetes awareness,LB
-3310,25-44,Female,Locals,High School,970,diabetes awareness,LB
-3311,45+,Female,Locals,High School,1200,diabetes awareness,LB
-3312,18-24,Male,Expats,Graduated,790,diabetes awareness,LY
-3313,25-44,Male,Expats,Graduated,2500,diabetes awareness,LY
-3314,45+,Male,Expats,Graduated,730,diabetes awareness,LY
-3315,18-24,Female,Expats,Graduated,280,diabetes awareness,LY
-3316,25-44,Female,Expats,Graduated,1100,diabetes awareness,LY
-3317,45+,Female,Expats,Graduated,320,diabetes awareness,LY
-3318,18-24,Male,Expats,No Degree,800,diabetes awareness,LY
-3319,25-44,Male,Expats,No Degree,2400,diabetes awareness,LY
-3320,45+,Male,Expats,No Degree,870,diabetes awareness,LY
-3321,18-24,Female,Expats,No Degree,420,diabetes awareness,LY
-3322,25-44,Female,Expats,No Degree,1100,diabetes awareness,LY
-3323,45+,Female,Expats,No Degree,410,diabetes awareness,LY
-3324,18-24,Male,Expats,High School,220,diabetes awareness,LY
-3325,25-44,Male,Expats,High School,620,diabetes awareness,LY
-3326,45+,Male,Expats,High School,190,diabetes awareness,LY
-3327,18-24,Female,Expats,High School,180,diabetes awareness,LY
-3328,25-44,Female,Expats,High School,310,diabetes awareness,LY
-3329,45+,Female,Expats,High School,90,diabetes awareness,LY
-3330,18-24,Male,Locals,Graduated,3700,diabetes awareness,LY
-3331,25-44,Male,Locals,Graduated,14000,diabetes awareness,LY
-3332,45+,Male,Locals,Graduated,5000,diabetes awareness,LY
-3333,18-24,Female,Locals,Graduated,4100,diabetes awareness,LY
-3334,25-44,Female,Locals,Graduated,13000,diabetes awareness,LY
-3335,45+,Female,Locals,Graduated,2300,diabetes awareness,LY
-3336,18-24,Male,Locals,No Degree,3900,diabetes awareness,LY
-3337,25-44,Male,Locals,No Degree,12000,diabetes awareness,LY
-3338,45+,Male,Locals,No Degree,5800,diabetes awareness,LY
-3339,18-24,Female,Locals,No Degree,3900,diabetes awareness,LY
-3340,25-44,Female,Locals,No Degree,13000,diabetes awareness,LY
-3341,45+,Female,Locals,No Degree,6100,diabetes awareness,LY
-3342,18-24,Male,Locals,High School,2100,diabetes awareness,LY
-3343,25-44,Male,Locals,High School,3100,diabetes awareness,LY
+3282,18-24,Male,Expats,No Degree,1200,diabetes awareness,LB
+3283,25-44,Male,Expats,No Degree,2700,diabetes awareness,LB
+3284,45+,Male,Expats,No Degree,900,diabetes awareness,LB
+3285,18-24,Female,Expats,No Degree,450,diabetes awareness,LB
+3286,25-44,Female,Expats,No Degree,1400,diabetes awareness,LB
+3287,45+,Female,Expats,No Degree,1400,diabetes awareness,LB
+3288,18-24,Male,Expats,High School,350,diabetes awareness,LB
+3289,25-44,Male,Expats,High School,870,diabetes awareness,LB
+3290,45+,Male,Expats,High School,210,diabetes awareness,LB
+3291,18-24,Female,Expats,High School,180,diabetes awareness,LB
+3292,25-44,Female,Expats,High School,500,diabetes awareness,LB
+3293,45+,Female,Expats,High School,320,diabetes awareness,LB
+3294,18-24,Male,Locals,Graduated,1200,diabetes awareness,LB
+3295,25-44,Male,Locals,Graduated,3200,diabetes awareness,LB
+3296,45+,Male,Locals,Graduated,1800,diabetes awareness,LB
+3297,18-24,Female,Locals,Graduated,1700,diabetes awareness,LB
+3298,25-44,Female,Locals,Graduated,5400,diabetes awareness,LB
+3299,45+,Female,Locals,Graduated,4100,diabetes awareness,LB
+3300,18-24,Male,Locals,No Degree,2300,diabetes awareness,LB
+3301,25-44,Male,Locals,No Degree,4100,diabetes awareness,LB
+3302,45+,Male,Locals,No Degree,3700,diabetes awareness,LB
+3303,18-24,Female,Locals,No Degree,2400,diabetes awareness,LB
+3304,25-44,Female,Locals,No Degree,5800,diabetes awareness,LB
+3305,45+,Female,Locals,No Degree,8800,diabetes awareness,LB
+3306,18-24,Male,Locals,High School,940,diabetes awareness,LB
+3307,25-44,Male,Locals,High School,1000,diabetes awareness,LB
+3308,45+,Male,Locals,High School,660,diabetes awareness,LB
+3309,18-24,Female,Locals,High School,1700,diabetes awareness,LB
+3310,25-44,Female,Locals,High School,1200,diabetes awareness,LB
+3311,45+,Female,Locals,High School,1300,diabetes awareness,LB
+3312,18-24,Male,Expats,Graduated,870,diabetes awareness,LY
+3313,25-44,Male,Expats,Graduated,2600,diabetes awareness,LY
+3314,45+,Male,Expats,Graduated,770,diabetes awareness,LY
+3315,18-24,Female,Expats,Graduated,310,diabetes awareness,LY
+3316,25-44,Female,Expats,Graduated,1200,diabetes awareness,LY
+3317,45+,Female,Expats,Graduated,330,diabetes awareness,LY
+3318,18-24,Male,Expats,No Degree,810,diabetes awareness,LY
+3319,25-44,Male,Expats,No Degree,2600,diabetes awareness,LY
+3320,45+,Male,Expats,No Degree,890,diabetes awareness,LY
+3321,18-24,Female,Expats,No Degree,450,diabetes awareness,LY
+3322,25-44,Female,Expats,No Degree,1200,diabetes awareness,LY
+3323,45+,Female,Expats,No Degree,430,diabetes awareness,LY
+3324,18-24,Male,Expats,High School,250,diabetes awareness,LY
+3325,25-44,Male,Expats,High School,640,diabetes awareness,LY
+3326,45+,Male,Expats,High School,210,diabetes awareness,LY
+3327,18-24,Female,Expats,High School,210,diabetes awareness,LY
+3328,25-44,Female,Expats,High School,330,diabetes awareness,LY
+3329,45+,Female,Expats,High School,110,diabetes awareness,LY
+3330,18-24,Male,Locals,Graduated,3900,diabetes awareness,LY
+3331,25-44,Male,Locals,Graduated,15000,diabetes awareness,LY
+3332,45+,Male,Locals,Graduated,5200,diabetes awareness,LY
+3333,18-24,Female,Locals,Graduated,4400,diabetes awareness,LY
+3334,25-44,Female,Locals,Graduated,14000,diabetes awareness,LY
+3335,45+,Female,Locals,Graduated,2400,diabetes awareness,LY
+3336,18-24,Male,Locals,No Degree,4300,diabetes awareness,LY
+3337,25-44,Male,Locals,No Degree,13000,diabetes awareness,LY
+3338,45+,Male,Locals,No Degree,6300,diabetes awareness,LY
+3339,18-24,Female,Locals,No Degree,4300,diabetes awareness,LY
+3340,25-44,Female,Locals,No Degree,14000,diabetes awareness,LY
+3341,45+,Female,Locals,No Degree,6600,diabetes awareness,LY
+3342,18-24,Male,Locals,High School,2300,diabetes awareness,LY
+3343,25-44,Male,Locals,High School,3300,diabetes awareness,LY
 3344,45+,Male,Locals,High School,1400,diabetes awareness,LY
-3345,18-24,Female,Locals,High School,2900,diabetes awareness,LY
-3346,25-44,Female,Locals,High School,3200,diabetes awareness,LY
-3347,45+,Female,Locals,High School,970,diabetes awareness,LY
-3348,18-24,Male,Expats,Graduated,2700,diabetes awareness,MA
-3349,25-44,Male,Expats,Graduated,2400,diabetes awareness,MA
-3350,45+,Male,Expats,Graduated,810,diabetes awareness,MA
-3351,18-24,Female,Expats,Graduated,920,diabetes awareness,MA
-3352,25-44,Female,Expats,Graduated,1300,diabetes awareness,MA
-3353,45+,Female,Expats,Graduated,400,diabetes awareness,MA
+3345,18-24,Female,Locals,High School,3100,diabetes awareness,LY
+3346,25-44,Female,Locals,High School,3400,diabetes awareness,LY
+3347,45+,Female,Locals,High School,980,diabetes awareness,LY
+3348,18-24,Male,Expats,Graduated,2900,diabetes awareness,MA
+3349,25-44,Male,Expats,Graduated,2600,diabetes awareness,MA
+3350,45+,Male,Expats,Graduated,910,diabetes awareness,MA
+3351,18-24,Female,Expats,Graduated,1100,diabetes awareness,MA
+3352,25-44,Female,Expats,Graduated,1400,diabetes awareness,MA
+3353,45+,Female,Expats,Graduated,450,diabetes awareness,MA
 3354,18-24,Male,Expats,No Degree,1300,diabetes awareness,MA
-3355,25-44,Male,Expats,No Degree,1600,diabetes awareness,MA
-3356,45+,Male,Expats,No Degree,630,diabetes awareness,MA
-3357,18-24,Female,Expats,No Degree,550,diabetes awareness,MA
-3358,25-44,Female,Expats,No Degree,1000,diabetes awareness,MA
-3359,45+,Female,Expats,No Degree,360,diabetes awareness,MA
-3360,18-24,Male,Expats,High School,940,diabetes awareness,MA
-3361,25-44,Male,Expats,High School,580,diabetes awareness,MA
-3362,45+,Male,Expats,High School,200,diabetes awareness,MA
-3363,18-24,Female,Expats,High School,240,diabetes awareness,MA
-3364,25-44,Female,Expats,High School,340,diabetes awareness,MA
-3365,45+,Female,Expats,High School,90,diabetes awareness,MA
-3366,18-24,Male,Locals,Graduated,17000,diabetes awareness,MA
-3367,25-44,Male,Locals,Graduated,22000,diabetes awareness,MA
-3368,45+,Male,Locals,Graduated,10000,diabetes awareness,MA
-3369,18-24,Female,Locals,Graduated,12000,diabetes awareness,MA
-3370,25-44,Female,Locals,Graduated,14000,diabetes awareness,MA
-3371,45+,Female,Locals,Graduated,3800,diabetes awareness,MA
-3372,18-24,Male,Locals,No Degree,16000,diabetes awareness,MA
-3373,25-44,Male,Locals,No Degree,23000,diabetes awareness,MA
-3374,45+,Male,Locals,No Degree,13000,diabetes awareness,MA
-3375,18-24,Female,Locals,No Degree,10000,diabetes awareness,MA
-3376,25-44,Female,Locals,No Degree,13000,diabetes awareness,MA
-3377,45+,Female,Locals,No Degree,6100,diabetes awareness,MA
-3378,18-24,Male,Locals,High School,7300,diabetes awareness,MA
-3379,25-44,Male,Locals,High School,6400,diabetes awareness,MA
-3380,45+,Male,Locals,High School,3300,diabetes awareness,MA
-3381,18-24,Female,Locals,High School,5100,diabetes awareness,MA
-3382,25-44,Female,Locals,High School,3700,diabetes awareness,MA
-3383,45+,Female,Locals,High School,1500,diabetes awareness,MA
-3384,18-24,Male,Expats,Graduated,840,diabetes awareness,OM
-3385,25-44,Male,Expats,Graduated,4500,diabetes awareness,OM
+3355,25-44,Male,Expats,No Degree,1800,diabetes awareness,MA
+3356,45+,Male,Expats,No Degree,740,diabetes awareness,MA
+3357,18-24,Female,Expats,No Degree,650,diabetes awareness,MA
+3358,25-44,Female,Expats,No Degree,1200,diabetes awareness,MA
+3359,45+,Female,Expats,No Degree,390,diabetes awareness,MA
+3360,18-24,Male,Expats,High School,1100,diabetes awareness,MA
+3361,25-44,Male,Expats,High School,590,diabetes awareness,MA
+3362,45+,Male,Expats,High School,270,diabetes awareness,MA
+3363,18-24,Female,Expats,High School,340,diabetes awareness,MA
+3364,25-44,Female,Expats,High School,320,diabetes awareness,MA
+3365,45+,Female,Expats,High School,80,diabetes awareness,MA
+3366,18-24,Male,Locals,Graduated,19000,diabetes awareness,MA
+3367,25-44,Male,Locals,Graduated,24000,diabetes awareness,MA
+3368,45+,Male,Locals,Graduated,11000,diabetes awareness,MA
+3369,18-24,Female,Locals,Graduated,14000,diabetes awareness,MA
+3370,25-44,Female,Locals,Graduated,17000,diabetes awareness,MA
+3371,45+,Female,Locals,Graduated,4400,diabetes awareness,MA
+3372,18-24,Male,Locals,No Degree,17000,diabetes awareness,MA
+3373,25-44,Male,Locals,No Degree,25000,diabetes awareness,MA
+3374,45+,Male,Locals,No Degree,15000,diabetes awareness,MA
+3375,18-24,Female,Locals,No Degree,12000,diabetes awareness,MA
+3376,25-44,Female,Locals,No Degree,15000,diabetes awareness,MA
+3377,45+,Female,Locals,No Degree,7000,diabetes awareness,MA
+3378,18-24,Male,Locals,High School,8200,diabetes awareness,MA
+3379,25-44,Male,Locals,High School,7000,diabetes awareness,MA
+3380,45+,Male,Locals,High School,3700,diabetes awareness,MA
+3381,18-24,Female,Locals,High School,6600,diabetes awareness,MA
+3382,25-44,Female,Locals,High School,4600,diabetes awareness,MA
+3383,45+,Female,Locals,High School,1700,diabetes awareness,MA
+3384,18-24,Male,Expats,Graduated,810,diabetes awareness,OM
+3385,25-44,Male,Expats,Graduated,4400,diabetes awareness,OM
 3386,45+,Male,Expats,Graduated,1200,diabetes awareness,OM
-3387,18-24,Female,Expats,Graduated,150,diabetes awareness,OM
+3387,18-24,Female,Expats,Graduated,140,diabetes awareness,OM
 3388,25-44,Female,Expats,Graduated,3900,diabetes awareness,OM
 3389,45+,Female,Expats,Graduated,1300,diabetes awareness,OM
 3390,18-24,Male,Expats,No Degree,1200,diabetes awareness,OM
-3391,25-44,Male,Expats,No Degree,3100,diabetes awareness,OM
-3392,45+,Male,Expats,No Degree,680,diabetes awareness,OM
+3391,25-44,Male,Expats,No Degree,2900,diabetes awareness,OM
+3392,45+,Male,Expats,No Degree,640,diabetes awareness,OM
 3393,18-24,Female,Expats,No Degree,230,diabetes awareness,OM
 3394,25-44,Female,Expats,No Degree,1500,diabetes awareness,OM
-3395,45+,Female,Expats,No Degree,910,diabetes awareness,OM
-3396,18-24,Male,Expats,High School,320,diabetes awareness,OM
-3397,25-44,Male,Expats,High School,1000,diabetes awareness,OM
+3395,45+,Female,Expats,No Degree,890,diabetes awareness,OM
+3396,18-24,Male,Expats,High School,330,diabetes awareness,OM
+3397,25-44,Male,Expats,High School,990,diabetes awareness,OM
 3398,45+,Male,Expats,High School,250,diabetes awareness,OM
-3399,18-24,Female,Expats,High School,150,diabetes awareness,OM
+3399,18-24,Female,Expats,High School,170,diabetes awareness,OM
 3400,25-44,Female,Expats,High School,720,diabetes awareness,OM
-3401,45+,Female,Expats,High School,340,diabetes awareness,OM
-3402,18-24,Male,Locals,Graduated,120,diabetes awareness,OM
-3403,25-44,Male,Locals,Graduated,540,diabetes awareness,OM
+3401,45+,Female,Expats,High School,350,diabetes awareness,OM
+3402,18-24,Male,Locals,Graduated,130,diabetes awareness,OM
+3403,25-44,Male,Locals,Graduated,550,diabetes awareness,OM
 3404,45+,Male,Locals,Graduated,90,diabetes awareness,OM
 3405,18-24,Female,Locals,Graduated,60,diabetes awareness,OM
 3406,25-44,Female,Locals,Graduated,100,diabetes awareness,OM
 3407,45+,Female,Locals,Graduated,20,diabetes awareness,OM
-3408,18-24,Male,Locals,No Degree,100,diabetes awareness,OM
-3409,25-44,Male,Locals,No Degree,370,diabetes awareness,OM
+3408,18-24,Male,Locals,No Degree,110,diabetes awareness,OM
+3409,25-44,Male,Locals,No Degree,350,diabetes awareness,OM
 3410,45+,Male,Locals,No Degree,80,diabetes awareness,OM
 3411,18-24,Female,Locals,No Degree,20,diabetes awareness,OM
 3412,25-44,Female,Locals,No Degree,50,diabetes awareness,OM
-3413,45+,Female,Locals,No Degree,20,diabetes awareness,OM
-3414,18-24,Male,Locals,High School,100,diabetes awareness,OM
-3415,25-44,Male,Locals,High School,210,diabetes awareness,OM
+3413,45+,Female,Locals,No Degree,30,diabetes awareness,OM
+3414,18-24,Male,Locals,High School,110,diabetes awareness,OM
+3415,25-44,Male,Locals,High School,200,diabetes awareness,OM
 3416,45+,Male,Locals,High School,50,diabetes awareness,OM
 3417,18-24,Female,Locals,High School,20,diabetes awareness,OM
-3418,25-44,Female,Locals,High School,40,diabetes awareness,OM
+3418,25-44,Female,Locals,High School,50,diabetes awareness,OM
 3419,45+,Female,Locals,High School,20,diabetes awareness,OM
-3420,18-24,Male,Expats,Graduated,2300,diabetes awareness,QA
-3421,25-44,Male,Expats,Graduated,13000,diabetes awareness,QA
+3420,18-24,Male,Expats,Graduated,2600,diabetes awareness,QA
+3421,25-44,Male,Expats,Graduated,14000,diabetes awareness,QA
 3422,45+,Male,Expats,Graduated,3100,diabetes awareness,QA
-3423,18-24,Female,Expats,Graduated,510,diabetes awareness,QA
-3424,25-44,Female,Expats,Graduated,7000,diabetes awareness,QA
-3425,45+,Female,Expats,Graduated,1900,diabetes awareness,QA
-3426,18-24,Male,Expats,No Degree,3900,diabetes awareness,QA
-3427,25-44,Male,Expats,No Degree,10000,diabetes awareness,QA
+3423,18-24,Female,Expats,Graduated,620,diabetes awareness,QA
+3424,25-44,Female,Expats,Graduated,7800,diabetes awareness,QA
+3425,45+,Female,Expats,Graduated,2100,diabetes awareness,QA
+3426,18-24,Male,Expats,No Degree,4200,diabetes awareness,QA
+3427,25-44,Male,Expats,No Degree,11000,diabetes awareness,QA
 3428,45+,Male,Expats,No Degree,2200,diabetes awareness,QA
-3429,18-24,Female,Expats,No Degree,540,diabetes awareness,QA
-3430,25-44,Female,Expats,No Degree,2200,diabetes awareness,QA
-3431,45+,Female,Expats,No Degree,1200,diabetes awareness,QA
-3432,18-24,Male,Expats,High School,860,diabetes awareness,QA
-3433,25-44,Male,Expats,High School,3000,diabetes awareness,QA
-3434,45+,Male,Expats,High School,770,diabetes awareness,QA
-3435,18-24,Female,Expats,High School,270,diabetes awareness,QA
-3436,25-44,Female,Expats,High School,1700,diabetes awareness,QA
-3437,45+,Female,Expats,High School,620,diabetes awareness,QA
-3438,18-24,Male,Locals,Graduated,30,diabetes awareness,QA
-3439,25-44,Male,Locals,Graduated,140,diabetes awareness,QA
+3429,18-24,Female,Expats,No Degree,610,diabetes awareness,QA
+3430,25-44,Female,Expats,No Degree,2500,diabetes awareness,QA
+3431,45+,Female,Expats,No Degree,1300,diabetes awareness,QA
+3432,18-24,Male,Expats,High School,930,diabetes awareness,QA
+3433,25-44,Male,Expats,High School,3200,diabetes awareness,QA
+3434,45+,Male,Expats,High School,830,diabetes awareness,QA
+3435,18-24,Female,Expats,High School,290,diabetes awareness,QA
+3436,25-44,Female,Expats,High School,1900,diabetes awareness,QA
+3437,45+,Female,Expats,High School,640,diabetes awareness,QA
+3438,18-24,Male,Locals,Graduated,70,diabetes awareness,QA
+3439,25-44,Male,Locals,Graduated,180,diabetes awareness,QA
 3440,45+,Male,Locals,Graduated,20,diabetes awareness,QA
 3441,18-24,Female,Locals,Graduated,30,diabetes awareness,QA
-3442,25-44,Female,Locals,Graduated,90,diabetes awareness,QA
+3442,25-44,Female,Locals,Graduated,100,diabetes awareness,QA
 3443,45+,Female,Locals,Graduated,20,diabetes awareness,QA
-3444,18-24,Male,Locals,No Degree,70,diabetes awareness,QA
-3445,25-44,Male,Locals,No Degree,140,diabetes awareness,QA
+3444,18-24,Male,Locals,No Degree,100,diabetes awareness,QA
+3445,25-44,Male,Locals,No Degree,170,diabetes awareness,QA
 3446,45+,Male,Locals,No Degree,60,diabetes awareness,QA
 3447,18-24,Female,Locals,No Degree,20,diabetes awareness,QA
-3448,25-44,Female,Locals,No Degree,50,diabetes awareness,QA
-3449,45+,Female,Locals,No Degree,30,diabetes awareness,QA
+3448,25-44,Female,Locals,No Degree,90,diabetes awareness,QA
+3449,45+,Female,Locals,No Degree,20,diabetes awareness,QA
 3450,18-24,Male,Locals,High School,20,diabetes awareness,QA
 3451,25-44,Male,Locals,High School,20,diabetes awareness,QA
 3452,45+,Male,Locals,High School,20,diabetes awareness,QA
 3453,18-24,Female,Locals,High School,20,diabetes awareness,QA
 3454,25-44,Female,Locals,High School,20,diabetes awareness,QA
 3455,45+,Female,Locals,High School,20,diabetes awareness,QA
-3456,18-24,Male,Expats,Graduated,14000,diabetes awareness,SA
-3457,25-44,Male,Expats,Graduated,81000,diabetes awareness,SA
-3458,45+,Male,Expats,Graduated,16000,diabetes awareness,SA
-3459,18-24,Female,Expats,Graduated,2800,diabetes awareness,SA
+3456,18-24,Male,Expats,Graduated,15000,diabetes awareness,SA
+3457,25-44,Male,Expats,Graduated,86000,diabetes awareness,SA
+3458,45+,Male,Expats,Graduated,17000,diabetes awareness,SA
+3459,18-24,Female,Expats,Graduated,3000,diabetes awareness,SA
 3460,25-44,Female,Expats,Graduated,28000,diabetes awareness,SA
-3461,45+,Female,Expats,Graduated,8100,diabetes awareness,SA
-3462,18-24,Male,Expats,No Degree,4100,diabetes awareness,SA
-3463,25-44,Male,Expats,No Degree,15000,diabetes awareness,SA
-3464,45+,Male,Expats,No Degree,3500,diabetes awareness,SA
-3465,18-24,Female,Expats,No Degree,1100,diabetes awareness,SA
-3466,25-44,Female,Expats,No Degree,6100,diabetes awareness,SA
+3461,45+,Female,Expats,Graduated,8300,diabetes awareness,SA
+3462,18-24,Male,Expats,No Degree,4300,diabetes awareness,SA
+3463,25-44,Male,Expats,No Degree,16000,diabetes awareness,SA
+3464,45+,Male,Expats,No Degree,3800,diabetes awareness,SA
+3465,18-24,Female,Expats,No Degree,1200,diabetes awareness,SA
+3466,25-44,Female,Expats,No Degree,6300,diabetes awareness,SA
 3467,45+,Female,Expats,No Degree,2100,diabetes awareness,SA
-3468,18-24,Male,Expats,High School,4500,diabetes awareness,SA
-3469,25-44,Male,Expats,High School,18000,diabetes awareness,SA
-3470,45+,Male,Expats,High School,3700,diabetes awareness,SA
+3468,18-24,Male,Expats,High School,4700,diabetes awareness,SA
+3469,25-44,Male,Expats,High School,19000,diabetes awareness,SA
+3470,45+,Male,Expats,High School,3900,diabetes awareness,SA
 3471,18-24,Female,Expats,High School,1800,diabetes awareness,SA
-3472,25-44,Female,Expats,High School,7300,diabetes awareness,SA
-3473,45+,Female,Expats,High School,2400,diabetes awareness,SA
-3474,18-24,Male,Locals,Graduated,5300,diabetes awareness,SA
-3475,25-44,Male,Locals,Graduated,25000,diabetes awareness,SA
-3476,45+,Male,Locals,Graduated,5400,diabetes awareness,SA
-3477,18-24,Female,Locals,Graduated,1500,diabetes awareness,SA
-3478,25-44,Female,Locals,Graduated,7100,diabetes awareness,SA
-3479,45+,Female,Locals,Graduated,2100,diabetes awareness,SA
-3480,18-24,Male,Locals,No Degree,38000,diabetes awareness,SA
-3481,25-44,Male,Locals,No Degree,90000,diabetes awareness,SA
-3482,45+,Male,Locals,No Degree,16000,diabetes awareness,SA
-3483,18-24,Female,Locals,No Degree,5500,diabetes awareness,SA
+3472,25-44,Female,Expats,High School,7500,diabetes awareness,SA
+3473,45+,Female,Expats,High School,2500,diabetes awareness,SA
+3474,18-24,Male,Locals,Graduated,5500,diabetes awareness,SA
+3475,25-44,Male,Locals,Graduated,27000,diabetes awareness,SA
+3476,45+,Male,Locals,Graduated,5700,diabetes awareness,SA
+3477,18-24,Female,Locals,Graduated,1400,diabetes awareness,SA
+3478,25-44,Female,Locals,Graduated,7000,diabetes awareness,SA
+3479,45+,Female,Locals,Graduated,2200,diabetes awareness,SA
+3480,18-24,Male,Locals,No Degree,41000,diabetes awareness,SA
+3481,25-44,Male,Locals,No Degree,100000,diabetes awareness,SA
+3482,45+,Male,Locals,No Degree,17000,diabetes awareness,SA
+3483,18-24,Female,Locals,No Degree,5800,diabetes awareness,SA
 3484,25-44,Female,Locals,No Degree,12000,diabetes awareness,SA
-3485,45+,Female,Locals,No Degree,4900,diabetes awareness,SA
-3486,18-24,Male,Locals,High School,3000,diabetes awareness,SA
-3487,25-44,Male,Locals,High School,9500,diabetes awareness,SA
-3488,45+,Male,Locals,High School,2300,diabetes awareness,SA
-3489,18-24,Female,Locals,High School,850,diabetes awareness,SA
-3490,25-44,Female,Locals,High School,2500,diabetes awareness,SA
-3491,45+,Female,Locals,High School,740,diabetes awareness,SA
-3492,18-24,Male,Expats,Graduated,390,diabetes awareness,SO
-3493,25-44,Male,Expats,Graduated,270,diabetes awareness,SO
-3494,45+,Male,Expats,Graduated,90,diabetes awareness,SO
+3485,45+,Female,Locals,No Degree,5300,diabetes awareness,SA
+3486,18-24,Male,Locals,High School,3200,diabetes awareness,SA
+3487,25-44,Male,Locals,High School,9900,diabetes awareness,SA
+3488,45+,Male,Locals,High School,2400,diabetes awareness,SA
+3489,18-24,Female,Locals,High School,920,diabetes awareness,SA
+3490,25-44,Female,Locals,High School,2600,diabetes awareness,SA
+3491,45+,Female,Locals,High School,770,diabetes awareness,SA
+3492,18-24,Male,Expats,Graduated,380,diabetes awareness,SO
+3493,25-44,Male,Expats,Graduated,330,diabetes awareness,SO
+3494,45+,Male,Expats,Graduated,120,diabetes awareness,SO
 3495,18-24,Female,Expats,Graduated,160,diabetes awareness,SO
 3496,25-44,Female,Expats,Graduated,90,diabetes awareness,SO
 3497,45+,Female,Expats,Graduated,20,diabetes awareness,SO
 3498,18-24,Male,Expats,No Degree,140,diabetes awareness,SO
-3499,25-44,Male,Expats,No Degree,70,diabetes awareness,SO
+3499,25-44,Male,Expats,No Degree,80,diabetes awareness,SO
 3500,45+,Male,Expats,No Degree,20,diabetes awareness,SO
 3501,18-24,Female,Expats,No Degree,60,diabetes awareness,SO
-3502,25-44,Female,Expats,No Degree,20,diabetes awareness,SO
+3502,25-44,Female,Expats,No Degree,40,diabetes awareness,SO
 3503,45+,Female,Expats,No Degree,20,diabetes awareness,SO
-3504,18-24,Male,Expats,High School,130,diabetes awareness,SO
+3504,18-24,Male,Expats,High School,120,diabetes awareness,SO
 3505,25-44,Male,Expats,High School,20,diabetes awareness,SO
 3506,45+,Male,Expats,High School,20,diabetes awareness,SO
 3507,18-24,Female,Expats,High School,40,diabetes awareness,SO
@@ -1063,163 +1063,163 @@
 3509,45+,Female,Expats,High School,20,diabetes awareness,SO
 3510,18-24,Male,Locals,Graduated,1200,diabetes awareness,SO
 3511,25-44,Male,Locals,Graduated,1100,diabetes awareness,SO
-3512,45+,Male,Locals,Graduated,60,diabetes awareness,SO
-3513,18-24,Female,Locals,Graduated,900,diabetes awareness,SO
-3514,25-44,Female,Locals,Graduated,510,diabetes awareness,SO
-3515,45+,Female,Locals,Graduated,40,diabetes awareness,SO
-3516,18-24,Male,Locals,No Degree,720,diabetes awareness,SO
-3517,25-44,Male,Locals,No Degree,420,diabetes awareness,SO
-3518,45+,Male,Locals,No Degree,60,diabetes awareness,SO
+3512,45+,Male,Locals,Graduated,90,diabetes awareness,SO
+3513,18-24,Female,Locals,Graduated,880,diabetes awareness,SO
+3514,25-44,Female,Locals,Graduated,590,diabetes awareness,SO
+3515,45+,Female,Locals,Graduated,60,diabetes awareness,SO
+3516,18-24,Male,Locals,No Degree,760,diabetes awareness,SO
+3517,25-44,Male,Locals,No Degree,540,diabetes awareness,SO
+3518,45+,Male,Locals,No Degree,90,diabetes awareness,SO
 3519,18-24,Female,Locals,No Degree,900,diabetes awareness,SO
-3520,25-44,Female,Locals,No Degree,500,diabetes awareness,SO
-3521,45+,Female,Locals,No Degree,50,diabetes awareness,SO
-3522,18-24,Male,Locals,High School,390,diabetes awareness,SO
+3520,25-44,Female,Locals,No Degree,610,diabetes awareness,SO
+3521,45+,Female,Locals,No Degree,70,diabetes awareness,SO
+3522,18-24,Male,Locals,High School,400,diabetes awareness,SO
 3523,25-44,Male,Locals,High School,170,diabetes awareness,SO
 3524,45+,Male,Locals,High School,20,diabetes awareness,SO
 3525,18-24,Female,Locals,High School,360,diabetes awareness,SO
-3526,25-44,Female,Locals,High School,90,diabetes awareness,SO
-3527,45+,Female,Locals,High School,30,diabetes awareness,SO
-3528,18-24,Male,Expats,Graduated,570,diabetes awareness,TN
+3526,25-44,Female,Locals,High School,100,diabetes awareness,SO
+3527,45+,Female,Locals,High School,40,diabetes awareness,SO
+3528,18-24,Male,Expats,Graduated,580,diabetes awareness,TN
 3529,25-44,Male,Expats,Graduated,2400,diabetes awareness,TN
-3530,45+,Male,Expats,Graduated,1300,diabetes awareness,TN
-3531,18-24,Female,Expats,Graduated,440,diabetes awareness,TN
-3532,25-44,Female,Expats,Graduated,1200,diabetes awareness,TN
-3533,45+,Female,Expats,Graduated,580,diabetes awareness,TN
-3534,18-24,Male,Expats,No Degree,360,diabetes awareness,TN
+3530,45+,Male,Expats,Graduated,1400,diabetes awareness,TN
+3531,18-24,Female,Expats,Graduated,550,diabetes awareness,TN
+3532,25-44,Female,Expats,Graduated,1400,diabetes awareness,TN
+3533,45+,Female,Expats,Graduated,660,diabetes awareness,TN
+3534,18-24,Male,Expats,No Degree,380,diabetes awareness,TN
 3535,25-44,Male,Expats,No Degree,1700,diabetes awareness,TN
-3536,45+,Male,Expats,No Degree,1000,diabetes awareness,TN
-3537,18-24,Female,Expats,No Degree,210,diabetes awareness,TN
-3538,25-44,Female,Expats,No Degree,1200,diabetes awareness,TN
-3539,45+,Female,Expats,No Degree,640,diabetes awareness,TN
+3536,45+,Male,Expats,No Degree,1100,diabetes awareness,TN
+3537,18-24,Female,Expats,No Degree,250,diabetes awareness,TN
+3538,25-44,Female,Expats,No Degree,1400,diabetes awareness,TN
+3539,45+,Female,Expats,No Degree,650,diabetes awareness,TN
 3540,18-24,Male,Expats,High School,270,diabetes awareness,TN
-3541,25-44,Male,Expats,High School,730,diabetes awareness,TN
-3542,45+,Male,Expats,High School,330,diabetes awareness,TN
-3543,18-24,Female,Expats,High School,200,diabetes awareness,TN
-3544,25-44,Female,Expats,High School,410,diabetes awareness,TN
-3545,45+,Female,Expats,High School,150,diabetes awareness,TN
+3541,25-44,Male,Expats,High School,760,diabetes awareness,TN
+3542,45+,Male,Expats,High School,350,diabetes awareness,TN
+3543,18-24,Female,Expats,High School,190,diabetes awareness,TN
+3544,25-44,Female,Expats,High School,430,diabetes awareness,TN
+3545,45+,Female,Expats,High School,180,diabetes awareness,TN
 3546,18-24,Male,Locals,Graduated,3300,diabetes awareness,TN
-3547,25-44,Male,Locals,Graduated,24000,diabetes awareness,TN
-3548,45+,Male,Locals,Graduated,14000,diabetes awareness,TN
-3549,18-24,Female,Locals,Graduated,8000,diabetes awareness,TN
-3550,25-44,Female,Locals,Graduated,24000,diabetes awareness,TN
-3551,45+,Female,Locals,Graduated,7200,diabetes awareness,TN
-3552,18-24,Male,Locals,No Degree,3300,diabetes awareness,TN
-3553,25-44,Male,Locals,No Degree,25000,diabetes awareness,TN
-3554,45+,Male,Locals,No Degree,19000,diabetes awareness,TN
-3555,18-24,Female,Locals,No Degree,4800,diabetes awareness,TN
-3556,25-44,Female,Locals,No Degree,22000,diabetes awareness,TN
-3557,45+,Female,Locals,No Degree,13000,diabetes awareness,TN
-3558,18-24,Male,Locals,High School,1400,diabetes awareness,TN
-3559,25-44,Male,Locals,High School,8100,diabetes awareness,TN
-3560,45+,Male,Locals,High School,6800,diabetes awareness,TN
-3561,18-24,Female,Locals,High School,3300,diabetes awareness,TN
-3562,25-44,Female,Locals,High School,6400,diabetes awareness,TN
-3563,45+,Female,Locals,High School,4100,diabetes awareness,TN
-3564,18-24,Male,Expats,Graduated,7500,diabetes awareness,AE
-3565,25-44,Male,Expats,Graduated,38000,diabetes awareness,AE
-3566,45+,Male,Expats,Graduated,7800,diabetes awareness,AE
+3547,25-44,Male,Locals,Graduated,25000,diabetes awareness,TN
+3548,45+,Male,Locals,Graduated,15000,diabetes awareness,TN
+3549,18-24,Female,Locals,Graduated,9000,diabetes awareness,TN
+3550,25-44,Female,Locals,Graduated,26000,diabetes awareness,TN
+3551,45+,Female,Locals,Graduated,7600,diabetes awareness,TN
+3552,18-24,Male,Locals,No Degree,3400,diabetes awareness,TN
+3553,25-44,Male,Locals,No Degree,27000,diabetes awareness,TN
+3554,45+,Male,Locals,No Degree,20000,diabetes awareness,TN
+3555,18-24,Female,Locals,No Degree,5400,diabetes awareness,TN
+3556,25-44,Female,Locals,No Degree,23000,diabetes awareness,TN
+3557,45+,Female,Locals,No Degree,14000,diabetes awareness,TN
+3558,18-24,Male,Locals,High School,1500,diabetes awareness,TN
+3559,25-44,Male,Locals,High School,8600,diabetes awareness,TN
+3560,45+,Male,Locals,High School,7000,diabetes awareness,TN
+3561,18-24,Female,Locals,High School,3900,diabetes awareness,TN
+3562,25-44,Female,Locals,High School,7100,diabetes awareness,TN
+3563,45+,Female,Locals,High School,4400,diabetes awareness,TN
+3564,18-24,Male,Expats,Graduated,7700,diabetes awareness,AE
+3565,25-44,Male,Expats,Graduated,40000,diabetes awareness,AE
+3566,45+,Male,Expats,Graduated,8100,diabetes awareness,AE
 3567,18-24,Female,Expats,Graduated,2800,diabetes awareness,AE
-3568,25-44,Female,Expats,Graduated,34000,diabetes awareness,AE
+3568,25-44,Female,Expats,Graduated,35000,diabetes awareness,AE
 3569,45+,Female,Expats,Graduated,10000,diabetes awareness,AE
-3570,18-24,Male,Expats,No Degree,6400,diabetes awareness,AE
-3571,25-44,Male,Expats,No Degree,17000,diabetes awareness,AE
-3572,45+,Male,Expats,No Degree,3800,diabetes awareness,AE
+3570,18-24,Male,Expats,No Degree,6600,diabetes awareness,AE
+3571,25-44,Male,Expats,No Degree,19000,diabetes awareness,AE
+3572,45+,Male,Expats,No Degree,4300,diabetes awareness,AE
 3573,18-24,Female,Expats,No Degree,1600,diabetes awareness,AE
-3574,25-44,Female,Expats,No Degree,9300,diabetes awareness,AE
-3575,45+,Female,Expats,No Degree,5100,diabetes awareness,AE
-3576,18-24,Male,Expats,High School,2500,diabetes awareness,AE
-3577,25-44,Male,Expats,High School,7500,diabetes awareness,AE
-3578,45+,Male,Expats,High School,1700,diabetes awareness,AE
+3574,25-44,Female,Expats,No Degree,9600,diabetes awareness,AE
+3575,45+,Female,Expats,No Degree,5300,diabetes awareness,AE
+3576,18-24,Male,Expats,High School,2600,diabetes awareness,AE
+3577,25-44,Male,Expats,High School,7800,diabetes awareness,AE
+3578,45+,Male,Expats,High School,1800,diabetes awareness,AE
 3579,18-24,Female,Expats,High School,1300,diabetes awareness,AE
-3580,25-44,Female,Expats,High School,6300,diabetes awareness,AE
-3581,45+,Female,Expats,High School,2700,diabetes awareness,AE
+3580,25-44,Female,Expats,High School,6500,diabetes awareness,AE
+3581,45+,Female,Expats,High School,2800,diabetes awareness,AE
 3582,18-24,Male,Locals,Graduated,260,diabetes awareness,AE
-3583,25-44,Male,Locals,Graduated,640,diabetes awareness,AE
-3584,45+,Male,Locals,Graduated,180,diabetes awareness,AE
+3583,25-44,Male,Locals,Graduated,660,diabetes awareness,AE
+3584,45+,Male,Locals,Graduated,160,diabetes awareness,AE
 3585,18-24,Female,Locals,Graduated,110,diabetes awareness,AE
 3586,25-44,Female,Locals,Graduated,600,diabetes awareness,AE
-3587,45+,Female,Locals,Graduated,100,diabetes awareness,AE
-3588,18-24,Male,Locals,No Degree,200,diabetes awareness,AE
-3589,25-44,Male,Locals,No Degree,540,diabetes awareness,AE
+3587,45+,Female,Locals,Graduated,90,diabetes awareness,AE
+3588,18-24,Male,Locals,No Degree,230,diabetes awareness,AE
+3589,25-44,Male,Locals,No Degree,550,diabetes awareness,AE
 3590,45+,Male,Locals,No Degree,140,diabetes awareness,AE
-3591,18-24,Female,Locals,No Degree,90,diabetes awareness,AE
-3592,25-44,Female,Locals,No Degree,350,diabetes awareness,AE
-3593,45+,Female,Locals,No Degree,110,diabetes awareness,AE
-3594,18-24,Male,Locals,High School,150,diabetes awareness,AE
+3591,18-24,Female,Locals,No Degree,100,diabetes awareness,AE
+3592,25-44,Female,Locals,No Degree,360,diabetes awareness,AE
+3593,45+,Female,Locals,No Degree,100,diabetes awareness,AE
+3594,18-24,Male,Locals,High School,160,diabetes awareness,AE
 3595,25-44,Male,Locals,High School,160,diabetes awareness,AE
 3596,45+,Male,Locals,High School,50,diabetes awareness,AE
 3597,18-24,Female,Locals,High School,90,diabetes awareness,AE
 3598,25-44,Female,Locals,High School,110,diabetes awareness,AE
 3599,45+,Female,Locals,High School,20,diabetes awareness,AE
-3600,18-24,Male,Expats,Graduated,2200,diabetes awareness,YE
-3601,25-44,Male,Expats,Graduated,4700,diabetes awareness,YE
-3602,45+,Male,Expats,Graduated,540,diabetes awareness,YE
-3603,18-24,Female,Expats,Graduated,330,diabetes awareness,YE
-3604,25-44,Female,Expats,Graduated,660,diabetes awareness,YE
+3600,18-24,Male,Expats,Graduated,2800,diabetes awareness,YE
+3601,25-44,Male,Expats,Graduated,5400,diabetes awareness,YE
+3602,45+,Male,Expats,Graduated,640,diabetes awareness,YE
+3603,18-24,Female,Expats,Graduated,370,diabetes awareness,YE
+3604,25-44,Female,Expats,Graduated,820,diabetes awareness,YE
 3605,45+,Female,Expats,Graduated,90,diabetes awareness,YE
-3606,18-24,Male,Expats,No Degree,1500,diabetes awareness,YE
-3607,25-44,Male,Expats,No Degree,1900,diabetes awareness,YE
-3608,45+,Male,Expats,No Degree,210,diabetes awareness,YE
-3609,18-24,Female,Expats,No Degree,630,diabetes awareness,YE
-3610,25-44,Female,Expats,No Degree,560,diabetes awareness,YE
+3606,18-24,Male,Expats,No Degree,1800,diabetes awareness,YE
+3607,25-44,Male,Expats,No Degree,2500,diabetes awareness,YE
+3608,45+,Male,Expats,No Degree,260,diabetes awareness,YE
+3609,18-24,Female,Expats,No Degree,730,diabetes awareness,YE
+3610,25-44,Female,Expats,No Degree,680,diabetes awareness,YE
 3611,45+,Female,Expats,No Degree,150,diabetes awareness,YE
-3612,18-24,Male,Expats,High School,1200,diabetes awareness,YE
-3613,25-44,Male,Expats,High School,1100,diabetes awareness,YE
+3612,18-24,Male,Expats,High School,1300,diabetes awareness,YE
+3613,25-44,Male,Expats,High School,1300,diabetes awareness,YE
 3614,45+,Male,Expats,High School,150,diabetes awareness,YE
-3615,18-24,Female,Expats,High School,280,diabetes awareness,YE
-3616,25-44,Female,Expats,High School,180,diabetes awareness,YE
+3615,18-24,Female,Expats,High School,330,diabetes awareness,YE
+3616,25-44,Female,Expats,High School,200,diabetes awareness,YE
 3617,45+,Female,Expats,High School,20,diabetes awareness,YE
-3618,18-24,Male,Locals,Graduated,22000,diabetes awareness,YE
-3619,25-44,Male,Locals,Graduated,51000,diabetes awareness,YE
-3620,45+,Male,Locals,Graduated,4900,diabetes awareness,YE
-3621,18-24,Female,Locals,Graduated,3200,diabetes awareness,YE
-3622,25-44,Female,Locals,Graduated,6700,diabetes awareness,YE
-3623,45+,Female,Locals,Graduated,600,diabetes awareness,YE
-3624,18-24,Male,Locals,No Degree,30000,diabetes awareness,YE
-3625,25-44,Male,Locals,No Degree,41000,diabetes awareness,YE
-3626,45+,Male,Locals,No Degree,6200,diabetes awareness,YE
-3627,18-24,Female,Locals,No Degree,4200,diabetes awareness,YE
-3628,25-44,Female,Locals,No Degree,5500,diabetes awareness,YE
-3629,45+,Female,Locals,No Degree,980,diabetes awareness,YE
-3630,18-24,Male,Locals,High School,15000,diabetes awareness,YE
-3631,25-44,Male,Locals,High School,15000,diabetes awareness,YE
-3632,45+,Male,Locals,High School,1500,diabetes awareness,YE
-3633,18-24,Female,Locals,High School,3200,diabetes awareness,YE
-3634,25-44,Female,Locals,High School,1800,diabetes awareness,YE
-3635,45+,Female,Locals,High School,200,diabetes awareness,YE
-3636,18-24,Male,Expats,Graduated,390,diabetes awareness,PS
-3637,25-44,Male,Expats,Graduated,730,diabetes awareness,PS
-3638,45+,Male,Expats,Graduated,240,diabetes awareness,PS
-3639,18-24,Female,Expats,Graduated,330,diabetes awareness,PS
-3640,25-44,Female,Expats,Graduated,880,diabetes awareness,PS
-3641,45+,Female,Expats,Graduated,170,diabetes awareness,PS
+3618,18-24,Male,Locals,Graduated,26000,diabetes awareness,YE
+3619,25-44,Male,Locals,Graduated,58000,diabetes awareness,YE
+3620,45+,Male,Locals,Graduated,5600,diabetes awareness,YE
+3621,18-24,Female,Locals,Graduated,3600,diabetes awareness,YE
+3622,25-44,Female,Locals,Graduated,7400,diabetes awareness,YE
+3623,45+,Female,Locals,Graduated,650,diabetes awareness,YE
+3624,18-24,Male,Locals,No Degree,39000,diabetes awareness,YE
+3625,25-44,Male,Locals,No Degree,49000,diabetes awareness,YE
+3626,45+,Male,Locals,No Degree,7300,diabetes awareness,YE
+3627,18-24,Female,Locals,No Degree,5100,diabetes awareness,YE
+3628,25-44,Female,Locals,No Degree,6500,diabetes awareness,YE
+3629,45+,Female,Locals,No Degree,1200,diabetes awareness,YE
+3630,18-24,Male,Locals,High School,18000,diabetes awareness,YE
+3631,25-44,Male,Locals,High School,17000,diabetes awareness,YE
+3632,45+,Male,Locals,High School,1700,diabetes awareness,YE
+3633,18-24,Female,Locals,High School,3500,diabetes awareness,YE
+3634,25-44,Female,Locals,High School,2100,diabetes awareness,YE
+3635,45+,Female,Locals,High School,220,diabetes awareness,YE
+3636,18-24,Male,Expats,Graduated,410,diabetes awareness,PS
+3637,25-44,Male,Expats,Graduated,830,diabetes awareness,PS
+3638,45+,Male,Expats,Graduated,270,diabetes awareness,PS
+3639,18-24,Female,Expats,Graduated,370,diabetes awareness,PS
+3640,25-44,Female,Expats,Graduated,1000,diabetes awareness,PS
+3641,45+,Female,Expats,Graduated,200,diabetes awareness,PS
 3642,18-24,Male,Expats,No Degree,160,diabetes awareness,PS
-3643,25-44,Male,Expats,No Degree,260,diabetes awareness,PS
-3644,45+,Male,Expats,No Degree,130,diabetes awareness,PS
-3645,18-24,Female,Expats,No Degree,120,diabetes awareness,PS
-3646,25-44,Female,Expats,No Degree,410,diabetes awareness,PS
-3647,45+,Female,Expats,No Degree,240,diabetes awareness,PS
-3648,18-24,Male,Expats,High School,80,diabetes awareness,PS
-3649,25-44,Male,Expats,High School,160,diabetes awareness,PS
+3643,25-44,Male,Expats,No Degree,290,diabetes awareness,PS
+3644,45+,Male,Expats,No Degree,140,diabetes awareness,PS
+3645,18-24,Female,Expats,No Degree,160,diabetes awareness,PS
+3646,25-44,Female,Expats,No Degree,450,diabetes awareness,PS
+3647,45+,Female,Expats,No Degree,270,diabetes awareness,PS
+3648,18-24,Male,Expats,High School,100,diabetes awareness,PS
+3649,25-44,Male,Expats,High School,200,diabetes awareness,PS
 3650,45+,Male,Expats,High School,70,diabetes awareness,PS
-3651,18-24,Female,Expats,High School,320,diabetes awareness,PS
-3652,25-44,Female,Expats,High School,270,diabetes awareness,PS
-3653,45+,Female,Expats,High School,70,diabetes awareness,PS
-3654,18-24,Male,Locals,Graduated,1300,diabetes awareness,PS
-3655,25-44,Male,Locals,Graduated,4000,diabetes awareness,PS
-3656,45+,Male,Locals,Graduated,1200,diabetes awareness,PS
-3657,18-24,Female,Locals,Graduated,1800,diabetes awareness,PS
-3658,25-44,Female,Locals,Graduated,4600,diabetes awareness,PS
-3659,45+,Female,Locals,Graduated,830,diabetes awareness,PS
-3660,18-24,Male,Locals,No Degree,710,diabetes awareness,PS
-3661,25-44,Male,Locals,No Degree,1700,diabetes awareness,PS
-3662,45+,Male,Locals,No Degree,1300,diabetes awareness,PS
-3663,18-24,Female,Locals,No Degree,1300,diabetes awareness,PS
-3664,25-44,Female,Locals,No Degree,3600,diabetes awareness,PS
-3665,45+,Female,Locals,No Degree,1400,diabetes awareness,PS
-3666,18-24,Male,Locals,High School,760,diabetes awareness,PS
-3667,25-44,Male,Locals,High School,980,diabetes awareness,PS
-3668,45+,Male,Locals,High School,360,diabetes awareness,PS
-3669,18-24,Female,Locals,High School,1500,diabetes awareness,PS
-3670,25-44,Female,Locals,High School,1400,diabetes awareness,PS
-3671,45+,Female,Locals,High School,270,diabetes awareness,PS
+3651,18-24,Female,Expats,High School,370,diabetes awareness,PS
+3652,25-44,Female,Expats,High School,280,diabetes awareness,PS
+3653,45+,Female,Expats,High School,80,diabetes awareness,PS
+3654,18-24,Male,Locals,Graduated,1400,diabetes awareness,PS
+3655,25-44,Male,Locals,Graduated,4500,diabetes awareness,PS
+3656,45+,Male,Locals,Graduated,1300,diabetes awareness,PS
+3657,18-24,Female,Locals,Graduated,2100,diabetes awareness,PS
+3658,25-44,Female,Locals,Graduated,5000,diabetes awareness,PS
+3659,45+,Female,Locals,Graduated,840,diabetes awareness,PS
+3660,18-24,Male,Locals,No Degree,890,diabetes awareness,PS
+3661,25-44,Male,Locals,No Degree,2100,diabetes awareness,PS
+3662,45+,Male,Locals,No Degree,1400,diabetes awareness,PS
+3663,18-24,Female,Locals,No Degree,1400,diabetes awareness,PS
+3664,25-44,Female,Locals,No Degree,3900,diabetes awareness,PS
+3665,45+,Female,Locals,No Degree,1700,diabetes awareness,PS
+3666,18-24,Male,Locals,High School,830,diabetes awareness,PS
+3667,25-44,Male,Locals,High School,1100,diabetes awareness,PS
+3668,45+,Male,Locals,High School,410,diabetes awareness,PS
+3669,18-24,Female,Locals,High School,1600,diabetes awareness,PS
+3670,25-44,Female,Locals,High School,1500,diabetes awareness,PS
+3671,45+,Female,Locals,High School,280,diabetes awareness,PS
