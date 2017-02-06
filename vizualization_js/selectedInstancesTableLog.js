@@ -49,7 +49,7 @@ function SelectedInstancesTable(elementContainerSelector){
         }
         //Setting Color
         var instancePolarity = getInstancePolarity(instance);
-        tableRow.css("color",getGreenOrRedColorByInclination(instancePolarity));
+        tableRow.css("color",getGreenOrRedColorByScore(instancePolarity));
 
         return tableRow;
     };

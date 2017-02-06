@@ -8,7 +8,7 @@ function datamapDataLayer(){
     this.init = function(){
         Datamap.prototype.worldTopo.objects.world.geometries.map(function(country){
             currentInstance.countries[country.id] = {
-                jewelAudience: 0,
+                luxuryAudience: 0,
                 healthAudience: 0,
             }
         });
@@ -17,7 +17,7 @@ function datamapDataLayer(){
     this.empty = function(){
         for(var country in currentInstance.countries) {
             currentInstance.countries[country] = {
-                jewelAudience: 0,
+                luxuryAudience: 0,
                 healthAudience: 0
             }
         }
@@ -27,7 +27,7 @@ function datamapDataLayer(){
         var countryCode_3letter = convert2to3LettersCode(instance.country_code);
         try {
             if (getInstancePolarity(instance) == 1) currentInstance.countries[countryCode_3letter].healthAudience += instance.audience;
-            else currentInstance.countries[countryCode_3letter].jewelAudience += instance.audience;
+            else currentInstance.countries[countryCode_3letter].luxuryAudience += instance.audience;
         } catch (err){
             throw Error("Country code not found:" + countryCode_3letter);
         }
@@ -41,18 +41,19 @@ function datamapDataLayer(){
         }
     };
 
-    this.getCountryInclination = function(country3Letters){
+    this.getCountryScore = function(country3Letters){
         return currentInstance.getCountrySelectedData(country3Letters)["score"];
     };
     this.getCountrySelectedData = function(country3Letters){
         var healthAudience = currentInstance.countries[country3Letters].healthAudience;
-        var jewelAudience = currentInstance.countries[country3Letters].jewelAudience;
+        var luxuryAudience = currentInstance.countries[country3Letters].luxuryAudience;
         var audienceCoverage = currentInstance.getCountryAudience(country3Letters);
         return {
                 "healthAudience" : healthAudience,
-                "jewelAudience" : jewelAudience,
+                "luxuryAudience" : luxuryAudience,
                 "audienceCoverage" : audienceCoverage,
-                "score" : (healthAudience - jewelAudience) / audienceCoverage
+                "score" : (healthAudience - luxuryAudience) / audienceCoverage,
+                "name" : convert3LettersCodeToName(country3Letters)
             }
     };
     this.getCountryAudience = function(country){
@@ -77,8 +78,8 @@ function datamapDataLayer(){
             var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
-                var inclination = currentInstance.getCountryInclination(_3_letters_country_code);
-                dataColor[_3_letters_country_code] = getGreenOrRedColorByInclination(inclination);
+                var score = currentInstance.getCountryScore(_3_letters_country_code);
+                dataColor[_3_letters_country_code] = getGreenOrRedColorByScore(score);
             }
         }
 
@@ -203,7 +204,7 @@ function arabLeagueDatamap(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {
             var countryCode3Letters = geography.id;
             if(isArabCountryCode3Letters(countryCode3Letters)){
-                onClickCountryFunctionBy3LettersCode(geography.id);
+                onClickCountryFunctionBy3LettersCode(countryCode3Letters);
                 // alert("Click disabled in the map for now, please use the list on the side.");
             } else{
                 alert("Only arab countries supported");
@@ -277,7 +278,7 @@ function arabLeagueDatamap(){
                 .text(convertIntegerToReadable(countryData.healthAudience));
 
             d3.select("#tooltip-countries  #luxuryAudienceCountryTooltip")
-                .text(convertIntegerToReadable(countryData.jewelAudience));
+                .text(convertIntegerToReadable(countryData.luxuryAudience));
         }
     };
 

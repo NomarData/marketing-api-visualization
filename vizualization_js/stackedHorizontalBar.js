@@ -82,11 +82,11 @@ function stackedHorizontalBar(){
     }
 
     this.updateData = function(){
-        var data = dataManager.getAverageSelectedInclination();
+        var data = dataManager.getAverageSelectedScore();
         currentInstance.greenData[0].audience = data.greenAudience;
         currentInstance.redData[0].audience = data.redAudience;
-        currentInstance.greenData[0].score = data.greenInclination;
-        currentInstance.redData[0].score = -data.redInclination;
+        currentInstance.greenData[0].score = data.greenScore;
+        currentInstance.redData[0].score = -data.redScore;
 
         currentInstance.updateScale();
         currentInstance.updateGreenBar(data);
@@ -230,21 +230,21 @@ function stackedHorizontalBar(){
         var data = this.data;
         var height = this.height;
 
-        var averageInclination = dataManager.getAverageSelectedInclination();
+        var averageScore = dataManager.getAverageSelectedScore();
         var data = [{
-            name: "Health Inclination",
-            greenValue: averageInclination.greenInclination,
-            redValue: averageInclination.redInclination
+            name: "Health Score",
+            greenValue:  averageScore.greenScore,
+            redValue:  averageScore.redScore
         }];
         var greenData = [{
             name: "Health Audience",
-            score: averageInclination.greenInclination,
-            audience: averageInclination.greenAudience,
+            score:  averageScore.greenScore,
+            audience:  averageScore.greenAudience,
         }];
         var redData = [{
             name: "Luxury Audience",
-            score: averageInclination.redInclination,
-            audience: averageInclination.redAudience,
+            score:  averageScore.redScore,
+            audience:  averageScore.redAudience,
         }];
         this.data = data;
         this.greenData = greenData;
@@ -280,7 +280,7 @@ function stackedHorizontalBar(){
             .enter().append("rect")
             .attr("class", "greenBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(-d.audience)
+                return "fill: " + getGreenOrRedColorByScore(-d.audience)
             })
             .attr("x", function (d) {
                 return x(Math.min(0, -d.audience));
@@ -322,7 +322,7 @@ function stackedHorizontalBar(){
             .enter().append("rect")
             .attr("class", "redBar")
             .attr("style", function(d){
-                return "fill: " + getGreenOrRedColorByInclination(d.audience)
+                return "fill: " + getGreenOrRedColorByScore(d.audience)
             })
             .attr("x", function (d) {
                 return x(Math.min(0, d.audience));

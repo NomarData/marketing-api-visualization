@@ -13,6 +13,9 @@ function getFacebookPopulationInstanceByValue(value){
     return null;
 }
 
+function getRectIDFromName(name){
+    return name.replace(" ","_")
+}
 
 function removeValueFromArray(array,valueToRemove){
     return $.grep(array, function(value) {
@@ -24,14 +27,16 @@ function buildAndInitVisualComponents(){
     console.log("Building visual components");
     treemapManager = new TreemapManager();
     luxuriousHealthBar = new stackedHorizontalBar();
-    inclinationScore = new InclinationScore();
+    GeneralScore = new GeneralScore();
     arabMap = new arabLeagueDatamap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
+    historyDataSelector = new HistoryDataSelector();
+    findingsFinder = new FindingFinder();
+    downloadReport = new DownloadReport();
     console.log("Builded visual components");
     sharebleLink.init();
 }
-
 
 function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
@@ -93,6 +98,7 @@ function removeAllParentheses(string){
 }
 
 function getJqueryCountryBtnByCode2Letters(countryCode){
+
     return $("div[data-code='"+ countryCode +"']");
 }
 
@@ -129,7 +135,11 @@ function onClickCountryFunction(countryItem){
     console.log(dataManager.selectedCountries_2letters);
 }
 
-getAll3LettersCodeArabCountry = function(){
+function getCountryNameGivenCode2Letters(countryCode) {
+    return countryCodeMap[countryCode].name;
+}
+
+function getAll3LettersCodeArabCountry(){
     var countryCodes = $.map(countryCodeMap,function (item) {
         return item._3letter_code;
     });
@@ -193,7 +203,7 @@ function updateSocialLinkFields(){
 }
 
 function convert2to3LettersCode(_2letters_code){
-    _2letters_code = _2letters_code.toUpperCase();
+    var _2letters_code = _2letters_code.toUpperCase();
     try{
         return countryCodeMap[_2letters_code]._3letter_code;
     }catch (err){
@@ -202,8 +212,17 @@ function convert2to3LettersCode(_2letters_code){
 
 }
 
+function convert3LettersCodeToName(_3letters_code){
+    try{
+        var _2letters_code = convert3to2LettersCode(_3letters_code);
+        return countryCodeMap[_2letters_code].name;
+    }catch (err){
+        throw Error("3 Letter Code not found:" + _3letters_code);
+    }
+}
+
 function convert2LettersCodeToName(_2letters_code){
-    _2letters_code = _2letters_code.toUpperCase();
+    var _2letters_code = _2letters_code.toUpperCase();
     try{
         return countryCodeMap[_2letters_code].name;
     }catch (err){
@@ -212,12 +231,18 @@ function convert2LettersCodeToName(_2letters_code){
 }
 
 function convert3to2LettersCode(_3letters_code){
-    _3letters_code = _3letters_code.toUpperCase();
+    var _3letters_code = _3letters_code.toUpperCase();
     for(var key in countryCodeMap){
         if(countryCodeMap[key]._3letter_code == _3letters_code){
             return key
         }
     }
     throw Error("3 Letter Code not found:" + _3letters_code);
+}
+
+function datenum(v, date1904) {
+    if(date1904) v+=1462;
+    var epoch = Date.parse(v);
+    return (epoch - new Date(Date.UTC(1899, 11, 30))) / (24 * 60 * 60 * 1000);
 }
 

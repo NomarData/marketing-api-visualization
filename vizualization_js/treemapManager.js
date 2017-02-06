@@ -50,11 +50,13 @@ function processSubCategoryList(categoryAudience, subCategoryName){
         totalAudienceWithInterest += instance.audience;
     }
     return {
+        "category" : categoryAudience["name"],
+        "subCategory" : subCategoryName,
         "size" : totalAudienceGivenSelection + 1,
         "audienceWithInterest" : totalAudienceWithInterest,
-        "fbPopulation" : totalAudienceGivenSelection,
-        // "inclination" : (healthAudience - jewelAudience) / totalAudienceWithInterest
-        "inclination" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero,
+        "audienceCoverage" : totalAudienceGivenSelection,
+        // "score" : (healthAudience - luxuryAudience) / totalAudienceWithInterest
+        "score" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero probably will never happen,
         "healthAudience" : healthAudience,
         "luxuryAudience" : luxuryAudience
     }
@@ -69,12 +71,13 @@ function generateTreemapChidren(categoryAudience){
             "name" : subCategoryName,
             "children" : [{
                 "name": subCategoryName,
+                "category": treemapDataCell.category,
                 "size" : treemapDataCell.size,
                 "audienceWithInterest" : treemapDataCell.audienceWithInterest,
-                "inclination" : treemapDataCell.inclination,
+                "score" : treemapDataCell.score,
                 "healthAudience" : treemapDataCell.healthAudience,
                 "luxuryAudience" : treemapDataCell.luxuryAudience,
-                "fbPopulation" : treemapDataCell.fbPopulation
+                "audienceCoverage" : treemapDataCell.audienceCoverage
             }]
         });
     }
@@ -150,7 +153,7 @@ function TreemapManager(){
 
 
     this.updateLuxuriousHealthBar = function(){
-        // var luxuriousHealthData = this.getAverageSelectedInclination();
+        // var luxuriousHealthData = this.getAverageSelectedScore();
         // luxuriousHealthBar.updateData(luxuriousHealthData);
     };
     
@@ -217,6 +220,21 @@ function TreemapManager(){
         var treemap = currentInstance.getTreemapByName(treemapName);
         treemap.activateCellGivenValue(treemapValue);
     }
+
+    this.getAllVisibleTreemapData = function () {
+        var labelsScores = {}
+        for(let treemapIndex in currentInstance.treemaps){
+            var treemap = currentInstance.treemaps[treemapIndex];
+            var activeCells = treemap.getCellsActiveCells();
+            for(let cellIndex in activeCells){
+                var cell = activeCells[cellIndex];
+                var cellData = cell.children[0];
+                labelsScores[cellData.name] = cellData;
+            }
+
+        }
+        return labelsScores;
+    };
 
     this.init();
 }

@@ -1,0 +1,14 @@
+.healAwarenessScoreTitle{
+    font-weight: bold;
+}
+#GeneralScore{
+    font-weight: bold;
+    background: #3a3a3a;
+    color: rgb(33, 33, 33);
+    padding: 3px;
+    border-radius: 5px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    border-color: #304FFE;
+    border-style: solid;
+    border-width: 3px;
+}
