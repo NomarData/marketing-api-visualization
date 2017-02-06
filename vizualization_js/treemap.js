@@ -124,15 +124,10 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                 });
             // debugger
             var texts = svg.selectAll("g").select("text")
-                .attr("x", function(d) { return d.dx / 2; })
                 .attr("y", function(d) { return d.dy / 2; })
                 .attr("dy", ".35em")
-                .attr("text-anchor", "middle")
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d) {
-                    // d.w = this.getComputedTextLength();
-                    // console.log(d.w + " " + d.dx);
-                    // return d.dx > d.w/1.5 ? 1 : 0; //This 1.5 should be specified before
                     return currentInstance.getOpacityBasedOnData(d,this,d.dx,d.dy)
                 });
             this.node =  rootData;
@@ -153,10 +148,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
                     return newColor;
                 });
             cell.select("text")
-                .attr("x", function(d) { return d.dx / 2; })
                 .attr("y", function(d) { return d.dy / 2; })
                 .attr("dy", ".35em")
-                .attr("text-anchor", "middle")
                 .each(currentInstance.setTextLines)
                 .style("opacity", function(d) {
                     return currentInstance.getOpacityBasedOnData(d,this,d.dx,d.dy); //This 1.5 should be specified before
@@ -364,15 +357,13 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
             nodeName = mapValuesTileTitle[nodeName];
         }
         var tspanLine1 = d3.select(this).append("svg:tspan")
-            .attr("x", 0)
+            .attr("x", function(d) { return d.dx / 2})
             .attr("y", 0)
-            .attr("dx",  function(d) { return d.dx / 2; })
             .attr("dy", function(d) { return d.dy / 2; })
             .text(nodeName);
         var tspanLine2 = d3.select(this).append("svg:tspan")
-            .attr("x", 0)
+            .attr("x", function(d) { return d.dx / 2; })
             .attr("y", 0)
-            .attr("dx",  function(d) { return d.dx / 2; })
             .attr("dy", function(d) { return d.dy/2 + 15; })
             .text(function(d){
                 var audience = parseInt(d.size);

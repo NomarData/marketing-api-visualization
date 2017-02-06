@@ -63,10 +63,10 @@ function FindingFinder(){
         for(let demographicName in demographicsData){
             var score = demographicsData[demographicName].score;
             if(score > (average + 2*std )){
-                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others demographic filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentDemographicFinding.push("<b>"  + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others demographic filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
             }
         }
     };
@@ -83,7 +83,7 @@ function FindingFinder(){
 
     this.addDemographicsFindingToInterface = function(){
         if(currentInstance.currentDemographicFinding.length > 0){
-            $("#interestingFindingContainer").append("<div  class='span6'><div class='text-center' style='font-weight:bold'>Between Demographics</div><div class='text-center' id='demographicsFindingList'></div></div>")
+            $("#interestingFindingContainer").append("<div  class='span6'><div class='text-center' style='font-weight:bold'>Between Filters</div><div class='text-center' id='demographicsFindingList'></div></div>")
         }
         for(var findingIndex in currentInstance.currentDemographicFinding){
             var finding = currentInstance.currentDemographicFinding[findingIndex];
