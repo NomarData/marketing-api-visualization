@@ -8,15 +8,17 @@ function HistoryDataSelector(){
     };
     this.loadHistoryFile = function () {
         externalDataManager.getHistoricMapDataPromise().done(function(d){
+            var historyIndex;
             let lastUpdateDate = d.history[d.history.length -1].date;
             $("#lastUpdateText").text(lastUpdateDate);
-            for(var historyIndex in d.history){
-                var dateText = d.history[historyIndex].date;
+            for(historyIndex in d.history){
+                let dateText = d.history[historyIndex].date;
                 var datePath = d.history[historyIndex].path;
                 $("#selectDownloadDate").append("<option class='dateOption' data-path=" + datePath + "  value=" + historyIndex + ">" + dateText + "</option>");
             }
+            $("#selectDownloadDate option[value="+ historyIndex +"]").attr("selected",true);
         });
-    }
+    };
 
     this.clickOnDate = function (value) {
         var optionIndex = parseInt(value);
