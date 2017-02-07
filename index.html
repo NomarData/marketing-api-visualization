@@ -39,7 +39,7 @@
 <div class="navbar navbar-inverse navbar-static-top">
     <div class="navbar-inner">
         <div class="container">
-            <a class="brand" href="index.html">Health Awareness on Facebook in the Arab World</a>
+            <a class="brand" id="applicationTitle" href="index.html">Health Awareness on Facebook in the Arab World</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     <li class="active"><a href="index.html">Application</a></li>
@@ -68,7 +68,7 @@
             <div class="span12">
                 <dl class="dl-horizontal">
                     <dt>Description:</dt>
-                    <dd>This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</dd>
+                    <dd id="applicationDescription">This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</dd>
                     <dd><br/>Check our <a href="about.html"><strong>about page</strong></a> for more information.</dd>
                 </dl>
             </div>
@@ -86,10 +86,10 @@
                     <span>Audience</span>: <strong id="audience"></strong>
                 </div>
                 <div>
-                    <span>Health Audience</span>: <strong id="healthAudienceTooltip"></strong>
+                    <span>Left Audience</span>: <strong id="leftAudienceTooltip"></strong>
                 </div>
                 <div>
-                    <span>Luxury Audience</span>: <strong id="luxuryAudienceTooltip"></strong>
+                    <span>Right Audience</span>: <strong id="rightAudienceTooltip"></strong>
                 </div>
                 <div>
                     <span>Facebook Coverage</span>: <strong id="audienceCoverageTooltip"></strong>
@@ -116,23 +116,23 @@
 
         </div>
 
-        <div id="tooltip-countries" class="hoverinfo hidden">
+        <div id="tooltip-locations" class="hoverinfo hidden">
             <div>
                 <div>
                     Country: <strong id="countryNameTooltip"></strong>
                 </div>
-                <div id="countryDataTooltipContainer">
+                <div id="locationDataTooltipContainer">
                     <div>
-                        <span>Score</span>: <strong id="countryScoreTooltip"></strong>
+                        <span>Score</span>: <strong id="locationScoreTooltip"></strong>
                     </div>
                     <div>
-                        Facebook Coverage: <strong id="countryFacebookCoverage"></strong>
+                        Facebook Coverage: <strong id="locationFacebookCoverage"></strong>
                     </div>
                     <div>
-                        <span>Health Audience</span>: <strong id="healthAudienceCountryTooltip"></strong>
+                        <span>Left Audience</span>: <strong id="leftAudienceCountryTooltip"></strong>
                     </div>
                     <div>
-                        <span>Luxury Audience</span>: <strong id="luxuryAudienceCountryTooltip"></strong>
+                        <span>Right Audience</span>: <strong id="rightAudienceCountryTooltip"></strong>
                     </div>
                 </div>
             </div>
@@ -282,7 +282,7 @@
                     </div>
                 </div>
                 <div class="span1">
-                    <div id="countriesList">
+                    <div id="locationBtnList">
                     </div>
                 </div>
             </div>

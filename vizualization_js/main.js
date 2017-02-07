@@ -4,6 +4,7 @@
 
 $(document).ready(function () {
     $(".loader").fadeIn();
+    initApplicationStaticTexts();
     dataManager = new DataManager();
     externalDataManager = new ExternalDataManager();
     var updateFBDemographicDataPromise = externalDataManager.updateFacebookDemographicData();

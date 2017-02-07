@@ -1,0 +1,1837 @@
+,ages_ranges,genders,behavior,scholarities,audience,topic,country_code
+14688,18-24,1,Expats,Graduated,830079,Fighter Aircraft,Alabama
+14689,25-44,1,Expats,Graduated,314151,Fighter Aircraft,Alabama
+14690,45+,1,Expats,Graduated,519460,Fighter Aircraft,Alabama
+14691,18-24,2,Expats,Graduated,134516,Fighter Aircraft,Alabama
+14692,25-44,2,Expats,Graduated,445187,Fighter Aircraft,Alabama
+14693,45+,2,Expats,Graduated,751824,Fighter Aircraft,Alabama
+14694,18-24,1,Expats,No Degree,143311,Fighter Aircraft,Alabama
+14695,25-44,1,Expats,No Degree,779742,Fighter Aircraft,Alabama
+14696,45+,1,Expats,No Degree,411134,Fighter Aircraft,Alabama
+14697,18-24,2,Expats,No Degree,414970,Fighter Aircraft,Alabama
+14698,25-44,2,Expats,No Degree,190615,Fighter Aircraft,Alabama
+14699,45+,2,Expats,No Degree,363130,Fighter Aircraft,Alabama
+14700,18-24,1,Expats,High School,525253,Fighter Aircraft,Alabama
+14701,25-44,1,Expats,High School,659782,Fighter Aircraft,Alabama
+14702,45+,1,Expats,High School,285795,Fighter Aircraft,Alabama
+14703,18-24,2,Expats,High School,327680,Fighter Aircraft,Alabama
+14704,25-44,2,Expats,High School,722515,Fighter Aircraft,Alabama
+14705,45+,2,Expats,High School,118239,Fighter Aircraft,Alabama
+14706,18-24,1,Locals,Graduated,54396,Fighter Aircraft,Alabama
+14707,25-44,1,Locals,Graduated,217069,Fighter Aircraft,Alabama
+14708,45+,1,Locals,Graduated,210041,Fighter Aircraft,Alabama
+14709,18-24,2,Locals,Graduated,525268,Fighter Aircraft,Alabama
+14710,25-44,2,Locals,Graduated,351727,Fighter Aircraft,Alabama
+14711,45+,2,Locals,Graduated,463119,Fighter Aircraft,Alabama
+14712,18-24,1,Locals,No Degree,701650,Fighter Aircraft,Alabama
+14713,25-44,1,Locals,No Degree,215996,Fighter Aircraft,Alabama
+14714,45+,1,Locals,No Degree,55574,Fighter Aircraft,Alabama
+14715,18-24,2,Locals,No Degree,340159,Fighter Aircraft,Alabama
+14716,25-44,2,Locals,No Degree,614311,Fighter Aircraft,Alabama
+14717,45+,2,Locals,No Degree,600358,Fighter Aircraft,Alabama
+14718,18-24,1,Locals,High School,593127,Fighter Aircraft,Alabama
+14719,25-44,1,Locals,High School,446873,Fighter Aircraft,Alabama
+14720,45+,1,Locals,High School,343367,Fighter Aircraft,Alabama
+14721,18-24,2,Locals,High School,71474,Fighter Aircraft,Alabama
+14722,25-44,2,Locals,High School,365734,Fighter Aircraft,Alabama
+14723,45+,2,Locals,High School,419822,Fighter Aircraft,Alabama
+14724,18-24,1,Expats,Graduated,16480,Fighter Aircraft,Alaska
+14725,25-44,1,Expats,Graduated,131006,Fighter Aircraft,Alaska
+14726,45+,1,Expats,Graduated,593361,Fighter Aircraft,Alaska
+14727,18-24,2,Expats,Graduated,850799,Fighter Aircraft,Alaska
+14728,25-44,2,Expats,Graduated,650583,Fighter Aircraft,Alaska
+14729,45+,2,Expats,Graduated,73850,Fighter Aircraft,Alaska
+14730,18-24,1,Expats,No Degree,212589,Fighter Aircraft,Alaska
+14731,25-44,1,Expats,No Degree,420413,Fighter Aircraft,Alaska
+14732,45+,1,Expats,No Degree,248574,Fighter Aircraft,Alaska
+14733,18-24,2,Expats,No Degree,452483,Fighter Aircraft,Alaska
+14734,25-44,2,Expats,No Degree,244870,Fighter Aircraft,Alaska
+14735,45+,2,Expats,No Degree,123772,Fighter Aircraft,Alaska
+14736,18-24,1,Expats,High School,851107,Fighter Aircraft,Alaska
+14737,25-44,1,Expats,High School,400222,Fighter Aircraft,Alaska
+14738,45+,1,Expats,High School,731799,Fighter Aircraft,Alaska
+14739,18-24,2,Expats,High School,851091,Fighter Aircraft,Alaska
+14740,25-44,2,Expats,High School,63667,Fighter Aircraft,Alaska
+14741,45+,2,Expats,High School,342326,Fighter Aircraft,Alaska
+14742,18-24,1,Locals,Graduated,59229,Fighter Aircraft,Alaska
+14743,25-44,1,Locals,Graduated,763563,Fighter Aircraft,Alaska
+14744,45+,1,Locals,Graduated,585117,Fighter Aircraft,Alaska
+14745,18-24,2,Locals,Graduated,999452,Fighter Aircraft,Alaska
+14746,25-44,2,Locals,Graduated,527484,Fighter Aircraft,Alaska
+14747,45+,2,Locals,Graduated,238779,Fighter Aircraft,Alaska
+14748,18-24,1,Locals,No Degree,978029,Fighter Aircraft,Alaska
+14749,25-44,1,Locals,No Degree,493269,Fighter Aircraft,Alaska
+14750,45+,1,Locals,No Degree,130623,Fighter Aircraft,Alaska
+14751,18-24,2,Locals,No Degree,280473,Fighter Aircraft,Alaska
+14752,25-44,2,Locals,No Degree,262660,Fighter Aircraft,Alaska
+14753,45+,2,Locals,No Degree,198077,Fighter Aircraft,Alaska
+14754,18-24,1,Locals,High School,473879,Fighter Aircraft,Alaska
+14755,25-44,1,Locals,High School,574805,Fighter Aircraft,Alaska
+14756,45+,1,Locals,High School,739740,Fighter Aircraft,Alaska
+14757,18-24,2,Locals,High School,688013,Fighter Aircraft,Alaska
+14758,25-44,2,Locals,High School,989834,Fighter Aircraft,Alaska
+14759,45+,2,Locals,High School,586364,Fighter Aircraft,Alaska
+14760,18-24,1,Expats,Graduated,169160,Fighter Aircraft,Arizona
+14761,25-44,1,Expats,Graduated,204250,Fighter Aircraft,Arizona
+14762,45+,1,Expats,Graduated,542008,Fighter Aircraft,Arizona
+14763,18-24,2,Expats,Graduated,440902,Fighter Aircraft,Arizona
+14764,25-44,2,Expats,Graduated,627886,Fighter Aircraft,Arizona
+14765,45+,2,Expats,Graduated,631745,Fighter Aircraft,Arizona
+14766,18-24,1,Expats,No Degree,153114,Fighter Aircraft,Arizona
+14767,25-44,1,Expats,No Degree,153248,Fighter Aircraft,Arizona
+14768,45+,1,Expats,No Degree,642583,Fighter Aircraft,Arizona
+14769,18-24,2,Expats,No Degree,974701,Fighter Aircraft,Arizona
+14770,25-44,2,Expats,No Degree,872087,Fighter Aircraft,Arizona
+14771,45+,2,Expats,No Degree,200288,Fighter Aircraft,Arizona
+14772,18-24,1,Expats,High School,381840,Fighter Aircraft,Arizona
+14773,25-44,1,Expats,High School,562681,Fighter Aircraft,Arizona
+14774,45+,1,Expats,High School,890760,Fighter Aircraft,Arizona
+14775,18-24,2,Expats,High School,34689,Fighter Aircraft,Arizona
+14776,25-44,2,Expats,High School,238840,Fighter Aircraft,Arizona
+14777,45+,2,Expats,High School,822123,Fighter Aircraft,Arizona
+14778,18-24,1,Locals,Graduated,631584,Fighter Aircraft,Arizona
+14779,25-44,1,Locals,Graduated,44244,Fighter Aircraft,Arizona
+14780,45+,1,Locals,Graduated,180730,Fighter Aircraft,Arizona
+14781,18-24,2,Locals,Graduated,646007,Fighter Aircraft,Arizona
+14782,25-44,2,Locals,Graduated,37552,Fighter Aircraft,Arizona
+14783,45+,2,Locals,Graduated,372662,Fighter Aircraft,Arizona
+14784,18-24,1,Locals,No Degree,514566,Fighter Aircraft,Arizona
+14785,25-44,1,Locals,No Degree,513934,Fighter Aircraft,Arizona
+14786,45+,1,Locals,No Degree,15187,Fighter Aircraft,Arizona
+14787,18-24,2,Locals,No Degree,116164,Fighter Aircraft,Arizona
+14788,25-44,2,Locals,No Degree,621886,Fighter Aircraft,Arizona
+14789,45+,2,Locals,No Degree,945058,Fighter Aircraft,Arizona
+14790,18-24,1,Locals,High School,419016,Fighter Aircraft,Arizona
+14791,25-44,1,Locals,High School,400212,Fighter Aircraft,Arizona
+14792,45+,1,Locals,High School,32050,Fighter Aircraft,Arizona
+14793,18-24,2,Locals,High School,957629,Fighter Aircraft,Arizona
+14794,25-44,2,Locals,High School,443904,Fighter Aircraft,Arizona
+14795,45+,2,Locals,High School,786041,Fighter Aircraft,Arizona
+14796,18-24,1,Expats,Graduated,617754,Fighter Aircraft,Arkansas
+14797,25-44,1,Expats,Graduated,882881,Fighter Aircraft,Arkansas
+14798,45+,1,Expats,Graduated,309156,Fighter Aircraft,Arkansas
+14799,18-24,2,Expats,Graduated,185798,Fighter Aircraft,Arkansas
+14800,25-44,2,Expats,Graduated,864687,Fighter Aircraft,Arkansas
+14801,45+,2,Expats,Graduated,335363,Fighter Aircraft,Arkansas
+14802,18-24,1,Expats,No Degree,439874,Fighter Aircraft,Arkansas
+14803,25-44,1,Expats,No Degree,629247,Fighter Aircraft,Arkansas
+14804,45+,1,Expats,No Degree,539997,Fighter Aircraft,Arkansas
+14805,18-24,2,Expats,No Degree,234686,Fighter Aircraft,Arkansas
+14806,25-44,2,Expats,No Degree,465356,Fighter Aircraft,Arkansas
+14807,45+,2,Expats,No Degree,159140,Fighter Aircraft,Arkansas
+14808,18-24,1,Expats,High School,273164,Fighter Aircraft,Arkansas
+14809,25-44,1,Expats,High School,69496,Fighter Aircraft,Arkansas
+14810,45+,1,Expats,High School,351783,Fighter Aircraft,Arkansas
+14811,18-24,2,Expats,High School,525704,Fighter Aircraft,Arkansas
+14812,25-44,2,Expats,High School,55672,Fighter Aircraft,Arkansas
+14813,45+,2,Expats,High School,664651,Fighter Aircraft,Arkansas
+14814,18-24,1,Locals,Graduated,213163,Fighter Aircraft,Arkansas
+14815,25-44,1,Locals,Graduated,951652,Fighter Aircraft,Arkansas
+14816,45+,1,Locals,Graduated,556206,Fighter Aircraft,Arkansas
+14817,18-24,2,Locals,Graduated,399826,Fighter Aircraft,Arkansas
+14818,25-44,2,Locals,Graduated,805962,Fighter Aircraft,Arkansas
+14819,45+,2,Locals,Graduated,583738,Fighter Aircraft,Arkansas
+14820,18-24,1,Locals,No Degree,186568,Fighter Aircraft,Arkansas
+14821,25-44,1,Locals,No Degree,466976,Fighter Aircraft,Arkansas
+14822,45+,1,Locals,No Degree,899641,Fighter Aircraft,Arkansas
+14823,18-24,2,Locals,No Degree,763778,Fighter Aircraft,Arkansas
+14824,25-44,2,Locals,No Degree,848858,Fighter Aircraft,Arkansas
+14825,45+,2,Locals,No Degree,169657,Fighter Aircraft,Arkansas
+14826,18-24,1,Locals,High School,407060,Fighter Aircraft,Arkansas
+14827,25-44,1,Locals,High School,442494,Fighter Aircraft,Arkansas
+14828,45+,1,Locals,High School,722942,Fighter Aircraft,Arkansas
+14829,18-24,2,Locals,High School,537225,Fighter Aircraft,Arkansas
+14830,25-44,2,Locals,High School,735203,Fighter Aircraft,Arkansas
+14831,45+,2,Locals,High School,240460,Fighter Aircraft,Arkansas
+14832,18-24,1,Expats,Graduated,437085,Fighter Aircraft,California
+14833,25-44,1,Expats,Graduated,349800,Fighter Aircraft,California
+14834,45+,1,Expats,Graduated,752008,Fighter Aircraft,California
+14835,18-24,2,Expats,Graduated,522967,Fighter Aircraft,California
+14836,25-44,2,Expats,Graduated,448414,Fighter Aircraft,California
+14837,45+,2,Expats,Graduated,355901,Fighter Aircraft,California
+14838,18-24,1,Expats,No Degree,380508,Fighter Aircraft,California
+14839,25-44,1,Expats,No Degree,741827,Fighter Aircraft,California
+14840,45+,1,Expats,No Degree,556318,Fighter Aircraft,California
+14841,18-24,2,Expats,No Degree,915805,Fighter Aircraft,California
+14842,25-44,2,Expats,No Degree,942627,Fighter Aircraft,California
+14843,45+,2,Expats,No Degree,2621,Fighter Aircraft,California
+14844,18-24,1,Expats,High School,169436,Fighter Aircraft,California
+14845,25-44,1,Expats,High School,560689,Fighter Aircraft,California
+14846,45+,1,Expats,High School,945484,Fighter Aircraft,California
+14847,18-24,2,Expats,High School,269879,Fighter Aircraft,California
+14848,25-44,2,Expats,High School,895806,Fighter Aircraft,California
+14849,45+,2,Expats,High School,480126,Fighter Aircraft,California
+14850,18-24,1,Locals,Graduated,930400,Fighter Aircraft,California
+14851,25-44,1,Locals,Graduated,500706,Fighter Aircraft,California
+14852,45+,1,Locals,Graduated,645086,Fighter Aircraft,California
+14853,18-24,2,Locals,Graduated,245195,Fighter Aircraft,California
+14854,25-44,2,Locals,Graduated,571046,Fighter Aircraft,California
+14855,45+,2,Locals,Graduated,399988,Fighter Aircraft,California
+14856,18-24,1,Locals,No Degree,778282,Fighter Aircraft,California
+14857,25-44,1,Locals,No Degree,950357,Fighter Aircraft,California
+14858,45+,1,Locals,No Degree,281306,Fighter Aircraft,California
+14859,18-24,2,Locals,No Degree,338025,Fighter Aircraft,California
+14860,25-44,2,Locals,No Degree,771041,Fighter Aircraft,California
+14861,45+,2,Locals,No Degree,715092,Fighter Aircraft,California
+14862,18-24,1,Locals,High School,532604,Fighter Aircraft,California
+14863,25-44,1,Locals,High School,405565,Fighter Aircraft,California
+14864,45+,1,Locals,High School,589456,Fighter Aircraft,California
+14865,18-24,2,Locals,High School,235404,Fighter Aircraft,California
+14866,25-44,2,Locals,High School,7556,Fighter Aircraft,California
+14867,45+,2,Locals,High School,763756,Fighter Aircraft,California
+14868,18-24,1,Expats,Graduated,631630,Fighter Aircraft,Colorado
+14869,25-44,1,Expats,Graduated,323579,Fighter Aircraft,Colorado
+14870,45+,1,Expats,Graduated,369364,Fighter Aircraft,Colorado
+14871,18-24,2,Expats,Graduated,383818,Fighter Aircraft,Colorado
+14872,25-44,2,Expats,Graduated,503728,Fighter Aircraft,Colorado
+14873,45+,2,Expats,Graduated,989379,Fighter Aircraft,Colorado
+14874,18-24,1,Expats,No Degree,184374,Fighter Aircraft,Colorado
+14875,25-44,1,Expats,No Degree,173048,Fighter Aircraft,Colorado
+14876,45+,1,Expats,No Degree,488321,Fighter Aircraft,Colorado
+14877,18-24,2,Expats,No Degree,810499,Fighter Aircraft,Colorado
+14878,25-44,2,Expats,No Degree,95862,Fighter Aircraft,Colorado
+14879,45+,2,Expats,No Degree,642102,Fighter Aircraft,Colorado
+14880,18-24,1,Expats,High School,141254,Fighter Aircraft,Colorado
+14881,25-44,1,Expats,High School,257488,Fighter Aircraft,Colorado
+14882,45+,1,Expats,High School,739154,Fighter Aircraft,Colorado
+14883,18-24,2,Expats,High School,429933,Fighter Aircraft,Colorado
+14884,25-44,2,Expats,High School,608005,Fighter Aircraft,Colorado
+14885,45+,2,Expats,High School,388442,Fighter Aircraft,Colorado
+14886,18-24,1,Locals,Graduated,949317,Fighter Aircraft,Colorado
+14887,25-44,1,Locals,Graduated,568826,Fighter Aircraft,Colorado
+14888,45+,1,Locals,Graduated,428573,Fighter Aircraft,Colorado
+14889,18-24,2,Locals,Graduated,415955,Fighter Aircraft,Colorado
+14890,25-44,2,Locals,Graduated,242842,Fighter Aircraft,Colorado
+14891,45+,2,Locals,Graduated,782982,Fighter Aircraft,Colorado
+14892,18-24,1,Locals,No Degree,415233,Fighter Aircraft,Colorado
+14893,25-44,1,Locals,No Degree,798398,Fighter Aircraft,Colorado
+14894,45+,1,Locals,No Degree,159532,Fighter Aircraft,Colorado
+14895,18-24,2,Locals,No Degree,805483,Fighter Aircraft,Colorado
+14896,25-44,2,Locals,No Degree,269697,Fighter Aircraft,Colorado
+14897,45+,2,Locals,No Degree,529493,Fighter Aircraft,Colorado
+14898,18-24,1,Locals,High School,353111,Fighter Aircraft,Colorado
+14899,25-44,1,Locals,High School,571901,Fighter Aircraft,Colorado
+14900,45+,1,Locals,High School,415679,Fighter Aircraft,Colorado
+14901,18-24,2,Locals,High School,64881,Fighter Aircraft,Colorado
+14902,25-44,2,Locals,High School,224277,Fighter Aircraft,Colorado
+14903,45+,2,Locals,High School,913481,Fighter Aircraft,Colorado
+14904,18-24,1,Expats,Graduated,872651,Fighter Aircraft,Connecticut
+14905,25-44,1,Expats,Graduated,727428,Fighter Aircraft,Connecticut
+14906,45+,1,Expats,Graduated,610354,Fighter Aircraft,Connecticut
+14907,18-24,2,Expats,Graduated,227128,Fighter Aircraft,Connecticut
+14908,25-44,2,Expats,Graduated,412653,Fighter Aircraft,Connecticut
+14909,45+,2,Expats,Graduated,261238,Fighter Aircraft,Connecticut
+14910,18-24,1,Expats,No Degree,301406,Fighter Aircraft,Connecticut
+14911,25-44,1,Expats,No Degree,349582,Fighter Aircraft,Connecticut
+14912,45+,1,Expats,No Degree,224932,Fighter Aircraft,Connecticut
+14913,18-24,2,Expats,No Degree,573813,Fighter Aircraft,Connecticut
+14914,25-44,2,Expats,No Degree,878885,Fighter Aircraft,Connecticut
+14915,45+,2,Expats,No Degree,474780,Fighter Aircraft,Connecticut
+14916,18-24,1,Expats,High School,541642,Fighter Aircraft,Connecticut
+14917,25-44,1,Expats,High School,722155,Fighter Aircraft,Connecticut
+14918,45+,1,Expats,High School,44585,Fighter Aircraft,Connecticut
+14919,18-24,2,Expats,High School,498100,Fighter Aircraft,Connecticut
+14920,25-44,2,Expats,High School,776441,Fighter Aircraft,Connecticut
+14921,45+,2,Expats,High School,113823,Fighter Aircraft,Connecticut
+14922,18-24,1,Locals,Graduated,81976,Fighter Aircraft,Connecticut
+14923,25-44,1,Locals,Graduated,182801,Fighter Aircraft,Connecticut
+14924,45+,1,Locals,Graduated,138642,Fighter Aircraft,Connecticut
+14925,18-24,2,Locals,Graduated,322692,Fighter Aircraft,Connecticut
+14926,25-44,2,Locals,Graduated,344737,Fighter Aircraft,Connecticut
+14927,45+,2,Locals,Graduated,971092,Fighter Aircraft,Connecticut
+14928,18-24,1,Locals,No Degree,754393,Fighter Aircraft,Connecticut
+14929,25-44,1,Locals,No Degree,936300,Fighter Aircraft,Connecticut
+14930,45+,1,Locals,No Degree,575462,Fighter Aircraft,Connecticut
+14931,18-24,2,Locals,No Degree,520200,Fighter Aircraft,Connecticut
+14932,25-44,2,Locals,No Degree,474753,Fighter Aircraft,Connecticut
+14933,45+,2,Locals,No Degree,681042,Fighter Aircraft,Connecticut
+14934,18-24,1,Locals,High School,856220,Fighter Aircraft,Connecticut
+14935,25-44,1,Locals,High School,831990,Fighter Aircraft,Connecticut
+14936,45+,1,Locals,High School,155508,Fighter Aircraft,Connecticut
+14937,18-24,2,Locals,High School,711918,Fighter Aircraft,Connecticut
+14938,25-44,2,Locals,High School,23512,Fighter Aircraft,Connecticut
+14939,45+,2,Locals,High School,388156,Fighter Aircraft,Connecticut
+14940,18-24,1,Expats,Graduated,965198,Fighter Aircraft,Delaware
+14941,25-44,1,Expats,Graduated,134704,Fighter Aircraft,Delaware
+14942,45+,1,Expats,Graduated,868912,Fighter Aircraft,Delaware
+14943,18-24,2,Expats,Graduated,864101,Fighter Aircraft,Delaware
+14944,25-44,2,Expats,Graduated,527039,Fighter Aircraft,Delaware
+14945,45+,2,Expats,Graduated,613726,Fighter Aircraft,Delaware
+14946,18-24,1,Expats,No Degree,329948,Fighter Aircraft,Delaware
+14947,25-44,1,Expats,No Degree,42989,Fighter Aircraft,Delaware
+14948,45+,1,Expats,No Degree,220175,Fighter Aircraft,Delaware
+14949,18-24,2,Expats,No Degree,142701,Fighter Aircraft,Delaware
+14950,25-44,2,Expats,No Degree,172958,Fighter Aircraft,Delaware
+14951,45+,2,Expats,No Degree,650939,Fighter Aircraft,Delaware
+14952,18-24,1,Expats,High School,544206,Fighter Aircraft,Delaware
+14953,25-44,1,Expats,High School,955753,Fighter Aircraft,Delaware
+14954,45+,1,Expats,High School,988784,Fighter Aircraft,Delaware
+14955,18-24,2,Expats,High School,619989,Fighter Aircraft,Delaware
+14956,25-44,2,Expats,High School,830972,Fighter Aircraft,Delaware
+14957,45+,2,Expats,High School,995257,Fighter Aircraft,Delaware
+14958,18-24,1,Locals,Graduated,755909,Fighter Aircraft,Delaware
+14959,25-44,1,Locals,Graduated,450825,Fighter Aircraft,Delaware
+14960,45+,1,Locals,Graduated,218737,Fighter Aircraft,Delaware
+14961,18-24,2,Locals,Graduated,690957,Fighter Aircraft,Delaware
+14962,25-44,2,Locals,Graduated,76537,Fighter Aircraft,Delaware
+14963,45+,2,Locals,Graduated,65660,Fighter Aircraft,Delaware
+14964,18-24,1,Locals,No Degree,698451,Fighter Aircraft,Delaware
+14965,25-44,1,Locals,No Degree,371397,Fighter Aircraft,Delaware
+14966,45+,1,Locals,No Degree,222897,Fighter Aircraft,Delaware
+14967,18-24,2,Locals,No Degree,872628,Fighter Aircraft,Delaware
+14968,25-44,2,Locals,No Degree,983533,Fighter Aircraft,Delaware
+14969,45+,2,Locals,No Degree,240604,Fighter Aircraft,Delaware
+14970,18-24,1,Locals,High School,902566,Fighter Aircraft,Delaware
+14971,25-44,1,Locals,High School,679103,Fighter Aircraft,Delaware
+14972,45+,1,Locals,High School,415669,Fighter Aircraft,Delaware
+14973,18-24,2,Locals,High School,155121,Fighter Aircraft,Delaware
+14974,25-44,2,Locals,High School,801504,Fighter Aircraft,Delaware
+14975,45+,2,Locals,High School,256992,Fighter Aircraft,Delaware
+14976,18-24,1,Expats,Graduated,413549,Fighter Aircraft,District of Columbia
+14977,25-44,1,Expats,Graduated,362061,Fighter Aircraft,District of Columbia
+14978,45+,1,Expats,Graduated,972837,Fighter Aircraft,District of Columbia
+14979,18-24,2,Expats,Graduated,273612,Fighter Aircraft,District of Columbia
+14980,25-44,2,Expats,Graduated,506788,Fighter Aircraft,District of Columbia
+14981,45+,2,Expats,Graduated,813379,Fighter Aircraft,District of Columbia
+14982,18-24,1,Expats,No Degree,266216,Fighter Aircraft,District of Columbia
+14983,25-44,1,Expats,No Degree,11186,Fighter Aircraft,District of Columbia
+14984,45+,1,Expats,No Degree,897407,Fighter Aircraft,District of Columbia
+14985,18-24,2,Expats,No Degree,865207,Fighter Aircraft,District of Columbia
+14986,25-44,2,Expats,No Degree,99531,Fighter Aircraft,District of Columbia
+14987,45+,2,Expats,No Degree,257511,Fighter Aircraft,District of Columbia
+14988,18-24,1,Expats,High School,908317,Fighter Aircraft,District of Columbia
+14989,25-44,1,Expats,High School,811127,Fighter Aircraft,District of Columbia
+14990,45+,1,Expats,High School,960561,Fighter Aircraft,District of Columbia
+14991,18-24,2,Expats,High School,337065,Fighter Aircraft,District of Columbia
+14992,25-44,2,Expats,High School,579013,Fighter Aircraft,District of Columbia
+14993,45+,2,Expats,High School,178636,Fighter Aircraft,District of Columbia
+14994,18-24,1,Locals,Graduated,170185,Fighter Aircraft,District of Columbia
+14995,25-44,1,Locals,Graduated,300232,Fighter Aircraft,District of Columbia
+14996,45+,1,Locals,Graduated,618467,Fighter Aircraft,District of Columbia
+14997,18-24,2,Locals,Graduated,939808,Fighter Aircraft,District of Columbia
+14998,25-44,2,Locals,Graduated,794414,Fighter Aircraft,District of Columbia
+14999,45+,2,Locals,Graduated,32595,Fighter Aircraft,District of Columbia
+15000,18-24,1,Locals,No Degree,124981,Fighter Aircraft,District of Columbia
+15001,25-44,1,Locals,No Degree,822289,Fighter Aircraft,District of Columbia
+15002,45+,1,Locals,No Degree,30954,Fighter Aircraft,District of Columbia
+15003,18-24,2,Locals,No Degree,509717,Fighter Aircraft,District of Columbia
+15004,25-44,2,Locals,No Degree,715132,Fighter Aircraft,District of Columbia
+15005,45+,2,Locals,No Degree,305923,Fighter Aircraft,District of Columbia
+15006,18-24,1,Locals,High School,179507,Fighter Aircraft,District of Columbia
+15007,25-44,1,Locals,High School,223204,Fighter Aircraft,District of Columbia
+15008,45+,1,Locals,High School,913061,Fighter Aircraft,District of Columbia
+15009,18-24,2,Locals,High School,749486,Fighter Aircraft,District of Columbia
+15010,25-44,2,Locals,High School,228965,Fighter Aircraft,District of Columbia
+15011,45+,2,Locals,High School,8032,Fighter Aircraft,District of Columbia
+15012,18-24,1,Expats,Graduated,584556,Fighter Aircraft,Florida
+15013,25-44,1,Expats,Graduated,234610,Fighter Aircraft,Florida
+15014,45+,1,Expats,Graduated,592475,Fighter Aircraft,Florida
+15015,18-24,2,Expats,Graduated,676258,Fighter Aircraft,Florida
+15016,25-44,2,Expats,Graduated,796201,Fighter Aircraft,Florida
+15017,45+,2,Expats,Graduated,812424,Fighter Aircraft,Florida
+15018,18-24,1,Expats,No Degree,389458,Fighter Aircraft,Florida
+15019,25-44,1,Expats,No Degree,308685,Fighter Aircraft,Florida
+15020,45+,1,Expats,No Degree,144530,Fighter Aircraft,Florida
+15021,18-24,2,Expats,No Degree,413939,Fighter Aircraft,Florida
+15022,25-44,2,Expats,No Degree,573149,Fighter Aircraft,Florida
+15023,45+,2,Expats,No Degree,439777,Fighter Aircraft,Florida
+15024,18-24,1,Expats,High School,446122,Fighter Aircraft,Florida
+15025,25-44,1,Expats,High School,445013,Fighter Aircraft,Florida
+15026,45+,1,Expats,High School,257259,Fighter Aircraft,Florida
+15027,18-24,2,Expats,High School,447496,Fighter Aircraft,Florida
+15028,25-44,2,Expats,High School,229116,Fighter Aircraft,Florida
+15029,45+,2,Expats,High School,238029,Fighter Aircraft,Florida
+15030,18-24,1,Locals,Graduated,3449,Fighter Aircraft,Florida
+15031,25-44,1,Locals,Graduated,310202,Fighter Aircraft,Florida
+15032,45+,1,Locals,Graduated,559262,Fighter Aircraft,Florida
+15033,18-24,2,Locals,Graduated,370082,Fighter Aircraft,Florida
+15034,25-44,2,Locals,Graduated,374349,Fighter Aircraft,Florida
+15035,45+,2,Locals,Graduated,921893,Fighter Aircraft,Florida
+15036,18-24,1,Locals,No Degree,115987,Fighter Aircraft,Florida
+15037,25-44,1,Locals,No Degree,358170,Fighter Aircraft,Florida
+15038,45+,1,Locals,No Degree,294962,Fighter Aircraft,Florida
+15039,18-24,2,Locals,No Degree,275319,Fighter Aircraft,Florida
+15040,25-44,2,Locals,No Degree,779242,Fighter Aircraft,Florida
+15041,45+,2,Locals,No Degree,496131,Fighter Aircraft,Florida
+15042,18-24,1,Locals,High School,831545,Fighter Aircraft,Florida
+15043,25-44,1,Locals,High School,667437,Fighter Aircraft,Florida
+15044,45+,1,Locals,High School,46302,Fighter Aircraft,Florida
+15045,18-24,2,Locals,High School,69267,Fighter Aircraft,Florida
+15046,25-44,2,Locals,High School,988484,Fighter Aircraft,Florida
+15047,45+,2,Locals,High School,195837,Fighter Aircraft,Florida
+15048,18-24,1,Expats,Graduated,113479,Fighter Aircraft,Georgia
+15049,25-44,1,Expats,Graduated,512053,Fighter Aircraft,Georgia
+15050,45+,1,Expats,Graduated,938846,Fighter Aircraft,Georgia
+15051,18-24,2,Expats,Graduated,366999,Fighter Aircraft,Georgia
+15052,25-44,2,Expats,Graduated,835841,Fighter Aircraft,Georgia
+15053,45+,2,Expats,Graduated,536137,Fighter Aircraft,Georgia
+15054,18-24,1,Expats,No Degree,344985,Fighter Aircraft,Georgia
+15055,25-44,1,Expats,No Degree,533032,Fighter Aircraft,Georgia
+15056,45+,1,Expats,No Degree,439122,Fighter Aircraft,Georgia
+15057,18-24,2,Expats,No Degree,148303,Fighter Aircraft,Georgia
+15058,25-44,2,Expats,No Degree,234355,Fighter Aircraft,Georgia
+15059,45+,2,Expats,No Degree,281898,Fighter Aircraft,Georgia
+15060,18-24,1,Expats,High School,30171,Fighter Aircraft,Georgia
+15061,25-44,1,Expats,High School,266870,Fighter Aircraft,Georgia
+15062,45+,1,Expats,High School,882343,Fighter Aircraft,Georgia
+15063,18-24,2,Expats,High School,857424,Fighter Aircraft,Georgia
+15064,25-44,2,Expats,High School,928914,Fighter Aircraft,Georgia
+15065,45+,2,Expats,High School,331917,Fighter Aircraft,Georgia
+15066,18-24,1,Locals,Graduated,623898,Fighter Aircraft,Georgia
+15067,25-44,1,Locals,Graduated,860885,Fighter Aircraft,Georgia
+15068,45+,1,Locals,Graduated,523579,Fighter Aircraft,Georgia
+15069,18-24,2,Locals,Graduated,208558,Fighter Aircraft,Georgia
+15070,25-44,2,Locals,Graduated,373546,Fighter Aircraft,Georgia
+15071,45+,2,Locals,Graduated,596373,Fighter Aircraft,Georgia
+15072,18-24,1,Locals,No Degree,820455,Fighter Aircraft,Georgia
+15073,25-44,1,Locals,No Degree,523973,Fighter Aircraft,Georgia
+15074,45+,1,Locals,No Degree,111704,Fighter Aircraft,Georgia
+15075,18-24,2,Locals,No Degree,358385,Fighter Aircraft,Georgia
+15076,25-44,2,Locals,No Degree,5214,Fighter Aircraft,Georgia
+15077,45+,2,Locals,No Degree,295824,Fighter Aircraft,Georgia
+15078,18-24,1,Locals,High School,366309,Fighter Aircraft,Georgia
+15079,25-44,1,Locals,High School,168405,Fighter Aircraft,Georgia
+15080,45+,1,Locals,High School,26466,Fighter Aircraft,Georgia
+15081,18-24,2,Locals,High School,906781,Fighter Aircraft,Georgia
+15082,25-44,2,Locals,High School,442618,Fighter Aircraft,Georgia
+15083,45+,2,Locals,High School,535334,Fighter Aircraft,Georgia
+15084,18-24,1,Expats,Graduated,669438,Fighter Aircraft,Hawaii
+15085,25-44,1,Expats,Graduated,378670,Fighter Aircraft,Hawaii
+15086,45+,1,Expats,Graduated,563367,Fighter Aircraft,Hawaii
+15087,18-24,2,Expats,Graduated,843687,Fighter Aircraft,Hawaii
+15088,25-44,2,Expats,Graduated,627651,Fighter Aircraft,Hawaii
+15089,45+,2,Expats,Graduated,580763,Fighter Aircraft,Hawaii
+15090,18-24,1,Expats,No Degree,666121,Fighter Aircraft,Hawaii
+15091,25-44,1,Expats,No Degree,583522,Fighter Aircraft,Hawaii
+15092,45+,1,Expats,No Degree,828674,Fighter Aircraft,Hawaii
+15093,18-24,2,Expats,No Degree,33322,Fighter Aircraft,Hawaii
+15094,25-44,2,Expats,No Degree,865240,Fighter Aircraft,Hawaii
+15095,45+,2,Expats,No Degree,501202,Fighter Aircraft,Hawaii
+15096,18-24,1,Expats,High School,445944,Fighter Aircraft,Hawaii
+15097,25-44,1,Expats,High School,222585,Fighter Aircraft,Hawaii
+15098,45+,1,Expats,High School,506432,Fighter Aircraft,Hawaii
+15099,18-24,2,Expats,High School,671581,Fighter Aircraft,Hawaii
+15100,25-44,2,Expats,High School,846954,Fighter Aircraft,Hawaii
+15101,45+,2,Expats,High School,640839,Fighter Aircraft,Hawaii
+15102,18-24,1,Locals,Graduated,971765,Fighter Aircraft,Hawaii
+15103,25-44,1,Locals,Graduated,730613,Fighter Aircraft,Hawaii
+15104,45+,1,Locals,Graduated,589858,Fighter Aircraft,Hawaii
+15105,18-24,2,Locals,Graduated,655450,Fighter Aircraft,Hawaii
+15106,25-44,2,Locals,Graduated,443209,Fighter Aircraft,Hawaii
+15107,45+,2,Locals,Graduated,893719,Fighter Aircraft,Hawaii
+15108,18-24,1,Locals,No Degree,489361,Fighter Aircraft,Hawaii
+15109,25-44,1,Locals,No Degree,598567,Fighter Aircraft,Hawaii
+15110,45+,1,Locals,No Degree,586605,Fighter Aircraft,Hawaii
+15111,18-24,2,Locals,No Degree,359277,Fighter Aircraft,Hawaii
+15112,25-44,2,Locals,No Degree,763766,Fighter Aircraft,Hawaii
+15113,45+,2,Locals,No Degree,437113,Fighter Aircraft,Hawaii
+15114,18-24,1,Locals,High School,309549,Fighter Aircraft,Hawaii
+15115,25-44,1,Locals,High School,981251,Fighter Aircraft,Hawaii
+15116,45+,1,Locals,High School,25683,Fighter Aircraft,Hawaii
+15117,18-24,2,Locals,High School,108203,Fighter Aircraft,Hawaii
+15118,25-44,2,Locals,High School,528678,Fighter Aircraft,Hawaii
+15119,45+,2,Locals,High School,643900,Fighter Aircraft,Hawaii
+15120,18-24,1,Expats,Graduated,169668,Fighter Aircraft,Idaho
+15121,25-44,1,Expats,Graduated,963911,Fighter Aircraft,Idaho
+15122,45+,1,Expats,Graduated,680692,Fighter Aircraft,Idaho
+15123,18-24,2,Expats,Graduated,446753,Fighter Aircraft,Idaho
+15124,25-44,2,Expats,Graduated,544592,Fighter Aircraft,Idaho
+15125,45+,2,Expats,Graduated,947507,Fighter Aircraft,Idaho
+15126,18-24,1,Expats,No Degree,166786,Fighter Aircraft,Idaho
+15127,25-44,1,Expats,No Degree,855296,Fighter Aircraft,Idaho
+15128,45+,1,Expats,No Degree,658133,Fighter Aircraft,Idaho
+15129,18-24,2,Expats,No Degree,792180,Fighter Aircraft,Idaho
+15130,25-44,2,Expats,No Degree,875979,Fighter Aircraft,Idaho
+15131,45+,2,Expats,No Degree,694870,Fighter Aircraft,Idaho
+15132,18-24,1,Expats,High School,888932,Fighter Aircraft,Idaho
+15133,25-44,1,Expats,High School,874301,Fighter Aircraft,Idaho
+15134,45+,1,Expats,High School,12435,Fighter Aircraft,Idaho
+15135,18-24,2,Expats,High School,795698,Fighter Aircraft,Idaho
+15136,25-44,2,Expats,High School,910910,Fighter Aircraft,Idaho
+15137,45+,2,Expats,High School,483025,Fighter Aircraft,Idaho
+15138,18-24,1,Locals,Graduated,216869,Fighter Aircraft,Idaho
+15139,25-44,1,Locals,Graduated,718940,Fighter Aircraft,Idaho
+15140,45+,1,Locals,Graduated,454914,Fighter Aircraft,Idaho
+15141,18-24,2,Locals,Graduated,578465,Fighter Aircraft,Idaho
+15142,25-44,2,Locals,Graduated,731961,Fighter Aircraft,Idaho
+15143,45+,2,Locals,Graduated,532778,Fighter Aircraft,Idaho
+15144,18-24,1,Locals,No Degree,520267,Fighter Aircraft,Idaho
+15145,25-44,1,Locals,No Degree,437301,Fighter Aircraft,Idaho
+15146,45+,1,Locals,No Degree,203923,Fighter Aircraft,Idaho
+15147,18-24,2,Locals,No Degree,137726,Fighter Aircraft,Idaho
+15148,25-44,2,Locals,No Degree,76230,Fighter Aircraft,Idaho
+15149,45+,2,Locals,No Degree,122050,Fighter Aircraft,Idaho
+15150,18-24,1,Locals,High School,275746,Fighter Aircraft,Idaho
+15151,25-44,1,Locals,High School,571031,Fighter Aircraft,Idaho
+15152,45+,1,Locals,High School,946850,Fighter Aircraft,Idaho
+15153,18-24,2,Locals,High School,322076,Fighter Aircraft,Idaho
+15154,25-44,2,Locals,High School,280717,Fighter Aircraft,Idaho
+15155,45+,2,Locals,High School,197573,Fighter Aircraft,Idaho
+15156,18-24,1,Expats,Graduated,485693,Fighter Aircraft,Illinois
+15157,25-44,1,Expats,Graduated,520234,Fighter Aircraft,Illinois
+15158,45+,1,Expats,Graduated,303090,Fighter Aircraft,Illinois
+15159,18-24,2,Expats,Graduated,23702,Fighter Aircraft,Illinois
+15160,25-44,2,Expats,Graduated,548382,Fighter Aircraft,Illinois
+15161,45+,2,Expats,Graduated,212666,Fighter Aircraft,Illinois
+15162,18-24,1,Expats,No Degree,169654,Fighter Aircraft,Illinois
+15163,25-44,1,Expats,No Degree,981230,Fighter Aircraft,Illinois
+15164,45+,1,Expats,No Degree,362304,Fighter Aircraft,Illinois
+15165,18-24,2,Expats,No Degree,267408,Fighter Aircraft,Illinois
+15166,25-44,2,Expats,No Degree,78357,Fighter Aircraft,Illinois
+15167,45+,2,Expats,No Degree,595672,Fighter Aircraft,Illinois
+15168,18-24,1,Expats,High School,745807,Fighter Aircraft,Illinois
+15169,25-44,1,Expats,High School,341002,Fighter Aircraft,Illinois
+15170,45+,1,Expats,High School,605626,Fighter Aircraft,Illinois
+15171,18-24,2,Expats,High School,760626,Fighter Aircraft,Illinois
+15172,25-44,2,Expats,High School,586431,Fighter Aircraft,Illinois
+15173,45+,2,Expats,High School,451805,Fighter Aircraft,Illinois
+15174,18-24,1,Locals,Graduated,685680,Fighter Aircraft,Illinois
+15175,25-44,1,Locals,Graduated,650206,Fighter Aircraft,Illinois
+15176,45+,1,Locals,Graduated,128234,Fighter Aircraft,Illinois
+15177,18-24,2,Locals,Graduated,234358,Fighter Aircraft,Illinois
+15178,25-44,2,Locals,Graduated,775641,Fighter Aircraft,Illinois
+15179,45+,2,Locals,Graduated,533210,Fighter Aircraft,Illinois
+15180,18-24,1,Locals,No Degree,523387,Fighter Aircraft,Illinois
+15181,25-44,1,Locals,No Degree,92579,Fighter Aircraft,Illinois
+15182,45+,1,Locals,No Degree,406242,Fighter Aircraft,Illinois
+15183,18-24,2,Locals,No Degree,237688,Fighter Aircraft,Illinois
+15184,25-44,2,Locals,No Degree,282783,Fighter Aircraft,Illinois
+15185,45+,2,Locals,No Degree,97511,Fighter Aircraft,Illinois
+15186,18-24,1,Locals,High School,661532,Fighter Aircraft,Illinois
+15187,25-44,1,Locals,High School,117419,Fighter Aircraft,Illinois
+15188,45+,1,Locals,High School,715607,Fighter Aircraft,Illinois
+15189,18-24,2,Locals,High School,710028,Fighter Aircraft,Illinois
+15190,25-44,2,Locals,High School,727592,Fighter Aircraft,Illinois
+15191,45+,2,Locals,High School,535959,Fighter Aircraft,Illinois
+15192,18-24,1,Expats,Graduated,93562,Fighter Aircraft,Indiana
+15193,25-44,1,Expats,Graduated,530953,Fighter Aircraft,Indiana
+15194,45+,1,Expats,Graduated,661514,Fighter Aircraft,Indiana
+15195,18-24,2,Expats,Graduated,104301,Fighter Aircraft,Indiana
+15196,25-44,2,Expats,Graduated,936906,Fighter Aircraft,Indiana
+15197,45+,2,Expats,Graduated,657638,Fighter Aircraft,Indiana
+15198,18-24,1,Expats,No Degree,324759,Fighter Aircraft,Indiana
+15199,25-44,1,Expats,No Degree,716835,Fighter Aircraft,Indiana
+15200,45+,1,Expats,No Degree,499731,Fighter Aircraft,Indiana
+15201,18-24,2,Expats,No Degree,705292,Fighter Aircraft,Indiana
+15202,25-44,2,Expats,No Degree,859133,Fighter Aircraft,Indiana
+15203,45+,2,Expats,No Degree,98540,Fighter Aircraft,Indiana
+15204,18-24,1,Expats,High School,391040,Fighter Aircraft,Indiana
+15205,25-44,1,Expats,High School,235556,Fighter Aircraft,Indiana
+15206,45+,1,Expats,High School,564295,Fighter Aircraft,Indiana
+15207,18-24,2,Expats,High School,415188,Fighter Aircraft,Indiana
+15208,25-44,2,Expats,High School,610335,Fighter Aircraft,Indiana
+15209,45+,2,Expats,High School,291232,Fighter Aircraft,Indiana
+15210,18-24,1,Locals,Graduated,702222,Fighter Aircraft,Indiana
+15211,25-44,1,Locals,Graduated,670717,Fighter Aircraft,Indiana
+15212,45+,1,Locals,Graduated,873282,Fighter Aircraft,Indiana
+15213,18-24,2,Locals,Graduated,254568,Fighter Aircraft,Indiana
+15214,25-44,2,Locals,Graduated,760223,Fighter Aircraft,Indiana
+15215,45+,2,Locals,Graduated,32560,Fighter Aircraft,Indiana
+15216,18-24,1,Locals,No Degree,278319,Fighter Aircraft,Indiana
+15217,25-44,1,Locals,No Degree,266591,Fighter Aircraft,Indiana
+15218,45+,1,Locals,No Degree,745373,Fighter Aircraft,Indiana
+15219,18-24,2,Locals,No Degree,812364,Fighter Aircraft,Indiana
+15220,25-44,2,Locals,No Degree,399495,Fighter Aircraft,Indiana
+15221,45+,2,Locals,No Degree,764990,Fighter Aircraft,Indiana
+15222,18-24,1,Locals,High School,982903,Fighter Aircraft,Indiana
+15223,25-44,1,Locals,High School,621072,Fighter Aircraft,Indiana
+15224,45+,1,Locals,High School,312708,Fighter Aircraft,Indiana
+15225,18-24,2,Locals,High School,131686,Fighter Aircraft,Indiana
+15226,25-44,2,Locals,High School,540984,Fighter Aircraft,Indiana
+15227,45+,2,Locals,High School,558646,Fighter Aircraft,Indiana
+15228,18-24,1,Expats,Graduated,861657,Fighter Aircraft,Iowa
+15229,25-44,1,Expats,Graduated,496328,Fighter Aircraft,Iowa
+15230,45+,1,Expats,Graduated,992184,Fighter Aircraft,Iowa
+15231,18-24,2,Expats,Graduated,154722,Fighter Aircraft,Iowa
+15232,25-44,2,Expats,Graduated,590610,Fighter Aircraft,Iowa
+15233,45+,2,Expats,Graduated,918820,Fighter Aircraft,Iowa
+15234,18-24,1,Expats,No Degree,197446,Fighter Aircraft,Iowa
+15235,25-44,1,Expats,No Degree,838154,Fighter Aircraft,Iowa
+15236,45+,1,Expats,No Degree,389351,Fighter Aircraft,Iowa
+15237,18-24,2,Expats,No Degree,472818,Fighter Aircraft,Iowa
+15238,25-44,2,Expats,No Degree,70539,Fighter Aircraft,Iowa
+15239,45+,2,Expats,No Degree,317658,Fighter Aircraft,Iowa
+15240,18-24,1,Expats,High School,912192,Fighter Aircraft,Iowa
+15241,25-44,1,Expats,High School,944470,Fighter Aircraft,Iowa
+15242,45+,1,Expats,High School,990261,Fighter Aircraft,Iowa
+15243,18-24,2,Expats,High School,305946,Fighter Aircraft,Iowa
+15244,25-44,2,Expats,High School,568745,Fighter Aircraft,Iowa
+15245,45+,2,Expats,High School,56371,Fighter Aircraft,Iowa
+15246,18-24,1,Locals,Graduated,799617,Fighter Aircraft,Iowa
+15247,25-44,1,Locals,Graduated,974671,Fighter Aircraft,Iowa
+15248,45+,1,Locals,Graduated,339578,Fighter Aircraft,Iowa
+15249,18-24,2,Locals,Graduated,404343,Fighter Aircraft,Iowa
+15250,25-44,2,Locals,Graduated,424126,Fighter Aircraft,Iowa
+15251,45+,2,Locals,Graduated,53361,Fighter Aircraft,Iowa
+15252,18-24,1,Locals,No Degree,484696,Fighter Aircraft,Iowa
+15253,25-44,1,Locals,No Degree,737777,Fighter Aircraft,Iowa
+15254,45+,1,Locals,No Degree,613323,Fighter Aircraft,Iowa
+15255,18-24,2,Locals,No Degree,853824,Fighter Aircraft,Iowa
+15256,25-44,2,Locals,No Degree,322897,Fighter Aircraft,Iowa
+15257,45+,2,Locals,No Degree,681065,Fighter Aircraft,Iowa
+15258,18-24,1,Locals,High School,728562,Fighter Aircraft,Iowa
+15259,25-44,1,Locals,High School,534316,Fighter Aircraft,Iowa
+15260,45+,1,Locals,High School,103967,Fighter Aircraft,Iowa
+15261,18-24,2,Locals,High School,784392,Fighter Aircraft,Iowa
+15262,25-44,2,Locals,High School,264285,Fighter Aircraft,Iowa
+15263,45+,2,Locals,High School,186373,Fighter Aircraft,Iowa
+15264,18-24,1,Expats,Graduated,496016,Fighter Aircraft,Kansas
+15265,25-44,1,Expats,Graduated,369644,Fighter Aircraft,Kansas
+15266,45+,1,Expats,Graduated,8984,Fighter Aircraft,Kansas
+15267,18-24,2,Expats,Graduated,902288,Fighter Aircraft,Kansas
+15268,25-44,2,Expats,Graduated,797201,Fighter Aircraft,Kansas
+15269,45+,2,Expats,Graduated,523203,Fighter Aircraft,Kansas
+15270,18-24,1,Expats,No Degree,794544,Fighter Aircraft,Kansas
+15271,25-44,1,Expats,No Degree,657826,Fighter Aircraft,Kansas
+15272,45+,1,Expats,No Degree,715965,Fighter Aircraft,Kansas
+15273,18-24,2,Expats,No Degree,872240,Fighter Aircraft,Kansas
+15274,25-44,2,Expats,No Degree,910756,Fighter Aircraft,Kansas
+15275,45+,2,Expats,No Degree,736761,Fighter Aircraft,Kansas
+15276,18-24,1,Expats,High School,572722,Fighter Aircraft,Kansas
+15277,25-44,1,Expats,High School,463453,Fighter Aircraft,Kansas
+15278,45+,1,Expats,High School,593213,Fighter Aircraft,Kansas
+15279,18-24,2,Expats,High School,789690,Fighter Aircraft,Kansas
+15280,25-44,2,Expats,High School,254087,Fighter Aircraft,Kansas
+15281,45+,2,Expats,High School,198226,Fighter Aircraft,Kansas
+15282,18-24,1,Locals,Graduated,540951,Fighter Aircraft,Kansas
+15283,25-44,1,Locals,Graduated,522299,Fighter Aircraft,Kansas
+15284,45+,1,Locals,Graduated,729884,Fighter Aircraft,Kansas
+15285,18-24,2,Locals,Graduated,103970,Fighter Aircraft,Kansas
+15286,25-44,2,Locals,Graduated,789784,Fighter Aircraft,Kansas
+15287,45+,2,Locals,Graduated,446511,Fighter Aircraft,Kansas
+15288,18-24,1,Locals,No Degree,278905,Fighter Aircraft,Kansas
+15289,25-44,1,Locals,No Degree,223725,Fighter Aircraft,Kansas
+15290,45+,1,Locals,No Degree,283652,Fighter Aircraft,Kansas
+15291,18-24,2,Locals,No Degree,354307,Fighter Aircraft,Kansas
+15292,25-44,2,Locals,No Degree,278877,Fighter Aircraft,Kansas
+15293,45+,2,Locals,No Degree,383934,Fighter Aircraft,Kansas
+15294,18-24,1,Locals,High School,588178,Fighter Aircraft,Kansas
+15295,25-44,1,Locals,High School,870311,Fighter Aircraft,Kansas
+15296,45+,1,Locals,High School,222404,Fighter Aircraft,Kansas
+15297,18-24,2,Locals,High School,7780,Fighter Aircraft,Kansas
+15298,25-44,2,Locals,High School,69129,Fighter Aircraft,Kansas
+15299,45+,2,Locals,High School,355904,Fighter Aircraft,Kansas
+15300,18-24,1,Expats,Graduated,892133,Fighter Aircraft,Kentucky
+15301,25-44,1,Expats,Graduated,695404,Fighter Aircraft,Kentucky
+15302,45+,1,Expats,Graduated,891095,Fighter Aircraft,Kentucky
+15303,18-24,2,Expats,Graduated,112798,Fighter Aircraft,Kentucky
+15304,25-44,2,Expats,Graduated,112214,Fighter Aircraft,Kentucky
+15305,45+,2,Expats,Graduated,716261,Fighter Aircraft,Kentucky
+15306,18-24,1,Expats,No Degree,836780,Fighter Aircraft,Kentucky
+15307,25-44,1,Expats,No Degree,274877,Fighter Aircraft,Kentucky
+15308,45+,1,Expats,No Degree,371782,Fighter Aircraft,Kentucky
+15309,18-24,2,Expats,No Degree,1068,Fighter Aircraft,Kentucky
+15310,25-44,2,Expats,No Degree,155776,Fighter Aircraft,Kentucky
+15311,45+,2,Expats,No Degree,689303,Fighter Aircraft,Kentucky
+15312,18-24,1,Expats,High School,961809,Fighter Aircraft,Kentucky
+15313,25-44,1,Expats,High School,594938,Fighter Aircraft,Kentucky
+15314,45+,1,Expats,High School,927986,Fighter Aircraft,Kentucky
+15315,18-24,2,Expats,High School,359461,Fighter Aircraft,Kentucky
+15316,25-44,2,Expats,High School,666827,Fighter Aircraft,Kentucky
+15317,45+,2,Expats,High School,47946,Fighter Aircraft,Kentucky
+15318,18-24,1,Locals,Graduated,898836,Fighter Aircraft,Kentucky
+15319,25-44,1,Locals,Graduated,147724,Fighter Aircraft,Kentucky
+15320,45+,1,Locals,Graduated,390495,Fighter Aircraft,Kentucky
+15321,18-24,2,Locals,Graduated,228206,Fighter Aircraft,Kentucky
+15322,25-44,2,Locals,Graduated,128413,Fighter Aircraft,Kentucky
+15323,45+,2,Locals,Graduated,985084,Fighter Aircraft,Kentucky
+15324,18-24,1,Locals,No Degree,680194,Fighter Aircraft,Kentucky
+15325,25-44,1,Locals,No Degree,917080,Fighter Aircraft,Kentucky
+15326,45+,1,Locals,No Degree,171964,Fighter Aircraft,Kentucky
+15327,18-24,2,Locals,No Degree,965118,Fighter Aircraft,Kentucky
+15328,25-44,2,Locals,No Degree,598393,Fighter Aircraft,Kentucky
+15329,45+,2,Locals,No Degree,478708,Fighter Aircraft,Kentucky
+15330,18-24,1,Locals,High School,506406,Fighter Aircraft,Kentucky
+15331,25-44,1,Locals,High School,503911,Fighter Aircraft,Kentucky
+15332,45+,1,Locals,High School,691424,Fighter Aircraft,Kentucky
+15333,18-24,2,Locals,High School,310992,Fighter Aircraft,Kentucky
+15334,25-44,2,Locals,High School,634207,Fighter Aircraft,Kentucky
+15335,45+,2,Locals,High School,292247,Fighter Aircraft,Kentucky
+15336,18-24,1,Expats,Graduated,223594,Fighter Aircraft,Louisiana
+15337,25-44,1,Expats,Graduated,127153,Fighter Aircraft,Louisiana
+15338,45+,1,Expats,Graduated,617537,Fighter Aircraft,Louisiana
+15339,18-24,2,Expats,Graduated,541997,Fighter Aircraft,Louisiana
+15340,25-44,2,Expats,Graduated,358616,Fighter Aircraft,Louisiana
+15341,45+,2,Expats,Graduated,6185,Fighter Aircraft,Louisiana
+15342,18-24,1,Expats,No Degree,827971,Fighter Aircraft,Louisiana
+15343,25-44,1,Expats,No Degree,946619,Fighter Aircraft,Louisiana
+15344,45+,1,Expats,No Degree,125064,Fighter Aircraft,Louisiana
+15345,18-24,2,Expats,No Degree,681336,Fighter Aircraft,Louisiana
+15346,25-44,2,Expats,No Degree,977788,Fighter Aircraft,Louisiana
+15347,45+,2,Expats,No Degree,673619,Fighter Aircraft,Louisiana
+15348,18-24,1,Expats,High School,313129,Fighter Aircraft,Louisiana
+15349,25-44,1,Expats,High School,905252,Fighter Aircraft,Louisiana
+15350,45+,1,Expats,High School,577081,Fighter Aircraft,Louisiana
+15351,18-24,2,Expats,High School,632542,Fighter Aircraft,Louisiana
+15352,25-44,2,Expats,High School,537908,Fighter Aircraft,Louisiana
+15353,45+,2,Expats,High School,307919,Fighter Aircraft,Louisiana
+15354,18-24,1,Locals,Graduated,631182,Fighter Aircraft,Louisiana
+15355,25-44,1,Locals,Graduated,603328,Fighter Aircraft,Louisiana
+15356,45+,1,Locals,Graduated,995805,Fighter Aircraft,Louisiana
+15357,18-24,2,Locals,Graduated,944881,Fighter Aircraft,Louisiana
+15358,25-44,2,Locals,Graduated,62501,Fighter Aircraft,Louisiana
+15359,45+,2,Locals,Graduated,717725,Fighter Aircraft,Louisiana
+15360,18-24,1,Locals,No Degree,250821,Fighter Aircraft,Louisiana
+15361,25-44,1,Locals,No Degree,68790,Fighter Aircraft,Louisiana
+15362,45+,1,Locals,No Degree,545264,Fighter Aircraft,Louisiana
+15363,18-24,2,Locals,No Degree,343078,Fighter Aircraft,Louisiana
+15364,25-44,2,Locals,No Degree,321545,Fighter Aircraft,Louisiana
+15365,45+,2,Locals,No Degree,164412,Fighter Aircraft,Louisiana
+15366,18-24,1,Locals,High School,91412,Fighter Aircraft,Louisiana
+15367,25-44,1,Locals,High School,985378,Fighter Aircraft,Louisiana
+15368,45+,1,Locals,High School,239862,Fighter Aircraft,Louisiana
+15369,18-24,2,Locals,High School,576101,Fighter Aircraft,Louisiana
+15370,25-44,2,Locals,High School,183572,Fighter Aircraft,Louisiana
+15371,45+,2,Locals,High School,865945,Fighter Aircraft,Louisiana
+15372,18-24,1,Expats,Graduated,904920,Fighter Aircraft,Maine
+15373,25-44,1,Expats,Graduated,890238,Fighter Aircraft,Maine
+15374,45+,1,Expats,Graduated,780388,Fighter Aircraft,Maine
+15375,18-24,2,Expats,Graduated,462720,Fighter Aircraft,Maine
+15376,25-44,2,Expats,Graduated,793842,Fighter Aircraft,Maine
+15377,45+,2,Expats,Graduated,380938,Fighter Aircraft,Maine
+15378,18-24,1,Expats,No Degree,100069,Fighter Aircraft,Maine
+15379,25-44,1,Expats,No Degree,696427,Fighter Aircraft,Maine
+15380,45+,1,Expats,No Degree,857448,Fighter Aircraft,Maine
+15381,18-24,2,Expats,No Degree,276021,Fighter Aircraft,Maine
+15382,25-44,2,Expats,No Degree,159267,Fighter Aircraft,Maine
+15383,45+,2,Expats,No Degree,125879,Fighter Aircraft,Maine
+15384,18-24,1,Expats,High School,623990,Fighter Aircraft,Maine
+15385,25-44,1,Expats,High School,996810,Fighter Aircraft,Maine
+15386,45+,1,Expats,High School,607901,Fighter Aircraft,Maine
+15387,18-24,2,Expats,High School,792644,Fighter Aircraft,Maine
+15388,25-44,2,Expats,High School,162981,Fighter Aircraft,Maine
+15389,45+,2,Expats,High School,748549,Fighter Aircraft,Maine
+15390,18-24,1,Locals,Graduated,934586,Fighter Aircraft,Maine
+15391,25-44,1,Locals,Graduated,706709,Fighter Aircraft,Maine
+15392,45+,1,Locals,Graduated,839286,Fighter Aircraft,Maine
+15393,18-24,2,Locals,Graduated,185891,Fighter Aircraft,Maine
+15394,25-44,2,Locals,Graduated,246539,Fighter Aircraft,Maine
+15395,45+,2,Locals,Graduated,644546,Fighter Aircraft,Maine
+15396,18-24,1,Locals,No Degree,139033,Fighter Aircraft,Maine
+15397,25-44,1,Locals,No Degree,834017,Fighter Aircraft,Maine
+15398,45+,1,Locals,No Degree,120326,Fighter Aircraft,Maine
+15399,18-24,2,Locals,No Degree,374090,Fighter Aircraft,Maine
+15400,25-44,2,Locals,No Degree,770646,Fighter Aircraft,Maine
+15401,45+,2,Locals,No Degree,102725,Fighter Aircraft,Maine
+15402,18-24,1,Locals,High School,635301,Fighter Aircraft,Maine
+15403,25-44,1,Locals,High School,42183,Fighter Aircraft,Maine
+15404,45+,1,Locals,High School,729232,Fighter Aircraft,Maine
+15405,18-24,2,Locals,High School,148406,Fighter Aircraft,Maine
+15406,25-44,2,Locals,High School,239496,Fighter Aircraft,Maine
+15407,45+,2,Locals,High School,811409,Fighter Aircraft,Maine
+15408,18-24,1,Expats,Graduated,490,Fighter Aircraft,Maryland
+15409,25-44,1,Expats,Graduated,502251,Fighter Aircraft,Maryland
+15410,45+,1,Expats,Graduated,919628,Fighter Aircraft,Maryland
+15411,18-24,2,Expats,Graduated,777138,Fighter Aircraft,Maryland
+15412,25-44,2,Expats,Graduated,462617,Fighter Aircraft,Maryland
+15413,45+,2,Expats,Graduated,416107,Fighter Aircraft,Maryland
+15414,18-24,1,Expats,No Degree,959118,Fighter Aircraft,Maryland
+15415,25-44,1,Expats,No Degree,569658,Fighter Aircraft,Maryland
+15416,45+,1,Expats,No Degree,122222,Fighter Aircraft,Maryland
+15417,18-24,2,Expats,No Degree,349262,Fighter Aircraft,Maryland
+15418,25-44,2,Expats,No Degree,909572,Fighter Aircraft,Maryland
+15419,45+,2,Expats,No Degree,997821,Fighter Aircraft,Maryland
+15420,18-24,1,Expats,High School,168205,Fighter Aircraft,Maryland
+15421,25-44,1,Expats,High School,994949,Fighter Aircraft,Maryland
+15422,45+,1,Expats,High School,239898,Fighter Aircraft,Maryland
+15423,18-24,2,Expats,High School,282377,Fighter Aircraft,Maryland
+15424,25-44,2,Expats,High School,279533,Fighter Aircraft,Maryland
+15425,45+,2,Expats,High School,37802,Fighter Aircraft,Maryland
+15426,18-24,1,Locals,Graduated,231704,Fighter Aircraft,Maryland
+15427,25-44,1,Locals,Graduated,640686,Fighter Aircraft,Maryland
+15428,45+,1,Locals,Graduated,62074,Fighter Aircraft,Maryland
+15429,18-24,2,Locals,Graduated,712571,Fighter Aircraft,Maryland
+15430,25-44,2,Locals,Graduated,554511,Fighter Aircraft,Maryland
+15431,45+,2,Locals,Graduated,651388,Fighter Aircraft,Maryland
+15432,18-24,1,Locals,No Degree,511091,Fighter Aircraft,Maryland
+15433,25-44,1,Locals,No Degree,935325,Fighter Aircraft,Maryland
+15434,45+,1,Locals,No Degree,588934,Fighter Aircraft,Maryland
+15435,18-24,2,Locals,No Degree,201040,Fighter Aircraft,Maryland
+15436,25-44,2,Locals,No Degree,651899,Fighter Aircraft,Maryland
+15437,45+,2,Locals,No Degree,28968,Fighter Aircraft,Maryland
+15438,18-24,1,Locals,High School,681879,Fighter Aircraft,Maryland
+15439,25-44,1,Locals,High School,288150,Fighter Aircraft,Maryland
+15440,45+,1,Locals,High School,789793,Fighter Aircraft,Maryland
+15441,18-24,2,Locals,High School,361192,Fighter Aircraft,Maryland
+15442,25-44,2,Locals,High School,71784,Fighter Aircraft,Maryland
+15443,45+,2,Locals,High School,187009,Fighter Aircraft,Maryland
+15444,18-24,1,Expats,Graduated,219624,Fighter Aircraft,Massachusetts
+15445,25-44,1,Expats,Graduated,802056,Fighter Aircraft,Massachusetts
+15446,45+,1,Expats,Graduated,594800,Fighter Aircraft,Massachusetts
+15447,18-24,2,Expats,Graduated,82331,Fighter Aircraft,Massachusetts
+15448,25-44,2,Expats,Graduated,728938,Fighter Aircraft,Massachusetts
+15449,45+,2,Expats,Graduated,432064,Fighter Aircraft,Massachusetts
+15450,18-24,1,Expats,No Degree,392492,Fighter Aircraft,Massachusetts
+15451,25-44,1,Expats,No Degree,858825,Fighter Aircraft,Massachusetts
+15452,45+,1,Expats,No Degree,919398,Fighter Aircraft,Massachusetts
+15453,18-24,2,Expats,No Degree,709533,Fighter Aircraft,Massachusetts
+15454,25-44,2,Expats,No Degree,58229,Fighter Aircraft,Massachusetts
+15455,45+,2,Expats,No Degree,475666,Fighter Aircraft,Massachusetts
+15456,18-24,1,Expats,High School,243651,Fighter Aircraft,Massachusetts
+15457,25-44,1,Expats,High School,610136,Fighter Aircraft,Massachusetts
+15458,45+,1,Expats,High School,853757,Fighter Aircraft,Massachusetts
+15459,18-24,2,Expats,High School,13245,Fighter Aircraft,Massachusetts
+15460,25-44,2,Expats,High School,895332,Fighter Aircraft,Massachusetts
+15461,45+,2,Expats,High School,454537,Fighter Aircraft,Massachusetts
+15462,18-24,1,Locals,Graduated,373244,Fighter Aircraft,Massachusetts
+15463,25-44,1,Locals,Graduated,869347,Fighter Aircraft,Massachusetts
+15464,45+,1,Locals,Graduated,93181,Fighter Aircraft,Massachusetts
+15465,18-24,2,Locals,Graduated,973673,Fighter Aircraft,Massachusetts
+15466,25-44,2,Locals,Graduated,489606,Fighter Aircraft,Massachusetts
+15467,45+,2,Locals,Graduated,31023,Fighter Aircraft,Massachusetts
+15468,18-24,1,Locals,No Degree,467177,Fighter Aircraft,Massachusetts
+15469,25-44,1,Locals,No Degree,448081,Fighter Aircraft,Massachusetts
+15470,45+,1,Locals,No Degree,441612,Fighter Aircraft,Massachusetts
+15471,18-24,2,Locals,No Degree,214645,Fighter Aircraft,Massachusetts
+15472,25-44,2,Locals,No Degree,600257,Fighter Aircraft,Massachusetts
+15473,45+,2,Locals,No Degree,492999,Fighter Aircraft,Massachusetts
+15474,18-24,1,Locals,High School,268659,Fighter Aircraft,Massachusetts
+15475,25-44,1,Locals,High School,982964,Fighter Aircraft,Massachusetts
+15476,45+,1,Locals,High School,570122,Fighter Aircraft,Massachusetts
+15477,18-24,2,Locals,High School,836653,Fighter Aircraft,Massachusetts
+15478,25-44,2,Locals,High School,223197,Fighter Aircraft,Massachusetts
+15479,45+,2,Locals,High School,712564,Fighter Aircraft,Massachusetts
+15480,18-24,1,Expats,Graduated,773040,Fighter Aircraft,Michigan
+15481,25-44,1,Expats,Graduated,407864,Fighter Aircraft,Michigan
+15482,45+,1,Expats,Graduated,698680,Fighter Aircraft,Michigan
+15483,18-24,2,Expats,Graduated,576979,Fighter Aircraft,Michigan
+15484,25-44,2,Expats,Graduated,905583,Fighter Aircraft,Michigan
+15485,45+,2,Expats,Graduated,822077,Fighter Aircraft,Michigan
+15486,18-24,1,Expats,No Degree,400386,Fighter Aircraft,Michigan
+15487,25-44,1,Expats,No Degree,121219,Fighter Aircraft,Michigan
+15488,45+,1,Expats,No Degree,224794,Fighter Aircraft,Michigan
+15489,18-24,2,Expats,No Degree,640913,Fighter Aircraft,Michigan
+15490,25-44,2,Expats,No Degree,611516,Fighter Aircraft,Michigan
+15491,45+,2,Expats,No Degree,267119,Fighter Aircraft,Michigan
+15492,18-24,1,Expats,High School,911998,Fighter Aircraft,Michigan
+15493,25-44,1,Expats,High School,295991,Fighter Aircraft,Michigan
+15494,45+,1,Expats,High School,693752,Fighter Aircraft,Michigan
+15495,18-24,2,Expats,High School,127828,Fighter Aircraft,Michigan
+15496,25-44,2,Expats,High School,162259,Fighter Aircraft,Michigan
+15497,45+,2,Expats,High School,618856,Fighter Aircraft,Michigan
+15498,18-24,1,Locals,Graduated,222490,Fighter Aircraft,Michigan
+15499,25-44,1,Locals,Graduated,646038,Fighter Aircraft,Michigan
+15500,45+,1,Locals,Graduated,463938,Fighter Aircraft,Michigan
+15501,18-24,2,Locals,Graduated,870755,Fighter Aircraft,Michigan
+15502,25-44,2,Locals,Graduated,840411,Fighter Aircraft,Michigan
+15503,45+,2,Locals,Graduated,340575,Fighter Aircraft,Michigan
+15504,18-24,1,Locals,No Degree,572,Fighter Aircraft,Michigan
+15505,25-44,1,Locals,No Degree,159342,Fighter Aircraft,Michigan
+15506,45+,1,Locals,No Degree,431763,Fighter Aircraft,Michigan
+15507,18-24,2,Locals,No Degree,912140,Fighter Aircraft,Michigan
+15508,25-44,2,Locals,No Degree,327534,Fighter Aircraft,Michigan
+15509,45+,2,Locals,No Degree,295462,Fighter Aircraft,Michigan
+15510,18-24,1,Locals,High School,180632,Fighter Aircraft,Michigan
+15511,25-44,1,Locals,High School,457457,Fighter Aircraft,Michigan
+15512,45+,1,Locals,High School,426746,Fighter Aircraft,Michigan
+15513,18-24,2,Locals,High School,710211,Fighter Aircraft,Michigan
+15514,25-44,2,Locals,High School,427041,Fighter Aircraft,Michigan
+15515,45+,2,Locals,High School,793983,Fighter Aircraft,Michigan
+15516,18-24,1,Expats,Graduated,107000,Fighter Aircraft,Minnesota
+15517,25-44,1,Expats,Graduated,767340,Fighter Aircraft,Minnesota
+15518,45+,1,Expats,Graduated,506339,Fighter Aircraft,Minnesota
+15519,18-24,2,Expats,Graduated,38048,Fighter Aircraft,Minnesota
+15520,25-44,2,Expats,Graduated,423929,Fighter Aircraft,Minnesota
+15521,45+,2,Expats,Graduated,179076,Fighter Aircraft,Minnesota
+15522,18-24,1,Expats,No Degree,721712,Fighter Aircraft,Minnesota
+15523,25-44,1,Expats,No Degree,38897,Fighter Aircraft,Minnesota
+15524,45+,1,Expats,No Degree,315416,Fighter Aircraft,Minnesota
+15525,18-24,2,Expats,No Degree,150599,Fighter Aircraft,Minnesota
+15526,25-44,2,Expats,No Degree,550622,Fighter Aircraft,Minnesota
+15527,45+,2,Expats,No Degree,846424,Fighter Aircraft,Minnesota
+15528,18-24,1,Expats,High School,451572,Fighter Aircraft,Minnesota
+15529,25-44,1,Expats,High School,509918,Fighter Aircraft,Minnesota
+15530,45+,1,Expats,High School,565814,Fighter Aircraft,Minnesota
+15531,18-24,2,Expats,High School,546141,Fighter Aircraft,Minnesota
+15532,25-44,2,Expats,High School,224533,Fighter Aircraft,Minnesota
+15533,45+,2,Expats,High School,185167,Fighter Aircraft,Minnesota
+15534,18-24,1,Locals,Graduated,705280,Fighter Aircraft,Minnesota
+15535,25-44,1,Locals,Graduated,349836,Fighter Aircraft,Minnesota
+15536,45+,1,Locals,Graduated,646471,Fighter Aircraft,Minnesota
+15537,18-24,2,Locals,Graduated,437292,Fighter Aircraft,Minnesota
+15538,25-44,2,Locals,Graduated,521271,Fighter Aircraft,Minnesota
+15539,45+,2,Locals,Graduated,55280,Fighter Aircraft,Minnesota
+15540,18-24,1,Locals,No Degree,746473,Fighter Aircraft,Minnesota
+15541,25-44,1,Locals,No Degree,714478,Fighter Aircraft,Minnesota
+15542,45+,1,Locals,No Degree,600866,Fighter Aircraft,Minnesota
+15543,18-24,2,Locals,No Degree,484797,Fighter Aircraft,Minnesota
+15544,25-44,2,Locals,No Degree,306896,Fighter Aircraft,Minnesota
+15545,45+,2,Locals,No Degree,31877,Fighter Aircraft,Minnesota
+15546,18-24,1,Locals,High School,749103,Fighter Aircraft,Minnesota
+15547,25-44,1,Locals,High School,188100,Fighter Aircraft,Minnesota
+15548,45+,1,Locals,High School,386645,Fighter Aircraft,Minnesota
+15549,18-24,2,Locals,High School,364873,Fighter Aircraft,Minnesota
+15550,25-44,2,Locals,High School,875626,Fighter Aircraft,Minnesota
+15551,45+,2,Locals,High School,299413,Fighter Aircraft,Minnesota
+15552,18-24,1,Expats,Graduated,841953,Fighter Aircraft,Mississippi
+15553,25-44,1,Expats,Graduated,393568,Fighter Aircraft,Mississippi
+15554,45+,1,Expats,Graduated,694055,Fighter Aircraft,Mississippi
+15555,18-24,2,Expats,Graduated,886188,Fighter Aircraft,Mississippi
+15556,25-44,2,Expats,Graduated,127910,Fighter Aircraft,Mississippi
+15557,45+,2,Expats,Graduated,823305,Fighter Aircraft,Mississippi
+15558,18-24,1,Expats,No Degree,641512,Fighter Aircraft,Mississippi
+15559,25-44,1,Expats,No Degree,398339,Fighter Aircraft,Mississippi
+15560,45+,1,Expats,No Degree,787105,Fighter Aircraft,Mississippi
+15561,18-24,2,Expats,No Degree,356357,Fighter Aircraft,Mississippi
+15562,25-44,2,Expats,No Degree,268398,Fighter Aircraft,Mississippi
+15563,45+,2,Expats,No Degree,840448,Fighter Aircraft,Mississippi
+15564,18-24,1,Expats,High School,487022,Fighter Aircraft,Mississippi
+15565,25-44,1,Expats,High School,246797,Fighter Aircraft,Mississippi
+15566,45+,1,Expats,High School,367689,Fighter Aircraft,Mississippi
+15567,18-24,2,Expats,High School,879921,Fighter Aircraft,Mississippi
+15568,25-44,2,Expats,High School,204602,Fighter Aircraft,Mississippi
+15569,45+,2,Expats,High School,465053,Fighter Aircraft,Mississippi
+15570,18-24,1,Locals,Graduated,97321,Fighter Aircraft,Mississippi
+15571,25-44,1,Locals,Graduated,644954,Fighter Aircraft,Mississippi
+15572,45+,1,Locals,Graduated,875808,Fighter Aircraft,Mississippi
+15573,18-24,2,Locals,Graduated,403300,Fighter Aircraft,Mississippi
+15574,25-44,2,Locals,Graduated,457748,Fighter Aircraft,Mississippi
+15575,45+,2,Locals,Graduated,589953,Fighter Aircraft,Mississippi
+15576,18-24,1,Locals,No Degree,973682,Fighter Aircraft,Mississippi
+15577,25-44,1,Locals,No Degree,907323,Fighter Aircraft,Mississippi
+15578,45+,1,Locals,No Degree,368480,Fighter Aircraft,Mississippi
+15579,18-24,2,Locals,No Degree,663764,Fighter Aircraft,Mississippi
+15580,25-44,2,Locals,No Degree,330689,Fighter Aircraft,Mississippi
+15581,45+,2,Locals,No Degree,709631,Fighter Aircraft,Mississippi
+15582,18-24,1,Locals,High School,369369,Fighter Aircraft,Mississippi
+15583,25-44,1,Locals,High School,334247,Fighter Aircraft,Mississippi
+15584,45+,1,Locals,High School,503213,Fighter Aircraft,Mississippi
+15585,18-24,2,Locals,High School,316904,Fighter Aircraft,Mississippi
+15586,25-44,2,Locals,High School,508531,Fighter Aircraft,Mississippi
+15587,45+,2,Locals,High School,548723,Fighter Aircraft,Mississippi
+15588,18-24,1,Expats,Graduated,954369,Fighter Aircraft,Missouri
+15589,25-44,1,Expats,Graduated,576849,Fighter Aircraft,Missouri
+15590,45+,1,Expats,Graduated,69266,Fighter Aircraft,Missouri
+15591,18-24,2,Expats,Graduated,508022,Fighter Aircraft,Missouri
+15592,25-44,2,Expats,Graduated,224543,Fighter Aircraft,Missouri
+15593,45+,2,Expats,Graduated,679349,Fighter Aircraft,Missouri
+15594,18-24,1,Expats,No Degree,503967,Fighter Aircraft,Missouri
+15595,25-44,1,Expats,No Degree,968536,Fighter Aircraft,Missouri
+15596,45+,1,Expats,No Degree,821885,Fighter Aircraft,Missouri
+15597,18-24,2,Expats,No Degree,626992,Fighter Aircraft,Missouri
+15598,25-44,2,Expats,No Degree,831559,Fighter Aircraft,Missouri
+15599,45+,2,Expats,No Degree,132348,Fighter Aircraft,Missouri
+15600,18-24,1,Expats,High School,519545,Fighter Aircraft,Missouri
+15601,25-44,1,Expats,High School,84206,Fighter Aircraft,Missouri
+15602,45+,1,Expats,High School,64096,Fighter Aircraft,Missouri
+15603,18-24,2,Expats,High School,736057,Fighter Aircraft,Missouri
+15604,25-44,2,Expats,High School,203699,Fighter Aircraft,Missouri
+15605,45+,2,Expats,High School,478496,Fighter Aircraft,Missouri
+15606,18-24,1,Locals,Graduated,510114,Fighter Aircraft,Missouri
+15607,25-44,1,Locals,Graduated,195735,Fighter Aircraft,Missouri
+15608,45+,1,Locals,Graduated,395280,Fighter Aircraft,Missouri
+15609,18-24,2,Locals,Graduated,573613,Fighter Aircraft,Missouri
+15610,25-44,2,Locals,Graduated,24830,Fighter Aircraft,Missouri
+15611,45+,2,Locals,Graduated,6156,Fighter Aircraft,Missouri
+15612,18-24,1,Locals,No Degree,119430,Fighter Aircraft,Missouri
+15613,25-44,1,Locals,No Degree,396690,Fighter Aircraft,Missouri
+15614,45+,1,Locals,No Degree,384206,Fighter Aircraft,Missouri
+15615,18-24,2,Locals,No Degree,885062,Fighter Aircraft,Missouri
+15616,25-44,2,Locals,No Degree,903892,Fighter Aircraft,Missouri
+15617,45+,2,Locals,No Degree,798865,Fighter Aircraft,Missouri
+15618,18-24,1,Locals,High School,144022,Fighter Aircraft,Missouri
+15619,25-44,1,Locals,High School,5074,Fighter Aircraft,Missouri
+15620,45+,1,Locals,High School,120757,Fighter Aircraft,Missouri
+15621,18-24,2,Locals,High School,806008,Fighter Aircraft,Missouri
+15622,25-44,2,Locals,High School,507047,Fighter Aircraft,Missouri
+15623,45+,2,Locals,High School,821057,Fighter Aircraft,Missouri
+15624,18-24,1,Expats,Graduated,579792,Fighter Aircraft,Montana
+15625,25-44,1,Expats,Graduated,713176,Fighter Aircraft,Montana
+15626,45+,1,Expats,Graduated,179314,Fighter Aircraft,Montana
+15627,18-24,2,Expats,Graduated,936566,Fighter Aircraft,Montana
+15628,25-44,2,Expats,Graduated,418868,Fighter Aircraft,Montana
+15629,45+,2,Expats,Graduated,436692,Fighter Aircraft,Montana
+15630,18-24,1,Expats,No Degree,762270,Fighter Aircraft,Montana
+15631,25-44,1,Expats,No Degree,627925,Fighter Aircraft,Montana
+15632,45+,1,Expats,No Degree,231848,Fighter Aircraft,Montana
+15633,18-24,2,Expats,No Degree,477802,Fighter Aircraft,Montana
+15634,25-44,2,Expats,No Degree,807433,Fighter Aircraft,Montana
+15635,45+,2,Expats,No Degree,346930,Fighter Aircraft,Montana
+15636,18-24,1,Expats,High School,595471,Fighter Aircraft,Montana
+15637,25-44,1,Expats,High School,144975,Fighter Aircraft,Montana
+15638,45+,1,Expats,High School,551256,Fighter Aircraft,Montana
+15639,18-24,2,Expats,High School,918952,Fighter Aircraft,Montana
+15640,25-44,2,Expats,High School,246896,Fighter Aircraft,Montana
+15641,45+,2,Expats,High School,9380,Fighter Aircraft,Montana
+15642,18-24,1,Locals,Graduated,94436,Fighter Aircraft,Montana
+15643,25-44,1,Locals,Graduated,521727,Fighter Aircraft,Montana
+15644,45+,1,Locals,Graduated,46940,Fighter Aircraft,Montana
+15645,18-24,2,Locals,Graduated,226150,Fighter Aircraft,Montana
+15646,25-44,2,Locals,Graduated,85586,Fighter Aircraft,Montana
+15647,45+,2,Locals,Graduated,400051,Fighter Aircraft,Montana
+15648,18-24,1,Locals,No Degree,544157,Fighter Aircraft,Montana
+15649,25-44,1,Locals,No Degree,228871,Fighter Aircraft,Montana
+15650,45+,1,Locals,No Degree,713612,Fighter Aircraft,Montana
+15651,18-24,2,Locals,No Degree,533392,Fighter Aircraft,Montana
+15652,25-44,2,Locals,No Degree,496005,Fighter Aircraft,Montana
+15653,45+,2,Locals,No Degree,330181,Fighter Aircraft,Montana
+15654,18-24,1,Locals,High School,877520,Fighter Aircraft,Montana
+15655,25-44,1,Locals,High School,445959,Fighter Aircraft,Montana
+15656,45+,1,Locals,High School,47702,Fighter Aircraft,Montana
+15657,18-24,2,Locals,High School,469314,Fighter Aircraft,Montana
+15658,25-44,2,Locals,High School,367019,Fighter Aircraft,Montana
+15659,45+,2,Locals,High School,428849,Fighter Aircraft,Montana
+15660,18-24,1,Expats,Graduated,565937,Fighter Aircraft,Nebraska
+15661,25-44,1,Expats,Graduated,631892,Fighter Aircraft,Nebraska
+15662,45+,1,Expats,Graduated,893943,Fighter Aircraft,Nebraska
+15663,18-24,2,Expats,Graduated,726106,Fighter Aircraft,Nebraska
+15664,25-44,2,Expats,Graduated,93013,Fighter Aircraft,Nebraska
+15665,45+,2,Expats,Graduated,124570,Fighter Aircraft,Nebraska
+15666,18-24,1,Expats,No Degree,749130,Fighter Aircraft,Nebraska
+15667,25-44,1,Expats,No Degree,870556,Fighter Aircraft,Nebraska
+15668,45+,1,Expats,No Degree,476976,Fighter Aircraft,Nebraska
+15669,18-24,2,Expats,No Degree,888104,Fighter Aircraft,Nebraska
+15670,25-44,2,Expats,No Degree,655983,Fighter Aircraft,Nebraska
+15671,45+,2,Expats,No Degree,200860,Fighter Aircraft,Nebraska
+15672,18-24,1,Expats,High School,349189,Fighter Aircraft,Nebraska
+15673,25-44,1,Expats,High School,199833,Fighter Aircraft,Nebraska
+15674,45+,1,Expats,High School,791584,Fighter Aircraft,Nebraska
+15675,18-24,2,Expats,High School,859808,Fighter Aircraft,Nebraska
+15676,25-44,2,Expats,High School,504251,Fighter Aircraft,Nebraska
+15677,45+,2,Expats,High School,878766,Fighter Aircraft,Nebraska
+15678,18-24,1,Locals,Graduated,282204,Fighter Aircraft,Nebraska
+15679,25-44,1,Locals,Graduated,759022,Fighter Aircraft,Nebraska
+15680,45+,1,Locals,Graduated,826753,Fighter Aircraft,Nebraska
+15681,18-24,2,Locals,Graduated,23780,Fighter Aircraft,Nebraska
+15682,25-44,2,Locals,Graduated,758115,Fighter Aircraft,Nebraska
+15683,45+,2,Locals,Graduated,187176,Fighter Aircraft,Nebraska
+15684,18-24,1,Locals,No Degree,643694,Fighter Aircraft,Nebraska
+15685,25-44,1,Locals,No Degree,600830,Fighter Aircraft,Nebraska
+15686,45+,1,Locals,No Degree,79897,Fighter Aircraft,Nebraska
+15687,18-24,2,Locals,No Degree,393075,Fighter Aircraft,Nebraska
+15688,25-44,2,Locals,No Degree,191449,Fighter Aircraft,Nebraska
+15689,45+,2,Locals,No Degree,283125,Fighter Aircraft,Nebraska
+15690,18-24,1,Locals,High School,613988,Fighter Aircraft,Nebraska
+15691,25-44,1,Locals,High School,162773,Fighter Aircraft,Nebraska
+15692,45+,1,Locals,High School,625197,Fighter Aircraft,Nebraska
+15693,18-24,2,Locals,High School,344629,Fighter Aircraft,Nebraska
+15694,25-44,2,Locals,High School,753136,Fighter Aircraft,Nebraska
+15695,45+,2,Locals,High School,842108,Fighter Aircraft,Nebraska
+15696,18-24,1,Expats,Graduated,248687,Fighter Aircraft,Nevada
+15697,25-44,1,Expats,Graduated,983431,Fighter Aircraft,Nevada
+15698,45+,1,Expats,Graduated,17924,Fighter Aircraft,Nevada
+15699,18-24,2,Expats,Graduated,710958,Fighter Aircraft,Nevada
+15700,25-44,2,Expats,Graduated,531360,Fighter Aircraft,Nevada
+15701,45+,2,Expats,Graduated,699876,Fighter Aircraft,Nevada
+15702,18-24,1,Expats,No Degree,132361,Fighter Aircraft,Nevada
+15703,25-44,1,Expats,No Degree,935957,Fighter Aircraft,Nevada
+15704,45+,1,Expats,No Degree,45448,Fighter Aircraft,Nevada
+15705,18-24,2,Expats,No Degree,308648,Fighter Aircraft,Nevada
+15706,25-44,2,Expats,No Degree,912671,Fighter Aircraft,Nevada
+15707,45+,2,Expats,No Degree,401189,Fighter Aircraft,Nevada
+15708,18-24,1,Expats,High School,74281,Fighter Aircraft,Nevada
+15709,25-44,1,Expats,High School,807811,Fighter Aircraft,Nevada
+15710,45+,1,Expats,High School,122621,Fighter Aircraft,Nevada
+15711,18-24,2,Expats,High School,826930,Fighter Aircraft,Nevada
+15712,25-44,2,Expats,High School,112443,Fighter Aircraft,Nevada
+15713,45+,2,Expats,High School,956937,Fighter Aircraft,Nevada
+15714,18-24,1,Locals,Graduated,506848,Fighter Aircraft,Nevada
+15715,25-44,1,Locals,Graduated,800807,Fighter Aircraft,Nevada
+15716,45+,1,Locals,Graduated,590297,Fighter Aircraft,Nevada
+15717,18-24,2,Locals,Graduated,677965,Fighter Aircraft,Nevada
+15718,25-44,2,Locals,Graduated,401580,Fighter Aircraft,Nevada
+15719,45+,2,Locals,Graduated,224560,Fighter Aircraft,Nevada
+15720,18-24,1,Locals,No Degree,441454,Fighter Aircraft,Nevada
+15721,25-44,1,Locals,No Degree,550452,Fighter Aircraft,Nevada
+15722,45+,1,Locals,No Degree,25090,Fighter Aircraft,Nevada
+15723,18-24,2,Locals,No Degree,297029,Fighter Aircraft,Nevada
+15724,25-44,2,Locals,No Degree,689355,Fighter Aircraft,Nevada
+15725,45+,2,Locals,No Degree,114747,Fighter Aircraft,Nevada
+15726,18-24,1,Locals,High School,914638,Fighter Aircraft,Nevada
+15727,25-44,1,Locals,High School,646018,Fighter Aircraft,Nevada
+15728,45+,1,Locals,High School,160195,Fighter Aircraft,Nevada
+15729,18-24,2,Locals,High School,595337,Fighter Aircraft,Nevada
+15730,25-44,2,Locals,High School,440629,Fighter Aircraft,Nevada
+15731,45+,2,Locals,High School,54547,Fighter Aircraft,Nevada
+15732,18-24,1,Expats,Graduated,254340,Fighter Aircraft,New Hampshire
+15733,25-44,1,Expats,Graduated,274194,Fighter Aircraft,New Hampshire
+15734,45+,1,Expats,Graduated,204510,Fighter Aircraft,New Hampshire
+15735,18-24,2,Expats,Graduated,734764,Fighter Aircraft,New Hampshire
+15736,25-44,2,Expats,Graduated,300769,Fighter Aircraft,New Hampshire
+15737,45+,2,Expats,Graduated,233048,Fighter Aircraft,New Hampshire
+15738,18-24,1,Expats,No Degree,914605,Fighter Aircraft,New Hampshire
+15739,25-44,1,Expats,No Degree,420409,Fighter Aircraft,New Hampshire
+15740,45+,1,Expats,No Degree,474178,Fighter Aircraft,New Hampshire
+15741,18-24,2,Expats,No Degree,830517,Fighter Aircraft,New Hampshire
+15742,25-44,2,Expats,No Degree,214788,Fighter Aircraft,New Hampshire
+15743,45+,2,Expats,No Degree,540836,Fighter Aircraft,New Hampshire
+15744,18-24,1,Expats,High School,329063,Fighter Aircraft,New Hampshire
+15745,25-44,1,Expats,High School,509182,Fighter Aircraft,New Hampshire
+15746,45+,1,Expats,High School,848011,Fighter Aircraft,New Hampshire
+15747,18-24,2,Expats,High School,936626,Fighter Aircraft,New Hampshire
+15748,25-44,2,Expats,High School,651791,Fighter Aircraft,New Hampshire
+15749,45+,2,Expats,High School,890060,Fighter Aircraft,New Hampshire
+15750,18-24,1,Locals,Graduated,493051,Fighter Aircraft,New Hampshire
+15751,25-44,1,Locals,Graduated,325005,Fighter Aircraft,New Hampshire
+15752,45+,1,Locals,Graduated,504563,Fighter Aircraft,New Hampshire
+15753,18-24,2,Locals,Graduated,354379,Fighter Aircraft,New Hampshire
+15754,25-44,2,Locals,Graduated,87716,Fighter Aircraft,New Hampshire
+15755,45+,2,Locals,Graduated,487946,Fighter Aircraft,New Hampshire
+15756,18-24,1,Locals,No Degree,289402,Fighter Aircraft,New Hampshire
+15757,25-44,1,Locals,No Degree,170564,Fighter Aircraft,New Hampshire
+15758,45+,1,Locals,No Degree,528824,Fighter Aircraft,New Hampshire
+15759,18-24,2,Locals,No Degree,716416,Fighter Aircraft,New Hampshire
+15760,25-44,2,Locals,No Degree,879098,Fighter Aircraft,New Hampshire
+15761,45+,2,Locals,No Degree,112994,Fighter Aircraft,New Hampshire
+15762,18-24,1,Locals,High School,754346,Fighter Aircraft,New Hampshire
+15763,25-44,1,Locals,High School,290844,Fighter Aircraft,New Hampshire
+15764,45+,1,Locals,High School,1742,Fighter Aircraft,New Hampshire
+15765,18-24,2,Locals,High School,41573,Fighter Aircraft,New Hampshire
+15766,25-44,2,Locals,High School,955464,Fighter Aircraft,New Hampshire
+15767,45+,2,Locals,High School,720259,Fighter Aircraft,New Hampshire
+15768,18-24,1,Expats,Graduated,532634,Fighter Aircraft,New Jersey
+15769,25-44,1,Expats,Graduated,943804,Fighter Aircraft,New Jersey
+15770,45+,1,Expats,Graduated,76867,Fighter Aircraft,New Jersey
+15771,18-24,2,Expats,Graduated,559433,Fighter Aircraft,New Jersey
+15772,25-44,2,Expats,Graduated,797605,Fighter Aircraft,New Jersey
+15773,45+,2,Expats,Graduated,335813,Fighter Aircraft,New Jersey
+15774,18-24,1,Expats,No Degree,214424,Fighter Aircraft,New Jersey
+15775,25-44,1,Expats,No Degree,25953,Fighter Aircraft,New Jersey
+15776,45+,1,Expats,No Degree,120477,Fighter Aircraft,New Jersey
+15777,18-24,2,Expats,No Degree,663565,Fighter Aircraft,New Jersey
+15778,25-44,2,Expats,No Degree,207115,Fighter Aircraft,New Jersey
+15779,45+,2,Expats,No Degree,461079,Fighter Aircraft,New Jersey
+15780,18-24,1,Expats,High School,916563,Fighter Aircraft,New Jersey
+15781,25-44,1,Expats,High School,867721,Fighter Aircraft,New Jersey
+15782,45+,1,Expats,High School,759513,Fighter Aircraft,New Jersey
+15783,18-24,2,Expats,High School,893059,Fighter Aircraft,New Jersey
+15784,25-44,2,Expats,High School,600200,Fighter Aircraft,New Jersey
+15785,45+,2,Expats,High School,586994,Fighter Aircraft,New Jersey
+15786,18-24,1,Locals,Graduated,778413,Fighter Aircraft,New Jersey
+15787,25-44,1,Locals,Graduated,680894,Fighter Aircraft,New Jersey
+15788,45+,1,Locals,Graduated,42879,Fighter Aircraft,New Jersey
+15789,18-24,2,Locals,Graduated,46502,Fighter Aircraft,New Jersey
+15790,25-44,2,Locals,Graduated,476411,Fighter Aircraft,New Jersey
+15791,45+,2,Locals,Graduated,228180,Fighter Aircraft,New Jersey
+15792,18-24,1,Locals,No Degree,117525,Fighter Aircraft,New Jersey
+15793,25-44,1,Locals,No Degree,857529,Fighter Aircraft,New Jersey
+15794,45+,1,Locals,No Degree,762493,Fighter Aircraft,New Jersey
+15795,18-24,2,Locals,No Degree,110121,Fighter Aircraft,New Jersey
+15796,25-44,2,Locals,No Degree,888906,Fighter Aircraft,New Jersey
+15797,45+,2,Locals,No Degree,733141,Fighter Aircraft,New Jersey
+15798,18-24,1,Locals,High School,594488,Fighter Aircraft,New Jersey
+15799,25-44,1,Locals,High School,959654,Fighter Aircraft,New Jersey
+15800,45+,1,Locals,High School,539825,Fighter Aircraft,New Jersey
+15801,18-24,2,Locals,High School,416715,Fighter Aircraft,New Jersey
+15802,25-44,2,Locals,High School,80827,Fighter Aircraft,New Jersey
+15803,45+,2,Locals,High School,912136,Fighter Aircraft,New Jersey
+15804,18-24,1,Expats,Graduated,149957,Fighter Aircraft,New Mexico
+15805,25-44,1,Expats,Graduated,820101,Fighter Aircraft,New Mexico
+15806,45+,1,Expats,Graduated,66802,Fighter Aircraft,New Mexico
+15807,18-24,2,Expats,Graduated,591204,Fighter Aircraft,New Mexico
+15808,25-44,2,Expats,Graduated,825894,Fighter Aircraft,New Mexico
+15809,45+,2,Expats,Graduated,543286,Fighter Aircraft,New Mexico
+15810,18-24,1,Expats,No Degree,361289,Fighter Aircraft,New Mexico
+15811,25-44,1,Expats,No Degree,553102,Fighter Aircraft,New Mexico
+15812,45+,1,Expats,No Degree,387293,Fighter Aircraft,New Mexico
+15813,18-24,2,Expats,No Degree,421285,Fighter Aircraft,New Mexico
+15814,25-44,2,Expats,No Degree,888701,Fighter Aircraft,New Mexico
+15815,45+,2,Expats,No Degree,153914,Fighter Aircraft,New Mexico
+15816,18-24,1,Expats,High School,192334,Fighter Aircraft,New Mexico
+15817,25-44,1,Expats,High School,885257,Fighter Aircraft,New Mexico
+15818,45+,1,Expats,High School,738917,Fighter Aircraft,New Mexico
+15819,18-24,2,Expats,High School,735581,Fighter Aircraft,New Mexico
+15820,25-44,2,Expats,High School,139483,Fighter Aircraft,New Mexico
+15821,45+,2,Expats,High School,30132,Fighter Aircraft,New Mexico
+15822,18-24,1,Locals,Graduated,161675,Fighter Aircraft,New Mexico
+15823,25-44,1,Locals,Graduated,364623,Fighter Aircraft,New Mexico
+15824,45+,1,Locals,Graduated,719352,Fighter Aircraft,New Mexico
+15825,18-24,2,Locals,Graduated,164287,Fighter Aircraft,New Mexico
+15826,25-44,2,Locals,Graduated,31858,Fighter Aircraft,New Mexico
+15827,45+,2,Locals,Graduated,661980,Fighter Aircraft,New Mexico
+15828,18-24,1,Locals,No Degree,50123,Fighter Aircraft,New Mexico
+15829,25-44,1,Locals,No Degree,165418,Fighter Aircraft,New Mexico
+15830,45+,1,Locals,No Degree,332804,Fighter Aircraft,New Mexico
+15831,18-24,2,Locals,No Degree,21876,Fighter Aircraft,New Mexico
+15832,25-44,2,Locals,No Degree,616062,Fighter Aircraft,New Mexico
+15833,45+,2,Locals,No Degree,611546,Fighter Aircraft,New Mexico
+15834,18-24,1,Locals,High School,462431,Fighter Aircraft,New Mexico
+15835,25-44,1,Locals,High School,708095,Fighter Aircraft,New Mexico
+15836,45+,1,Locals,High School,946171,Fighter Aircraft,New Mexico
+15837,18-24,2,Locals,High School,17893,Fighter Aircraft,New Mexico
+15838,25-44,2,Locals,High School,500374,Fighter Aircraft,New Mexico
+15839,45+,2,Locals,High School,702784,Fighter Aircraft,New Mexico
+15840,18-24,1,Expats,Graduated,951496,Fighter Aircraft,New York
+15841,25-44,1,Expats,Graduated,274057,Fighter Aircraft,New York
+15842,45+,1,Expats,Graduated,615227,Fighter Aircraft,New York
+15843,18-24,2,Expats,Graduated,499500,Fighter Aircraft,New York
+15844,25-44,2,Expats,Graduated,772290,Fighter Aircraft,New York
+15845,45+,2,Expats,Graduated,467130,Fighter Aircraft,New York
+15846,18-24,1,Expats,No Degree,359229,Fighter Aircraft,New York
+15847,25-44,1,Expats,No Degree,205278,Fighter Aircraft,New York
+15848,45+,1,Expats,No Degree,721438,Fighter Aircraft,New York
+15849,18-24,2,Expats,No Degree,691941,Fighter Aircraft,New York
+15850,25-44,2,Expats,No Degree,946061,Fighter Aircraft,New York
+15851,45+,2,Expats,No Degree,334497,Fighter Aircraft,New York
+15852,18-24,1,Expats,High School,410914,Fighter Aircraft,New York
+15853,25-44,1,Expats,High School,46775,Fighter Aircraft,New York
+15854,45+,1,Expats,High School,172334,Fighter Aircraft,New York
+15855,18-24,2,Expats,High School,327569,Fighter Aircraft,New York
+15856,25-44,2,Expats,High School,64985,Fighter Aircraft,New York
+15857,45+,2,Expats,High School,982843,Fighter Aircraft,New York
+15858,18-24,1,Locals,Graduated,782821,Fighter Aircraft,New York
+15859,25-44,1,Locals,Graduated,85625,Fighter Aircraft,New York
+15860,45+,1,Locals,Graduated,568108,Fighter Aircraft,New York
+15861,18-24,2,Locals,Graduated,586786,Fighter Aircraft,New York
+15862,25-44,2,Locals,Graduated,635636,Fighter Aircraft,New York
+15863,45+,2,Locals,Graduated,572819,Fighter Aircraft,New York
+15864,18-24,1,Locals,No Degree,549381,Fighter Aircraft,New York
+15865,25-44,1,Locals,No Degree,314322,Fighter Aircraft,New York
+15866,45+,1,Locals,No Degree,579582,Fighter Aircraft,New York
+15867,18-24,2,Locals,No Degree,430235,Fighter Aircraft,New York
+15868,25-44,2,Locals,No Degree,558608,Fighter Aircraft,New York
+15869,45+,2,Locals,No Degree,611649,Fighter Aircraft,New York
+15870,18-24,1,Locals,High School,311789,Fighter Aircraft,New York
+15871,25-44,1,Locals,High School,268359,Fighter Aircraft,New York
+15872,45+,1,Locals,High School,343606,Fighter Aircraft,New York
+15873,18-24,2,Locals,High School,686114,Fighter Aircraft,New York
+15874,25-44,2,Locals,High School,863586,Fighter Aircraft,New York
+15875,45+,2,Locals,High School,403085,Fighter Aircraft,New York
+15876,18-24,1,Expats,Graduated,44820,Fighter Aircraft,North Carolina
+15877,25-44,1,Expats,Graduated,912878,Fighter Aircraft,North Carolina
+15878,45+,1,Expats,Graduated,810693,Fighter Aircraft,North Carolina
+15879,18-24,2,Expats,Graduated,249050,Fighter Aircraft,North Carolina
+15880,25-44,2,Expats,Graduated,356641,Fighter Aircraft,North Carolina
+15881,45+,2,Expats,Graduated,98544,Fighter Aircraft,North Carolina
+15882,18-24,1,Expats,No Degree,180980,Fighter Aircraft,North Carolina
+15883,25-44,1,Expats,No Degree,754390,Fighter Aircraft,North Carolina
+15884,45+,1,Expats,No Degree,488090,Fighter Aircraft,North Carolina
+15885,18-24,2,Expats,No Degree,677812,Fighter Aircraft,North Carolina
+15886,25-44,2,Expats,No Degree,101629,Fighter Aircraft,North Carolina
+15887,45+,2,Expats,No Degree,15693,Fighter Aircraft,North Carolina
+15888,18-24,1,Expats,High School,262794,Fighter Aircraft,North Carolina
+15889,25-44,1,Expats,High School,541797,Fighter Aircraft,North Carolina
+15890,45+,1,Expats,High School,134584,Fighter Aircraft,North Carolina
+15891,18-24,2,Expats,High School,589311,Fighter Aircraft,North Carolina
+15892,25-44,2,Expats,High School,680182,Fighter Aircraft,North Carolina
+15893,45+,2,Expats,High School,785978,Fighter Aircraft,North Carolina
+15894,18-24,1,Locals,Graduated,46552,Fighter Aircraft,North Carolina
+15895,25-44,1,Locals,Graduated,674582,Fighter Aircraft,North Carolina
+15896,45+,1,Locals,Graduated,810552,Fighter Aircraft,North Carolina
+15897,18-24,2,Locals,Graduated,512047,Fighter Aircraft,North Carolina
+15898,25-44,2,Locals,Graduated,76005,Fighter Aircraft,North Carolina
+15899,45+,2,Locals,Graduated,141010,Fighter Aircraft,North Carolina
+15900,18-24,1,Locals,No Degree,286361,Fighter Aircraft,North Carolina
+15901,25-44,1,Locals,No Degree,56250,Fighter Aircraft,North Carolina
+15902,45+,1,Locals,No Degree,51578,Fighter Aircraft,North Carolina
+15903,18-24,2,Locals,No Degree,813200,Fighter Aircraft,North Carolina
+15904,25-44,2,Locals,No Degree,492166,Fighter Aircraft,North Carolina
+15905,45+,2,Locals,No Degree,859436,Fighter Aircraft,North Carolina
+15906,18-24,1,Locals,High School,190137,Fighter Aircraft,North Carolina
+15907,25-44,1,Locals,High School,358895,Fighter Aircraft,North Carolina
+15908,45+,1,Locals,High School,478133,Fighter Aircraft,North Carolina
+15909,18-24,2,Locals,High School,412740,Fighter Aircraft,North Carolina
+15910,25-44,2,Locals,High School,729819,Fighter Aircraft,North Carolina
+15911,45+,2,Locals,High School,314517,Fighter Aircraft,North Carolina
+15912,18-24,1,Expats,Graduated,783657,Fighter Aircraft,North Dakota
+15913,25-44,1,Expats,Graduated,640598,Fighter Aircraft,North Dakota
+15914,45+,1,Expats,Graduated,677335,Fighter Aircraft,North Dakota
+15915,18-24,2,Expats,Graduated,59849,Fighter Aircraft,North Dakota
+15916,25-44,2,Expats,Graduated,872689,Fighter Aircraft,North Dakota
+15917,45+,2,Expats,Graduated,574553,Fighter Aircraft,North Dakota
+15918,18-24,1,Expats,No Degree,67838,Fighter Aircraft,North Dakota
+15919,25-44,1,Expats,No Degree,772133,Fighter Aircraft,North Dakota
+15920,45+,1,Expats,No Degree,70727,Fighter Aircraft,North Dakota
+15921,18-24,2,Expats,No Degree,350663,Fighter Aircraft,North Dakota
+15922,25-44,2,Expats,No Degree,301907,Fighter Aircraft,North Dakota
+15923,45+,2,Expats,No Degree,745170,Fighter Aircraft,North Dakota
+15924,18-24,1,Expats,High School,588223,Fighter Aircraft,North Dakota
+15925,25-44,1,Expats,High School,878111,Fighter Aircraft,North Dakota
+15926,45+,1,Expats,High School,815527,Fighter Aircraft,North Dakota
+15927,18-24,2,Expats,High School,329641,Fighter Aircraft,North Dakota
+15928,25-44,2,Expats,High School,958283,Fighter Aircraft,North Dakota
+15929,45+,2,Expats,High School,251744,Fighter Aircraft,North Dakota
+15930,18-24,1,Locals,Graduated,783964,Fighter Aircraft,North Dakota
+15931,25-44,1,Locals,Graduated,573337,Fighter Aircraft,North Dakota
+15932,45+,1,Locals,Graduated,430378,Fighter Aircraft,North Dakota
+15933,18-24,2,Locals,Graduated,878458,Fighter Aircraft,North Dakota
+15934,25-44,2,Locals,Graduated,996403,Fighter Aircraft,North Dakota
+15935,45+,2,Locals,Graduated,256656,Fighter Aircraft,North Dakota
+15936,18-24,1,Locals,No Degree,62906,Fighter Aircraft,North Dakota
+15937,25-44,1,Locals,No Degree,969572,Fighter Aircraft,North Dakota
+15938,45+,1,Locals,No Degree,311034,Fighter Aircraft,North Dakota
+15939,18-24,2,Locals,No Degree,288229,Fighter Aircraft,North Dakota
+15940,25-44,2,Locals,No Degree,82553,Fighter Aircraft,North Dakota
+15941,45+,2,Locals,No Degree,241655,Fighter Aircraft,North Dakota
+15942,18-24,1,Locals,High School,515657,Fighter Aircraft,North Dakota
+15943,25-44,1,Locals,High School,994880,Fighter Aircraft,North Dakota
+15944,45+,1,Locals,High School,334634,Fighter Aircraft,North Dakota
+15945,18-24,2,Locals,High School,545361,Fighter Aircraft,North Dakota
+15946,25-44,2,Locals,High School,745592,Fighter Aircraft,North Dakota
+15947,45+,2,Locals,High School,849095,Fighter Aircraft,North Dakota
+15948,18-24,1,Expats,Graduated,481633,Fighter Aircraft,Ohio
+15949,25-44,1,Expats,Graduated,204850,Fighter Aircraft,Ohio
+15950,45+,1,Expats,Graduated,989149,Fighter Aircraft,Ohio
+15951,18-24,2,Expats,Graduated,466547,Fighter Aircraft,Ohio
+15952,25-44,2,Expats,Graduated,266074,Fighter Aircraft,Ohio
+15953,45+,2,Expats,Graduated,54779,Fighter Aircraft,Ohio
+15954,18-24,1,Expats,No Degree,203770,Fighter Aircraft,Ohio
+15955,25-44,1,Expats,No Degree,719017,Fighter Aircraft,Ohio
+15956,45+,1,Expats,No Degree,413021,Fighter Aircraft,Ohio
+15957,18-24,2,Expats,No Degree,606273,Fighter Aircraft,Ohio
+15958,25-44,2,Expats,No Degree,545776,Fighter Aircraft,Ohio
+15959,45+,2,Expats,No Degree,771423,Fighter Aircraft,Ohio
+15960,18-24,1,Expats,High School,775423,Fighter Aircraft,Ohio
+15961,25-44,1,Expats,High School,861661,Fighter Aircraft,Ohio
+15962,45+,1,Expats,High School,644750,Fighter Aircraft,Ohio
+15963,18-24,2,Expats,High School,573229,Fighter Aircraft,Ohio
+15964,25-44,2,Expats,High School,915126,Fighter Aircraft,Ohio
+15965,45+,2,Expats,High School,823648,Fighter Aircraft,Ohio
+15966,18-24,1,Locals,Graduated,725880,Fighter Aircraft,Ohio
+15967,25-44,1,Locals,Graduated,420708,Fighter Aircraft,Ohio
+15968,45+,1,Locals,Graduated,781106,Fighter Aircraft,Ohio
+15969,18-24,2,Locals,Graduated,672026,Fighter Aircraft,Ohio
+15970,25-44,2,Locals,Graduated,287975,Fighter Aircraft,Ohio
+15971,45+,2,Locals,Graduated,936355,Fighter Aircraft,Ohio
+15972,18-24,1,Locals,No Degree,737823,Fighter Aircraft,Ohio
+15973,25-44,1,Locals,No Degree,497785,Fighter Aircraft,Ohio
+15974,45+,1,Locals,No Degree,147286,Fighter Aircraft,Ohio
+15975,18-24,2,Locals,No Degree,65384,Fighter Aircraft,Ohio
+15976,25-44,2,Locals,No Degree,880085,Fighter Aircraft,Ohio
+15977,45+,2,Locals,No Degree,750148,Fighter Aircraft,Ohio
+15978,18-24,1,Locals,High School,478065,Fighter Aircraft,Ohio
+15979,25-44,1,Locals,High School,710032,Fighter Aircraft,Ohio
+15980,45+,1,Locals,High School,3432,Fighter Aircraft,Ohio
+15981,18-24,2,Locals,High School,921221,Fighter Aircraft,Ohio
+15982,25-44,2,Locals,High School,683050,Fighter Aircraft,Ohio
+15983,45+,2,Locals,High School,841601,Fighter Aircraft,Ohio
+15984,18-24,1,Expats,Graduated,436715,Fighter Aircraft,Oklahoma
+15985,25-44,1,Expats,Graduated,589525,Fighter Aircraft,Oklahoma
+15986,45+,1,Expats,Graduated,364251,Fighter Aircraft,Oklahoma
+15987,18-24,2,Expats,Graduated,100218,Fighter Aircraft,Oklahoma
+15988,25-44,2,Expats,Graduated,377418,Fighter Aircraft,Oklahoma
+15989,45+,2,Expats,Graduated,395688,Fighter Aircraft,Oklahoma
+15990,18-24,1,Expats,No Degree,722549,Fighter Aircraft,Oklahoma
+15991,25-44,1,Expats,No Degree,698038,Fighter Aircraft,Oklahoma
+15992,45+,1,Expats,No Degree,600611,Fighter Aircraft,Oklahoma
+15993,18-24,2,Expats,No Degree,906611,Fighter Aircraft,Oklahoma
+15994,25-44,2,Expats,No Degree,783699,Fighter Aircraft,Oklahoma
+15995,45+,2,Expats,No Degree,223036,Fighter Aircraft,Oklahoma
+15996,18-24,1,Expats,High School,705048,Fighter Aircraft,Oklahoma
+15997,25-44,1,Expats,High School,947998,Fighter Aircraft,Oklahoma
+15998,45+,1,Expats,High School,134802,Fighter Aircraft,Oklahoma
+15999,18-24,2,Expats,High School,108876,Fighter Aircraft,Oklahoma
+16000,25-44,2,Expats,High School,36964,Fighter Aircraft,Oklahoma
+16001,45+,2,Expats,High School,315915,Fighter Aircraft,Oklahoma
+16002,18-24,1,Locals,Graduated,297604,Fighter Aircraft,Oklahoma
+16003,25-44,1,Locals,Graduated,169564,Fighter Aircraft,Oklahoma
+16004,45+,1,Locals,Graduated,723950,Fighter Aircraft,Oklahoma
+16005,18-24,2,Locals,Graduated,53927,Fighter Aircraft,Oklahoma
+16006,25-44,2,Locals,Graduated,516735,Fighter Aircraft,Oklahoma
+16007,45+,2,Locals,Graduated,563316,Fighter Aircraft,Oklahoma
+16008,18-24,1,Locals,No Degree,102898,Fighter Aircraft,Oklahoma
+16009,25-44,1,Locals,No Degree,111922,Fighter Aircraft,Oklahoma
+16010,45+,1,Locals,No Degree,338448,Fighter Aircraft,Oklahoma
+16011,18-24,2,Locals,No Degree,998927,Fighter Aircraft,Oklahoma
+16012,25-44,2,Locals,No Degree,82330,Fighter Aircraft,Oklahoma
+16013,45+,2,Locals,No Degree,529704,Fighter Aircraft,Oklahoma
+16014,18-24,1,Locals,High School,935399,Fighter Aircraft,Oklahoma
+16015,25-44,1,Locals,High School,506387,Fighter Aircraft,Oklahoma
+16016,45+,1,Locals,High School,487291,Fighter Aircraft,Oklahoma
+16017,18-24,2,Locals,High School,50861,Fighter Aircraft,Oklahoma
+16018,25-44,2,Locals,High School,743941,Fighter Aircraft,Oklahoma
+16019,45+,2,Locals,High School,102317,Fighter Aircraft,Oklahoma
+16020,18-24,1,Expats,Graduated,530205,Fighter Aircraft,Oregon
+16021,25-44,1,Expats,Graduated,476788,Fighter Aircraft,Oregon
+16022,45+,1,Expats,Graduated,310219,Fighter Aircraft,Oregon
+16023,18-24,2,Expats,Graduated,657666,Fighter Aircraft,Oregon
+16024,25-44,2,Expats,Graduated,715529,Fighter Aircraft,Oregon
+16025,45+,2,Expats,Graduated,589496,Fighter Aircraft,Oregon
+16026,18-24,1,Expats,No Degree,235849,Fighter Aircraft,Oregon
+16027,25-44,1,Expats,No Degree,483986,Fighter Aircraft,Oregon
+16028,45+,1,Expats,No Degree,839015,Fighter Aircraft,Oregon
+16029,18-24,2,Expats,No Degree,342370,Fighter Aircraft,Oregon
+16030,25-44,2,Expats,No Degree,553637,Fighter Aircraft,Oregon
+16031,45+,2,Expats,No Degree,188453,Fighter Aircraft,Oregon
+16032,18-24,1,Expats,High School,888589,Fighter Aircraft,Oregon
+16033,25-44,1,Expats,High School,83826,Fighter Aircraft,Oregon
+16034,45+,1,Expats,High School,685292,Fighter Aircraft,Oregon
+16035,18-24,2,Expats,High School,151806,Fighter Aircraft,Oregon
+16036,25-44,2,Expats,High School,507131,Fighter Aircraft,Oregon
+16037,45+,2,Expats,High School,802359,Fighter Aircraft,Oregon
+16038,18-24,1,Locals,Graduated,915459,Fighter Aircraft,Oregon
+16039,25-44,1,Locals,Graduated,607229,Fighter Aircraft,Oregon
+16040,45+,1,Locals,Graduated,101261,Fighter Aircraft,Oregon
+16041,18-24,2,Locals,Graduated,605435,Fighter Aircraft,Oregon
+16042,25-44,2,Locals,Graduated,973591,Fighter Aircraft,Oregon
+16043,45+,2,Locals,Graduated,27040,Fighter Aircraft,Oregon
+16044,18-24,1,Locals,No Degree,278558,Fighter Aircraft,Oregon
+16045,25-44,1,Locals,No Degree,993355,Fighter Aircraft,Oregon
+16046,45+,1,Locals,No Degree,524678,Fighter Aircraft,Oregon
+16047,18-24,2,Locals,No Degree,869078,Fighter Aircraft,Oregon
+16048,25-44,2,Locals,No Degree,78875,Fighter Aircraft,Oregon
+16049,45+,2,Locals,No Degree,738112,Fighter Aircraft,Oregon
+16050,18-24,1,Locals,High School,732557,Fighter Aircraft,Oregon
+16051,25-44,1,Locals,High School,310286,Fighter Aircraft,Oregon
+16052,45+,1,Locals,High School,435798,Fighter Aircraft,Oregon
+16053,18-24,2,Locals,High School,558918,Fighter Aircraft,Oregon
+16054,25-44,2,Locals,High School,967214,Fighter Aircraft,Oregon
+16055,45+,2,Locals,High School,516362,Fighter Aircraft,Oregon
+16056,18-24,1,Expats,Graduated,588427,Fighter Aircraft,Pennsylvania
+16057,25-44,1,Expats,Graduated,96573,Fighter Aircraft,Pennsylvania
+16058,45+,1,Expats,Graduated,420116,Fighter Aircraft,Pennsylvania
+16059,18-24,2,Expats,Graduated,479961,Fighter Aircraft,Pennsylvania
+16060,25-44,2,Expats,Graduated,634520,Fighter Aircraft,Pennsylvania
+16061,45+,2,Expats,Graduated,105565,Fighter Aircraft,Pennsylvania
+16062,18-24,1,Expats,No Degree,354560,Fighter Aircraft,Pennsylvania
+16063,25-44,1,Expats,No Degree,554370,Fighter Aircraft,Pennsylvania
+16064,45+,1,Expats,No Degree,56617,Fighter Aircraft,Pennsylvania
+16065,18-24,2,Expats,No Degree,58934,Fighter Aircraft,Pennsylvania
+16066,25-44,2,Expats,No Degree,687773,Fighter Aircraft,Pennsylvania
+16067,45+,2,Expats,No Degree,343415,Fighter Aircraft,Pennsylvania
+16068,18-24,1,Expats,High School,622776,Fighter Aircraft,Pennsylvania
+16069,25-44,1,Expats,High School,325103,Fighter Aircraft,Pennsylvania
+16070,45+,1,Expats,High School,105275,Fighter Aircraft,Pennsylvania
+16071,18-24,2,Expats,High School,585575,Fighter Aircraft,Pennsylvania
+16072,25-44,2,Expats,High School,352896,Fighter Aircraft,Pennsylvania
+16073,45+,2,Expats,High School,132608,Fighter Aircraft,Pennsylvania
+16074,18-24,1,Locals,Graduated,496397,Fighter Aircraft,Pennsylvania
+16075,25-44,1,Locals,Graduated,126333,Fighter Aircraft,Pennsylvania
+16076,45+,1,Locals,Graduated,109549,Fighter Aircraft,Pennsylvania
+16077,18-24,2,Locals,Graduated,119723,Fighter Aircraft,Pennsylvania
+16078,25-44,2,Locals,Graduated,38565,Fighter Aircraft,Pennsylvania
+16079,45+,2,Locals,Graduated,707566,Fighter Aircraft,Pennsylvania
+16080,18-24,1,Locals,No Degree,755747,Fighter Aircraft,Pennsylvania
+16081,25-44,1,Locals,No Degree,830057,Fighter Aircraft,Pennsylvania
+16082,45+,1,Locals,No Degree,470684,Fighter Aircraft,Pennsylvania
+16083,18-24,2,Locals,No Degree,978658,Fighter Aircraft,Pennsylvania
+16084,25-44,2,Locals,No Degree,923135,Fighter Aircraft,Pennsylvania
+16085,45+,2,Locals,No Degree,312732,Fighter Aircraft,Pennsylvania
+16086,18-24,1,Locals,High School,109576,Fighter Aircraft,Pennsylvania
+16087,25-44,1,Locals,High School,434042,Fighter Aircraft,Pennsylvania
+16088,45+,1,Locals,High School,207460,Fighter Aircraft,Pennsylvania
+16089,18-24,2,Locals,High School,824759,Fighter Aircraft,Pennsylvania
+16090,25-44,2,Locals,High School,215686,Fighter Aircraft,Pennsylvania
+16091,45+,2,Locals,High School,482623,Fighter Aircraft,Pennsylvania
+16092,18-24,1,Expats,Graduated,877330,Fighter Aircraft,Rhode Island
+16093,25-44,1,Expats,Graduated,899246,Fighter Aircraft,Rhode Island
+16094,45+,1,Expats,Graduated,594681,Fighter Aircraft,Rhode Island
+16095,18-24,2,Expats,Graduated,594574,Fighter Aircraft,Rhode Island
+16096,25-44,2,Expats,Graduated,29355,Fighter Aircraft,Rhode Island
+16097,45+,2,Expats,Graduated,912340,Fighter Aircraft,Rhode Island
+16098,18-24,1,Expats,No Degree,373149,Fighter Aircraft,Rhode Island
+16099,25-44,1,Expats,No Degree,622969,Fighter Aircraft,Rhode Island
+16100,45+,1,Expats,No Degree,257800,Fighter Aircraft,Rhode Island
+16101,18-24,2,Expats,No Degree,924722,Fighter Aircraft,Rhode Island
+16102,25-44,2,Expats,No Degree,210733,Fighter Aircraft,Rhode Island
+16103,45+,2,Expats,No Degree,857133,Fighter Aircraft,Rhode Island
+16104,18-24,1,Expats,High School,329370,Fighter Aircraft,Rhode Island
+16105,25-44,1,Expats,High School,217785,Fighter Aircraft,Rhode Island
+16106,45+,1,Expats,High School,655161,Fighter Aircraft,Rhode Island
+16107,18-24,2,Expats,High School,300001,Fighter Aircraft,Rhode Island
+16108,25-44,2,Expats,High School,223594,Fighter Aircraft,Rhode Island
+16109,45+,2,Expats,High School,923446,Fighter Aircraft,Rhode Island
+16110,18-24,1,Locals,Graduated,453925,Fighter Aircraft,Rhode Island
+16111,25-44,1,Locals,Graduated,918799,Fighter Aircraft,Rhode Island
+16112,45+,1,Locals,Graduated,797458,Fighter Aircraft,Rhode Island
+16113,18-24,2,Locals,Graduated,664081,Fighter Aircraft,Rhode Island
+16114,25-44,2,Locals,Graduated,186484,Fighter Aircraft,Rhode Island
+16115,45+,2,Locals,Graduated,4828,Fighter Aircraft,Rhode Island
+16116,18-24,1,Locals,No Degree,430767,Fighter Aircraft,Rhode Island
+16117,25-44,1,Locals,No Degree,83489,Fighter Aircraft,Rhode Island
+16118,45+,1,Locals,No Degree,332079,Fighter Aircraft,Rhode Island
+16119,18-24,2,Locals,No Degree,659789,Fighter Aircraft,Rhode Island
+16120,25-44,2,Locals,No Degree,983972,Fighter Aircraft,Rhode Island
+16121,45+,2,Locals,No Degree,301008,Fighter Aircraft,Rhode Island
+16122,18-24,1,Locals,High School,228708,Fighter Aircraft,Rhode Island
+16123,25-44,1,Locals,High School,904500,Fighter Aircraft,Rhode Island
+16124,45+,1,Locals,High School,768288,Fighter Aircraft,Rhode Island
+16125,18-24,2,Locals,High School,564678,Fighter Aircraft,Rhode Island
+16126,25-44,2,Locals,High School,658557,Fighter Aircraft,Rhode Island
+16127,45+,2,Locals,High School,15831,Fighter Aircraft,Rhode Island
+16128,18-24,1,Expats,Graduated,350466,Fighter Aircraft,South Carolina
+16129,25-44,1,Expats,Graduated,867402,Fighter Aircraft,South Carolina
+16130,45+,1,Expats,Graduated,877165,Fighter Aircraft,South Carolina
+16131,18-24,2,Expats,Graduated,621674,Fighter Aircraft,South Carolina
+16132,25-44,2,Expats,Graduated,911231,Fighter Aircraft,South Carolina
+16133,45+,2,Expats,Graduated,555386,Fighter Aircraft,South Carolina
+16134,18-24,1,Expats,No Degree,275834,Fighter Aircraft,South Carolina
+16135,25-44,1,Expats,No Degree,540266,Fighter Aircraft,South Carolina
+16136,45+,1,Expats,No Degree,857708,Fighter Aircraft,South Carolina
+16137,18-24,2,Expats,No Degree,772508,Fighter Aircraft,South Carolina
+16138,25-44,2,Expats,No Degree,817727,Fighter Aircraft,South Carolina
+16139,45+,2,Expats,No Degree,654618,Fighter Aircraft,South Carolina
+16140,18-24,1,Expats,High School,314259,Fighter Aircraft,South Carolina
+16141,25-44,1,Expats,High School,65806,Fighter Aircraft,South Carolina
+16142,45+,1,Expats,High School,477901,Fighter Aircraft,South Carolina
+16143,18-24,2,Expats,High School,715827,Fighter Aircraft,South Carolina
+16144,25-44,2,Expats,High School,391793,Fighter Aircraft,South Carolina
+16145,45+,2,Expats,High School,388245,Fighter Aircraft,South Carolina
+16146,18-24,1,Locals,Graduated,414875,Fighter Aircraft,South Carolina
+16147,25-44,1,Locals,Graduated,390810,Fighter Aircraft,South Carolina
+16148,45+,1,Locals,Graduated,832643,Fighter Aircraft,South Carolina
+16149,18-24,2,Locals,Graduated,348393,Fighter Aircraft,South Carolina
+16150,25-44,2,Locals,Graduated,89366,Fighter Aircraft,South Carolina
+16151,45+,2,Locals,Graduated,190850,Fighter Aircraft,South Carolina
+16152,18-24,1,Locals,No Degree,769005,Fighter Aircraft,South Carolina
+16153,25-44,1,Locals,No Degree,589950,Fighter Aircraft,South Carolina
+16154,45+,1,Locals,No Degree,306122,Fighter Aircraft,South Carolina
+16155,18-24,2,Locals,No Degree,789100,Fighter Aircraft,South Carolina
+16156,25-44,2,Locals,No Degree,707852,Fighter Aircraft,South Carolina
+16157,45+,2,Locals,No Degree,674979,Fighter Aircraft,South Carolina
+16158,18-24,1,Locals,High School,281788,Fighter Aircraft,South Carolina
+16159,25-44,1,Locals,High School,619197,Fighter Aircraft,South Carolina
+16160,45+,1,Locals,High School,384209,Fighter Aircraft,South Carolina
+16161,18-24,2,Locals,High School,641516,Fighter Aircraft,South Carolina
+16162,25-44,2,Locals,High School,268811,Fighter Aircraft,South Carolina
+16163,45+,2,Locals,High School,321410,Fighter Aircraft,South Carolina
+16164,18-24,1,Expats,Graduated,95031,Fighter Aircraft,South Dakota
+16165,25-44,1,Expats,Graduated,432737,Fighter Aircraft,South Dakota
+16166,45+,1,Expats,Graduated,23777,Fighter Aircraft,South Dakota
+16167,18-24,2,Expats,Graduated,812974,Fighter Aircraft,South Dakota
+16168,25-44,2,Expats,Graduated,737835,Fighter Aircraft,South Dakota
+16169,45+,2,Expats,Graduated,756451,Fighter Aircraft,South Dakota
+16170,18-24,1,Expats,No Degree,88492,Fighter Aircraft,South Dakota
+16171,25-44,1,Expats,No Degree,260605,Fighter Aircraft,South Dakota
+16172,45+,1,Expats,No Degree,575746,Fighter Aircraft,South Dakota
+16173,18-24,2,Expats,No Degree,427831,Fighter Aircraft,South Dakota
+16174,25-44,2,Expats,No Degree,728559,Fighter Aircraft,South Dakota
+16175,45+,2,Expats,No Degree,518162,Fighter Aircraft,South Dakota
+16176,18-24,1,Expats,High School,978060,Fighter Aircraft,South Dakota
+16177,25-44,1,Expats,High School,823181,Fighter Aircraft,South Dakota
+16178,45+,1,Expats,High School,533301,Fighter Aircraft,South Dakota
+16179,18-24,2,Expats,High School,754959,Fighter Aircraft,South Dakota
+16180,25-44,2,Expats,High School,715694,Fighter Aircraft,South Dakota
+16181,45+,2,Expats,High School,38437,Fighter Aircraft,South Dakota
+16182,18-24,1,Locals,Graduated,592468,Fighter Aircraft,South Dakota
+16183,25-44,1,Locals,Graduated,208534,Fighter Aircraft,South Dakota
+16184,45+,1,Locals,Graduated,715794,Fighter Aircraft,South Dakota
+16185,18-24,2,Locals,Graduated,72062,Fighter Aircraft,South Dakota
+16186,25-44,2,Locals,Graduated,961935,Fighter Aircraft,South Dakota
+16187,45+,2,Locals,Graduated,322019,Fighter Aircraft,South Dakota
+16188,18-24,1,Locals,No Degree,554112,Fighter Aircraft,South Dakota
+16189,25-44,1,Locals,No Degree,73159,Fighter Aircraft,South Dakota
+16190,45+,1,Locals,No Degree,622010,Fighter Aircraft,South Dakota
+16191,18-24,2,Locals,No Degree,627169,Fighter Aircraft,South Dakota
+16192,25-44,2,Locals,No Degree,987303,Fighter Aircraft,South Dakota
+16193,45+,2,Locals,No Degree,890097,Fighter Aircraft,South Dakota
+16194,18-24,1,Locals,High School,70478,Fighter Aircraft,South Dakota
+16195,25-44,1,Locals,High School,138458,Fighter Aircraft,South Dakota
+16196,45+,1,Locals,High School,937079,Fighter Aircraft,South Dakota
+16197,18-24,2,Locals,High School,733354,Fighter Aircraft,South Dakota
+16198,25-44,2,Locals,High School,977341,Fighter Aircraft,South Dakota
+16199,45+,2,Locals,High School,942871,Fighter Aircraft,South Dakota
+16200,18-24,1,Expats,Graduated,119461,Fighter Aircraft,Tennessee
+16201,25-44,1,Expats,Graduated,383447,Fighter Aircraft,Tennessee
+16202,45+,1,Expats,Graduated,712794,Fighter Aircraft,Tennessee
+16203,18-24,2,Expats,Graduated,51261,Fighter Aircraft,Tennessee
+16204,25-44,2,Expats,Graduated,541140,Fighter Aircraft,Tennessee
+16205,45+,2,Expats,Graduated,758163,Fighter Aircraft,Tennessee
+16206,18-24,1,Expats,No Degree,300233,Fighter Aircraft,Tennessee
+16207,25-44,1,Expats,No Degree,871227,Fighter Aircraft,Tennessee
+16208,45+,1,Expats,No Degree,195891,Fighter Aircraft,Tennessee
+16209,18-24,2,Expats,No Degree,150515,Fighter Aircraft,Tennessee
+16210,25-44,2,Expats,No Degree,197616,Fighter Aircraft,Tennessee
+16211,45+,2,Expats,No Degree,528341,Fighter Aircraft,Tennessee
+16212,18-24,1,Expats,High School,370353,Fighter Aircraft,Tennessee
+16213,25-44,1,Expats,High School,545569,Fighter Aircraft,Tennessee
+16214,45+,1,Expats,High School,276216,Fighter Aircraft,Tennessee
+16215,18-24,2,Expats,High School,179457,Fighter Aircraft,Tennessee
+16216,25-44,2,Expats,High School,521338,Fighter Aircraft,Tennessee
+16217,45+,2,Expats,High School,999302,Fighter Aircraft,Tennessee
+16218,18-24,1,Locals,Graduated,216228,Fighter Aircraft,Tennessee
+16219,25-44,1,Locals,Graduated,30862,Fighter Aircraft,Tennessee
+16220,45+,1,Locals,Graduated,497247,Fighter Aircraft,Tennessee
+16221,18-24,2,Locals,Graduated,675012,Fighter Aircraft,Tennessee
+16222,25-44,2,Locals,Graduated,780244,Fighter Aircraft,Tennessee
+16223,45+,2,Locals,Graduated,677763,Fighter Aircraft,Tennessee
+16224,18-24,1,Locals,No Degree,762493,Fighter Aircraft,Tennessee
+16225,25-44,1,Locals,No Degree,494267,Fighter Aircraft,Tennessee
+16226,45+,1,Locals,No Degree,41725,Fighter Aircraft,Tennessee
+16227,18-24,2,Locals,No Degree,300895,Fighter Aircraft,Tennessee
+16228,25-44,2,Locals,No Degree,413189,Fighter Aircraft,Tennessee
+16229,45+,2,Locals,No Degree,734309,Fighter Aircraft,Tennessee
+16230,18-24,1,Locals,High School,892497,Fighter Aircraft,Tennessee
+16231,25-44,1,Locals,High School,381575,Fighter Aircraft,Tennessee
+16232,45+,1,Locals,High School,615165,Fighter Aircraft,Tennessee
+16233,18-24,2,Locals,High School,109449,Fighter Aircraft,Tennessee
+16234,25-44,2,Locals,High School,967420,Fighter Aircraft,Tennessee
+16235,45+,2,Locals,High School,712722,Fighter Aircraft,Tennessee
+16236,18-24,1,Expats,Graduated,942273,Fighter Aircraft,Texas
+16237,25-44,1,Expats,Graduated,907290,Fighter Aircraft,Texas
+16238,45+,1,Expats,Graduated,90255,Fighter Aircraft,Texas
+16239,18-24,2,Expats,Graduated,231200,Fighter Aircraft,Texas
+16240,25-44,2,Expats,Graduated,409704,Fighter Aircraft,Texas
+16241,45+,2,Expats,Graduated,25125,Fighter Aircraft,Texas
+16242,18-24,1,Expats,No Degree,754538,Fighter Aircraft,Texas
+16243,25-44,1,Expats,No Degree,701540,Fighter Aircraft,Texas
+16244,45+,1,Expats,No Degree,239231,Fighter Aircraft,Texas
+16245,18-24,2,Expats,No Degree,516179,Fighter Aircraft,Texas
+16246,25-44,2,Expats,No Degree,655191,Fighter Aircraft,Texas
+16247,45+,2,Expats,No Degree,19066,Fighter Aircraft,Texas
+16248,18-24,1,Expats,High School,12350,Fighter Aircraft,Texas
+16249,25-44,1,Expats,High School,288175,Fighter Aircraft,Texas
+16250,45+,1,Expats,High School,178921,Fighter Aircraft,Texas
+16251,18-24,2,Expats,High School,337783,Fighter Aircraft,Texas
+16252,25-44,2,Expats,High School,591175,Fighter Aircraft,Texas
+16253,45+,2,Expats,High School,394232,Fighter Aircraft,Texas
+16254,18-24,1,Locals,Graduated,788197,Fighter Aircraft,Texas
+16255,25-44,1,Locals,Graduated,652804,Fighter Aircraft,Texas
+16256,45+,1,Locals,Graduated,853659,Fighter Aircraft,Texas
+16257,18-24,2,Locals,Graduated,849965,Fighter Aircraft,Texas
+16258,25-44,2,Locals,Graduated,475008,Fighter Aircraft,Texas
+16259,45+,2,Locals,Graduated,312820,Fighter Aircraft,Texas
+16260,18-24,1,Locals,No Degree,962463,Fighter Aircraft,Texas
+16261,25-44,1,Locals,No Degree,179433,Fighter Aircraft,Texas
+16262,45+,1,Locals,No Degree,429432,Fighter Aircraft,Texas
+16263,18-24,2,Locals,No Degree,998102,Fighter Aircraft,Texas
+16264,25-44,2,Locals,No Degree,643362,Fighter Aircraft,Texas
+16265,45+,2,Locals,No Degree,141338,Fighter Aircraft,Texas
+16266,18-24,1,Locals,High School,119127,Fighter Aircraft,Texas
+16267,25-44,1,Locals,High School,215374,Fighter Aircraft,Texas
+16268,45+,1,Locals,High School,424568,Fighter Aircraft,Texas
+16269,18-24,2,Locals,High School,478338,Fighter Aircraft,Texas
+16270,25-44,2,Locals,High School,22471,Fighter Aircraft,Texas
+16271,45+,2,Locals,High School,545591,Fighter Aircraft,Texas
+16272,18-24,1,Expats,Graduated,840840,Fighter Aircraft,Utah
+16273,25-44,1,Expats,Graduated,345435,Fighter Aircraft,Utah
+16274,45+,1,Expats,Graduated,934582,Fighter Aircraft,Utah
+16275,18-24,2,Expats,Graduated,815253,Fighter Aircraft,Utah
+16276,25-44,2,Expats,Graduated,667713,Fighter Aircraft,Utah
+16277,45+,2,Expats,Graduated,230495,Fighter Aircraft,Utah
+16278,18-24,1,Expats,No Degree,524466,Fighter Aircraft,Utah
+16279,25-44,1,Expats,No Degree,949427,Fighter Aircraft,Utah
+16280,45+,1,Expats,No Degree,916303,Fighter Aircraft,Utah
+16281,18-24,2,Expats,No Degree,172407,Fighter Aircraft,Utah
+16282,25-44,2,Expats,No Degree,594002,Fighter Aircraft,Utah
+16283,45+,2,Expats,No Degree,788152,Fighter Aircraft,Utah
+16284,18-24,1,Expats,High School,919138,Fighter Aircraft,Utah
+16285,25-44,1,Expats,High School,797115,Fighter Aircraft,Utah
+16286,45+,1,Expats,High School,325471,Fighter Aircraft,Utah
+16287,18-24,2,Expats,High School,27111,Fighter Aircraft,Utah
+16288,25-44,2,Expats,High School,494671,Fighter Aircraft,Utah
+16289,45+,2,Expats,High School,310272,Fighter Aircraft,Utah
+16290,18-24,1,Locals,Graduated,409185,Fighter Aircraft,Utah
+16291,25-44,1,Locals,Graduated,832618,Fighter Aircraft,Utah
+16292,45+,1,Locals,Graduated,402239,Fighter Aircraft,Utah
+16293,18-24,2,Locals,Graduated,893163,Fighter Aircraft,Utah
+16294,25-44,2,Locals,Graduated,348263,Fighter Aircraft,Utah
+16295,45+,2,Locals,Graduated,290016,Fighter Aircraft,Utah
+16296,18-24,1,Locals,No Degree,556782,Fighter Aircraft,Utah
+16297,25-44,1,Locals,No Degree,161151,Fighter Aircraft,Utah
+16298,45+,1,Locals,No Degree,425293,Fighter Aircraft,Utah
+16299,18-24,2,Locals,No Degree,330609,Fighter Aircraft,Utah
+16300,25-44,2,Locals,No Degree,635568,Fighter Aircraft,Utah
+16301,45+,2,Locals,No Degree,719658,Fighter Aircraft,Utah
+16302,18-24,1,Locals,High School,584915,Fighter Aircraft,Utah
+16303,25-44,1,Locals,High School,436137,Fighter Aircraft,Utah
+16304,45+,1,Locals,High School,463422,Fighter Aircraft,Utah
+16305,18-24,2,Locals,High School,116321,Fighter Aircraft,Utah
+16306,25-44,2,Locals,High School,877860,Fighter Aircraft,Utah
+16307,45+,2,Locals,High School,695363,Fighter Aircraft,Utah
+16308,18-24,1,Expats,Graduated,208541,Fighter Aircraft,Vermont
+16309,25-44,1,Expats,Graduated,30411,Fighter Aircraft,Vermont
+16310,45+,1,Expats,Graduated,692976,Fighter Aircraft,Vermont
+16311,18-24,2,Expats,Graduated,496798,Fighter Aircraft,Vermont
+16312,25-44,2,Expats,Graduated,556818,Fighter Aircraft,Vermont
+16313,45+,2,Expats,Graduated,64446,Fighter Aircraft,Vermont
+16314,18-24,1,Expats,No Degree,560486,Fighter Aircraft,Vermont
+16315,25-44,1,Expats,No Degree,293071,Fighter Aircraft,Vermont
+16316,45+,1,Expats,No Degree,168581,Fighter Aircraft,Vermont
+16317,18-24,2,Expats,No Degree,906132,Fighter Aircraft,Vermont
+16318,25-44,2,Expats,No Degree,273640,Fighter Aircraft,Vermont
+16319,45+,2,Expats,No Degree,616075,Fighter Aircraft,Vermont
+16320,18-24,1,Expats,High School,718220,Fighter Aircraft,Vermont
+16321,25-44,1,Expats,High School,978332,Fighter Aircraft,Vermont
+16322,45+,1,Expats,High School,896171,Fighter Aircraft,Vermont
+16323,18-24,2,Expats,High School,118149,Fighter Aircraft,Vermont
+16324,25-44,2,Expats,High School,679485,Fighter Aircraft,Vermont
+16325,45+,2,Expats,High School,483017,Fighter Aircraft,Vermont
+16326,18-24,1,Locals,Graduated,589684,Fighter Aircraft,Vermont
+16327,25-44,1,Locals,Graduated,434578,Fighter Aircraft,Vermont
+16328,45+,1,Locals,Graduated,92185,Fighter Aircraft,Vermont
+16329,18-24,2,Locals,Graduated,379891,Fighter Aircraft,Vermont
+16330,25-44,2,Locals,Graduated,111953,Fighter Aircraft,Vermont
+16331,45+,2,Locals,Graduated,121926,Fighter Aircraft,Vermont
+16332,18-24,1,Locals,No Degree,506389,Fighter Aircraft,Vermont
+16333,25-44,1,Locals,No Degree,920393,Fighter Aircraft,Vermont
+16334,45+,1,Locals,No Degree,983786,Fighter Aircraft,Vermont
+16335,18-24,2,Locals,No Degree,756567,Fighter Aircraft,Vermont
+16336,25-44,2,Locals,No Degree,658193,Fighter Aircraft,Vermont
+16337,45+,2,Locals,No Degree,175930,Fighter Aircraft,Vermont
+16338,18-24,1,Locals,High School,498601,Fighter Aircraft,Vermont
+16339,25-44,1,Locals,High School,354692,Fighter Aircraft,Vermont
+16340,45+,1,Locals,High School,920663,Fighter Aircraft,Vermont
+16341,18-24,2,Locals,High School,552953,Fighter Aircraft,Vermont
+16342,25-44,2,Locals,High School,709031,Fighter Aircraft,Vermont
+16343,45+,2,Locals,High School,164728,Fighter Aircraft,Vermont
+16344,18-24,1,Expats,Graduated,656403,Fighter Aircraft,Virginia
+16345,25-44,1,Expats,Graduated,426892,Fighter Aircraft,Virginia
+16346,45+,1,Expats,Graduated,607461,Fighter Aircraft,Virginia
+16347,18-24,2,Expats,Graduated,865205,Fighter Aircraft,Virginia
+16348,25-44,2,Expats,Graduated,722987,Fighter Aircraft,Virginia
+16349,45+,2,Expats,Graduated,469987,Fighter Aircraft,Virginia
+16350,18-24,1,Expats,No Degree,535877,Fighter Aircraft,Virginia
+16351,25-44,1,Expats,No Degree,916463,Fighter Aircraft,Virginia
+16352,45+,1,Expats,No Degree,889129,Fighter Aircraft,Virginia
+16353,18-24,2,Expats,No Degree,522094,Fighter Aircraft,Virginia
+16354,25-44,2,Expats,No Degree,33071,Fighter Aircraft,Virginia
+16355,45+,2,Expats,No Degree,217446,Fighter Aircraft,Virginia
+16356,18-24,1,Expats,High School,631865,Fighter Aircraft,Virginia
+16357,25-44,1,Expats,High School,507405,Fighter Aircraft,Virginia
+16358,45+,1,Expats,High School,386565,Fighter Aircraft,Virginia
+16359,18-24,2,Expats,High School,731508,Fighter Aircraft,Virginia
+16360,25-44,2,Expats,High School,840704,Fighter Aircraft,Virginia
+16361,45+,2,Expats,High School,466692,Fighter Aircraft,Virginia
+16362,18-24,1,Locals,Graduated,383922,Fighter Aircraft,Virginia
+16363,25-44,1,Locals,Graduated,270837,Fighter Aircraft,Virginia
+16364,45+,1,Locals,Graduated,885854,Fighter Aircraft,Virginia
+16365,18-24,2,Locals,Graduated,335803,Fighter Aircraft,Virginia
+16366,25-44,2,Locals,Graduated,920676,Fighter Aircraft,Virginia
+16367,45+,2,Locals,Graduated,751657,Fighter Aircraft,Virginia
+16368,18-24,1,Locals,No Degree,743823,Fighter Aircraft,Virginia
+16369,25-44,1,Locals,No Degree,674649,Fighter Aircraft,Virginia
+16370,45+,1,Locals,No Degree,261002,Fighter Aircraft,Virginia
+16371,18-24,2,Locals,No Degree,60573,Fighter Aircraft,Virginia
+16372,25-44,2,Locals,No Degree,82068,Fighter Aircraft,Virginia
+16373,45+,2,Locals,No Degree,822362,Fighter Aircraft,Virginia
+16374,18-24,1,Locals,High School,697411,Fighter Aircraft,Virginia
+16375,25-44,1,Locals,High School,550983,Fighter Aircraft,Virginia
+16376,45+,1,Locals,High School,601161,Fighter Aircraft,Virginia
+16377,18-24,2,Locals,High School,689006,Fighter Aircraft,Virginia
+16378,25-44,2,Locals,High School,289391,Fighter Aircraft,Virginia
+16379,45+,2,Locals,High School,341751,Fighter Aircraft,Virginia
+16380,18-24,1,Expats,Graduated,597819,Fighter Aircraft,Washington
+16381,25-44,1,Expats,Graduated,762077,Fighter Aircraft,Washington
+16382,45+,1,Expats,Graduated,355247,Fighter Aircraft,Washington
+16383,18-24,2,Expats,Graduated,318675,Fighter Aircraft,Washington
+16384,25-44,2,Expats,Graduated,937234,Fighter Aircraft,Washington
+16385,45+,2,Expats,Graduated,267148,Fighter Aircraft,Washington
+16386,18-24,1,Expats,No Degree,881420,Fighter Aircraft,Washington
+16387,25-44,1,Expats,No Degree,928257,Fighter Aircraft,Washington
+16388,45+,1,Expats,No Degree,705422,Fighter Aircraft,Washington
+16389,18-24,2,Expats,No Degree,68170,Fighter Aircraft,Washington
+16390,25-44,2,Expats,No Degree,144200,Fighter Aircraft,Washington
+16391,45+,2,Expats,No Degree,797341,Fighter Aircraft,Washington
+16392,18-24,1,Expats,High School,439505,Fighter Aircraft,Washington
+16393,25-44,1,Expats,High School,43947,Fighter Aircraft,Washington
+16394,45+,1,Expats,High School,799048,Fighter Aircraft,Washington
+16395,18-24,2,Expats,High School,6245,Fighter Aircraft,Washington
+16396,25-44,2,Expats,High School,971807,Fighter Aircraft,Washington
+16397,45+,2,Expats,High School,425851,Fighter Aircraft,Washington
+16398,18-24,1,Locals,Graduated,262227,Fighter Aircraft,Washington
+16399,25-44,1,Locals,Graduated,169170,Fighter Aircraft,Washington
+16400,45+,1,Locals,Graduated,187878,Fighter Aircraft,Washington
+16401,18-24,2,Locals,Graduated,788694,Fighter Aircraft,Washington
+16402,25-44,2,Locals,Graduated,145260,Fighter Aircraft,Washington
+16403,45+,2,Locals,Graduated,660608,Fighter Aircraft,Washington
+16404,18-24,1,Locals,No Degree,810239,Fighter Aircraft,Washington
+16405,25-44,1,Locals,No Degree,585133,Fighter Aircraft,Washington
+16406,45+,1,Locals,No Degree,563957,Fighter Aircraft,Washington
+16407,18-24,2,Locals,No Degree,367643,Fighter Aircraft,Washington
+16408,25-44,2,Locals,No Degree,917317,Fighter Aircraft,Washington
+16409,45+,2,Locals,No Degree,884234,Fighter Aircraft,Washington
+16410,18-24,1,Locals,High School,477486,Fighter Aircraft,Washington
+16411,25-44,1,Locals,High School,640985,Fighter Aircraft,Washington
+16412,45+,1,Locals,High School,505279,Fighter Aircraft,Washington
+16413,18-24,2,Locals,High School,280108,Fighter Aircraft,Washington
+16414,25-44,2,Locals,High School,906214,Fighter Aircraft,Washington
+16415,45+,2,Locals,High School,374354,Fighter Aircraft,Washington
+16416,18-24,1,Expats,Graduated,688118,Fighter Aircraft,West Virginia
+16417,25-44,1,Expats,Graduated,633297,Fighter Aircraft,West Virginia
+16418,45+,1,Expats,Graduated,160231,Fighter Aircraft,West Virginia
+16419,18-24,2,Expats,Graduated,609100,Fighter Aircraft,West Virginia
+16420,25-44,2,Expats,Graduated,785168,Fighter Aircraft,West Virginia
+16421,45+,2,Expats,Graduated,966700,Fighter Aircraft,West Virginia
+16422,18-24,1,Expats,No Degree,812035,Fighter Aircraft,West Virginia
+16423,25-44,1,Expats,No Degree,207929,Fighter Aircraft,West Virginia
+16424,45+,1,Expats,No Degree,135926,Fighter Aircraft,West Virginia
+16425,18-24,2,Expats,No Degree,952654,Fighter Aircraft,West Virginia
+16426,25-44,2,Expats,No Degree,703002,Fighter Aircraft,West Virginia
+16427,45+,2,Expats,No Degree,342076,Fighter Aircraft,West Virginia
+16428,18-24,1,Expats,High School,417101,Fighter Aircraft,West Virginia
+16429,25-44,1,Expats,High School,969144,Fighter Aircraft,West Virginia
+16430,45+,1,Expats,High School,540362,Fighter Aircraft,West Virginia
+16431,18-24,2,Expats,High School,568666,Fighter Aircraft,West Virginia
+16432,25-44,2,Expats,High School,907464,Fighter Aircraft,West Virginia
+16433,45+,2,Expats,High School,755566,Fighter Aircraft,West Virginia
+16434,18-24,1,Locals,Graduated,857869,Fighter Aircraft,West Virginia
+16435,25-44,1,Locals,Graduated,653519,Fighter Aircraft,West Virginia
+16436,45+,1,Locals,Graduated,549885,Fighter Aircraft,West Virginia
+16437,18-24,2,Locals,Graduated,751438,Fighter Aircraft,West Virginia
+16438,25-44,2,Locals,Graduated,321063,Fighter Aircraft,West Virginia
+16439,45+,2,Locals,Graduated,320974,Fighter Aircraft,West Virginia
+16440,18-24,1,Locals,No Degree,273710,Fighter Aircraft,West Virginia
+16441,25-44,1,Locals,No Degree,93033,Fighter Aircraft,West Virginia
+16442,45+,1,Locals,No Degree,581678,Fighter Aircraft,West Virginia
+16443,18-24,2,Locals,No Degree,450082,Fighter Aircraft,West Virginia
+16444,25-44,2,Locals,No Degree,822973,Fighter Aircraft,West Virginia
+16445,45+,2,Locals,No Degree,801228,Fighter Aircraft,West Virginia
+16446,18-24,1,Locals,High School,918484,Fighter Aircraft,West Virginia
+16447,25-44,1,Locals,High School,92734,Fighter Aircraft,West Virginia
+16448,45+,1,Locals,High School,256926,Fighter Aircraft,West Virginia
+16449,18-24,2,Locals,High School,259098,Fighter Aircraft,West Virginia
+16450,25-44,2,Locals,High School,741346,Fighter Aircraft,West Virginia
+16451,45+,2,Locals,High School,741367,Fighter Aircraft,West Virginia
+16452,18-24,1,Expats,Graduated,189800,Fighter Aircraft,Wisconsin
+16453,25-44,1,Expats,Graduated,944957,Fighter Aircraft,Wisconsin
+16454,45+,1,Expats,Graduated,489805,Fighter Aircraft,Wisconsin
+16455,18-24,2,Expats,Graduated,148830,Fighter Aircraft,Wisconsin
+16456,25-44,2,Expats,Graduated,558216,Fighter Aircraft,Wisconsin
+16457,45+,2,Expats,Graduated,593,Fighter Aircraft,Wisconsin
+16458,18-24,1,Expats,No Degree,69118,Fighter Aircraft,Wisconsin
+16459,25-44,1,Expats,No Degree,731510,Fighter Aircraft,Wisconsin
+16460,45+,1,Expats,No Degree,710870,Fighter Aircraft,Wisconsin
+16461,18-24,2,Expats,No Degree,523190,Fighter Aircraft,Wisconsin
+16462,25-44,2,Expats,No Degree,376126,Fighter Aircraft,Wisconsin
+16463,45+,2,Expats,No Degree,997188,Fighter Aircraft,Wisconsin
+16464,18-24,1,Expats,High School,427327,Fighter Aircraft,Wisconsin
+16465,25-44,1,Expats,High School,789705,Fighter Aircraft,Wisconsin
+16466,45+,1,Expats,High School,44889,Fighter Aircraft,Wisconsin
+16467,18-24,2,Expats,High School,607534,Fighter Aircraft,Wisconsin
+16468,25-44,2,Expats,High School,725973,Fighter Aircraft,Wisconsin
+16469,45+,2,Expats,High School,357990,Fighter Aircraft,Wisconsin
+16470,18-24,1,Locals,Graduated,624832,Fighter Aircraft,Wisconsin
+16471,25-44,1,Locals,Graduated,742439,Fighter Aircraft,Wisconsin
+16472,45+,1,Locals,Graduated,576380,Fighter Aircraft,Wisconsin
+16473,18-24,2,Locals,Graduated,838760,Fighter Aircraft,Wisconsin
+16474,25-44,2,Locals,Graduated,826694,Fighter Aircraft,Wisconsin
+16475,45+,2,Locals,Graduated,373214,Fighter Aircraft,Wisconsin
+16476,18-24,1,Locals,No Degree,395101,Fighter Aircraft,Wisconsin
+16477,25-44,1,Locals,No Degree,793993,Fighter Aircraft,Wisconsin
+16478,45+,1,Locals,No Degree,59492,Fighter Aircraft,Wisconsin
+16479,18-24,2,Locals,No Degree,735854,Fighter Aircraft,Wisconsin
+16480,25-44,2,Locals,No Degree,805911,Fighter Aircraft,Wisconsin
+16481,45+,2,Locals,No Degree,59455,Fighter Aircraft,Wisconsin
+16482,18-24,1,Locals,High School,958307,Fighter Aircraft,Wisconsin
+16483,25-44,1,Locals,High School,354184,Fighter Aircraft,Wisconsin
+16484,45+,1,Locals,High School,135849,Fighter Aircraft,Wisconsin
+16485,18-24,2,Locals,High School,316238,Fighter Aircraft,Wisconsin
+16486,25-44,2,Locals,High School,733423,Fighter Aircraft,Wisconsin
+16487,45+,2,Locals,High School,730221,Fighter Aircraft,Wisconsin
+16488,18-24,1,Expats,Graduated,860471,Fighter Aircraft,Wyoming
+16489,25-44,1,Expats,Graduated,40451,Fighter Aircraft,Wyoming
+16490,45+,1,Expats,Graduated,764047,Fighter Aircraft,Wyoming
+16491,18-24,2,Expats,Graduated,969263,Fighter Aircraft,Wyoming
+16492,25-44,2,Expats,Graduated,409738,Fighter Aircraft,Wyoming
+16493,45+,2,Expats,Graduated,798764,Fighter Aircraft,Wyoming
+16494,18-24,1,Expats,No Degree,978859,Fighter Aircraft,Wyoming
+16495,25-44,1,Expats,No Degree,802772,Fighter Aircraft,Wyoming
+16496,45+,1,Expats,No Degree,774177,Fighter Aircraft,Wyoming
+16497,18-24,2,Expats,No Degree,128610,Fighter Aircraft,Wyoming
+16498,25-44,2,Expats,No Degree,81830,Fighter Aircraft,Wyoming
+16499,45+,2,Expats,No Degree,650634,Fighter Aircraft,Wyoming
+16500,18-24,1,Expats,High School,176257,Fighter Aircraft,Wyoming
+16501,25-44,1,Expats,High School,841705,Fighter Aircraft,Wyoming
+16502,45+,1,Expats,High School,981765,Fighter Aircraft,Wyoming
+16503,18-24,2,Expats,High School,215831,Fighter Aircraft,Wyoming
+16504,25-44,2,Expats,High School,554020,Fighter Aircraft,Wyoming
+16505,45+,2,Expats,High School,909449,Fighter Aircraft,Wyoming
+16506,18-24,1,Locals,Graduated,101150,Fighter Aircraft,Wyoming
+16507,25-44,1,Locals,Graduated,375447,Fighter Aircraft,Wyoming
+16508,45+,1,Locals,Graduated,44226,Fighter Aircraft,Wyoming
+16509,18-24,2,Locals,Graduated,500072,Fighter Aircraft,Wyoming
+16510,25-44,2,Locals,Graduated,729325,Fighter Aircraft,Wyoming
+16511,45+,2,Locals,Graduated,879756,Fighter Aircraft,Wyoming
+16512,18-24,1,Locals,No Degree,30698,Fighter Aircraft,Wyoming
+16513,25-44,1,Locals,No Degree,121202,Fighter Aircraft,Wyoming
+16514,45+,1,Locals,No Degree,527764,Fighter Aircraft,Wyoming
+16515,18-24,2,Locals,No Degree,134932,Fighter Aircraft,Wyoming
+16516,25-44,2,Locals,No Degree,590340,Fighter Aircraft,Wyoming
+16517,45+,2,Locals,No Degree,576524,Fighter Aircraft,Wyoming
+16518,18-24,1,Locals,High School,83314,Fighter Aircraft,Wyoming
+16519,25-44,1,Locals,High School,44051,Fighter Aircraft,Wyoming
+16520,45+,1,Locals,High School,535729,Fighter Aircraft,Wyoming
+16521,18-24,2,Locals,High School,63365,Fighter Aircraft,Wyoming
+16522,25-44,2,Locals,High School,525384,Fighter Aircraft,Wyoming
+16523,45+,2,Locals,High School,450995,Fighter Aircraft,Wyoming

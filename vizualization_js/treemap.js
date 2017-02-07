@@ -273,11 +273,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         d3.select("#tooltip-treemap #scoreTooltip")
             .text(scoreToPercentage(d.score));
 
-        d3.select("#tooltip-treemap #luxuryAudienceTooltip")
-            .text(currentInstance.getFormattedAudience(d.luxuryAudience));
+        d3.select("#tooltip-treemap #rightAudienceTooltip")
+            .text(currentInstance.getFormattedAudience(d.rightAudience));
 
-        d3.select("#tooltip-treemap #healthAudienceTooltip")
-            .text(currentInstance.getFormattedAudience(d.healthAudience));
+        d3.select("#tooltip-treemap #leftAudienceTooltip")
+            .text(currentInstance.getFormattedAudience(d.leftAudience));
 
         d3.select("#tooltip-treemap #audienceCoverageTooltip")
             .text(currentInstance.getFormattedAudience(d.audienceCoverage));
@@ -290,7 +290,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.insertCategoryNameOnSide = function(){
         var currentInstance = this;
         var svg = currentInstance.svg;
-        svg.append("svg:text").text(mapValuesStringsTooltip[currentInstance.getCategoryName()])
+        svg.append("svg:text").text(getTooltipLabel(currentInstance.getCategoryName()))
             .style("font-weight","bold")
             .attr("transform", function(d){
                 var textElement = this;

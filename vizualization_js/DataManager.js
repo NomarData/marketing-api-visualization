@@ -1,11 +1,11 @@
 function DataManager(){
     var currentInstance = this;
-    this.selectedCountries_2letters = [];
+    this.selectedLocations_2letters = [];
     this.selectedCategoriesAndValues = {};
     this.selectedInstances = [];
     this.selectedFbDemographicInstances = [];
-    this.selectedHealth = healthTopics[3];
-    this.selectedLuxury = luxuryTopics[4];
+    this.selectedHealth = leftTopics[3];
+    this.selectedLuxury = rightTopics[4];
     this.selectedFbDemographicSum = 0;
     this.loader = $(".loader");
 
@@ -59,17 +59,17 @@ function DataManager(){
         }
     };
     this.deselectAllCountries = function(){
-        currentInstance.selectedCountries_2letters = [];
+        currentInstance.selectedLocations_2letters = [];
         currentInstance.updateVisualComponents();
     };
     this.selectGCCCountries = function () {
-        currentInstance.selectedCountries_2letters = ["BH", "KW", "QA", "SA", "OM","AE"];
+        currentInstance.selectedLocations_2letters = ["BH", "KW", "QA", "SA", "OM","AE"];
         currentInstance.updateVisualComponents();
     }
     this.selectAllCountries = function(){
-        currentInstance.selectedCountries_2letters = [];
-        for(var countryCode in countryCodeMap){
-            currentInstance.selectedCountries_2letters.push(countryCode);
+        currentInstance.selectedLocations_2letters = [];
+        for(var countryKey in allConsideredCountriesKeys){
+            currentInstance.selectedLocations_2letters.push(countryKey);
         }
         currentInstance.updateVisualComponents();
     };
@@ -82,16 +82,16 @@ function DataManager(){
         return currentInstance.selectedInstances;
     }
     this.setCountryCodeList = function(countryCodeList){
-        currentInstance.selectedCountries_2letters = countryCodeList;
+        currentInstance.selectedLocations_2letters = countryCodeList;
         currentInstance.updateVisualComponents();
     }
     this.insertCountryCode = function(countryCode){
         console.log("Inserting:" + countryCode);
-        currentInstance.selectedCountries_2letters.push(countryCode);
+        currentInstance.selectedLocations_2letters.push(countryCode);
         currentInstance.updateVisualComponents();
     }
     this.removeCountryCode = function(country_code){
-        currentInstance.selectedCountries_2letters = removeValueFromArray(currentInstance.selectedCountries_2letters, country_code);
+        currentInstance.selectedLocations_2letters = removeValueFromArray(currentInstance.selectedLocations_2letters, country_code);
         currentInstance.updateVisualComponents();
     }
     this.setCategoryValueSelected = function(category, value){
@@ -149,7 +149,7 @@ function DataManager(){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
                 var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
-                if(instance.country_code == countryCode){
+                if(instance.location == countryCode){
                     total += instance.audience;
                 }
             }
@@ -170,8 +170,8 @@ function DataManager(){
         findingsFinder.updateData();
     };
 
-    this.isCountryAlreadySelected = function(country_code) {
-        return currentInstance.selectedCountries_2letters.indexOf(country_code) != -1 ? true : false;
+    this.isLocationAlreadySelected = function(location2letter_code) {
+        return currentInstance.selectedLocations_2letters.indexOf(location2letter_code) != -1 ? true : false;
     };
     this.isInstanceAgreeWithSelected = function(instance){
         for(var key in currentInstance.selectedCategoriesAndValues){
@@ -180,8 +180,8 @@ function DataManager(){
             }
         }
         //Check Country code
-        if(currentInstance.selectedCountries_2letters.length > 0){
-            if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
+        if(currentInstance.selectedLocations_2letters.length > 0){
+            if(!currentInstance.isLocationAlreadySelected(instance.location)){
                 return false;
             }
         }
@@ -198,7 +198,7 @@ function DataManager(){
     };
     this.getAverageSelectedScore = function(){
         var averageScore = {"greenAudience" : 0, "redAudience":0, "greenScore":0,"redScore":0,"average":0, "total":0};
-        if(currentInstance.selectedCountries_2letters.length == 0){
+        if(currentInstance.selectedLocations_2letters.length == 0){
             return averageScore;
         } else{
             var selectedInstances = currentInstance.getSelectedInstances();
@@ -222,9 +222,9 @@ function DataManager(){
     this.getSelectedCountriesData = function(){
         var selectedCountriesData = {};
 
-        for(let countryIndex in dataManager.selectedCountries_2letters){
-            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
-            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
+        for(let countryIndex in dataManager.selectedLocations_2letters){
+            var countryCode2Letter = dataManager.selectedLocations_2letters[countryIndex];
+            var countryCode3Letter = convert2LetterCodeToDatamapsCode(countryCode2Letter);
             var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
             selectedCountriesData[countryCode2Letter] = countryData;
         }
@@ -234,9 +234,9 @@ function DataManager(){
     this.getCellsData = function(){
         var selectedCountriesData = {};
 
-        for(let countryIndex in dataManager.selectedCountries_2letters){
-            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
-            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
+        for(let countryIndex in dataManager.selectedLocations_2letters){
+            var countryCode2Letter = dataManager.selectedLocations_2letters[countryIndex];
+            var countryCode3Letter = convert2LetterCodeToDatamapsCode(countryCode2Letter);
             var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
             selectedCountriesData[countryCode2Letter] = countryData;
         }

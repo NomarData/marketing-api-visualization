@@ -70,7 +70,7 @@ function DownloadReport(){
 
     this.getCountriesDataFromCurrentState = function(){
         let data = [];
-        let header = ["Countries", "Score", "Facebook Coverage", "Health Audience", "Luxury Audience"];
+        let header = ["Countries", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
         var countriesData = dataManager.getSelectedCountriesData();
         data.push(header)
         for(let countryCode in countriesData){
@@ -79,8 +79,8 @@ function DownloadReport(){
             countryRow.push(countryData.name);
             countryRow.push(countryData.score);
             countryRow.push(countryData.audienceCoverage);
-            countryRow.push(countryData.healthAudience);
-            countryRow.push(countryData.luxuryAudience);
+            countryRow.push(countryData.leftAudience);
+            countryRow.push(countryData.rightAudience);
             data.push(countryRow);
         }
         currentInstance.addCurrentFiltersToData(data)
@@ -89,7 +89,7 @@ function DownloadReport(){
 
     this.getDemographicsDataFromCurrentState = function(){
         let data = [];
-        let header = ["Demographic Breakdown", "Category", "Score", "Facebook Coverage", "Health Audience", "Luxury Audience"];
+        let header = ["Demographic Breakdown", "Category", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
         var demographicsData = treemapManager.getAllVisibleTreemapData();
         data.push(header);
         for(let demographicName in demographicsData){
@@ -99,8 +99,8 @@ function DownloadReport(){
             demographicRow.push(getTooltipLabel(demographicData.category));
             demographicRow.push(demographicData.score);
             demographicRow.push(demographicData.audienceCoverage);
-            demographicRow.push(demographicData.healthAudience);
-            demographicRow.push(demographicData.luxuryAudience);
+            demographicRow.push(demographicData.leftAudience);
+            demographicRow.push(demographicData.rightAudience);
             data.push(demographicRow);
         }
         currentInstance.addCurrentFiltersToData(data)

@@ -74,10 +74,10 @@ function SharebleLink(){
         console.log(newState);
         currentInstance.reversingState = true;
         dataManager.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
-            treemapManager.clickOnTreemapGivenNameAndValue("gender", newState["gender"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("age_range", newState["age_range"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("scholarity", newState["scholarity"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("citizenship", newState["citizenship"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("genders", newState["genders"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("ages_ranges", newState["ages_ranges"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("scholarities", newState["scholarities"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("behavior", newState["behavior"]);
             dataManager.setCountryCodeList(newState["countries"]);
             currentInstance.reversingState = false;
             currentInstance.updateData();
@@ -90,7 +90,7 @@ function SharebleLink(){
             "health": dataManager.selectedHealth,
             "luxury": dataManager.selectedLuxury,
             "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
-            "countries" : dataManager.selectedCountries_2letters
+            "countries" : dataManager.selectedLocations_2letters
         }
     };
     this.buildUrlFromState = function (state) {
@@ -174,7 +174,7 @@ function SharebleLink(){
         var categories = dataManager.selectedCategoriesAndValues;
         console.log("Selected Health:" + dataManager.selectedHealth);
         console.log("Selected Luxury:" + dataManager.selectedLuxury);
-        console.log("Selected Countries:" + dataManager.selectedCountries_2letters);
+        console.log("Selected Countries:" + dataManager.selectedLocations_2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));
         console.log("Selected Age Range:" + ("age_range" in categories ? categories["age_range"] : null));
@@ -233,10 +233,10 @@ function SharebleLink(){
         //reference can be code 2 letter, code 3 letters or country name
         if(reference){
             var reference = reference.toLowerCase();
-            for(var countryCode2Letters in countryCodeMap){
+            for(var countryCode2Letters in locationCodeMap){
                 var code2Letters = countryCode2Letters.toLowerCase();
-                var code3Letters = countryCodeMap[countryCode2Letters]._3letter_code.toLowerCase();
-                var name = countryCodeMap[countryCode2Letters].name.toLowerCase();
+                var code3Letters = locationCodeMap[countryCode2Letters].datamaps_code.toLowerCase();
+                var name = locationCodeMap[countryCode2Letters].name.toLowerCase();
                 if(reference == code2Letters || reference == code3Letters || reference == name){
                     return countryCode2Letters;
                 }

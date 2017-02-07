@@ -50,7 +50,7 @@
     position: relative;
 }
 
-#tooltip-countries {
+#tooltip-locations {
     position: absolute;
     z-index: 1;
 }

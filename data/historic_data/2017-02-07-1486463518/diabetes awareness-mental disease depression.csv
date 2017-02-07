@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,country_code
+3060,3060,18-24,1.0,Expats,Graduated,5900,1485789793.38,diabetes awareness,DZ
+3061,3061,25-44,1.0,Expats,Graduated,7300,1485789793.38,diabetes awareness,DZ
+3062,3062,45+,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,DZ
+3063,3063,18-24,2.0,Expats,Graduated,2600,1485789793.38,diabetes awareness,DZ
+3064,3064,25-44,2.0,Expats,Graduated,2500,1485789793.38,diabetes awareness,DZ
+3065,3065,45+,2.0,Expats,Graduated,720,1485789793.38,diabetes awareness,DZ
+3066,3066,18-24,1.0,Expats,No Degree,3900,1485789793.38,diabetes awareness,DZ
+3067,3067,25-44,1.0,Expats,No Degree,6700,1485789793.38,diabetes awareness,DZ
+3068,3068,45+,1.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,DZ
+3069,3069,18-24,2.0,Expats,No Degree,1900,1485789793.38,diabetes awareness,DZ
+3070,3070,25-44,2.0,Expats,No Degree,2900,1485789793.38,diabetes awareness,DZ
+3071,3071,45+,2.0,Expats,No Degree,930,1485789793.38,diabetes awareness,DZ
+3072,3072,18-24,1.0,Expats,High School,2100,1485789793.38,diabetes awareness,DZ
+3073,3073,25-44,1.0,Expats,High School,1800,1485789793.38,diabetes awareness,DZ
+3074,3074,45+,1.0,Expats,High School,480,1485789793.38,diabetes awareness,DZ
+3075,3075,18-24,2.0,Expats,High School,980,1485789793.38,diabetes awareness,DZ
+3076,3076,25-44,2.0,Expats,High School,450,1485789793.38,diabetes awareness,DZ
+3077,3077,45+,2.0,Expats,High School,240,1485789793.38,diabetes awareness,DZ
+3078,3078,18-24,1.0,Locals,Graduated,27000,1485789793.38,diabetes awareness,DZ
+3079,3079,25-44,1.0,Locals,Graduated,58000,1485789793.38,diabetes awareness,DZ
+3080,3080,45+,1.0,Locals,Graduated,12000,1485789793.38,diabetes awareness,DZ
+3081,3081,18-24,2.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,DZ
+3082,3082,25-44,2.0,Locals,Graduated,38000,1485789793.38,diabetes awareness,DZ
+3083,3083,45+,2.0,Locals,Graduated,6300,1485789793.38,diabetes awareness,DZ
+3084,3084,18-24,1.0,Locals,No Degree,36000,1485789793.38,diabetes awareness,DZ
+3085,3085,25-44,1.0,Locals,No Degree,80000,1485789793.38,diabetes awareness,DZ
+3086,3086,45+,1.0,Locals,No Degree,20000,1485789793.38,diabetes awareness,DZ
+3087,3087,18-24,2.0,Locals,No Degree,27000,1485789793.38,diabetes awareness,DZ
+3088,3088,25-44,2.0,Locals,No Degree,42000,1485789793.38,diabetes awareness,DZ
+3089,3089,45+,2.0,Locals,No Degree,11000,1485789793.38,diabetes awareness,DZ
+3090,3090,18-24,1.0,Locals,High School,13000,1485789793.38,diabetes awareness,DZ
+3091,3091,25-44,1.0,Locals,High School,17000,1485789793.38,diabetes awareness,DZ
+3092,3092,45+,1.0,Locals,High School,4300,1485789793.38,diabetes awareness,DZ
+3093,3093,18-24,2.0,Locals,High School,11000,1485789793.38,diabetes awareness,DZ
+3094,3094,25-44,2.0,Locals,High School,8600,1485789793.38,diabetes awareness,DZ
+3095,3095,45+,2.0,Locals,High School,2600,1485789793.38,diabetes awareness,DZ
+3096,3096,18-24,1.0,Expats,Graduated,650,1485789793.38,diabetes awareness,BH
+3097,3097,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,BH
+3098,3098,45+,1.0,Expats,Graduated,630,1485789793.38,diabetes awareness,BH
+3099,3099,18-24,2.0,Expats,Graduated,120,1485789793.38,diabetes awareness,BH
+3100,3100,25-44,2.0,Expats,Graduated,1600,1485789793.38,diabetes awareness,BH
+3101,3101,45+,2.0,Expats,Graduated,1000,1485789793.38,diabetes awareness,BH
+3102,3102,18-24,1.0,Expats,No Degree,580,1485789793.38,diabetes awareness,BH
+3103,3103,25-44,1.0,Expats,No Degree,1400,1485789793.38,diabetes awareness,BH
+3104,3104,45+,1.0,Expats,No Degree,450,1485789793.38,diabetes awareness,BH
+3105,3105,18-24,2.0,Expats,No Degree,130,1485789793.38,diabetes awareness,BH
+3106,3106,25-44,2.0,Expats,No Degree,640,1485789793.38,diabetes awareness,BH
+3107,3107,45+,2.0,Expats,No Degree,670,1485789793.38,diabetes awareness,BH
+3108,3108,18-24,1.0,Expats,High School,170,1485789793.38,diabetes awareness,BH
+3109,3109,25-44,1.0,Expats,High School,490,1485789793.38,diabetes awareness,BH
+3110,3110,45+,1.0,Expats,High School,170,1485789793.38,diabetes awareness,BH
+3111,3111,18-24,2.0,Expats,High School,60,1485789793.38,diabetes awareness,BH
+3112,3112,25-44,2.0,Expats,High School,580,1485789793.38,diabetes awareness,BH
+3113,3113,45+,2.0,Expats,High School,310,1485789793.38,diabetes awareness,BH
+3114,3114,18-24,1.0,Locals,Graduated,80,1485789793.38,diabetes awareness,BH
+3115,3115,25-44,1.0,Locals,Graduated,250,1485789793.38,diabetes awareness,BH
+3116,3116,45+,1.0,Locals,Graduated,110,1485789793.38,diabetes awareness,BH
+3117,3117,18-24,2.0,Locals,Graduated,70,1485789793.38,diabetes awareness,BH
+3118,3118,25-44,2.0,Locals,Graduated,240,1485789793.38,diabetes awareness,BH
+3119,3119,45+,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,BH
+3120,3120,18-24,1.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3121,3121,25-44,1.0,Locals,No Degree,160,1485789793.38,diabetes awareness,BH
+3122,3122,45+,1.0,Locals,No Degree,60,1485789793.38,diabetes awareness,BH
+3123,3123,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3124,3124,25-44,2.0,Locals,No Degree,160,1485789793.38,diabetes awareness,BH
+3125,3125,45+,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3126,3126,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,BH
+3127,3127,25-44,1.0,Locals,High School,80,1485789793.38,diabetes awareness,BH
+3128,3128,45+,1.0,Locals,High School,30,1485789793.38,diabetes awareness,BH
+3129,3129,18-24,2.0,Locals,High School,50,1485789793.38,diabetes awareness,BH
+3130,3130,25-44,2.0,Locals,High School,40,1485789793.38,diabetes awareness,BH
+3131,3131,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,BH
+3132,3132,18-24,1.0,Expats,Graduated,3800,1485789793.38,diabetes awareness,EG
+3133,3133,25-44,1.0,Expats,Graduated,7700,1485789793.38,diabetes awareness,EG
+3134,3134,45+,1.0,Expats,Graduated,3300,1485789793.38,diabetes awareness,EG
+3135,3135,18-24,2.0,Expats,Graduated,1800,1485789793.38,diabetes awareness,EG
+3136,3136,25-44,2.0,Expats,Graduated,4200,1485789793.38,diabetes awareness,EG
+3137,3137,45+,2.0,Expats,Graduated,1600,1485789793.38,diabetes awareness,EG
+3138,3138,18-24,1.0,Expats,No Degree,2000,1485789793.38,diabetes awareness,EG
+3139,3139,25-44,1.0,Expats,No Degree,3400,1485789793.38,diabetes awareness,EG
+3140,3140,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,EG
+3141,3141,18-24,2.0,Expats,No Degree,800,1485789793.38,diabetes awareness,EG
+3142,3142,25-44,2.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,EG
+3143,3143,45+,2.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,EG
+3144,3144,18-24,1.0,Expats,High School,2400,1485789793.38,diabetes awareness,EG
+3145,3145,25-44,1.0,Expats,High School,1700,1485789793.38,diabetes awareness,EG
+3146,3146,45+,1.0,Expats,High School,880,1485789793.38,diabetes awareness,EG
+3147,3147,18-24,2.0,Expats,High School,1400,1485789793.38,diabetes awareness,EG
+3148,3148,25-44,2.0,Expats,High School,1100,1485789793.38,diabetes awareness,EG
+3149,3149,45+,2.0,Expats,High School,500,1485789793.38,diabetes awareness,EG
+3150,3150,18-24,1.0,Locals,Graduated,78000,1485789793.38,diabetes awareness,EG
+3151,3151,25-44,1.0,Locals,Graduated,150000,1485789793.38,diabetes awareness,EG
+3152,3152,45+,1.0,Locals,Graduated,65000,1485789793.38,diabetes awareness,EG
+3153,3153,18-24,2.0,Locals,Graduated,62000,1485789793.38,diabetes awareness,EG
+3154,3154,25-44,2.0,Locals,Graduated,120000,1485789793.38,diabetes awareness,EG
+3155,3155,45+,2.0,Locals,Graduated,38000,1485789793.38,diabetes awareness,EG
+3156,3156,18-24,1.0,Locals,No Degree,50000,1485789793.38,diabetes awareness,EG
+3157,3157,25-44,1.0,Locals,No Degree,93000,1485789793.38,diabetes awareness,EG
+3158,3158,45+,1.0,Locals,No Degree,70000,1485789793.38,diabetes awareness,EG
+3159,3159,18-24,2.0,Locals,No Degree,38000,1485789793.38,diabetes awareness,EG
+3160,3160,25-44,2.0,Locals,No Degree,76000,1485789793.38,diabetes awareness,EG
+3161,3161,45+,2.0,Locals,No Degree,59000,1485789793.38,diabetes awareness,EG
+3162,3162,18-24,1.0,Locals,High School,55000,1485789793.38,diabetes awareness,EG
+3163,3163,25-44,1.0,Locals,High School,34000,1485789793.38,diabetes awareness,EG
+3164,3164,45+,1.0,Locals,High School,17000,1485789793.38,diabetes awareness,EG
+3165,3165,18-24,2.0,Locals,High School,47000,1485789793.38,diabetes awareness,EG
+3166,3166,25-44,2.0,Locals,High School,23000,1485789793.38,diabetes awareness,EG
+3167,3167,45+,2.0,Locals,High School,8900,1485789793.38,diabetes awareness,EG
+3168,3168,18-24,1.0,Expats,Graduated,4300,1485789793.38,diabetes awareness,IQ
+3169,3169,25-44,1.0,Expats,Graduated,11000,1485789793.38,diabetes awareness,IQ
+3170,3170,45+,1.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,IQ
+3171,3171,18-24,2.0,Expats,Graduated,800,1485789793.38,diabetes awareness,IQ
+3172,3172,25-44,2.0,Expats,Graduated,2100,1485789793.38,diabetes awareness,IQ
+3173,3173,45+,2.0,Expats,Graduated,520,1485789793.38,diabetes awareness,IQ
+3174,3174,18-24,1.0,Expats,No Degree,4400,1485789793.38,diabetes awareness,IQ
+3175,3175,25-44,1.0,Expats,No Degree,7100,1485789793.38,diabetes awareness,IQ
+3176,3176,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,IQ
+3177,3177,18-24,2.0,Expats,No Degree,1500,1485789793.38,diabetes awareness,IQ
+3178,3178,25-44,2.0,Expats,No Degree,1900,1485789793.38,diabetes awareness,IQ
+3179,3179,45+,2.0,Expats,No Degree,760,1485789793.38,diabetes awareness,IQ
+3180,3180,18-24,1.0,Expats,High School,2300,1485789793.38,diabetes awareness,IQ
+3181,3181,25-44,1.0,Expats,High School,3100,1485789793.38,diabetes awareness,IQ
+3182,3182,45+,1.0,Expats,High School,950,1485789793.38,diabetes awareness,IQ
+3183,3183,18-24,2.0,Expats,High School,670,1485789793.38,diabetes awareness,IQ
+3184,3184,25-44,2.0,Expats,High School,540,1485789793.38,diabetes awareness,IQ
+3185,3185,45+,2.0,Expats,High School,160,1485789793.38,diabetes awareness,IQ
+3186,3186,18-24,1.0,Locals,Graduated,41000,1485789793.38,diabetes awareness,IQ
+3187,3187,25-44,1.0,Locals,Graduated,120000,1485789793.38,diabetes awareness,IQ
+3188,3188,45+,1.0,Locals,Graduated,37000,1485789793.38,diabetes awareness,IQ
+3189,3189,18-24,2.0,Locals,Graduated,11000,1485789793.38,diabetes awareness,IQ
+3190,3190,25-44,2.0,Locals,Graduated,28000,1485789793.38,diabetes awareness,IQ
+3191,3191,45+,2.0,Locals,Graduated,9700,1485789793.38,diabetes awareness,IQ
+3192,3192,18-24,1.0,Locals,No Degree,80000,1485789793.38,diabetes awareness,IQ
+3193,3193,25-44,1.0,Locals,No Degree,130000,1485789793.38,diabetes awareness,IQ
+3194,3194,45+,1.0,Locals,No Degree,62000,1485789793.38,diabetes awareness,IQ
+3195,3195,18-24,2.0,Locals,No Degree,28000,1485789793.38,diabetes awareness,IQ
+3196,3196,25-44,2.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,IQ
+3197,3197,45+,2.0,Locals,No Degree,21000,1485789793.38,diabetes awareness,IQ
+3198,3198,18-24,1.0,Locals,High School,26000,1485789793.38,diabetes awareness,IQ
+3199,3199,25-44,1.0,Locals,High School,36000,1485789793.38,diabetes awareness,IQ
+3200,3200,45+,1.0,Locals,High School,13000,1485789793.38,diabetes awareness,IQ
+3201,3201,18-24,2.0,Locals,High School,11000,1485789793.38,diabetes awareness,IQ
+3202,3202,25-44,2.0,Locals,High School,9600,1485789793.38,diabetes awareness,IQ
+3203,3203,45+,2.0,Locals,High School,3300,1485789793.38,diabetes awareness,IQ
+3204,3204,18-24,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,JO
+3205,3205,25-44,1.0,Expats,Graduated,8400,1485789793.38,diabetes awareness,JO
+3206,3206,45+,1.0,Expats,Graduated,2600,1485789793.38,diabetes awareness,JO
+3207,3207,18-24,2.0,Expats,Graduated,890,1485789793.38,diabetes awareness,JO
+3208,3208,25-44,2.0,Expats,Graduated,3900,1485789793.38,diabetes awareness,JO
+3209,3209,45+,2.0,Expats,Graduated,2100,1485789793.38,diabetes awareness,JO
+3210,3210,18-24,1.0,Expats,No Degree,2800,1485789793.38,diabetes awareness,JO
+3211,3211,25-44,1.0,Expats,No Degree,8900,1485789793.38,diabetes awareness,JO
+3212,3212,45+,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,JO
+3213,3213,18-24,2.0,Expats,No Degree,710,1485789793.38,diabetes awareness,JO
+3214,3214,25-44,2.0,Expats,No Degree,3300,1485789793.38,diabetes awareness,JO
+3215,3215,45+,2.0,Expats,No Degree,3400,1485789793.38,diabetes awareness,JO
+3216,3216,18-24,1.0,Expats,High School,1600,1485789793.38,diabetes awareness,JO
+3217,3217,25-44,1.0,Expats,High School,2700,1485789793.38,diabetes awareness,JO
+3218,3218,45+,1.0,Expats,High School,1000,1485789793.38,diabetes awareness,JO
+3219,3219,18-24,2.0,Expats,High School,970,1485789793.38,diabetes awareness,JO
+3220,3220,25-44,2.0,Expats,High School,1200,1485789793.38,diabetes awareness,JO
+3221,3221,45+,2.0,Expats,High School,850,1485789793.38,diabetes awareness,JO
+3222,3222,18-24,1.0,Locals,Graduated,7400,1485789793.38,diabetes awareness,JO
+3223,3223,25-44,1.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,JO
+3224,3224,45+,1.0,Locals,Graduated,9000,1485789793.38,diabetes awareness,JO
+3225,3225,18-24,2.0,Locals,Graduated,3400,1485789793.38,diabetes awareness,JO
+3226,3226,25-44,2.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,JO
+3227,3227,45+,2.0,Locals,Graduated,4400,1485789793.38,diabetes awareness,JO
+3228,3228,18-24,1.0,Locals,No Degree,10000,1485789793.38,diabetes awareness,JO
+3229,3229,25-44,1.0,Locals,No Degree,23000,1485789793.38,diabetes awareness,JO
+3230,3230,45+,1.0,Locals,No Degree,15000,1485789793.38,diabetes awareness,JO
+3231,3231,18-24,2.0,Locals,No Degree,4400,1485789793.38,diabetes awareness,JO
+3232,3232,25-44,2.0,Locals,No Degree,14000,1485789793.38,diabetes awareness,JO
+3233,3233,45+,2.0,Locals,No Degree,11000,1485789793.38,diabetes awareness,JO
+3234,3234,18-24,1.0,Locals,High School,5600,1485789793.38,diabetes awareness,JO
+3235,3235,25-44,1.0,Locals,High School,8800,1485789793.38,diabetes awareness,JO
+3236,3236,45+,1.0,Locals,High School,3800,1485789793.38,diabetes awareness,JO
+3237,3237,18-24,2.0,Locals,High School,3900,1485789793.38,diabetes awareness,JO
+3238,3238,25-44,2.0,Locals,High School,4500,1485789793.38,diabetes awareness,JO
+3239,3239,45+,2.0,Locals,High School,1800,1485789793.38,diabetes awareness,JO
+3240,3240,18-24,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,KW
+3241,3241,25-44,1.0,Expats,Graduated,12000,1485789793.38,diabetes awareness,KW
+3242,3242,45+,1.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,KW
+3243,3243,18-24,2.0,Expats,Graduated,450,1485789793.38,diabetes awareness,KW
+3244,3244,25-44,2.0,Expats,Graduated,9100,1485789793.38,diabetes awareness,KW
+3245,3245,45+,2.0,Expats,Graduated,3200,1485789793.38,diabetes awareness,KW
+3246,3246,18-24,1.0,Expats,No Degree,3900,1485789793.38,diabetes awareness,KW
+3247,3247,25-44,1.0,Expats,No Degree,15000,1485789793.38,diabetes awareness,KW
+3248,3248,45+,1.0,Expats,No Degree,3700,1485789793.38,diabetes awareness,KW
+3249,3249,18-24,2.0,Expats,No Degree,620,1485789793.38,diabetes awareness,KW
+3250,3250,25-44,2.0,Expats,No Degree,5200,1485789793.38,diabetes awareness,KW
+3251,3251,45+,2.0,Expats,No Degree,2100,1485789793.38,diabetes awareness,KW
+3252,3252,18-24,1.0,Expats,High School,600,1485789793.38,diabetes awareness,KW
+3253,3253,25-44,1.0,Expats,High School,3700,1485789793.38,diabetes awareness,KW
+3254,3254,45+,1.0,Expats,High School,700,1485789793.38,diabetes awareness,KW
+3255,3255,18-24,2.0,Expats,High School,360,1485789793.38,diabetes awareness,KW
+3256,3256,25-44,2.0,Expats,High School,3100,1485789793.38,diabetes awareness,KW
+3257,3257,45+,2.0,Expats,High School,1200,1485789793.38,diabetes awareness,KW
+3258,3258,18-24,1.0,Locals,Graduated,60,1485789793.38,diabetes awareness,KW
+3259,3259,25-44,1.0,Locals,Graduated,380,1485789793.38,diabetes awareness,KW
+3260,3260,45+,1.0,Locals,Graduated,120,1485789793.38,diabetes awareness,KW
+3261,3261,18-24,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,KW
+3262,3262,25-44,2.0,Locals,Graduated,170,1485789793.38,diabetes awareness,KW
+3263,3263,45+,2.0,Locals,Graduated,110,1485789793.38,diabetes awareness,KW
+3264,3264,18-24,1.0,Locals,No Degree,40,1485789793.38,diabetes awareness,KW
+3265,3265,25-44,1.0,Locals,No Degree,500,1485789793.38,diabetes awareness,KW
+3266,3266,45+,1.0,Locals,No Degree,210,1485789793.38,diabetes awareness,KW
+3267,3267,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,KW
+3268,3268,25-44,2.0,Locals,No Degree,370,1485789793.38,diabetes awareness,KW
+3269,3269,45+,2.0,Locals,No Degree,120,1485789793.38,diabetes awareness,KW
+3270,3270,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3271,3271,25-44,1.0,Locals,High School,110,1485789793.38,diabetes awareness,KW
+3272,3272,45+,1.0,Locals,High School,70,1485789793.38,diabetes awareness,KW
+3273,3273,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3274,3274,25-44,2.0,Locals,High School,90,1485789793.38,diabetes awareness,KW
+3275,3275,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3276,3276,18-24,1.0,Expats,Graduated,650,1485789793.38,diabetes awareness,LB
+3277,3277,25-44,1.0,Expats,Graduated,1400,1485789793.38,diabetes awareness,LB
+3278,3278,45+,1.0,Expats,Graduated,440,1485789793.38,diabetes awareness,LB
+3279,3279,18-24,2.0,Expats,Graduated,240,1485789793.38,diabetes awareness,LB
+3280,3280,25-44,2.0,Expats,Graduated,1000,1485789793.38,diabetes awareness,LB
+3281,3281,45+,2.0,Expats,Graduated,810,1485789793.38,diabetes awareness,LB
+3282,3282,18-24,1.0,Expats,No Degree,950,1485789793.38,diabetes awareness,LB
+3283,3283,25-44,1.0,Expats,No Degree,2300,1485789793.38,diabetes awareness,LB
+3284,3284,45+,1.0,Expats,No Degree,800,1485789793.38,diabetes awareness,LB
+3285,3285,18-24,2.0,Expats,No Degree,450,1485789793.38,diabetes awareness,LB
+3286,3286,25-44,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,LB
+3287,3287,45+,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,LB
+3288,3288,18-24,1.0,Expats,High School,330,1485789793.38,diabetes awareness,LB
+3289,3289,25-44,1.0,Expats,High School,630,1485789793.38,diabetes awareness,LB
+3290,3290,45+,1.0,Expats,High School,160,1485789793.38,diabetes awareness,LB
+3291,3291,18-24,2.0,Expats,High School,170,1485789793.38,diabetes awareness,LB
+3292,3292,25-44,2.0,Expats,High School,440,1485789793.38,diabetes awareness,LB
+3293,3293,45+,2.0,Expats,High School,300,1485789793.38,diabetes awareness,LB
+3294,3294,18-24,1.0,Locals,Graduated,960,1485789793.38,diabetes awareness,LB
+3295,3295,25-44,1.0,Locals,Graduated,2600,1485789793.38,diabetes awareness,LB
+3296,3296,45+,1.0,Locals,Graduated,1500,1485789793.38,diabetes awareness,LB
+3297,3297,18-24,2.0,Locals,Graduated,1600,1485789793.38,diabetes awareness,LB
+3298,3298,25-44,2.0,Locals,Graduated,4900,1485789793.38,diabetes awareness,LB
+3299,3299,45+,2.0,Locals,Graduated,3900,1485789793.38,diabetes awareness,LB
+3300,3300,18-24,1.0,Locals,No Degree,2000,1485789793.38,diabetes awareness,LB
+3301,3301,25-44,1.0,Locals,No Degree,3200,1485789793.38,diabetes awareness,LB
+3302,3302,45+,1.0,Locals,No Degree,3100,1485789793.38,diabetes awareness,LB
+3303,3303,18-24,2.0,Locals,No Degree,2100,1485789793.38,diabetes awareness,LB
+3304,3304,25-44,2.0,Locals,No Degree,5500,1485789793.38,diabetes awareness,LB
+3305,3305,45+,2.0,Locals,No Degree,8700,1485789793.38,diabetes awareness,LB
+3306,3306,18-24,1.0,Locals,High School,720,1485789793.38,diabetes awareness,LB
+3307,3307,25-44,1.0,Locals,High School,830,1485789793.38,diabetes awareness,LB
+3308,3308,45+,1.0,Locals,High School,600,1485789793.38,diabetes awareness,LB
+3309,3309,18-24,2.0,Locals,High School,1600,1485789793.38,diabetes awareness,LB
+3310,3310,25-44,2.0,Locals,High School,970,1485789793.38,diabetes awareness,LB
+3311,3311,45+,2.0,Locals,High School,1200,1485789793.38,diabetes awareness,LB
+3312,3312,18-24,1.0,Expats,Graduated,770,1485789793.38,diabetes awareness,LY
+3313,3313,25-44,1.0,Expats,Graduated,2500,1485789793.38,diabetes awareness,LY
+3314,3314,45+,1.0,Expats,Graduated,730,1485789793.38,diabetes awareness,LY
+3315,3315,18-24,2.0,Expats,Graduated,280,1485789793.38,diabetes awareness,LY
+3316,3316,25-44,2.0,Expats,Graduated,1100,1485789793.38,diabetes awareness,LY
+3317,3317,45+,2.0,Expats,Graduated,320,1485789793.38,diabetes awareness,LY
+3318,3318,18-24,1.0,Expats,No Degree,810,1485789793.38,diabetes awareness,LY
+3319,3319,25-44,1.0,Expats,No Degree,2500,1485789793.38,diabetes awareness,LY
+3320,3320,45+,1.0,Expats,No Degree,890,1485789793.38,diabetes awareness,LY
+3321,3321,18-24,2.0,Expats,No Degree,420,1485789793.38,diabetes awareness,LY
+3322,3322,25-44,2.0,Expats,No Degree,1100,1485789793.38,diabetes awareness,LY
+3323,3323,45+,2.0,Expats,No Degree,410,1485789793.38,diabetes awareness,LY
+3324,3324,18-24,1.0,Expats,High School,220,1485789793.38,diabetes awareness,LY
+3325,3325,25-44,1.0,Expats,High School,630,1485789793.38,diabetes awareness,LY
+3326,3326,45+,1.0,Expats,High School,200,1485789793.38,diabetes awareness,LY
+3327,3327,18-24,2.0,Expats,High School,190,1485789793.38,diabetes awareness,LY
+3328,3328,25-44,2.0,Expats,High School,290,1485789793.38,diabetes awareness,LY
+3329,3329,45+,2.0,Expats,High School,90,1485789793.38,diabetes awareness,LY
+3330,3330,18-24,1.0,Locals,Graduated,3600,1485789793.38,diabetes awareness,LY
+3331,3331,25-44,1.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,LY
+3332,3332,45+,1.0,Locals,Graduated,5000,1485789793.38,diabetes awareness,LY
+3333,3333,18-24,2.0,Locals,Graduated,4000,1485789793.38,diabetes awareness,LY
+3334,3334,25-44,2.0,Locals,Graduated,13000,1485789793.38,diabetes awareness,LY
+3335,3335,45+,2.0,Locals,Graduated,2300,1485789793.38,diabetes awareness,LY
+3336,3336,18-24,1.0,Locals,No Degree,3900,1485789793.38,diabetes awareness,LY
+3337,3337,25-44,1.0,Locals,No Degree,12000,1485789793.38,diabetes awareness,LY
+3338,3338,45+,1.0,Locals,No Degree,5900,1485789793.38,diabetes awareness,LY
+3339,3339,18-24,2.0,Locals,No Degree,3800,1485789793.38,diabetes awareness,LY
+3340,3340,25-44,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,LY
+3341,3341,45+,2.0,Locals,No Degree,6100,1485789793.38,diabetes awareness,LY
+3342,3342,18-24,1.0,Locals,High School,2100,1485789793.38,diabetes awareness,LY
+3343,3343,25-44,1.0,Locals,High School,3100,1485789793.38,diabetes awareness,LY
+3344,3344,45+,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,LY
+3345,3345,18-24,2.0,Locals,High School,2900,1485789793.38,diabetes awareness,LY
+3346,3346,25-44,2.0,Locals,High School,3200,1485789793.38,diabetes awareness,LY
+3347,3347,45+,2.0,Locals,High School,1000,1485789793.38,diabetes awareness,LY
+3348,3348,18-24,1.0,Expats,Graduated,2700,1485789793.38,diabetes awareness,MA
+3349,3349,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,MA
+3350,3350,45+,1.0,Expats,Graduated,810,1485789793.38,diabetes awareness,MA
+3351,3351,18-24,2.0,Expats,Graduated,930,1485789793.38,diabetes awareness,MA
+3352,3352,25-44,2.0,Expats,Graduated,1300,1485789793.38,diabetes awareness,MA
+3353,3353,45+,2.0,Expats,Graduated,410,1485789793.38,diabetes awareness,MA
+3354,3354,18-24,1.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,MA
+3355,3355,25-44,1.0,Expats,No Degree,1600,1485789793.38,diabetes awareness,MA
+3356,3356,45+,1.0,Expats,No Degree,650,1485789793.38,diabetes awareness,MA
+3357,3357,18-24,2.0,Expats,No Degree,540,1485789793.38,diabetes awareness,MA
+3358,3358,25-44,2.0,Expats,No Degree,1000,1485789793.38,diabetes awareness,MA
+3359,3359,45+,2.0,Expats,No Degree,360,1485789793.38,diabetes awareness,MA
+3360,3360,18-24,1.0,Expats,High School,940,1485789793.38,diabetes awareness,MA
+3361,3361,25-44,1.0,Expats,High School,570,1485789793.38,diabetes awareness,MA
+3362,3362,45+,1.0,Expats,High School,210,1485789793.38,diabetes awareness,MA
+3363,3363,18-24,2.0,Expats,High School,240,1485789793.38,diabetes awareness,MA
+3364,3364,25-44,2.0,Expats,High School,300,1485789793.38,diabetes awareness,MA
+3365,3365,45+,2.0,Expats,High School,90,1485789793.38,diabetes awareness,MA
+3366,3366,18-24,1.0,Locals,Graduated,17000,1485789793.38,diabetes awareness,MA
+3367,3367,25-44,1.0,Locals,Graduated,22000,1485789793.38,diabetes awareness,MA
+3368,3368,45+,1.0,Locals,Graduated,10000,1485789793.38,diabetes awareness,MA
+3369,3369,18-24,2.0,Locals,Graduated,12000,1485789793.38,diabetes awareness,MA
+3370,3370,25-44,2.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,MA
+3371,3371,45+,2.0,Locals,Graduated,3800,1485789793.38,diabetes awareness,MA
+3372,3372,18-24,1.0,Locals,No Degree,16000,1485789793.38,diabetes awareness,MA
+3373,3373,25-44,1.0,Locals,No Degree,23000,1485789793.38,diabetes awareness,MA
+3374,3374,45+,1.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,MA
+3375,3375,18-24,2.0,Locals,No Degree,10000,1485789793.38,diabetes awareness,MA
+3376,3376,25-44,2.0,Locals,No Degree,14000,1485789793.38,diabetes awareness,MA
+3377,3377,45+,2.0,Locals,No Degree,6200,1485789793.38,diabetes awareness,MA
+3378,3378,18-24,1.0,Locals,High School,7400,1485789793.38,diabetes awareness,MA
+3379,3379,25-44,1.0,Locals,High School,6400,1485789793.38,diabetes awareness,MA
+3380,3380,45+,1.0,Locals,High School,3300,1485789793.38,diabetes awareness,MA
+3381,3381,18-24,2.0,Locals,High School,5100,1485789793.38,diabetes awareness,MA
+3382,3382,25-44,2.0,Locals,High School,3700,1485789793.38,diabetes awareness,MA
+3383,3383,45+,2.0,Locals,High School,1400,1485789793.38,diabetes awareness,MA
+3384,3384,18-24,1.0,Expats,Graduated,870,1485789793.38,diabetes awareness,OM
+3385,3385,25-44,1.0,Expats,Graduated,4800,1485789793.38,diabetes awareness,OM
+3386,3386,45+,1.0,Expats,Graduated,1200,1485789793.38,diabetes awareness,OM
+3387,3387,18-24,2.0,Expats,Graduated,140,1485789793.38,diabetes awareness,OM
+3388,3388,25-44,2.0,Expats,Graduated,3900,1485789793.38,diabetes awareness,OM
+3389,3389,45+,2.0,Expats,Graduated,1400,1485789793.38,diabetes awareness,OM
+3390,3390,18-24,1.0,Expats,No Degree,1200,1485789793.38,diabetes awareness,OM
+3391,3391,25-44,1.0,Expats,No Degree,3200,1485789793.38,diabetes awareness,OM
+3392,3392,45+,1.0,Expats,No Degree,690,1485789793.38,diabetes awareness,OM
+3393,3393,18-24,2.0,Expats,No Degree,240,1485789793.38,diabetes awareness,OM
+3394,3394,25-44,2.0,Expats,No Degree,1500,1485789793.38,diabetes awareness,OM
+3395,3395,45+,2.0,Expats,No Degree,920,1485789793.38,diabetes awareness,OM
+3396,3396,18-24,1.0,Expats,High School,330,1485789793.38,diabetes awareness,OM
+3397,3397,25-44,1.0,Expats,High School,1100,1485789793.38,diabetes awareness,OM
+3398,3398,45+,1.0,Expats,High School,240,1485789793.38,diabetes awareness,OM
+3399,3399,18-24,2.0,Expats,High School,140,1485789793.38,diabetes awareness,OM
+3400,3400,25-44,2.0,Expats,High School,720,1485789793.38,diabetes awareness,OM
+3401,3401,45+,2.0,Expats,High School,340,1485789793.38,diabetes awareness,OM
+3402,3402,18-24,1.0,Locals,Graduated,120,1485789793.38,diabetes awareness,OM
+3403,3403,25-44,1.0,Locals,Graduated,550,1485789793.38,diabetes awareness,OM
+3404,3404,45+,1.0,Locals,Graduated,90,1485789793.38,diabetes awareness,OM
+3405,3405,18-24,2.0,Locals,Graduated,60,1485789793.38,diabetes awareness,OM
+3406,3406,25-44,2.0,Locals,Graduated,120,1485789793.38,diabetes awareness,OM
+3407,3407,45+,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,OM
+3408,3408,18-24,1.0,Locals,No Degree,100,1485789793.38,diabetes awareness,OM
+3409,3409,25-44,1.0,Locals,No Degree,370,1485789793.38,diabetes awareness,OM
+3410,3410,45+,1.0,Locals,No Degree,70,1485789793.38,diabetes awareness,OM
+3411,3411,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,OM
+3412,3412,25-44,2.0,Locals,No Degree,50,1485789793.38,diabetes awareness,OM
+3413,3413,45+,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,OM
+3414,3414,18-24,1.0,Locals,High School,100,1485789793.38,diabetes awareness,OM
+3415,3415,25-44,1.0,Locals,High School,220,1485789793.38,diabetes awareness,OM
+3416,3416,45+,1.0,Locals,High School,50,1485789793.38,diabetes awareness,OM
+3417,3417,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,OM
+3418,3418,25-44,2.0,Locals,High School,40,1485789793.38,diabetes awareness,OM
+3419,3419,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,OM
+3420,3420,18-24,1.0,Expats,Graduated,2300,1485789793.38,diabetes awareness,QA
+3421,3421,25-44,1.0,Expats,Graduated,13000,1485789793.38,diabetes awareness,QA
+3422,3422,45+,1.0,Expats,Graduated,3100,1485789793.38,diabetes awareness,QA
+3423,3423,18-24,2.0,Expats,Graduated,520,1485789793.38,diabetes awareness,QA
+3424,3424,25-44,2.0,Expats,Graduated,6900,1485789793.38,diabetes awareness,QA
+3425,3425,45+,2.0,Expats,Graduated,2000,1485789793.38,diabetes awareness,QA
+3426,3426,18-24,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,QA
+3427,3427,25-44,1.0,Expats,No Degree,9900,1485789793.38,diabetes awareness,QA
+3428,3428,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,QA
+3429,3429,18-24,2.0,Expats,No Degree,530,1485789793.38,diabetes awareness,QA
+3430,3430,25-44,2.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,QA
+3431,3431,45+,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,QA
+3432,3432,18-24,1.0,Expats,High School,840,1485789793.38,diabetes awareness,QA
+3433,3433,25-44,1.0,Expats,High School,2900,1485789793.38,diabetes awareness,QA
+3434,3434,45+,1.0,Expats,High School,770,1485789793.38,diabetes awareness,QA
+3435,3435,18-24,2.0,Expats,High School,250,1485789793.38,diabetes awareness,QA
+3436,3436,25-44,2.0,Expats,High School,1700,1485789793.38,diabetes awareness,QA
+3437,3437,45+,2.0,Expats,High School,630,1485789793.38,diabetes awareness,QA
+3438,3438,18-24,1.0,Locals,Graduated,30,1485789793.38,diabetes awareness,QA
+3439,3439,25-44,1.0,Locals,Graduated,150,1485789793.38,diabetes awareness,QA
+3440,3440,45+,1.0,Locals,Graduated,20,1485789793.38,diabetes awareness,QA
+3441,3441,18-24,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,QA
+3442,3442,25-44,2.0,Locals,Graduated,90,1485789793.38,diabetes awareness,QA
+3443,3443,45+,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,QA
+3444,3444,18-24,1.0,Locals,No Degree,70,1485789793.38,diabetes awareness,QA
+3445,3445,25-44,1.0,Locals,No Degree,140,1485789793.38,diabetes awareness,QA
+3446,3446,45+,1.0,Locals,No Degree,60,1485789793.38,diabetes awareness,QA
+3447,3447,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,QA
+3448,3448,25-44,2.0,Locals,No Degree,50,1485789793.38,diabetes awareness,QA
+3449,3449,45+,2.0,Locals,No Degree,30,1485789793.38,diabetes awareness,QA
+3450,3450,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3451,3451,25-44,1.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3452,3452,45+,1.0,Locals,High School,30,1485789793.38,diabetes awareness,QA
+3453,3453,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3454,3454,25-44,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3455,3455,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3456,3456,18-24,1.0,Expats,Graduated,14000,1485789793.38,diabetes awareness,SA
+3457,3457,25-44,1.0,Expats,Graduated,83000,1485789793.38,diabetes awareness,SA
+3458,3458,45+,1.0,Expats,Graduated,16000,1485789793.38,diabetes awareness,SA
+3459,3459,18-24,2.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,SA
+3460,3460,25-44,2.0,Expats,Graduated,30000,1485789793.38,diabetes awareness,SA
+3461,3461,45+,2.0,Expats,Graduated,8300,1485789793.38,diabetes awareness,SA
+3462,3462,18-24,1.0,Expats,No Degree,4100,1485789793.38,diabetes awareness,SA
+3463,3463,25-44,1.0,Expats,No Degree,15000,1485789793.38,diabetes awareness,SA
+3464,3464,45+,1.0,Expats,No Degree,3600,1485789793.38,diabetes awareness,SA
+3465,3465,18-24,2.0,Expats,No Degree,1100,1485789793.38,diabetes awareness,SA
+3466,3466,25-44,2.0,Expats,No Degree,6500,1485789793.38,diabetes awareness,SA
+3467,3467,45+,2.0,Expats,No Degree,2100,1485789793.38,diabetes awareness,SA
+3468,3468,18-24,1.0,Expats,High School,4600,1485789793.38,diabetes awareness,SA
+3469,3469,25-44,1.0,Expats,High School,18000,1485789793.38,diabetes awareness,SA
+3470,3470,45+,1.0,Expats,High School,3800,1485789793.38,diabetes awareness,SA
+3471,3471,18-24,2.0,Expats,High School,2000,1485789793.38,diabetes awareness,SA
+3472,3472,25-44,2.0,Expats,High School,7600,1485789793.38,diabetes awareness,SA
+3473,3473,45+,2.0,Expats,High School,2400,1485789793.38,diabetes awareness,SA
+3474,3474,18-24,1.0,Locals,Graduated,5400,1485789793.38,diabetes awareness,SA
+3475,3475,25-44,1.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,SA
+3476,3476,45+,1.0,Locals,Graduated,5400,1485789793.38,diabetes awareness,SA
+3477,3477,18-24,2.0,Locals,Graduated,1500,1485789793.38,diabetes awareness,SA
+3478,3478,25-44,2.0,Locals,Graduated,7800,1485789793.38,diabetes awareness,SA
+3479,3479,45+,2.0,Locals,Graduated,2200,1485789793.38,diabetes awareness,SA
+3480,3480,18-24,1.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,SA
+3481,3481,25-44,1.0,Locals,No Degree,89000,1485789793.38,diabetes awareness,SA
+3482,3482,45+,1.0,Locals,No Degree,17000,1485789793.38,diabetes awareness,SA
+3483,3483,18-24,2.0,Locals,No Degree,5500,1485789793.38,diabetes awareness,SA
+3484,3484,25-44,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,SA
+3485,3485,45+,2.0,Locals,No Degree,5000,1485789793.38,diabetes awareness,SA
+3486,3486,18-24,1.0,Locals,High School,3000,1485789793.38,diabetes awareness,SA
+3487,3487,25-44,1.0,Locals,High School,9500,1485789793.38,diabetes awareness,SA
+3488,3488,45+,1.0,Locals,High School,2400,1485789793.38,diabetes awareness,SA
+3489,3489,18-24,2.0,Locals,High School,880,1485789793.38,diabetes awareness,SA
+3490,3490,25-44,2.0,Locals,High School,2700,1485789793.38,diabetes awareness,SA
+3491,3491,45+,2.0,Locals,High School,770,1485789793.38,diabetes awareness,SA
+3492,3492,18-24,1.0,Expats,Graduated,380,1485789793.38,diabetes awareness,SO
+3493,3493,25-44,1.0,Expats,Graduated,270,1485789793.38,diabetes awareness,SO
+3494,3494,45+,1.0,Expats,Graduated,90,1485789793.38,diabetes awareness,SO
+3495,3495,18-24,2.0,Expats,Graduated,150,1485789793.38,diabetes awareness,SO
+3496,3496,25-44,2.0,Expats,Graduated,90,1485789793.38,diabetes awareness,SO
+3497,3497,45+,2.0,Expats,Graduated,20,1485789793.38,diabetes awareness,SO
+3498,3498,18-24,1.0,Expats,No Degree,140,1485789793.38,diabetes awareness,SO
+3499,3499,25-44,1.0,Expats,No Degree,80,1485789793.38,diabetes awareness,SO
+3500,3500,45+,1.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3501,3501,18-24,2.0,Expats,No Degree,60,1485789793.38,diabetes awareness,SO
+3502,3502,25-44,2.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3503,3503,45+,2.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3504,3504,18-24,1.0,Expats,High School,130,1485789793.38,diabetes awareness,SO
+3505,3505,25-44,1.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3506,3506,45+,1.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3507,3507,18-24,2.0,Expats,High School,40,1485789793.38,diabetes awareness,SO
+3508,3508,25-44,2.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3509,3509,45+,2.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3510,3510,18-24,1.0,Locals,Graduated,1200,1485789793.38,diabetes awareness,SO
+3511,3511,25-44,1.0,Locals,Graduated,1100,1485789793.38,diabetes awareness,SO
+3512,3512,45+,1.0,Locals,Graduated,50,1485789793.38,diabetes awareness,SO
+3513,3513,18-24,2.0,Locals,Graduated,900,1485789793.38,diabetes awareness,SO
+3514,3514,25-44,2.0,Locals,Graduated,470,1485789793.38,diabetes awareness,SO
+3515,3515,45+,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,SO
+3516,3516,18-24,1.0,Locals,No Degree,750,1485789793.38,diabetes awareness,SO
+3517,3517,25-44,1.0,Locals,No Degree,440,1485789793.38,diabetes awareness,SO
+3518,3518,45+,1.0,Locals,No Degree,50,1485789793.38,diabetes awareness,SO
+3519,3519,18-24,2.0,Locals,No Degree,910,1485789793.38,diabetes awareness,SO
+3520,3520,25-44,2.0,Locals,No Degree,450,1485789793.38,diabetes awareness,SO
+3521,3521,45+,2.0,Locals,No Degree,40,1485789793.38,diabetes awareness,SO
+3522,3522,18-24,1.0,Locals,High School,390,1485789793.38,diabetes awareness,SO
+3523,3523,25-44,1.0,Locals,High School,170,1485789793.38,diabetes awareness,SO
+3524,3524,45+,1.0,Locals,High School,20,1485789793.38,diabetes awareness,SO
+3525,3525,18-24,2.0,Locals,High School,380,1485789793.38,diabetes awareness,SO
+3526,3526,25-44,2.0,Locals,High School,80,1485789793.38,diabetes awareness,SO
+3527,3527,45+,2.0,Locals,High School,30,1485789793.38,diabetes awareness,SO
+3528,3528,18-24,1.0,Expats,Graduated,550,1485789793.38,diabetes awareness,TN
+3529,3529,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,TN
+3530,3530,45+,1.0,Expats,Graduated,1300,1485789793.38,diabetes awareness,TN
+3531,3531,18-24,2.0,Expats,Graduated,430,1485789793.38,diabetes awareness,TN
+3532,3532,25-44,2.0,Expats,Graduated,1200,1485789793.38,diabetes awareness,TN
+3533,3533,45+,2.0,Expats,Graduated,590,1485789793.38,diabetes awareness,TN
+3534,3534,18-24,1.0,Expats,No Degree,360,1485789793.38,diabetes awareness,TN
+3535,3535,25-44,1.0,Expats,No Degree,1700,1485789793.38,diabetes awareness,TN
+3536,3536,45+,1.0,Expats,No Degree,990,1485789793.38,diabetes awareness,TN
+3537,3537,18-24,2.0,Expats,No Degree,200,1485789793.38,diabetes awareness,TN
+3538,3538,25-44,2.0,Expats,No Degree,1200,1485789793.38,diabetes awareness,TN
+3539,3539,45+,2.0,Expats,No Degree,650,1485789793.38,diabetes awareness,TN
+3540,3540,18-24,1.0,Expats,High School,260,1485789793.38,diabetes awareness,TN
+3541,3541,25-44,1.0,Expats,High School,750,1485789793.38,diabetes awareness,TN
+3542,3542,45+,1.0,Expats,High School,310,1485789793.38,diabetes awareness,TN
+3543,3543,18-24,2.0,Expats,High School,200,1485789793.38,diabetes awareness,TN
+3544,3544,25-44,2.0,Expats,High School,400,1485789793.38,diabetes awareness,TN
+3545,3545,45+,2.0,Expats,High School,140,1485789793.38,diabetes awareness,TN
+3546,3546,18-24,1.0,Locals,Graduated,3300,1485789793.38,diabetes awareness,TN
+3547,3547,25-44,1.0,Locals,Graduated,23000,1485789793.38,diabetes awareness,TN
+3548,3548,45+,1.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,TN
+3549,3549,18-24,2.0,Locals,Graduated,7800,1485789793.38,diabetes awareness,TN
+3550,3550,25-44,2.0,Locals,Graduated,24000,1485789793.38,diabetes awareness,TN
+3551,3551,45+,2.0,Locals,Graduated,7100,1485789793.38,diabetes awareness,TN
+3552,3552,18-24,1.0,Locals,No Degree,2900,1485789793.38,diabetes awareness,TN
+3553,3553,25-44,1.0,Locals,No Degree,25000,1485789793.38,diabetes awareness,TN
+3554,3554,45+,1.0,Locals,No Degree,19000,1485789793.38,diabetes awareness,TN
+3555,3555,18-24,2.0,Locals,No Degree,4500,1485789793.38,diabetes awareness,TN
+3556,3556,25-44,2.0,Locals,No Degree,22000,1485789793.38,diabetes awareness,TN
+3557,3557,45+,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,TN
+3558,3558,18-24,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,TN
+3559,3559,25-44,1.0,Locals,High School,8000,1485789793.38,diabetes awareness,TN
+3560,3560,45+,1.0,Locals,High School,6800,1485789793.38,diabetes awareness,TN
+3561,3561,18-24,2.0,Locals,High School,3200,1485789793.38,diabetes awareness,TN
+3562,3562,25-44,2.0,Locals,High School,6300,1485789793.38,diabetes awareness,TN
+3563,3563,45+,2.0,Locals,High School,4100,1485789793.38,diabetes awareness,TN
+3564,3564,18-24,1.0,Expats,Graduated,7500,1485789793.38,diabetes awareness,AE
+3565,3565,25-44,1.0,Expats,Graduated,38000,1485789793.38,diabetes awareness,AE
+3566,3566,45+,1.0,Expats,Graduated,7700,1485789793.38,diabetes awareness,AE
+3567,3567,18-24,2.0,Expats,Graduated,2800,1485789793.38,diabetes awareness,AE
+3568,3568,25-44,2.0,Expats,Graduated,35000,1485789793.38,diabetes awareness,AE
+3569,3569,45+,2.0,Expats,Graduated,10000,1485789793.38,diabetes awareness,AE
+3570,3570,18-24,1.0,Expats,No Degree,6400,1485789793.38,diabetes awareness,AE
+3571,3571,25-44,1.0,Expats,No Degree,17000,1485789793.38,diabetes awareness,AE
+3572,3572,45+,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,AE
+3573,3573,18-24,2.0,Expats,No Degree,1600,1485789793.38,diabetes awareness,AE
+3574,3574,25-44,2.0,Expats,No Degree,9300,1485789793.38,diabetes awareness,AE
+3575,3575,45+,2.0,Expats,No Degree,5100,1485789793.38,diabetes awareness,AE
+3576,3576,18-24,1.0,Expats,High School,2600,1485789793.38,diabetes awareness,AE
+3577,3577,25-44,1.0,Expats,High School,7500,1485789793.38,diabetes awareness,AE
+3578,3578,45+,1.0,Expats,High School,1700,1485789793.38,diabetes awareness,AE
+3579,3579,18-24,2.0,Expats,High School,1300,1485789793.38,diabetes awareness,AE
+3580,3580,25-44,2.0,Expats,High School,6300,1485789793.38,diabetes awareness,AE
+3581,3581,45+,2.0,Expats,High School,2700,1485789793.38,diabetes awareness,AE
+3582,3582,18-24,1.0,Locals,Graduated,270,1485789793.38,diabetes awareness,AE
+3583,3583,25-44,1.0,Locals,Graduated,630,1485789793.38,diabetes awareness,AE
+3584,3584,45+,1.0,Locals,Graduated,180,1485789793.38,diabetes awareness,AE
+3585,3585,18-24,2.0,Locals,Graduated,110,1485789793.38,diabetes awareness,AE
+3586,3586,25-44,2.0,Locals,Graduated,590,1485789793.38,diabetes awareness,AE
+3587,3587,45+,2.0,Locals,Graduated,120,1485789793.38,diabetes awareness,AE
+3588,3588,18-24,1.0,Locals,No Degree,210,1485789793.38,diabetes awareness,AE
+3589,3589,25-44,1.0,Locals,No Degree,530,1485789793.38,diabetes awareness,AE
+3590,3590,45+,1.0,Locals,No Degree,140,1485789793.38,diabetes awareness,AE
+3591,3591,18-24,2.0,Locals,No Degree,100,1485789793.38,diabetes awareness,AE
+3592,3592,25-44,2.0,Locals,No Degree,350,1485789793.38,diabetes awareness,AE
+3593,3593,45+,2.0,Locals,No Degree,120,1485789793.38,diabetes awareness,AE
+3594,3594,18-24,1.0,Locals,High School,150,1485789793.38,diabetes awareness,AE
+3595,3595,25-44,1.0,Locals,High School,160,1485789793.38,diabetes awareness,AE
+3596,3596,45+,1.0,Locals,High School,50,1485789793.38,diabetes awareness,AE
+3597,3597,18-24,2.0,Locals,High School,90,1485789793.38,diabetes awareness,AE
+3598,3598,25-44,2.0,Locals,High School,110,1485789793.38,diabetes awareness,AE
+3599,3599,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,AE
+3600,3600,18-24,1.0,Expats,Graduated,2200,1485789793.38,diabetes awareness,YE
+3601,3601,25-44,1.0,Expats,Graduated,4500,1485789793.38,diabetes awareness,YE
+3602,3602,45+,1.0,Expats,Graduated,540,1485789793.38,diabetes awareness,YE
+3603,3603,18-24,2.0,Expats,Graduated,360,1485789793.38,diabetes awareness,YE
+3604,3604,25-44,2.0,Expats,Graduated,640,1485789793.38,diabetes awareness,YE
+3605,3605,45+,2.0,Expats,Graduated,90,1485789793.38,diabetes awareness,YE
+3606,3606,18-24,1.0,Expats,No Degree,1400,1485789793.38,diabetes awareness,YE
+3607,3607,25-44,1.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,YE
+3608,3608,45+,1.0,Expats,No Degree,180,1485789793.38,diabetes awareness,YE
+3609,3609,18-24,2.0,Expats,No Degree,600,1485789793.38,diabetes awareness,YE
+3610,3610,25-44,2.0,Expats,No Degree,540,1485789793.38,diabetes awareness,YE
+3611,3611,45+,2.0,Expats,No Degree,140,1485789793.38,diabetes awareness,YE
+3612,3612,18-24,1.0,Expats,High School,1200,1485789793.38,diabetes awareness,YE
+3613,3613,25-44,1.0,Expats,High School,1100,1485789793.38,diabetes awareness,YE
+3614,3614,45+,1.0,Expats,High School,150,1485789793.38,diabetes awareness,YE
+3615,3615,18-24,2.0,Expats,High School,270,1485789793.38,diabetes awareness,YE
+3616,3616,25-44,2.0,Expats,High School,180,1485789793.38,diabetes awareness,YE
+3617,3617,45+,2.0,Expats,High School,20,1485789793.38,diabetes awareness,YE
+3618,3618,18-24,1.0,Locals,Graduated,21000,1485789793.38,diabetes awareness,YE
+3619,3619,25-44,1.0,Locals,Graduated,49000,1485789793.38,diabetes awareness,YE
+3620,3620,45+,1.0,Locals,Graduated,4900,1485789793.38,diabetes awareness,YE
+3621,3621,18-24,2.0,Locals,Graduated,3100,1485789793.38,diabetes awareness,YE
+3622,3622,25-44,2.0,Locals,Graduated,6600,1485789793.38,diabetes awareness,YE
+3623,3623,45+,2.0,Locals,Graduated,570,1485789793.38,diabetes awareness,YE
+3624,3624,18-24,1.0,Locals,No Degree,28000,1485789793.38,diabetes awareness,YE
+3625,3625,25-44,1.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,YE
+3626,3626,45+,1.0,Locals,No Degree,6000,1485789793.38,diabetes awareness,YE
+3627,3627,18-24,2.0,Locals,No Degree,4000,1485789793.38,diabetes awareness,YE
+3628,3628,25-44,2.0,Locals,No Degree,5300,1485789793.38,diabetes awareness,YE
+3629,3629,45+,2.0,Locals,No Degree,930,1485789793.38,diabetes awareness,YE
+3630,3630,18-24,1.0,Locals,High School,15000,1485789793.38,diabetes awareness,YE
+3631,3631,25-44,1.0,Locals,High School,14000,1485789793.38,diabetes awareness,YE
+3632,3632,45+,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,YE
+3633,3633,18-24,2.0,Locals,High School,3100,1485789793.38,diabetes awareness,YE
+3634,3634,25-44,2.0,Locals,High School,1700,1485789793.38,diabetes awareness,YE
+3635,3635,45+,2.0,Locals,High School,200,1485789793.38,diabetes awareness,YE
+3636,3636,18-24,1.0,Expats,Graduated,390,1485789793.38,diabetes awareness,PS
+3637,3637,25-44,1.0,Expats,Graduated,700,1485789793.38,diabetes awareness,PS
+3638,3638,45+,1.0,Expats,Graduated,250,1485789793.38,diabetes awareness,PS
+3639,3639,18-24,2.0,Expats,Graduated,330,1485789793.38,diabetes awareness,PS
+3640,3640,25-44,2.0,Expats,Graduated,870,1485789793.38,diabetes awareness,PS
+3641,3641,45+,2.0,Expats,Graduated,180,1485789793.38,diabetes awareness,PS
+3642,3642,18-24,1.0,Expats,No Degree,150,1485789793.38,diabetes awareness,PS
+3643,3643,25-44,1.0,Expats,No Degree,230,1485789793.38,diabetes awareness,PS
+3644,3644,45+,1.0,Expats,No Degree,130,1485789793.38,diabetes awareness,PS
+3645,3645,18-24,2.0,Expats,No Degree,130,1485789793.38,diabetes awareness,PS
+3646,3646,25-44,2.0,Expats,No Degree,410,1485789793.38,diabetes awareness,PS
+3647,3647,45+,2.0,Expats,No Degree,240,1485789793.38,diabetes awareness,PS
+3648,3648,18-24,1.0,Expats,High School,80,1485789793.38,diabetes awareness,PS
+3649,3649,25-44,1.0,Expats,High School,160,1485789793.38,diabetes awareness,PS
+3650,3650,45+,1.0,Expats,High School,70,1485789793.38,diabetes awareness,PS
+3651,3651,18-24,2.0,Expats,High School,320,1485789793.38,diabetes awareness,PS
+3652,3652,25-44,2.0,Expats,High School,270,1485789793.38,diabetes awareness,PS
+3653,3653,45+,2.0,Expats,High School,80,1485789793.38,diabetes awareness,PS
+3654,3654,18-24,1.0,Locals,Graduated,1300,1485789793.38,diabetes awareness,PS
+3655,3655,25-44,1.0,Locals,Graduated,4000,1485789793.38,diabetes awareness,PS
+3656,3656,45+,1.0,Locals,Graduated,1100,1485789793.38,diabetes awareness,PS
+3657,3657,18-24,2.0,Locals,Graduated,1800,1485789793.38,diabetes awareness,PS
+3658,3658,25-44,2.0,Locals,Graduated,4600,1485789793.38,diabetes awareness,PS
+3659,3659,45+,2.0,Locals,Graduated,810,1485789793.38,diabetes awareness,PS
+3660,3660,18-24,1.0,Locals,No Degree,730,1485789793.38,diabetes awareness,PS
+3661,3661,25-44,1.0,Locals,No Degree,1700,1485789793.38,diabetes awareness,PS
+3662,3662,45+,1.0,Locals,No Degree,1200,1485789793.38,diabetes awareness,PS
+3663,3663,18-24,2.0,Locals,No Degree,1300,1485789793.38,diabetes awareness,PS
+3664,3664,25-44,2.0,Locals,No Degree,3700,1485789793.38,diabetes awareness,PS
+3665,3665,45+,2.0,Locals,No Degree,1400,1485789793.38,diabetes awareness,PS
+3666,3666,18-24,1.0,Locals,High School,730,1485789793.38,diabetes awareness,PS
+3667,3667,25-44,1.0,Locals,High School,940,1485789793.38,diabetes awareness,PS
+3668,3668,45+,1.0,Locals,High School,360,1485789793.38,diabetes awareness,PS
+3669,3669,18-24,2.0,Locals,High School,1500,1485789793.38,diabetes awareness,PS
+3670,3670,25-44,2.0,Locals,High School,1400,1485789793.38,diabetes awareness,PS
+3671,3671,45+,2.0,Locals,High School,270,1485789793.38,diabetes awareness,PS
+6732,6732,18-24,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,DZ
+6733,6733,25-44,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,DZ
+6734,6734,45+,1.0,Expats,Graduated,1900,1485789793.38,mental disease depression,DZ
+6735,6735,18-24,2.0,Expats,Graduated,5600,1485789793.38,mental disease depression,DZ
+6736,6736,25-44,2.0,Expats,Graduated,3900,1485789793.38,mental disease depression,DZ
+6737,6737,45+,2.0,Expats,Graduated,800,1485789793.38,mental disease depression,DZ
+6738,6738,18-24,1.0,Expats,No Degree,7000,1485789793.38,mental disease depression,DZ
+6739,6739,25-44,1.0,Expats,No Degree,12000,1485789793.38,mental disease depression,DZ
+6740,6740,45+,1.0,Expats,No Degree,2100,1485789793.38,mental disease depression,DZ
+6741,6741,18-24,2.0,Expats,No Degree,3900,1485789793.38,mental disease depression,DZ
+6742,6742,25-44,2.0,Expats,No Degree,4700,1485789793.38,mental disease depression,DZ
+6743,6743,45+,2.0,Expats,No Degree,1200,1485789793.38,mental disease depression,DZ
+6744,6744,18-24,1.0,Expats,High School,5000,1485789793.38,mental disease depression,DZ
+6745,6745,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,DZ
+6746,6746,45+,1.0,Expats,High School,580,1485789793.38,mental disease depression,DZ
+6747,6747,18-24,2.0,Expats,High School,2500,1485789793.38,mental disease depression,DZ
+6748,6748,25-44,2.0,Expats,High School,1200,1485789793.38,mental disease depression,DZ
+6749,6749,45+,2.0,Expats,High School,360,1485789793.38,mental disease depression,DZ
+6750,6750,18-24,1.0,Locals,Graduated,61000,1485789793.38,mental disease depression,DZ
+6751,6751,25-44,1.0,Locals,Graduated,100000,1485789793.38,mental disease depression,DZ
+6752,6752,45+,1.0,Locals,Graduated,11000,1485789793.38,mental disease depression,DZ
+6753,6753,18-24,2.0,Locals,Graduated,49000,1485789793.38,mental disease depression,DZ
+6754,6754,25-44,2.0,Locals,Graduated,59000,1485789793.38,mental disease depression,DZ
+6755,6755,45+,2.0,Locals,Graduated,5700,1485789793.38,mental disease depression,DZ
+6756,6756,18-24,1.0,Locals,No Degree,63000,1485789793.38,mental disease depression,DZ
+6757,6757,25-44,1.0,Locals,No Degree,130000,1485789793.38,mental disease depression,DZ
+6758,6758,45+,1.0,Locals,No Degree,18000,1485789793.38,mental disease depression,DZ
+6759,6759,18-24,2.0,Locals,No Degree,51000,1485789793.38,mental disease depression,DZ
+6760,6760,25-44,2.0,Locals,No Degree,70000,1485789793.38,mental disease depression,DZ
+6761,6761,45+,2.0,Locals,No Degree,11000,1485789793.38,mental disease depression,DZ
+6762,6762,18-24,1.0,Locals,High School,28000,1485789793.38,mental disease depression,DZ
+6763,6763,25-44,1.0,Locals,High School,30000,1485789793.38,mental disease depression,DZ
+6764,6764,45+,1.0,Locals,High School,4100,1485789793.38,mental disease depression,DZ
+6765,6765,18-24,2.0,Locals,High School,24000,1485789793.38,mental disease depression,DZ
+6766,6766,25-44,2.0,Locals,High School,14000,1485789793.38,mental disease depression,DZ
+6767,6767,45+,2.0,Locals,High School,2900,1485789793.38,mental disease depression,DZ
+6768,6768,18-24,1.0,Expats,Graduated,640,1485789793.38,mental disease depression,BH
+6769,6769,25-44,1.0,Expats,Graduated,1800,1485789793.38,mental disease depression,BH
+6770,6770,45+,1.0,Expats,Graduated,370,1485789793.38,mental disease depression,BH
+6771,6771,18-24,2.0,Expats,Graduated,460,1485789793.38,mental disease depression,BH
+6772,6772,25-44,2.0,Expats,Graduated,2900,1485789793.38,mental disease depression,BH
+6773,6773,45+,2.0,Expats,Graduated,500,1485789793.38,mental disease depression,BH
+6774,6774,18-24,1.0,Expats,No Degree,690,1485789793.38,mental disease depression,BH
+6775,6775,25-44,1.0,Expats,No Degree,1400,1485789793.38,mental disease depression,BH
+6776,6776,45+,1.0,Expats,No Degree,440,1485789793.38,mental disease depression,BH
+6777,6777,18-24,2.0,Expats,No Degree,310,1485789793.38,mental disease depression,BH
+6778,6778,25-44,2.0,Expats,No Degree,940,1485789793.38,mental disease depression,BH
+6779,6779,45+,2.0,Expats,No Degree,220,1485789793.38,mental disease depression,BH
+6780,6780,18-24,1.0,Expats,High School,350,1485789793.38,mental disease depression,BH
+6781,6781,25-44,1.0,Expats,High School,600,1485789793.38,mental disease depression,BH
+6782,6782,45+,1.0,Expats,High School,110,1485789793.38,mental disease depression,BH
+6783,6783,18-24,2.0,Expats,High School,260,1485789793.38,mental disease depression,BH
+6784,6784,25-44,2.0,Expats,High School,850,1485789793.38,mental disease depression,BH
+6785,6785,45+,2.0,Expats,High School,120,1485789793.38,mental disease depression,BH
+6786,6786,18-24,1.0,Locals,Graduated,120,1485789793.38,mental disease depression,BH
+6787,6787,25-44,1.0,Locals,Graduated,240,1485789793.38,mental disease depression,BH
+6788,6788,45+,1.0,Locals,Graduated,30,1485789793.38,mental disease depression,BH
+6789,6789,18-24,2.0,Locals,Graduated,180,1485789793.38,mental disease depression,BH
+6790,6790,25-44,2.0,Locals,Graduated,580,1485789793.38,mental disease depression,BH
+6791,6791,45+,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,BH
+6792,6792,18-24,1.0,Locals,No Degree,80,1485789793.38,mental disease depression,BH
+6793,6793,25-44,1.0,Locals,No Degree,150,1485789793.38,mental disease depression,BH
+6794,6794,45+,1.0,Locals,No Degree,40,1485789793.38,mental disease depression,BH
+6795,6795,18-24,2.0,Locals,No Degree,170,1485789793.38,mental disease depression,BH
+6796,6796,25-44,2.0,Locals,No Degree,420,1485789793.38,mental disease depression,BH
+6797,6797,45+,2.0,Locals,No Degree,60,1485789793.38,mental disease depression,BH
+6798,6798,18-24,1.0,Locals,High School,70,1485789793.38,mental disease depression,BH
+6799,6799,25-44,1.0,Locals,High School,80,1485789793.38,mental disease depression,BH
+6800,6800,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,BH
+6801,6801,18-24,2.0,Locals,High School,150,1485789793.38,mental disease depression,BH
+6802,6802,25-44,2.0,Locals,High School,110,1485789793.38,mental disease depression,BH
+6803,6803,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,BH
+6804,6804,18-24,1.0,Expats,Graduated,10000,1485789793.38,mental disease depression,EG
+6805,6805,25-44,1.0,Expats,Graduated,16000,1485789793.38,mental disease depression,EG
+6806,6806,45+,1.0,Expats,Graduated,4200,1485789793.38,mental disease depression,EG
+6807,6807,18-24,2.0,Expats,Graduated,6100,1485789793.38,mental disease depression,EG
+6808,6808,25-44,2.0,Expats,Graduated,11000,1485789793.38,mental disease depression,EG
+6809,6809,45+,2.0,Expats,Graduated,1900,1485789793.38,mental disease depression,EG
+6810,6810,18-24,1.0,Expats,No Degree,4500,1485789793.38,mental disease depression,EG
+6811,6811,25-44,1.0,Expats,No Degree,6900,1485789793.38,mental disease depression,EG
+6812,6812,45+,1.0,Expats,No Degree,2800,1485789793.38,mental disease depression,EG
+6813,6813,18-24,2.0,Expats,No Degree,2700,1485789793.38,mental disease depression,EG
+6814,6814,25-44,2.0,Expats,No Degree,3900,1485789793.38,mental disease depression,EG
+6815,6815,45+,2.0,Expats,No Degree,1700,1485789793.38,mental disease depression,EG
+6816,6816,18-24,1.0,Expats,High School,6500,1485789793.38,mental disease depression,EG
+6817,6817,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,EG
+6818,6818,45+,1.0,Expats,High School,980,1485789793.38,mental disease depression,EG
+6819,6819,18-24,2.0,Expats,High School,5600,1485789793.38,mental disease depression,EG
+6820,6820,25-44,2.0,Expats,High School,2500,1485789793.38,mental disease depression,EG
+6821,6821,45+,2.0,Expats,High School,540,1485789793.38,mental disease depression,EG
+6822,6822,18-24,1.0,Locals,Graduated,190000,1485789793.38,mental disease depression,EG
+6823,6823,25-44,1.0,Locals,Graduated,310000,1485789793.38,mental disease depression,EG
+6824,6824,45+,1.0,Locals,Graduated,82000,1485789793.38,mental disease depression,EG
+6825,6825,18-24,2.0,Locals,Graduated,200000,1485789793.38,mental disease depression,EG
+6826,6826,25-44,2.0,Locals,Graduated,290000,1485789793.38,mental disease depression,EG
+6827,6827,45+,2.0,Locals,Graduated,42000,1485789793.38,mental disease depression,EG
+6828,6828,18-24,1.0,Locals,No Degree,93000,1485789793.38,mental disease depression,EG
+6829,6829,25-44,1.0,Locals,No Degree,180000,1485789793.38,mental disease depression,EG
+6830,6830,45+,1.0,Locals,No Degree,87000,1485789793.38,mental disease depression,EG
+6831,6831,18-24,2.0,Locals,No Degree,92000,1485789793.38,mental disease depression,EG
+6832,6832,25-44,2.0,Locals,No Degree,130000,1485789793.38,mental disease depression,EG
+6833,6833,45+,2.0,Locals,No Degree,59000,1485789793.38,mental disease depression,EG
+6834,6834,18-24,1.0,Locals,High School,130000,1485789793.38,mental disease depression,EG
+6835,6835,25-44,1.0,Locals,High School,68000,1485789793.38,mental disease depression,EG
+6836,6836,45+,1.0,Locals,High School,21000,1485789793.38,mental disease depression,EG
+6837,6837,18-24,2.0,Locals,High School,180000,1485789793.38,mental disease depression,EG
+6838,6838,25-44,2.0,Locals,High School,50000,1485789793.38,mental disease depression,EG
+6839,6839,45+,2.0,Locals,High School,9300,1485789793.38,mental disease depression,EG
+6840,6840,18-24,1.0,Expats,Graduated,8700,1485789793.38,mental disease depression,IQ
+6841,6841,25-44,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,IQ
+6842,6842,45+,1.0,Expats,Graduated,2300,1485789793.38,mental disease depression,IQ
+6843,6843,18-24,2.0,Expats,Graduated,620,1485789793.38,mental disease depression,IQ
+6844,6844,25-44,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,IQ
+6845,6845,45+,2.0,Expats,Graduated,270,1485789793.38,mental disease depression,IQ
+6846,6846,18-24,1.0,Expats,No Degree,8400,1485789793.38,mental disease depression,IQ
+6847,6847,25-44,1.0,Expats,No Degree,8600,1485789793.38,mental disease depression,IQ
+6848,6848,45+,1.0,Expats,No Degree,1900,1485789793.38,mental disease depression,IQ
+6849,6849,18-24,2.0,Expats,No Degree,970,1485789793.38,mental disease depression,IQ
+6850,6850,25-44,2.0,Expats,No Degree,1600,1485789793.38,mental disease depression,IQ
+6851,6851,45+,2.0,Expats,No Degree,470,1485789793.38,mental disease depression,IQ
+6852,6852,18-24,1.0,Expats,High School,4000,1485789793.38,mental disease depression,IQ
+6853,6853,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,IQ
+6854,6854,45+,1.0,Expats,High School,710,1485789793.38,mental disease depression,IQ
+6855,6855,18-24,2.0,Expats,High School,590,1485789793.38,mental disease depression,IQ
+6856,6856,25-44,2.0,Expats,High School,430,1485789793.38,mental disease depression,IQ
+6857,6857,45+,2.0,Expats,High School,80,1485789793.38,mental disease depression,IQ
+6858,6858,18-24,1.0,Locals,Graduated,84000,1485789793.38,mental disease depression,IQ
+6859,6859,25-44,1.0,Locals,Graduated,140000,1485789793.38,mental disease depression,IQ
+6860,6860,45+,1.0,Locals,Graduated,24000,1485789793.38,mental disease depression,IQ
+6861,6861,18-24,2.0,Locals,Graduated,7000,1485789793.38,mental disease depression,IQ
+6862,6862,25-44,2.0,Locals,Graduated,15000,1485789793.38,mental disease depression,IQ
+6863,6863,45+,2.0,Locals,Graduated,4400,1485789793.38,mental disease depression,IQ
+6864,6864,18-24,1.0,Locals,No Degree,190000,1485789793.38,mental disease depression,IQ
+6865,6865,25-44,1.0,Locals,No Degree,180000,1485789793.38,mental disease depression,IQ
+6866,6866,45+,1.0,Locals,No Degree,47000,1485789793.38,mental disease depression,IQ
+6867,6867,18-24,2.0,Locals,No Degree,12000,1485789793.38,mental disease depression,IQ
+6868,6868,25-44,2.0,Locals,No Degree,17000,1485789793.38,mental disease depression,IQ
+6869,6869,45+,2.0,Locals,No Degree,9400,1485789793.38,mental disease depression,IQ
+6870,6870,18-24,1.0,Locals,High School,51000,1485789793.38,mental disease depression,IQ
+6871,6871,25-44,1.0,Locals,High School,43000,1485789793.38,mental disease depression,IQ
+6872,6872,45+,1.0,Locals,High School,8500,1485789793.38,mental disease depression,IQ
+6873,6873,18-24,2.0,Locals,High School,6400,1485789793.38,mental disease depression,IQ
+6874,6874,25-44,2.0,Locals,High School,4400,1485789793.38,mental disease depression,IQ
+6875,6875,45+,2.0,Locals,High School,1600,1485789793.38,mental disease depression,IQ
+6876,6876,18-24,1.0,Expats,Graduated,3000,1485789793.38,mental disease depression,JO
+6877,6877,25-44,1.0,Expats,Graduated,12000,1485789793.38,mental disease depression,JO
+6878,6878,45+,1.0,Expats,Graduated,2100,1485789793.38,mental disease depression,JO
+6879,6879,18-24,2.0,Expats,Graduated,2500,1485789793.38,mental disease depression,JO
+6880,6880,25-44,2.0,Expats,Graduated,9100,1485789793.38,mental disease depression,JO
+6881,6881,45+,2.0,Expats,Graduated,1900,1485789793.38,mental disease depression,JO
+6882,6882,18-24,1.0,Expats,No Degree,4000,1485789793.38,mental disease depression,JO
+6883,6883,25-44,1.0,Expats,No Degree,9600,1485789793.38,mental disease depression,JO
+6884,6884,45+,1.0,Expats,No Degree,2700,1485789793.38,mental disease depression,JO
+6885,6885,18-24,2.0,Expats,No Degree,1700,1485789793.38,mental disease depression,JO
+6886,6886,25-44,2.0,Expats,No Degree,5600,1485789793.38,mental disease depression,JO
+6887,6887,45+,2.0,Expats,No Degree,2400,1485789793.38,mental disease depression,JO
+6888,6888,18-24,1.0,Expats,High School,3000,1485789793.38,mental disease depression,JO
+6889,6889,25-44,1.0,Expats,High School,4200,1485789793.38,mental disease depression,JO
+6890,6890,45+,1.0,Expats,High School,640,1485789793.38,mental disease depression,JO
+6891,6891,18-24,2.0,Expats,High School,2700,1485789793.38,mental disease depression,JO
+6892,6892,25-44,2.0,Expats,High School,2800,1485789793.38,mental disease depression,JO
+6893,6893,45+,2.0,Expats,High School,630,1485789793.38,mental disease depression,JO
+6894,6894,18-24,1.0,Locals,Graduated,11000,1485789793.38,mental disease depression,JO
+6895,6895,25-44,1.0,Locals,Graduated,36000,1485789793.38,mental disease depression,JO
+6896,6896,45+,1.0,Locals,Graduated,6600,1485789793.38,mental disease depression,JO
+6897,6897,18-24,2.0,Locals,Graduated,7600,1485789793.38,mental disease depression,JO
+6898,6898,25-44,2.0,Locals,Graduated,30000,1485789793.38,mental disease depression,JO
+6899,6899,45+,2.0,Locals,Graduated,4100,1485789793.38,mental disease depression,JO
+6900,6900,18-24,1.0,Locals,No Degree,13000,1485789793.38,mental disease depression,JO
+6901,6901,25-44,1.0,Locals,No Degree,27000,1485789793.38,mental disease depression,JO
+6902,6902,45+,1.0,Locals,No Degree,9300,1485789793.38,mental disease depression,JO
+6903,6903,18-24,2.0,Locals,No Degree,7200,1485789793.38,mental disease depression,JO
+6904,6904,25-44,2.0,Locals,No Degree,23000,1485789793.38,mental disease depression,JO
+6905,6905,45+,2.0,Locals,No Degree,8600,1485789793.38,mental disease depression,JO
+6906,6906,18-24,1.0,Locals,High School,8900,1485789793.38,mental disease depression,JO
+6907,6907,25-44,1.0,Locals,High School,11000,1485789793.38,mental disease depression,JO
+6908,6908,45+,1.0,Locals,High School,2900,1485789793.38,mental disease depression,JO
+6909,6909,18-24,2.0,Locals,High School,8700,1485789793.38,mental disease depression,JO
+6910,6910,25-44,2.0,Locals,High School,8600,1485789793.38,mental disease depression,JO
+6911,6911,45+,2.0,Locals,High School,1600,1485789793.38,mental disease depression,JO
+6912,6912,18-24,1.0,Expats,Graduated,3500,1485789793.38,mental disease depression,KW
+6913,6913,25-44,1.0,Expats,Graduated,21000,1485789793.38,mental disease depression,KW
+6914,6914,45+,1.0,Expats,Graduated,2400,1485789793.38,mental disease depression,KW
+6915,6915,18-24,2.0,Expats,Graduated,1300,1485789793.38,mental disease depression,KW
+6916,6916,25-44,2.0,Expats,Graduated,12000,1485789793.38,mental disease depression,KW
+6917,6917,45+,2.0,Expats,Graduated,2400,1485789793.38,mental disease depression,KW
+6918,6918,18-24,1.0,Expats,No Degree,6500,1485789793.38,mental disease depression,KW
+6919,6919,25-44,1.0,Expats,No Degree,17000,1485789793.38,mental disease depression,KW
+6920,6920,45+,1.0,Expats,No Degree,3900,1485789793.38,mental disease depression,KW
+6921,6921,18-24,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,KW
+6922,6922,25-44,2.0,Expats,No Degree,6500,1485789793.38,mental disease depression,KW
+6923,6923,45+,2.0,Expats,No Degree,2800,1485789793.38,mental disease depression,KW
+6924,6924,18-24,1.0,Expats,High School,1600,1485789793.38,mental disease depression,KW
+6925,6925,25-44,1.0,Expats,High School,5700,1485789793.38,mental disease depression,KW
+6926,6926,45+,1.0,Expats,High School,850,1485789793.38,mental disease depression,KW
+6927,6927,18-24,2.0,Expats,High School,1000,1485789793.38,mental disease depression,KW
+6928,6928,25-44,2.0,Expats,High School,4000,1485789793.38,mental disease depression,KW
+6929,6929,45+,2.0,Expats,High School,710,1485789793.38,mental disease depression,KW
+6930,6930,18-24,1.0,Locals,Graduated,160,1485789793.38,mental disease depression,KW
+6931,6931,25-44,1.0,Locals,Graduated,640,1485789793.38,mental disease depression,KW
+6932,6932,45+,1.0,Locals,Graduated,140,1485789793.38,mental disease depression,KW
+6933,6933,18-24,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,KW
+6934,6934,25-44,2.0,Locals,Graduated,710,1485789793.38,mental disease depression,KW
+6935,6935,45+,2.0,Locals,Graduated,180,1485789793.38,mental disease depression,KW
+6936,6936,18-24,1.0,Locals,No Degree,190,1485789793.38,mental disease depression,KW
+6937,6937,25-44,1.0,Locals,No Degree,650,1485789793.38,mental disease depression,KW
+6938,6938,45+,1.0,Locals,No Degree,250,1485789793.38,mental disease depression,KW
+6939,6939,18-24,2.0,Locals,No Degree,180,1485789793.38,mental disease depression,KW
+6940,6940,25-44,2.0,Locals,No Degree,710,1485789793.38,mental disease depression,KW
+6941,6941,45+,2.0,Locals,No Degree,260,1485789793.38,mental disease depression,KW
+6942,6942,18-24,1.0,Locals,High School,110,1485789793.38,mental disease depression,KW
+6943,6943,25-44,1.0,Locals,High School,210,1485789793.38,mental disease depression,KW
+6944,6944,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,KW
+6945,6945,18-24,2.0,Locals,High School,40,1485789793.38,mental disease depression,KW
+6946,6946,25-44,2.0,Locals,High School,130,1485789793.38,mental disease depression,KW
+6947,6947,45+,2.0,Locals,High School,30,1485789793.38,mental disease depression,KW
+6948,6948,18-24,1.0,Expats,Graduated,2100,1485789793.38,mental disease depression,LB
+6949,6949,25-44,1.0,Expats,Graduated,6300,1485789793.38,mental disease depression,LB
+6950,6950,45+,1.0,Expats,Graduated,1400,1485789793.38,mental disease depression,LB
+6951,6951,18-24,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,LB
+6952,6952,25-44,2.0,Expats,Graduated,5100,1485789793.38,mental disease depression,LB
+6953,6953,45+,2.0,Expats,Graduated,1700,1485789793.38,mental disease depression,LB
+6954,6954,18-24,1.0,Expats,No Degree,3300,1485789793.38,mental disease depression,LB
+6955,6955,25-44,1.0,Expats,No Degree,7800,1485789793.38,mental disease depression,LB
+6956,6956,45+,1.0,Expats,No Degree,2200,1485789793.38,mental disease depression,LB
+6957,6957,18-24,2.0,Expats,No Degree,1600,1485789793.38,mental disease depression,LB
+6958,6958,25-44,2.0,Expats,No Degree,4600,1485789793.38,mental disease depression,LB
+6959,6959,45+,2.0,Expats,No Degree,2300,1485789793.38,mental disease depression,LB
+6960,6960,18-24,1.0,Expats,High School,1600,1485789793.38,mental disease depression,LB
+6961,6961,25-44,1.0,Expats,High School,2400,1485789793.38,mental disease depression,LB
+6962,6962,45+,1.0,Expats,High School,720,1485789793.38,mental disease depression,LB
+6963,6963,18-24,2.0,Expats,High School,1100,1485789793.38,mental disease depression,LB
+6964,6964,25-44,2.0,Expats,High School,1900,1485789793.38,mental disease depression,LB
+6965,6965,45+,2.0,Expats,High School,770,1485789793.38,mental disease depression,LB
+6966,6966,18-24,1.0,Locals,Graduated,7000,1485789793.38,mental disease depression,LB
+6967,6967,25-44,1.0,Locals,Graduated,23000,1485789793.38,mental disease depression,LB
+6968,6968,45+,1.0,Locals,Graduated,9000,1485789793.38,mental disease depression,LB
+6969,6969,18-24,2.0,Locals,Graduated,13000,1485789793.38,mental disease depression,LB
+6970,6970,25-44,2.0,Locals,Graduated,42000,1485789793.38,mental disease depression,LB
+6971,6971,45+,2.0,Locals,Graduated,12000,1485789793.38,mental disease depression,LB
+6972,6972,18-24,1.0,Locals,No Degree,9000,1485789793.38,mental disease depression,LB
+6973,6973,25-44,1.0,Locals,No Degree,26000,1485789793.38,mental disease depression,LB
+6974,6974,45+,1.0,Locals,No Degree,18000,1485789793.38,mental disease depression,LB
+6975,6975,18-24,2.0,Locals,No Degree,11000,1485789793.38,mental disease depression,LB
+6976,6976,25-44,2.0,Locals,No Degree,40000,1485789793.38,mental disease depression,LB
+6977,6977,45+,2.0,Locals,No Degree,31000,1485789793.38,mental disease depression,LB
+6978,6978,18-24,1.0,Locals,High School,5400,1485789793.38,mental disease depression,LB
+6979,6979,25-44,1.0,Locals,High School,6400,1485789793.38,mental disease depression,LB
+6980,6980,45+,1.0,Locals,High School,2900,1485789793.38,mental disease depression,LB
+6981,6981,18-24,2.0,Locals,High School,11000,1485789793.38,mental disease depression,LB
+6982,6982,25-44,2.0,Locals,High School,10000,1485789793.38,mental disease depression,LB
+6983,6983,45+,2.0,Locals,High School,4700,1485789793.38,mental disease depression,LB
+6984,6984,18-24,1.0,Expats,Graduated,2000,1485789793.38,mental disease depression,LY
+6985,6985,25-44,1.0,Expats,Graduated,6100,1485789793.38,mental disease depression,LY
+6986,6986,45+,1.0,Expats,Graduated,860,1485789793.38,mental disease depression,LY
+6987,6987,18-24,2.0,Expats,Graduated,780,1485789793.38,mental disease depression,LY
+6988,6988,25-44,2.0,Expats,Graduated,1800,1485789793.38,mental disease depression,LY
+6989,6989,45+,2.0,Expats,Graduated,420,1485789793.38,mental disease depression,LY
+6990,6990,18-24,1.0,Expats,No Degree,2600,1485789793.38,mental disease depression,LY
+6991,6991,25-44,1.0,Expats,No Degree,6900,1485789793.38,mental disease depression,LY
+6992,6992,45+,1.0,Expats,No Degree,1400,1485789793.38,mental disease depression,LY
+6993,6993,18-24,2.0,Expats,No Degree,840,1485789793.38,mental disease depression,LY
+6994,6994,25-44,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,LY
+6995,6995,45+,2.0,Expats,No Degree,590,1485789793.38,mental disease depression,LY
+6996,6996,18-24,1.0,Expats,High School,870,1485789793.38,mental disease depression,LY
+6997,6997,25-44,1.0,Expats,High School,1700,1485789793.38,mental disease depression,LY
+6998,6998,45+,1.0,Expats,High School,250,1485789793.38,mental disease depression,LY
+6999,6999,18-24,2.0,Expats,High School,510,1485789793.38,mental disease depression,LY
+7000,7000,25-44,2.0,Expats,High School,510,1485789793.38,mental disease depression,LY
+7001,7001,45+,2.0,Expats,High School,140,1485789793.38,mental disease depression,LY
+7002,7002,18-24,1.0,Locals,Graduated,12000,1485789793.38,mental disease depression,LY
+7003,7003,25-44,1.0,Locals,Graduated,30000,1485789793.38,mental disease depression,LY
+7004,7004,45+,1.0,Locals,Graduated,4800,1485789793.38,mental disease depression,LY
+7005,7005,18-24,2.0,Locals,Graduated,8900,1485789793.38,mental disease depression,LY
+7006,7006,25-44,2.0,Locals,Graduated,20000,1485789793.38,mental disease depression,LY
+7007,7007,45+,2.0,Locals,Graduated,3200,1485789793.38,mental disease depression,LY
+7008,7008,18-24,1.0,Locals,No Degree,9400,1485789793.38,mental disease depression,LY
+7009,7009,25-44,1.0,Locals,No Degree,24000,1485789793.38,mental disease depression,LY
+7010,7010,45+,1.0,Locals,No Degree,6600,1485789793.38,mental disease depression,LY
+7011,7011,18-24,2.0,Locals,No Degree,7500,1485789793.38,mental disease depression,LY
+7012,7012,25-44,2.0,Locals,No Degree,18000,1485789793.38,mental disease depression,LY
+7013,7013,45+,2.0,Locals,No Degree,6400,1485789793.38,mental disease depression,LY
+7014,7014,18-24,1.0,Locals,High School,7400,1485789793.38,mental disease depression,LY
+7015,7015,25-44,1.0,Locals,High School,6800,1485789793.38,mental disease depression,LY
+7016,7016,45+,1.0,Locals,High School,1500,1485789793.38,mental disease depression,LY
+7017,7017,18-24,2.0,Locals,High School,7300,1485789793.38,mental disease depression,LY
+7018,7018,25-44,2.0,Locals,High School,4600,1485789793.38,mental disease depression,LY
+7019,7019,45+,2.0,Locals,High School,1000,1485789793.38,mental disease depression,LY
+7020,7020,18-24,1.0,Expats,Graduated,22000,1485789793.38,mental disease depression,MA
+7021,7021,25-44,1.0,Expats,Graduated,27000,1485789793.38,mental disease depression,MA
+7022,7022,45+,1.0,Expats,Graduated,6100,1485789793.38,mental disease depression,MA
+7023,7023,18-24,2.0,Expats,Graduated,5600,1485789793.38,mental disease depression,MA
+7024,7024,25-44,2.0,Expats,Graduated,8100,1485789793.38,mental disease depression,MA
+7025,7025,45+,2.0,Expats,Graduated,2200,1485789793.38,mental disease depression,MA
+7026,7026,18-24,1.0,Expats,No Degree,8400,1485789793.38,mental disease depression,MA
+7027,7027,25-44,1.0,Expats,No Degree,19000,1485789793.38,mental disease depression,MA
+7028,7028,45+,1.0,Expats,No Degree,5700,1485789793.38,mental disease depression,MA
+7029,7029,18-24,2.0,Expats,No Degree,3700,1485789793.38,mental disease depression,MA
+7030,7030,25-44,2.0,Expats,No Degree,7200,1485789793.38,mental disease depression,MA
+7031,7031,45+,2.0,Expats,No Degree,2200,1485789793.38,mental disease depression,MA
+7032,7032,18-24,1.0,Expats,High School,7600,1485789793.38,mental disease depression,MA
+7033,7033,25-44,1.0,Expats,High School,7600,1485789793.38,mental disease depression,MA
+7034,7034,45+,1.0,Expats,High School,2000,1485789793.38,mental disease depression,MA
+7035,7035,18-24,2.0,Expats,High School,2400,1485789793.38,mental disease depression,MA
+7036,7036,25-44,2.0,Expats,High School,2300,1485789793.38,mental disease depression,MA
+7037,7037,45+,2.0,Expats,High School,930,1485789793.38,mental disease depression,MA
+7038,7038,18-24,1.0,Locals,Graduated,140000,1485789793.38,mental disease depression,MA
+7039,7039,25-44,1.0,Locals,Graduated,250000,1485789793.38,mental disease depression,MA
+7040,7040,45+,1.0,Locals,Graduated,67000,1485789793.38,mental disease depression,MA
+7041,7041,18-24,2.0,Locals,Graduated,68000,1485789793.38,mental disease depression,MA
+7042,7042,25-44,2.0,Locals,Graduated,91000,1485789793.38,mental disease depression,MA
+7043,7043,45+,2.0,Locals,Graduated,22000,1485789793.38,mental disease depression,MA
+7044,7044,18-24,1.0,Locals,No Degree,120000,1485789793.38,mental disease depression,MA
+7045,7045,25-44,1.0,Locals,No Degree,350000,1485789793.38,mental disease depression,MA
+7046,7046,45+,1.0,Locals,No Degree,120000,1485789793.38,mental disease depression,MA
+7047,7047,18-24,2.0,Locals,No Degree,62000,1485789793.38,mental disease depression,MA
+7048,7048,25-44,2.0,Locals,No Degree,110000,1485789793.38,mental disease depression,MA
+7049,7049,45+,2.0,Locals,No Degree,43000,1485789793.38,mental disease depression,MA
+7050,7050,18-24,1.0,Locals,High School,55000,1485789793.38,mental disease depression,MA
+7051,7051,25-44,1.0,Locals,High School,71000,1485789793.38,mental disease depression,MA
+7052,7052,45+,1.0,Locals,High School,24000,1485789793.38,mental disease depression,MA
+7053,7053,18-24,2.0,Locals,High School,32000,1485789793.38,mental disease depression,MA
+7054,7054,25-44,2.0,Locals,High School,25000,1485789793.38,mental disease depression,MA
+7055,7055,45+,2.0,Locals,High School,9100,1485789793.38,mental disease depression,MA
+7056,7056,18-24,1.0,Expats,Graduated,970,1485789793.38,mental disease depression,OM
+7057,7057,25-44,1.0,Expats,Graduated,3500,1485789793.38,mental disease depression,OM
+7058,7058,45+,1.0,Expats,Graduated,670,1485789793.38,mental disease depression,OM
+7059,7059,18-24,2.0,Expats,Graduated,360,1485789793.38,mental disease depression,OM
+7060,7060,25-44,2.0,Expats,Graduated,3300,1485789793.38,mental disease depression,OM
+7061,7061,45+,2.0,Expats,Graduated,450,1485789793.38,mental disease depression,OM
+7062,7062,18-24,1.0,Expats,No Degree,2000,1485789793.38,mental disease depression,OM
+7063,7063,25-44,1.0,Expats,No Degree,3900,1485789793.38,mental disease depression,OM
+7064,7064,45+,1.0,Expats,No Degree,600,1485789793.38,mental disease depression,OM
+7065,7065,18-24,2.0,Expats,No Degree,550,1485789793.38,mental disease depression,OM
+7066,7066,25-44,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,OM
+7067,7067,45+,2.0,Expats,No Degree,370,1485789793.38,mental disease depression,OM
+7068,7068,18-24,1.0,Expats,High School,360,1485789793.38,mental disease depression,OM
+7069,7069,25-44,1.0,Expats,High School,900,1485789793.38,mental disease depression,OM
+7070,7070,45+,1.0,Expats,High School,160,1485789793.38,mental disease depression,OM
+7071,7071,18-24,2.0,Expats,High School,230,1485789793.38,mental disease depression,OM
+7072,7072,25-44,2.0,Expats,High School,720,1485789793.38,mental disease depression,OM
+7073,7073,45+,2.0,Expats,High School,90,1485789793.38,mental disease depression,OM
+7074,7074,18-24,1.0,Locals,Graduated,150,1485789793.38,mental disease depression,OM
+7075,7075,25-44,1.0,Locals,Graduated,630,1485789793.38,mental disease depression,OM
+7076,7076,45+,1.0,Locals,Graduated,50,1485789793.38,mental disease depression,OM
+7077,7077,18-24,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,OM
+7078,7078,25-44,2.0,Locals,Graduated,370,1485789793.38,mental disease depression,OM
+7079,7079,45+,2.0,Locals,Graduated,20,1485789793.38,mental disease depression,OM
+7080,7080,18-24,1.0,Locals,No Degree,270,1485789793.38,mental disease depression,OM
+7081,7081,25-44,1.0,Locals,No Degree,620,1485789793.38,mental disease depression,OM
+7082,7082,45+,1.0,Locals,No Degree,110,1485789793.38,mental disease depression,OM
+7083,7083,18-24,2.0,Locals,No Degree,180,1485789793.38,mental disease depression,OM
+7084,7084,25-44,2.0,Locals,No Degree,450,1485789793.38,mental disease depression,OM
+7085,7085,45+,2.0,Locals,No Degree,40,1485789793.38,mental disease depression,OM
+7086,7086,18-24,1.0,Locals,High School,90,1485789793.38,mental disease depression,OM
+7087,7087,25-44,1.0,Locals,High School,180,1485789793.38,mental disease depression,OM
+7088,7088,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,OM
+7089,7089,18-24,2.0,Locals,High School,30,1485789793.38,mental disease depression,OM
+7090,7090,25-44,2.0,Locals,High School,60,1485789793.38,mental disease depression,OM
+7091,7091,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,OM
+7092,7092,18-24,1.0,Expats,Graduated,6000,1485789793.38,mental disease depression,QA
+7093,7093,25-44,1.0,Expats,Graduated,24000,1485789793.38,mental disease depression,QA
+7094,7094,45+,1.0,Expats,Graduated,3200,1485789793.38,mental disease depression,QA
+7095,7095,18-24,2.0,Expats,Graduated,1600,1485789793.38,mental disease depression,QA
+7096,7096,25-44,2.0,Expats,Graduated,12000,1485789793.38,mental disease depression,QA
+7097,7097,45+,2.0,Expats,Graduated,1600,1485789793.38,mental disease depression,QA
+7098,7098,18-24,1.0,Expats,No Degree,4400,1485789793.38,mental disease depression,QA
+7099,7099,25-44,1.0,Expats,No Degree,10000,1485789793.38,mental disease depression,QA
+7100,7100,45+,1.0,Expats,No Degree,1600,1485789793.38,mental disease depression,QA
+7101,7101,18-24,2.0,Expats,No Degree,970,1485789793.38,mental disease depression,QA
+7102,7102,25-44,2.0,Expats,No Degree,3800,1485789793.38,mental disease depression,QA
+7103,7103,45+,2.0,Expats,No Degree,1000,1485789793.38,mental disease depression,QA
+7104,7104,18-24,1.0,Expats,High School,2100,1485789793.38,mental disease depression,QA
+7105,7105,25-44,1.0,Expats,High School,5200,1485789793.38,mental disease depression,QA
+7106,7106,45+,1.0,Expats,High School,810,1485789793.38,mental disease depression,QA
+7107,7107,18-24,2.0,Expats,High School,980,1485789793.38,mental disease depression,QA
+7108,7108,25-44,2.0,Expats,High School,2500,1485789793.38,mental disease depression,QA
+7109,7109,45+,2.0,Expats,High School,400,1485789793.38,mental disease depression,QA
+7110,7110,18-24,1.0,Locals,Graduated,150,1485789793.38,mental disease depression,QA
+7111,7111,25-44,1.0,Locals,Graduated,300,1485789793.38,mental disease depression,QA
+7112,7112,45+,1.0,Locals,Graduated,20,1485789793.38,mental disease depression,QA
+7113,7113,18-24,2.0,Locals,Graduated,40,1485789793.38,mental disease depression,QA
+7114,7114,25-44,2.0,Locals,Graduated,320,1485789793.38,mental disease depression,QA
+7115,7115,45+,2.0,Locals,Graduated,20,1485789793.38,mental disease depression,QA
+7116,7116,18-24,1.0,Locals,No Degree,70,1485789793.38,mental disease depression,QA
+7117,7117,25-44,1.0,Locals,No Degree,190,1485789793.38,mental disease depression,QA
+7118,7118,45+,1.0,Locals,No Degree,20,1485789793.38,mental disease depression,QA
+7119,7119,18-24,2.0,Locals,No Degree,100,1485789793.38,mental disease depression,QA
+7120,7120,25-44,2.0,Locals,No Degree,210,1485789793.38,mental disease depression,QA
+7121,7121,45+,2.0,Locals,No Degree,20,1485789793.38,mental disease depression,QA
+7122,7122,18-24,1.0,Locals,High School,40,1485789793.38,mental disease depression,QA
+7123,7123,25-44,1.0,Locals,High School,110,1485789793.38,mental disease depression,QA
+7124,7124,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,QA
+7125,7125,18-24,2.0,Locals,High School,80,1485789793.38,mental disease depression,QA
+7126,7126,25-44,2.0,Locals,High School,50,1485789793.38,mental disease depression,QA
+7127,7127,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,QA
+7128,7128,18-24,1.0,Expats,Graduated,13000,1485789793.38,mental disease depression,SA
+7129,7129,25-44,1.0,Expats,Graduated,70000,1485789793.38,mental disease depression,SA
+7130,7130,45+,1.0,Expats,Graduated,11000,1485789793.38,mental disease depression,SA
+7131,7131,18-24,2.0,Expats,Graduated,7800,1485789793.38,mental disease depression,SA
+7132,7132,25-44,2.0,Expats,Graduated,39000,1485789793.38,mental disease depression,SA
+7133,7133,45+,2.0,Expats,Graduated,5700,1485789793.38,mental disease depression,SA
+7134,7134,18-24,1.0,Expats,No Degree,3800,1485789793.38,mental disease depression,SA
+7135,7135,25-44,1.0,Expats,No Degree,12000,1485789793.38,mental disease depression,SA
+7136,7136,45+,1.0,Expats,No Degree,2500,1485789793.38,mental disease depression,SA
+7137,7137,18-24,2.0,Expats,No Degree,3200,1485789793.38,mental disease depression,SA
+7138,7138,25-44,2.0,Expats,No Degree,8200,1485789793.38,mental disease depression,SA
+7139,7139,45+,2.0,Expats,No Degree,2000,1485789793.38,mental disease depression,SA
+7140,7140,18-24,1.0,Expats,High School,4900,1485789793.38,mental disease depression,SA
+7141,7141,25-44,1.0,Expats,High School,15000,1485789793.38,mental disease depression,SA
+7142,7142,45+,1.0,Expats,High School,2400,1485789793.38,mental disease depression,SA
+7143,7143,18-24,2.0,Expats,High School,4400,1485789793.38,mental disease depression,SA
+7144,7144,25-44,2.0,Expats,High School,9500,1485789793.38,mental disease depression,SA
+7145,7145,45+,2.0,Expats,High School,1500,1485789793.38,mental disease depression,SA
+7146,7146,18-24,1.0,Locals,Graduated,5500,1485789793.38,mental disease depression,SA
+7147,7147,25-44,1.0,Locals,Graduated,24000,1485789793.38,mental disease depression,SA
+7148,7148,45+,1.0,Locals,Graduated,4400,1485789793.38,mental disease depression,SA
+7149,7149,18-24,2.0,Locals,Graduated,3300,1485789793.38,mental disease depression,SA
+7150,7150,25-44,2.0,Locals,Graduated,12000,1485789793.38,mental disease depression,SA
+7151,7151,45+,2.0,Locals,Graduated,1800,1485789793.38,mental disease depression,SA
+7152,7152,18-24,1.0,Locals,No Degree,28000,1485789793.38,mental disease depression,SA
+7153,7153,25-44,1.0,Locals,No Degree,57000,1485789793.38,mental disease depression,SA
+7154,7154,45+,1.0,Locals,No Degree,11000,1485789793.38,mental disease depression,SA
+7155,7155,18-24,2.0,Locals,No Degree,9800,1485789793.38,mental disease depression,SA
+7156,7156,25-44,2.0,Locals,No Degree,19000,1485789793.38,mental disease depression,SA
+7157,7157,45+,2.0,Locals,No Degree,5500,1485789793.38,mental disease depression,SA
+7158,7158,18-24,1.0,Locals,High School,2900,1485789793.38,mental disease depression,SA
+7159,7159,25-44,1.0,Locals,High School,8200,1485789793.38,mental disease depression,SA
+7160,7160,45+,1.0,Locals,High School,1600,1485789793.38,mental disease depression,SA
+7161,7161,18-24,2.0,Locals,High School,2300,1485789793.38,mental disease depression,SA
+7162,7162,25-44,2.0,Locals,High School,3800,1485789793.38,mental disease depression,SA
+7163,7163,45+,2.0,Locals,High School,670,1485789793.38,mental disease depression,SA
+7164,7164,18-24,1.0,Expats,Graduated,1400,1485789793.38,mental disease depression,SO
+7165,7165,25-44,1.0,Expats,Graduated,1200,1485789793.38,mental disease depression,SO
+7166,7166,45+,1.0,Expats,Graduated,180,1485789793.38,mental disease depression,SO
+7167,7167,18-24,2.0,Expats,Graduated,570,1485789793.38,mental disease depression,SO
+7168,7168,25-44,2.0,Expats,Graduated,420,1485789793.38,mental disease depression,SO
+7169,7169,45+,2.0,Expats,Graduated,90,1485789793.38,mental disease depression,SO
+7170,7170,18-24,1.0,Expats,No Degree,430,1485789793.38,mental disease depression,SO
+7171,7171,25-44,1.0,Expats,No Degree,730,1485789793.38,mental disease depression,SO
+7172,7172,45+,1.0,Expats,No Degree,190,1485789793.38,mental disease depression,SO
+7173,7173,18-24,2.0,Expats,No Degree,370,1485789793.38,mental disease depression,SO
+7174,7174,25-44,2.0,Expats,No Degree,250,1485789793.38,mental disease depression,SO
+7175,7175,45+,2.0,Expats,No Degree,30,1485789793.38,mental disease depression,SO
+7176,7176,18-24,1.0,Expats,High School,450,1485789793.38,mental disease depression,SO
+7177,7177,25-44,1.0,Expats,High School,270,1485789793.38,mental disease depression,SO
+7178,7178,45+,1.0,Expats,High School,80,1485789793.38,mental disease depression,SO
+7179,7179,18-24,2.0,Expats,High School,250,1485789793.38,mental disease depression,SO
+7180,7180,25-44,2.0,Expats,High School,90,1485789793.38,mental disease depression,SO
+7181,7181,45+,2.0,Expats,High School,20,1485789793.38,mental disease depression,SO
+7182,7182,18-24,1.0,Locals,Graduated,5000,1485789793.38,mental disease depression,SO
+7183,7183,25-44,1.0,Locals,Graduated,4400,1485789793.38,mental disease depression,SO
+7184,7184,45+,1.0,Locals,Graduated,280,1485789793.38,mental disease depression,SO
+7185,7185,18-24,2.0,Locals,Graduated,3000,1485789793.38,mental disease depression,SO
+7186,7186,25-44,2.0,Locals,Graduated,1500,1485789793.38,mental disease depression,SO
+7187,7187,45+,2.0,Locals,Graduated,160,1485789793.38,mental disease depression,SO
+7188,7188,18-24,1.0,Locals,No Degree,8100,1485789793.38,mental disease depression,SO
+7189,7189,25-44,1.0,Locals,No Degree,4900,1485789793.38,mental disease depression,SO
+7190,7190,45+,1.0,Locals,No Degree,900,1485789793.38,mental disease depression,SO
+7191,7191,18-24,2.0,Locals,No Degree,8300,1485789793.38,mental disease depression,SO
+7192,7192,25-44,2.0,Locals,No Degree,3500,1485789793.38,mental disease depression,SO
+7193,7193,45+,2.0,Locals,No Degree,410,1485789793.38,mental disease depression,SO
+7194,7194,18-24,1.0,Locals,High School,2000,1485789793.38,mental disease depression,SO
+7195,7195,25-44,1.0,Locals,High School,850,1485789793.38,mental disease depression,SO
+7196,7196,45+,1.0,Locals,High School,90,1485789793.38,mental disease depression,SO
+7197,7197,18-24,2.0,Locals,High School,1400,1485789793.38,mental disease depression,SO
+7198,7198,25-44,2.0,Locals,High School,430,1485789793.38,mental disease depression,SO
+7199,7199,45+,2.0,Locals,High School,110,1485789793.38,mental disease depression,SO
+7200,7200,18-24,1.0,Expats,Graduated,5000,1485789793.38,mental disease depression,TN
+7201,7201,25-44,1.0,Expats,Graduated,4700,1485789793.38,mental disease depression,TN
+7202,7202,45+,1.0,Expats,Graduated,1300,1485789793.38,mental disease depression,TN
+7203,7203,18-24,2.0,Expats,Graduated,3100,1485789793.38,mental disease depression,TN
+7204,7204,25-44,2.0,Expats,Graduated,2600,1485789793.38,mental disease depression,TN
+7205,7205,45+,2.0,Expats,Graduated,630,1485789793.38,mental disease depression,TN
+7206,7206,18-24,1.0,Expats,No Degree,2000,1485789793.38,mental disease depression,TN
+7207,7207,25-44,1.0,Expats,No Degree,2900,1485789793.38,mental disease depression,TN
+7208,7208,45+,1.0,Expats,No Degree,780,1485789793.38,mental disease depression,TN
+7209,7209,18-24,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,TN
+7210,7210,25-44,2.0,Expats,No Degree,1900,1485789793.38,mental disease depression,TN
+7211,7211,45+,2.0,Expats,No Degree,540,1485789793.38,mental disease depression,TN
+7212,7212,18-24,1.0,Expats,High School,2200,1485789793.38,mental disease depression,TN
+7213,7213,25-44,1.0,Expats,High School,1200,1485789793.38,mental disease depression,TN
+7214,7214,45+,1.0,Expats,High School,310,1485789793.38,mental disease depression,TN
+7215,7215,18-24,2.0,Expats,High School,1600,1485789793.38,mental disease depression,TN
+7216,7216,25-44,2.0,Expats,High School,930,1485789793.38,mental disease depression,TN
+7217,7217,45+,2.0,Expats,High School,330,1485789793.38,mental disease depression,TN
+7218,7218,18-24,1.0,Locals,Graduated,28000,1485789793.38,mental disease depression,TN
+7219,7219,25-44,1.0,Locals,Graduated,42000,1485789793.38,mental disease depression,TN
+7220,7220,45+,1.0,Locals,Graduated,9300,1485789793.38,mental disease depression,TN
+7221,7221,18-24,2.0,Locals,Graduated,46000,1485789793.38,mental disease depression,TN
+7222,7222,25-44,2.0,Locals,Graduated,51000,1485789793.38,mental disease depression,TN
+7223,7223,45+,2.0,Locals,Graduated,5200,1485789793.38,mental disease depression,TN
+7224,7224,18-24,1.0,Locals,No Degree,21000,1485789793.38,mental disease depression,TN
+7225,7225,25-44,1.0,Locals,No Degree,35000,1485789793.38,mental disease depression,TN
+7226,7226,45+,1.0,Locals,No Degree,9400,1485789793.38,mental disease depression,TN
+7227,7227,18-24,2.0,Locals,No Degree,34000,1485789793.38,mental disease depression,TN
+7228,7228,25-44,2.0,Locals,No Degree,29000,1485789793.38,mental disease depression,TN
+7229,7229,45+,2.0,Locals,No Degree,6300,1485789793.38,mental disease depression,TN
+7230,7230,18-24,1.0,Locals,High School,16000,1485789793.38,mental disease depression,TN
+7231,7231,25-44,1.0,Locals,High School,13000,1485789793.38,mental disease depression,TN
+7232,7232,45+,1.0,Locals,High School,3700,1485789793.38,mental disease depression,TN
+7233,7233,18-24,2.0,Locals,High School,28000,1485789793.38,mental disease depression,TN
+7234,7234,25-44,2.0,Locals,High School,12000,1485789793.38,mental disease depression,TN
+7235,7235,45+,2.0,Locals,High School,2500,1485789793.38,mental disease depression,TN
+7236,7236,18-24,1.0,Expats,Graduated,10000,1485789793.38,mental disease depression,AE
+7237,7237,25-44,1.0,Expats,Graduated,38000,1485789793.38,mental disease depression,AE
+7238,7238,45+,1.0,Expats,Graduated,6200,1485789793.38,mental disease depression,AE
+7239,7239,18-24,2.0,Expats,Graduated,5700,1485789793.38,mental disease depression,AE
+7240,7240,25-44,2.0,Expats,Graduated,53000,1485789793.38,mental disease depression,AE
+7241,7241,45+,2.0,Expats,Graduated,9000,1485789793.38,mental disease depression,AE
+7242,7242,18-24,1.0,Expats,No Degree,9000,1485789793.38,mental disease depression,AE
+7243,7243,25-44,1.0,Expats,No Degree,28000,1485789793.38,mental disease depression,AE
+7244,7244,45+,1.0,Expats,No Degree,5400,1485789793.38,mental disease depression,AE
+7245,7245,18-24,2.0,Expats,No Degree,2400,1485789793.38,mental disease depression,AE
+7246,7246,25-44,2.0,Expats,No Degree,17000,1485789793.38,mental disease depression,AE
+7247,7247,45+,2.0,Expats,No Degree,5800,1485789793.38,mental disease depression,AE
+7248,7248,18-24,1.0,Expats,High School,4200,1485789793.38,mental disease depression,AE
+7249,7249,25-44,1.0,Expats,High School,8500,1485789793.38,mental disease depression,AE
+7250,7250,45+,1.0,Expats,High School,1700,1485789793.38,mental disease depression,AE
+7251,7251,18-24,2.0,Expats,High School,3500,1485789793.38,mental disease depression,AE
+7252,7252,25-44,2.0,Expats,High School,11000,1485789793.38,mental disease depression,AE
+7253,7253,45+,2.0,Expats,High School,2600,1485789793.38,mental disease depression,AE
+7254,7254,18-24,1.0,Locals,Graduated,480,1485789793.38,mental disease depression,AE
+7255,7255,25-44,1.0,Locals,Graduated,1100,1485789793.38,mental disease depression,AE
+7256,7256,45+,1.0,Locals,Graduated,200,1485789793.38,mental disease depression,AE
+7257,7257,18-24,2.0,Locals,Graduated,330,1485789793.38,mental disease depression,AE
+7258,7258,25-44,2.0,Locals,Graduated,880,1485789793.38,mental disease depression,AE
+7259,7259,45+,2.0,Locals,Graduated,100,1485789793.38,mental disease depression,AE
+7260,7260,18-24,1.0,Locals,No Degree,500,1485789793.38,mental disease depression,AE
+7261,7261,25-44,1.0,Locals,No Degree,1100,1485789793.38,mental disease depression,AE
+7262,7262,45+,1.0,Locals,No Degree,210,1485789793.38,mental disease depression,AE
+7263,7263,18-24,2.0,Locals,No Degree,270,1485789793.38,mental disease depression,AE
+7264,7264,25-44,2.0,Locals,No Degree,620,1485789793.38,mental disease depression,AE
+7265,7265,45+,2.0,Locals,No Degree,160,1485789793.38,mental disease depression,AE
+7266,7266,18-24,1.0,Locals,High School,180,1485789793.38,mental disease depression,AE
+7267,7267,25-44,1.0,Locals,High School,320,1485789793.38,mental disease depression,AE
+7268,7268,45+,1.0,Locals,High School,90,1485789793.38,mental disease depression,AE
+7269,7269,18-24,2.0,Locals,High School,180,1485789793.38,mental disease depression,AE
+7270,7270,25-44,2.0,Locals,High School,170,1485789793.38,mental disease depression,AE
+7271,7271,45+,2.0,Locals,High School,60,1485789793.38,mental disease depression,AE
+7272,7272,18-24,1.0,Expats,Graduated,2500,1485789793.38,mental disease depression,YE
+7273,7273,25-44,1.0,Expats,Graduated,4200,1485789793.38,mental disease depression,YE
+7274,7274,45+,1.0,Expats,Graduated,360,1485789793.38,mental disease depression,YE
+7275,7275,18-24,2.0,Expats,Graduated,370,1485789793.38,mental disease depression,YE
+7276,7276,25-44,2.0,Expats,Graduated,690,1485789793.38,mental disease depression,YE
+7277,7277,45+,2.0,Expats,Graduated,80,1485789793.38,mental disease depression,YE
+7278,7278,18-24,1.0,Expats,No Degree,1600,1485789793.38,mental disease depression,YE
+7279,7279,25-44,1.0,Expats,No Degree,2500,1485789793.38,mental disease depression,YE
+7280,7280,45+,1.0,Expats,No Degree,270,1485789793.38,mental disease depression,YE
+7281,7281,18-24,2.0,Expats,No Degree,610,1485789793.38,mental disease depression,YE
+7282,7282,25-44,2.0,Expats,No Degree,540,1485789793.38,mental disease depression,YE
+7283,7283,45+,2.0,Expats,No Degree,80,1485789793.38,mental disease depression,YE
+7284,7284,18-24,1.0,Expats,High School,960,1485789793.38,mental disease depression,YE
+7285,7285,25-44,1.0,Expats,High School,1100,1485789793.38,mental disease depression,YE
+7286,7286,45+,1.0,Expats,High School,180,1485789793.38,mental disease depression,YE
+7287,7287,18-24,2.0,Expats,High School,380,1485789793.38,mental disease depression,YE
+7288,7288,25-44,2.0,Expats,High School,260,1485789793.38,mental disease depression,YE
+7289,7289,45+,2.0,Expats,High School,20,1485789793.38,mental disease depression,YE
+7290,7290,18-24,1.0,Locals,Graduated,19000,1485789793.38,mental disease depression,YE
+7291,7291,25-44,1.0,Locals,Graduated,43000,1485789793.38,mental disease depression,YE
+7292,7292,45+,1.0,Locals,Graduated,4100,1485789793.38,mental disease depression,YE
+7293,7293,18-24,2.0,Locals,Graduated,3400,1485789793.38,mental disease depression,YE
+7294,7294,25-44,2.0,Locals,Graduated,6700,1485789793.38,mental disease depression,YE
+7295,7295,45+,2.0,Locals,Graduated,520,1485789793.38,mental disease depression,YE
+7296,7296,18-24,1.0,Locals,No Degree,25000,1485789793.38,mental disease depression,YE
+7297,7297,25-44,1.0,Locals,No Degree,34000,1485789793.38,mental disease depression,YE
+7298,7298,45+,1.0,Locals,No Degree,5500,1485789793.38,mental disease depression,YE
+7299,7299,18-24,2.0,Locals,No Degree,3400,1485789793.38,mental disease depression,YE
+7300,7300,25-44,2.0,Locals,No Degree,3900,1485789793.38,mental disease depression,YE
+7301,7301,45+,2.0,Locals,No Degree,660,1485789793.38,mental disease depression,YE
+7302,7302,18-24,1.0,Locals,High School,14000,1485789793.38,mental disease depression,YE
+7303,7303,25-44,1.0,Locals,High School,13000,1485789793.38,mental disease depression,YE
+7304,7304,45+,1.0,Locals,High School,1300,1485789793.38,mental disease depression,YE
+7305,7305,18-24,2.0,Locals,High School,3800,1485789793.38,mental disease depression,YE
+7306,7306,25-44,2.0,Locals,High School,1800,1485789793.38,mental disease depression,YE
+7307,7307,45+,2.0,Locals,High School,180,1485789793.38,mental disease depression,YE
+7308,7308,18-24,1.0,Expats,Graduated,990,1485789793.38,mental disease depression,PS
+7309,7309,25-44,1.0,Expats,Graduated,2000,1485789793.38,mental disease depression,PS
+7310,7310,45+,1.0,Expats,Graduated,450,1485789793.38,mental disease depression,PS
+7311,7311,18-24,2.0,Expats,Graduated,780,1485789793.38,mental disease depression,PS
+7312,7312,25-44,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,PS
+7313,7313,45+,2.0,Expats,Graduated,260,1485789793.38,mental disease depression,PS
+7314,7314,18-24,1.0,Expats,No Degree,260,1485789793.38,mental disease depression,PS
+7315,7315,25-44,1.0,Expats,No Degree,620,1485789793.38,mental disease depression,PS
+7316,7316,45+,1.0,Expats,No Degree,230,1485789793.38,mental disease depression,PS
+7317,7317,18-24,2.0,Expats,No Degree,270,1485789793.38,mental disease depression,PS
+7318,7318,25-44,2.0,Expats,No Degree,480,1485789793.38,mental disease depression,PS
+7319,7319,45+,2.0,Expats,No Degree,200,1485789793.38,mental disease depression,PS
+7320,7320,18-24,1.0,Expats,High School,540,1485789793.38,mental disease depression,PS
+7321,7321,25-44,1.0,Expats,High School,480,1485789793.38,mental disease depression,PS
+7322,7322,45+,1.0,Expats,High School,70,1485789793.38,mental disease depression,PS
+7323,7323,18-24,2.0,Expats,High School,720,1485789793.38,mental disease depression,PS
+7324,7324,25-44,2.0,Expats,High School,450,1485789793.38,mental disease depression,PS
+7325,7325,45+,2.0,Expats,High School,60,1485789793.38,mental disease depression,PS
+7326,7326,18-24,1.0,Locals,Graduated,3500,1485789793.38,mental disease depression,PS
+7327,7327,25-44,1.0,Locals,Graduated,9100,1485789793.38,mental disease depression,PS
+7328,7328,45+,1.0,Locals,Graduated,1800,1485789793.38,mental disease depression,PS
+7329,7329,18-24,2.0,Locals,Graduated,3100,1485789793.38,mental disease depression,PS
+7330,7330,25-44,2.0,Locals,Graduated,5300,1485789793.38,mental disease depression,PS
+7331,7331,45+,2.0,Locals,Graduated,860,1485789793.38,mental disease depression,PS
+7332,7332,18-24,1.0,Locals,No Degree,1600,1485789793.38,mental disease depression,PS
+7333,7333,25-44,1.0,Locals,No Degree,3700,1485789793.38,mental disease depression,PS
+7334,7334,45+,1.0,Locals,No Degree,1600,1485789793.38,mental disease depression,PS
+7335,7335,18-24,2.0,Locals,No Degree,1400,1485789793.38,mental disease depression,PS
+7336,7336,25-44,2.0,Locals,No Degree,3000,1485789793.38,mental disease depression,PS
+7337,7337,45+,2.0,Locals,No Degree,1700,1485789793.38,mental disease depression,PS
+7338,7338,18-24,1.0,Locals,High School,2100,1485789793.38,mental disease depression,PS
+7339,7339,25-44,1.0,Locals,High School,2000,1485789793.38,mental disease depression,PS
+7340,7340,45+,1.0,Locals,High School,500,1485789793.38,mental disease depression,PS
+7341,7341,18-24,2.0,Locals,High School,3100,1485789793.38,mental disease depression,PS
+7342,7342,25-44,2.0,Locals,High School,1500,1485789793.38,mental disease depression,PS
+7343,7343,45+,2.0,Locals,High School,360,1485789793.38,mental disease depression,PS

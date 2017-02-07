@@ -85,21 +85,21 @@
             }
 
         };
-        this.updateCountriesList =function(data){
+        this.updateLocationList =function(instances){
             // var promise = currentInstance.getPromiseListCountries();
-                var countries_code = [];
-                for(var instanceIndex in data){
-                    var instance = data[instanceIndex];
-                    if(countries_code.indexOf(instance.country_code) == -1){
-                        countries_code.push(instance.country_code);
+                var locationsKeys = [];
+                for(var instanceIndex in instances){
+                    var instance = instances[instanceIndex];
+                    if(locationsKeys.indexOf(instance.location) == -1){
+                        locationsKeys.push(instance.location);
                     }
                 }
-                var sortedListCountries = currentInstance.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(countries_code);
-                var countriesListContainer = $("#countriesList");
-                countriesListContainer.empty();
-                for(var countriesIndex in sortedListCountries){
-                    var country = sortedListCountries[countriesIndex];
-                    countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country._2letter_code +"\">" + country.name + "</div>");
+                var sortedListLocations= currentInstance.getLocationDataWhichMatchesInLocationMapOrderedByCountryName(locationsKeys);
+                var locationBtnsList = $("#locationBtnList");
+                locationBtnsList.empty();
+                for(var countriesIndex in sortedListLocations){
+                    var country = sortedListLocations[countriesIndex];
+                    locationBtnsList.append("<div class='locationItem btn btn-country' data-code=\""+ country._2letters_code +"\">" + country.name + "</div>");
                 }
         };
         this.setFacebookInitialPopulationList = function(instances){
@@ -120,15 +120,13 @@
             fbInstancesWithInterests = parsedInstances;
         };
 
-        this.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName = function(list_country_codes){
-            updateFilteringCountryCodeMap(list_country_codes);
-            var list_countries = getCountriesGivenCodes(list_country_codes);
-            var sortedListCountries = sortDictListGivenAttribute(list_countries,"name");
-            return sortedListCountries;
+        this.getLocationDataWhichMatchesInLocationMapOrderedByCountryName = function(listLocationKeys){
+            updateFilteringCountryCodeMap(listLocationKeys);
+            var locationsData = getLocationsDataGivenKeys(listLocationKeys);
+            var sortedLocationData = sortDictListGivenAttribute(locationsData,"name");
+            return sortedLocationData;
 
         };
-
-
 
         this.init = function(){
         };

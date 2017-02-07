@@ -34,8 +34,8 @@ function BtnsTopicsSelectors(){
     };
     this.init = function(){
 
-        currentInstance.addTopicsBtns(luxuryTopics, "luxury");
-        currentInstance.addTopicsBtns(healthTopics, "health");
+        currentInstance.addTopicsBtns(rightTopics, "luxury");
+        currentInstance.addTopicsBtns(leftTopics, "health");
 
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();

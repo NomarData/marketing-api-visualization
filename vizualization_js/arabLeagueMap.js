@@ -8,8 +8,8 @@ function datamapDataLayer(){
     this.init = function(){
         Datamap.prototype.worldTopo.objects.world.geometries.map(function(country){
             currentInstance.countries[country.id] = {
-                luxuryAudience: 0,
-                healthAudience: 0,
+                rightAudience: 0,
+                leftAudience: 0,
             }
         });
     };
@@ -17,17 +17,17 @@ function datamapDataLayer(){
     this.empty = function(){
         for(var country in currentInstance.countries) {
             currentInstance.countries[country] = {
-                luxuryAudience: 0,
-                healthAudience: 0
+                rightAudience: 0,
+                leftAudience: 0
             }
         }
     };
 
     this.addInstance = function(instance){
-        var countryCode_3letter = convert2to3LettersCode(instance.country_code);
+        var countryCode_3letter = convert2LetterCodeToDatamapsCode(instance.location);
         try {
-            if (getInstancePolarity(instance) == 1) currentInstance.countries[countryCode_3letter].healthAudience += instance.audience;
-            else currentInstance.countries[countryCode_3letter].luxuryAudience += instance.audience;
+            if (getInstancePolarity(instance) == 1) currentInstance.countries[countryCode_3letter].leftAudience += instance.audience;
+            else currentInstance.countries[countryCode_3letter].rightAudience += instance.audience;
         } catch (err){
             throw Error("Country code not found:" + countryCode_3letter);
         }
@@ -45,25 +45,25 @@ function datamapDataLayer(){
         return currentInstance.getCountrySelectedData(country3Letters)["score"];
     };
     this.getCountrySelectedData = function(country3Letters){
-        var healthAudience = currentInstance.countries[country3Letters].healthAudience;
-        var luxuryAudience = currentInstance.countries[country3Letters].luxuryAudience;
+        var leftAudience = currentInstance.countries[country3Letters].leftAudience;
+        var rightAudience = currentInstance.countries[country3Letters].rightAudience;
         var audienceCoverage = currentInstance.getCountryAudience(country3Letters);
         return {
-                "healthAudience" : healthAudience,
-                "luxuryAudience" : luxuryAudience,
+                "leftAudience" : leftAudience,
+                "rightAudience" : rightAudience,
                 "audienceCoverage" : audienceCoverage,
-                "score" : (healthAudience - luxuryAudience) / audienceCoverage,
-                "name" : convert3LettersCodeToName(country3Letters)
+                "score" : (leftAudience - rightAudience) / audienceCoverage,
+                "name" : convertDatamapsCodeToName(country3Letters)
             }
     };
     this.getCountryAudience = function(country){
-        var _2letterCode = convert3to2LettersCode(country);
+        var _2letterCode = convertDatamapsCodeToLocationKey(country);
         return dataManager.getSumSelectedFacebookPopulationByCountry(_2letterCode);
     };
 
     this.getDataMapColor = function(){
         var dataColor = {};
-        var countryCodes = getAll3LettersCodeArabCountry();
+        var countryCodes = getAllDatamapsCodeInLocationMap();
         var countryCodeIndex;
         var countryCode;
         //Paint all arab countries as unselected
@@ -73,9 +73,9 @@ function datamapDataLayer(){
         }
 
         //Paint all selected countries as selected
-        for(var selectedCountryIndex in dataManager.selectedCountries_2letters){
-            var _2_letters_country_code = dataManager.selectedCountries_2letters[selectedCountryIndex];
-            var _3_letters_country_code = convert2to3LettersCode(_2_letters_country_code);
+        for(var selectedCountryIndex in dataManager.selectedLocations_2letters){
+            var _2_letters_country_code = dataManager.selectedLocations_2letters[selectedCountryIndex];
+            var _3_letters_country_code = convert2LetterCodeToDatamapsCode(_2_letters_country_code);
 
             if(currentInstance.getCountryAudience(_3_letters_country_code) > 0){
                 var score = currentInstance.getCountryScore(_3_letters_country_code);
@@ -109,7 +109,7 @@ function arabLeagueDatamap(){
         responsive: true,
         popupTemplate: function(geography, data) { //this function should just return a string
             currentInstance.removeHoverIfNotArabCountry(geography);
-            if(isArabCountryCode3Letters(geography.id)){
+            if(isDatamapCodeInLocationMap(geography.id)){
                 return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
             } else{
                 return null;
@@ -155,7 +155,7 @@ function arabLeagueDatamap(){
     this.removeHoverIfNotArabCountry = function(hoverCountry){
         var countryCode3Letters = hoverCountry.id;
         var hoverCountryPath = $(".datamaps-subunit." + countryCode3Letters);
-        if(isArabCountryCode3Letters(countryCode3Letters)){
+        if(isDatamapCodeInLocationMap(countryCode3Letters)){
             hoverCountryPath.css("stroke-width","8px");
             hoverCountryPath.css("stroke","rgba(140, 140, 140,0.5)");
             hoverCountryPath.css("cursor","pointer");
@@ -197,13 +197,13 @@ function arabLeagueDatamap(){
         });
         currentInstance.datamap = datamap;
         currentInstance.qatarBahreinDatamap = qatarBahreinDatamap;
-        currentInstance.initCountriesBtns();
+        currentInstance.initLocationBtns();
         currentInstance.updateData();
     };
-    this.addClickFunctionToCountries = function(){
+    this.addClickFunctionToLocationsInMap = function(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {
             var countryCode3Letters = geography.id;
-            if(isArabCountryCode3Letters(countryCode3Letters)){
+            if(isDatamapCodeInLocationMap(countryCode3Letters)){
                 onClickCountryFunctionBy3LettersCode(countryCode3Letters);
                 // alert("Click disabled in the map for now, please use the list on the side.");
             } else{
@@ -212,78 +212,78 @@ function arabLeagueDatamap(){
 
         });
     };
-    this.addClickFunctionToCountriesBtns = function(){
-        $(".countryItem").click(function(){
+    this.addClickFunctionToLocationBtns = function(){
+        $(".locationItem").click(function(){
             onClickCountryFunction($(this));
         });
     };
-    this.addTooltipToCountriesPath =  function(){
+    this.addTooltipToLocationPath =  function(){
         d3.selectAll('.datamaps-subunit').on('mousemove', function(geography) {
             currentInstance.removeHoverIfNotArabCountry(geography);
-            var countryCode3Letters = geography.id;
-            if(isArabCountryCode3Letters(countryCode3Letters)){
-                currentInstance.mousemoveTooltip(countryCode3Letters);
+            var datamaps_code = geography.id;
+            if(isDatamapCodeInLocationMap(datamaps_code)){
+                currentInstance.mousemoveTooltip(datamaps_code);
             }
         });
 
         d3.selectAll('.datamaps-subunit').on('mouseout', function(geography) {
-            var countryCode3Letters = geography.id;
-            if(isArabCountryCode3Letters(countryCode3Letters)){
+            var datamaps_code = geography.id;
+            if(isDatamapCodeInLocationMap(datamaps_code)){
                 currentInstance.mouseoutTooltip();
             }
         });
     };
 
-    this.addTooltipToCountriesBtns =  function(){
-        d3.selectAll('.countryItem').on('mousemove',function () {
-            var countryBtn = $(this);
-            var countryCode2Letters = countryBtn.data("code");
-            var countryCode3Letters = convert2to3LettersCode(countryCode2Letters);
-            currentInstance.mousemoveTooltip(countryCode3Letters);
+    this.addTooltipToLocationBtns =  function(){
+        d3.selectAll('.locationItem').on('mousemove',function () {
+            var locationBtn = $(this);
+            var countryCode2Letters = locationBtn.data("code");
+            var datamaps_code = convert2LetterCodeToDatamapsCode(countryCode2Letters);
+            currentInstance.mousemoveTooltip(datamaps_code);
         });
 
-        d3.selectAll('.countryItem').on('mouseout',function () {
+        d3.selectAll('.locationItem').on('mouseout',function () {
             currentInstance.mouseoutTooltip();
         });
 
     };
 
-    this.mousemoveTooltip = function(countryCode3Letters){
-        dataManager.isCountryAlreadySelected()
-        var code2Letters = convert3to2LettersCode(countryCode3Letters);
+    this.mousemoveTooltip = function(locationDatamapsCode){
 
-        var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letters);
-        var countryName = convert2LettersCodeToName(code2Letters);
+        var location2Lettercode = convertDatamapsCodeToLocationKey(locationDatamapsCode);
 
-        d3.select("#tooltip-countries").classed("hidden", false);
+        var locationData = countriesDataDatamap.getCountrySelectedData(locationDatamapsCode);
+        var locationName = convert2LettersCodeToName(location2Lettercode);
+
+        d3.select("#tooltip-locations").classed("hidden", false);
         var xPosition = d3.event.pageX + currentInstance.tooltipMargin;
         var yPosition = d3.event.pageY + currentInstance.tooltipMargin;
-        d3.select("#tooltip-countries")
+        d3.select("#tooltip-locations")
             .style("left", xPosition + "px")
             .style("top", yPosition + "px");
 
-        d3.select("#tooltip-countries  #countryNameTooltip")
-            .text(countryName);
+        d3.select("#tooltip-locations  #countryNameTooltip")
+            .text(locationName);
 
-        if(!dataManager.isCountryAlreadySelected(code2Letters)){
-            d3.select("#countryDataTooltipContainer").classed("hidden",true);
+        if(!dataManager.isLocationAlreadySelected(location2Lettercode)){
+            d3.select("#locationDataTooltipContainer").classed("hidden",true);
 
         } else {
-            d3.select("#countryDataTooltipContainer").classed("hidden",false);
-            d3.select("#tooltip-countries #countryScoreTooltip").text(scoreToPercentage(countryData.score));
-            d3.select("#tooltip-countries  #countryFacebookCoverage")
-                .text(convertIntegerToReadable(countryData.audienceCoverage));
+            d3.select("#locationDataTooltipContainer").classed("hidden",false);
+            d3.select("#tooltip-locations #locationScoreTooltip").text(scoreToPercentage(locationData.score));
+            d3.select("#tooltip-locations  #locationFacebookCoverage")
+                .text(convertIntegerToReadable(locationData.audienceCoverage));
 
-            d3.select("#tooltip-countries  #healthAudienceCountryTooltip")
-                .text(convertIntegerToReadable(countryData.healthAudience));
+            d3.select("#tooltip-locations  #leftAudienceCountryTooltip")
+                .text(convertIntegerToReadable(locationData.leftAudience));
 
-            d3.select("#tooltip-countries  #luxuryAudienceCountryTooltip")
-                .text(convertIntegerToReadable(countryData.luxuryAudience));
+            d3.select("#tooltip-locations  #rightAudienceCountryTooltip")
+                .text(convertIntegerToReadable(locationData.rightAudience));
         }
     };
 
     this.mouseoutTooltip = function(d){
-        d3.select("#tooltip-countries").classed("hidden", true);
+        d3.select("#tooltip-locations").classed("hidden", true);
     };
 
     this.updateData = function(){
@@ -295,12 +295,12 @@ function arabLeagueDatamap(){
         currentInstance.qatarBahreinDatamap.updateChoropleth(dataColor,{reset:true});
     };
 
-    this.initCountriesBtns = function () {
-        externalDataManager.updateCountriesList(fbInstancesDemographic);
-        currentInstance.addClickFunctionToCountries();
-        currentInstance.addClickFunctionToCountriesBtns();
-        currentInstance.addTooltipToCountriesPath();
-        currentInstance.addTooltipToCountriesBtns();
+    this.initLocationBtns = function () {
+        externalDataManager.updateLocationList(fbInstancesDemographic);
+        currentInstance.addClickFunctionToLocationsInMap();
+        currentInstance.addClickFunctionToLocationBtns();
+        currentInstance.addTooltipToLocationPath();
+        currentInstance.addTooltipToLocationBtns();
 
         //Select All and Deselect All Behavior
         $("#selectedAllCountriesBtn").click(function(){

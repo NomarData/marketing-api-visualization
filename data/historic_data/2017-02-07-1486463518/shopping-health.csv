@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,country_code
+4896,4896,18-24,1.0,Expats,Graduated,150000,1485789793.38,shopping,DZ
+4897,4897,25-44,1.0,Expats,Graduated,160000,1485789793.38,shopping,DZ
+4898,4898,45+,1.0,Expats,Graduated,21000,1485789793.38,shopping,DZ
+4899,4899,18-24,2.0,Expats,Graduated,66000,1485789793.38,shopping,DZ
+4900,4900,25-44,2.0,Expats,Graduated,44000,1485789793.38,shopping,DZ
+4901,4901,45+,2.0,Expats,Graduated,7000,1485789793.38,shopping,DZ
+4902,4902,18-24,1.0,Expats,No Degree,120000,1485789793.38,shopping,DZ
+4903,4903,25-44,1.0,Expats,No Degree,180000,1485789793.38,shopping,DZ
+4904,4904,45+,1.0,Expats,No Degree,31000,1485789793.38,shopping,DZ
+4905,4905,18-24,2.0,Expats,No Degree,70000,1485789793.38,shopping,DZ
+4906,4906,25-44,2.0,Expats,No Degree,65000,1485789793.38,shopping,DZ
+4907,4907,45+,2.0,Expats,No Degree,11000,1485789793.38,shopping,DZ
+4908,4908,18-24,1.0,Expats,High School,58000,1485789793.38,shopping,DZ
+4909,4909,25-44,1.0,Expats,High School,39000,1485789793.38,shopping,DZ
+4910,4910,45+,1.0,Expats,High School,7200,1485789793.38,shopping,DZ
+4911,4911,18-24,2.0,Expats,High School,27000,1485789793.38,shopping,DZ
+4912,4912,25-44,2.0,Expats,High School,12000,1485789793.38,shopping,DZ
+4913,4913,45+,2.0,Expats,High School,2900,1485789793.38,shopping,DZ
+4914,4914,18-24,1.0,Locals,Graduated,710000,1485789793.38,shopping,DZ
+4915,4915,25-44,1.0,Locals,Graduated,1100000,1485789793.38,shopping,DZ
+4916,4916,45+,1.0,Locals,Graduated,120000,1485789793.38,shopping,DZ
+4917,4917,18-24,2.0,Locals,Graduated,540000,1485789793.38,shopping,DZ
+4918,4918,25-44,2.0,Locals,Graduated,550000,1485789793.38,shopping,DZ
+4919,4919,45+,2.0,Locals,Graduated,49000,1485789793.38,shopping,DZ
+4920,4920,18-24,1.0,Locals,No Degree,1100000,1485789793.38,shopping,DZ
+4921,4921,25-44,1.0,Locals,No Degree,1700000,1485789793.38,shopping,DZ
+4922,4922,45+,1.0,Locals,No Degree,250000,1485789793.38,shopping,DZ
+4923,4923,18-24,2.0,Locals,No Degree,970000,1485789793.38,shopping,DZ
+4924,4924,25-44,2.0,Locals,No Degree,830000,1485789793.38,shopping,DZ
+4925,4925,45+,2.0,Locals,No Degree,120000,1485789793.38,shopping,DZ
+4926,4926,18-24,1.0,Locals,High School,330000,1485789793.38,shopping,DZ
+4927,4927,25-44,1.0,Locals,High School,310000,1485789793.38,shopping,DZ
+4928,4928,45+,1.0,Locals,High School,46000,1485789793.38,shopping,DZ
+4929,4929,18-24,2.0,Locals,High School,270000,1485789793.38,shopping,DZ
+4930,4930,25-44,2.0,Locals,High School,130000,1485789793.38,shopping,DZ
+4931,4931,45+,2.0,Locals,High School,21000,1485789793.38,shopping,DZ
+4932,4932,18-24,1.0,Expats,Graduated,25000,1485789793.38,shopping,BH
+4933,4933,25-44,1.0,Expats,Graduated,120000,1485789793.38,shopping,BH
+4934,4934,45+,1.0,Expats,Graduated,18000,1485789793.38,shopping,BH
+4935,4935,18-24,2.0,Expats,Graduated,7100,1485789793.38,shopping,BH
+4936,4936,25-44,2.0,Expats,Graduated,47000,1485789793.38,shopping,BH
+4937,4937,45+,2.0,Expats,Graduated,8400,1485789793.38,shopping,BH
+4938,4938,18-24,1.0,Expats,No Degree,49000,1485789793.38,shopping,BH
+4939,4939,25-44,1.0,Expats,No Degree,140000,1485789793.38,shopping,BH
+4940,4940,45+,1.0,Expats,No Degree,24000,1485789793.38,shopping,BH
+4941,4941,18-24,2.0,Expats,No Degree,13000,1485789793.38,shopping,BH
+4942,4942,25-44,2.0,Expats,No Degree,34000,1485789793.38,shopping,BH
+4943,4943,45+,2.0,Expats,No Degree,8000,1485789793.38,shopping,BH
+4944,4944,18-24,1.0,Expats,High School,11000,1485789793.38,shopping,BH
+4945,4945,25-44,1.0,Expats,High School,35000,1485789793.38,shopping,BH
+4946,4946,45+,1.0,Expats,High School,5800,1485789793.38,shopping,BH
+4947,4947,18-24,2.0,Expats,High School,4800,1485789793.38,shopping,BH
+4948,4948,25-44,2.0,Expats,High School,14000,1485789793.38,shopping,BH
+4949,4949,45+,2.0,Expats,High School,2800,1485789793.38,shopping,BH
+4950,4950,18-24,1.0,Locals,Graduated,5500,1485789793.38,shopping,BH
+4951,4951,25-44,1.0,Locals,Graduated,18000,1485789793.38,shopping,BH
+4952,4952,45+,1.0,Locals,Graduated,3200,1485789793.38,shopping,BH
+4953,4953,18-24,2.0,Locals,Graduated,3900,1485789793.38,shopping,BH
+4954,4954,25-44,2.0,Locals,Graduated,12000,1485789793.38,shopping,BH
+4955,4955,45+,2.0,Locals,Graduated,1200,1485789793.38,shopping,BH
+4956,4956,18-24,1.0,Locals,No Degree,11000,1485789793.38,shopping,BH
+4957,4957,25-44,1.0,Locals,No Degree,20000,1485789793.38,shopping,BH
+4958,4958,45+,1.0,Locals,No Degree,5300,1485789793.38,shopping,BH
+4959,4959,18-24,2.0,Locals,No Degree,7200,1485789793.38,shopping,BH
+4960,4960,25-44,2.0,Locals,No Degree,13000,1485789793.38,shopping,BH
+4961,4961,45+,2.0,Locals,No Degree,2400,1485789793.38,shopping,BH
+4962,4962,18-24,1.0,Locals,High School,3900,1485789793.38,shopping,BH
+4963,4963,25-44,1.0,Locals,High School,5300,1485789793.38,shopping,BH
+4964,4964,45+,1.0,Locals,High School,990,1485789793.38,shopping,BH
+4965,4965,18-24,2.0,Locals,High School,4100,1485789793.38,shopping,BH
+4966,4966,25-44,2.0,Locals,High School,2900,1485789793.38,shopping,BH
+4967,4967,45+,2.0,Locals,High School,360,1485789793.38,shopping,BH
+4968,4968,18-24,1.0,Expats,Graduated,100000,1485789793.38,shopping,EG
+4969,4969,25-44,1.0,Expats,Graduated,190000,1485789793.38,shopping,EG
+4970,4970,45+,1.0,Expats,Graduated,33000,1485789793.38,shopping,EG
+4971,4971,18-24,2.0,Expats,Graduated,46000,1485789793.38,shopping,EG
+4972,4972,25-44,2.0,Expats,Graduated,79000,1485789793.38,shopping,EG
+4973,4973,45+,2.0,Expats,Graduated,14000,1485789793.38,shopping,EG
+4974,4974,18-24,1.0,Expats,No Degree,62000,1485789793.38,shopping,EG
+4975,4975,25-44,1.0,Expats,No Degree,100000,1485789793.38,shopping,EG
+4976,4976,45+,1.0,Expats,No Degree,25000,1485789793.38,shopping,EG
+4977,4977,18-24,2.0,Expats,No Degree,36000,1485789793.38,shopping,EG
+4978,4978,25-44,2.0,Expats,No Degree,50000,1485789793.38,shopping,EG
+4979,4979,45+,2.0,Expats,No Degree,15000,1485789793.38,shopping,EG
+4980,4980,18-24,1.0,Expats,High School,56000,1485789793.38,shopping,EG
+4981,4981,25-44,1.0,Expats,High School,44000,1485789793.38,shopping,EG
+4982,4982,45+,1.0,Expats,High School,8100,1485789793.38,shopping,EG
+4983,4983,18-24,2.0,Expats,High School,34000,1485789793.38,shopping,EG
+4984,4984,25-44,2.0,Expats,High School,20000,1485789793.38,shopping,EG
+4985,4985,45+,2.0,Expats,High School,4400,1485789793.38,shopping,EG
+4986,4986,18-24,1.0,Locals,Graduated,1800000,1485789793.38,shopping,EG
+4987,4987,25-44,1.0,Locals,Graduated,3200000,1485789793.38,shopping,EG
+4988,4988,45+,1.0,Locals,Graduated,520000,1485789793.38,shopping,EG
+4989,4989,18-24,2.0,Locals,Graduated,1300000,1485789793.38,shopping,EG
+4990,4990,25-44,2.0,Locals,Graduated,1800000,1485789793.38,shopping,EG
+4991,4991,45+,2.0,Locals,Graduated,250000,1485789793.38,shopping,EG
+4992,4992,18-24,1.0,Locals,No Degree,1600000,1485789793.38,shopping,EG
+4993,4993,25-44,1.0,Locals,No Degree,2500000,1485789793.38,shopping,EG
+4994,4994,45+,1.0,Locals,No Degree,730000,1485789793.38,shopping,EG
+4995,4995,18-24,2.0,Locals,No Degree,1100000,1485789793.38,shopping,EG
+4996,4996,25-44,2.0,Locals,No Degree,1400000,1485789793.38,shopping,EG
+4997,4997,45+,2.0,Locals,No Degree,450000,1485789793.38,shopping,EG
+4998,4998,18-24,1.0,Locals,High School,1100000,1485789793.38,shopping,EG
+4999,4999,25-44,1.0,Locals,High School,750000,1485789793.38,shopping,EG
+5000,5000,45+,1.0,Locals,High School,140000,1485789793.38,shopping,EG
+5001,5001,18-24,2.0,Locals,High School,900000,1485789793.38,shopping,EG
+5002,5002,25-44,2.0,Locals,High School,360000,1485789793.38,shopping,EG
+5003,5003,45+,2.0,Locals,High School,62000,1485789793.38,shopping,EG
+5004,5004,18-24,1.0,Expats,Graduated,76000,1485789793.38,shopping,IQ
+5005,5005,25-44,1.0,Expats,Graduated,150000,1485789793.38,shopping,IQ
+5006,5006,45+,1.0,Expats,Graduated,20000,1485789793.38,shopping,IQ
+5007,5007,18-24,2.0,Expats,Graduated,18000,1485789793.38,shopping,IQ
+5008,5008,25-44,2.0,Expats,Graduated,29000,1485789793.38,shopping,IQ
+5009,5009,45+,2.0,Expats,Graduated,3500,1485789793.38,shopping,IQ
+5010,5010,18-24,1.0,Expats,No Degree,72000,1485789793.38,shopping,IQ
+5011,5011,25-44,1.0,Expats,No Degree,100000,1485789793.38,shopping,IQ
+5012,5012,45+,1.0,Expats,No Degree,18000,1485789793.38,shopping,IQ
+5013,5013,18-24,2.0,Expats,No Degree,33000,1485789793.38,shopping,IQ
+5014,5014,25-44,2.0,Expats,No Degree,32000,1485789793.38,shopping,IQ
+5015,5015,45+,2.0,Expats,No Degree,5600,1485789793.38,shopping,IQ
+5016,5016,18-24,1.0,Expats,High School,38000,1485789793.38,shopping,IQ
+5017,5017,25-44,1.0,Expats,High School,43000,1485789793.38,shopping,IQ
+5018,5018,45+,1.0,Expats,High School,6000,1485789793.38,shopping,IQ
+5019,5019,18-24,2.0,Expats,High School,14000,1485789793.38,shopping,IQ
+5020,5020,25-44,2.0,Expats,High School,9600,1485789793.38,shopping,IQ
+5021,5021,45+,2.0,Expats,High School,1300,1485789793.38,shopping,IQ
+5022,5022,18-24,1.0,Locals,Graduated,730000,1485789793.38,shopping,IQ
+5023,5023,25-44,1.0,Locals,Graduated,1400000,1485789793.38,shopping,IQ
+5024,5024,45+,1.0,Locals,Graduated,200000,1485789793.38,shopping,IQ
+5025,5025,18-24,2.0,Locals,Graduated,230000,1485789793.38,shopping,IQ
+5026,5026,25-44,2.0,Locals,Graduated,350000,1485789793.38,shopping,IQ
+5027,5027,45+,2.0,Locals,Graduated,54000,1485789793.38,shopping,IQ
+5028,5028,18-24,1.0,Locals,No Degree,1400000,1485789793.38,shopping,IQ
+5029,5029,25-44,1.0,Locals,No Degree,1600000,1485789793.38,shopping,IQ
+5030,5030,45+,1.0,Locals,No Degree,370000,1485789793.38,shopping,IQ
+5031,5031,18-24,2.0,Locals,No Degree,590000,1485789793.38,shopping,IQ
+5032,5032,25-44,2.0,Locals,No Degree,560000,1485789793.38,shopping,IQ
+5033,5033,45+,2.0,Locals,No Degree,140000,1485789793.38,shopping,IQ
+5034,5034,18-24,1.0,Locals,High School,460000,1485789793.38,shopping,IQ
+5035,5035,25-44,1.0,Locals,High School,430000,1485789793.38,shopping,IQ
+5036,5036,45+,1.0,Locals,High School,68000,1485789793.38,shopping,IQ
+5037,5037,18-24,2.0,Locals,High School,220000,1485789793.38,shopping,IQ
+5038,5038,25-44,2.0,Locals,High School,120000,1485789793.38,shopping,IQ
+5039,5039,45+,2.0,Locals,High School,19000,1485789793.38,shopping,IQ
+5040,5040,18-24,1.0,Expats,Graduated,58000,1485789793.38,shopping,JO
+5041,5041,25-44,1.0,Expats,Graduated,130000,1485789793.38,shopping,JO
+5042,5042,45+,1.0,Expats,Graduated,21000,1485789793.38,shopping,JO
+5043,5043,18-24,2.0,Expats,Graduated,35000,1485789793.38,shopping,JO
+5044,5044,25-44,2.0,Expats,Graduated,75000,1485789793.38,shopping,JO
+5045,5045,45+,2.0,Expats,Graduated,16000,1485789793.38,shopping,JO
+5046,5046,18-24,1.0,Expats,No Degree,79000,1485789793.38,shopping,JO
+5047,5047,25-44,1.0,Expats,No Degree,130000,1485789793.38,shopping,JO
+5048,5048,45+,1.0,Expats,No Degree,29000,1485789793.38,shopping,JO
+5049,5049,18-24,2.0,Expats,No Degree,49000,1485789793.38,shopping,JO
+5050,5050,25-44,2.0,Expats,No Degree,66000,1485789793.38,shopping,JO
+5051,5051,45+,2.0,Expats,No Degree,25000,1485789793.38,shopping,JO
+5052,5052,18-24,1.0,Expats,High School,46000,1485789793.38,shopping,JO
+5053,5053,25-44,1.0,Expats,High School,41000,1485789793.38,shopping,JO
+5054,5054,45+,1.0,Expats,High School,7300,1485789793.38,shopping,JO
+5055,5055,18-24,2.0,Expats,High School,42000,1485789793.38,shopping,JO
+5056,5056,25-44,2.0,Expats,High School,25000,1485789793.38,shopping,JO
+5057,5057,45+,2.0,Expats,High School,6300,1485789793.38,shopping,JO
+5058,5058,18-24,1.0,Locals,Graduated,170000,1485789793.38,shopping,JO
+5059,5059,25-44,1.0,Locals,Graduated,330000,1485789793.38,shopping,JO
+5060,5060,45+,1.0,Locals,Graduated,65000,1485789793.38,shopping,JO
+5061,5061,18-24,2.0,Locals,Graduated,120000,1485789793.38,shopping,JO
+5062,5062,25-44,2.0,Locals,Graduated,220000,1485789793.38,shopping,JO
+5063,5063,45+,2.0,Locals,Graduated,34000,1485789793.38,shopping,JO
+5064,5064,18-24,1.0,Locals,No Degree,220000,1485789793.38,shopping,JO
+5065,5065,25-44,1.0,Locals,No Degree,290000,1485789793.38,shopping,JO
+5066,5066,45+,1.0,Locals,No Degree,110000,1485789793.38,shopping,JO
+5067,5067,18-24,2.0,Locals,No Degree,200000,1485789793.38,shopping,JO
+5068,5068,25-44,2.0,Locals,No Degree,250000,1485789793.38,shopping,JO
+5069,5069,45+,2.0,Locals,No Degree,90000,1485789793.38,shopping,JO
+5070,5070,18-24,1.0,Locals,High School,140000,1485789793.38,shopping,JO
+5071,5071,25-44,1.0,Locals,High School,110000,1485789793.38,shopping,JO
+5072,5072,45+,1.0,Locals,High School,26000,1485789793.38,shopping,JO
+5073,5073,18-24,2.0,Locals,High School,140000,1485789793.38,shopping,JO
+5074,5074,25-44,2.0,Locals,High School,70000,1485789793.38,shopping,JO
+5075,5075,45+,2.0,Locals,High School,14000,1485789793.38,shopping,JO
+5076,5076,18-24,1.0,Expats,Graduated,42000,1485789793.38,shopping,KW
+5077,5077,25-44,1.0,Expats,Graduated,350000,1485789793.38,shopping,KW
+5078,5078,45+,1.0,Expats,Graduated,52000,1485789793.38,shopping,KW
+5079,5079,18-24,2.0,Expats,Graduated,19000,1485789793.38,shopping,KW
+5080,5080,25-44,2.0,Expats,Graduated,160000,1485789793.38,shopping,KW
+5081,5081,45+,2.0,Expats,Graduated,22000,1485789793.38,shopping,KW
+5082,5082,18-24,1.0,Expats,No Degree,120000,1485789793.38,shopping,KW
+5083,5083,25-44,1.0,Expats,No Degree,400000,1485789793.38,shopping,KW
+5084,5084,45+,1.0,Expats,No Degree,84000,1485789793.38,shopping,KW
+5085,5085,18-24,2.0,Expats,No Degree,51000,1485789793.38,shopping,KW
+5086,5086,25-44,2.0,Expats,No Degree,140000,1485789793.38,shopping,KW
+5087,5087,45+,2.0,Expats,No Degree,29000,1485789793.38,shopping,KW
+5088,5088,18-24,1.0,Expats,High School,23000,1485789793.38,shopping,KW
+5089,5089,25-44,1.0,Expats,High School,100000,1485789793.38,shopping,KW
+5090,5090,45+,1.0,Expats,High School,17000,1485789793.38,shopping,KW
+5091,5091,18-24,2.0,Expats,High School,14000,1485789793.38,shopping,KW
+5092,5092,25-44,2.0,Expats,High School,59000,1485789793.38,shopping,KW
+5093,5093,45+,2.0,Expats,High School,8200,1485789793.38,shopping,KW
+5094,5094,18-24,1.0,Locals,Graduated,4800,1485789793.38,shopping,KW
+5095,5095,25-44,1.0,Locals,Graduated,23000,1485789793.38,shopping,KW
+5096,5096,45+,1.0,Locals,Graduated,4200,1485789793.38,shopping,KW
+5097,5097,18-24,2.0,Locals,Graduated,2500,1485789793.38,shopping,KW
+5098,5098,25-44,2.0,Locals,Graduated,13000,1485789793.38,shopping,KW
+5099,5099,45+,2.0,Locals,Graduated,1800,1485789793.38,shopping,KW
+5100,5100,18-24,1.0,Locals,No Degree,18000,1485789793.38,shopping,KW
+5101,5101,25-44,1.0,Locals,No Degree,40000,1485789793.38,shopping,KW
+5102,5102,45+,1.0,Locals,No Degree,8100,1485789793.38,shopping,KW
+5103,5103,18-24,2.0,Locals,No Degree,12000,1485789793.38,shopping,KW
+5104,5104,25-44,2.0,Locals,No Degree,23000,1485789793.38,shopping,KW
+5105,5105,45+,2.0,Locals,No Degree,4600,1485789793.38,shopping,KW
+5106,5106,18-24,1.0,Locals,High School,3100,1485789793.38,shopping,KW
+5107,5107,25-44,1.0,Locals,High School,6100,1485789793.38,shopping,KW
+5108,5108,45+,1.0,Locals,High School,1200,1485789793.38,shopping,KW
+5109,5109,18-24,2.0,Locals,High School,2600,1485789793.38,shopping,KW
+5110,5110,25-44,2.0,Locals,High School,3000,1485789793.38,shopping,KW
+5111,5111,45+,2.0,Locals,High School,420,1485789793.38,shopping,KW
+5112,5112,18-24,1.0,Expats,Graduated,36000,1485789793.38,shopping,LB
+5113,5113,25-44,1.0,Expats,Graduated,73000,1485789793.38,shopping,LB
+5114,5114,45+,1.0,Expats,Graduated,10000,1485789793.38,shopping,LB
+5115,5115,18-24,2.0,Expats,Graduated,15000,1485789793.38,shopping,LB
+5116,5116,25-44,2.0,Expats,Graduated,40000,1485789793.38,shopping,LB
+5117,5117,45+,2.0,Expats,Graduated,9000,1485789793.38,shopping,LB
+5118,5118,18-24,1.0,Expats,No Degree,79000,1485789793.38,shopping,LB
+5119,5119,25-44,1.0,Expats,No Degree,110000,1485789793.38,shopping,LB
+5120,5120,45+,1.0,Expats,No Degree,19000,1485789793.38,shopping,LB
+5121,5121,18-24,2.0,Expats,No Degree,43000,1485789793.38,shopping,LB
+5122,5122,25-44,2.0,Expats,No Degree,59000,1485789793.38,shopping,LB
+5123,5123,45+,2.0,Expats,No Degree,14000,1485789793.38,shopping,LB
+5124,5124,18-24,1.0,Expats,High School,22000,1485789793.38,shopping,LB
+5125,5125,25-44,1.0,Expats,High School,28000,1485789793.38,shopping,LB
+5126,5126,45+,1.0,Expats,High School,3700,1485789793.38,shopping,LB
+5127,5127,18-24,2.0,Expats,High School,12000,1485789793.38,shopping,LB
+5128,5128,25-44,2.0,Expats,High School,17000,1485789793.38,shopping,LB
+5129,5129,45+,2.0,Expats,High School,3700,1485789793.38,shopping,LB
+5130,5130,18-24,1.0,Locals,Graduated,67000,1485789793.38,shopping,LB
+5131,5131,25-44,1.0,Locals,Graduated,160000,1485789793.38,shopping,LB
+5132,5132,45+,1.0,Locals,Graduated,44000,1485789793.38,shopping,LB
+5133,5133,18-24,2.0,Locals,Graduated,66000,1485789793.38,shopping,LB
+5134,5134,25-44,2.0,Locals,Graduated,160000,1485789793.38,shopping,LB
+5135,5135,45+,2.0,Locals,Graduated,38000,1485789793.38,shopping,LB
+5136,5136,18-24,1.0,Locals,No Degree,140000,1485789793.38,shopping,LB
+5137,5137,25-44,1.0,Locals,No Degree,200000,1485789793.38,shopping,LB
+5138,5138,45+,1.0,Locals,No Degree,96000,1485789793.38,shopping,LB
+5139,5139,18-24,2.0,Locals,No Degree,120000,1485789793.38,shopping,LB
+5140,5140,25-44,2.0,Locals,No Degree,190000,1485789793.38,shopping,LB
+5141,5141,45+,2.0,Locals,No Degree,110000,1485789793.38,shopping,LB
+5142,5142,18-24,1.0,Locals,High School,55000,1485789793.38,shopping,LB
+5143,5143,25-44,1.0,Locals,High School,45000,1485789793.38,shopping,LB
+5144,5144,45+,1.0,Locals,High School,14000,1485789793.38,shopping,LB
+5145,5145,18-24,2.0,Locals,High School,67000,1485789793.38,shopping,LB
+5146,5146,25-44,2.0,Locals,High School,44000,1485789793.38,shopping,LB
+5147,5147,45+,2.0,Locals,High School,14000,1485789793.38,shopping,LB
+5148,5148,18-24,1.0,Expats,Graduated,21000,1485789793.38,shopping,LY
+5149,5149,25-44,1.0,Expats,Graduated,57000,1485789793.38,shopping,LY
+5150,5150,45+,1.0,Expats,Graduated,7400,1485789793.38,shopping,LY
+5151,5151,18-24,2.0,Expats,Graduated,6700,1485789793.38,shopping,LY
+5152,5152,25-44,2.0,Expats,Graduated,15000,1485789793.38,shopping,LY
+5153,5153,45+,2.0,Expats,Graduated,2900,1485789793.38,shopping,LY
+5154,5154,18-24,1.0,Expats,No Degree,33000,1485789793.38,shopping,LY
+5155,5155,25-44,1.0,Expats,No Degree,71000,1485789793.38,shopping,LY
+5156,5156,45+,1.0,Expats,No Degree,10000,1485789793.38,shopping,LY
+5157,5157,18-24,2.0,Expats,No Degree,9800,1485789793.38,shopping,LY
+5158,5158,25-44,2.0,Expats,No Degree,18000,1485789793.38,shopping,LY
+5159,5159,45+,2.0,Expats,No Degree,4200,1485789793.38,shopping,LY
+5160,5160,18-24,1.0,Expats,High School,8700,1485789793.38,shopping,LY
+5161,5161,25-44,1.0,Expats,High School,15000,1485789793.38,shopping,LY
+5162,5162,45+,1.0,Expats,High School,2200,1485789793.38,shopping,LY
+5163,5163,18-24,2.0,Expats,High School,4100,1485789793.38,shopping,LY
+5164,5164,25-44,2.0,Expats,High School,4100,1485789793.38,shopping,LY
+5165,5165,45+,2.0,Expats,High School,830,1485789793.38,shopping,LY
+5166,5166,18-24,1.0,Locals,Graduated,110000,1485789793.38,shopping,LY
+5167,5167,25-44,1.0,Locals,Graduated,240000,1485789793.38,shopping,LY
+5168,5168,45+,1.0,Locals,Graduated,39000,1485789793.38,shopping,LY
+5169,5169,18-24,2.0,Locals,Graduated,87000,1485789793.38,shopping,LY
+5170,5170,25-44,2.0,Locals,Graduated,150000,1485789793.38,shopping,LY
+5171,5171,45+,2.0,Locals,Graduated,19000,1485789793.38,shopping,LY
+5172,5172,18-24,1.0,Locals,No Degree,110000,1485789793.38,shopping,LY
+5173,5173,25-44,1.0,Locals,No Degree,230000,1485789793.38,shopping,LY
+5174,5174,45+,1.0,Locals,No Degree,54000,1485789793.38,shopping,LY
+5175,5175,18-24,2.0,Locals,No Degree,100000,1485789793.38,shopping,LY
+5176,5176,25-44,2.0,Locals,No Degree,190000,1485789793.38,shopping,LY
+5177,5177,45+,2.0,Locals,No Degree,47000,1485789793.38,shopping,LY
+5178,5178,18-24,1.0,Locals,High School,60000,1485789793.38,shopping,LY
+5179,5179,25-44,1.0,Locals,High School,56000,1485789793.38,shopping,LY
+5180,5180,45+,1.0,Locals,High School,12000,1485789793.38,shopping,LY
+5181,5181,18-24,2.0,Locals,High School,65000,1485789793.38,shopping,LY
+5182,5182,25-44,2.0,Locals,High School,38000,1485789793.38,shopping,LY
+5183,5183,45+,2.0,Locals,High School,6200,1485789793.38,shopping,LY
+5184,5184,18-24,1.0,Expats,Graduated,120000,1485789793.38,shopping,MA
+5185,5185,25-44,1.0,Expats,Graduated,110000,1485789793.38,shopping,MA
+5186,5186,45+,1.0,Expats,Graduated,16000,1485789793.38,shopping,MA
+5187,5187,18-24,2.0,Expats,Graduated,46000,1485789793.38,shopping,MA
+5188,5188,25-44,2.0,Expats,Graduated,41000,1485789793.38,shopping,MA
+5189,5189,45+,2.0,Expats,Graduated,6100,1485789793.38,shopping,MA
+5190,5190,18-24,1.0,Expats,No Degree,62000,1485789793.38,shopping,MA
+5191,5191,25-44,1.0,Expats,No Degree,91000,1485789793.38,shopping,MA
+5192,5192,45+,1.0,Expats,No Degree,20000,1485789793.38,shopping,MA
+5193,5193,18-24,2.0,Expats,No Degree,41000,1485789793.38,shopping,MA
+5194,5194,25-44,2.0,Expats,No Degree,47000,1485789793.38,shopping,MA
+5195,5195,45+,2.0,Expats,No Degree,8400,1485789793.38,shopping,MA
+5196,5196,18-24,1.0,Expats,High School,45000,1485789793.38,shopping,MA
+5197,5197,25-44,1.0,Expats,High School,29000,1485789793.38,shopping,MA
+5198,5198,45+,1.0,Expats,High School,5400,1485789793.38,shopping,MA
+5199,5199,18-24,2.0,Expats,High School,20000,1485789793.38,shopping,MA
+5200,5200,25-44,2.0,Expats,High School,13000,1485789793.38,shopping,MA
+5201,5201,45+,2.0,Expats,High School,2500,1485789793.38,shopping,MA
+5202,5202,18-24,1.0,Locals,Graduated,800000,1485789793.38,shopping,MA
+5203,5203,25-44,1.0,Locals,Graduated,910000,1485789793.38,shopping,MA
+5204,5204,45+,1.0,Locals,Graduated,130000,1485789793.38,shopping,MA
+5205,5205,18-24,2.0,Locals,Graduated,490000,1485789793.38,shopping,MA
+5206,5206,25-44,2.0,Locals,Graduated,420000,1485789793.38,shopping,MA
+5207,5207,45+,2.0,Locals,Graduated,53000,1485789793.38,shopping,MA
+5208,5208,18-24,1.0,Locals,No Degree,890000,1485789793.38,shopping,MA
+5209,5209,25-44,1.0,Locals,No Degree,1200000,1485789793.38,shopping,MA
+5210,5210,45+,1.0,Locals,No Degree,250000,1485789793.38,shopping,MA
+5211,5211,18-24,2.0,Locals,No Degree,680000,1485789793.38,shopping,MA
+5212,5212,25-44,2.0,Locals,No Degree,590000,1485789793.38,shopping,MA
+5213,5213,45+,2.0,Locals,No Degree,110000,1485789793.38,shopping,MA
+5214,5214,18-24,1.0,Locals,High School,350000,1485789793.38,shopping,MA
+5215,5215,25-44,1.0,Locals,High School,260000,1485789793.38,shopping,MA
+5216,5216,45+,1.0,Locals,High School,45000,1485789793.38,shopping,MA
+5217,5217,18-24,2.0,Locals,High School,260000,1485789793.38,shopping,MA
+5218,5218,25-44,2.0,Locals,High School,130000,1485789793.38,shopping,MA
+5219,5219,45+,2.0,Locals,High School,22000,1485789793.38,shopping,MA
+5220,5220,18-24,1.0,Expats,Graduated,45000,1485789793.38,shopping,OM
+5221,5221,25-44,1.0,Expats,Graduated,220000,1485789793.38,shopping,OM
+5222,5222,45+,1.0,Expats,Graduated,25000,1485789793.38,shopping,OM
+5223,5223,18-24,2.0,Expats,Graduated,9300,1485789793.38,shopping,OM
+5224,5224,25-44,2.0,Expats,Graduated,54000,1485789793.38,shopping,OM
+5225,5225,45+,2.0,Expats,Graduated,8000,1485789793.38,shopping,OM
+5226,5226,18-24,1.0,Expats,No Degree,140000,1485789793.38,shopping,OM
+5227,5227,25-44,1.0,Expats,No Degree,280000,1485789793.38,shopping,OM
+5228,5228,45+,1.0,Expats,No Degree,31000,1485789793.38,shopping,OM
+5229,5229,18-24,2.0,Expats,No Degree,32000,1485789793.38,shopping,OM
+5230,5230,25-44,2.0,Expats,No Degree,49000,1485789793.38,shopping,OM
+5231,5231,45+,2.0,Expats,No Degree,7200,1485789793.38,shopping,OM
+5232,5232,18-24,1.0,Expats,High School,18000,1485789793.38,shopping,OM
+5233,5233,25-44,1.0,Expats,High School,54000,1485789793.38,shopping,OM
+5234,5234,45+,1.0,Expats,High School,6800,1485789793.38,shopping,OM
+5235,5235,18-24,2.0,Expats,High School,6300,1485789793.38,shopping,OM
+5236,5236,25-44,2.0,Expats,High School,14000,1485789793.38,shopping,OM
+5237,5237,45+,2.0,Expats,High School,2200,1485789793.38,shopping,OM
+5238,5238,18-24,1.0,Locals,Graduated,15000,1485789793.38,shopping,OM
+5239,5239,25-44,1.0,Locals,Graduated,38000,1485789793.38,shopping,OM
+5240,5240,45+,1.0,Locals,Graduated,2200,1485789793.38,shopping,OM
+5241,5241,18-24,2.0,Locals,Graduated,4000,1485789793.38,shopping,OM
+5242,5242,25-44,2.0,Locals,Graduated,8600,1485789793.38,shopping,OM
+5243,5243,45+,2.0,Locals,Graduated,450,1485789793.38,shopping,OM
+5244,5244,18-24,1.0,Locals,No Degree,27000,1485789793.38,shopping,OM
+5245,5245,25-44,1.0,Locals,No Degree,39000,1485789793.38,shopping,OM
+5246,5246,45+,1.0,Locals,No Degree,4600,1485789793.38,shopping,OM
+5247,5247,18-24,2.0,Locals,No Degree,10000,1485789793.38,shopping,OM
+5248,5248,25-44,2.0,Locals,No Degree,13000,1485789793.38,shopping,OM
+5249,5249,45+,2.0,Locals,No Degree,1200,1485789793.38,shopping,OM
+5250,5250,18-24,1.0,Locals,High School,8600,1485789793.38,shopping,OM
+5251,5251,25-44,1.0,Locals,High School,11000,1485789793.38,shopping,OM
+5252,5252,45+,1.0,Locals,High School,1000,1485789793.38,shopping,OM
+5253,5253,18-24,2.0,Locals,High School,3200,1485789793.38,shopping,OM
+5254,5254,25-44,2.0,Locals,High School,2100,1485789793.38,shopping,OM
+5255,5255,45+,2.0,Locals,High School,180,1485789793.38,shopping,OM
+5256,5256,18-24,1.0,Expats,Graduated,110000,1485789793.38,shopping,QA
+5257,5257,25-44,1.0,Expats,Graduated,470000,1485789793.38,shopping,QA
+5258,5258,45+,1.0,Expats,Graduated,54000,1485789793.38,shopping,QA
+5259,5259,18-24,2.0,Expats,Graduated,25000,1485789793.38,shopping,QA
+5260,5260,25-44,2.0,Expats,Graduated,140000,1485789793.38,shopping,QA
+5261,5261,45+,2.0,Expats,Graduated,16000,1485789793.38,shopping,QA
+5262,5262,18-24,1.0,Expats,No Degree,200000,1485789793.38,shopping,QA
+5263,5263,25-44,1.0,Expats,No Degree,390000,1485789793.38,shopping,QA
+5264,5264,45+,1.0,Expats,No Degree,55000,1485789793.38,shopping,QA
+5265,5265,18-24,2.0,Expats,No Degree,41000,1485789793.38,shopping,QA
+5266,5266,25-44,2.0,Expats,No Degree,83000,1485789793.38,shopping,QA
+5267,5267,45+,2.0,Expats,No Degree,15000,1485789793.38,shopping,QA
+5268,5268,18-24,1.0,Expats,High School,41000,1485789793.38,shopping,QA
+5269,5269,25-44,1.0,Expats,High School,120000,1485789793.38,shopping,QA
+5270,5270,45+,1.0,Expats,High School,15000,1485789793.38,shopping,QA
+5271,5271,18-24,2.0,Expats,High School,13000,1485789793.38,shopping,QA
+5272,5272,25-44,2.0,Expats,High School,36000,1485789793.38,shopping,QA
+5273,5273,45+,2.0,Expats,High School,4700,1485789793.38,shopping,QA
+5274,5274,18-24,1.0,Locals,Graduated,3700,1485789793.38,shopping,QA
+5275,5275,25-44,1.0,Locals,Graduated,9200,1485789793.38,shopping,QA
+5276,5276,45+,1.0,Locals,Graduated,1100,1485789793.38,shopping,QA
+5277,5277,18-24,2.0,Locals,Graduated,1700,1485789793.38,shopping,QA
+5278,5278,25-44,2.0,Locals,Graduated,4300,1485789793.38,shopping,QA
+5279,5279,45+,2.0,Locals,Graduated,420,1485789793.38,shopping,QA
+5280,5280,18-24,1.0,Locals,No Degree,8400,1485789793.38,shopping,QA
+5281,5281,25-44,1.0,Locals,No Degree,16000,1485789793.38,shopping,QA
+5282,5282,45+,1.0,Locals,No Degree,2700,1485789793.38,shopping,QA
+5283,5283,18-24,2.0,Locals,No Degree,4700,1485789793.38,shopping,QA
+5284,5284,25-44,2.0,Locals,No Degree,8500,1485789793.38,shopping,QA
+5285,5285,45+,2.0,Locals,No Degree,1300,1485789793.38,shopping,QA
+5286,5286,18-24,1.0,Locals,High School,1600,1485789793.38,shopping,QA
+5287,5287,25-44,1.0,Locals,High School,2900,1485789793.38,shopping,QA
+5288,5288,45+,1.0,Locals,High School,280,1485789793.38,shopping,QA
+5289,5289,18-24,2.0,Locals,High School,1500,1485789793.38,shopping,QA
+5290,5290,25-44,2.0,Locals,High School,1000,1485789793.38,shopping,QA
+5291,5291,45+,2.0,Locals,High School,120,1485789793.38,shopping,QA
+5292,5292,18-24,1.0,Expats,Graduated,340000,1485789793.38,shopping,SA
+5293,5293,25-44,1.0,Expats,Graduated,1800000,1485789793.38,shopping,SA
+5294,5294,45+,1.0,Expats,Graduated,210000,1485789793.38,shopping,SA
+5295,5295,18-24,2.0,Expats,Graduated,81000,1485789793.38,shopping,SA
+5296,5296,25-44,2.0,Expats,Graduated,400000,1485789793.38,shopping,SA
+5297,5297,45+,2.0,Expats,Graduated,51000,1485789793.38,shopping,SA
+5298,5298,18-24,1.0,Expats,No Degree,110000,1485789793.38,shopping,SA
+5299,5299,25-44,1.0,Expats,No Degree,350000,1485789793.38,shopping,SA
+5300,5300,45+,1.0,Expats,No Degree,55000,1485789793.38,shopping,SA
+5301,5301,18-24,2.0,Expats,No Degree,47000,1485789793.38,shopping,SA
+5302,5302,25-44,2.0,Expats,No Degree,110000,1485789793.38,shopping,SA
+5303,5303,45+,2.0,Expats,No Degree,20000,1485789793.38,shopping,SA
+5304,5304,18-24,1.0,Expats,High School,130000,1485789793.38,shopping,SA
+5305,5305,25-44,1.0,Expats,High School,400000,1485789793.38,shopping,SA
+5306,5306,45+,1.0,Expats,High School,52000,1485789793.38,shopping,SA
+5307,5307,18-24,2.0,Expats,High School,50000,1485789793.38,shopping,SA
+5308,5308,25-44,2.0,Expats,High School,110000,1485789793.38,shopping,SA
+5309,5309,45+,2.0,Expats,High School,15000,1485789793.38,shopping,SA
+5310,5310,18-24,1.0,Locals,Graduated,200000,1485789793.38,shopping,SA
+5311,5311,25-44,1.0,Locals,Graduated,790000,1485789793.38,shopping,SA
+5312,5312,45+,1.0,Locals,Graduated,96000,1485789793.38,shopping,SA
+5313,5313,18-24,2.0,Locals,Graduated,77000,1485789793.38,shopping,SA
+5314,5314,25-44,2.0,Locals,Graduated,230000,1485789793.38,shopping,SA
+5315,5315,45+,2.0,Locals,Graduated,24000,1485789793.38,shopping,SA
+5316,5316,18-24,1.0,Locals,No Degree,1300000,1485789793.38,shopping,SA
+5317,5317,25-44,1.0,Locals,No Degree,2400000,1485789793.38,shopping,SA
+5318,5318,45+,1.0,Locals,No Degree,360000,1485789793.38,shopping,SA
+5319,5319,18-24,2.0,Locals,No Degree,430000,1485789793.38,shopping,SA
+5320,5320,25-44,2.0,Locals,No Degree,540000,1485789793.38,shopping,SA
+5321,5321,45+,2.0,Locals,No Degree,93000,1485789793.38,shopping,SA
+5322,5322,18-24,1.0,Locals,High School,120000,1485789793.38,shopping,SA
+5323,5323,25-44,1.0,Locals,High School,280000,1485789793.38,shopping,SA
+5324,5324,45+,1.0,Locals,High School,36000,1485789793.38,shopping,SA
+5325,5325,18-24,2.0,Locals,High School,67000,1485789793.38,shopping,SA
+5326,5326,25-44,2.0,Locals,High School,76000,1485789793.38,shopping,SA
+5327,5327,45+,2.0,Locals,High School,9000,1485789793.38,shopping,SA
+5328,5328,18-24,1.0,Expats,Graduated,12000,1485789793.38,shopping,SO
+5329,5329,25-44,1.0,Expats,Graduated,13000,1485789793.38,shopping,SO
+5330,5330,45+,1.0,Expats,Graduated,1800,1485789793.38,shopping,SO
+5331,5331,18-24,2.0,Expats,Graduated,5300,1485789793.38,shopping,SO
+5332,5332,25-44,2.0,Expats,Graduated,3200,1485789793.38,shopping,SO
+5333,5333,45+,2.0,Expats,Graduated,390,1485789793.38,shopping,SO
+5334,5334,18-24,1.0,Expats,No Degree,4100,1485789793.38,shopping,SO
+5335,5335,25-44,1.0,Expats,No Degree,6400,1485789793.38,shopping,SO
+5336,5336,45+,1.0,Expats,No Degree,1200,1485789793.38,shopping,SO
+5337,5337,18-24,2.0,Expats,No Degree,2900,1485789793.38,shopping,SO
+5338,5338,25-44,2.0,Expats,No Degree,1900,1485789793.38,shopping,SO
+5339,5339,45+,2.0,Expats,No Degree,240,1485789793.38,shopping,SO
+5340,5340,18-24,1.0,Expats,High School,3200,1485789793.38,shopping,SO
+5341,5341,25-44,1.0,Expats,High School,2800,1485789793.38,shopping,SO
+5342,5342,45+,1.0,Expats,High School,470,1485789793.38,shopping,SO
+5343,5343,18-24,2.0,Expats,High School,2000,1485789793.38,shopping,SO
+5344,5344,25-44,2.0,Expats,High School,830,1485789793.38,shopping,SO
+5345,5345,45+,2.0,Expats,High School,90,1485789793.38,shopping,SO
+5346,5346,18-24,1.0,Locals,Graduated,35000,1485789793.38,shopping,SO
+5347,5347,25-44,1.0,Locals,Graduated,37000,1485789793.38,shopping,SO
+5348,5348,45+,1.0,Locals,Graduated,2600,1485789793.38,shopping,SO
+5349,5349,18-24,2.0,Locals,Graduated,24000,1485789793.38,shopping,SO
+5350,5350,25-44,2.0,Locals,Graduated,14000,1485789793.38,shopping,SO
+5351,5351,45+,2.0,Locals,Graduated,1400,1485789793.38,shopping,SO
+5352,5352,18-24,1.0,Locals,No Degree,56000,1485789793.38,shopping,SO
+5353,5353,25-44,1.0,Locals,No Degree,39000,1485789793.38,shopping,SO
+5354,5354,45+,1.0,Locals,No Degree,6200,1485789793.38,shopping,SO
+5355,5355,18-24,2.0,Locals,No Degree,62000,1485789793.38,shopping,SO
+5356,5356,25-44,2.0,Locals,No Degree,27000,1485789793.38,shopping,SO
+5357,5357,45+,2.0,Locals,No Degree,2700,1485789793.38,shopping,SO
+5358,5358,18-24,1.0,Locals,High School,13000,1485789793.38,shopping,SO
+5359,5359,25-44,1.0,Locals,High School,7500,1485789793.38,shopping,SO
+5360,5360,45+,1.0,Locals,High School,800,1485789793.38,shopping,SO
+5361,5361,18-24,2.0,Locals,High School,9700,1485789793.38,shopping,SO
+5362,5362,25-44,2.0,Locals,High School,3400,1485789793.38,shopping,SO
+5363,5363,45+,2.0,Locals,High School,450,1485789793.38,shopping,SO
+5364,5364,18-24,1.0,Expats,Graduated,46000,1485789793.38,shopping,TN
+5365,5365,25-44,1.0,Expats,Graduated,56000,1485789793.38,shopping,TN
+5366,5366,45+,1.0,Expats,Graduated,12000,1485789793.38,shopping,TN
+5367,5367,18-24,2.0,Expats,Graduated,22000,1485789793.38,shopping,TN
+5368,5368,25-44,2.0,Expats,Graduated,25000,1485789793.38,shopping,TN
+5369,5369,45+,2.0,Expats,Graduated,5500,1485789793.38,shopping,TN
+5370,5370,18-24,1.0,Expats,No Degree,27000,1485789793.38,shopping,TN
+5371,5371,25-44,1.0,Expats,No Degree,45000,1485789793.38,shopping,TN
+5372,5372,45+,1.0,Expats,No Degree,11000,1485789793.38,shopping,TN
+5373,5373,18-24,2.0,Expats,No Degree,19000,1485789793.38,shopping,TN
+5374,5374,25-44,2.0,Expats,No Degree,27000,1485789793.38,shopping,TN
+5375,5375,45+,2.0,Expats,No Degree,6100,1485789793.38,shopping,TN
+5376,5376,18-24,1.0,Expats,High School,20000,1485789793.38,shopping,TN
+5377,5377,25-44,1.0,Expats,High School,16000,1485789793.38,shopping,TN
+5378,5378,45+,1.0,Expats,High School,4100,1485789793.38,shopping,TN
+5379,5379,18-24,2.0,Expats,High School,11000,1485789793.38,shopping,TN
+5380,5380,25-44,2.0,Expats,High School,8100,1485789793.38,shopping,TN
+5381,5381,45+,2.0,Expats,High School,2600,1485789793.38,shopping,TN
+5382,5382,18-24,1.0,Locals,Graduated,250000,1485789793.38,shopping,TN
+5383,5383,25-44,1.0,Locals,Graduated,490000,1485789793.38,shopping,TN
+5384,5384,45+,1.0,Locals,Graduated,110000,1485789793.38,shopping,TN
+5385,5385,18-24,2.0,Locals,Graduated,260000,1485789793.38,shopping,TN
+5386,5386,25-44,2.0,Locals,Graduated,420000,1485789793.38,shopping,TN
+5387,5387,45+,2.0,Locals,Graduated,53000,1485789793.38,shopping,TN
+5388,5388,18-24,1.0,Locals,No Degree,300000,1485789793.38,shopping,TN
+5389,5389,25-44,1.0,Locals,No Degree,500000,1485789793.38,shopping,TN
+5390,5390,45+,1.0,Locals,No Degree,140000,1485789793.38,shopping,TN
+5391,5391,18-24,2.0,Locals,No Degree,320000,1485789793.38,shopping,TN
+5392,5392,25-44,2.0,Locals,No Degree,390000,1485789793.38,shopping,TN
+5393,5393,45+,2.0,Locals,No Degree,98000,1485789793.38,shopping,TN
+5394,5394,18-24,1.0,Locals,High School,130000,1485789793.38,shopping,TN
+5395,5395,25-44,1.0,Locals,High School,160000,1485789793.38,shopping,TN
+5396,5396,45+,1.0,Locals,High School,45000,1485789793.38,shopping,TN
+5397,5397,18-24,2.0,Locals,High School,150000,1485789793.38,shopping,TN
+5398,5398,25-44,2.0,Locals,High School,110000,1485789793.38,shopping,TN
+5399,5399,45+,2.0,Locals,High School,30000,1485789793.38,shopping,TN
+5400,5400,18-24,1.0,Expats,Graduated,350000,1485789793.38,shopping,AE
+5401,5401,25-44,1.0,Expats,Graduated,1700000,1485789793.38,shopping,AE
+5402,5402,45+,1.0,Expats,Graduated,180000,1485789793.38,shopping,AE
+5403,5403,18-24,2.0,Expats,Graduated,110000,1485789793.38,shopping,AE
+5404,5404,25-44,2.0,Expats,Graduated,650000,1485789793.38,shopping,AE
+5405,5405,45+,2.0,Expats,Graduated,82000,1485789793.38,shopping,AE
+5406,5406,18-24,1.0,Expats,No Degree,500000,1485789793.38,shopping,AE
+5407,5407,25-44,1.0,Expats,No Degree,1200000,1485789793.38,shopping,AE
+5408,5408,45+,1.0,Expats,No Degree,170000,1485789793.38,shopping,AE
+5409,5409,18-24,2.0,Expats,No Degree,140000,1485789793.38,shopping,AE
+5410,5410,25-44,2.0,Expats,No Degree,330000,1485789793.38,shopping,AE
+5411,5411,45+,2.0,Expats,No Degree,69000,1485789793.38,shopping,AE
+5412,5412,18-24,1.0,Expats,High School,130000,1485789793.38,shopping,AE
+5413,5413,25-44,1.0,Expats,High School,380000,1485789793.38,shopping,AE
+5414,5414,45+,1.0,Expats,High School,50000,1485789793.38,shopping,AE
+5415,5415,18-24,2.0,Expats,High School,62000,1485789793.38,shopping,AE
+5416,5416,25-44,2.0,Expats,High School,140000,1485789793.38,shopping,AE
+5417,5417,45+,2.0,Expats,High School,24000,1485789793.38,shopping,AE
+5418,5418,18-24,1.0,Locals,Graduated,15000,1485789793.38,shopping,AE
+5419,5419,25-44,1.0,Locals,Graduated,46000,1485789793.38,shopping,AE
+5420,5420,45+,1.0,Locals,Graduated,4700,1485789793.38,shopping,AE
+5421,5421,18-24,2.0,Locals,Graduated,7500,1485789793.38,shopping,AE
+5422,5422,25-44,2.0,Locals,Graduated,22000,1485789793.38,shopping,AE
+5423,5423,45+,2.0,Locals,Graduated,1600,1485789793.38,shopping,AE
+5424,5424,18-24,1.0,Locals,No Degree,41000,1485789793.38,shopping,AE
+5425,5425,25-44,1.0,Locals,No Degree,77000,1485789793.38,shopping,AE
+5426,5426,45+,1.0,Locals,No Degree,12000,1485789793.38,shopping,AE
+5427,5427,18-24,2.0,Locals,No Degree,25000,1485789793.38,shopping,AE
+5428,5428,25-44,2.0,Locals,No Degree,44000,1485789793.38,shopping,AE
+5429,5429,45+,2.0,Locals,No Degree,5100,1485789793.38,shopping,AE
+5430,5430,18-24,1.0,Locals,High School,9300,1485789793.38,shopping,AE
+5431,5431,25-44,1.0,Locals,High School,13000,1485789793.38,shopping,AE
+5432,5432,45+,1.0,Locals,High School,1600,1485789793.38,shopping,AE
+5433,5433,18-24,2.0,Locals,High School,6400,1485789793.38,shopping,AE
+5434,5434,25-44,2.0,Locals,High School,5300,1485789793.38,shopping,AE
+5435,5435,45+,2.0,Locals,High School,540,1485789793.38,shopping,AE
+5436,5436,18-24,1.0,Expats,Graduated,13000,1485789793.38,shopping,YE
+5437,5437,25-44,1.0,Expats,Graduated,23000,1485789793.38,shopping,YE
+5438,5438,45+,1.0,Expats,Graduated,2200,1485789793.38,shopping,YE
+5439,5439,18-24,2.0,Expats,Graduated,2800,1485789793.38,shopping,YE
+5440,5440,25-44,2.0,Expats,Graduated,4400,1485789793.38,shopping,YE
+5441,5441,45+,2.0,Expats,Graduated,430,1485789793.38,shopping,YE
+5442,5442,18-24,1.0,Expats,No Degree,10000,1485789793.38,shopping,YE
+5443,5443,25-44,1.0,Expats,No Degree,17000,1485789793.38,shopping,YE
+5444,5444,45+,1.0,Expats,No Degree,1800,1485789793.38,shopping,YE
+5445,5445,18-24,2.0,Expats,No Degree,6000,1485789793.38,shopping,YE
+5446,5446,25-44,2.0,Expats,No Degree,5000,1485789793.38,shopping,YE
+5447,5447,45+,2.0,Expats,No Degree,640,1485789793.38,shopping,YE
+5448,5448,18-24,1.0,Expats,High School,5800,1485789793.38,shopping,YE
+5449,5449,25-44,1.0,Expats,High School,5800,1485789793.38,shopping,YE
+5450,5450,45+,1.0,Expats,High School,580,1485789793.38,shopping,YE
+5451,5451,18-24,2.0,Expats,High School,2100,1485789793.38,shopping,YE
+5452,5452,25-44,2.0,Expats,High School,1400,1485789793.38,shopping,YE
+5453,5453,45+,2.0,Expats,High School,130,1485789793.38,shopping,YE
+5454,5454,18-24,1.0,Locals,Graduated,93000,1485789793.38,shopping,YE
+5455,5455,25-44,1.0,Locals,Graduated,190000,1485789793.38,shopping,YE
+5456,5456,45+,1.0,Locals,Graduated,16000,1485789793.38,shopping,YE
+5457,5457,18-24,2.0,Locals,Graduated,19000,1485789793.38,shopping,YE
+5458,5458,25-44,2.0,Locals,Graduated,31000,1485789793.38,shopping,YE
+5459,5459,45+,2.0,Locals,Graduated,1800,1485789793.38,shopping,YE
+5460,5460,18-24,1.0,Locals,No Degree,150000,1485789793.38,shopping,YE
+5461,5461,25-44,1.0,Locals,No Degree,180000,1485789793.38,shopping,YE
+5462,5462,45+,1.0,Locals,No Degree,24000,1485789793.38,shopping,YE
+5463,5463,18-24,2.0,Locals,No Degree,32000,1485789793.38,shopping,YE
+5464,5464,25-44,2.0,Locals,No Degree,31000,1485789793.38,shopping,YE
+5465,5465,45+,2.0,Locals,No Degree,3700,1485789793.38,shopping,YE
+5466,5466,18-24,1.0,Locals,High School,60000,1485789793.38,shopping,YE
+5467,5467,25-44,1.0,Locals,High School,55000,1485789793.38,shopping,YE
+5468,5468,45+,1.0,Locals,High School,4900,1485789793.38,shopping,YE
+5469,5469,18-24,2.0,Locals,High School,18000,1485789793.38,shopping,YE
+5470,5470,25-44,2.0,Locals,High School,9000,1485789793.38,shopping,YE
+5471,5471,45+,2.0,Locals,High School,720,1485789793.38,shopping,YE
+5472,5472,18-24,1.0,Expats,Graduated,16000,1485789793.38,shopping,PS
+5473,5473,25-44,1.0,Expats,Graduated,27000,1485789793.38,shopping,PS
+5474,5474,45+,1.0,Expats,Graduated,4200,1485789793.38,shopping,PS
+5475,5475,18-24,2.0,Expats,Graduated,13000,1485789793.38,shopping,PS
+5476,5476,25-44,2.0,Expats,Graduated,19000,1485789793.38,shopping,PS
+5477,5477,45+,2.0,Expats,Graduated,2600,1485789793.38,shopping,PS
+5478,5478,18-24,1.0,Expats,No Degree,7300,1485789793.38,shopping,PS
+5479,5479,25-44,1.0,Expats,No Degree,9700,1485789793.38,shopping,PS
+5480,5480,45+,1.0,Expats,No Degree,2800,1485789793.38,shopping,PS
+5481,5481,18-24,2.0,Expats,No Degree,9700,1485789793.38,shopping,PS
+5482,5482,25-44,2.0,Expats,No Degree,9900,1485789793.38,shopping,PS
+5483,5483,45+,2.0,Expats,No Degree,3100,1485789793.38,shopping,PS
+5484,5484,18-24,1.0,Expats,High School,9100,1485789793.38,shopping,PS
+5485,5485,25-44,1.0,Expats,High School,5700,1485789793.38,shopping,PS
+5486,5486,45+,1.0,Expats,High School,1200,1485789793.38,shopping,PS
+5487,5487,18-24,2.0,Expats,High School,11000,1485789793.38,shopping,PS
+5488,5488,25-44,2.0,Expats,High School,5100,1485789793.38,shopping,PS
+5489,5489,45+,2.0,Expats,High School,1200,1485789793.38,shopping,PS
+5490,5490,18-24,1.0,Locals,Graduated,71000,1485789793.38,shopping,PS
+5491,5491,25-44,1.0,Locals,Graduated,110000,1485789793.38,shopping,PS
+5492,5492,45+,1.0,Locals,Graduated,17000,1485789793.38,shopping,PS
+5493,5493,18-24,2.0,Locals,Graduated,64000,1485789793.38,shopping,PS
+5494,5494,25-44,2.0,Locals,Graduated,83000,1485789793.38,shopping,PS
+5495,5495,45+,2.0,Locals,Graduated,8500,1485789793.38,shopping,PS
+5496,5496,18-24,1.0,Locals,No Degree,56000,1485789793.38,shopping,PS
+5497,5497,25-44,1.0,Locals,No Degree,64000,1485789793.38,shopping,PS
+5498,5498,45+,1.0,Locals,No Degree,21000,1485789793.38,shopping,PS
+5499,5499,18-24,2.0,Locals,No Degree,55000,1485789793.38,shopping,PS
+5500,5500,25-44,2.0,Locals,No Degree,64000,1485789793.38,shopping,PS
+5501,5501,45+,2.0,Locals,No Degree,21000,1485789793.38,shopping,PS
+5502,5502,18-24,1.0,Locals,High School,45000,1485789793.38,shopping,PS
+5503,5503,25-44,1.0,Locals,High School,28000,1485789793.38,shopping,PS
+5504,5504,45+,1.0,Locals,High School,5900,1485789793.38,shopping,PS
+5505,5505,18-24,2.0,Locals,High School,53000,1485789793.38,shopping,PS
+5506,5506,25-44,2.0,Locals,High School,24000,1485789793.38,shopping,PS
+5507,5507,45+,2.0,Locals,High School,3900,1485789793.38,shopping,PS
+8568,8568,18-24,1.0,Expats,Graduated,110000,1485789793.38,health,DZ
+8569,8569,25-44,1.0,Expats,Graduated,100000,1485789793.38,health,DZ
+8570,8570,45+,1.0,Expats,Graduated,14000,1485789793.38,health,DZ
+8571,8571,18-24,2.0,Expats,Graduated,37000,1485789793.38,health,DZ
+8572,8572,25-44,2.0,Expats,Graduated,29000,1485789793.38,health,DZ
+8573,8573,45+,2.0,Expats,Graduated,5300,1485789793.38,health,DZ
+8574,8574,18-24,1.0,Expats,No Degree,62000,1485789793.38,health,DZ
+8575,8575,25-44,1.0,Expats,No Degree,91000,1485789793.38,health,DZ
+8576,8576,45+,1.0,Expats,No Degree,17000,1485789793.38,health,DZ
+8577,8577,18-24,2.0,Expats,No Degree,30000,1485789793.38,health,DZ
+8578,8578,25-44,2.0,Expats,No Degree,33000,1485789793.38,health,DZ
+8579,8579,45+,2.0,Expats,No Degree,7200,1485789793.38,health,DZ
+8580,8580,18-24,1.0,Expats,High School,40000,1485789793.38,health,DZ
+8581,8581,25-44,1.0,Expats,High School,24000,1485789793.38,health,DZ
+8582,8582,45+,1.0,Expats,High School,4800,1485789793.38,health,DZ
+8583,8583,18-24,2.0,Expats,High School,16000,1485789793.38,health,DZ
+8584,8584,25-44,2.0,Expats,High School,7600,1485789793.38,health,DZ
+8585,8585,45+,2.0,Expats,High School,2200,1485789793.38,health,DZ
+8586,8586,18-24,1.0,Locals,Graduated,470000,1485789793.38,health,DZ
+8587,8587,25-44,1.0,Locals,Graduated,710000,1485789793.38,health,DZ
+8588,8588,45+,1.0,Locals,Graduated,84000,1485789793.38,health,DZ
+8589,8589,18-24,2.0,Locals,Graduated,330000,1485789793.38,health,DZ
+8590,8590,25-44,2.0,Locals,Graduated,390000,1485789793.38,health,DZ
+8591,8591,45+,2.0,Locals,Graduated,39000,1485789793.38,health,DZ
+8592,8592,18-24,1.0,Locals,No Degree,550000,1485789793.38,health,DZ
+8593,8593,25-44,1.0,Locals,No Degree,860000,1485789793.38,health,DZ
+8594,8594,45+,1.0,Locals,No Degree,140000,1485789793.38,health,DZ
+8595,8595,18-24,2.0,Locals,No Degree,420000,1485789793.38,health,DZ
+8596,8596,25-44,2.0,Locals,No Degree,480000,1485789793.38,health,DZ
+8597,8597,45+,2.0,Locals,No Degree,80000,1485789793.38,health,DZ
+8598,8598,18-24,1.0,Locals,High School,220000,1485789793.38,health,DZ
+8599,8599,25-44,1.0,Locals,High School,200000,1485789793.38,health,DZ
+8600,8600,45+,1.0,Locals,High School,32000,1485789793.38,health,DZ
+8601,8601,18-24,2.0,Locals,High School,160000,1485789793.38,health,DZ
+8602,8602,25-44,2.0,Locals,High School,92000,1485789793.38,health,DZ
+8603,8603,45+,2.0,Locals,High School,17000,1485789793.38,health,DZ
+8604,8604,18-24,1.0,Expats,Graduated,17000,1485789793.38,health,BH
+8605,8605,25-44,1.0,Expats,Graduated,79000,1485789793.38,health,BH
+8606,8606,45+,1.0,Expats,Graduated,10000,1485789793.38,health,BH
+8607,8607,18-24,2.0,Expats,Graduated,4600,1485789793.38,health,BH
+8608,8608,25-44,2.0,Expats,Graduated,37000,1485789793.38,health,BH
+8609,8609,45+,2.0,Expats,Graduated,6700,1485789793.38,health,BH
+8610,8610,18-24,1.0,Expats,No Degree,22000,1485789793.38,health,BH
+8611,8611,25-44,1.0,Expats,No Degree,68000,1485789793.38,health,BH
+8612,8612,45+,1.0,Expats,No Degree,12000,1485789793.38,health,BH
+8613,8613,18-24,2.0,Expats,No Degree,5800,1485789793.38,health,BH
+8614,8614,25-44,2.0,Expats,No Degree,22000,1485789793.38,health,BH
+8615,8615,45+,2.0,Expats,No Degree,5300,1485789793.38,health,BH
+8616,8616,18-24,1.0,Expats,High School,7300,1485789793.38,health,BH
+8617,8617,25-44,1.0,Expats,High School,21000,1485789793.38,health,BH
+8618,8618,45+,1.0,Expats,High School,3600,1485789793.38,health,BH
+8619,8619,18-24,2.0,Expats,High School,3000,1485789793.38,health,BH
+8620,8620,25-44,2.0,Expats,High School,11000,1485789793.38,health,BH
+8621,8621,45+,2.0,Expats,High School,2300,1485789793.38,health,BH
+8622,8622,18-24,1.0,Locals,Graduated,3600,1485789793.38,health,BH
+8623,8623,25-44,1.0,Locals,Graduated,11000,1485789793.38,health,BH
+8624,8624,45+,1.0,Locals,Graduated,1700,1485789793.38,health,BH
+8625,8625,18-24,2.0,Locals,Graduated,2300,1485789793.38,health,BH
+8626,8626,25-44,2.0,Locals,Graduated,7400,1485789793.38,health,BH
+8627,8627,45+,2.0,Locals,Graduated,770,1485789793.38,health,BH
+8628,8628,18-24,1.0,Locals,No Degree,4500,1485789793.38,health,BH
+8629,8629,25-44,1.0,Locals,No Degree,9000,1485789793.38,health,BH
+8630,8630,45+,1.0,Locals,No Degree,2300,1485789793.38,health,BH
+8631,8631,18-24,2.0,Locals,No Degree,3300,1485789793.38,health,BH
+8632,8632,25-44,2.0,Locals,No Degree,6900,1485789793.38,health,BH
+8633,8633,45+,2.0,Locals,No Degree,1100,1485789793.38,health,BH
+8634,8634,18-24,1.0,Locals,High School,2100,1485789793.38,health,BH
+8635,8635,25-44,1.0,Locals,High School,3200,1485789793.38,health,BH
+8636,8636,45+,1.0,Locals,High School,590,1485789793.38,health,BH
+8637,8637,18-24,2.0,Locals,High School,2300,1485789793.38,health,BH
+8638,8638,25-44,2.0,Locals,High School,1600,1485789793.38,health,BH
+8639,8639,45+,2.0,Locals,High School,230,1485789793.38,health,BH
+8640,8640,18-24,1.0,Expats,Graduated,67000,1485789793.38,health,EG
+8641,8641,25-44,1.0,Expats,Graduated,120000,1485789793.38,health,EG
+8642,8642,45+,1.0,Expats,Graduated,22000,1485789793.38,health,EG
+8643,8643,18-24,2.0,Expats,Graduated,32000,1485789793.38,health,EG
+8644,8644,25-44,2.0,Expats,Graduated,59000,1485789793.38,health,EG
+8645,8645,45+,2.0,Expats,Graduated,11000,1485789793.38,health,EG
+8646,8646,18-24,1.0,Expats,No Degree,31000,1485789793.38,health,EG
+8647,8647,25-44,1.0,Expats,No Degree,50000,1485789793.38,health,EG
+8648,8648,45+,1.0,Expats,No Degree,14000,1485789793.38,health,EG
+8649,8649,18-24,2.0,Expats,No Degree,18000,1485789793.38,health,EG
+8650,8650,25-44,2.0,Expats,No Degree,30000,1485789793.38,health,EG
+8651,8651,45+,2.0,Expats,No Degree,11000,1485789793.38,health,EG
+8652,8652,18-24,1.0,Expats,High School,40000,1485789793.38,health,EG
+8653,8653,25-44,1.0,Expats,High School,27000,1485789793.38,health,EG
+8654,8654,45+,1.0,Expats,High School,5300,1485789793.38,health,EG
+8655,8655,18-24,2.0,Expats,High School,25000,1485789793.38,health,EG
+8656,8656,25-44,2.0,Expats,High School,15000,1485789793.38,health,EG
+8657,8657,45+,2.0,Expats,High School,3400,1485789793.38,health,EG
+8658,8658,18-24,1.0,Locals,Graduated,1300000,1485789793.38,health,EG
+8659,8659,25-44,1.0,Locals,Graduated,2200000,1485789793.38,health,EG
+8660,8660,45+,1.0,Locals,Graduated,360000,1485789793.38,health,EG
+8661,8661,18-24,2.0,Locals,Graduated,970000,1485789793.38,health,EG
+8662,8662,25-44,2.0,Locals,Graduated,1500000,1485789793.38,health,EG
+8663,8663,45+,2.0,Locals,Graduated,210000,1485789793.38,health,EG
+8664,8664,18-24,1.0,Locals,No Degree,750000,1485789793.38,health,EG
+8665,8665,25-44,1.0,Locals,No Degree,1200000,1485789793.38,health,EG
+8666,8666,45+,1.0,Locals,No Degree,410000,1485789793.38,health,EG
+8667,8667,18-24,2.0,Locals,No Degree,600000,1485789793.38,health,EG
+8668,8668,25-44,2.0,Locals,No Degree,930000,1485789793.38,health,EG
+8669,8669,45+,2.0,Locals,No Degree,340000,1485789793.38,health,EG
+8670,8670,18-24,1.0,Locals,High School,790000,1485789793.38,health,EG
+8671,8671,25-44,1.0,Locals,High School,470000,1485789793.38,health,EG
+8672,8672,45+,1.0,Locals,High School,93000,1485789793.38,health,EG
+8673,8673,18-24,2.0,Locals,High School,700000,1485789793.38,health,EG
+8674,8674,25-44,2.0,Locals,High School,280000,1485789793.38,health,EG
+8675,8675,45+,2.0,Locals,High School,50000,1485789793.38,health,EG
+8676,8676,18-24,1.0,Expats,Graduated,51000,1485789793.38,health,IQ
+8677,8677,25-44,1.0,Expats,Graduated,100000,1485789793.38,health,IQ
+8678,8678,45+,1.0,Expats,Graduated,14000,1485789793.38,health,IQ
+8679,8679,18-24,2.0,Expats,Graduated,9800,1485789793.38,health,IQ
+8680,8680,25-44,2.0,Expats,Graduated,20000,1485789793.38,health,IQ
+8681,8681,45+,2.0,Expats,Graduated,2600,1485789793.38,health,IQ
+8682,8682,18-24,1.0,Expats,No Degree,41000,1485789793.38,health,IQ
+8683,8683,25-44,1.0,Expats,No Degree,58000,1485789793.38,health,IQ
+8684,8684,45+,1.0,Expats,No Degree,11000,1485789793.38,health,IQ
+8685,8685,18-24,2.0,Expats,No Degree,15000,1485789793.38,health,IQ
+8686,8686,25-44,2.0,Expats,No Degree,18000,1485789793.38,health,IQ
+8687,8687,45+,2.0,Expats,No Degree,3600,1485789793.38,health,IQ
+8688,8688,18-24,1.0,Expats,High School,27000,1485789793.38,health,IQ
+8689,8689,25-44,1.0,Expats,High School,29000,1485789793.38,health,IQ
+8690,8690,45+,1.0,Expats,High School,4300,1485789793.38,health,IQ
+8691,8691,18-24,2.0,Expats,High School,8400,1485789793.38,health,IQ
+8692,8692,25-44,2.0,Expats,High School,6300,1485789793.38,health,IQ
+8693,8693,45+,2.0,Expats,High School,990,1485789793.38,health,IQ
+8694,8694,18-24,1.0,Locals,Graduated,510000,1485789793.38,health,IQ
+8695,8695,25-44,1.0,Locals,Graduated,1000000,1485789793.38,health,IQ
+8696,8696,45+,1.0,Locals,Graduated,150000,1485789793.38,health,IQ
+8697,8697,18-24,2.0,Locals,Graduated,140000,1485789793.38,health,IQ
+8698,8698,25-44,2.0,Locals,Graduated,270000,1485789793.38,health,IQ
+8699,8699,45+,2.0,Locals,Graduated,43000,1485789793.38,health,IQ
+8700,8700,18-24,1.0,Locals,No Degree,840000,1485789793.38,health,IQ
+8701,8701,25-44,1.0,Locals,No Degree,1100000,1485789793.38,health,IQ
+8702,8702,45+,1.0,Locals,No Degree,270000,1485789793.38,health,IQ
+8703,8703,18-24,2.0,Locals,No Degree,260000,1485789793.38,health,IQ
+8704,8704,25-44,2.0,Locals,No Degree,340000,1485789793.38,health,IQ
+8705,8705,45+,2.0,Locals,No Degree,100000,1485789793.38,health,IQ
+8706,8706,18-24,1.0,Locals,High School,340000,1485789793.38,health,IQ
+8707,8707,25-44,1.0,Locals,High School,320000,1485789793.38,health,IQ
+8708,8708,45+,1.0,Locals,High School,52000,1485789793.38,health,IQ
+8709,8709,18-24,2.0,Locals,High School,140000,1485789793.38,health,IQ
+8710,8710,25-44,2.0,Locals,High School,87000,1485789793.38,health,IQ
+8711,8711,45+,2.0,Locals,High School,15000,1485789793.38,health,IQ
+8712,8712,18-24,1.0,Expats,Graduated,42000,1485789793.38,health,JO
+8713,8713,25-44,1.0,Expats,Graduated,91000,1485789793.38,health,JO
+8714,8714,45+,1.0,Expats,Graduated,15000,1485789793.38,health,JO
+8715,8715,18-24,2.0,Expats,Graduated,27000,1485789793.38,health,JO
+8716,8716,25-44,2.0,Expats,Graduated,63000,1485789793.38,health,JO
+8717,8717,45+,2.0,Expats,Graduated,13000,1485789793.38,health,JO
+8718,8718,18-24,1.0,Expats,No Degree,46000,1485789793.38,health,JO
+8719,8719,25-44,1.0,Expats,No Degree,80000,1485789793.38,health,JO
+8720,8720,45+,1.0,Expats,No Degree,19000,1485789793.38,health,JO
+8721,8721,18-24,2.0,Expats,No Degree,27000,1485789793.38,health,JO
+8722,8722,25-44,2.0,Expats,No Degree,46000,1485789793.38,health,JO
+8723,8723,45+,2.0,Expats,No Degree,19000,1485789793.38,health,JO
+8724,8724,18-24,1.0,Expats,High School,35000,1485789793.38,health,JO
+8725,8725,25-44,1.0,Expats,High School,29000,1485789793.38,health,JO
+8726,8726,45+,1.0,Expats,High School,5300,1485789793.38,health,JO
+8727,8727,18-24,2.0,Expats,High School,34000,1485789793.38,health,JO
+8728,8728,25-44,2.0,Expats,High School,20000,1485789793.38,health,JO
+8729,8729,45+,2.0,Expats,High School,5300,1485789793.38,health,JO
+8730,8730,18-24,1.0,Locals,Graduated,130000,1485789793.38,health,JO
+8731,8731,25-44,1.0,Locals,Graduated,260000,1485789793.38,health,JO
+8732,8732,45+,1.0,Locals,Graduated,48000,1485789793.38,health,JO
+8733,8733,18-24,2.0,Locals,Graduated,94000,1485789793.38,health,JO
+8734,8734,25-44,2.0,Locals,Graduated,190000,1485789793.38,health,JO
+8735,8735,45+,2.0,Locals,Graduated,29000,1485789793.38,health,JO
+8736,8736,18-24,1.0,Locals,No Degree,130000,1485789793.38,health,JO
+8737,8737,25-44,1.0,Locals,No Degree,190000,1485789793.38,health,JO
+8738,8738,45+,1.0,Locals,No Degree,74000,1485789793.38,health,JO
+8739,8739,18-24,2.0,Locals,No Degree,120000,1485789793.38,health,JO
+8740,8740,25-44,2.0,Locals,No Degree,190000,1485789793.38,health,JO
+8741,8741,45+,2.0,Locals,No Degree,69000,1485789793.38,health,JO
+8742,8742,18-24,1.0,Locals,High School,110000,1485789793.38,health,JO
+8743,8743,25-44,1.0,Locals,High School,80000,1485789793.38,health,JO
+8744,8744,45+,1.0,Locals,High School,19000,1485789793.38,health,JO
+8745,8745,18-24,2.0,Locals,High School,110000,1485789793.38,health,JO
+8746,8746,25-44,2.0,Locals,High School,59000,1485789793.38,health,JO
+8747,8747,45+,2.0,Locals,High School,12000,1485789793.38,health,JO
+8748,8748,18-24,1.0,Expats,Graduated,29000,1485789793.38,health,KW
+8749,8749,25-44,1.0,Expats,Graduated,240000,1485789793.38,health,KW
+8750,8750,45+,1.0,Expats,Graduated,34000,1485789793.38,health,KW
+8751,8751,18-24,2.0,Expats,Graduated,13000,1485789793.38,health,KW
+8752,8752,25-44,2.0,Expats,Graduated,130000,1485789793.38,health,KW
+8753,8753,45+,2.0,Expats,Graduated,17000,1485789793.38,health,KW
+8754,8754,18-24,1.0,Expats,No Degree,58000,1485789793.38,health,KW
+8755,8755,25-44,1.0,Expats,No Degree,220000,1485789793.38,health,KW
+8756,8756,45+,1.0,Expats,No Degree,44000,1485789793.38,health,KW
+8757,8757,18-24,2.0,Expats,No Degree,23000,1485789793.38,health,KW
+8758,8758,25-44,2.0,Expats,No Degree,90000,1485789793.38,health,KW
+8759,8759,45+,2.0,Expats,No Degree,19000,1485789793.38,health,KW
+8760,8760,18-24,1.0,Expats,High School,15000,1485789793.38,health,KW
+8761,8761,25-44,1.0,Expats,High School,69000,1485789793.38,health,KW
+8762,8762,45+,1.0,Expats,High School,10000,1485789793.38,health,KW
+8763,8763,18-24,2.0,Expats,High School,9700,1485789793.38,health,KW
+8764,8764,25-44,2.0,Expats,High School,45000,1485789793.38,health,KW
+8765,8765,45+,2.0,Expats,High School,6400,1485789793.38,health,KW
+8766,8766,18-24,1.0,Locals,Graduated,2900,1485789793.38,health,KW
+8767,8767,25-44,1.0,Locals,Graduated,14000,1485789793.38,health,KW
+8768,8768,45+,1.0,Locals,Graduated,2300,1485789793.38,health,KW
+8769,8769,18-24,2.0,Locals,Graduated,1500,1485789793.38,health,KW
+8770,8770,25-44,2.0,Locals,Graduated,8800,1485789793.38,health,KW
+8771,8771,45+,2.0,Locals,Graduated,1300,1485789793.38,health,KW
+8772,8772,18-24,1.0,Locals,No Degree,6500,1485789793.38,health,KW
+8773,8773,25-44,1.0,Locals,No Degree,17000,1485789793.38,health,KW
+8774,8774,45+,1.0,Locals,No Degree,3500,1485789793.38,health,KW
+8775,8775,18-24,2.0,Locals,No Degree,4600,1485789793.38,health,KW
+8776,8776,25-44,2.0,Locals,No Degree,11000,1485789793.38,health,KW
+8777,8777,45+,2.0,Locals,No Degree,2300,1485789793.38,health,KW
+8778,8778,18-24,1.0,Locals,High School,1900,1485789793.38,health,KW
+8779,8779,25-44,1.0,Locals,High School,3700,1485789793.38,health,KW
+8780,8780,45+,1.0,Locals,High School,670,1485789793.38,health,KW
+8781,8781,18-24,2.0,Locals,High School,1600,1485789793.38,health,KW
+8782,8782,25-44,2.0,Locals,High School,2000,1485789793.38,health,KW
+8783,8783,45+,2.0,Locals,High School,260,1485789793.38,health,KW
+8784,8784,18-24,1.0,Expats,Graduated,23000,1485789793.38,health,LB
+8785,8785,25-44,1.0,Expats,Graduated,48000,1485789793.38,health,LB
+8786,8786,45+,1.0,Expats,Graduated,6900,1485789793.38,health,LB
+8787,8787,18-24,2.0,Expats,Graduated,9500,1485789793.38,health,LB
+8788,8788,25-44,2.0,Expats,Graduated,30000,1485789793.38,health,LB
+8789,8789,45+,2.0,Expats,Graduated,7200,1485789793.38,health,LB
+8790,8790,18-24,1.0,Expats,No Degree,40000,1485789793.38,health,LB
+8791,8791,25-44,1.0,Expats,No Degree,68000,1485789793.38,health,LB
+8792,8792,45+,1.0,Expats,No Degree,12000,1485789793.38,health,LB
+8793,8793,18-24,2.0,Expats,No Degree,20000,1485789793.38,health,LB
+8794,8794,25-44,2.0,Expats,No Degree,36000,1485789793.38,health,LB
+8795,8795,45+,2.0,Expats,No Degree,11000,1485789793.38,health,LB
+8796,8796,18-24,1.0,Expats,High School,14000,1485789793.38,health,LB
+8797,8797,25-44,1.0,Expats,High School,18000,1485789793.38,health,LB
+8798,8798,45+,1.0,Expats,High School,2600,1485789793.38,health,LB
+8799,8799,18-24,2.0,Expats,High School,7900,1485789793.38,health,LB
+8800,8800,25-44,2.0,Expats,High School,13000,1485789793.38,health,LB
+8801,8801,45+,2.0,Expats,High School,2900,1485789793.38,health,LB
+8802,8802,18-24,1.0,Locals,Graduated,51000,1485789793.38,health,LB
+8803,8803,25-44,1.0,Locals,Graduated,110000,1485789793.38,health,LB
+8804,8804,45+,1.0,Locals,Graduated,31000,1485789793.38,health,LB
+8805,8805,18-24,2.0,Locals,Graduated,52000,1485789793.38,health,LB
+8806,8806,25-44,2.0,Locals,Graduated,130000,1485789793.38,health,LB
+8807,8807,45+,2.0,Locals,Graduated,33000,1485789793.38,health,LB
+8808,8808,18-24,1.0,Locals,No Degree,80000,1485789793.38,health,LB
+8809,8809,25-44,1.0,Locals,No Degree,130000,1485789793.38,health,LB
+8810,8810,45+,1.0,Locals,No Degree,62000,1485789793.38,health,LB
+8811,8811,18-24,2.0,Locals,No Degree,70000,1485789793.38,health,LB
+8812,8812,25-44,2.0,Locals,No Degree,140000,1485789793.38,health,LB
+8813,8813,45+,2.0,Locals,No Degree,88000,1485789793.38,health,LB
+8814,8814,18-24,1.0,Locals,High School,42000,1485789793.38,health,LB
+8815,8815,25-44,1.0,Locals,High School,33000,1485789793.38,health,LB
+8816,8816,45+,1.0,Locals,High School,10000,1485789793.38,health,LB
+8817,8817,18-24,2.0,Locals,High School,54000,1485789793.38,health,LB
+8818,8818,25-44,2.0,Locals,High School,37000,1485789793.38,health,LB
+8819,8819,45+,2.0,Locals,High School,12000,1485789793.38,health,LB
+8820,8820,18-24,1.0,Expats,Graduated,13000,1485789793.38,health,LY
+8821,8821,25-44,1.0,Expats,Graduated,38000,1485789793.38,health,LY
+8822,8822,45+,1.0,Expats,Graduated,5100,1485789793.38,health,LY
+8823,8823,18-24,2.0,Expats,Graduated,4400,1485789793.38,health,LY
+8824,8824,25-44,2.0,Expats,Graduated,12000,1485789793.38,health,LY
+8825,8825,45+,2.0,Expats,Graduated,2500,1485789793.38,health,LY
+8826,8826,18-24,1.0,Expats,No Degree,19000,1485789793.38,health,LY
+8827,8827,25-44,1.0,Expats,No Degree,42000,1485789793.38,health,LY
+8828,8828,45+,1.0,Expats,No Degree,6500,1485789793.38,health,LY
+8829,8829,18-24,2.0,Expats,No Degree,5800,1485789793.38,health,LY
+8830,8830,25-44,2.0,Expats,No Degree,12000,1485789793.38,health,LY
+8831,8831,45+,2.0,Expats,No Degree,3300,1485789793.38,health,LY
+8832,8832,18-24,1.0,Expats,High School,6000,1485789793.38,health,LY
+8833,8833,25-44,1.0,Expats,High School,9900,1485789793.38,health,LY
+8834,8834,45+,1.0,Expats,High School,1600,1485789793.38,health,LY
+8835,8835,18-24,2.0,Expats,High School,2800,1485789793.38,health,LY
+8836,8836,25-44,2.0,Expats,High School,3200,1485789793.38,health,LY
+8837,8837,45+,2.0,Expats,High School,660,1485789793.38,health,LY
+8838,8838,18-24,1.0,Locals,Graduated,76000,1485789793.38,health,LY
+8839,8839,25-44,1.0,Locals,Graduated,180000,1485789793.38,health,LY
+8840,8840,45+,1.0,Locals,Graduated,30000,1485789793.38,health,LY
+8841,8841,18-24,2.0,Locals,Graduated,61000,1485789793.38,health,LY
+8842,8842,25-44,2.0,Locals,Graduated,120000,1485789793.38,health,LY
+8843,8843,45+,2.0,Locals,Graduated,16000,1485789793.38,health,LY
+8844,8844,18-24,1.0,Locals,No Degree,69000,1485789793.38,health,LY
+8845,8845,25-44,1.0,Locals,No Degree,160000,1485789793.38,health,LY
+8846,8846,45+,1.0,Locals,No Degree,39000,1485789793.38,health,LY
+8847,8847,18-24,2.0,Locals,No Degree,65000,1485789793.38,health,LY
+8848,8848,25-44,2.0,Locals,No Degree,130000,1485789793.38,health,LY
+8849,8849,45+,2.0,Locals,No Degree,37000,1485789793.38,health,LY
+8850,8850,18-24,1.0,Locals,High School,43000,1485789793.38,health,LY
+8851,8851,25-44,1.0,Locals,High School,42000,1485789793.38,health,LY
+8852,8852,45+,1.0,Locals,High School,8600,1485789793.38,health,LY
+8853,8853,18-24,2.0,Locals,High School,47000,1485789793.38,health,LY
+8854,8854,25-44,2.0,Locals,High School,31000,1485789793.38,health,LY
+8855,8855,45+,2.0,Locals,High School,5100,1485789793.38,health,LY
+8856,8856,18-24,1.0,Expats,Graduated,97000,1485789793.38,health,MA
+8857,8857,25-44,1.0,Expats,Graduated,84000,1485789793.38,health,MA
+8858,8858,45+,1.0,Expats,Graduated,13000,1485789793.38,health,MA
+8859,8859,18-24,2.0,Expats,Graduated,32000,1485789793.38,health,MA
+8860,8860,25-44,2.0,Expats,Graduated,31000,1485789793.38,health,MA
+8861,8861,45+,2.0,Expats,Graduated,5100,1485789793.38,health,MA
+8862,8862,18-24,1.0,Expats,No Degree,38000,1485789793.38,health,MA
+8863,8863,25-44,1.0,Expats,No Degree,55000,1485789793.38,health,MA
+8864,8864,45+,1.0,Expats,No Degree,13000,1485789793.38,health,MA
+8865,8865,18-24,2.0,Expats,No Degree,24000,1485789793.38,health,MA
+8866,8866,25-44,2.0,Expats,No Degree,30000,1485789793.38,health,MA
+8867,8867,45+,2.0,Expats,No Degree,6900,1485789793.38,health,MA
+8868,8868,18-24,1.0,Expats,High School,35000,1485789793.38,health,MA
+8869,8869,25-44,1.0,Expats,High School,22000,1485789793.38,health,MA
+8870,8870,45+,1.0,Expats,High School,4200,1485789793.38,health,MA
+8871,8871,18-24,2.0,Expats,High School,14000,1485789793.38,health,MA
+8872,8872,25-44,2.0,Expats,High School,9200,1485789793.38,health,MA
+8873,8873,45+,2.0,Expats,High School,2200,1485789793.38,health,MA
+8874,8874,18-24,1.0,Locals,Graduated,640000,1485789793.38,health,MA
+8875,8875,25-44,1.0,Locals,Graduated,710000,1485789793.38,health,MA
+8876,8876,45+,1.0,Locals,Graduated,110000,1485789793.38,health,MA
+8877,8877,18-24,2.0,Locals,Graduated,370000,1485789793.38,health,MA
+8878,8878,25-44,2.0,Locals,Graduated,350000,1485789793.38,health,MA
+8879,8879,45+,2.0,Locals,Graduated,47000,1485789793.38,health,MA
+8880,8880,18-24,1.0,Locals,No Degree,540000,1485789793.38,health,MA
+8881,8881,25-44,1.0,Locals,No Degree,800000,1485789793.38,health,MA
+8882,8882,45+,1.0,Locals,No Degree,190000,1485789793.38,health,MA
+8883,8883,18-24,2.0,Locals,No Degree,400000,1485789793.38,health,MA
+8884,8884,25-44,2.0,Locals,No Degree,410000,1485789793.38,health,MA
+8885,8885,45+,2.0,Locals,No Degree,93000,1485789793.38,health,MA
+8886,8886,18-24,1.0,Locals,High School,270000,1485789793.38,health,MA
+8887,8887,25-44,1.0,Locals,High School,190000,1485789793.38,health,MA
+8888,8888,45+,1.0,Locals,High School,38000,1485789793.38,health,MA
+8889,8889,18-24,2.0,Locals,High School,190000,1485789793.38,health,MA
+8890,8890,25-44,2.0,Locals,High School,100000,1485789793.38,health,MA
+8891,8891,45+,2.0,Locals,High School,19000,1485789793.38,health,MA
+8892,8892,18-24,1.0,Expats,Graduated,29000,1485789793.38,health,OM
+8893,8893,25-44,1.0,Expats,Graduated,130000,1485789793.38,health,OM
+8894,8894,45+,1.0,Expats,Graduated,15000,1485789793.38,health,OM
+8895,8895,18-24,2.0,Expats,Graduated,5700,1485789793.38,health,OM
+8896,8896,25-44,2.0,Expats,Graduated,41000,1485789793.38,health,OM
+8897,8897,45+,2.0,Expats,Graduated,6300,1485789793.38,health,OM
+8898,8898,18-24,1.0,Expats,No Degree,57000,1485789793.38,health,OM
+8899,8899,25-44,1.0,Expats,No Degree,120000,1485789793.38,health,OM
+8900,8900,45+,1.0,Expats,No Degree,14000,1485789793.38,health,OM
+8901,8901,18-24,2.0,Expats,No Degree,14000,1485789793.38,health,OM
+8902,8902,25-44,2.0,Expats,No Degree,29000,1485789793.38,health,OM
+8903,8903,45+,2.0,Expats,No Degree,4800,1485789793.38,health,OM
+8904,8904,18-24,1.0,Expats,High School,10000,1485789793.38,health,OM
+8905,8905,25-44,1.0,Expats,High School,30000,1485789793.38,health,OM
+8906,8906,45+,1.0,Expats,High School,4100,1485789793.38,health,OM
+8907,8907,18-24,2.0,Expats,High School,3900,1485789793.38,health,OM
+8908,8908,25-44,2.0,Expats,High School,10000,1485789793.38,health,OM
+8909,8909,45+,2.0,Expats,High School,1800,1485789793.38,health,OM
+8910,8910,18-24,1.0,Locals,Graduated,8500,1485789793.38,health,OM
+8911,8911,25-44,1.0,Locals,Graduated,25000,1485789793.38,health,OM
+8912,8912,45+,1.0,Locals,Graduated,1300,1485789793.38,health,OM
+8913,8913,18-24,2.0,Locals,Graduated,1800,1485789793.38,health,OM
+8914,8914,25-44,2.0,Locals,Graduated,5100,1485789793.38,health,OM
+8915,8915,45+,2.0,Locals,Graduated,230,1485789793.38,health,OM
+8916,8916,18-24,1.0,Locals,No Degree,12000,1485789793.38,health,OM
+8917,8917,25-44,1.0,Locals,No Degree,21000,1485789793.38,health,OM
+8918,8918,45+,1.0,Locals,No Degree,2200,1485789793.38,health,OM
+8919,8919,18-24,2.0,Locals,No Degree,3500,1485789793.38,health,OM
+8920,8920,25-44,2.0,Locals,No Degree,6200,1485789793.38,health,OM
+8921,8921,45+,2.0,Locals,No Degree,620,1485789793.38,health,OM
+8922,8922,18-24,1.0,Locals,High School,5000,1485789793.38,health,OM
+8923,8923,25-44,1.0,Locals,High School,7300,1485789793.38,health,OM
+8924,8924,45+,1.0,Locals,High School,590,1485789793.38,health,OM
+8925,8925,18-24,2.0,Locals,High School,1500,1485789793.38,health,OM
+8926,8926,25-44,2.0,Locals,High School,1200,1485789793.38,health,OM
+8927,8927,45+,2.0,Locals,High School,100,1485789793.38,health,OM
+8928,8928,18-24,1.0,Expats,Graduated,81000,1485789793.38,health,QA
+8929,8929,25-44,1.0,Expats,Graduated,360000,1485789793.38,health,QA
+8930,8930,45+,1.0,Expats,Graduated,39000,1485789793.38,health,QA
+8931,8931,18-24,2.0,Expats,Graduated,19000,1485789793.38,health,QA
+8932,8932,25-44,2.0,Expats,Graduated,120000,1485789793.38,health,QA
+8933,8933,45+,2.0,Expats,Graduated,14000,1485789793.38,health,QA
+8934,8934,18-24,1.0,Expats,No Degree,120000,1485789793.38,health,QA
+8935,8935,25-44,1.0,Expats,No Degree,240000,1485789793.38,health,QA
+8936,8936,45+,1.0,Expats,No Degree,34000,1485789793.38,health,QA
+8937,8937,18-24,2.0,Expats,No Degree,24000,1485789793.38,health,QA
+8938,8938,25-44,2.0,Expats,No Degree,57000,1485789793.38,health,QA
+8939,8939,45+,2.0,Expats,No Degree,11000,1485789793.38,health,QA
+8940,8940,18-24,1.0,Expats,High School,30000,1485789793.38,health,QA
+8941,8941,25-44,1.0,Expats,High School,84000,1485789793.38,health,QA
+8942,8942,45+,1.0,Expats,High School,11000,1485789793.38,health,QA
+8943,8943,18-24,2.0,Expats,High School,9600,1485789793.38,health,QA
+8944,8944,25-44,2.0,Expats,High School,30000,1485789793.38,health,QA
+8945,8945,45+,2.0,Expats,High School,3900,1485789793.38,health,QA
+8946,8946,18-24,1.0,Locals,Graduated,2300,1485789793.38,health,QA
+8947,8947,25-44,1.0,Locals,Graduated,6100,1485789793.38,health,QA
+8948,8948,45+,1.0,Locals,Graduated,670,1485789793.38,health,QA
+8949,8949,18-24,2.0,Locals,Graduated,820,1485789793.38,health,QA
+8950,8950,25-44,2.0,Locals,Graduated,2900,1485789793.38,health,QA
+8951,8951,45+,2.0,Locals,Graduated,300,1485789793.38,health,QA
+8952,8952,18-24,1.0,Locals,No Degree,3400,1485789793.38,health,QA
+8953,8953,25-44,1.0,Locals,No Degree,7200,1485789793.38,health,QA
+8954,8954,45+,1.0,Locals,No Degree,1100,1485789793.38,health,QA
+8955,8955,18-24,2.0,Locals,No Degree,1600,1485789793.38,health,QA
+8956,8956,25-44,2.0,Locals,No Degree,3800,1485789793.38,health,QA
+8957,8957,45+,2.0,Locals,No Degree,600,1485789793.38,health,QA
+8958,8958,18-24,1.0,Locals,High School,1000,1485789793.38,health,QA
+8959,8959,25-44,1.0,Locals,High School,1800,1485789793.38,health,QA
+8960,8960,45+,1.0,Locals,High School,180,1485789793.38,health,QA
+8961,8961,18-24,2.0,Locals,High School,810,1485789793.38,health,QA
+8962,8962,25-44,2.0,Locals,High School,690,1485789793.38,health,QA
+8963,8963,45+,2.0,Locals,High School,60,1485789793.38,health,QA
+8964,8964,18-24,1.0,Expats,Graduated,240000,1485789793.38,health,SA
+8965,8965,25-44,1.0,Expats,Graduated,1300000,1485789793.38,health,SA
+8966,8966,45+,1.0,Expats,Graduated,150000,1485789793.38,health,SA
+8967,8967,18-24,2.0,Expats,Graduated,56000,1485789793.38,health,SA
+8968,8968,25-44,2.0,Expats,Graduated,340000,1485789793.38,health,SA
+8969,8969,45+,2.0,Expats,Graduated,44000,1485789793.38,health,SA
+8970,8970,18-24,1.0,Expats,No Degree,73000,1485789793.38,health,SA
+8971,8971,25-44,1.0,Expats,No Degree,240000,1485789793.38,health,SA
+8972,8972,45+,1.0,Expats,No Degree,37000,1485789793.38,health,SA
+8973,8973,18-24,2.0,Expats,No Degree,29000,1485789793.38,health,SA
+8974,8974,25-44,2.0,Expats,No Degree,85000,1485789793.38,health,SA
+8975,8975,45+,2.0,Expats,No Degree,16000,1485789793.38,health,SA
+8976,8976,18-24,1.0,Expats,High School,89000,1485789793.38,health,SA
+8977,8977,25-44,1.0,Expats,High School,290000,1485789793.38,health,SA
+8978,8978,45+,1.0,Expats,High School,37000,1485789793.38,health,SA
+8979,8979,18-24,2.0,Expats,High School,35000,1485789793.38,health,SA
+8980,8980,25-44,2.0,Expats,High School,92000,1485789793.38,health,SA
+8981,8981,45+,2.0,Expats,High School,13000,1485789793.38,health,SA
+8982,8982,18-24,1.0,Locals,Graduated,120000,1485789793.38,health,SA
+8983,8983,25-44,1.0,Locals,Graduated,510000,1485789793.38,health,SA
+8984,8984,45+,1.0,Locals,Graduated,59000,1485789793.38,health,SA
+8985,8985,18-24,2.0,Locals,Graduated,39000,1485789793.38,health,SA
+8986,8986,25-44,2.0,Locals,Graduated,150000,1485789793.38,health,SA
+8987,8987,45+,2.0,Locals,Graduated,17000,1485789793.38,health,SA
+8988,8988,18-24,1.0,Locals,No Degree,690000,1485789793.38,health,SA
+8989,8989,25-44,1.0,Locals,No Degree,1400000,1485789793.38,health,SA
+8990,8990,45+,1.0,Locals,No Degree,210000,1485789793.38,health,SA
+8991,8991,18-24,2.0,Locals,No Degree,190000,1485789793.38,health,SA
+8992,8992,25-44,2.0,Locals,No Degree,290000,1485789793.38,health,SA
+8993,8993,45+,2.0,Locals,No Degree,54000,1485789793.38,health,SA
+8994,8994,18-24,1.0,Locals,High School,70000,1485789793.38,health,SA
+8995,8995,25-44,1.0,Locals,High School,180000,1485789793.38,health,SA
+8996,8996,45+,1.0,Locals,High School,23000,1485789793.38,health,SA
+8997,8997,18-24,2.0,Locals,High School,34000,1485789793.38,health,SA
+8998,8998,25-44,2.0,Locals,High School,49000,1485789793.38,health,SA
+8999,8999,45+,2.0,Locals,High School,6200,1485789793.38,health,SA
+9000,9000,18-24,1.0,Expats,Graduated,7900,1485789793.38,health,SO
+9001,9001,25-44,1.0,Expats,Graduated,8400,1485789793.38,health,SO
+9002,9002,45+,1.0,Expats,Graduated,1100,1485789793.38,health,SO
+9003,9003,18-24,2.0,Expats,Graduated,3300,1485789793.38,health,SO
+9004,9004,25-44,2.0,Expats,Graduated,2200,1485789793.38,health,SO
+9005,9005,45+,2.0,Expats,Graduated,320,1485789793.38,health,SO
+9006,9006,18-24,1.0,Expats,No Degree,2100,1485789793.38,health,SO
+9007,9007,25-44,1.0,Expats,No Degree,3100,1485789793.38,health,SO
+9008,9008,45+,1.0,Expats,No Degree,590,1485789793.38,health,SO
+9009,9009,18-24,2.0,Expats,No Degree,1400,1485789793.38,health,SO
+9010,9010,25-44,2.0,Expats,No Degree,1100,1485789793.38,health,SO
+9011,9011,45+,2.0,Expats,No Degree,110,1485789793.38,health,SO
+9012,9012,18-24,1.0,Expats,High School,2100,1485789793.38,health,SO
+9013,9013,25-44,1.0,Expats,High School,1700,1485789793.38,health,SO
+9014,9014,45+,1.0,Expats,High School,310,1485789793.38,health,SO
+9015,9015,18-24,2.0,Expats,High School,1300,1485789793.38,health,SO
+9016,9016,25-44,2.0,Expats,High School,560,1485789793.38,health,SO
+9017,9017,45+,2.0,Expats,High School,60,1485789793.38,health,SO
+9018,9018,18-24,1.0,Locals,Graduated,23000,1485789793.38,health,SO
+9019,9019,25-44,1.0,Locals,Graduated,24000,1485789793.38,health,SO
+9020,9020,45+,1.0,Locals,Graduated,1800,1485789793.38,health,SO
+9021,9021,18-24,2.0,Locals,Graduated,15000,1485789793.38,health,SO
+9022,9022,25-44,2.0,Locals,Graduated,9600,1485789793.38,health,SO
+9023,9023,45+,2.0,Locals,Graduated,1100,1485789793.38,health,SO
+9024,9024,18-24,1.0,Locals,No Degree,28000,1485789793.38,health,SO
+9025,9025,25-44,1.0,Locals,No Degree,18000,1485789793.38,health,SO
+9026,9026,45+,1.0,Locals,No Degree,3400,1485789793.38,health,SO
+9027,9027,18-24,2.0,Locals,No Degree,31000,1485789793.38,health,SO
+9028,9028,25-44,2.0,Locals,No Degree,15000,1485789793.38,health,SO
+9029,9029,45+,2.0,Locals,No Degree,1400,1485789793.38,health,SO
+9030,9030,18-24,1.0,Locals,High School,8700,1485789793.38,health,SO
+9031,9031,25-44,1.0,Locals,High School,4600,1485789793.38,health,SO
+9032,9032,45+,1.0,Locals,High School,480,1485789793.38,health,SO
+9033,9033,18-24,2.0,Locals,High School,6300,1485789793.38,health,SO
+9034,9034,25-44,2.0,Locals,High School,2300,1485789793.38,health,SO
+9035,9035,45+,2.0,Locals,High School,370,1485789793.38,health,SO
+9036,9036,18-24,1.0,Expats,Graduated,34000,1485789793.38,health,TN
+9037,9037,25-44,1.0,Expats,Graduated,40000,1485789793.38,health,TN
+9038,9038,45+,1.0,Expats,Graduated,8800,1485789793.38,health,TN
+9039,9039,18-24,2.0,Expats,Graduated,15000,1485789793.38,health,TN
+9040,9040,25-44,2.0,Expats,Graduated,19000,1485789793.38,health,TN
+9041,9041,45+,2.0,Expats,Graduated,4300,1485789793.38,health,TN
+9042,9042,18-24,1.0,Expats,No Degree,16000,1485789793.38,health,TN
+9043,9043,25-44,1.0,Expats,No Degree,26000,1485789793.38,health,TN
+9044,9044,45+,1.0,Expats,No Degree,6900,1485789793.38,health,TN
+9045,9045,18-24,2.0,Expats,No Degree,11000,1485789793.38,health,TN
+9046,9046,25-44,2.0,Expats,No Degree,16000,1485789793.38,health,TN
+9047,9047,45+,2.0,Expats,No Degree,4400,1485789793.38,health,TN
+9048,9048,18-24,1.0,Expats,High School,14000,1485789793.38,health,TN
+9049,9049,25-44,1.0,Expats,High School,11000,1485789793.38,health,TN
+9050,9050,45+,1.0,Expats,High School,3000,1485789793.38,health,TN
+9051,9051,18-24,2.0,Expats,High School,8000,1485789793.38,health,TN
+9052,9052,25-44,2.0,Expats,High School,5700,1485789793.38,health,TN
+9053,9053,45+,2.0,Expats,High School,2200,1485789793.38,health,TN
+9054,9054,18-24,1.0,Locals,Graduated,190000,1485789793.38,health,TN
+9055,9055,25-44,1.0,Locals,Graduated,360000,1485789793.38,health,TN
+9056,9056,45+,1.0,Locals,Graduated,81000,1485789793.38,health,TN
+9057,9057,18-24,2.0,Locals,Graduated,200000,1485789793.38,health,TN
+9058,9058,25-44,2.0,Locals,Graduated,350000,1485789793.38,health,TN
+9059,9059,45+,2.0,Locals,Graduated,46000,1485789793.38,health,TN
+9060,9060,18-24,1.0,Locals,No Degree,170000,1485789793.38,health,TN
+9061,9061,25-44,1.0,Locals,No Degree,310000,1485789793.38,health,TN
+9062,9062,45+,1.0,Locals,No Degree,90000,1485789793.38,health,TN
+9063,9063,18-24,2.0,Locals,No Degree,190000,1485789793.38,health,TN
+9064,9064,25-44,2.0,Locals,No Degree,260000,1485789793.38,health,TN
+9065,9065,45+,2.0,Locals,No Degree,70000,1485789793.38,health,TN
+9066,9066,18-24,1.0,Locals,High School,96000,1485789793.38,health,TN
+9067,9067,25-44,1.0,Locals,High School,110000,1485789793.38,health,TN
+9068,9068,45+,1.0,Locals,High School,33000,1485789793.38,health,TN
+9069,9069,18-24,2.0,Locals,High School,120000,1485789793.38,health,TN
+9070,9070,25-44,2.0,Locals,High School,90000,1485789793.38,health,TN
+9071,9071,45+,2.0,Locals,High School,25000,1485789793.38,health,TN
+9072,9072,18-24,1.0,Expats,Graduated,240000,1485789793.38,health,AE
+9073,9073,25-44,1.0,Expats,Graduated,1100000,1485789793.38,health,AE
+9074,9074,45+,1.0,Expats,Graduated,120000,1485789793.38,health,AE
+9075,9075,18-24,2.0,Expats,Graduated,78000,1485789793.38,health,AE
+9076,9076,25-44,2.0,Expats,Graduated,530000,1485789793.38,health,AE
+9077,9077,45+,2.0,Expats,Graduated,68000,1485789793.38,health,AE
+9078,9078,18-24,1.0,Expats,No Degree,280000,1485789793.38,health,AE
+9079,9079,25-44,1.0,Expats,No Degree,650000,1485789793.38,health,AE
+9080,9080,45+,1.0,Expats,No Degree,93000,1485789793.38,health,AE
+9081,9081,18-24,2.0,Expats,No Degree,72000,1485789793.38,health,AE
+9082,9082,25-44,2.0,Expats,No Degree,220000,1485789793.38,health,AE
+9083,9083,45+,2.0,Expats,No Degree,51000,1485789793.38,health,AE
+9084,9084,18-24,1.0,Expats,High School,86000,1485789793.38,health,AE
+9085,9085,25-44,1.0,Expats,High School,250000,1485789793.38,health,AE
+9086,9086,45+,1.0,Expats,High School,31000,1485789793.38,health,AE
+9087,9087,18-24,2.0,Expats,High School,42000,1485789793.38,health,AE
+9088,9088,25-44,2.0,Expats,High School,110000,1485789793.38,health,AE
+9089,9089,45+,2.0,Expats,High School,21000,1485789793.38,health,AE
+9090,9090,18-24,1.0,Locals,Graduated,9100,1485789793.38,health,AE
+9091,9091,25-44,1.0,Locals,Graduated,28000,1485789793.38,health,AE
+9092,9092,45+,1.0,Locals,Graduated,2900,1485789793.38,health,AE
+9093,9093,18-24,2.0,Locals,Graduated,4000,1485789793.38,health,AE
+9094,9094,25-44,2.0,Locals,Graduated,15000,1485789793.38,health,AE
+9095,9095,45+,2.0,Locals,Graduated,1100,1485789793.38,health,AE
+9096,9096,18-24,1.0,Locals,No Degree,15000,1485789793.38,health,AE
+9097,9097,25-44,1.0,Locals,No Degree,33000,1485789793.38,health,AE
+9098,9098,45+,1.0,Locals,No Degree,5500,1485789793.38,health,AE
+9099,9099,18-24,2.0,Locals,No Degree,8500,1485789793.38,health,AE
+9100,9100,25-44,2.0,Locals,No Degree,20000,1485789793.38,health,AE
+9101,9101,45+,2.0,Locals,No Degree,2900,1485789793.38,health,AE
+9102,9102,18-24,1.0,Locals,High School,5700,1485789793.38,health,AE
+9103,9103,25-44,1.0,Locals,High School,7600,1485789793.38,health,AE
+9104,9104,45+,1.0,Locals,High School,990,1485789793.38,health,AE
+9105,9105,18-24,2.0,Locals,High School,3200,1485789793.38,health,AE
+9106,9106,25-44,2.0,Locals,High School,3400,1485789793.38,health,AE
+9107,9107,45+,2.0,Locals,High School,390,1485789793.38,health,AE
+9108,9108,18-24,1.0,Expats,Graduated,7500,1485789793.38,health,YE
+9109,9109,25-44,1.0,Expats,Graduated,14000,1485789793.38,health,YE
+9110,9110,45+,1.0,Expats,Graduated,1600,1485789793.38,health,YE
+9111,9111,18-24,2.0,Expats,Graduated,1500,1485789793.38,health,YE
+9112,9112,25-44,2.0,Expats,Graduated,2700,1485789793.38,health,YE
+9113,9113,45+,2.0,Expats,Graduated,340,1485789793.38,health,YE
+9114,9114,18-24,1.0,Expats,No Degree,4900,1485789793.38,health,YE
+9115,9115,25-44,1.0,Expats,No Degree,7600,1485789793.38,health,YE
+9116,9116,45+,1.0,Expats,No Degree,950,1485789793.38,health,YE
+9117,9117,18-24,2.0,Expats,No Degree,2500,1485789793.38,health,YE
+9118,9118,25-44,2.0,Expats,No Degree,2400,1485789793.38,health,YE
+9119,9119,45+,2.0,Expats,No Degree,410,1485789793.38,health,YE
+9120,9120,18-24,1.0,Expats,High School,3300,1485789793.38,health,YE
+9121,9121,25-44,1.0,Expats,High School,3300,1485789793.38,health,YE
+9122,9122,45+,1.0,Expats,High School,410,1485789793.38,health,YE
+9123,9123,18-24,2.0,Expats,High School,1200,1485789793.38,health,YE
+9124,9124,25-44,2.0,Expats,High School,830,1485789793.38,health,YE
+9125,9125,45+,2.0,Expats,High School,90,1485789793.38,health,YE
+9126,9126,18-24,1.0,Locals,Graduated,55000,1485789793.38,health,YE
+9127,9127,25-44,1.0,Locals,Graduated,120000,1485789793.38,health,YE
+9128,9128,45+,1.0,Locals,Graduated,11000,1485789793.38,health,YE
+9129,9129,18-24,2.0,Locals,Graduated,12000,1485789793.38,health,YE
+9130,9130,25-44,2.0,Locals,Graduated,22000,1485789793.38,health,YE
+9131,9131,45+,2.0,Locals,Graduated,1500,1485789793.38,health,YE
+9132,9132,18-24,1.0,Locals,No Degree,64000,1485789793.38,health,YE
+9133,9133,25-44,1.0,Locals,No Degree,91000,1485789793.38,health,YE
+9134,9134,45+,1.0,Locals,No Degree,14000,1485789793.38,health,YE
+9135,9135,18-24,2.0,Locals,No Degree,14000,1485789793.38,health,YE
+9136,9136,25-44,2.0,Locals,No Degree,17000,1485789793.38,health,YE
+9137,9137,45+,2.0,Locals,No Degree,2500,1485789793.38,health,YE
+9138,9138,18-24,1.0,Locals,High School,36000,1485789793.38,health,YE
+9139,9139,25-44,1.0,Locals,High School,34000,1485789793.38,health,YE
+9140,9140,45+,1.0,Locals,High School,3300,1485789793.38,health,YE
+9141,9141,18-24,2.0,Locals,High School,11000,1485789793.38,health,YE
+9142,9142,25-44,2.0,Locals,High School,6000,1485789793.38,health,YE
+9143,9143,45+,2.0,Locals,High School,520,1485789793.38,health,YE
+9144,9144,18-24,1.0,Expats,Graduated,11000,1485789793.38,health,PS
+9145,9145,25-44,1.0,Expats,Graduated,18000,1485789793.38,health,PS
+9146,9146,45+,1.0,Expats,Graduated,2900,1485789793.38,health,PS
+9147,9147,18-24,2.0,Expats,Graduated,8200,1485789793.38,health,PS
+9148,9148,25-44,2.0,Expats,Graduated,14000,1485789793.38,health,PS
+9149,9149,45+,2.0,Expats,Graduated,2000,1485789793.38,health,PS
+9150,9150,18-24,1.0,Expats,No Degree,3700,1485789793.38,health,PS
+9151,9151,25-44,1.0,Expats,No Degree,5100,1485789793.38,health,PS
+9152,9152,45+,1.0,Expats,No Degree,1400,1485789793.38,health,PS
+9153,9153,18-24,2.0,Expats,No Degree,4100,1485789793.38,health,PS
+9154,9154,25-44,2.0,Expats,No Degree,5700,1485789793.38,health,PS
+9155,9155,45+,2.0,Expats,No Degree,2300,1485789793.38,health,PS
+9156,9156,18-24,1.0,Expats,High School,6400,1485789793.38,health,PS
+9157,9157,25-44,1.0,Expats,High School,3800,1485789793.38,health,PS
+9158,9158,45+,1.0,Expats,High School,780,1485789793.38,health,PS
+9159,9159,18-24,2.0,Expats,High School,7100,1485789793.38,health,PS
+9160,9160,25-44,2.0,Expats,High School,3800,1485789793.38,health,PS
+9161,9161,45+,2.0,Expats,High School,900,1485789793.38,health,PS
+9162,9162,18-24,1.0,Locals,Graduated,46000,1485789793.38,health,PS
+9163,9163,25-44,1.0,Locals,Graduated,77000,1485789793.38,health,PS
+9164,9164,45+,1.0,Locals,Graduated,11000,1485789793.38,health,PS
+9165,9165,18-24,2.0,Locals,Graduated,43000,1485789793.38,health,PS
+9166,9166,25-44,2.0,Locals,Graduated,65000,1485789793.38,health,PS
+9167,9167,45+,2.0,Locals,Graduated,6700,1485789793.38,health,PS
+9168,9168,18-24,1.0,Locals,No Degree,26000,1485789793.38,health,PS
+9169,9169,25-44,1.0,Locals,No Degree,34000,1485789793.38,health,PS
+9170,9170,45+,1.0,Locals,No Degree,11000,1485789793.38,health,PS
+9171,9171,18-24,2.0,Locals,No Degree,28000,1485789793.38,health,PS
+9172,9172,25-44,2.0,Locals,No Degree,42000,1485789793.38,health,PS
+9173,9173,45+,2.0,Locals,No Degree,15000,1485789793.38,health,PS
+9174,9174,18-24,1.0,Locals,High School,30000,1485789793.38,health,PS
+9175,9175,25-44,1.0,Locals,High School,18000,1485789793.38,health,PS
+9176,9176,45+,1.0,Locals,High School,3900,1485789793.38,health,PS
+9177,9177,18-24,2.0,Locals,High School,36000,1485789793.38,health,PS
+9178,9178,25-44,2.0,Locals,High School,18000,1485789793.38,health,PS
+9179,9179,45+,2.0,Locals,High School,3100,1485789793.38,health,PS

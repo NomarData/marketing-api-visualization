@@ -237,12 +237,12 @@ function stackedHorizontalBar(){
             redValue:  averageScore.redScore
         }];
         var greenData = [{
-            name: "Health Audience",
+            name: "Left Audience",
             score:  averageScore.greenScore,
             audience:  averageScore.greenAudience,
         }];
         var redData = [{
-            name: "Luxury Audience",
+            name: "Right Audience",
             score:  averageScore.redScore,
             audience:  averageScore.redAudience,
         }];

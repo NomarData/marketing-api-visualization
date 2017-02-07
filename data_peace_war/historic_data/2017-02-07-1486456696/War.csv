@@ -1,0 +1,1837 @@
+,ages_ranges,genders,behavior,scholarities,audience,topic,country_code
+9180,18-24,1,Expats,Graduated,757739,War,Alabama
+9181,25-44,1,Expats,Graduated,878020,War,Alabama
+9182,45+,1,Expats,Graduated,346456,War,Alabama
+9183,18-24,2,Expats,Graduated,267167,War,Alabama
+9184,25-44,2,Expats,Graduated,635225,War,Alabama
+9185,45+,2,Expats,Graduated,269150,War,Alabama
+9186,18-24,1,Expats,No Degree,860980,War,Alabama
+9187,25-44,1,Expats,No Degree,379180,War,Alabama
+9188,45+,1,Expats,No Degree,62532,War,Alabama
+9189,18-24,2,Expats,No Degree,627108,War,Alabama
+9190,25-44,2,Expats,No Degree,862662,War,Alabama
+9191,45+,2,Expats,No Degree,727253,War,Alabama
+9192,18-24,1,Expats,High School,412838,War,Alabama
+9193,25-44,1,Expats,High School,786027,War,Alabama
+9194,45+,1,Expats,High School,5752,War,Alabama
+9195,18-24,2,Expats,High School,566700,War,Alabama
+9196,25-44,2,Expats,High School,954065,War,Alabama
+9197,45+,2,Expats,High School,569330,War,Alabama
+9198,18-24,1,Locals,Graduated,439417,War,Alabama
+9199,25-44,1,Locals,Graduated,938580,War,Alabama
+9200,45+,1,Locals,Graduated,743056,War,Alabama
+9201,18-24,2,Locals,Graduated,432752,War,Alabama
+9202,25-44,2,Locals,Graduated,829404,War,Alabama
+9203,45+,2,Locals,Graduated,114912,War,Alabama
+9204,18-24,1,Locals,No Degree,188818,War,Alabama
+9205,25-44,1,Locals,No Degree,834065,War,Alabama
+9206,45+,1,Locals,No Degree,431655,War,Alabama
+9207,18-24,2,Locals,No Degree,562306,War,Alabama
+9208,25-44,2,Locals,No Degree,679195,War,Alabama
+9209,45+,2,Locals,No Degree,213726,War,Alabama
+9210,18-24,1,Locals,High School,225274,War,Alabama
+9211,25-44,1,Locals,High School,899213,War,Alabama
+9212,45+,1,Locals,High School,580634,War,Alabama
+9213,18-24,2,Locals,High School,941551,War,Alabama
+9214,25-44,2,Locals,High School,44566,War,Alabama
+9215,45+,2,Locals,High School,675591,War,Alabama
+9216,18-24,1,Expats,Graduated,587916,War,Alaska
+9217,25-44,1,Expats,Graduated,380887,War,Alaska
+9218,45+,1,Expats,Graduated,831519,War,Alaska
+9219,18-24,2,Expats,Graduated,676170,War,Alaska
+9220,25-44,2,Expats,Graduated,131604,War,Alaska
+9221,45+,2,Expats,Graduated,43257,War,Alaska
+9222,18-24,1,Expats,No Degree,459154,War,Alaska
+9223,25-44,1,Expats,No Degree,443573,War,Alaska
+9224,45+,1,Expats,No Degree,11991,War,Alaska
+9225,18-24,2,Expats,No Degree,856954,War,Alaska
+9226,25-44,2,Expats,No Degree,931053,War,Alaska
+9227,45+,2,Expats,No Degree,286267,War,Alaska
+9228,18-24,1,Expats,High School,408530,War,Alaska
+9229,25-44,1,Expats,High School,643011,War,Alaska
+9230,45+,1,Expats,High School,63831,War,Alaska
+9231,18-24,2,Expats,High School,596519,War,Alaska
+9232,25-44,2,Expats,High School,399122,War,Alaska
+9233,45+,2,Expats,High School,87033,War,Alaska
+9234,18-24,1,Locals,Graduated,429560,War,Alaska
+9235,25-44,1,Locals,Graduated,540727,War,Alaska
+9236,45+,1,Locals,Graduated,936212,War,Alaska
+9237,18-24,2,Locals,Graduated,953261,War,Alaska
+9238,25-44,2,Locals,Graduated,730644,War,Alaska
+9239,45+,2,Locals,Graduated,255620,War,Alaska
+9240,18-24,1,Locals,No Degree,962638,War,Alaska
+9241,25-44,1,Locals,No Degree,356296,War,Alaska
+9242,45+,1,Locals,No Degree,780802,War,Alaska
+9243,18-24,2,Locals,No Degree,452454,War,Alaska
+9244,25-44,2,Locals,No Degree,6767,War,Alaska
+9245,45+,2,Locals,No Degree,152955,War,Alaska
+9246,18-24,1,Locals,High School,671472,War,Alaska
+9247,25-44,1,Locals,High School,923345,War,Alaska
+9248,45+,1,Locals,High School,952148,War,Alaska
+9249,18-24,2,Locals,High School,342595,War,Alaska
+9250,25-44,2,Locals,High School,87774,War,Alaska
+9251,45+,2,Locals,High School,804267,War,Alaska
+9252,18-24,1,Expats,Graduated,556615,War,Arizona
+9253,25-44,1,Expats,Graduated,376579,War,Arizona
+9254,45+,1,Expats,Graduated,538256,War,Arizona
+9255,18-24,2,Expats,Graduated,233128,War,Arizona
+9256,25-44,2,Expats,Graduated,402591,War,Arizona
+9257,45+,2,Expats,Graduated,604946,War,Arizona
+9258,18-24,1,Expats,No Degree,659544,War,Arizona
+9259,25-44,1,Expats,No Degree,129704,War,Arizona
+9260,45+,1,Expats,No Degree,770990,War,Arizona
+9261,18-24,2,Expats,No Degree,573787,War,Arizona
+9262,25-44,2,Expats,No Degree,56033,War,Arizona
+9263,45+,2,Expats,No Degree,352956,War,Arizona
+9264,18-24,1,Expats,High School,630276,War,Arizona
+9265,25-44,1,Expats,High School,645651,War,Arizona
+9266,45+,1,Expats,High School,161273,War,Arizona
+9267,18-24,2,Expats,High School,439185,War,Arizona
+9268,25-44,2,Expats,High School,711173,War,Arizona
+9269,45+,2,Expats,High School,485049,War,Arizona
+9270,18-24,1,Locals,Graduated,752459,War,Arizona
+9271,25-44,1,Locals,Graduated,974400,War,Arizona
+9272,45+,1,Locals,Graduated,786759,War,Arizona
+9273,18-24,2,Locals,Graduated,629849,War,Arizona
+9274,25-44,2,Locals,Graduated,191416,War,Arizona
+9275,45+,2,Locals,Graduated,389072,War,Arizona
+9276,18-24,1,Locals,No Degree,735262,War,Arizona
+9277,25-44,1,Locals,No Degree,908414,War,Arizona
+9278,45+,1,Locals,No Degree,437308,War,Arizona
+9279,18-24,2,Locals,No Degree,233544,War,Arizona
+9280,25-44,2,Locals,No Degree,5090,War,Arizona
+9281,45+,2,Locals,No Degree,964891,War,Arizona
+9282,18-24,1,Locals,High School,897733,War,Arizona
+9283,25-44,1,Locals,High School,828164,War,Arizona
+9284,45+,1,Locals,High School,57510,War,Arizona
+9285,18-24,2,Locals,High School,550872,War,Arizona
+9286,25-44,2,Locals,High School,308073,War,Arizona
+9287,45+,2,Locals,High School,667164,War,Arizona
+9288,18-24,1,Expats,Graduated,945277,War,Arkansas
+9289,25-44,1,Expats,Graduated,59132,War,Arkansas
+9290,45+,1,Expats,Graduated,789150,War,Arkansas
+9291,18-24,2,Expats,Graduated,803408,War,Arkansas
+9292,25-44,2,Expats,Graduated,272419,War,Arkansas
+9293,45+,2,Expats,Graduated,838997,War,Arkansas
+9294,18-24,1,Expats,No Degree,644214,War,Arkansas
+9295,25-44,1,Expats,No Degree,120722,War,Arkansas
+9296,45+,1,Expats,No Degree,325637,War,Arkansas
+9297,18-24,2,Expats,No Degree,446241,War,Arkansas
+9298,25-44,2,Expats,No Degree,856238,War,Arkansas
+9299,45+,2,Expats,No Degree,187154,War,Arkansas
+9300,18-24,1,Expats,High School,994955,War,Arkansas
+9301,25-44,1,Expats,High School,287064,War,Arkansas
+9302,45+,1,Expats,High School,649799,War,Arkansas
+9303,18-24,2,Expats,High School,332938,War,Arkansas
+9304,25-44,2,Expats,High School,599365,War,Arkansas
+9305,45+,2,Expats,High School,442077,War,Arkansas
+9306,18-24,1,Locals,Graduated,278775,War,Arkansas
+9307,25-44,1,Locals,Graduated,299189,War,Arkansas
+9308,45+,1,Locals,Graduated,998102,War,Arkansas
+9309,18-24,2,Locals,Graduated,586209,War,Arkansas
+9310,25-44,2,Locals,Graduated,800306,War,Arkansas
+9311,45+,2,Locals,Graduated,672185,War,Arkansas
+9312,18-24,1,Locals,No Degree,822700,War,Arkansas
+9313,25-44,1,Locals,No Degree,268434,War,Arkansas
+9314,45+,1,Locals,No Degree,744456,War,Arkansas
+9315,18-24,2,Locals,No Degree,855669,War,Arkansas
+9316,25-44,2,Locals,No Degree,64187,War,Arkansas
+9317,45+,2,Locals,No Degree,829824,War,Arkansas
+9318,18-24,1,Locals,High School,320380,War,Arkansas
+9319,25-44,1,Locals,High School,74248,War,Arkansas
+9320,45+,1,Locals,High School,894803,War,Arkansas
+9321,18-24,2,Locals,High School,344460,War,Arkansas
+9322,25-44,2,Locals,High School,766123,War,Arkansas
+9323,45+,2,Locals,High School,514944,War,Arkansas
+9324,18-24,1,Expats,Graduated,191904,War,California
+9325,25-44,1,Expats,Graduated,629557,War,California
+9326,45+,1,Expats,Graduated,492419,War,California
+9327,18-24,2,Expats,Graduated,613574,War,California
+9328,25-44,2,Expats,Graduated,181568,War,California
+9329,45+,2,Expats,Graduated,252991,War,California
+9330,18-24,1,Expats,No Degree,475935,War,California
+9331,25-44,1,Expats,No Degree,925776,War,California
+9332,45+,1,Expats,No Degree,371263,War,California
+9333,18-24,2,Expats,No Degree,160675,War,California
+9334,25-44,2,Expats,No Degree,547720,War,California
+9335,45+,2,Expats,No Degree,2602,War,California
+9336,18-24,1,Expats,High School,285048,War,California
+9337,25-44,1,Expats,High School,793681,War,California
+9338,45+,1,Expats,High School,39172,War,California
+9339,18-24,2,Expats,High School,806282,War,California
+9340,25-44,2,Expats,High School,928723,War,California
+9341,45+,2,Expats,High School,295814,War,California
+9342,18-24,1,Locals,Graduated,773456,War,California
+9343,25-44,1,Locals,Graduated,461366,War,California
+9344,45+,1,Locals,Graduated,80781,War,California
+9345,18-24,2,Locals,Graduated,338487,War,California
+9346,25-44,2,Locals,Graduated,486140,War,California
+9347,45+,2,Locals,Graduated,77450,War,California
+9348,18-24,1,Locals,No Degree,680301,War,California
+9349,25-44,1,Locals,No Degree,704662,War,California
+9350,45+,1,Locals,No Degree,68192,War,California
+9351,18-24,2,Locals,No Degree,872028,War,California
+9352,25-44,2,Locals,No Degree,72616,War,California
+9353,45+,2,Locals,No Degree,725064,War,California
+9354,18-24,1,Locals,High School,502317,War,California
+9355,25-44,1,Locals,High School,94392,War,California
+9356,45+,1,Locals,High School,890476,War,California
+9357,18-24,2,Locals,High School,7128,War,California
+9358,25-44,2,Locals,High School,580041,War,California
+9359,45+,2,Locals,High School,346832,War,California
+9360,18-24,1,Expats,Graduated,650267,War,Colorado
+9361,25-44,1,Expats,Graduated,968294,War,Colorado
+9362,45+,1,Expats,Graduated,486248,War,Colorado
+9363,18-24,2,Expats,Graduated,348785,War,Colorado
+9364,25-44,2,Expats,Graduated,597492,War,Colorado
+9365,45+,2,Expats,Graduated,843713,War,Colorado
+9366,18-24,1,Expats,No Degree,502729,War,Colorado
+9367,25-44,1,Expats,No Degree,135922,War,Colorado
+9368,45+,1,Expats,No Degree,838150,War,Colorado
+9369,18-24,2,Expats,No Degree,90328,War,Colorado
+9370,25-44,2,Expats,No Degree,596417,War,Colorado
+9371,45+,2,Expats,No Degree,120321,War,Colorado
+9372,18-24,1,Expats,High School,294708,War,Colorado
+9373,25-44,1,Expats,High School,667713,War,Colorado
+9374,45+,1,Expats,High School,338466,War,Colorado
+9375,18-24,2,Expats,High School,92675,War,Colorado
+9376,25-44,2,Expats,High School,873266,War,Colorado
+9377,45+,2,Expats,High School,947687,War,Colorado
+9378,18-24,1,Locals,Graduated,428732,War,Colorado
+9379,25-44,1,Locals,Graduated,618518,War,Colorado
+9380,45+,1,Locals,Graduated,816424,War,Colorado
+9381,18-24,2,Locals,Graduated,195986,War,Colorado
+9382,25-44,2,Locals,Graduated,47172,War,Colorado
+9383,45+,2,Locals,Graduated,761510,War,Colorado
+9384,18-24,1,Locals,No Degree,892349,War,Colorado
+9385,25-44,1,Locals,No Degree,823913,War,Colorado
+9386,45+,1,Locals,No Degree,263848,War,Colorado
+9387,18-24,2,Locals,No Degree,477270,War,Colorado
+9388,25-44,2,Locals,No Degree,946184,War,Colorado
+9389,45+,2,Locals,No Degree,878262,War,Colorado
+9390,18-24,1,Locals,High School,983902,War,Colorado
+9391,25-44,1,Locals,High School,547542,War,Colorado
+9392,45+,1,Locals,High School,672453,War,Colorado
+9393,18-24,2,Locals,High School,361934,War,Colorado
+9394,25-44,2,Locals,High School,478536,War,Colorado
+9395,45+,2,Locals,High School,153046,War,Colorado
+9396,18-24,1,Expats,Graduated,864277,War,Connecticut
+9397,25-44,1,Expats,Graduated,155077,War,Connecticut
+9398,45+,1,Expats,Graduated,827730,War,Connecticut
+9399,18-24,2,Expats,Graduated,370205,War,Connecticut
+9400,25-44,2,Expats,Graduated,748264,War,Connecticut
+9401,45+,2,Expats,Graduated,947828,War,Connecticut
+9402,18-24,1,Expats,No Degree,400079,War,Connecticut
+9403,25-44,1,Expats,No Degree,921184,War,Connecticut
+9404,45+,1,Expats,No Degree,330818,War,Connecticut
+9405,18-24,2,Expats,No Degree,2300,War,Connecticut
+9406,25-44,2,Expats,No Degree,227681,War,Connecticut
+9407,45+,2,Expats,No Degree,198425,War,Connecticut
+9408,18-24,1,Expats,High School,631200,War,Connecticut
+9409,25-44,1,Expats,High School,774093,War,Connecticut
+9410,45+,1,Expats,High School,370226,War,Connecticut
+9411,18-24,2,Expats,High School,510616,War,Connecticut
+9412,25-44,2,Expats,High School,436528,War,Connecticut
+9413,45+,2,Expats,High School,118073,War,Connecticut
+9414,18-24,1,Locals,Graduated,42463,War,Connecticut
+9415,25-44,1,Locals,Graduated,162799,War,Connecticut
+9416,45+,1,Locals,Graduated,254716,War,Connecticut
+9417,18-24,2,Locals,Graduated,835362,War,Connecticut
+9418,25-44,2,Locals,Graduated,988280,War,Connecticut
+9419,45+,2,Locals,Graduated,996697,War,Connecticut
+9420,18-24,1,Locals,No Degree,465322,War,Connecticut
+9421,25-44,1,Locals,No Degree,119039,War,Connecticut
+9422,45+,1,Locals,No Degree,592455,War,Connecticut
+9423,18-24,2,Locals,No Degree,325539,War,Connecticut
+9424,25-44,2,Locals,No Degree,888316,War,Connecticut
+9425,45+,2,Locals,No Degree,581470,War,Connecticut
+9426,18-24,1,Locals,High School,349122,War,Connecticut
+9427,25-44,1,Locals,High School,812938,War,Connecticut
+9428,45+,1,Locals,High School,906708,War,Connecticut
+9429,18-24,2,Locals,High School,145969,War,Connecticut
+9430,25-44,2,Locals,High School,262685,War,Connecticut
+9431,45+,2,Locals,High School,382114,War,Connecticut
+9432,18-24,1,Expats,Graduated,174491,War,Delaware
+9433,25-44,1,Expats,Graduated,697958,War,Delaware
+9434,45+,1,Expats,Graduated,499400,War,Delaware
+9435,18-24,2,Expats,Graduated,835503,War,Delaware
+9436,25-44,2,Expats,Graduated,314428,War,Delaware
+9437,45+,2,Expats,Graduated,941177,War,Delaware
+9438,18-24,1,Expats,No Degree,523582,War,Delaware
+9439,25-44,1,Expats,No Degree,79374,War,Delaware
+9440,45+,1,Expats,No Degree,272143,War,Delaware
+9441,18-24,2,Expats,No Degree,924258,War,Delaware
+9442,25-44,2,Expats,No Degree,219651,War,Delaware
+9443,45+,2,Expats,No Degree,118297,War,Delaware
+9444,18-24,1,Expats,High School,140939,War,Delaware
+9445,25-44,1,Expats,High School,839221,War,Delaware
+9446,45+,1,Expats,High School,662232,War,Delaware
+9447,18-24,2,Expats,High School,784215,War,Delaware
+9448,25-44,2,Expats,High School,325613,War,Delaware
+9449,45+,2,Expats,High School,68136,War,Delaware
+9450,18-24,1,Locals,Graduated,848219,War,Delaware
+9451,25-44,1,Locals,Graduated,479871,War,Delaware
+9452,45+,1,Locals,Graduated,473436,War,Delaware
+9453,18-24,2,Locals,Graduated,786143,War,Delaware
+9454,25-44,2,Locals,Graduated,170718,War,Delaware
+9455,45+,2,Locals,Graduated,85895,War,Delaware
+9456,18-24,1,Locals,No Degree,276743,War,Delaware
+9457,25-44,1,Locals,No Degree,558187,War,Delaware
+9458,45+,1,Locals,No Degree,491830,War,Delaware
+9459,18-24,2,Locals,No Degree,791647,War,Delaware
+9460,25-44,2,Locals,No Degree,406404,War,Delaware
+9461,45+,2,Locals,No Degree,524789,War,Delaware
+9462,18-24,1,Locals,High School,389648,War,Delaware
+9463,25-44,1,Locals,High School,323268,War,Delaware
+9464,45+,1,Locals,High School,406414,War,Delaware
+9465,18-24,2,Locals,High School,259911,War,Delaware
+9466,25-44,2,Locals,High School,88091,War,Delaware
+9467,45+,2,Locals,High School,170384,War,Delaware
+9468,18-24,1,Expats,Graduated,38289,War,District of Columbia
+9469,25-44,1,Expats,Graduated,235359,War,District of Columbia
+9470,45+,1,Expats,Graduated,559692,War,District of Columbia
+9471,18-24,2,Expats,Graduated,356446,War,District of Columbia
+9472,25-44,2,Expats,Graduated,797861,War,District of Columbia
+9473,45+,2,Expats,Graduated,846170,War,District of Columbia
+9474,18-24,1,Expats,No Degree,681896,War,District of Columbia
+9475,25-44,1,Expats,No Degree,202696,War,District of Columbia
+9476,45+,1,Expats,No Degree,859838,War,District of Columbia
+9477,18-24,2,Expats,No Degree,639538,War,District of Columbia
+9478,25-44,2,Expats,No Degree,566090,War,District of Columbia
+9479,45+,2,Expats,No Degree,975965,War,District of Columbia
+9480,18-24,1,Expats,High School,758016,War,District of Columbia
+9481,25-44,1,Expats,High School,356580,War,District of Columbia
+9482,45+,1,Expats,High School,503535,War,District of Columbia
+9483,18-24,2,Expats,High School,218903,War,District of Columbia
+9484,25-44,2,Expats,High School,554551,War,District of Columbia
+9485,45+,2,Expats,High School,221070,War,District of Columbia
+9486,18-24,1,Locals,Graduated,770599,War,District of Columbia
+9487,25-44,1,Locals,Graduated,748248,War,District of Columbia
+9488,45+,1,Locals,Graduated,290717,War,District of Columbia
+9489,18-24,2,Locals,Graduated,355436,War,District of Columbia
+9490,25-44,2,Locals,Graduated,134357,War,District of Columbia
+9491,45+,2,Locals,Graduated,512262,War,District of Columbia
+9492,18-24,1,Locals,No Degree,575533,War,District of Columbia
+9493,25-44,1,Locals,No Degree,605362,War,District of Columbia
+9494,45+,1,Locals,No Degree,411045,War,District of Columbia
+9495,18-24,2,Locals,No Degree,441926,War,District of Columbia
+9496,25-44,2,Locals,No Degree,205209,War,District of Columbia
+9497,45+,2,Locals,No Degree,21623,War,District of Columbia
+9498,18-24,1,Locals,High School,736491,War,District of Columbia
+9499,25-44,1,Locals,High School,239538,War,District of Columbia
+9500,45+,1,Locals,High School,873713,War,District of Columbia
+9501,18-24,2,Locals,High School,930745,War,District of Columbia
+9502,25-44,2,Locals,High School,283747,War,District of Columbia
+9503,45+,2,Locals,High School,46271,War,District of Columbia
+9504,18-24,1,Expats,Graduated,598313,War,Florida
+9505,25-44,1,Expats,Graduated,48513,War,Florida
+9506,45+,1,Expats,Graduated,595994,War,Florida
+9507,18-24,2,Expats,Graduated,608233,War,Florida
+9508,25-44,2,Expats,Graduated,635386,War,Florida
+9509,45+,2,Expats,Graduated,920077,War,Florida
+9510,18-24,1,Expats,No Degree,119892,War,Florida
+9511,25-44,1,Expats,No Degree,720199,War,Florida
+9512,45+,1,Expats,No Degree,527515,War,Florida
+9513,18-24,2,Expats,No Degree,687936,War,Florida
+9514,25-44,2,Expats,No Degree,474546,War,Florida
+9515,45+,2,Expats,No Degree,625552,War,Florida
+9516,18-24,1,Expats,High School,598240,War,Florida
+9517,25-44,1,Expats,High School,575094,War,Florida
+9518,45+,1,Expats,High School,496583,War,Florida
+9519,18-24,2,Expats,High School,364251,War,Florida
+9520,25-44,2,Expats,High School,102314,War,Florida
+9521,45+,2,Expats,High School,328210,War,Florida
+9522,18-24,1,Locals,Graduated,697122,War,Florida
+9523,25-44,1,Locals,Graduated,777946,War,Florida
+9524,45+,1,Locals,Graduated,860855,War,Florida
+9525,18-24,2,Locals,Graduated,749212,War,Florida
+9526,25-44,2,Locals,Graduated,920257,War,Florida
+9527,45+,2,Locals,Graduated,904752,War,Florida
+9528,18-24,1,Locals,No Degree,99011,War,Florida
+9529,25-44,1,Locals,No Degree,999436,War,Florida
+9530,45+,1,Locals,No Degree,239707,War,Florida
+9531,18-24,2,Locals,No Degree,396655,War,Florida
+9532,25-44,2,Locals,No Degree,492730,War,Florida
+9533,45+,2,Locals,No Degree,505332,War,Florida
+9534,18-24,1,Locals,High School,103691,War,Florida
+9535,25-44,1,Locals,High School,218391,War,Florida
+9536,45+,1,Locals,High School,16262,War,Florida
+9537,18-24,2,Locals,High School,658694,War,Florida
+9538,25-44,2,Locals,High School,438592,War,Florida
+9539,45+,2,Locals,High School,819468,War,Florida
+9540,18-24,1,Expats,Graduated,769940,War,Georgia
+9541,25-44,1,Expats,Graduated,216882,War,Georgia
+9542,45+,1,Expats,Graduated,48466,War,Georgia
+9543,18-24,2,Expats,Graduated,910914,War,Georgia
+9544,25-44,2,Expats,Graduated,893059,War,Georgia
+9545,45+,2,Expats,Graduated,296922,War,Georgia
+9546,18-24,1,Expats,No Degree,567883,War,Georgia
+9547,25-44,1,Expats,No Degree,729660,War,Georgia
+9548,45+,1,Expats,No Degree,196677,War,Georgia
+9549,18-24,2,Expats,No Degree,766854,War,Georgia
+9550,25-44,2,Expats,No Degree,423123,War,Georgia
+9551,45+,2,Expats,No Degree,507443,War,Georgia
+9552,18-24,1,Expats,High School,612804,War,Georgia
+9553,25-44,1,Expats,High School,213794,War,Georgia
+9554,45+,1,Expats,High School,543990,War,Georgia
+9555,18-24,2,Expats,High School,395918,War,Georgia
+9556,25-44,2,Expats,High School,291957,War,Georgia
+9557,45+,2,Expats,High School,271206,War,Georgia
+9558,18-24,1,Locals,Graduated,863826,War,Georgia
+9559,25-44,1,Locals,Graduated,682394,War,Georgia
+9560,45+,1,Locals,Graduated,203623,War,Georgia
+9561,18-24,2,Locals,Graduated,855255,War,Georgia
+9562,25-44,2,Locals,Graduated,814053,War,Georgia
+9563,45+,2,Locals,Graduated,50972,War,Georgia
+9564,18-24,1,Locals,No Degree,857047,War,Georgia
+9565,25-44,1,Locals,No Degree,652887,War,Georgia
+9566,45+,1,Locals,No Degree,984972,War,Georgia
+9567,18-24,2,Locals,No Degree,581707,War,Georgia
+9568,25-44,2,Locals,No Degree,131821,War,Georgia
+9569,45+,2,Locals,No Degree,748796,War,Georgia
+9570,18-24,1,Locals,High School,858096,War,Georgia
+9571,25-44,1,Locals,High School,81659,War,Georgia
+9572,45+,1,Locals,High School,203723,War,Georgia
+9573,18-24,2,Locals,High School,750236,War,Georgia
+9574,25-44,2,Locals,High School,864096,War,Georgia
+9575,45+,2,Locals,High School,489068,War,Georgia
+9576,18-24,1,Expats,Graduated,671443,War,Hawaii
+9577,25-44,1,Expats,Graduated,51825,War,Hawaii
+9578,45+,1,Expats,Graduated,379766,War,Hawaii
+9579,18-24,2,Expats,Graduated,4043,War,Hawaii
+9580,25-44,2,Expats,Graduated,903341,War,Hawaii
+9581,45+,2,Expats,Graduated,962263,War,Hawaii
+9582,18-24,1,Expats,No Degree,208342,War,Hawaii
+9583,25-44,1,Expats,No Degree,953149,War,Hawaii
+9584,45+,1,Expats,No Degree,993827,War,Hawaii
+9585,18-24,2,Expats,No Degree,204000,War,Hawaii
+9586,25-44,2,Expats,No Degree,331011,War,Hawaii
+9587,45+,2,Expats,No Degree,584050,War,Hawaii
+9588,18-24,1,Expats,High School,89193,War,Hawaii
+9589,25-44,1,Expats,High School,510603,War,Hawaii
+9590,45+,1,Expats,High School,965256,War,Hawaii
+9591,18-24,2,Expats,High School,723353,War,Hawaii
+9592,25-44,2,Expats,High School,4639,War,Hawaii
+9593,45+,2,Expats,High School,491644,War,Hawaii
+9594,18-24,1,Locals,Graduated,765877,War,Hawaii
+9595,25-44,1,Locals,Graduated,334642,War,Hawaii
+9596,45+,1,Locals,Graduated,166939,War,Hawaii
+9597,18-24,2,Locals,Graduated,892749,War,Hawaii
+9598,25-44,2,Locals,Graduated,337591,War,Hawaii
+9599,45+,2,Locals,Graduated,358078,War,Hawaii
+9600,18-24,1,Locals,No Degree,911769,War,Hawaii
+9601,25-44,1,Locals,No Degree,262123,War,Hawaii
+9602,45+,1,Locals,No Degree,578172,War,Hawaii
+9603,18-24,2,Locals,No Degree,190054,War,Hawaii
+9604,25-44,2,Locals,No Degree,35545,War,Hawaii
+9605,45+,2,Locals,No Degree,700294,War,Hawaii
+9606,18-24,1,Locals,High School,434985,War,Hawaii
+9607,25-44,1,Locals,High School,822929,War,Hawaii
+9608,45+,1,Locals,High School,753942,War,Hawaii
+9609,18-24,2,Locals,High School,637251,War,Hawaii
+9610,25-44,2,Locals,High School,703347,War,Hawaii
+9611,45+,2,Locals,High School,197993,War,Hawaii
+9612,18-24,1,Expats,Graduated,317366,War,Idaho
+9613,25-44,1,Expats,Graduated,347611,War,Idaho
+9614,45+,1,Expats,Graduated,56852,War,Idaho
+9615,18-24,2,Expats,Graduated,64216,War,Idaho
+9616,25-44,2,Expats,Graduated,30144,War,Idaho
+9617,45+,2,Expats,Graduated,513682,War,Idaho
+9618,18-24,1,Expats,No Degree,35880,War,Idaho
+9619,25-44,1,Expats,No Degree,632097,War,Idaho
+9620,45+,1,Expats,No Degree,297541,War,Idaho
+9621,18-24,2,Expats,No Degree,677545,War,Idaho
+9622,25-44,2,Expats,No Degree,190710,War,Idaho
+9623,45+,2,Expats,No Degree,683522,War,Idaho
+9624,18-24,1,Expats,High School,4223,War,Idaho
+9625,25-44,1,Expats,High School,879486,War,Idaho
+9626,45+,1,Expats,High School,835631,War,Idaho
+9627,18-24,2,Expats,High School,189541,War,Idaho
+9628,25-44,2,Expats,High School,135870,War,Idaho
+9629,45+,2,Expats,High School,351285,War,Idaho
+9630,18-24,1,Locals,Graduated,830942,War,Idaho
+9631,25-44,1,Locals,Graduated,863520,War,Idaho
+9632,45+,1,Locals,Graduated,133245,War,Idaho
+9633,18-24,2,Locals,Graduated,526882,War,Idaho
+9634,25-44,2,Locals,Graduated,185389,War,Idaho
+9635,45+,2,Locals,Graduated,174299,War,Idaho
+9636,18-24,1,Locals,No Degree,310603,War,Idaho
+9637,25-44,1,Locals,No Degree,484541,War,Idaho
+9638,45+,1,Locals,No Degree,533981,War,Idaho
+9639,18-24,2,Locals,No Degree,728886,War,Idaho
+9640,25-44,2,Locals,No Degree,945309,War,Idaho
+9641,45+,2,Locals,No Degree,887296,War,Idaho
+9642,18-24,1,Locals,High School,105738,War,Idaho
+9643,25-44,1,Locals,High School,20912,War,Idaho
+9644,45+,1,Locals,High School,232432,War,Idaho
+9645,18-24,2,Locals,High School,857694,War,Idaho
+9646,25-44,2,Locals,High School,138234,War,Idaho
+9647,45+,2,Locals,High School,613544,War,Idaho
+9648,18-24,1,Expats,Graduated,243611,War,Illinois
+9649,25-44,1,Expats,Graduated,406619,War,Illinois
+9650,45+,1,Expats,Graduated,421274,War,Illinois
+9651,18-24,2,Expats,Graduated,577876,War,Illinois
+9652,25-44,2,Expats,Graduated,966246,War,Illinois
+9653,45+,2,Expats,Graduated,612441,War,Illinois
+9654,18-24,1,Expats,No Degree,481414,War,Illinois
+9655,25-44,1,Expats,No Degree,685865,War,Illinois
+9656,45+,1,Expats,No Degree,336698,War,Illinois
+9657,18-24,2,Expats,No Degree,701611,War,Illinois
+9658,25-44,2,Expats,No Degree,953338,War,Illinois
+9659,45+,2,Expats,No Degree,544076,War,Illinois
+9660,18-24,1,Expats,High School,402280,War,Illinois
+9661,25-44,1,Expats,High School,710303,War,Illinois
+9662,45+,1,Expats,High School,680133,War,Illinois
+9663,18-24,2,Expats,High School,217616,War,Illinois
+9664,25-44,2,Expats,High School,982798,War,Illinois
+9665,45+,2,Expats,High School,704302,War,Illinois
+9666,18-24,1,Locals,Graduated,939706,War,Illinois
+9667,25-44,1,Locals,Graduated,217769,War,Illinois
+9668,45+,1,Locals,Graduated,267835,War,Illinois
+9669,18-24,2,Locals,Graduated,708162,War,Illinois
+9670,25-44,2,Locals,Graduated,619281,War,Illinois
+9671,45+,2,Locals,Graduated,778037,War,Illinois
+9672,18-24,1,Locals,No Degree,303540,War,Illinois
+9673,25-44,1,Locals,No Degree,916589,War,Illinois
+9674,45+,1,Locals,No Degree,543959,War,Illinois
+9675,18-24,2,Locals,No Degree,109112,War,Illinois
+9676,25-44,2,Locals,No Degree,526323,War,Illinois
+9677,45+,2,Locals,No Degree,270551,War,Illinois
+9678,18-24,1,Locals,High School,667380,War,Illinois
+9679,25-44,1,Locals,High School,652232,War,Illinois
+9680,45+,1,Locals,High School,841842,War,Illinois
+9681,18-24,2,Locals,High School,27920,War,Illinois
+9682,25-44,2,Locals,High School,160536,War,Illinois
+9683,45+,2,Locals,High School,284625,War,Illinois
+9684,18-24,1,Expats,Graduated,181508,War,Indiana
+9685,25-44,1,Expats,Graduated,381086,War,Indiana
+9686,45+,1,Expats,Graduated,959143,War,Indiana
+9687,18-24,2,Expats,Graduated,274323,War,Indiana
+9688,25-44,2,Expats,Graduated,758708,War,Indiana
+9689,45+,2,Expats,Graduated,909826,War,Indiana
+9690,18-24,1,Expats,No Degree,803993,War,Indiana
+9691,25-44,1,Expats,No Degree,438063,War,Indiana
+9692,45+,1,Expats,No Degree,164703,War,Indiana
+9693,18-24,2,Expats,No Degree,781050,War,Indiana
+9694,25-44,2,Expats,No Degree,334494,War,Indiana
+9695,45+,2,Expats,No Degree,730119,War,Indiana
+9696,18-24,1,Expats,High School,792228,War,Indiana
+9697,25-44,1,Expats,High School,527229,War,Indiana
+9698,45+,1,Expats,High School,809982,War,Indiana
+9699,18-24,2,Expats,High School,183438,War,Indiana
+9700,25-44,2,Expats,High School,656665,War,Indiana
+9701,45+,2,Expats,High School,190870,War,Indiana
+9702,18-24,1,Locals,Graduated,423048,War,Indiana
+9703,25-44,1,Locals,Graduated,865411,War,Indiana
+9704,45+,1,Locals,Graduated,819931,War,Indiana
+9705,18-24,2,Locals,Graduated,266094,War,Indiana
+9706,25-44,2,Locals,Graduated,724188,War,Indiana
+9707,45+,2,Locals,Graduated,708638,War,Indiana
+9708,18-24,1,Locals,No Degree,636635,War,Indiana
+9709,25-44,1,Locals,No Degree,887952,War,Indiana
+9710,45+,1,Locals,No Degree,544050,War,Indiana
+9711,18-24,2,Locals,No Degree,440888,War,Indiana
+9712,25-44,2,Locals,No Degree,163621,War,Indiana
+9713,45+,2,Locals,No Degree,403795,War,Indiana
+9714,18-24,1,Locals,High School,482210,War,Indiana
+9715,25-44,1,Locals,High School,922922,War,Indiana
+9716,45+,1,Locals,High School,469859,War,Indiana
+9717,18-24,2,Locals,High School,720689,War,Indiana
+9718,25-44,2,Locals,High School,822162,War,Indiana
+9719,45+,2,Locals,High School,280318,War,Indiana
+9720,18-24,1,Expats,Graduated,837867,War,Iowa
+9721,25-44,1,Expats,Graduated,113396,War,Iowa
+9722,45+,1,Expats,Graduated,811076,War,Iowa
+9723,18-24,2,Expats,Graduated,28021,War,Iowa
+9724,25-44,2,Expats,Graduated,366598,War,Iowa
+9725,45+,2,Expats,Graduated,746147,War,Iowa
+9726,18-24,1,Expats,No Degree,609042,War,Iowa
+9727,25-44,1,Expats,No Degree,108047,War,Iowa
+9728,45+,1,Expats,No Degree,242256,War,Iowa
+9729,18-24,2,Expats,No Degree,448030,War,Iowa
+9730,25-44,2,Expats,No Degree,164428,War,Iowa
+9731,45+,2,Expats,No Degree,767339,War,Iowa
+9732,18-24,1,Expats,High School,651569,War,Iowa
+9733,25-44,1,Expats,High School,122278,War,Iowa
+9734,45+,1,Expats,High School,92137,War,Iowa
+9735,18-24,2,Expats,High School,943156,War,Iowa
+9736,25-44,2,Expats,High School,708600,War,Iowa
+9737,45+,2,Expats,High School,197083,War,Iowa
+9738,18-24,1,Locals,Graduated,472992,War,Iowa
+9739,25-44,1,Locals,Graduated,176115,War,Iowa
+9740,45+,1,Locals,Graduated,253805,War,Iowa
+9741,18-24,2,Locals,Graduated,939727,War,Iowa
+9742,25-44,2,Locals,Graduated,817531,War,Iowa
+9743,45+,2,Locals,Graduated,99052,War,Iowa
+9744,18-24,1,Locals,No Degree,225770,War,Iowa
+9745,25-44,1,Locals,No Degree,599084,War,Iowa
+9746,45+,1,Locals,No Degree,142243,War,Iowa
+9747,18-24,2,Locals,No Degree,6391,War,Iowa
+9748,25-44,2,Locals,No Degree,829684,War,Iowa
+9749,45+,2,Locals,No Degree,987747,War,Iowa
+9750,18-24,1,Locals,High School,898680,War,Iowa
+9751,25-44,1,Locals,High School,939815,War,Iowa
+9752,45+,1,Locals,High School,512291,War,Iowa
+9753,18-24,2,Locals,High School,60515,War,Iowa
+9754,25-44,2,Locals,High School,312715,War,Iowa
+9755,45+,2,Locals,High School,799694,War,Iowa
+9756,18-24,1,Expats,Graduated,539476,War,Kansas
+9757,25-44,1,Expats,Graduated,472319,War,Kansas
+9758,45+,1,Expats,Graduated,817143,War,Kansas
+9759,18-24,2,Expats,Graduated,892415,War,Kansas
+9760,25-44,2,Expats,Graduated,517527,War,Kansas
+9761,45+,2,Expats,Graduated,344163,War,Kansas
+9762,18-24,1,Expats,No Degree,461133,War,Kansas
+9763,25-44,1,Expats,No Degree,261306,War,Kansas
+9764,45+,1,Expats,No Degree,568216,War,Kansas
+9765,18-24,2,Expats,No Degree,730642,War,Kansas
+9766,25-44,2,Expats,No Degree,813337,War,Kansas
+9767,45+,2,Expats,No Degree,468715,War,Kansas
+9768,18-24,1,Expats,High School,284681,War,Kansas
+9769,25-44,1,Expats,High School,649920,War,Kansas
+9770,45+,1,Expats,High School,849286,War,Kansas
+9771,18-24,2,Expats,High School,372700,War,Kansas
+9772,25-44,2,Expats,High School,662043,War,Kansas
+9773,45+,2,Expats,High School,4916,War,Kansas
+9774,18-24,1,Locals,Graduated,557154,War,Kansas
+9775,25-44,1,Locals,Graduated,416141,War,Kansas
+9776,45+,1,Locals,Graduated,685751,War,Kansas
+9777,18-24,2,Locals,Graduated,102957,War,Kansas
+9778,25-44,2,Locals,Graduated,582361,War,Kansas
+9779,45+,2,Locals,Graduated,990330,War,Kansas
+9780,18-24,1,Locals,No Degree,278117,War,Kansas
+9781,25-44,1,Locals,No Degree,638393,War,Kansas
+9782,45+,1,Locals,No Degree,439975,War,Kansas
+9783,18-24,2,Locals,No Degree,355670,War,Kansas
+9784,25-44,2,Locals,No Degree,927977,War,Kansas
+9785,45+,2,Locals,No Degree,897217,War,Kansas
+9786,18-24,1,Locals,High School,111768,War,Kansas
+9787,25-44,1,Locals,High School,519448,War,Kansas
+9788,45+,1,Locals,High School,708952,War,Kansas
+9789,18-24,2,Locals,High School,189146,War,Kansas
+9790,25-44,2,Locals,High School,432343,War,Kansas
+9791,45+,2,Locals,High School,846389,War,Kansas
+9792,18-24,1,Expats,Graduated,200447,War,Kentucky
+9793,25-44,1,Expats,Graduated,982721,War,Kentucky
+9794,45+,1,Expats,Graduated,484768,War,Kentucky
+9795,18-24,2,Expats,Graduated,37517,War,Kentucky
+9796,25-44,2,Expats,Graduated,138894,War,Kentucky
+9797,45+,2,Expats,Graduated,44270,War,Kentucky
+9798,18-24,1,Expats,No Degree,659545,War,Kentucky
+9799,25-44,1,Expats,No Degree,612871,War,Kentucky
+9800,45+,1,Expats,No Degree,180742,War,Kentucky
+9801,18-24,2,Expats,No Degree,825308,War,Kentucky
+9802,25-44,2,Expats,No Degree,383245,War,Kentucky
+9803,45+,2,Expats,No Degree,636868,War,Kentucky
+9804,18-24,1,Expats,High School,297059,War,Kentucky
+9805,25-44,1,Expats,High School,112292,War,Kentucky
+9806,45+,1,Expats,High School,599589,War,Kentucky
+9807,18-24,2,Expats,High School,700937,War,Kentucky
+9808,25-44,2,Expats,High School,850009,War,Kentucky
+9809,45+,2,Expats,High School,560294,War,Kentucky
+9810,18-24,1,Locals,Graduated,589511,War,Kentucky
+9811,25-44,1,Locals,Graduated,872830,War,Kentucky
+9812,45+,1,Locals,Graduated,266033,War,Kentucky
+9813,18-24,2,Locals,Graduated,387998,War,Kentucky
+9814,25-44,2,Locals,Graduated,346481,War,Kentucky
+9815,45+,2,Locals,Graduated,593637,War,Kentucky
+9816,18-24,1,Locals,No Degree,70430,War,Kentucky
+9817,25-44,1,Locals,No Degree,442644,War,Kentucky
+9818,45+,1,Locals,No Degree,236962,War,Kentucky
+9819,18-24,2,Locals,No Degree,514559,War,Kentucky
+9820,25-44,2,Locals,No Degree,440569,War,Kentucky
+9821,45+,2,Locals,No Degree,674184,War,Kentucky
+9822,18-24,1,Locals,High School,951186,War,Kentucky
+9823,25-44,1,Locals,High School,454076,War,Kentucky
+9824,45+,1,Locals,High School,595696,War,Kentucky
+9825,18-24,2,Locals,High School,515782,War,Kentucky
+9826,25-44,2,Locals,High School,398544,War,Kentucky
+9827,45+,2,Locals,High School,944418,War,Kentucky
+9828,18-24,1,Expats,Graduated,163748,War,Louisiana
+9829,25-44,1,Expats,Graduated,381204,War,Louisiana
+9830,45+,1,Expats,Graduated,904822,War,Louisiana
+9831,18-24,2,Expats,Graduated,573311,War,Louisiana
+9832,25-44,2,Expats,Graduated,699237,War,Louisiana
+9833,45+,2,Expats,Graduated,786887,War,Louisiana
+9834,18-24,1,Expats,No Degree,55064,War,Louisiana
+9835,25-44,1,Expats,No Degree,712425,War,Louisiana
+9836,45+,1,Expats,No Degree,544104,War,Louisiana
+9837,18-24,2,Expats,No Degree,268249,War,Louisiana
+9838,25-44,2,Expats,No Degree,556590,War,Louisiana
+9839,45+,2,Expats,No Degree,73992,War,Louisiana
+9840,18-24,1,Expats,High School,599167,War,Louisiana
+9841,25-44,1,Expats,High School,298103,War,Louisiana
+9842,45+,1,Expats,High School,794817,War,Louisiana
+9843,18-24,2,Expats,High School,313685,War,Louisiana
+9844,25-44,2,Expats,High School,633466,War,Louisiana
+9845,45+,2,Expats,High School,114347,War,Louisiana
+9846,18-24,1,Locals,Graduated,350254,War,Louisiana
+9847,25-44,1,Locals,Graduated,533612,War,Louisiana
+9848,45+,1,Locals,Graduated,527760,War,Louisiana
+9849,18-24,2,Locals,Graduated,371425,War,Louisiana
+9850,25-44,2,Locals,Graduated,55423,War,Louisiana
+9851,45+,2,Locals,Graduated,892055,War,Louisiana
+9852,18-24,1,Locals,No Degree,264874,War,Louisiana
+9853,25-44,1,Locals,No Degree,550417,War,Louisiana
+9854,45+,1,Locals,No Degree,85296,War,Louisiana
+9855,18-24,2,Locals,No Degree,185358,War,Louisiana
+9856,25-44,2,Locals,No Degree,476495,War,Louisiana
+9857,45+,2,Locals,No Degree,950347,War,Louisiana
+9858,18-24,1,Locals,High School,389505,War,Louisiana
+9859,25-44,1,Locals,High School,173668,War,Louisiana
+9860,45+,1,Locals,High School,191226,War,Louisiana
+9861,18-24,2,Locals,High School,455397,War,Louisiana
+9862,25-44,2,Locals,High School,165101,War,Louisiana
+9863,45+,2,Locals,High School,862495,War,Louisiana
+9864,18-24,1,Expats,Graduated,678493,War,Maine
+9865,25-44,1,Expats,Graduated,873296,War,Maine
+9866,45+,1,Expats,Graduated,689658,War,Maine
+9867,18-24,2,Expats,Graduated,778739,War,Maine
+9868,25-44,2,Expats,Graduated,961369,War,Maine
+9869,45+,2,Expats,Graduated,406583,War,Maine
+9870,18-24,1,Expats,No Degree,463461,War,Maine
+9871,25-44,1,Expats,No Degree,428672,War,Maine
+9872,45+,1,Expats,No Degree,102748,War,Maine
+9873,18-24,2,Expats,No Degree,355456,War,Maine
+9874,25-44,2,Expats,No Degree,133637,War,Maine
+9875,45+,2,Expats,No Degree,607369,War,Maine
+9876,18-24,1,Expats,High School,720011,War,Maine
+9877,25-44,1,Expats,High School,697228,War,Maine
+9878,45+,1,Expats,High School,951650,War,Maine
+9879,18-24,2,Expats,High School,620838,War,Maine
+9880,25-44,2,Expats,High School,805110,War,Maine
+9881,45+,2,Expats,High School,75097,War,Maine
+9882,18-24,1,Locals,Graduated,352072,War,Maine
+9883,25-44,1,Locals,Graduated,296873,War,Maine
+9884,45+,1,Locals,Graduated,925903,War,Maine
+9885,18-24,2,Locals,Graduated,435700,War,Maine
+9886,25-44,2,Locals,Graduated,120951,War,Maine
+9887,45+,2,Locals,Graduated,487364,War,Maine
+9888,18-24,1,Locals,No Degree,37215,War,Maine
+9889,25-44,1,Locals,No Degree,699191,War,Maine
+9890,45+,1,Locals,No Degree,125879,War,Maine
+9891,18-24,2,Locals,No Degree,600438,War,Maine
+9892,25-44,2,Locals,No Degree,811114,War,Maine
+9893,45+,2,Locals,No Degree,559070,War,Maine
+9894,18-24,1,Locals,High School,776615,War,Maine
+9895,25-44,1,Locals,High School,221220,War,Maine
+9896,45+,1,Locals,High School,351574,War,Maine
+9897,18-24,2,Locals,High School,308777,War,Maine
+9898,25-44,2,Locals,High School,340963,War,Maine
+9899,45+,2,Locals,High School,462921,War,Maine
+9900,18-24,1,Expats,Graduated,894754,War,Maryland
+9901,25-44,1,Expats,Graduated,380420,War,Maryland
+9902,45+,1,Expats,Graduated,664056,War,Maryland
+9903,18-24,2,Expats,Graduated,392447,War,Maryland
+9904,25-44,2,Expats,Graduated,696396,War,Maryland
+9905,45+,2,Expats,Graduated,330093,War,Maryland
+9906,18-24,1,Expats,No Degree,949859,War,Maryland
+9907,25-44,1,Expats,No Degree,198801,War,Maryland
+9908,45+,1,Expats,No Degree,569140,War,Maryland
+9909,18-24,2,Expats,No Degree,907206,War,Maryland
+9910,25-44,2,Expats,No Degree,396151,War,Maryland
+9911,45+,2,Expats,No Degree,77146,War,Maryland
+9912,18-24,1,Expats,High School,352233,War,Maryland
+9913,25-44,1,Expats,High School,6394,War,Maryland
+9914,45+,1,Expats,High School,97345,War,Maryland
+9915,18-24,2,Expats,High School,842501,War,Maryland
+9916,25-44,2,Expats,High School,433266,War,Maryland
+9917,45+,2,Expats,High School,743187,War,Maryland
+9918,18-24,1,Locals,Graduated,873390,War,Maryland
+9919,25-44,1,Locals,Graduated,372809,War,Maryland
+9920,45+,1,Locals,Graduated,862421,War,Maryland
+9921,18-24,2,Locals,Graduated,216976,War,Maryland
+9922,25-44,2,Locals,Graduated,328994,War,Maryland
+9923,45+,2,Locals,Graduated,694155,War,Maryland
+9924,18-24,1,Locals,No Degree,508260,War,Maryland
+9925,25-44,1,Locals,No Degree,488484,War,Maryland
+9926,45+,1,Locals,No Degree,788026,War,Maryland
+9927,18-24,2,Locals,No Degree,74414,War,Maryland
+9928,25-44,2,Locals,No Degree,692971,War,Maryland
+9929,45+,2,Locals,No Degree,293245,War,Maryland
+9930,18-24,1,Locals,High School,757076,War,Maryland
+9931,25-44,1,Locals,High School,383371,War,Maryland
+9932,45+,1,Locals,High School,84951,War,Maryland
+9933,18-24,2,Locals,High School,155333,War,Maryland
+9934,25-44,2,Locals,High School,879282,War,Maryland
+9935,45+,2,Locals,High School,335464,War,Maryland
+9936,18-24,1,Expats,Graduated,77502,War,Massachusetts
+9937,25-44,1,Expats,Graduated,621673,War,Massachusetts
+9938,45+,1,Expats,Graduated,94317,War,Massachusetts
+9939,18-24,2,Expats,Graduated,415729,War,Massachusetts
+9940,25-44,2,Expats,Graduated,260736,War,Massachusetts
+9941,45+,2,Expats,Graduated,66087,War,Massachusetts
+9942,18-24,1,Expats,No Degree,342196,War,Massachusetts
+9943,25-44,1,Expats,No Degree,196818,War,Massachusetts
+9944,45+,1,Expats,No Degree,628124,War,Massachusetts
+9945,18-24,2,Expats,No Degree,61174,War,Massachusetts
+9946,25-44,2,Expats,No Degree,866514,War,Massachusetts
+9947,45+,2,Expats,No Degree,656970,War,Massachusetts
+9948,18-24,1,Expats,High School,306681,War,Massachusetts
+9949,25-44,1,Expats,High School,98853,War,Massachusetts
+9950,45+,1,Expats,High School,4009,War,Massachusetts
+9951,18-24,2,Expats,High School,940738,War,Massachusetts
+9952,25-44,2,Expats,High School,573005,War,Massachusetts
+9953,45+,2,Expats,High School,683553,War,Massachusetts
+9954,18-24,1,Locals,Graduated,340256,War,Massachusetts
+9955,25-44,1,Locals,Graduated,377911,War,Massachusetts
+9956,45+,1,Locals,Graduated,181054,War,Massachusetts
+9957,18-24,2,Locals,Graduated,132458,War,Massachusetts
+9958,25-44,2,Locals,Graduated,121894,War,Massachusetts
+9959,45+,2,Locals,Graduated,504779,War,Massachusetts
+9960,18-24,1,Locals,No Degree,105993,War,Massachusetts
+9961,25-44,1,Locals,No Degree,791192,War,Massachusetts
+9962,45+,1,Locals,No Degree,733023,War,Massachusetts
+9963,18-24,2,Locals,No Degree,159956,War,Massachusetts
+9964,25-44,2,Locals,No Degree,900556,War,Massachusetts
+9965,45+,2,Locals,No Degree,175,War,Massachusetts
+9966,18-24,1,Locals,High School,291564,War,Massachusetts
+9967,25-44,1,Locals,High School,235870,War,Massachusetts
+9968,45+,1,Locals,High School,414048,War,Massachusetts
+9969,18-24,2,Locals,High School,66539,War,Massachusetts
+9970,25-44,2,Locals,High School,240262,War,Massachusetts
+9971,45+,2,Locals,High School,113347,War,Massachusetts
+9972,18-24,1,Expats,Graduated,961859,War,Michigan
+9973,25-44,1,Expats,Graduated,513601,War,Michigan
+9974,45+,1,Expats,Graduated,501475,War,Michigan
+9975,18-24,2,Expats,Graduated,634117,War,Michigan
+9976,25-44,2,Expats,Graduated,10941,War,Michigan
+9977,45+,2,Expats,Graduated,952695,War,Michigan
+9978,18-24,1,Expats,No Degree,966840,War,Michigan
+9979,25-44,1,Expats,No Degree,82260,War,Michigan
+9980,45+,1,Expats,No Degree,400820,War,Michigan
+9981,18-24,2,Expats,No Degree,90646,War,Michigan
+9982,25-44,2,Expats,No Degree,132433,War,Michigan
+9983,45+,2,Expats,No Degree,489248,War,Michigan
+9984,18-24,1,Expats,High School,102434,War,Michigan
+9985,25-44,1,Expats,High School,373665,War,Michigan
+9986,45+,1,Expats,High School,773197,War,Michigan
+9987,18-24,2,Expats,High School,996192,War,Michigan
+9988,25-44,2,Expats,High School,878398,War,Michigan
+9989,45+,2,Expats,High School,356985,War,Michigan
+9990,18-24,1,Locals,Graduated,987352,War,Michigan
+9991,25-44,1,Locals,Graduated,777676,War,Michigan
+9992,45+,1,Locals,Graduated,492838,War,Michigan
+9993,18-24,2,Locals,Graduated,859796,War,Michigan
+9994,25-44,2,Locals,Graduated,272863,War,Michigan
+9995,45+,2,Locals,Graduated,127239,War,Michigan
+9996,18-24,1,Locals,No Degree,52938,War,Michigan
+9997,25-44,1,Locals,No Degree,107676,War,Michigan
+9998,45+,1,Locals,No Degree,327980,War,Michigan
+9999,18-24,2,Locals,No Degree,89513,War,Michigan
+10000,25-44,2,Locals,No Degree,876082,War,Michigan
+10001,45+,2,Locals,No Degree,481151,War,Michigan
+10002,18-24,1,Locals,High School,322452,War,Michigan
+10003,25-44,1,Locals,High School,247924,War,Michigan
+10004,45+,1,Locals,High School,486110,War,Michigan
+10005,18-24,2,Locals,High School,62635,War,Michigan
+10006,25-44,2,Locals,High School,302718,War,Michigan
+10007,45+,2,Locals,High School,390039,War,Michigan
+10008,18-24,1,Expats,Graduated,258199,War,Minnesota
+10009,25-44,1,Expats,Graduated,138832,War,Minnesota
+10010,45+,1,Expats,Graduated,50164,War,Minnesota
+10011,18-24,2,Expats,Graduated,932623,War,Minnesota
+10012,25-44,2,Expats,Graduated,262708,War,Minnesota
+10013,45+,2,Expats,Graduated,230319,War,Minnesota
+10014,18-24,1,Expats,No Degree,447724,War,Minnesota
+10015,25-44,1,Expats,No Degree,3624,War,Minnesota
+10016,45+,1,Expats,No Degree,268879,War,Minnesota
+10017,18-24,2,Expats,No Degree,331009,War,Minnesota
+10018,25-44,2,Expats,No Degree,517033,War,Minnesota
+10019,45+,2,Expats,No Degree,593981,War,Minnesota
+10020,18-24,1,Expats,High School,545988,War,Minnesota
+10021,25-44,1,Expats,High School,242973,War,Minnesota
+10022,45+,1,Expats,High School,984423,War,Minnesota
+10023,18-24,2,Expats,High School,1832,War,Minnesota
+10024,25-44,2,Expats,High School,367768,War,Minnesota
+10025,45+,2,Expats,High School,992215,War,Minnesota
+10026,18-24,1,Locals,Graduated,822802,War,Minnesota
+10027,25-44,1,Locals,Graduated,337575,War,Minnesota
+10028,45+,1,Locals,Graduated,500434,War,Minnesota
+10029,18-24,2,Locals,Graduated,487085,War,Minnesota
+10030,25-44,2,Locals,Graduated,760883,War,Minnesota
+10031,45+,2,Locals,Graduated,61366,War,Minnesota
+10032,18-24,1,Locals,No Degree,363917,War,Minnesota
+10033,25-44,1,Locals,No Degree,248969,War,Minnesota
+10034,45+,1,Locals,No Degree,480061,War,Minnesota
+10035,18-24,2,Locals,No Degree,608415,War,Minnesota
+10036,25-44,2,Locals,No Degree,391761,War,Minnesota
+10037,45+,2,Locals,No Degree,621541,War,Minnesota
+10038,18-24,1,Locals,High School,141723,War,Minnesota
+10039,25-44,1,Locals,High School,312943,War,Minnesota
+10040,45+,1,Locals,High School,187435,War,Minnesota
+10041,18-24,2,Locals,High School,131349,War,Minnesota
+10042,25-44,2,Locals,High School,156339,War,Minnesota
+10043,45+,2,Locals,High School,610098,War,Minnesota
+10044,18-24,1,Expats,Graduated,957094,War,Mississippi
+10045,25-44,1,Expats,Graduated,72001,War,Mississippi
+10046,45+,1,Expats,Graduated,820193,War,Mississippi
+10047,18-24,2,Expats,Graduated,83867,War,Mississippi
+10048,25-44,2,Expats,Graduated,984053,War,Mississippi
+10049,45+,2,Expats,Graduated,209414,War,Mississippi
+10050,18-24,1,Expats,No Degree,995228,War,Mississippi
+10051,25-44,1,Expats,No Degree,389451,War,Mississippi
+10052,45+,1,Expats,No Degree,292706,War,Mississippi
+10053,18-24,2,Expats,No Degree,776210,War,Mississippi
+10054,25-44,2,Expats,No Degree,410694,War,Mississippi
+10055,45+,2,Expats,No Degree,902073,War,Mississippi
+10056,18-24,1,Expats,High School,541681,War,Mississippi
+10057,25-44,1,Expats,High School,847979,War,Mississippi
+10058,45+,1,Expats,High School,164115,War,Mississippi
+10059,18-24,2,Expats,High School,623622,War,Mississippi
+10060,25-44,2,Expats,High School,726298,War,Mississippi
+10061,45+,2,Expats,High School,953028,War,Mississippi
+10062,18-24,1,Locals,Graduated,758685,War,Mississippi
+10063,25-44,1,Locals,Graduated,475047,War,Mississippi
+10064,45+,1,Locals,Graduated,743480,War,Mississippi
+10065,18-24,2,Locals,Graduated,948376,War,Mississippi
+10066,25-44,2,Locals,Graduated,2078,War,Mississippi
+10067,45+,2,Locals,Graduated,426668,War,Mississippi
+10068,18-24,1,Locals,No Degree,242631,War,Mississippi
+10069,25-44,1,Locals,No Degree,879865,War,Mississippi
+10070,45+,1,Locals,No Degree,455548,War,Mississippi
+10071,18-24,2,Locals,No Degree,32597,War,Mississippi
+10072,25-44,2,Locals,No Degree,310526,War,Mississippi
+10073,45+,2,Locals,No Degree,855788,War,Mississippi
+10074,18-24,1,Locals,High School,834689,War,Mississippi
+10075,25-44,1,Locals,High School,464266,War,Mississippi
+10076,45+,1,Locals,High School,782860,War,Mississippi
+10077,18-24,2,Locals,High School,640720,War,Mississippi
+10078,25-44,2,Locals,High School,568004,War,Mississippi
+10079,45+,2,Locals,High School,589683,War,Mississippi
+10080,18-24,1,Expats,Graduated,745778,War,Missouri
+10081,25-44,1,Expats,Graduated,682370,War,Missouri
+10082,45+,1,Expats,Graduated,764206,War,Missouri
+10083,18-24,2,Expats,Graduated,836675,War,Missouri
+10084,25-44,2,Expats,Graduated,393309,War,Missouri
+10085,45+,2,Expats,Graduated,792849,War,Missouri
+10086,18-24,1,Expats,No Degree,506701,War,Missouri
+10087,25-44,1,Expats,No Degree,421846,War,Missouri
+10088,45+,1,Expats,No Degree,902000,War,Missouri
+10089,18-24,2,Expats,No Degree,308981,War,Missouri
+10090,25-44,2,Expats,No Degree,663813,War,Missouri
+10091,45+,2,Expats,No Degree,14569,War,Missouri
+10092,18-24,1,Expats,High School,287755,War,Missouri
+10093,25-44,1,Expats,High School,277495,War,Missouri
+10094,45+,1,Expats,High School,181799,War,Missouri
+10095,18-24,2,Expats,High School,725665,War,Missouri
+10096,25-44,2,Expats,High School,499616,War,Missouri
+10097,45+,2,Expats,High School,869713,War,Missouri
+10098,18-24,1,Locals,Graduated,510772,War,Missouri
+10099,25-44,1,Locals,Graduated,89331,War,Missouri
+10100,45+,1,Locals,Graduated,983111,War,Missouri
+10101,18-24,2,Locals,Graduated,627887,War,Missouri
+10102,25-44,2,Locals,Graduated,200142,War,Missouri
+10103,45+,2,Locals,Graduated,644398,War,Missouri
+10104,18-24,1,Locals,No Degree,421103,War,Missouri
+10105,25-44,1,Locals,No Degree,302296,War,Missouri
+10106,45+,1,Locals,No Degree,82886,War,Missouri
+10107,18-24,2,Locals,No Degree,685619,War,Missouri
+10108,25-44,2,Locals,No Degree,808944,War,Missouri
+10109,45+,2,Locals,No Degree,208366,War,Missouri
+10110,18-24,1,Locals,High School,265591,War,Missouri
+10111,25-44,1,Locals,High School,77158,War,Missouri
+10112,45+,1,Locals,High School,831073,War,Missouri
+10113,18-24,2,Locals,High School,929426,War,Missouri
+10114,25-44,2,Locals,High School,878741,War,Missouri
+10115,45+,2,Locals,High School,733491,War,Missouri
+10116,18-24,1,Expats,Graduated,199801,War,Montana
+10117,25-44,1,Expats,Graduated,303342,War,Montana
+10118,45+,1,Expats,Graduated,150926,War,Montana
+10119,18-24,2,Expats,Graduated,777633,War,Montana
+10120,25-44,2,Expats,Graduated,760500,War,Montana
+10121,45+,2,Expats,Graduated,722933,War,Montana
+10122,18-24,1,Expats,No Degree,349258,War,Montana
+10123,25-44,1,Expats,No Degree,335680,War,Montana
+10124,45+,1,Expats,No Degree,933246,War,Montana
+10125,18-24,2,Expats,No Degree,377813,War,Montana
+10126,25-44,2,Expats,No Degree,877520,War,Montana
+10127,45+,2,Expats,No Degree,351427,War,Montana
+10128,18-24,1,Expats,High School,604265,War,Montana
+10129,25-44,1,Expats,High School,159467,War,Montana
+10130,45+,1,Expats,High School,555919,War,Montana
+10131,18-24,2,Expats,High School,799839,War,Montana
+10132,25-44,2,Expats,High School,661380,War,Montana
+10133,45+,2,Expats,High School,776684,War,Montana
+10134,18-24,1,Locals,Graduated,941120,War,Montana
+10135,25-44,1,Locals,Graduated,336826,War,Montana
+10136,45+,1,Locals,Graduated,561862,War,Montana
+10137,18-24,2,Locals,Graduated,923403,War,Montana
+10138,25-44,2,Locals,Graduated,273274,War,Montana
+10139,45+,2,Locals,Graduated,437744,War,Montana
+10140,18-24,1,Locals,No Degree,667932,War,Montana
+10141,25-44,1,Locals,No Degree,347919,War,Montana
+10142,45+,1,Locals,No Degree,565074,War,Montana
+10143,18-24,2,Locals,No Degree,511777,War,Montana
+10144,25-44,2,Locals,No Degree,972221,War,Montana
+10145,45+,2,Locals,No Degree,797328,War,Montana
+10146,18-24,1,Locals,High School,431663,War,Montana
+10147,25-44,1,Locals,High School,614486,War,Montana
+10148,45+,1,Locals,High School,952438,War,Montana
+10149,18-24,2,Locals,High School,550826,War,Montana
+10150,25-44,2,Locals,High School,706477,War,Montana
+10151,45+,2,Locals,High School,165654,War,Montana
+10152,18-24,1,Expats,Graduated,550438,War,Nebraska
+10153,25-44,1,Expats,Graduated,780647,War,Nebraska
+10154,45+,1,Expats,Graduated,682271,War,Nebraska
+10155,18-24,2,Expats,Graduated,865183,War,Nebraska
+10156,25-44,2,Expats,Graduated,861368,War,Nebraska
+10157,45+,2,Expats,Graduated,415441,War,Nebraska
+10158,18-24,1,Expats,No Degree,354537,War,Nebraska
+10159,25-44,1,Expats,No Degree,523265,War,Nebraska
+10160,45+,1,Expats,No Degree,796780,War,Nebraska
+10161,18-24,2,Expats,No Degree,493678,War,Nebraska
+10162,25-44,2,Expats,No Degree,558307,War,Nebraska
+10163,45+,2,Expats,No Degree,974800,War,Nebraska
+10164,18-24,1,Expats,High School,517165,War,Nebraska
+10165,25-44,1,Expats,High School,13180,War,Nebraska
+10166,45+,1,Expats,High School,413832,War,Nebraska
+10167,18-24,2,Expats,High School,173405,War,Nebraska
+10168,25-44,2,Expats,High School,115101,War,Nebraska
+10169,45+,2,Expats,High School,164004,War,Nebraska
+10170,18-24,1,Locals,Graduated,395532,War,Nebraska
+10171,25-44,1,Locals,Graduated,788845,War,Nebraska
+10172,45+,1,Locals,Graduated,902202,War,Nebraska
+10173,18-24,2,Locals,Graduated,71636,War,Nebraska
+10174,25-44,2,Locals,Graduated,587535,War,Nebraska
+10175,45+,2,Locals,Graduated,905491,War,Nebraska
+10176,18-24,1,Locals,No Degree,618292,War,Nebraska
+10177,25-44,1,Locals,No Degree,147371,War,Nebraska
+10178,45+,1,Locals,No Degree,802138,War,Nebraska
+10179,18-24,2,Locals,No Degree,436118,War,Nebraska
+10180,25-44,2,Locals,No Degree,815332,War,Nebraska
+10181,45+,2,Locals,No Degree,617704,War,Nebraska
+10182,18-24,1,Locals,High School,246687,War,Nebraska
+10183,25-44,1,Locals,High School,633800,War,Nebraska
+10184,45+,1,Locals,High School,686499,War,Nebraska
+10185,18-24,2,Locals,High School,964474,War,Nebraska
+10186,25-44,2,Locals,High School,399389,War,Nebraska
+10187,45+,2,Locals,High School,177662,War,Nebraska
+10188,18-24,1,Expats,Graduated,649538,War,Nevada
+10189,25-44,1,Expats,Graduated,602173,War,Nevada
+10190,45+,1,Expats,Graduated,94458,War,Nevada
+10191,18-24,2,Expats,Graduated,998891,War,Nevada
+10192,25-44,2,Expats,Graduated,373610,War,Nevada
+10193,45+,2,Expats,Graduated,427008,War,Nevada
+10194,18-24,1,Expats,No Degree,975855,War,Nevada
+10195,25-44,1,Expats,No Degree,312681,War,Nevada
+10196,45+,1,Expats,No Degree,713506,War,Nevada
+10197,18-24,2,Expats,No Degree,382967,War,Nevada
+10198,25-44,2,Expats,No Degree,686238,War,Nevada
+10199,45+,2,Expats,No Degree,283826,War,Nevada
+10200,18-24,1,Expats,High School,595858,War,Nevada
+10201,25-44,1,Expats,High School,82439,War,Nevada
+10202,45+,1,Expats,High School,50466,War,Nevada
+10203,18-24,2,Expats,High School,327220,War,Nevada
+10204,25-44,2,Expats,High School,972295,War,Nevada
+10205,45+,2,Expats,High School,610073,War,Nevada
+10206,18-24,1,Locals,Graduated,808183,War,Nevada
+10207,25-44,1,Locals,Graduated,974146,War,Nevada
+10208,45+,1,Locals,Graduated,144242,War,Nevada
+10209,18-24,2,Locals,Graduated,830462,War,Nevada
+10210,25-44,2,Locals,Graduated,447142,War,Nevada
+10211,45+,2,Locals,Graduated,34802,War,Nevada
+10212,18-24,1,Locals,No Degree,410723,War,Nevada
+10213,25-44,1,Locals,No Degree,240941,War,Nevada
+10214,45+,1,Locals,No Degree,820860,War,Nevada
+10215,18-24,2,Locals,No Degree,497775,War,Nevada
+10216,25-44,2,Locals,No Degree,153512,War,Nevada
+10217,45+,2,Locals,No Degree,26394,War,Nevada
+10218,18-24,1,Locals,High School,764090,War,Nevada
+10219,25-44,1,Locals,High School,461820,War,Nevada
+10220,45+,1,Locals,High School,51873,War,Nevada
+10221,18-24,2,Locals,High School,708328,War,Nevada
+10222,25-44,2,Locals,High School,551104,War,Nevada
+10223,45+,2,Locals,High School,158992,War,Nevada
+10224,18-24,1,Expats,Graduated,21151,War,New Hampshire
+10225,25-44,1,Expats,Graduated,887673,War,New Hampshire
+10226,45+,1,Expats,Graduated,964810,War,New Hampshire
+10227,18-24,2,Expats,Graduated,156396,War,New Hampshire
+10228,25-44,2,Expats,Graduated,929797,War,New Hampshire
+10229,45+,2,Expats,Graduated,132649,War,New Hampshire
+10230,18-24,1,Expats,No Degree,655280,War,New Hampshire
+10231,25-44,1,Expats,No Degree,526885,War,New Hampshire
+10232,45+,1,Expats,No Degree,336408,War,New Hampshire
+10233,18-24,2,Expats,No Degree,347578,War,New Hampshire
+10234,25-44,2,Expats,No Degree,353023,War,New Hampshire
+10235,45+,2,Expats,No Degree,599638,War,New Hampshire
+10236,18-24,1,Expats,High School,991485,War,New Hampshire
+10237,25-44,1,Expats,High School,48823,War,New Hampshire
+10238,45+,1,Expats,High School,638296,War,New Hampshire
+10239,18-24,2,Expats,High School,403155,War,New Hampshire
+10240,25-44,2,Expats,High School,252006,War,New Hampshire
+10241,45+,2,Expats,High School,262514,War,New Hampshire
+10242,18-24,1,Locals,Graduated,676062,War,New Hampshire
+10243,25-44,1,Locals,Graduated,206055,War,New Hampshire
+10244,45+,1,Locals,Graduated,913361,War,New Hampshire
+10245,18-24,2,Locals,Graduated,54132,War,New Hampshire
+10246,25-44,2,Locals,Graduated,222708,War,New Hampshire
+10247,45+,2,Locals,Graduated,38052,War,New Hampshire
+10248,18-24,1,Locals,No Degree,681306,War,New Hampshire
+10249,25-44,1,Locals,No Degree,700084,War,New Hampshire
+10250,45+,1,Locals,No Degree,645784,War,New Hampshire
+10251,18-24,2,Locals,No Degree,495042,War,New Hampshire
+10252,25-44,2,Locals,No Degree,449145,War,New Hampshire
+10253,45+,2,Locals,No Degree,101540,War,New Hampshire
+10254,18-24,1,Locals,High School,655152,War,New Hampshire
+10255,25-44,1,Locals,High School,333034,War,New Hampshire
+10256,45+,1,Locals,High School,664360,War,New Hampshire
+10257,18-24,2,Locals,High School,327066,War,New Hampshire
+10258,25-44,2,Locals,High School,551573,War,New Hampshire
+10259,45+,2,Locals,High School,342463,War,New Hampshire
+10260,18-24,1,Expats,Graduated,449674,War,New Jersey
+10261,25-44,1,Expats,Graduated,463870,War,New Jersey
+10262,45+,1,Expats,Graduated,276505,War,New Jersey
+10263,18-24,2,Expats,Graduated,769822,War,New Jersey
+10264,25-44,2,Expats,Graduated,365908,War,New Jersey
+10265,45+,2,Expats,Graduated,489703,War,New Jersey
+10266,18-24,1,Expats,No Degree,388544,War,New Jersey
+10267,25-44,1,Expats,No Degree,53030,War,New Jersey
+10268,45+,1,Expats,No Degree,247375,War,New Jersey
+10269,18-24,2,Expats,No Degree,637816,War,New Jersey
+10270,25-44,2,Expats,No Degree,903981,War,New Jersey
+10271,45+,2,Expats,No Degree,976927,War,New Jersey
+10272,18-24,1,Expats,High School,791512,War,New Jersey
+10273,25-44,1,Expats,High School,404182,War,New Jersey
+10274,45+,1,Expats,High School,847210,War,New Jersey
+10275,18-24,2,Expats,High School,950753,War,New Jersey
+10276,25-44,2,Expats,High School,644719,War,New Jersey
+10277,45+,2,Expats,High School,933335,War,New Jersey
+10278,18-24,1,Locals,Graduated,272829,War,New Jersey
+10279,25-44,1,Locals,Graduated,495860,War,New Jersey
+10280,45+,1,Locals,Graduated,820155,War,New Jersey
+10281,18-24,2,Locals,Graduated,532815,War,New Jersey
+10282,25-44,2,Locals,Graduated,15016,War,New Jersey
+10283,45+,2,Locals,Graduated,608609,War,New Jersey
+10284,18-24,1,Locals,No Degree,727568,War,New Jersey
+10285,25-44,1,Locals,No Degree,854940,War,New Jersey
+10286,45+,1,Locals,No Degree,594876,War,New Jersey
+10287,18-24,2,Locals,No Degree,412119,War,New Jersey
+10288,25-44,2,Locals,No Degree,78720,War,New Jersey
+10289,45+,2,Locals,No Degree,260470,War,New Jersey
+10290,18-24,1,Locals,High School,11667,War,New Jersey
+10291,25-44,1,Locals,High School,575433,War,New Jersey
+10292,45+,1,Locals,High School,112241,War,New Jersey
+10293,18-24,2,Locals,High School,888365,War,New Jersey
+10294,25-44,2,Locals,High School,699341,War,New Jersey
+10295,45+,2,Locals,High School,650989,War,New Jersey
+10296,18-24,1,Expats,Graduated,983951,War,New Mexico
+10297,25-44,1,Expats,Graduated,83791,War,New Mexico
+10298,45+,1,Expats,Graduated,300313,War,New Mexico
+10299,18-24,2,Expats,Graduated,130612,War,New Mexico
+10300,25-44,2,Expats,Graduated,697141,War,New Mexico
+10301,45+,2,Expats,Graduated,805784,War,New Mexico
+10302,18-24,1,Expats,No Degree,450691,War,New Mexico
+10303,25-44,1,Expats,No Degree,591755,War,New Mexico
+10304,45+,1,Expats,No Degree,247187,War,New Mexico
+10305,18-24,2,Expats,No Degree,136321,War,New Mexico
+10306,25-44,2,Expats,No Degree,805509,War,New Mexico
+10307,45+,2,Expats,No Degree,586529,War,New Mexico
+10308,18-24,1,Expats,High School,586257,War,New Mexico
+10309,25-44,1,Expats,High School,551537,War,New Mexico
+10310,45+,1,Expats,High School,232575,War,New Mexico
+10311,18-24,2,Expats,High School,587862,War,New Mexico
+10312,25-44,2,Expats,High School,271159,War,New Mexico
+10313,45+,2,Expats,High School,288336,War,New Mexico
+10314,18-24,1,Locals,Graduated,251322,War,New Mexico
+10315,25-44,1,Locals,Graduated,774645,War,New Mexico
+10316,45+,1,Locals,Graduated,148830,War,New Mexico
+10317,18-24,2,Locals,Graduated,912201,War,New Mexico
+10318,25-44,2,Locals,Graduated,309384,War,New Mexico
+10319,45+,2,Locals,Graduated,686337,War,New Mexico
+10320,18-24,1,Locals,No Degree,969958,War,New Mexico
+10321,25-44,1,Locals,No Degree,284905,War,New Mexico
+10322,45+,1,Locals,No Degree,509658,War,New Mexico
+10323,18-24,2,Locals,No Degree,201709,War,New Mexico
+10324,25-44,2,Locals,No Degree,406262,War,New Mexico
+10325,45+,2,Locals,No Degree,706923,War,New Mexico
+10326,18-24,1,Locals,High School,504208,War,New Mexico
+10327,25-44,1,Locals,High School,284638,War,New Mexico
+10328,45+,1,Locals,High School,686290,War,New Mexico
+10329,18-24,2,Locals,High School,242990,War,New Mexico
+10330,25-44,2,Locals,High School,257795,War,New Mexico
+10331,45+,2,Locals,High School,385971,War,New Mexico
+10332,18-24,1,Expats,Graduated,952442,War,New York
+10333,25-44,1,Expats,Graduated,733306,War,New York
+10334,45+,1,Expats,Graduated,140192,War,New York
+10335,18-24,2,Expats,Graduated,560990,War,New York
+10336,25-44,2,Expats,Graduated,746406,War,New York
+10337,45+,2,Expats,Graduated,559560,War,New York
+10338,18-24,1,Expats,No Degree,169232,War,New York
+10339,25-44,1,Expats,No Degree,626946,War,New York
+10340,45+,1,Expats,No Degree,894253,War,New York
+10341,18-24,2,Expats,No Degree,391263,War,New York
+10342,25-44,2,Expats,No Degree,753630,War,New York
+10343,45+,2,Expats,No Degree,994257,War,New York
+10344,18-24,1,Expats,High School,821380,War,New York
+10345,25-44,1,Expats,High School,466697,War,New York
+10346,45+,1,Expats,High School,722512,War,New York
+10347,18-24,2,Expats,High School,630139,War,New York
+10348,25-44,2,Expats,High School,932631,War,New York
+10349,45+,2,Expats,High School,301837,War,New York
+10350,18-24,1,Locals,Graduated,421647,War,New York
+10351,25-44,1,Locals,Graduated,897457,War,New York
+10352,45+,1,Locals,Graduated,297328,War,New York
+10353,18-24,2,Locals,Graduated,363623,War,New York
+10354,25-44,2,Locals,Graduated,484245,War,New York
+10355,45+,2,Locals,Graduated,403400,War,New York
+10356,18-24,1,Locals,No Degree,262832,War,New York
+10357,25-44,1,Locals,No Degree,902655,War,New York
+10358,45+,1,Locals,No Degree,80582,War,New York
+10359,18-24,2,Locals,No Degree,16227,War,New York
+10360,25-44,2,Locals,No Degree,120781,War,New York
+10361,45+,2,Locals,No Degree,220734,War,New York
+10362,18-24,1,Locals,High School,905622,War,New York
+10363,25-44,1,Locals,High School,322084,War,New York
+10364,45+,1,Locals,High School,292728,War,New York
+10365,18-24,2,Locals,High School,499788,War,New York
+10366,25-44,2,Locals,High School,442100,War,New York
+10367,45+,2,Locals,High School,518287,War,New York
+10368,18-24,1,Expats,Graduated,280250,War,North Carolina
+10369,25-44,1,Expats,Graduated,54579,War,North Carolina
+10370,45+,1,Expats,Graduated,794146,War,North Carolina
+10371,18-24,2,Expats,Graduated,935491,War,North Carolina
+10372,25-44,2,Expats,Graduated,251701,War,North Carolina
+10373,45+,2,Expats,Graduated,406440,War,North Carolina
+10374,18-24,1,Expats,No Degree,630886,War,North Carolina
+10375,25-44,1,Expats,No Degree,757125,War,North Carolina
+10376,45+,1,Expats,No Degree,837317,War,North Carolina
+10377,18-24,2,Expats,No Degree,428840,War,North Carolina
+10378,25-44,2,Expats,No Degree,705598,War,North Carolina
+10379,45+,2,Expats,No Degree,966886,War,North Carolina
+10380,18-24,1,Expats,High School,363570,War,North Carolina
+10381,25-44,1,Expats,High School,521101,War,North Carolina
+10382,45+,1,Expats,High School,942626,War,North Carolina
+10383,18-24,2,Expats,High School,88710,War,North Carolina
+10384,25-44,2,Expats,High School,787941,War,North Carolina
+10385,45+,2,Expats,High School,53583,War,North Carolina
+10386,18-24,1,Locals,Graduated,615615,War,North Carolina
+10387,25-44,1,Locals,Graduated,15871,War,North Carolina
+10388,45+,1,Locals,Graduated,650943,War,North Carolina
+10389,18-24,2,Locals,Graduated,621686,War,North Carolina
+10390,25-44,2,Locals,Graduated,345698,War,North Carolina
+10391,45+,2,Locals,Graduated,968631,War,North Carolina
+10392,18-24,1,Locals,No Degree,585486,War,North Carolina
+10393,25-44,1,Locals,No Degree,155153,War,North Carolina
+10394,45+,1,Locals,No Degree,59473,War,North Carolina
+10395,18-24,2,Locals,No Degree,775721,War,North Carolina
+10396,25-44,2,Locals,No Degree,711228,War,North Carolina
+10397,45+,2,Locals,No Degree,162472,War,North Carolina
+10398,18-24,1,Locals,High School,452694,War,North Carolina
+10399,25-44,1,Locals,High School,110956,War,North Carolina
+10400,45+,1,Locals,High School,333359,War,North Carolina
+10401,18-24,2,Locals,High School,658173,War,North Carolina
+10402,25-44,2,Locals,High School,981222,War,North Carolina
+10403,45+,2,Locals,High School,555673,War,North Carolina
+10404,18-24,1,Expats,Graduated,954742,War,North Dakota
+10405,25-44,1,Expats,Graduated,747005,War,North Dakota
+10406,45+,1,Expats,Graduated,287210,War,North Dakota
+10407,18-24,2,Expats,Graduated,349575,War,North Dakota
+10408,25-44,2,Expats,Graduated,477900,War,North Dakota
+10409,45+,2,Expats,Graduated,225009,War,North Dakota
+10410,18-24,1,Expats,No Degree,583725,War,North Dakota
+10411,25-44,1,Expats,No Degree,145940,War,North Dakota
+10412,45+,1,Expats,No Degree,523532,War,North Dakota
+10413,18-24,2,Expats,No Degree,771816,War,North Dakota
+10414,25-44,2,Expats,No Degree,865748,War,North Dakota
+10415,45+,2,Expats,No Degree,849624,War,North Dakota
+10416,18-24,1,Expats,High School,278967,War,North Dakota
+10417,25-44,1,Expats,High School,35071,War,North Dakota
+10418,45+,1,Expats,High School,76132,War,North Dakota
+10419,18-24,2,Expats,High School,693719,War,North Dakota
+10420,25-44,2,Expats,High School,299353,War,North Dakota
+10421,45+,2,Expats,High School,457594,War,North Dakota
+10422,18-24,1,Locals,Graduated,394593,War,North Dakota
+10423,25-44,1,Locals,Graduated,94958,War,North Dakota
+10424,45+,1,Locals,Graduated,290474,War,North Dakota
+10425,18-24,2,Locals,Graduated,720566,War,North Dakota
+10426,25-44,2,Locals,Graduated,173567,War,North Dakota
+10427,45+,2,Locals,Graduated,837772,War,North Dakota
+10428,18-24,1,Locals,No Degree,442521,War,North Dakota
+10429,25-44,1,Locals,No Degree,411963,War,North Dakota
+10430,45+,1,Locals,No Degree,412770,War,North Dakota
+10431,18-24,2,Locals,No Degree,108013,War,North Dakota
+10432,25-44,2,Locals,No Degree,34698,War,North Dakota
+10433,45+,2,Locals,No Degree,490730,War,North Dakota
+10434,18-24,1,Locals,High School,836378,War,North Dakota
+10435,25-44,1,Locals,High School,564196,War,North Dakota
+10436,45+,1,Locals,High School,969185,War,North Dakota
+10437,18-24,2,Locals,High School,281982,War,North Dakota
+10438,25-44,2,Locals,High School,442876,War,North Dakota
+10439,45+,2,Locals,High School,847699,War,North Dakota
+10440,18-24,1,Expats,Graduated,228630,War,Ohio
+10441,25-44,1,Expats,Graduated,386633,War,Ohio
+10442,45+,1,Expats,Graduated,191854,War,Ohio
+10443,18-24,2,Expats,Graduated,410579,War,Ohio
+10444,25-44,2,Expats,Graduated,807780,War,Ohio
+10445,45+,2,Expats,Graduated,452950,War,Ohio
+10446,18-24,1,Expats,No Degree,903477,War,Ohio
+10447,25-44,1,Expats,No Degree,59809,War,Ohio
+10448,45+,1,Expats,No Degree,242124,War,Ohio
+10449,18-24,2,Expats,No Degree,262808,War,Ohio
+10450,25-44,2,Expats,No Degree,610627,War,Ohio
+10451,45+,2,Expats,No Degree,130791,War,Ohio
+10452,18-24,1,Expats,High School,297854,War,Ohio
+10453,25-44,1,Expats,High School,96829,War,Ohio
+10454,45+,1,Expats,High School,693007,War,Ohio
+10455,18-24,2,Expats,High School,396027,War,Ohio
+10456,25-44,2,Expats,High School,815849,War,Ohio
+10457,45+,2,Expats,High School,951745,War,Ohio
+10458,18-24,1,Locals,Graduated,970294,War,Ohio
+10459,25-44,1,Locals,Graduated,16978,War,Ohio
+10460,45+,1,Locals,Graduated,286838,War,Ohio
+10461,18-24,2,Locals,Graduated,983425,War,Ohio
+10462,25-44,2,Locals,Graduated,774793,War,Ohio
+10463,45+,2,Locals,Graduated,23834,War,Ohio
+10464,18-24,1,Locals,No Degree,923845,War,Ohio
+10465,25-44,1,Locals,No Degree,339900,War,Ohio
+10466,45+,1,Locals,No Degree,353554,War,Ohio
+10467,18-24,2,Locals,No Degree,365845,War,Ohio
+10468,25-44,2,Locals,No Degree,769602,War,Ohio
+10469,45+,2,Locals,No Degree,770831,War,Ohio
+10470,18-24,1,Locals,High School,941356,War,Ohio
+10471,25-44,1,Locals,High School,750954,War,Ohio
+10472,45+,1,Locals,High School,151202,War,Ohio
+10473,18-24,2,Locals,High School,698780,War,Ohio
+10474,25-44,2,Locals,High School,330294,War,Ohio
+10475,45+,2,Locals,High School,829185,War,Ohio
+10476,18-24,1,Expats,Graduated,837276,War,Oklahoma
+10477,25-44,1,Expats,Graduated,303049,War,Oklahoma
+10478,45+,1,Expats,Graduated,596182,War,Oklahoma
+10479,18-24,2,Expats,Graduated,85990,War,Oklahoma
+10480,25-44,2,Expats,Graduated,86431,War,Oklahoma
+10481,45+,2,Expats,Graduated,818437,War,Oklahoma
+10482,18-24,1,Expats,No Degree,566227,War,Oklahoma
+10483,25-44,1,Expats,No Degree,849406,War,Oklahoma
+10484,45+,1,Expats,No Degree,263924,War,Oklahoma
+10485,18-24,2,Expats,No Degree,586087,War,Oklahoma
+10486,25-44,2,Expats,No Degree,780704,War,Oklahoma
+10487,45+,2,Expats,No Degree,416078,War,Oklahoma
+10488,18-24,1,Expats,High School,141845,War,Oklahoma
+10489,25-44,1,Expats,High School,354848,War,Oklahoma
+10490,45+,1,Expats,High School,785717,War,Oklahoma
+10491,18-24,2,Expats,High School,846900,War,Oklahoma
+10492,25-44,2,Expats,High School,61731,War,Oklahoma
+10493,45+,2,Expats,High School,304878,War,Oklahoma
+10494,18-24,1,Locals,Graduated,744392,War,Oklahoma
+10495,25-44,1,Locals,Graduated,613210,War,Oklahoma
+10496,45+,1,Locals,Graduated,897543,War,Oklahoma
+10497,18-24,2,Locals,Graduated,92022,War,Oklahoma
+10498,25-44,2,Locals,Graduated,698459,War,Oklahoma
+10499,45+,2,Locals,Graduated,362874,War,Oklahoma
+10500,18-24,1,Locals,No Degree,976916,War,Oklahoma
+10501,25-44,1,Locals,No Degree,812650,War,Oklahoma
+10502,45+,1,Locals,No Degree,960802,War,Oklahoma
+10503,18-24,2,Locals,No Degree,2946,War,Oklahoma
+10504,25-44,2,Locals,No Degree,340515,War,Oklahoma
+10505,45+,2,Locals,No Degree,474810,War,Oklahoma
+10506,18-24,1,Locals,High School,120645,War,Oklahoma
+10507,25-44,1,Locals,High School,27495,War,Oklahoma
+10508,45+,1,Locals,High School,169965,War,Oklahoma
+10509,18-24,2,Locals,High School,813761,War,Oklahoma
+10510,25-44,2,Locals,High School,513739,War,Oklahoma
+10511,45+,2,Locals,High School,541024,War,Oklahoma
+10512,18-24,1,Expats,Graduated,310470,War,Oregon
+10513,25-44,1,Expats,Graduated,273101,War,Oregon
+10514,45+,1,Expats,Graduated,525968,War,Oregon
+10515,18-24,2,Expats,Graduated,944231,War,Oregon
+10516,25-44,2,Expats,Graduated,170195,War,Oregon
+10517,45+,2,Expats,Graduated,479529,War,Oregon
+10518,18-24,1,Expats,No Degree,612012,War,Oregon
+10519,25-44,1,Expats,No Degree,547864,War,Oregon
+10520,45+,1,Expats,No Degree,567057,War,Oregon
+10521,18-24,2,Expats,No Degree,955606,War,Oregon
+10522,25-44,2,Expats,No Degree,480126,War,Oregon
+10523,45+,2,Expats,No Degree,360809,War,Oregon
+10524,18-24,1,Expats,High School,803003,War,Oregon
+10525,25-44,1,Expats,High School,163187,War,Oregon
+10526,45+,1,Expats,High School,424567,War,Oregon
+10527,18-24,2,Expats,High School,735011,War,Oregon
+10528,25-44,2,Expats,High School,432807,War,Oregon
+10529,45+,2,Expats,High School,210779,War,Oregon
+10530,18-24,1,Locals,Graduated,422067,War,Oregon
+10531,25-44,1,Locals,Graduated,854609,War,Oregon
+10532,45+,1,Locals,Graduated,704486,War,Oregon
+10533,18-24,2,Locals,Graduated,414688,War,Oregon
+10534,25-44,2,Locals,Graduated,399332,War,Oregon
+10535,45+,2,Locals,Graduated,397352,War,Oregon
+10536,18-24,1,Locals,No Degree,539613,War,Oregon
+10537,25-44,1,Locals,No Degree,649616,War,Oregon
+10538,45+,1,Locals,No Degree,633566,War,Oregon
+10539,18-24,2,Locals,No Degree,197013,War,Oregon
+10540,25-44,2,Locals,No Degree,407269,War,Oregon
+10541,45+,2,Locals,No Degree,586448,War,Oregon
+10542,18-24,1,Locals,High School,908686,War,Oregon
+10543,25-44,1,Locals,High School,868055,War,Oregon
+10544,45+,1,Locals,High School,271229,War,Oregon
+10545,18-24,2,Locals,High School,224080,War,Oregon
+10546,25-44,2,Locals,High School,234449,War,Oregon
+10547,45+,2,Locals,High School,432102,War,Oregon
+10548,18-24,1,Expats,Graduated,502563,War,Pennsylvania
+10549,25-44,1,Expats,Graduated,207792,War,Pennsylvania
+10550,45+,1,Expats,Graduated,387744,War,Pennsylvania
+10551,18-24,2,Expats,Graduated,168920,War,Pennsylvania
+10552,25-44,2,Expats,Graduated,787304,War,Pennsylvania
+10553,45+,2,Expats,Graduated,28607,War,Pennsylvania
+10554,18-24,1,Expats,No Degree,527055,War,Pennsylvania
+10555,25-44,1,Expats,No Degree,670349,War,Pennsylvania
+10556,45+,1,Expats,No Degree,582091,War,Pennsylvania
+10557,18-24,2,Expats,No Degree,988051,War,Pennsylvania
+10558,25-44,2,Expats,No Degree,702336,War,Pennsylvania
+10559,45+,2,Expats,No Degree,441426,War,Pennsylvania
+10560,18-24,1,Expats,High School,452085,War,Pennsylvania
+10561,25-44,1,Expats,High School,364419,War,Pennsylvania
+10562,45+,1,Expats,High School,193501,War,Pennsylvania
+10563,18-24,2,Expats,High School,357382,War,Pennsylvania
+10564,25-44,2,Expats,High School,507882,War,Pennsylvania
+10565,45+,2,Expats,High School,546891,War,Pennsylvania
+10566,18-24,1,Locals,Graduated,769145,War,Pennsylvania
+10567,25-44,1,Locals,Graduated,78868,War,Pennsylvania
+10568,45+,1,Locals,Graduated,466765,War,Pennsylvania
+10569,18-24,2,Locals,Graduated,277052,War,Pennsylvania
+10570,25-44,2,Locals,Graduated,12067,War,Pennsylvania
+10571,45+,2,Locals,Graduated,997066,War,Pennsylvania
+10572,18-24,1,Locals,No Degree,385962,War,Pennsylvania
+10573,25-44,1,Locals,No Degree,404253,War,Pennsylvania
+10574,45+,1,Locals,No Degree,627845,War,Pennsylvania
+10575,18-24,2,Locals,No Degree,137698,War,Pennsylvania
+10576,25-44,2,Locals,No Degree,451177,War,Pennsylvania
+10577,45+,2,Locals,No Degree,409607,War,Pennsylvania
+10578,18-24,1,Locals,High School,235933,War,Pennsylvania
+10579,25-44,1,Locals,High School,189529,War,Pennsylvania
+10580,45+,1,Locals,High School,455675,War,Pennsylvania
+10581,18-24,2,Locals,High School,61442,War,Pennsylvania
+10582,25-44,2,Locals,High School,195775,War,Pennsylvania
+10583,45+,2,Locals,High School,641142,War,Pennsylvania
+10584,18-24,1,Expats,Graduated,200683,War,Rhode Island
+10585,25-44,1,Expats,Graduated,784884,War,Rhode Island
+10586,45+,1,Expats,Graduated,836466,War,Rhode Island
+10587,18-24,2,Expats,Graduated,164157,War,Rhode Island
+10588,25-44,2,Expats,Graduated,140089,War,Rhode Island
+10589,45+,2,Expats,Graduated,767968,War,Rhode Island
+10590,18-24,1,Expats,No Degree,958571,War,Rhode Island
+10591,25-44,1,Expats,No Degree,844357,War,Rhode Island
+10592,45+,1,Expats,No Degree,570447,War,Rhode Island
+10593,18-24,2,Expats,No Degree,464815,War,Rhode Island
+10594,25-44,2,Expats,No Degree,428867,War,Rhode Island
+10595,45+,2,Expats,No Degree,260625,War,Rhode Island
+10596,18-24,1,Expats,High School,52361,War,Rhode Island
+10597,25-44,1,Expats,High School,520848,War,Rhode Island
+10598,45+,1,Expats,High School,156566,War,Rhode Island
+10599,18-24,2,Expats,High School,579413,War,Rhode Island
+10600,25-44,2,Expats,High School,79320,War,Rhode Island
+10601,45+,2,Expats,High School,543432,War,Rhode Island
+10602,18-24,1,Locals,Graduated,586831,War,Rhode Island
+10603,25-44,1,Locals,Graduated,312214,War,Rhode Island
+10604,45+,1,Locals,Graduated,235668,War,Rhode Island
+10605,18-24,2,Locals,Graduated,980682,War,Rhode Island
+10606,25-44,2,Locals,Graduated,717856,War,Rhode Island
+10607,45+,2,Locals,Graduated,96149,War,Rhode Island
+10608,18-24,1,Locals,No Degree,868221,War,Rhode Island
+10609,25-44,1,Locals,No Degree,974704,War,Rhode Island
+10610,45+,1,Locals,No Degree,268539,War,Rhode Island
+10611,18-24,2,Locals,No Degree,779025,War,Rhode Island
+10612,25-44,2,Locals,No Degree,871144,War,Rhode Island
+10613,45+,2,Locals,No Degree,833143,War,Rhode Island
+10614,18-24,1,Locals,High School,245904,War,Rhode Island
+10615,25-44,1,Locals,High School,414228,War,Rhode Island
+10616,45+,1,Locals,High School,296146,War,Rhode Island
+10617,18-24,2,Locals,High School,871023,War,Rhode Island
+10618,25-44,2,Locals,High School,941206,War,Rhode Island
+10619,45+,2,Locals,High School,143222,War,Rhode Island
+10620,18-24,1,Expats,Graduated,37974,War,South Carolina
+10621,25-44,1,Expats,Graduated,985305,War,South Carolina
+10622,45+,1,Expats,Graduated,154309,War,South Carolina
+10623,18-24,2,Expats,Graduated,703098,War,South Carolina
+10624,25-44,2,Expats,Graduated,961944,War,South Carolina
+10625,45+,2,Expats,Graduated,135813,War,South Carolina
+10626,18-24,1,Expats,No Degree,823482,War,South Carolina
+10627,25-44,1,Expats,No Degree,551530,War,South Carolina
+10628,45+,1,Expats,No Degree,998608,War,South Carolina
+10629,18-24,2,Expats,No Degree,665846,War,South Carolina
+10630,25-44,2,Expats,No Degree,670350,War,South Carolina
+10631,45+,2,Expats,No Degree,816391,War,South Carolina
+10632,18-24,1,Expats,High School,422236,War,South Carolina
+10633,25-44,1,Expats,High School,967467,War,South Carolina
+10634,45+,1,Expats,High School,153326,War,South Carolina
+10635,18-24,2,Expats,High School,413195,War,South Carolina
+10636,25-44,2,Expats,High School,669658,War,South Carolina
+10637,45+,2,Expats,High School,348501,War,South Carolina
+10638,18-24,1,Locals,Graduated,263416,War,South Carolina
+10639,25-44,1,Locals,Graduated,706624,War,South Carolina
+10640,45+,1,Locals,Graduated,392085,War,South Carolina
+10641,18-24,2,Locals,Graduated,593970,War,South Carolina
+10642,25-44,2,Locals,Graduated,133126,War,South Carolina
+10643,45+,2,Locals,Graduated,973457,War,South Carolina
+10644,18-24,1,Locals,No Degree,447253,War,South Carolina
+10645,25-44,1,Locals,No Degree,788710,War,South Carolina
+10646,45+,1,Locals,No Degree,909611,War,South Carolina
+10647,18-24,2,Locals,No Degree,1335,War,South Carolina
+10648,25-44,2,Locals,No Degree,869984,War,South Carolina
+10649,45+,2,Locals,No Degree,804245,War,South Carolina
+10650,18-24,1,Locals,High School,785999,War,South Carolina
+10651,25-44,1,Locals,High School,143267,War,South Carolina
+10652,45+,1,Locals,High School,111171,War,South Carolina
+10653,18-24,2,Locals,High School,314449,War,South Carolina
+10654,25-44,2,Locals,High School,74184,War,South Carolina
+10655,45+,2,Locals,High School,444984,War,South Carolina
+10656,18-24,1,Expats,Graduated,729434,War,South Dakota
+10657,25-44,1,Expats,Graduated,938344,War,South Dakota
+10658,45+,1,Expats,Graduated,218717,War,South Dakota
+10659,18-24,2,Expats,Graduated,443101,War,South Dakota
+10660,25-44,2,Expats,Graduated,684225,War,South Dakota
+10661,45+,2,Expats,Graduated,459925,War,South Dakota
+10662,18-24,1,Expats,No Degree,312221,War,South Dakota
+10663,25-44,1,Expats,No Degree,249282,War,South Dakota
+10664,45+,1,Expats,No Degree,666391,War,South Dakota
+10665,18-24,2,Expats,No Degree,92461,War,South Dakota
+10666,25-44,2,Expats,No Degree,447505,War,South Dakota
+10667,45+,2,Expats,No Degree,138433,War,South Dakota
+10668,18-24,1,Expats,High School,654347,War,South Dakota
+10669,25-44,1,Expats,High School,194715,War,South Dakota
+10670,45+,1,Expats,High School,387554,War,South Dakota
+10671,18-24,2,Expats,High School,194626,War,South Dakota
+10672,25-44,2,Expats,High School,847735,War,South Dakota
+10673,45+,2,Expats,High School,374366,War,South Dakota
+10674,18-24,1,Locals,Graduated,842031,War,South Dakota
+10675,25-44,1,Locals,Graduated,931471,War,South Dakota
+10676,45+,1,Locals,Graduated,804885,War,South Dakota
+10677,18-24,2,Locals,Graduated,949855,War,South Dakota
+10678,25-44,2,Locals,Graduated,438310,War,South Dakota
+10679,45+,2,Locals,Graduated,619922,War,South Dakota
+10680,18-24,1,Locals,No Degree,760655,War,South Dakota
+10681,25-44,1,Locals,No Degree,332579,War,South Dakota
+10682,45+,1,Locals,No Degree,680042,War,South Dakota
+10683,18-24,2,Locals,No Degree,25962,War,South Dakota
+10684,25-44,2,Locals,No Degree,797286,War,South Dakota
+10685,45+,2,Locals,No Degree,780412,War,South Dakota
+10686,18-24,1,Locals,High School,669310,War,South Dakota
+10687,25-44,1,Locals,High School,464029,War,South Dakota
+10688,45+,1,Locals,High School,752242,War,South Dakota
+10689,18-24,2,Locals,High School,923493,War,South Dakota
+10690,25-44,2,Locals,High School,510200,War,South Dakota
+10691,45+,2,Locals,High School,5502,War,South Dakota
+10692,18-24,1,Expats,Graduated,471705,War,Tennessee
+10693,25-44,1,Expats,Graduated,785715,War,Tennessee
+10694,45+,1,Expats,Graduated,95927,War,Tennessee
+10695,18-24,2,Expats,Graduated,655384,War,Tennessee
+10696,25-44,2,Expats,Graduated,381638,War,Tennessee
+10697,45+,2,Expats,Graduated,386156,War,Tennessee
+10698,18-24,1,Expats,No Degree,708431,War,Tennessee
+10699,25-44,1,Expats,No Degree,266240,War,Tennessee
+10700,45+,1,Expats,No Degree,638136,War,Tennessee
+10701,18-24,2,Expats,No Degree,112690,War,Tennessee
+10702,25-44,2,Expats,No Degree,869153,War,Tennessee
+10703,45+,2,Expats,No Degree,106611,War,Tennessee
+10704,18-24,1,Expats,High School,535191,War,Tennessee
+10705,25-44,1,Expats,High School,994036,War,Tennessee
+10706,45+,1,Expats,High School,751866,War,Tennessee
+10707,18-24,2,Expats,High School,54008,War,Tennessee
+10708,25-44,2,Expats,High School,712737,War,Tennessee
+10709,45+,2,Expats,High School,112487,War,Tennessee
+10710,18-24,1,Locals,Graduated,772802,War,Tennessee
+10711,25-44,1,Locals,Graduated,27544,War,Tennessee
+10712,45+,1,Locals,Graduated,707830,War,Tennessee
+10713,18-24,2,Locals,Graduated,797790,War,Tennessee
+10714,25-44,2,Locals,Graduated,736471,War,Tennessee
+10715,45+,2,Locals,Graduated,428073,War,Tennessee
+10716,18-24,1,Locals,No Degree,318812,War,Tennessee
+10717,25-44,1,Locals,No Degree,614172,War,Tennessee
+10718,45+,1,Locals,No Degree,651599,War,Tennessee
+10719,18-24,2,Locals,No Degree,568712,War,Tennessee
+10720,25-44,2,Locals,No Degree,115184,War,Tennessee
+10721,45+,2,Locals,No Degree,690404,War,Tennessee
+10722,18-24,1,Locals,High School,486823,War,Tennessee
+10723,25-44,1,Locals,High School,150514,War,Tennessee
+10724,45+,1,Locals,High School,138990,War,Tennessee
+10725,18-24,2,Locals,High School,26628,War,Tennessee
+10726,25-44,2,Locals,High School,217368,War,Tennessee
+10727,45+,2,Locals,High School,739149,War,Tennessee
+10728,18-24,1,Expats,Graduated,159999,War,Texas
+10729,25-44,1,Expats,Graduated,505662,War,Texas
+10730,45+,1,Expats,Graduated,938124,War,Texas
+10731,18-24,2,Expats,Graduated,266326,War,Texas
+10732,25-44,2,Expats,Graduated,166260,War,Texas
+10733,45+,2,Expats,Graduated,952631,War,Texas
+10734,18-24,1,Expats,No Degree,80723,War,Texas
+10735,25-44,1,Expats,No Degree,919997,War,Texas
+10736,45+,1,Expats,No Degree,117237,War,Texas
+10737,18-24,2,Expats,No Degree,543552,War,Texas
+10738,25-44,2,Expats,No Degree,619386,War,Texas
+10739,45+,2,Expats,No Degree,481867,War,Texas
+10740,18-24,1,Expats,High School,239377,War,Texas
+10741,25-44,1,Expats,High School,652122,War,Texas
+10742,45+,1,Expats,High School,916449,War,Texas
+10743,18-24,2,Expats,High School,632434,War,Texas
+10744,25-44,2,Expats,High School,147135,War,Texas
+10745,45+,2,Expats,High School,362060,War,Texas
+10746,18-24,1,Locals,Graduated,547617,War,Texas
+10747,25-44,1,Locals,Graduated,861264,War,Texas
+10748,45+,1,Locals,Graduated,359960,War,Texas
+10749,18-24,2,Locals,Graduated,396590,War,Texas
+10750,25-44,2,Locals,Graduated,878676,War,Texas
+10751,45+,2,Locals,Graduated,159152,War,Texas
+10752,18-24,1,Locals,No Degree,165702,War,Texas
+10753,25-44,1,Locals,No Degree,644396,War,Texas
+10754,45+,1,Locals,No Degree,157973,War,Texas
+10755,18-24,2,Locals,No Degree,648222,War,Texas
+10756,25-44,2,Locals,No Degree,40543,War,Texas
+10757,45+,2,Locals,No Degree,467335,War,Texas
+10758,18-24,1,Locals,High School,815441,War,Texas
+10759,25-44,1,Locals,High School,867140,War,Texas
+10760,45+,1,Locals,High School,207400,War,Texas
+10761,18-24,2,Locals,High School,702783,War,Texas
+10762,25-44,2,Locals,High School,567883,War,Texas
+10763,45+,2,Locals,High School,485072,War,Texas
+10764,18-24,1,Expats,Graduated,194956,War,Utah
+10765,25-44,1,Expats,Graduated,79961,War,Utah
+10766,45+,1,Expats,Graduated,3317,War,Utah
+10767,18-24,2,Expats,Graduated,110306,War,Utah
+10768,25-44,2,Expats,Graduated,796182,War,Utah
+10769,45+,2,Expats,Graduated,9840,War,Utah
+10770,18-24,1,Expats,No Degree,930318,War,Utah
+10771,25-44,1,Expats,No Degree,536939,War,Utah
+10772,45+,1,Expats,No Degree,510472,War,Utah
+10773,18-24,2,Expats,No Degree,97997,War,Utah
+10774,25-44,2,Expats,No Degree,506007,War,Utah
+10775,45+,2,Expats,No Degree,124796,War,Utah
+10776,18-24,1,Expats,High School,821069,War,Utah
+10777,25-44,1,Expats,High School,463574,War,Utah
+10778,45+,1,Expats,High School,147546,War,Utah
+10779,18-24,2,Expats,High School,549770,War,Utah
+10780,25-44,2,Expats,High School,453359,War,Utah
+10781,45+,2,Expats,High School,260097,War,Utah
+10782,18-24,1,Locals,Graduated,928729,War,Utah
+10783,25-44,1,Locals,Graduated,949557,War,Utah
+10784,45+,1,Locals,Graduated,810306,War,Utah
+10785,18-24,2,Locals,Graduated,120362,War,Utah
+10786,25-44,2,Locals,Graduated,535295,War,Utah
+10787,45+,2,Locals,Graduated,679356,War,Utah
+10788,18-24,1,Locals,No Degree,493084,War,Utah
+10789,25-44,1,Locals,No Degree,460017,War,Utah
+10790,45+,1,Locals,No Degree,603009,War,Utah
+10791,18-24,2,Locals,No Degree,586496,War,Utah
+10792,25-44,2,Locals,No Degree,893166,War,Utah
+10793,45+,2,Locals,No Degree,254295,War,Utah
+10794,18-24,1,Locals,High School,237753,War,Utah
+10795,25-44,1,Locals,High School,896637,War,Utah
+10796,45+,1,Locals,High School,820043,War,Utah
+10797,18-24,2,Locals,High School,585201,War,Utah
+10798,25-44,2,Locals,High School,165439,War,Utah
+10799,45+,2,Locals,High School,229484,War,Utah
+10800,18-24,1,Expats,Graduated,82700,War,Vermont
+10801,25-44,1,Expats,Graduated,675785,War,Vermont
+10802,45+,1,Expats,Graduated,874448,War,Vermont
+10803,18-24,2,Expats,Graduated,450051,War,Vermont
+10804,25-44,2,Expats,Graduated,664583,War,Vermont
+10805,45+,2,Expats,Graduated,503921,War,Vermont
+10806,18-24,1,Expats,No Degree,700775,War,Vermont
+10807,25-44,1,Expats,No Degree,297762,War,Vermont
+10808,45+,1,Expats,No Degree,56836,War,Vermont
+10809,18-24,2,Expats,No Degree,556206,War,Vermont
+10810,25-44,2,Expats,No Degree,618551,War,Vermont
+10811,45+,2,Expats,No Degree,857378,War,Vermont
+10812,18-24,1,Expats,High School,405089,War,Vermont
+10813,25-44,1,Expats,High School,704385,War,Vermont
+10814,45+,1,Expats,High School,930307,War,Vermont
+10815,18-24,2,Expats,High School,524753,War,Vermont
+10816,25-44,2,Expats,High School,595952,War,Vermont
+10817,45+,2,Expats,High School,334539,War,Vermont
+10818,18-24,1,Locals,Graduated,707197,War,Vermont
+10819,25-44,1,Locals,Graduated,295632,War,Vermont
+10820,45+,1,Locals,Graduated,802746,War,Vermont
+10821,18-24,2,Locals,Graduated,158761,War,Vermont
+10822,25-44,2,Locals,Graduated,738329,War,Vermont
+10823,45+,2,Locals,Graduated,915026,War,Vermont
+10824,18-24,1,Locals,No Degree,900791,War,Vermont
+10825,25-44,1,Locals,No Degree,552953,War,Vermont
+10826,45+,1,Locals,No Degree,836839,War,Vermont
+10827,18-24,2,Locals,No Degree,315741,War,Vermont
+10828,25-44,2,Locals,No Degree,568027,War,Vermont
+10829,45+,2,Locals,No Degree,4559,War,Vermont
+10830,18-24,1,Locals,High School,237070,War,Vermont
+10831,25-44,1,Locals,High School,15788,War,Vermont
+10832,45+,1,Locals,High School,542999,War,Vermont
+10833,18-24,2,Locals,High School,623191,War,Vermont
+10834,25-44,2,Locals,High School,401944,War,Vermont
+10835,45+,2,Locals,High School,671406,War,Vermont
+10836,18-24,1,Expats,Graduated,968375,War,Virginia
+10837,25-44,1,Expats,Graduated,821616,War,Virginia
+10838,45+,1,Expats,Graduated,558503,War,Virginia
+10839,18-24,2,Expats,Graduated,282266,War,Virginia
+10840,25-44,2,Expats,Graduated,700683,War,Virginia
+10841,45+,2,Expats,Graduated,214421,War,Virginia
+10842,18-24,1,Expats,No Degree,959520,War,Virginia
+10843,25-44,1,Expats,No Degree,981859,War,Virginia
+10844,45+,1,Expats,No Degree,699369,War,Virginia
+10845,18-24,2,Expats,No Degree,356927,War,Virginia
+10846,25-44,2,Expats,No Degree,381118,War,Virginia
+10847,45+,2,Expats,No Degree,298766,War,Virginia
+10848,18-24,1,Expats,High School,642028,War,Virginia
+10849,25-44,1,Expats,High School,310626,War,Virginia
+10850,45+,1,Expats,High School,563366,War,Virginia
+10851,18-24,2,Expats,High School,203585,War,Virginia
+10852,25-44,2,Expats,High School,659469,War,Virginia
+10853,45+,2,Expats,High School,281551,War,Virginia
+10854,18-24,1,Locals,Graduated,216761,War,Virginia
+10855,25-44,1,Locals,Graduated,4328,War,Virginia
+10856,45+,1,Locals,Graduated,8625,War,Virginia
+10857,18-24,2,Locals,Graduated,211052,War,Virginia
+10858,25-44,2,Locals,Graduated,738174,War,Virginia
+10859,45+,2,Locals,Graduated,223135,War,Virginia
+10860,18-24,1,Locals,No Degree,442572,War,Virginia
+10861,25-44,1,Locals,No Degree,180789,War,Virginia
+10862,45+,1,Locals,No Degree,199897,War,Virginia
+10863,18-24,2,Locals,No Degree,402978,War,Virginia
+10864,25-44,2,Locals,No Degree,699086,War,Virginia
+10865,45+,2,Locals,No Degree,687863,War,Virginia
+10866,18-24,1,Locals,High School,735453,War,Virginia
+10867,25-44,1,Locals,High School,811424,War,Virginia
+10868,45+,1,Locals,High School,452435,War,Virginia
+10869,18-24,2,Locals,High School,200665,War,Virginia
+10870,25-44,2,Locals,High School,898882,War,Virginia
+10871,45+,2,Locals,High School,303938,War,Virginia
+10872,18-24,1,Expats,Graduated,383320,War,Washington
+10873,25-44,1,Expats,Graduated,175888,War,Washington
+10874,45+,1,Expats,Graduated,531387,War,Washington
+10875,18-24,2,Expats,Graduated,502912,War,Washington
+10876,25-44,2,Expats,Graduated,702689,War,Washington
+10877,45+,2,Expats,Graduated,109379,War,Washington
+10878,18-24,1,Expats,No Degree,692873,War,Washington
+10879,25-44,1,Expats,No Degree,730310,War,Washington
+10880,45+,1,Expats,No Degree,173997,War,Washington
+10881,18-24,2,Expats,No Degree,321177,War,Washington
+10882,25-44,2,Expats,No Degree,213052,War,Washington
+10883,45+,2,Expats,No Degree,202131,War,Washington
+10884,18-24,1,Expats,High School,519291,War,Washington
+10885,25-44,1,Expats,High School,154595,War,Washington
+10886,45+,1,Expats,High School,928372,War,Washington
+10887,18-24,2,Expats,High School,925174,War,Washington
+10888,25-44,2,Expats,High School,896402,War,Washington
+10889,45+,2,Expats,High School,84050,War,Washington
+10890,18-24,1,Locals,Graduated,509994,War,Washington
+10891,25-44,1,Locals,Graduated,387615,War,Washington
+10892,45+,1,Locals,Graduated,111986,War,Washington
+10893,18-24,2,Locals,Graduated,270254,War,Washington
+10894,25-44,2,Locals,Graduated,217972,War,Washington
+10895,45+,2,Locals,Graduated,299031,War,Washington
+10896,18-24,1,Locals,No Degree,73581,War,Washington
+10897,25-44,1,Locals,No Degree,487022,War,Washington
+10898,45+,1,Locals,No Degree,513704,War,Washington
+10899,18-24,2,Locals,No Degree,952897,War,Washington
+10900,25-44,2,Locals,No Degree,825190,War,Washington
+10901,45+,2,Locals,No Degree,508866,War,Washington
+10902,18-24,1,Locals,High School,670059,War,Washington
+10903,25-44,1,Locals,High School,863291,War,Washington
+10904,45+,1,Locals,High School,752335,War,Washington
+10905,18-24,2,Locals,High School,220085,War,Washington
+10906,25-44,2,Locals,High School,94908,War,Washington
+10907,45+,2,Locals,High School,501599,War,Washington
+10908,18-24,1,Expats,Graduated,171005,War,West Virginia
+10909,25-44,1,Expats,Graduated,892945,War,West Virginia
+10910,45+,1,Expats,Graduated,767096,War,West Virginia
+10911,18-24,2,Expats,Graduated,63579,War,West Virginia
+10912,25-44,2,Expats,Graduated,719225,War,West Virginia
+10913,45+,2,Expats,Graduated,592485,War,West Virginia
+10914,18-24,1,Expats,No Degree,250980,War,West Virginia
+10915,25-44,1,Expats,No Degree,947338,War,West Virginia
+10916,45+,1,Expats,No Degree,593826,War,West Virginia
+10917,18-24,2,Expats,No Degree,741046,War,West Virginia
+10918,25-44,2,Expats,No Degree,281103,War,West Virginia
+10919,45+,2,Expats,No Degree,860912,War,West Virginia
+10920,18-24,1,Expats,High School,918461,War,West Virginia
+10921,25-44,1,Expats,High School,312689,War,West Virginia
+10922,45+,1,Expats,High School,927869,War,West Virginia
+10923,18-24,2,Expats,High School,508896,War,West Virginia
+10924,25-44,2,Expats,High School,908795,War,West Virginia
+10925,45+,2,Expats,High School,563644,War,West Virginia
+10926,18-24,1,Locals,Graduated,77711,War,West Virginia
+10927,25-44,1,Locals,Graduated,967522,War,West Virginia
+10928,45+,1,Locals,Graduated,328960,War,West Virginia
+10929,18-24,2,Locals,Graduated,677212,War,West Virginia
+10930,25-44,2,Locals,Graduated,385954,War,West Virginia
+10931,45+,2,Locals,Graduated,725354,War,West Virginia
+10932,18-24,1,Locals,No Degree,839547,War,West Virginia
+10933,25-44,1,Locals,No Degree,32009,War,West Virginia
+10934,45+,1,Locals,No Degree,357678,War,West Virginia
+10935,18-24,2,Locals,No Degree,888336,War,West Virginia
+10936,25-44,2,Locals,No Degree,555854,War,West Virginia
+10937,45+,2,Locals,No Degree,935621,War,West Virginia
+10938,18-24,1,Locals,High School,479906,War,West Virginia
+10939,25-44,1,Locals,High School,691146,War,West Virginia
+10940,45+,1,Locals,High School,188275,War,West Virginia
+10941,18-24,2,Locals,High School,665256,War,West Virginia
+10942,25-44,2,Locals,High School,913557,War,West Virginia
+10943,45+,2,Locals,High School,186702,War,West Virginia
+10944,18-24,1,Expats,Graduated,502288,War,Wisconsin
+10945,25-44,1,Expats,Graduated,280657,War,Wisconsin
+10946,45+,1,Expats,Graduated,366883,War,Wisconsin
+10947,18-24,2,Expats,Graduated,302415,War,Wisconsin
+10948,25-44,2,Expats,Graduated,557574,War,Wisconsin
+10949,45+,2,Expats,Graduated,594235,War,Wisconsin
+10950,18-24,1,Expats,No Degree,685731,War,Wisconsin
+10951,25-44,1,Expats,No Degree,946259,War,Wisconsin
+10952,45+,1,Expats,No Degree,244055,War,Wisconsin
+10953,18-24,2,Expats,No Degree,405007,War,Wisconsin
+10954,25-44,2,Expats,No Degree,17422,War,Wisconsin
+10955,45+,2,Expats,No Degree,475245,War,Wisconsin
+10956,18-24,1,Expats,High School,104277,War,Wisconsin
+10957,25-44,1,Expats,High School,105856,War,Wisconsin
+10958,45+,1,Expats,High School,303337,War,Wisconsin
+10959,18-24,2,Expats,High School,589456,War,Wisconsin
+10960,25-44,2,Expats,High School,329460,War,Wisconsin
+10961,45+,2,Expats,High School,497037,War,Wisconsin
+10962,18-24,1,Locals,Graduated,480140,War,Wisconsin
+10963,25-44,1,Locals,Graduated,884419,War,Wisconsin
+10964,45+,1,Locals,Graduated,656916,War,Wisconsin
+10965,18-24,2,Locals,Graduated,811972,War,Wisconsin
+10966,25-44,2,Locals,Graduated,619296,War,Wisconsin
+10967,45+,2,Locals,Graduated,477063,War,Wisconsin
+10968,18-24,1,Locals,No Degree,760219,War,Wisconsin
+10969,25-44,1,Locals,No Degree,474921,War,Wisconsin
+10970,45+,1,Locals,No Degree,528412,War,Wisconsin
+10971,18-24,2,Locals,No Degree,419368,War,Wisconsin
+10972,25-44,2,Locals,No Degree,686030,War,Wisconsin
+10973,45+,2,Locals,No Degree,537752,War,Wisconsin
+10974,18-24,1,Locals,High School,410331,War,Wisconsin
+10975,25-44,1,Locals,High School,753494,War,Wisconsin
+10976,45+,1,Locals,High School,242149,War,Wisconsin
+10977,18-24,2,Locals,High School,12136,War,Wisconsin
+10978,25-44,2,Locals,High School,544571,War,Wisconsin
+10979,45+,2,Locals,High School,764316,War,Wisconsin
+10980,18-24,1,Expats,Graduated,91560,War,Wyoming
+10981,25-44,1,Expats,Graduated,579426,War,Wyoming
+10982,45+,1,Expats,Graduated,292120,War,Wyoming
+10983,18-24,2,Expats,Graduated,215883,War,Wyoming
+10984,25-44,2,Expats,Graduated,395911,War,Wyoming
+10985,45+,2,Expats,Graduated,477538,War,Wyoming
+10986,18-24,1,Expats,No Degree,466483,War,Wyoming
+10987,25-44,1,Expats,No Degree,465170,War,Wyoming
+10988,45+,1,Expats,No Degree,481397,War,Wyoming
+10989,18-24,2,Expats,No Degree,827116,War,Wyoming
+10990,25-44,2,Expats,No Degree,2703,War,Wyoming
+10991,45+,2,Expats,No Degree,521586,War,Wyoming
+10992,18-24,1,Expats,High School,317791,War,Wyoming
+10993,25-44,1,Expats,High School,296912,War,Wyoming
+10994,45+,1,Expats,High School,742064,War,Wyoming
+10995,18-24,2,Expats,High School,438451,War,Wyoming
+10996,25-44,2,Expats,High School,104076,War,Wyoming
+10997,45+,2,Expats,High School,159692,War,Wyoming
+10998,18-24,1,Locals,Graduated,906830,War,Wyoming
+10999,25-44,1,Locals,Graduated,182154,War,Wyoming
+11000,45+,1,Locals,Graduated,459670,War,Wyoming
+11001,18-24,2,Locals,Graduated,723114,War,Wyoming
+11002,25-44,2,Locals,Graduated,254279,War,Wyoming
+11003,45+,2,Locals,Graduated,534477,War,Wyoming
+11004,18-24,1,Locals,No Degree,47103,War,Wyoming
+11005,25-44,1,Locals,No Degree,913526,War,Wyoming
+11006,45+,1,Locals,No Degree,385423,War,Wyoming
+11007,18-24,2,Locals,No Degree,717713,War,Wyoming
+11008,25-44,2,Locals,No Degree,457067,War,Wyoming
+11009,45+,2,Locals,No Degree,55800,War,Wyoming
+11010,18-24,1,Locals,High School,482697,War,Wyoming
+11011,25-44,1,Locals,High School,978714,War,Wyoming
+11012,45+,1,Locals,High School,498618,War,Wyoming
+11013,18-24,2,Locals,High School,125664,War,Wyoming
+11014,25-44,2,Locals,High School,232544,War,Wyoming
+11015,45+,2,Locals,High School,510165,War,Wyoming

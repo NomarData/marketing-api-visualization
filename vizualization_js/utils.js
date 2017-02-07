@@ -103,77 +103,77 @@ function getJqueryCountryBtnByCode2Letters(countryCode){
 }
 
 function onClickCountryFunctionBy3LettersCode(_3_letters_code){
-    var countryCode = convert3to2LettersCode(_3_letters_code);
-    var countryItem = getJqueryCountryBtnByCode2Letters(countryCode);
-    onClickCountryFunction(countryItem);
+    var countryCode = convertDatamapsCodeToLocationKey(_3_letters_code);
+    var locationItem = getJqueryCountryBtnByCode2Letters(countryCode);
+    onClickCountryFunction(locationItem);
 }
 
 function onClickCountryFunctionBy2LettersCode(_2_letters_code){
-    var countryItem = getJqueryCountryBtnByCode2Letters(_2_letters_code);
-    onClickCountryFunction(countryItem);
+    var locationItem = getJqueryCountryBtnByCode2Letters(_2_letters_code);
+    onClickCountryFunction(locationItem);
 }
 
 function updateBtnColor(countryCode3Letters, color){
-    var _2LetterCountryCode = convert3to2LettersCode(countryCode3Letters);
-    var countryItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
-    countryItem.css("background-color",color);
+    var _2LetterCountryCode = convertDatamapsCodeToLocationKey(countryCode3Letters);
+    var locationItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
+    locationItem.css("background-color",color);
     if(color == DEFAULT_MAP_ARAB_BACKGROUND_COLOR){
-        countryItem.css("text-decoration","");
+        locationItem.css("text-decoration","");
     } else {
-        countryItem.css("text-decoration","underline");
+        locationItem.css("text-decoration","underline");
     }
 }
 
-function onClickCountryFunction(countryItem){
-    var countryCode2Letters = countryItem.data("code");
-    if(dataManager.isCountryAlreadySelected(countryCode2Letters)){
+function onClickCountryFunction(locationItem){
+    var countryCode2Letters = locationItem.data("code");
+    if(dataManager.isLocationAlreadySelected(countryCode2Letters)){
         dataManager.removeCountryCode(countryCode2Letters);
-        countryItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
+        locationItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
     } else{
         dataManager.insertCountryCode(countryCode2Letters);
     }
-    console.log(dataManager.selectedCountries_2letters);
+    console.log(dataManager.selectedLocations_2letters);
 }
 
 function getCountryNameGivenCode2Letters(countryCode) {
-    return countryCodeMap[countryCode].name;
+    return locationCodeMap[countryCode].name;
 }
 
-function getAll3LettersCodeArabCountry(){
-    var countryCodes = $.map(countryCodeMap,function (item) {
-        return item._3letter_code;
+function getAllDatamapsCodeInLocationMap(){
+    var countryCodes = $.map(locationCodeMap,function (item) {
+        return item.datamaps_code;
     });
     return countryCodes;
 }
 
-function isArabCountryCode3Letters(countryCode){
-    var arabCountriesCode3Letters = getAll3LettersCodeArabCountry();
-    for(var countryIndex in arabCountriesCode3Letters){
-        var arabCountryCode = arabCountriesCode3Letters[countryIndex];
-        if(arabCountryCode == countryCode){
+function isDatamapCodeInLocationMap(locationDatamapCode){
+    var allDatamapsCodeinLocation = getAllDatamapsCodeInLocationMap();
+    for(var locationIndex in allDatamapsCodeinLocation){
+        var locationDatamapCodeInList = allDatamapsCodeinLocation[locationIndex];
+        if(locationDatamapCodeInList == locationDatamapCode){
             return true;
         }
     }
     return false;
 }
 function updateFilteringCountryCodeMap(list_country_codes){
-    for(var countryCode in countryCodeMap){
-        if(list_country_codes.indexOf(countryCode) == -1){
-            delete countryCodeMap[countryCode];
+    for(var locationKey in locationCodeMap){
+        if(list_country_codes.indexOf(locationKey) == -1){
+            delete locationCodeMap[locationKey];
             console.log("Deleting")
         }
     }
 }
 
-function getCountriesGivenCodes(listCountryCodes){
-    var listCountries = [];
-    for(var countryIndex in listCountryCodes){
-        var countryCode = listCountryCodes[countryIndex];
-        if(countryCode in countryCodeMap){
-            listCountries.push(countryCodeMap[countryCode]);
+function getLocationsDataGivenKeys(listLocationKeys){
+    var listLocationsData = [];
+    for(var keyIndex in listLocationKeys){
+        var locationKey = listLocationKeys[keyIndex];
+        if(locationKey in locationCodeMap){
+            listLocationsData.push(locationCodeMap[locationKey]);
         }
     }
-    return listCountries
+    return listLocationsData
 }
 
 function sortDictListGivenAttribute(list, attribute) {
@@ -202,42 +202,40 @@ function updateSocialLinkFields(){
     $("#openGraphUrl").attr("content", window.location.href);
 }
 
-function convert2to3LettersCode(_2letters_code){
-    var _2letters_code = _2letters_code.toUpperCase();
-    try{
-        return countryCodeMap[_2letters_code]._3letter_code;
-    }catch (err){
-        throw Error("2 Letter Code not found:" + _2letters_code);
+function convert2LetterCodeToDatamapsCode(_2letters_code){
+    for(let key in locationCodeMap) {
+        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return locationCodeMap[key].datamaps_code;
+        }
     }
-
+    Error("2 Letter Code not found:" + _2letters_code);
 }
 
-function convert3LettersCodeToName(_3letters_code){
+function convertDatamapsCodeToName(datamaps_code){
     try{
-        var _2letters_code = convert3to2LettersCode(_3letters_code);
-        return countryCodeMap[_2letters_code].name;
+        var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
+        return locationCodeMap[locationKey].name;
     }catch (err){
-        throw Error("3 Letter Code not found:" + _3letters_code);
+        throw Error("3 Letter Code not found:" + datamaps_code);
     }
 }
 
 function convert2LettersCodeToName(_2letters_code){
-    var _2letters_code = _2letters_code.toUpperCase();
-    try{
-        return countryCodeMap[_2letters_code].name;
-    }catch (err){
-        throw Error("2 Letter Code not found:" + _2letters_code);
+    for(let key in locationCodeMap) {
+        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return locationCodeMap[key].name;
+        }
     }
+    throw Error("2 Letter Code not found:" + _2letters_code);
 }
 
-function convert3to2LettersCode(_3letters_code){
-    var _3letters_code = _3letters_code.toUpperCase();
-    for(var key in countryCodeMap){
-        if(countryCodeMap[key]._3letter_code == _3letters_code){
+function convertDatamapsCodeToLocationKey(datamaps_code){
+    for(var key in locationCodeMap){
+        if(locationCodeMap[key].datamaps_code.toUpperCase() == datamaps_code.toUpperCase()){
             return key
         }
     }
-    throw Error("3 Letter Code not found:" + _3letters_code);
+    throw Error("3 Letter Code not found:" + datamaps_code);
 }
 
 function datenum(v, date1904) {
@@ -246,3 +244,8 @@ function datenum(v, date1904) {
     return (epoch - new Date(Date.UTC(1899, 11, 30))) / (24 * 60 * 60 * 1000);
 }
 
+function  initApplicationStaticTexts() {
+    $("#applicationTitle").text(APPLICATION_TITLE);
+    $("#applicationDescription").text(APPLICATION_DESCRIPTION);
+    document.title = APPLICATION_TITLE;
+}
