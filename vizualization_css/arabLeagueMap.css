@@ -21,7 +21,7 @@
     position: relative;
 }
 
-.btn-country {
+.btn-location {
     margin-top: 2px;
     width: 100%;
     color: #000;
@@ -29,7 +29,7 @@
     font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
 }
 
-.btn-country:hover{
+.btn-location:hover{
     text-decoration: underline;
     cursor: pointer;
     color: #000;

@@ -119,7 +119,7 @@
         <div id="tooltip-locations" class="hoverinfo hidden">
             <div>
                 <div>
-                    Country: <strong id="countryNameTooltip"></strong>
+                    Location: <strong id="locationNameTooltip"></strong>
                 </div>
                 <div id="locationDataTooltipContainer">
                     <div>
@@ -129,10 +129,10 @@
                         Facebook Coverage: <strong id="locationFacebookCoverage"></strong>
                     </div>
                     <div>
-                        <span>Left Audience</span>: <strong id="leftAudienceCountryTooltip"></strong>
+                        <span>Left Audience</span>: <strong id="leftAudienceLocationTooltip"></strong>
                     </div>
                     <div>
-                        <span>Right Audience</span>: <strong id="rightAudienceCountryTooltip"></strong>
+                        <span>Right Audience</span>: <strong id="rightAudienceLocationTooltip"></strong>
                     </div>
                 </div>
             </div>
@@ -200,10 +200,10 @@
             </div>
             <div class="row">
                 <div style="vertical-align: middle"  class="span5 treemapContainer">
+                    <div id="treemapsList">
+
+                    </div>
                     <div  class="row treemapRowContainer">
-                        <!--<div class="span1">-->
-                        <!--<h4>Gender</h4>-->
-                        <!--</div>-->
                         <div class="span5 treemapSpanContainer">
                             <div id="genderTreemapDiv"></div>
                         </div>
@@ -229,8 +229,8 @@
                             <div id="citizenshipTreemapDiv"></div>
                         </div>
                     </div>
-                    <div id="alertToSelectCountry" class="text-center hidden">
-                        <div><h2>Select at least one country</h2></div>
+                    <div id="alertToSelectLocation" class="text-center hidden">
+                        <div><h2>Select at least one Location</h2></div>
                     </div>
 
                     <div class="text-center">
@@ -246,17 +246,17 @@
                 </div>
                 <div class="span6">
                     <div class="row text-center">
-                        <div id="arabLeagueMapDiv" class="arabLeagueMap"></div>
+                        <div id="mainLocationsMapDiv" class="arabLeagueMap"></div>
                         <div id="qatarBahreinMapDiv" class="qatarBahreinMap"></div>
                     </div>
                     <div class="row text-center mapSelectDeselectAllBtns">
-                        <div id="selectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
+                        <div id="selectedAllLocationsBtn" class="span2 btn btn-multiple-countries">
                             All countries
                         </div>
                         <div id="gccCountriesBtn" class="span1 btn btn-multiple-countries">
                             Only GCC
                         </div>
-                        <div id="unSelectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
+                        <div id="unselectedAllLocationsBtn" class="span2 btn btn-multiple-countries">
                             No countries
                         </div>
                         <div class="span3 text-center socialLinks">
@@ -326,7 +326,7 @@
     <script src="vizualization_js/treemap.js"></script>
     <script src="vizualization_js/SharebleLink.js"></script>
     <script src="vizualization_js/stackedHorizontalBar.js"></script>
-    <script src="vizualization_js/arabLeagueMap.js"></script>
+    <script src="vizualization_js/locationsMapManager.js"></script>
     <script src="vizualization_js/GeneralScore.js"></script>
     <script src="vizualization_js/treemapManager.js"></script>
     <script src="vizualization_js/HistoryDataSelectors.js"></script>

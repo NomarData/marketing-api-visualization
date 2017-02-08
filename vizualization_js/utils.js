@@ -28,7 +28,7 @@ function buildAndInitVisualComponents(){
     treemapManager = new TreemapManager();
     luxuriousHealthBar = new stackedHorizontalBar();
     GeneralScore = new GeneralScore();
-    arabMap = new arabLeagueDatamap();
+    arabMap = new locationsDatamap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     historyDataSelector = new HistoryDataSelector();
@@ -97,53 +97,49 @@ function removeAllParentheses(string){
     return string
 }
 
-function getJqueryCountryBtnByCode2Letters(countryCode){
+function getJqueryLocationBtnByCode2Letters(location2Letters){
 
-    return $("div[data-code='"+ countryCode +"']");
+    return $("div[data-code='"+ location2Letters +"']");
 }
 
-function onClickCountryFunctionBy3LettersCode(_3_letters_code){
-    var countryCode = convertDatamapsCodeToLocationKey(_3_letters_code);
-    var locationItem = getJqueryCountryBtnByCode2Letters(countryCode);
-    onClickCountryFunction(locationItem);
+function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
+    var locationCode = convertDatamapsCodeToLocationKey(locationDatamaps_code);
+    var locationItem = getJqueryLocationBtnByCode2Letters(locationCode);
+    onClickLocationFunction(locationItem);
 }
 
-function onClickCountryFunctionBy2LettersCode(_2_letters_code){
-    var locationItem = getJqueryCountryBtnByCode2Letters(_2_letters_code);
-    onClickCountryFunction(locationItem);
+function onClickLocationFunctionBy2LettersCode(_2_letters_code){
+    var locationItem = getJqueryLocationBtnByCode2Letters(_2_letters_code);
+    onClickLocationFunction(locationItem);
 }
 
-function updateBtnColor(countryCode3Letters, color){
-    var _2LetterCountryCode = convertDatamapsCodeToLocationKey(countryCode3Letters);
-    var locationItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
+function updateBtnColor(locationDatamaps_code, color){
+    var location2letters = convertDatamapsCodeToLocationKey(locationDatamaps_code);
+    var locationItem = getJqueryLocationBtnByCode2Letters(location2letters);
     locationItem.css("background-color",color);
-    if(color == DEFAULT_MAP_ARAB_BACKGROUND_COLOR){
+    if(color == DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR){
         locationItem.css("text-decoration","");
     } else {
         locationItem.css("text-decoration","underline");
     }
 }
 
-function onClickCountryFunction(locationItem){
-    var countryCode2Letters = locationItem.data("code");
-    if(dataManager.isLocationAlreadySelected(countryCode2Letters)){
-        dataManager.removeCountryCode(countryCode2Letters);
-        locationItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
+function onClickLocationFunction(locationItem){
+    var location2letters = locationItem.data("code");
+    if(dataManager.isLocationAlreadySelected(location2letters)){
+        dataManager.removeLocation2Letters(location2letters);
+        locationItem.css("background-color", DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR);
     } else{
-        dataManager.insertCountryCode(countryCode2Letters);
+        dataManager.insertLocation2Letter(location2letters);
     }
     console.log(dataManager.selectedLocations_2letters);
 }
 
-function getCountryNameGivenCode2Letters(countryCode) {
-    return locationCodeMap[countryCode].name;
-}
-
 function getAllDatamapsCodeInLocationMap(){
-    var countryCodes = $.map(locationCodeMap,function (item) {
+    var locationsDatamap_codes = $.map(locationCodeMap,function (item) {
         return item.datamaps_code;
     });
-    return countryCodes;
+    return locationsDatamap_codes;
 }
 
 function isDatamapCodeInLocationMap(locationDatamapCode){
@@ -156,9 +152,9 @@ function isDatamapCodeInLocationMap(locationDatamapCode){
     }
     return false;
 }
-function updateFilteringCountryCodeMap(list_country_codes){
+function filterJustLocationKeysFromLocationCodeMap(list_locations_codes){
     for(var locationKey in locationCodeMap){
-        if(list_country_codes.indexOf(locationKey) == -1){
+        if(list_locations_codes.indexOf(locationKey) == -1){
             delete locationCodeMap[locationKey];
             console.log("Deleting")
         }

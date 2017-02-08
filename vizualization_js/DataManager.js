@@ -58,40 +58,39 @@ function DataManager(){
             currentInstance.setHealthTopic(null);
         }
     };
-    this.deselectAllCountries = function(){
+    this.deselectAllLocations = function(){
         currentInstance.selectedLocations_2letters = [];
         currentInstance.updateVisualComponents();
     };
     this.selectGCCCountries = function () {
-        currentInstance.selectedLocations_2letters = ["BH", "KW", "QA", "SA", "OM","AE"];
+        currentInstance.selectedLocations_2letters = gccCountriesKeys;
         currentInstance.updateVisualComponents();
     }
-    this.selectAllCountries = function(){
+    this.selectAllLocations = function(){
         currentInstance.selectedLocations_2letters = [];
-        for(var countryKey in allConsideredCountriesKeys){
-            currentInstance.selectedLocations_2letters.push(countryKey);
+        for(var locationKeyIndex in allEnabledLocationsKeys){
+            var locationKey = allEnabledLocationsKeys[locationKeyIndex];
+            currentInstance.selectedLocations_2letters.push(locationKey);
         }
         currentInstance.updateVisualComponents();
     };
-    this.selectDefaultCountries = function(){
-        // onClickCountryFunctionBy2LettersCode("AE");
-        // onClickCountryFunctionBy2LettersCode("DZ");
-        currentInstance.selectAllCountries();
+    this.selectDefaultLocations = function(){
+        currentInstance.selectAllLocations();
     };
     this.getSelectedInstances = function(){
         return currentInstance.selectedInstances;
     }
-    this.setCountryCodeList = function(countryCodeList){
-        currentInstance.selectedLocations_2letters = countryCodeList;
+    this.setSelectedLocations2lettersList = function(location2LetterList){
+        currentInstance.selectedLocations_2letters = location2LetterList;
         currentInstance.updateVisualComponents();
     }
-    this.insertCountryCode = function(countryCode){
-        console.log("Inserting:" + countryCode);
-        currentInstance.selectedLocations_2letters.push(countryCode);
+    this.insertLocation2Letter = function(location2Letters){
+        console.log("Inserting:" + location2Letters);
+        currentInstance.selectedLocations_2letters.push(location2Letters);
         currentInstance.updateVisualComponents();
     }
-    this.removeCountryCode = function(country_code){
-        currentInstance.selectedLocations_2letters = removeValueFromArray(currentInstance.selectedLocations_2letters, country_code);
+    this.removeLocation2Letters = function(location2Letters){
+        currentInstance.selectedLocations_2letters = removeValueFromArray(currentInstance.selectedLocations_2letters, location2Letters);
         currentInstance.updateVisualComponents();
     }
     this.setCategoryValueSelected = function(category, value){
@@ -144,12 +143,12 @@ function DataManager(){
 
     }
 
-    this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
+    this.getSumSelectedFacebookPopulationByLocation2letters = function(location2letter){
         if(currentInstance.selectedFbDemographicInstances.length > 0){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
                 var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
-                if(instance.location == countryCode){
+                if(instance.location == location2letter){
                     total += instance.audience;
                 }
             }
@@ -179,7 +178,7 @@ function DataManager(){
                 return false;
             }
         }
-        //Check Country code
+        //Check Location code
         if(currentInstance.selectedLocations_2letters.length > 0){
             if(!currentInstance.isLocationAlreadySelected(instance.location)){
                 return false;
@@ -219,28 +218,28 @@ function DataManager(){
         }
 
     };
-    this.getSelectedCountriesData = function(){
-        var selectedCountriesData = {};
+    this.getSelectedLocationsData = function(){
+        var selectedLocationsData = {};
 
-        for(let countryIndex in dataManager.selectedLocations_2letters){
-            var countryCode2Letter = dataManager.selectedLocations_2letters[countryIndex];
-            var countryCode3Letter = convert2LetterCodeToDatamapsCode(countryCode2Letter);
-            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
-            selectedCountriesData[countryCode2Letter] = countryData;
+        for(let location2lettersIndex in dataManager.selectedLocations_2letters){
+            var location2letters = dataManager.selectedLocations_2letters[location2lettersIndex];
+            var locationDatamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
+            var locationData = locationsDataDatamap.getLocationSelectedData(locationDatamaps_code);
+            selectedLocationsData[location2letters] = locationData;
         }
-        return selectedCountriesData;
+        return selectedLocationsData;
     }
 
     this.getCellsData = function(){
-        var selectedCountriesData = {};
+        var selectedLocationsData = {};
 
-        for(let countryIndex in dataManager.selectedLocations_2letters){
-            var countryCode2Letter = dataManager.selectedLocations_2letters[countryIndex];
-            var countryCode3Letter = convert2LetterCodeToDatamapsCode(countryCode2Letter);
-            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
-            selectedCountriesData[countryCode2Letter] = countryData;
+        for(let locationIndex in dataManager.selectedLocations_2letters){
+            var location2letters = dataManager.selectedLocations_2letters[locationIndex];
+            var locationDatamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
+            var locationData = locationsDataDatamap.getLocationSelectedData(locationDatamaps_code);
+            selectedLocationsData[location2letters] = locationData;
         }
-        return selectedCountriesData;
+        return selectedLocationsData;
     }
 }
 

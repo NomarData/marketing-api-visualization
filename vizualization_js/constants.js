@@ -31,6 +31,12 @@ leftTopics = [
     'back pain'
 ];
 
+columnsToTreemaps = [
+    "genders",
+    "ages_ranges",
+    "scholarities",
+    "behavior"
+];
 rightTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
 
 filtersNameList = [""];
@@ -94,7 +100,8 @@ healthInterests = [
 ];
 
 inputColumnToFilter = ["genders", "ages,ranges", "scholarities", "behavior"];
-allConsideredCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
+allEnabledLocationsKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
+gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
 locationCodeMap = {
     "Alabama"  : {"name":"Alabama" , "_2letters_code":"AL","datamaps_code":"AL"},
     "Alaska"  : {"name":"Alaska" , "_2letters_code":"AK","datamaps_code":"AK"},
@@ -256,7 +263,7 @@ mapValuesStringsTooltip = {
     "scholarities" : "Education",
     "ages_ranges" : "Age Range",
     "genders" : "Gender",
-    "behavior" : "Behavior"
+    "behavior" : "Citizenship"
 };
 
 mapValuesTileTitle = {

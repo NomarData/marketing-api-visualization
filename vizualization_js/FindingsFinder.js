@@ -7,12 +7,12 @@
 function FindingFinder(){
     var currentInstance = this;
     this.currentDemographicFinding = [];
-    this.currentCountriesFinding = [];
-    this.computeCountriesStandardDeviation = function(countriesData) {
+    this.currentLocationsFinding = [];
+    this.computeLocationsStandardDeviation = function(locationsData) {
         var scores = [];
-        for(var countryCode in countriesData){
-            var countryData = countriesData[countryCode];
-            scores.push(countryData.score);
+        for(var locationCode in locationsData){
+            var locationData = locationsData[locationCode];
+            scores.push(locationData.score);
         }
         return ss.standardDeviation(scores)
     }
@@ -31,27 +31,27 @@ function FindingFinder(){
         return ss.mean(scores)
     }
 
-    this.computeCountriesStandardAverage = function(countriesData) {
+    this.computeLocationsStandardAverage = function(locationsData) {
         var scores = [];
-        for(var countryCode in countriesData){
-            var countryData = countriesData[countryCode];
-            scores.push(countryData.score);
+        for(var locationData in locationsData){
+            var locationData = locationsData[locationData];
+            scores.push(locationData.score);
         }
         return ss.mean(scores)
     }
 
-    this.findCountriesOutOfStandardDeviation = function(){
-        var countriesData = dataManager.getSelectedCountriesData();
-        var std = this.computeCountriesStandardDeviation(countriesData);
-        var average = this.computeCountriesStandardAverage(countriesData);
+    this.findLocationsOutOfStandardDeviation = function(){
+        var locationsData = dataManager.getSelectedLocationsData();
+        var std = this.computeLocationsStandardDeviation(locationsData);
+        var average = this.computeLocationsStandardAverage(locationsData);
 
-        for(var countryCode in countriesData){
-            var score = countriesData[countryCode].score
+        for(var locationData in locationsData){
+            var score = locationsData[locationData].score
             if(score > (average + 2*std)){
-                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others countries.");
+                currentInstance.currentLocationsFinding.push("<b>"  + convert2LettersCodeToName(locationData) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentCountriesFinding.push("<b>"  + getCountryNameGivenCode2Letters(countryCode) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others countries.");
+                currentInstance.currentLocationsFinding.push("<b>"  + convert2LettersCodeToName(locationData) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
             }
         }
     };
@@ -71,13 +71,13 @@ function FindingFinder(){
         }
     };
 
-    this.addCountriesFindingToInterface = function(){
-        if(currentInstance.currentCountriesFinding.length > 0){
-            $("#interestingFindingContainer").append("<div  class='span6'><div class='text-center' style='font-weight:bold'>Between Countries</div><div class='text-center' id='countriesFindingList'></div></div>")
+    this.addLocationsFindingToInterface = function(){
+        if(currentInstance.currentLocationsFinding.length > 0){
+            $("#interestingFindingContainer").append("<div  class='span6'><div class='text-center' style='font-weight:bold'>Between Locations</div><div class='text-center' id='locationsFindingList'></div></div>")
         }
-        for(var findingIndex in currentInstance.currentCountriesFinding){
-            var finding = currentInstance.currentCountriesFinding[findingIndex];
-            $("#countriesFindingList").append("<div>" + finding + "</div>");
+        for(var findingIndex in currentInstance.currentLocationsFinding){
+            var finding = currentInstance.currentLocationsFinding[findingIndex];
+            $("#locationsFindingList").append("<div>" + finding + "</div>");
         }
     };
 
@@ -93,10 +93,10 @@ function FindingFinder(){
     this.cleanFindingContainer = function(){
             $("#interestingFindingContainer").empty();
             currentInstance.currentDemographicFinding = [];
-            currentInstance.currentCountriesFinding = [];
+            currentInstance.currentLocationsFinding = [];
     }
     this.showTitle = function(){
-        if(currentInstance.currentDemographicFinding.length > 0 || currentInstance.currentCountriesFinding.length > 0){
+        if(currentInstance.currentDemographicFinding.length > 0 || currentInstance.currentLocationsFinding.length > 0){
             $("#interestingFindingsTitle").show()
         } else {
             $("#interestingFindingsTitle").hide()
@@ -105,8 +105,8 @@ function FindingFinder(){
 
     this.updateData = function () {
         currentInstance.cleanFindingContainer();
-        currentInstance.findCountriesOutOfStandardDeviation();
-        currentInstance.addCountriesFindingToInterface();
+        currentInstance.findLocationsOutOfStandardDeviation();
+        currentInstance.addLocationsFindingToInterface();
         currentInstance.findDemographicsOutOfStandardDeviation();
         currentInstance.addDemographicsFindingToInterface();
         currentInstance.showTitle();

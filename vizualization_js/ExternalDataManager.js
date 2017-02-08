@@ -86,7 +86,7 @@
 
         };
         this.updateLocationList =function(instances){
-            // var promise = currentInstance.getPromiseListCountries();
+            // var promise = currentInstance.getPromiseListLocations();
                 var locationsKeys = [];
                 for(var instanceIndex in instances){
                     var instance = instances[instanceIndex];
@@ -94,12 +94,12 @@
                         locationsKeys.push(instance.location);
                     }
                 }
-                var sortedListLocations= currentInstance.getLocationDataWhichMatchesInLocationMapOrderedByCountryName(locationsKeys);
+                var sortedListLocations= currentInstance.getLocationDataWhichMatchesInLocationMapOrderedByLocationName(locationsKeys);
                 var locationBtnsList = $("#locationBtnList");
                 locationBtnsList.empty();
-                for(var countriesIndex in sortedListLocations){
-                    var country = sortedListLocations[countriesIndex];
-                    locationBtnsList.append("<div class='locationItem btn btn-country' data-code=\""+ country._2letters_code +"\">" + country.name + "</div>");
+                for(var locationIndex in sortedListLocations){
+                    var locationData = sortedListLocations[locationIndex];
+                    locationBtnsList.append("<div class='locationItem btn btn-location' data-code=\""+ locationData._2letters_code +"\">" + locationData.name + "</div>");
                 }
         };
         this.setFacebookInitialPopulationList = function(instances){
@@ -120,8 +120,8 @@
             fbInstancesWithInterests = parsedInstances;
         };
 
-        this.getLocationDataWhichMatchesInLocationMapOrderedByCountryName = function(listLocationKeys){
-            updateFilteringCountryCodeMap(listLocationKeys);
+        this.getLocationDataWhichMatchesInLocationMapOrderedByLocationName = function(listLocationKeys){
+            filterJustLocationKeysFromLocationCodeMap(listLocationKeys);
             var locationsData = getLocationsDataGivenKeys(listLocationKeys);
             var sortedLocationData = sortDictListGivenAttribute(locationsData,"name");
             return sortedLocationData;
