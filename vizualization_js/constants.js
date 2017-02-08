@@ -17,6 +17,7 @@ QATAR_MAP_CENTER_SCALE = 2400;
 ALASKA_MAP_CENTER_COORDINATES = [-152.3, 64.5];
 ALASKA_MAP_CENTER_ROTATION = [0, 0];
 ALASKA_MAP_CENTER_SCALE = 100;
+gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
 DATAMAPS_CONFIGS = {
     "US" : {
         "mapFilePath" : USA_MAP_DATAMAPS_PATH,
@@ -36,10 +37,17 @@ DATAMAPS_CONFIGS = {
         "auxiliarCenter" : QATAR_MAP_CENTER_COORDINATES,
         "auxiliarRotation" : QATAR_MAP_CENTER_ROTATION,
         "auxiliarScale" : QATAR_MAP_CENTER_SCALE,
+        "fastLocationSelection" : {
+            "name" : "GCC",
+            "locations2letters" : gccCountriesKeys
+        },
         "scope" : "world"
     }
 };
 DATAMAPS_CONFIG_KEY = "US";
+allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
+allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
+allEnabledLocationsKeys = allUsaStatesKeys;
 
 
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
@@ -51,8 +59,11 @@ colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d
 colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 ALL_VALUE = "ALL";
 DEFAULT_CATEGORIES_NAMES = ["gender", "age_range", "scholarity", "citizenship"];
-APPLICATION_TITLE = "Health Awareness on Facebook in the Arab World"
+APPLICATION_TITLE = "Health Awareness on Facebook in the Arab World";
 APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.";
+AWARENESS_SCORE_TITLE = "Facebook Health Awareness Score";
+DEFAULT_LEFT_TOPIC = 4;
+DEFAULT_RIGHT_TOPIC = 4;
 columnsToTreemaps = [
     "genders",
     "ages_ranges",
@@ -81,7 +92,7 @@ leftTopics = [
     "Humanitarian Aid",
     "All Peace"
 ];
-DEFAULT_LEFT_TOPIC = 0;
+
 
 rightTopics = [
     "War",
@@ -90,16 +101,7 @@ rightTopics = [
     "Fighter Aircraft",
     "All War"
 ];
-DEFAULT_RIGHT_TOPIC = 0;
-jewelInterests = ["jewel",
-    "luxury goods",
-    "mobile phones gadgets",
-    "shopping",
-    "Motor Vehicle",
-    "Mobile Phones",
-    "cars vehicles",
-    "fast food",
-    "luxury"].concat(leftTopics);
+
 healthInterests = [
     "Physical exercise",
     "Physical fitness",
@@ -131,11 +133,17 @@ healthInterests = [
     "Lung cancer awareness",
     "Diabetes mellitus",
     "fitness and wellness"
-].concat(rightTopics);
-allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
-allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
-allEnabledLocationsKeys = allUsaStatesKeys;
-gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
+].concat(leftTopics);
+jewelInterests = ["jewel",
+    "luxury goods",
+    "mobile phones gadgets",
+    "shopping",
+    "Motor Vehicle",
+    "Mobile Phones",
+    "cars vehicles",
+    "fast food",
+    "luxury"].concat(rightTopics);
+
 locationCodeMap = {
     "Alabama"  : {"name":"Alabama" , "_2letters_code":"AL","datamaps_code":"AL"},
     "Alaska"  : {"name":"Alaska" , "_2letters_code":"AK","datamaps_code":"AK"},

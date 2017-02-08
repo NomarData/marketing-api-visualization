@@ -63,10 +63,10 @@ function FindingFinder(){
         for(let demographicName in demographicsData){
             var score = demographicsData[demographicName].score;
             if(score > (average + 2*std )){
-                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + getTooltipLabel(demographicName) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + demographicName + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
+                currentInstance.currentDemographicFinding.push("<b>"  + getTooltipLabel(demographicsData[demographicName].category) + ":" + getTooltipLabel(demographicName) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others filters.");
             }
         }
     };

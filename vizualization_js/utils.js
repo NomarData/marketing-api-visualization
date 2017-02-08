@@ -114,7 +114,7 @@ function onClickLocationFunctionBy2LettersCode(_2_letters_code){
 }
 
 function updateBtnColor(locationDatamaps_code, color){
-    var location2letters = convertDatamapsCodeToLocationKey(locationDatamaps_code);
+    var location2letters = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
     var locationItem = getJqueryLocationBtnByCode2Letters(location2letters);
     locationItem.css("background-color",color);
     if(color == DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR){
@@ -251,6 +251,7 @@ function datenum(v, date1904) {
 function  initApplicationStaticTexts() {
     $("#applicationTitle").text(APPLICATION_TITLE);
     $("#applicationDescription").text(APPLICATION_DESCRIPTION);
+    $(".AwarenessScoreTitle").text(AWARENESS_SCORE_TITLE);
     document.title = APPLICATION_TITLE;
 }
 
@@ -260,7 +261,7 @@ function getLocation2letterFromLocationKey(locationKey){
 
 function getLocationKeyFromLocation2letter(location2letter){
     for(var key in locationCodeMap){
-        if(locationCodeMap[key].datamaps_code.toUpperCase() == location2letter.toUpperCase()){
+        if(locationCodeMap[key]._2letters_code.toUpperCase() == location2letter.toUpperCase()){
             return key
         }
     }

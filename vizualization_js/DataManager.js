@@ -62,8 +62,8 @@ function DataManager(){
         currentInstance.selectedLocations_2letters = [];
         currentInstance.updateVisualComponents();
     };
-    this.selectGCCCountries = function () {
-        currentInstance.selectedLocations_2letters = gccCountriesKeys;
+    this.selectFastLocationsBtn = function () {
+        currentInstance.selectedLocations_2letters = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.locations2letters;
         currentInstance.updateVisualComponents();
     }
     this.selectAllLocations = function(){

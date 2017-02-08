@@ -97,7 +97,7 @@ function locationsDatamap(){
     var currentInstance = this;
     this.data = {};
     this.datamap = null;
-    this.qatarBahreinDatamap = null;
+    this.auxiliarDatamap = null;
     this.scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
     this.tooltipMargin = 10;
     this.geographyConfig = {
@@ -194,7 +194,7 @@ function locationsDatamap(){
             }
         });
         currentInstance.datamap = datamap;
-        currentInstance.qatarBahreinDatamap = auxiliarDatamap;
+        currentInstance.auxiliarDatamap = auxiliarDatamap;
         currentInstance.initLocationBtns();
         currentInstance.updateData();
     }
@@ -292,7 +292,7 @@ function locationsDatamap(){
         locationsDataDatamap.addInstances(instances);
         var dataColor = locationsDataDatamap.getDataMapColor();
         currentInstance.datamap.updateChoropleth(dataColor,{reset:true});
-        currentInstance.qatarBahreinDatamap.updateChoropleth(dataColor,{reset:true});
+        currentInstance.auxiliarDatamap.updateChoropleth(dataColor,{reset:true});
     };
 
     this.initLocationBtns = function () {
@@ -311,8 +311,12 @@ function locationsDatamap(){
             dataManager.deselectAllLocations();
         });
 
-        $("#gccCountriesBtn").click(function(){
-            dataManager.selectGCCCountries();
+        $("#fastLocationsSelectorBtn").click(function(){
+            if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
+                $("#fastLocationsSelectorBtn").show();
+                $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
+                dataManager.selectFastLocationsBtn();
+            }
         });
 
         $(".loader").fadeOut();
