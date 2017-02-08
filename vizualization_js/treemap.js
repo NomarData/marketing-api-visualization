@@ -58,7 +58,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         .size([this.w - currentInstance.treemapCategoryMargin, this.h])
         .sticky(false)
         .sort(function(nodeData1, nodeData2){
-            if(currentInstance.getCategoryName() == "age_range") return -1*nodeData1.name.localeCompare(nodeData2.name)
+            if(currentInstance.getCategoryName() == "ages_ranges") return -1*nodeData1.name.localeCompare(nodeData2.name)
             return nodeData1.name.localeCompare(nodeData2.name)
         })
         .value(function (d) {

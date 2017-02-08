@@ -140,7 +140,7 @@ function SharebleLink(){
                     var referencesToLocationList = valueInParams.split("-");
                     for(var referenceIndex in referencesToLocationList){
                         var reference = referencesToLocationList[referenceIndex];
-                        valueInOurData.push(currentInstance.getLocationKeyFromReference(reference));
+                        valueInOurData.push(currentInstance.getLocation2lettersFromReference(reference));
                     }
                 } else {
                     valueInOurData = [];
@@ -228,7 +228,7 @@ function SharebleLink(){
         return null;
     }
 
-    this.getLocationKeyFromReference = function(reference){
+    this.getLocation2lettersFromReference = function(reference){
         //reference can be code 2 letter, code 3 letters or location name
         if(reference){
             var reference = reference.toLowerCase();
@@ -237,7 +237,7 @@ function SharebleLink(){
                 var datamap_code = locationCodeMap[locationKey].datamaps_code.toLowerCase();
                 var name = locationCodeMap[locationKey].name.toLowerCase();
                 if(reference == code2Letters || reference == datamap_code || reference == name){
-                    return locationKey;
+                    return getLocation2letterFromLocationKey(locationKey);
                 }
             }
             throw new InvalidParameterValueException(reference, "locations"); //If no value matched

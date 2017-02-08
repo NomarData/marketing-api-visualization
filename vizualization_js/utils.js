@@ -103,8 +103,8 @@ function getJqueryLocationBtnByCode2Letters(location2Letters){
 }
 
 function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
-    var locationCode = convertDatamapsCodeToLocationKey(locationDatamaps_code);
-    var locationItem = getJqueryLocationBtnByCode2Letters(locationCode);
+    var location2Letter = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
+    var locationItem = getJqueryLocationBtnByCode2Letters(location2Letter);
     onClickLocationFunction(locationItem);
 }
 
@@ -126,13 +126,13 @@ function updateBtnColor(locationDatamaps_code, color){
 
 function onClickLocationFunction(locationItem){
     var location2letters = locationItem.data("code");
-    if(dataManager.isLocationAlreadySelected(location2letters)){
+    var locationKey = getLocationKeyFromLocation2letter(location2letters);
+    if(dataManager.isLocationKeyAlreadySelected(locationKey)){
         dataManager.removeLocation2Letters(location2letters);
         locationItem.css("background-color", DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR);
     } else{
         dataManager.insertLocation2Letter(location2letters);
     }
-    console.log(dataManager.selectedLocations_2letters);
 }
 
 function getAllDatamapsCodeInLocationMap(){
@@ -206,6 +206,14 @@ function convert2LetterCodeToDatamapsCode(_2letters_code){
     }
     Error("2 Letter Code not found:" + _2letters_code);
 }
+function convertDatamapsCodeTo2LetterCode(datamaps_code){
+    try{
+        var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
+        return locationCodeMap[locationKey]._2letters_code;
+    } catch (err){
+        Error("Datamaps Code not found:" + datamaps_code);
+    }
+}
 
 function convertDatamapsCodeToName(datamaps_code){
     try{
@@ -244,4 +252,17 @@ function  initApplicationStaticTexts() {
     $("#applicationTitle").text(APPLICATION_TITLE);
     $("#applicationDescription").text(APPLICATION_DESCRIPTION);
     document.title = APPLICATION_TITLE;
+}
+
+function getLocation2letterFromLocationKey(locationKey){
+    return locationCodeMap[locationKey]._2letters_code;
+}
+
+function getLocationKeyFromLocation2letter(location2letter){
+    for(var key in locationCodeMap){
+        if(locationCodeMap[key].datamaps_code.toUpperCase() == location2letter.toUpperCase()){
+            return key
+        }
+    }
+    throw Error("2 Letter Code not found:" + location2letter);
 }

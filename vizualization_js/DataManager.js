@@ -4,8 +4,8 @@ function DataManager(){
     this.selectedCategoriesAndValues = {};
     this.selectedInstances = [];
     this.selectedFbDemographicInstances = [];
-    this.selectedHealth = leftTopics[3];
-    this.selectedLuxury = rightTopics[4];
+    this.selectedHealth = leftTopics[DEFAULT_LEFT_TOPIC];
+    this.selectedLuxury = rightTopics[DEFAULT_RIGHT_TOPIC];
     this.selectedFbDemographicSum = 0;
     this.loader = $(".loader");
 
@@ -70,7 +70,7 @@ function DataManager(){
         currentInstance.selectedLocations_2letters = [];
         for(var locationKeyIndex in allEnabledLocationsKeys){
             var locationKey = allEnabledLocationsKeys[locationKeyIndex];
-            currentInstance.selectedLocations_2letters.push(locationKey);
+            currentInstance.selectedLocations_2letters.push(locationCodeMap[locationKey]._2letters_code);
         }
         currentInstance.updateVisualComponents();
     };
@@ -169,18 +169,20 @@ function DataManager(){
         findingsFinder.updateData();
     };
 
-    this.isLocationAlreadySelected = function(location2letter_code) {
-        return currentInstance.selectedLocations_2letters.indexOf(location2letter_code) != -1 ? true : false;
+    this.isLocationKeyAlreadySelected = function(locationKey) {
+        var location2letter = getLocation2letterFromLocationKey(locationKey);
+        return currentInstance.selectedLocations_2letters.indexOf(location2letter) != -1 ? true : false;
     };
     this.isInstanceAgreeWithSelected = function(instance){
         for(var key in currentInstance.selectedCategoriesAndValues){
             if(instance[key] != currentInstance.selectedCategoriesAndValues[key]){
+                console.log(instance[key] + " != " + currentInstance.selectedCategoriesAndValues[key] );
                 return false;
             }
         }
         //Check Location code
         if(currentInstance.selectedLocations_2letters.length > 0){
-            if(!currentInstance.isLocationAlreadySelected(instance.location)){
+            if(!currentInstance.isLocationKeyAlreadySelected(instance.location)){
                 return false;
             }
         }

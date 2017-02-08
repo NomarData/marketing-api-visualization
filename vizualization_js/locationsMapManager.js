@@ -6,7 +6,8 @@ function datamapDataLayer(){
     var currentInstance = this;
     this.locationsDataInMap = {};
     this.init = function(){
-        Datamap.prototype.worldTopo.objects.world.geometries.map(function(locationDatamapData){
+        var scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
+        Datamap.prototype[scope + "Topo"].objects[scope].geometries.map(function(locationDatamapData){
             currentInstance.locationsDataInMap[locationDatamapData.id] = {
                 rightAudience: 0,
                 leftAudience: 0,
@@ -24,8 +25,8 @@ function datamapDataLayer(){
     };
 
     this.addInstanceAudienceToLocationDataInMap = function(instance){
-        var locationDatamap_code = convert2LetterCodeToDatamapsCode(instance.location);
         try {
+            var locationDatamap_code = locationCodeMap[instance.location].datamaps_code;
             if (getInstancePolarity(instance) == 1) currentInstance.locationsDataInMap[locationDatamap_code].leftAudience += instance.audience;
             else currentInstance.locationsDataInMap[locationDatamap_code].rightAudience += instance.audience;
         } catch (err){
@@ -75,7 +76,6 @@ function datamapDataLayer(){
         for(var selectedLocationIndex in dataManager.selectedLocations_2letters){
             var location2Letters = dataManager.selectedLocations_2letters[selectedLocationIndex];
             var locationDatamap_code = convert2LetterCodeToDatamapsCode(location2Letters);
-
             if(currentInstance.getLocationAudience(locationDatamap_code) > 0){
                 var score = currentInstance.getLocationScore(locationDatamap_code);
                 dataColor[locationDatamap_code] = getGreenOrRedColorByScore(score);
@@ -98,6 +98,7 @@ function locationsDatamap(){
     this.data = {};
     this.datamap = null;
     this.qatarBahreinDatamap = null;
+    this.scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
     this.tooltipMargin = 10;
     this.geographyConfig = {
         dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
@@ -129,9 +130,9 @@ function locationsDatamap(){
 
     this.setProjectionGeneralMap = function(element){
         var projection = d3.geo.equirectangular()
-            .center([25, 24])
-            .rotate([0, 0])
-            .scale(425)
+            .center(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].center)
+            .rotate(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].rotation)
+            .scale(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scale)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);
@@ -139,11 +140,11 @@ function locationsDatamap(){
         return {path: path, projection: projection};
     };
 
-    this.setProjectionQatarMap = function(element){
+    this.setProjectionAuxiliarMap = function(element){
         var projection = d3.geo.equirectangular()
-            .center([51.2, 25.4])
-            .rotate([0, 0])
-            .scale(2400)
+            .center(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarCenter)
+            .rotate(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarRotation)
+            .scale(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarScale)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);
@@ -165,14 +166,12 @@ function locationsDatamap(){
             })
         }
     };
-
-    this.init = function(){
+    this.buildLocationsMapManager = function () {
         locationsDataDatamap = new datamapDataLayer();
-
         var elementContainer = $("#mainLocationsMapDiv");
         var datamap = new Datamap({
             element: elementContainer[0],
-            scope: 'world',
+            scope: currentInstance.scope,
             width:  elementContainer.parent().parent().width() + "px",
             height:'400px',
             setProjection : currentInstance.setProjectionGeneralMap,
@@ -180,12 +179,12 @@ function locationsDatamap(){
             fills: currentInstance.fills,
             data: currentInstance.data,
         });
-        var qatarBahreinDatamap = new Datamap({
-            element: document.getElementById('qatarBahreinMapDiv'),
-            scope: 'world',
+        var auxiliarDatamap = new Datamap({
+            element: document.getElementById('auxiliarMapDiv'),
+            scope: currentInstance.scope,
             width:  "75px",
             height:'75px',
-            setProjection :  currentInstance.setProjectionQatarMap,
+            setProjection :  currentInstance.setProjectionAuxiliarMap,
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,
             data: currentInstance.data,
@@ -195,9 +194,13 @@ function locationsDatamap(){
             }
         });
         currentInstance.datamap = datamap;
-        currentInstance.qatarBahreinDatamap = qatarBahreinDatamap;
+        currentInstance.qatarBahreinDatamap = auxiliarDatamap;
         currentInstance.initLocationBtns();
         currentInstance.updateData();
+    }
+    this.init = function(){
+        currentInstance.buildLocationsMapManager();
+
     };
     this.addClickFunctionToLocationsInMap = function(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {
@@ -248,11 +251,9 @@ function locationsDatamap(){
     };
 
     this.mousemoveTooltip = function(locationDatamapsCode){
-
-        var location2Lettercode = convertDatamapsCodeToLocationKey(locationDatamapsCode);
-
         var locationData = locationsDataDatamap.getLocationSelectedData(locationDatamapsCode);
-        var locationName = convert2LettersCodeToName(location2Lettercode);
+        var locationName = convertDatamapsCodeToName(locationDatamapsCode);
+        var locationKey = convertDatamapsCodeToLocationKey(locationDatamapsCode);
 
         d3.select("#tooltip-locations").classed("hidden", false);
         var xPosition = d3.event.pageX + currentInstance.tooltipMargin;
@@ -264,7 +265,7 @@ function locationsDatamap(){
         d3.select("#tooltip-locations  #locationNameTooltip")
             .text(locationName);
 
-        if(!dataManager.isLocationAlreadySelected(location2Lettercode)){
+        if(!dataManager.isLocationKeyAlreadySelected(locationKey)){
             d3.select("#locationDataTooltipContainer").classed("hidden",true);
 
         } else {
