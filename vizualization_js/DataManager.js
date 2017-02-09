@@ -37,7 +37,7 @@ function DataManager(){
         currentInstance.selectedHealth = healthInterest;
         currentInstance.updateDatasetAndGetPromise();
     };
-    this.setHealthAndLuxuryTopicAndGetPromise = function(healthInterest, luxuryInterest){
+    this.setLeftAndRightTopicAndGetPromise = function(healthInterest, luxuryInterest){
         currentInstance.selectedHealth = healthInterest;
         currentInstance.selectedLuxury = luxuryInterest;
         return currentInstance.updateDatasetAndGetPromise();
@@ -176,7 +176,6 @@ function DataManager(){
     this.isInstanceAgreeWithSelected = function(instance){
         for(var key in currentInstance.selectedCategoriesAndValues){
             if(instance[key] != currentInstance.selectedCategoriesAndValues[key]){
-                console.log(instance[key] + " != " + currentInstance.selectedCategoriesAndValues[key] );
                 return false;
             }
         }

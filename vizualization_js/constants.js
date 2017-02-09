@@ -3,7 +3,7 @@ CURRENT_DATA_PATH = ROOT_DATA_PATH + "current_data/";
 HISTORY_MAP_FILE_PATH =  ROOT_DATA_PATH  + "historic_data/history_map.csv";
 USA_MAP_DATAMAPS_PATH = "vizualization_js/lib/datamaps-master/dist/datamaps.usa.min.js";
 WORLD_MAP_DATAMAPS_PATH = "vizualization_js/lib/datamaps.all.hires.min.js";
-USA_CENTER_COORDINATES = [-94,  39.8333333];
+USA_CENTER_COORDINATES = [-94,  35.8333333];
 ARABIC_LEAGUE_CENTER_COODINATES = [25, 24];
 QATAR_MAP_CENTER_COORDINATES = [51.2, 25.4];
 QATAR_MAP_CENTER_ROTATION = [0, 0];
@@ -11,6 +11,9 @@ QATAR_MAP_CENTER_SCALE = 2400;
 ALASKA_MAP_CENTER_COORDINATES = [-152.3, 64.5];
 ALASKA_MAP_CENTER_ROTATION = [0, 0];
 ALASKA_MAP_CENTER_SCALE = 100;
+HAWAII_MAP_CENTER_COORDINATES = [-156.3, 20.29];
+HAWAII_MAP_CENTER_ROTATION = [0, 0];
+HAWAII_MAP_CENTER_SCALE = 1000;
 gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
 DATAMAPS_CONFIGS = {
     "US" : {
@@ -18,6 +21,19 @@ DATAMAPS_CONFIGS = {
         "center" : USA_CENTER_COORDINATES,
         "rotation" : [0,0],
         "scale" : 550,
+        "auxiliarMaps" : [
+            {
+            "auxiliarCenter" : ALASKA_MAP_CENTER_COORDINATES,
+            "auxiliarRotation" : ALASKA_MAP_CENTER_ROTATION,
+            "auxiliarScale" : ALASKA_MAP_CENTER_SCALE,
+            },
+            {
+                "auxiliarCenter" : HAWAII_MAP_CENTER_COORDINATES,
+                "auxiliarRotation" : HAWAII_MAP_CENTER_ROTATION,
+                "auxiliarScale" : HAWAII_MAP_CENTER_SCALE,
+            },
+
+        ],
         "auxiliarCenter" : ALASKA_MAP_CENTER_COORDINATES,
         "auxiliarRotation" : ALASKA_MAP_CENTER_ROTATION,
         "auxiliarScale" : ALASKA_MAP_CENTER_SCALE,
@@ -28,6 +44,14 @@ DATAMAPS_CONFIGS = {
         "center" : ARABIC_LEAGUE_CENTER_COODINATES,
         "rotation" : [0,0],
         "scale" : 425,
+        "auxiliarMaps" : [
+            {
+                "auxiliarCenter" : QATAR_MAP_CENTER_COORDINATES,
+                "auxiliarRotation" : QATAR_MAP_CENTER_ROTATION,
+                "auxiliarScale" : QATAR_MAP_CENTER_SCALE,
+            }
+
+        ],
         "auxiliarCenter" : QATAR_MAP_CENTER_COORDINATES,
         "auxiliarRotation" : QATAR_MAP_CENTER_ROTATION,
         "auxiliarScale" : QATAR_MAP_CENTER_SCALE,

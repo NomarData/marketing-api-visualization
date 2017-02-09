@@ -8,9 +8,9 @@ function InvalidParameterValueException(value, arrayName){
     this.message = "Sorry, we couldn't parse yours parameters. Default parameters were applied. <strong> The value: " + value + " is invalid. For: " + arrayName.replace("locations","location") + "</strong>";
 }
 
-function HealthAndLuxuryNullException(){
-    this.name = "HealthAndLuxuryNullException";
-    this.message = "Health and Luxury can't be both null."
+function LeftTopicAndRightTopicNullException(){
+    this.name = "LeftTopicAndRightTopicNullException";
+    this.message = "Left and Right topics can't be both null."
 }
 
 
@@ -72,7 +72,7 @@ function SharebleLink(){
     this.applyState = function(newState){
         console.log(newState);
         currentInstance.reversingState = true;
-        dataManager.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
+        dataManager.setLeftAndRightTopicAndGetPromise(newState["leftTopic"], newState["rightTopic"]).done(function(){
             treemapManager.clickOnTreemapGivenNameAndValue("genders", newState["genders"]);
             treemapManager.clickOnTreemapGivenNameAndValue("ages_ranges", newState["ages_ranges"]);
             treemapManager.clickOnTreemapGivenNameAndValue("scholarities", newState["scholarities"]);
@@ -86,16 +86,16 @@ function SharebleLink(){
     };
     this.getApplycationState = function(){
         return {
-            "health": dataManager.selectedHealth,
-            "luxury": dataManager.selectedLuxury,
+            "leftTopic": dataManager.selectedHealth,
+            "rightTopic": dataManager.selectedLuxury,
             "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
             "locations" : dataManager.selectedLocations_2letters
         }
     };
     this.buildUrlFromState = function (state) {
         var urlParams = new URLSearchParams();
-        urlParams.append('health', state.health);
-        urlParams.append('luxury', state.luxury);
+        urlParams.append('leftTopic', state.leftTopic);
+        urlParams.append('rightTopic', state.rightTopic);
         urlParams.append("location",state.locations.join("-"));
         for(var categoryKey in state.selectedCategoriesAndValues){
             urlParams.append(categoryKey,state.selectedCategoriesAndValues[categoryKey]);
@@ -125,13 +125,15 @@ function SharebleLink(){
         var valueInParams;
 
         switch(paramName){
+            case "leftTopic":
             case "health":
-                valueInParams = urlParams.get("health");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "health");
+                valueInParams = urlParams.get("leftTopic");
+                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "leftTopic");
                 break;
+            case "rightTopic":
             case "luxury":
-                valueInParams = urlParams.get("luxury");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "luxury");
+                valueInParams = urlParams.get("rightTopic");
+                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "rightTopic");
                 break;
             case "location":
                 valueInOurData = [];
@@ -164,15 +166,15 @@ function SharebleLink(){
                 valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "citizenship");
                 break;
             default:
-                throw Error("Parameter name invalid.");
+                throw Error("Parameter name invalid:" + paramName);
         }
         //Finally
         return valueInOurData;
     };
     this.printState = function(){
         var categories = dataManager.selectedCategoriesAndValues;
-        console.log("Selected Health:" + dataManager.selectedHealth);
-        console.log("Selected Luxury:" + dataManager.selectedLuxury);
+        console.log("Selected leftTopic:" + dataManager.selectedHealth);
+        console.log("Selected rightTopic:" + dataManager.selectedLuxury);
         console.log("Selected Locations:" + dataManager.selectedLocations_2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));
@@ -183,20 +185,20 @@ function SharebleLink(){
         var newState = {};
         try{
             var urlParams = new URLSearchParams(params);
-            newState["health"] = currentInstance.paramFromUrlParams("health", urlParams);
-            newState["luxury"] = currentInstance.paramFromUrlParams("luxury", urlParams);
+            newState["leftTopic"] = currentInstance.paramFromUrlParams("leftTopic", urlParams);
+            newState["rightTopic"] = currentInstance.paramFromUrlParams("rightTopic", urlParams);
             newState["location"] = currentInstance.paramFromUrlParams("location", urlParams);
             newState["gender"] = currentInstance.paramFromUrlParams("gender", urlParams);
             newState["scholarity"] = currentInstance.paramFromUrlParams("scholarity", urlParams);
             newState["age_range"] = currentInstance.paramFromUrlParams("age_range", urlParams);
             newState["citizenship"] = currentInstance.paramFromUrlParams("citizenship", urlParams);
 
-            if(newState["health"] == null && newState["luxury"] == null){
-                throw new HealthAndLuxuryNullException();
+            if(newState["leftTopic"] == null && newState["rightTopic"] == null){
+                throw new LeftTopicAndRightTopicNullException();
             }
             return newState;
         } catch(Exception){
-            if(Exception instanceof InvalidParameterValueException || Exception instanceof HealthAndLuxuryNullException){
+            if(Exception instanceof InvalidParameterValueException || Exception instanceof LeftTopicAndRightTopicNullException){
                 $("#alertCouldntParseParams").removeClass("hidden");
                 $("#alertCouldntParseParams").html(Exception.message);
                 setTimeout(function(){ $("#alertCouldntParseParams").fadeOut(); }, 8000);

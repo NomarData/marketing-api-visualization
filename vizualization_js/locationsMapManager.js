@@ -97,7 +97,7 @@ function locationsDatamap(){
     var currentInstance = this;
     this.data = {};
     this.datamap = null;
-    this.auxiliarDatamap = null;
+    this.auxiliarDatamaps = [];
     this.scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
     this.tooltipMargin = 10;
     this.geographyConfig = {
@@ -140,11 +140,11 @@ function locationsDatamap(){
         return {path: path, projection: projection};
     };
 
-    this.setProjectionAuxiliarMap = function(element){
+    this.setProjectionAuxiliarMap = function(element, options){
         var projection = d3.geo.equirectangular()
-            .center(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarCenter)
-            .rotate(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarRotation)
-            .scale(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarScale)
+            .center(options.projectionParams.auxiliarCenter)
+            .rotate(options.projectionParams.auxiliarRotation)
+            .scale(options.projectionParams.auxiliarScale)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);
@@ -166,7 +166,7 @@ function locationsDatamap(){
             })
         }
     };
-    this.buildLocationsMapManager = function () {
+    this.createMainMap = function () {
         locationsDataDatamap = new datamapDataLayer();
         var elementContainer = $("#mainLocationsMapDiv");
         var datamap = new Datamap({
@@ -179,22 +179,35 @@ function locationsDatamap(){
             fills: currentInstance.fills,
             data: currentInstance.data,
         });
-        var auxiliarDatamap = new Datamap({
-            element: document.getElementById('auxiliarMapDiv'),
-            scope: currentInstance.scope,
-            width:  "75px",
-            height:'75px',
-            setProjection :  currentInstance.setProjectionAuxiliarMap,
-            geographyConfig : currentInstance.geographyConfig,
-            fills: currentInstance.fills,
-            data: currentInstance.data,
-            done: function(datamap) {
-                var saudiArabia = datamap.svg.selectAll(".datamaps-subunit.SAU");
-                saudiArabia.style("display","none");
-            }
-        });
         currentInstance.datamap = datamap;
-        currentInstance.auxiliarDatamap = auxiliarDatamap;
+    };
+    this.createAuxiliarsMaps = function () {
+        if("auxiliarMaps" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
+            for(var auxiliarMapIndex in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarMaps){
+                var containerId = "auxiliarMapDiv" + auxiliarMapIndex;
+                $("#auxiliarsMapsDiv").append("<div id='" + containerId + "' class='auxiliarMapStyle'></div>");
+                var auxiliarMapData = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarMaps[auxiliarMapIndex];
+                var auxiliarDatamap = new Datamap({
+                    projectionParams : auxiliarMapData,
+                    element: document.getElementById(containerId),
+                    scope: currentInstance.scope,
+                    setProjection :  currentInstance.setProjectionAuxiliarMap,
+                    geographyConfig : currentInstance.geographyConfig,
+                    fills: currentInstance.fills,
+                    data: currentInstance.data,
+                    done: function(datamap) {
+                        var saudiArabia = datamap.svg.selectAll(".datamaps-subunit.SAU");
+                        saudiArabia.style("display","none");
+                    }
+                });
+                currentInstance.auxiliarDatamaps.push(auxiliarDatamap);
+            }
+        }
+    };
+
+    this.buildLocationsMapManager = function () {
+        currentInstance.createMainMap();
+        currentInstance.createAuxiliarsMaps();
         currentInstance.initLocationBtns();
         currentInstance.updateData();
     }
@@ -292,7 +305,10 @@ function locationsDatamap(){
         locationsDataDatamap.addInstances(instances);
         var dataColor = locationsDataDatamap.getDataMapColor();
         currentInstance.datamap.updateChoropleth(dataColor,{reset:true});
-        currentInstance.auxiliarDatamap.updateChoropleth(dataColor,{reset:true});
+        $.map(currentInstance.auxiliarDatamaps, function(auxiliarDatamap){
+            auxiliarDatamap.updateChoropleth(dataColor,{reset:true});
+        });
+
     };
 
     this.initLocationBtns = function () {
