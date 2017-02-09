@@ -183,13 +183,15 @@ function sortDictListGivenAttribute(list, attribute) {
 
 function updateSocialLinkFields(){
     var SUBJECT = encodeURIComponent(SOCIAL_MEDIA_SUBJECT);
+    var body = encodeURIComponent(EMAIL_BODY);
     var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=" + SUBJECT;
     var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=" + SUBJECT+ ":%20$LINK";
-    var emailOriginalUrl = "mailto:?subject=" +SUBJECT+ "&body=Link:%20$LINK";
+
+    var emailOriginalUrl = "mailto:?subject=" + SUBJECT + "&body=" + body;
     var currentUrl = encodeURIComponent(window.location.href);
     var currentFbHref = fbOriginalURL.replace("$LINK", currentUrl);
     var currentTwitterHref = twitterOriginalUrl.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
-    var currentEmailHref = emailOriginalUrl.replace("$LINK", currentUrl);
+    var currentEmailHref = emailOriginalUrl.replace("LINK", currentUrl);
 
     $("#facebookShareLink").attr("href",currentFbHref);
     $("#twitterShareLink").attr("href",currentTwitterHref);

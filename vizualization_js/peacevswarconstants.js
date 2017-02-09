@@ -1,5 +1,6 @@
 FAVICON_PATH = "imgs/peace-icon.png";
 SOCIAL_MEDIA_SUBJECT = "Peace vs War interest in US";
+EMAIL_BODY = "Hey my friend, look what a nice visualization.Link: LINK";
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
 ROOT_DATA_PATH = "data_peace_war/";
