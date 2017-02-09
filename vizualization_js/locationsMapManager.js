@@ -312,13 +312,12 @@ function locationsDatamap(){
         });
 
         $("#fastLocationsSelectorBtn").click(function(){
-            if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
-                $("#fastLocationsSelectorBtn").show();
-                $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
-                dataManager.selectFastLocationsBtn();
-            }
+            dataManager.selectFastLocationsBtn();
         });
-
+        if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
+            $("#fastLocationsSelectorBtn").show();
+            $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
+        }
         $(".loader").fadeOut();
     };
 

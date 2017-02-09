@@ -101,6 +101,13 @@
                     var locationData = sortedListLocations[locationIndex];
                     locationBtnsList.append("<div class='locationItem btn btn-location' data-code=\""+ locationData._2letters_code +"\">" + locationData.name + "</div>");
                 }
+                if(locationBtnsList.height() > LOCATION_HEIGHT_THRESHOLD){
+                    locationBtnsList.css("height", LOCATION_HEIGHT_THRESHOLD + "px");
+                    locationBtnsList.css("width", LOCATION_BTNS_WIDTH) + "px";
+                    locationBtnsList.css("padding-right", "18px");
+                    locationBtnsList.css("overflow", "auto");
+                    locationBtnsList.css("overflow-x", "hidden");
+                }
         };
         this.setFacebookInitialPopulationList = function(instances){
             var parsedInstances = $.map(instances,function(instance){

@@ -72,6 +72,7 @@ function DownloadReport(){
         let data = [];
         let header = ["Locations", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
         var locationsData = dataManager.getSelectedLocationsData();
+        data.push([APPLICATION_TITLE]);
         data.push(header)
         for(let locationCode in locationsData){
             var locationData = locationsData[locationCode];
@@ -91,6 +92,7 @@ function DownloadReport(){
         let data = [];
         let header = ["Demographic Breakdown", "Category", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
         var demographicsData = treemapManager.getAllVisibleTreemapData();
+        data.push([APPLICATION_TITLE]);
         data.push(header);
         for(let demographicName in demographicsData){
             var demographicData = demographicsData[demographicName];

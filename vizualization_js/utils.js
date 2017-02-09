@@ -252,6 +252,8 @@ function  initApplicationStaticTexts() {
     $("#applicationTitle").text(APPLICATION_TITLE);
     $("#applicationDescription").text(APPLICATION_DESCRIPTION);
     $(".AwarenessScoreTitle").text(AWARENESS_SCORE_TITLE);
+    $("#leftIconImg").attr("src",LEFT_ICON_PATH);
+    $("#rightIconImg").attr("src",RIGHT_ICON_PATH);
     document.title = APPLICATION_TITLE;
 }
 

@@ -1,10 +1,16 @@
-ROOT_DATA_PATH = "data/";
+fbInstancesWithInterests = [];
+fbInstancesDemographic = [];
+ROOT_DATA_PATH = "data_peace_war/";
 CURRENT_DATA_PATH = ROOT_DATA_PATH + "current_data/";
 HISTORY_MAP_FILE_PATH =  ROOT_DATA_PATH  + "historic_data/history_map.csv";
 USA_MAP_DATAMAPS_PATH = "vizualization_js/lib/datamaps-master/dist/datamaps.usa.min.js";
 WORLD_MAP_DATAMAPS_PATH = "vizualization_js/lib/datamaps.all.hires.min.js";
+// locationsDataMapFile = USA_MAP_DATAMAPS_PATH;
 USA_CENTER_COORDINATES = [-94,  39.8333333];
 ARABIC_LEAGUE_CENTER_COODINATES = [25, 24];
+// MAIN_MAP_CENTER_COORDINATES = USA_CENTER_COORDINATES;
+// MAIN_MAP_CENTER_ROTATION = [0, 0];
+// MAIN_MAP_CENTER_SCALE = 425;
 QATAR_MAP_CENTER_COORDINATES = [51.2, 25.4];
 QATAR_MAP_CENTER_ROTATION = [0, 0];
 QATAR_MAP_CENTER_SCALE = 2400;
@@ -38,11 +44,10 @@ DATAMAPS_CONFIGS = {
         "scope" : "world"
     }
 };
-DATAMAPS_CONFIG_KEY = "ARABIC_LEAGUE";
-//Defining Select All Btn
+DATAMAPS_CONFIG_KEY = "US";
 allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
 allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
-allEnabledLocationsKeys = allArabicLeagueCountriesKeys;
+allEnabledLocationsKeys = allUsaStatesKeys;
 
 
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
@@ -54,12 +59,12 @@ colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d
 colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 ALL_VALUE = "ALL";
 DEFAULT_CATEGORIES_NAMES = ["gender", "age_range", "scholarity", "citizenship"];
-APPLICATION_TITLE = "Health Awareness on Facebook in the Arab World";
-APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.";
+APPLICATION_TITLE = "People interest in Peace and War in USA";
+APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the peace-related interests to a baseline war-related interests from US states";
 AWARENESS_SCORE_TITLE = "Facebook Health Awareness Score";
-DEFAULT_LEFT_TOPIC = 4;
-DEFAULT_RIGHT_TOPIC = 4;
-LOCATION_HEIGHT_THRESHOLD = 680;
+DEFAULT_LEFT_TOPIC = 0;
+DEFAULT_RIGHT_TOPIC = 2;
+LOCATION_HEIGHT_THRESHOLD = 500;
 LOCATION_BTNS_WIDTH = 90;
 columnsToTreemaps = [
     "genders",
@@ -67,28 +72,44 @@ columnsToTreemaps = [
     "scholarities",
     "behavior"
 ];
-leftTopics = [
-    'health',
-    'fitness and wellness',
-    'health care',
-    'obesity',
-    'physical activity',
-    // 'smoking awareness',
-    'diabetes awareness',
-    'mental disease depression',
-    'stroke heart disease',
-    // 'respiratory asthma',
-    'back pain'
-];
-rightTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
-HEALTH_ICON_PATH = "imgs/heart.svg";
+// leftTopics = [
+//     'health',
+//     'fitness and wellness',
+//     'health care',
+//     'obesity',
+//     'physical activity',
+//     // 'smoking awareness',
+//     'diabetes awareness',
+//     'mental disease depression',
+//     'stroke heart disease',
+//     // 'respiratory asthma',
+//     'back pain'
+// ];
+// rightTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
+HEALTH_ICON_PATH = "imgs/health.svg";
 JEWEL_ICON_PATH = "imgs/jewel.svg";
 WAR_ICON_PATH = "imgs/war-icon.png";
 PEACE_ICON_PATH = "imgs/peace-icon.png";
 
-LEFT_ICON_PATH = HEALTH_ICON_PATH;
-RIGHT_ICON_PATH = JEWEL_ICON_PATH;
+LEFT_ICON_PATH = PEACE_ICON_PATH;
+RIGHT_ICON_PATH = WAR_ICON_PATH;
+filtersNameList = [""];
+leftTopics = [
+    "All Peace",
+    "Peace",
+    "Human Rights",
+    "Social Moviment",
+    "Humanitarian Aid"
+];
 
+
+rightTopics = [
+    "All War",
+    "War",
+    "Firearm or Gun",
+    "Bomb",
+    "Fighter Aircraft"
+];
 
 healthInterests = [
     "Physical exercise",
@@ -326,6 +347,3 @@ listOfValues = {
         "citizenship" : ["Expats", "Locals"],
         "country" : locationCodeMap,
 };
-
-fbInstancesWithInterests = [];
-fbInstancesDemographic = [];
