@@ -5,16 +5,16 @@ function BtnsTopicsSelectors(){
     var currentInstance = this;
 
     this.setDefault = function(){
-        $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
-        $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        $(".btn-interest[data-interest='"+ dataManager.selectedRightTopic +"']").addClass("btn-selected"); //UpdateLuxury
+        $(".btn-interest[data-interest='"+ dataManager.selectedLeftTopic +"']").addClass("btn-selected"); //UpdateHealth
     };
     this.updateData = function(){
         $(".btn-selected").removeClass("btn-selected"); //Remove all selected
-        if(dataManager.selectedLuxury){
-            $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
+        if(dataManager.selectedRightTopic){
+            $(".btn-interest[data-interest='"+ dataManager.selectedRightTopic +"']").addClass("btn-selected"); //UpdateLuxury
         }
-        if(dataManager.selectedHealth){
-            $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        if(dataManager.selectedLeftTopic){
+            $(".btn-interest[data-interest='"+ dataManager.selectedLeftTopic +"']").addClass("btn-selected"); //UpdateHealth
         }
     };
 
@@ -22,10 +22,10 @@ function BtnsTopicsSelectors(){
         $(".btn-interest").click(function(){
             var btnElement = $(this);
             if(btnElement.hasClass("btn-luxury")){
-                dataManager.flipSelectedLuxury(btnElement.data("interest"));
+                dataManager.flipSelectedRightTopic(btnElement.data("interest"));
                 currentInstance.updateData();
             } else if(btnElement.hasClass("btn-health")){
-                dataManager.flipSelectedHealth(btnElement.data("interest"));
+                dataManager.flipSelectedLeftTopic(btnElement.data("interest"));
                 currentInstance.updateData();
             } else {
                 throw Error("Should be luxury or health");
@@ -34,8 +34,8 @@ function BtnsTopicsSelectors(){
     };
     this.init = function(){
 
-        currentInstance.addTopicsBtns(rightTopics, "luxury");
-        currentInstance.addTopicsBtns(leftTopics, "health");
+        currentInstance.addTopicsBtns(rightTopics, RIGHT_TOPIC);
+        currentInstance.addTopicsBtns(leftTopics, LEFT_TOPIC);
 
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();
@@ -44,23 +44,23 @@ function BtnsTopicsSelectors(){
     }
 
     this.addTopicsBtns = function(listTopicsNames, topicType){
-        var luxuryBtnsContainer = $("#btnsLuxuryContainer");
-        var luxuryBtnsContainerHeader = $("#btnsLuxuryContainerHeader");
-        var healthBtnsContainer = $("#btnsHealthContainer");
-        var healthBtnsContainerHeader = $("#btnsHealthContainerHeader");
+        var luxuryBtnsContainer = $("#btnsRightTopicContainer");
+        var luxuryBtnsContainerHeader = $("#btnsRightTopicContainerHeader");
+        var healthBtnsContainer = $("#btnsLeftTopicContainer");
+        var healthBtnsContainerHeader = $("#btnsLeftTopicContainerHeader");
         for(var topicIndex in listTopicsNames){
             var topicName = listTopicsNames[topicIndex];
-            if(topicType == "luxury"){
+            if(topicType == RIGHT_TOPIC){
                 var newBtn = $("<span class='btn btn-interest btn-luxury ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
-                if(topicName == "luxury"){
+                if(topicName == RIGHT_TOPIC){
                     newBtn.addClass("btn-interest-header");
                     luxuryBtnsContainerHeader.append(newBtn);
                 } else {
                     luxuryBtnsContainer.append(newBtn);
                 }
-            } else if (topicType == "health"){
+            } else if (topicType == LEFT_TOPIC){
                 var newBtn = $("<span class='btn btn-interest btn-health ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
-                if(topicName == "health"){
+                if(topicName == LEFT_TOPIC){
                     newBtn.addClass("btn-interest-header");
                     healthBtnsContainerHeader.append(newBtn);
                 } else{

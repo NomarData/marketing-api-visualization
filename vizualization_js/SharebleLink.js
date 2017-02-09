@@ -86,8 +86,8 @@ function SharebleLink(){
     };
     this.getApplycationState = function(){
         return {
-            "leftTopic": dataManager.selectedHealth,
-            "rightTopic": dataManager.selectedLuxury,
+            "leftTopic": dataManager.selectedLeftTopic,
+            "rightTopic": dataManager.selectedRightTopic,
             "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
             "locations" : dataManager.selectedLocations_2letters
         }
@@ -173,8 +173,8 @@ function SharebleLink(){
     };
     this.printState = function(){
         var categories = dataManager.selectedCategoriesAndValues;
-        console.log("Selected leftTopic:" + dataManager.selectedHealth);
-        console.log("Selected rightTopic:" + dataManager.selectedLuxury);
+        console.log("Selected leftTopic:" + dataManager.selectedLeftTopic);
+        console.log("Selected rightTopic:" + dataManager.selectedRightTopic);
         console.log("Selected Locations:" + dataManager.selectedLocations_2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));

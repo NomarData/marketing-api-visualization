@@ -149,10 +149,10 @@ function stackedHorizontalBar(){
 
         if(d.name == "Right Audience"){
             d3.select("#tooltip-stackedbar #categoryNameTooltip")
-                .text(getTooltipLabel(dataManager.selectedLuxury));
+                .text(getTooltipLabel(dataManager.selectedRightTopic));
         } else{
             d3.select("#tooltip-stackedbar #categoryNameTooltip")
-                .text(getTooltipLabel(dataManager.selectedHealth));
+                .text(getTooltipLabel(dataManager.selectedLeftTopic));
         }
 
         d3.select("#tooltip-stackedbar #audienceStackedBarTooltip")

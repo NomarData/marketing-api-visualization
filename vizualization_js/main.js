@@ -8,7 +8,7 @@ $(document).ready(function () {
     dataManager = new DataManager();
     externalDataManager = new ExternalDataManager();
     var updateFBDemographicDataPromise = externalDataManager.updateFacebookDemographicData();
-    var promiseForDefaultState = externalDataManager.getPromiseToUpdateDatasetBySelection(dataManager.selectedLuxury, dataManager.selectedHealth);
+    var promiseForDefaultState = externalDataManager.getPromiseToUpdateDatasetBySelection(dataManager.selectedRightTopic, dataManager.selectedLeftTopic);
     promiseForDefaultState.done(function(data){
         externalDataManager.setInstanceList(data.instances);
         updateFBDemographicDataPromise.done(function(d){

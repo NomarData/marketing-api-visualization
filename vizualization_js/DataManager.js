@@ -4,8 +4,8 @@ function DataManager(){
     this.selectedCategoriesAndValues = {};
     this.selectedInstances = [];
     this.selectedFbDemographicInstances = [];
-    this.selectedHealth = leftTopics[DEFAULT_LEFT_TOPIC];
-    this.selectedLuxury = rightTopics[DEFAULT_RIGHT_TOPIC];
+    this.selectedLeftTopic = leftTopics[DEFAULT_LEFT_TOPIC];
+    this.selectedRightTopic = rightTopics[DEFAULT_RIGHT_TOPIC];
     this.selectedFbDemographicSum = 0;
     this.loader = $(".loader");
 
@@ -22,7 +22,7 @@ function DataManager(){
 
     this.updateDatasetAndGetPromise = function(){
         currentInstance.loader.fadeIn();
-        return externalDataManager.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
+        return externalDataManager.getPromiseToUpdateDatasetBySelection(currentInstance.selectedLeftTopic, currentInstance.selectedRightTopic).done(function(data){
             externalDataManager.setInstanceList(data.instances);
             currentInstance.loader.fadeOut();
             currentInstance.updateVisualComponents();
@@ -30,31 +30,31 @@ function DataManager(){
         });
     };
     this.setLuxuryTopic = function(luxuryInterest){
-        currentInstance.selectedLuxury = luxuryInterest;
+        currentInstance.selectedRightTopic = luxuryInterest;
         currentInstance.updateDatasetAndGetPromise();
     };
     this.setHealthTopic = function(healthInterest){
-        currentInstance.selectedHealth = healthInterest;
+        currentInstance.selectedLeftTopic = healthInterest;
         currentInstance.updateDatasetAndGetPromise();
     };
     this.setLeftAndRightTopicAndGetPromise = function(healthInterest, luxuryInterest){
-        currentInstance.selectedHealth = healthInterest;
-        currentInstance.selectedLuxury = luxuryInterest;
+        currentInstance.selectedLeftTopic = healthInterest;
+        currentInstance.selectedRightTopic = luxuryInterest;
         return currentInstance.updateDatasetAndGetPromise();
     };
-    this.flipSelectedLuxury = function(luxuryInterest){
+    this.flipSelectedRightTopic = function(luxuryInterest){
         if(!luxuryInterest) return;
-        if(currentInstance.selectedLuxury != luxuryInterest){
+        if(currentInstance.selectedRightTopic != luxuryInterest){
             currentInstance.setLuxuryTopic(luxuryInterest);
-        } else if (currentInstance.selectedHealth != null){
+        } else if (currentInstance.selectedLeftTopic != null){
             currentInstance.setLuxuryTopic(null);
         }
     };
-    this.flipSelectedHealth = function(healthInterest){
+    this.flipSelectedLeftTopic = function(healthInterest){
         if(!healthInterest) return;
-        if(currentInstance.selectedHealth != healthInterest) {
+        if(currentInstance.selectedLeftTopic != healthInterest) {
             currentInstance.setHealthTopic(healthInterest);
-        } else if (currentInstance.selectedLuxury != null){
+        } else if (currentInstance.selectedRightTopic != null){
             currentInstance.setHealthTopic(null);
         }
     };

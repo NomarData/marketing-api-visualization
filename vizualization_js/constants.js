@@ -356,3 +356,5 @@ listOfValues = {
 
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
+LEFT_TOPIC = "leftTopic";
+RIGHT_TOPIC = "rightTopic";
