@@ -1,3 +1,5 @@
+FAVICON_PATH = "imgs/peace-icon.png";
+SOCIAL_MEDIA_SUBJECT = "Peace vs War interest in US";
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
 ROOT_DATA_PATH = "data_peace_war/";
@@ -82,7 +84,7 @@ ALL_VALUE = "ALL";
 DEFAULT_CATEGORIES_NAMES = ["gender", "age_range", "scholarity", "citizenship"];
 APPLICATION_TITLE = "People interest in Peace and War in USA";
 APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the peace-related interests to a baseline war-related interests from US states";
-AWARENESS_SCORE_TITLE = "Facebook Health Awareness Score";
+AWARENESS_SCORE_TITLE = "Facebook Peace Awareness Score";
 DEFAULT_LEFT_TOPIC = 0;
 DEFAULT_RIGHT_TOPIC = 2;
 LOCATION_HEIGHT_THRESHOLD = 500;

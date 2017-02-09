@@ -1,3 +1,5 @@
+FAVICON_PATH = "imgs/health-favicon.png";
+SOCIAL_MEDIA_SUBJECT = "Health Awareness in the Arabic World";
 ROOT_DATA_PATH = "data/";
 CURRENT_DATA_PATH = ROOT_DATA_PATH + "current_data/";
 HISTORY_MAP_FILE_PATH =  ROOT_DATA_PATH  + "historic_data/history_map.csv";

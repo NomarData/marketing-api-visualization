@@ -182,9 +182,10 @@ function sortDictListGivenAttribute(list, attribute) {
 
 
 function updateSocialLinkFields(){
-    var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World";
-    var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK";
-    var emailOriginalUrl = "mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=Link:%20$LINK";
+    var SUBJECT = encodeURIComponent(SOCIAL_MEDIA_SUBJECT);
+    var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=" + SUBJECT;
+    var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=" + SUBJECT+ ":%20$LINK";
+    var emailOriginalUrl = "mailto:?subject=" +SUBJECT+ "&body=Link:%20$LINK";
     var currentUrl = encodeURIComponent(window.location.href);
     var currentFbHref = fbOriginalURL.replace("$LINK", currentUrl);
     var currentTwitterHref = twitterOriginalUrl.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
@@ -254,6 +255,7 @@ function  initApplicationStaticTexts() {
     $(".AwarenessScoreTitle").text(AWARENESS_SCORE_TITLE);
     $("#leftIconImg").attr("src",LEFT_ICON_PATH);
     $("#rightIconImg").attr("src",RIGHT_ICON_PATH);
+    $("#favicon").attr("href", FAVICON_PATH);
     document.title = APPLICATION_TITLE;
 }
 

@@ -147,8 +147,13 @@ function stackedHorizontalBar(){
             .style("left", xPosition + "px")
             .style("top", yPosition + "px");
 
-        d3.select("#tooltip-stackedbar #categoryNameTooltip")
-            .text(getTooltipLabel(d.name));
+        if(d.name == "Right Audience"){
+            d3.select("#tooltip-stackedbar #categoryNameTooltip")
+                .text(getTooltipLabel(dataManager.selectedLuxury));
+        } else{
+            d3.select("#tooltip-stackedbar #categoryNameTooltip")
+                .text(getTooltipLabel(dataManager.selectedHealth));
+        }
 
         d3.select("#tooltip-stackedbar #audienceStackedBarTooltip")
             .text(currentInstance.getFormattedAudience(d.audience));
