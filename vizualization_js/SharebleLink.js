@@ -17,7 +17,7 @@ function LeftTopicAndRightTopicNullException(){
 function SharebleLink(){
     var currentInstance = this;
     this.reversingState = false;
-    this.listsOfValues = listOfValues;
+    this.listsOfValues = applicationPossibleStates;
     this.hasParamsGivenUrl = function(url){
         var urlList = url.split("?");
         if(urlList.length > 1){

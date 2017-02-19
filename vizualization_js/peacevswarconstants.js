@@ -72,8 +72,6 @@ DATAMAPS_CONFIG_KEY = "US";
 allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
 allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
 allEnabledLocationsKeys = allUsaStatesKeys;
-
-
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
 colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
 domainLinear = [-1, -0.66, -0.33, 0, 0.33, 0.66, 1];
@@ -362,7 +360,7 @@ mapValuesTileTitle = {
     "Locals" : "Locals",
 };
 
-listOfValues = {
+applicationPossibleStates = {
         "health" : leftTopics,
         "luxury" : rightTopics,
         "gender" : ["Male", "Female"],

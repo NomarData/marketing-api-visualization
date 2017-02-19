@@ -344,7 +344,7 @@ mapValuesTileTitle = {
     "Locals" : "Locals",
 };
 
-listOfValues = {
+applicationPossibleStates = {
         "health" : leftTopics,
         "luxury" : rightTopics,
         "gender" : ["Male", "Female"],
