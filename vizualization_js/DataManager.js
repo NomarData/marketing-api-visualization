@@ -163,6 +163,7 @@ function DataManager(){
         treemapManager.updateTreemaps();
         GeneralScore.updateData();
         arabMap.updateData();
+        subRegionMap.updateData();
         btnsTopicsSelectors.updateData();
         luxuriousHealthBar.updateData();
         sharebleLink.updateData();

@@ -29,6 +29,7 @@ function buildAndInitVisualComponents(){
     luxuriousHealthBar = new stackedHorizontalBar();
     GeneralScore = new GeneralScore();
     arabMap = new locationsDatamap();
+    subRegionMap = new  SubRegionMap();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     historyDataSelector = new HistoryDataSelector();

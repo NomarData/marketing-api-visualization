@@ -53,6 +53,8 @@ function datamapDataLayer(){
                 "rightAudience" : rightAudience,
                 "audienceCoverage" : audienceCoverage,
                 "score" : (leftAudience - rightAudience) / audienceCoverage,
+                "locationDatamap_code" : locationDatamap_code,
+                "location2LetterCode" : convertDatamapsCodeTo2LetterCode(locationDatamap_code),
                 "name" : convertDatamapsCodeToName(locationDatamap_code)
             }
     };
