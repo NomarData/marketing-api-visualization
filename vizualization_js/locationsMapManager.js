@@ -297,7 +297,7 @@ function locationsDatamap(){
         }
     };
 
-    this.mouseoutTooltip = function(d){
+    this.mouseoutTooltip = function(){
         d3.select("#tooltip-locations").classed("hidden", true);
     };
 

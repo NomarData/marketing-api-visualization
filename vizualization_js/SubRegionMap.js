@@ -1,6 +1,13 @@
 /**
  * Created by maraujo on 2/19/17.
  */
+$.fn.triggerSVGEvent = function(eventName) {
+    var event = document.createEvent('SVGEvents');
+    event.initEvent(eventName,true,true);
+    this[0].dispatchEvent(event);
+    return $(this);
+};
+
 function SubRegionMap(){
     var currentInstance = this;
     this._2LetterCodeToCordinates = {};
@@ -33,13 +40,15 @@ function SubRegionMap(){
         });
     };
     this.initializeMap = function(){
+        var data = [[-23.6212, -46.7178],[-23.5577,-46.5435]];
+        var center = getCenterFromCoodinates(data);
         this.map = new GMaps({
             div: '#subregionMapContainer',
-            lat: USA_CENTER_COORDINATES[1],
-            lng: USA_CENTER_COORDINATES[0],
+            lat: center[0],
+            lng: center[1],
             width: '100%',
             height: LOCATION_HEIGHT_THRESHOLD + "px",
-            zoom: 4,
+            zoom: 12,
             zoomControl: false,
             zoomControlOpt: {
                 style: 'SMALL',
@@ -57,15 +66,33 @@ function SubRegionMap(){
         currentInstance.map.removePolygons();
         $.map(currentInstance._2LetterCodeToCordinates,function(coordinate, key){
             console.log("Cordinates:" + coordinate + " Color:" + locationsColors[key] );
+            if(key == "MI"){
+                coordinate[0] = -23.6212;
+                coordinate[1] = -46.7178;
+            }
+            if(key == "MN"){
+                coordinate[0] = -23.5577;
+                coordinate[1] = -46.5435;
+            }
             currentInstance.map.drawCircle({
                 lat: coordinate[0],
                 lng: coordinate[1],
-                radius: 200000,
+                radius: 5000,
                 fillColor: locationsColors[key],
                 fillOpacity: 0.7,
                 strokeWeight: 1,
-                click: function(e){
-                    alert('You are inside 5 radius of Stonehenge')
+                mouseout: function(){
+                    arabMap.mouseoutTooltip();
+                },
+                mousemove: function(e){
+                    d3.event = e.ya;
+                    var datamapCode = convert2LetterCodeToDatamapsCode(key);
+                    arabMap.mousemoveTooltip(datamapCode);
+                },
+                click : function (e) {
+                    d3.event = e.ya;
+                    var datamapCode = convert2LetterCodeToDatamapsCode(key);
+                    onClickLocationFunctionByDatamapCode(datamapCode);
                 }
             });
         });
