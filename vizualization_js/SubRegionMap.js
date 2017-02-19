@@ -46,9 +46,9 @@ function SubRegionMap(){
             div: '#subregionMapContainer',
             lat: center[0],
             lng: center[1],
-            width: '100%',
-            height: LOCATION_HEIGHT_THRESHOLD + "px",
-            zoom: 12,
+            width: '98%',
+            height: LOCATION_HEIGHT_THRESHOLD - 60 + "px",
+            zoom: 11,
             zoomControl: false,
             zoomControlOpt: {
                 style: 'SMALL',

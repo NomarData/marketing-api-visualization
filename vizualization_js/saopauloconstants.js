@@ -23,6 +23,7 @@ ALASKA_MAP_CENTER_SCALE = 100;
 gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
 DATAMAPS_CONFIGS = {
     "US" : {
+        "isSubRegionData" : false,
         "mapFilePath" : USA_MAP_DATAMAPS_PATH,
         "center" : USA_CENTER_COORDINATES,
         "rotation" : [0,0],
@@ -46,6 +47,7 @@ DATAMAPS_CONFIGS = {
         "scope" : "usa"
     },
     "ARABIC_LEAGUE" : {
+        "isSubRegionData" : false,
         "mapFilePath" : WORLD_MAP_DATAMAPS_PATH,
         "center" : ARABIC_LEAGUE_CENTER_COODINATES,
         "rotation" : [0,0],
@@ -66,6 +68,10 @@ DATAMAPS_CONFIGS = {
             "locations2letters" : gccCountriesKeys
         },
         "scope" : "world"
+    },
+    "SAOPAULO" : {
+        "isSubRegionData" : true,
+        "zoomLevel" : 11
     }
 };
 DATAMAPS_CONFIG_KEY = "US";

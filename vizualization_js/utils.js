@@ -30,6 +30,7 @@ function buildAndInitVisualComponents(){
     GeneralScore = new GeneralScore();
     arabMap = new locationsDatamap();
     subRegionMap = new  SubRegionMap();
+    initLocationBtns();
     sharebleLink = new SharebleLink();
     btnsTopicsSelectors = new BtnsTopicsSelectors();
     historyDataSelector = new HistoryDataSelector();
@@ -43,6 +44,48 @@ function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
 }
 
+function initLocationBtns() {
+    externalDataManager.updateLocationList(fbInstancesDemographic);
+
+    addClickFunctionToLocationBtns();
+    addTooltipToLocationBtns();
+
+    //Select All and Deselect All Behavior
+    $("#selectedAllLocationsBtn").click(function(){
+        dataManager.selectAllLocations();
+
+    });
+    $("#unselectedAllLocationsBtn").click(function(){
+        dataManager.deselectAllLocations();
+    });
+
+    $("#fastLocationsSelectorBtn").click(function(){
+        dataManager.selectFastLocationsBtn();
+    });
+    if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
+        $("#fastLocationsSelectorBtn").show();
+        $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
+    }
+    $(".loader").fadeOut();
+};
+function addClickFunctionToLocationBtns(){
+    $(".locationItem").click(function(){
+        onClickLocationFunction($(this));
+    });
+};
+
+function addTooltipToLocationBtns(){
+    d3.selectAll('.locationItem').on('mousemove',function () {
+        var locationBtn = $(this);
+        var location2letters = locationBtn.data("code");
+        var datamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
+        arabMap.mousemoveTooltip(datamaps_code);
+    });
+
+    d3.selectAll('.locationItem').on('mouseout',function () {
+        arabMap.mouseoutTooltip();
+    });
+};
 
 function buildBreakPoints(domainBreakpoints, colorRange){
     breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);

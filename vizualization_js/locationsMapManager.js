@@ -210,7 +210,7 @@ function locationsDatamap(){
     this.buildLocationsMapManager = function () {
         currentInstance.createMainMap();
         currentInstance.createAuxiliarsMaps();
-        currentInstance.initLocationBtns();
+        currentInstance.initMouseInteractionInMap();
         currentInstance.updateData();
     }
     this.init = function(){
@@ -312,6 +312,11 @@ function locationsDatamap(){
         });
 
     };
+
+    this.initMouseInteractionInMap = function(){
+        currentInstance.addClickFunctionToLocationsInMap();
+        currentInstance.addTooltipToLocationPath();
+    }
 
     this.initLocationBtns = function () {
         externalDataManager.updateLocationList(fbInstancesDemographic);
