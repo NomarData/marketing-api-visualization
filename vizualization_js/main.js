@@ -13,10 +13,10 @@ $(document).ready(function () {
         externalDataManager.setInstanceList(data.instances);
         updateFBDemographicDataPromise.done(function(d){
             dataManager.setSelectedInstances();
-            if(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].isSubRegionData){
+            if(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].isSubRegionData){
                 dataManager.buildAndInitVisualComponents();
             } else{
-                $.getScript(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].mapFilePath)
+                $.getScript(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].mapFilePath)
                     .done(function( script, textStatus ) {
                         console.log( "Map Loadeed" );
                         dataManager.buildAndInitVisualComponents();

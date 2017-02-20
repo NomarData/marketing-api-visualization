@@ -11,7 +11,7 @@ $.fn.triggerSVGEvent = function(eventName) {
 function SubRegionMap(){
     var currentInstance = this;
     this.locationsKeyToCoordinates = {};
-    this.map;
+    this.map = null;
     this.handleGeoCodeError = function(locationData, deferred){
         console.log("Error in Google GeoCode API:" + status);
         if (status == "OVER_QUERY_LIMIT") {
@@ -48,7 +48,6 @@ function SubRegionMap(){
         Promise.all(deferreds).then(function(locationsDataList){
             console.log("DONE! Updating Colors");
             $.map(locationsDataList,function(locationData){console.log("Got geodata from: " + locationData.name)});
-            currentInstance.updateSubRegionColors();
         });
     };
     this.initializeMap = function(){
@@ -68,10 +67,14 @@ function SubRegionMap(){
             },
             panControl: false
         });
-    }
+    };
 
     this.init = function(){
-        currentInstance.initializeMap();
+        if(isSubregionMode()){
+            currentInstance.initializeMap();
+        } else{
+            console.log("Ignore: SubRegion Map was not initiate");
+        }
     };
     this.updateSubRegionColors = function () {
         var locationsColors = locationsDataManager.getLocationsColors();
@@ -107,12 +110,16 @@ function SubRegionMap(){
             });
         });
     }
+    this.hasCoordinatesFromRegion = function(){
+        return $.isEmptyObject(currentInstance.locationsKeyToCoordinates);
+    }
     this.updateData = function(){
-        if($.isEmptyObject(currentInstance.locationsKeyToCoordinates)){
-            var locationsData = dataManager.getSelectedLocationsData();
-            locationsData = [locationsData["Michigan"], locationsData["Minnesota"]];
-            currentInstance.getPutMarkerAndSaveCoodinatesFromLocationsData(locationsData);
-        } else{
+        if(currentInstance.map){
+            if(!currentInstance.hasCoordinatesFromRegion()){
+                var locationsData = dataManager.getSelectedLocationsData();
+                locationsData = [locationsData["Michigan"], locationsData["Minnesota"]];
+                currentInstance.getPutMarkerAndSaveCoodinatesFromLocationsData(locationsData);
+            }
             currentInstance.updateSubRegionColors();
         }
     };

@@ -21,9 +21,9 @@ function LocationsBtns(){
         $("#fastLocationsSelectorBtn").click(function(){
             dataManager.selectFastLocationsBtn();
         });
-        if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
+        if("fastLocationSelection" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY]){
             $("#fastLocationsSelectorBtn").show();
-            $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
+            $("#fastLocationsSelectorBtn").text(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].fastLocationSelection.name);
         }
         $(".loader").fadeOut();
     };

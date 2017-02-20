@@ -20,7 +20,7 @@ ALASKA_MAP_CENTER_COORDINATES = [-152.3, 64.5];
 ALASKA_MAP_CENTER_ROTATION = [0, 0];
 ALASKA_MAP_CENTER_SCALE = 100;
 gccCountriesKeys = ["BH", "KW", "QA", "SA", "OM","AE"];
-DATAMAPS_CONFIGS = {
+MAPS_CONFIGS = {
     "US" : {
         "isSubRegionData" : false,
         "mapFilePath" : USA_MAP_DATAMAPS_PATH,
@@ -73,7 +73,7 @@ DATAMAPS_CONFIGS = {
         "zoomLevel" : 11
     }
 };
-DATAMAPS_CONFIG_KEY = "US";
+MAPS_CONFIG_SELECTION_KEY = "US";
 allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
 allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
 allEnabledLocationsKeys = allUsaStatesKeys;

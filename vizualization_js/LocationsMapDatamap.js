@@ -3,7 +3,7 @@ function LocationsMapDatamap(){
     this.data = {};
     this.datamap = null;
     this.auxiliarDatamaps = [];
-    this.scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
+    this.scope = MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].scope;
     this.geographyConfig = {
         dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
         hideAntarctica: true,
@@ -34,9 +34,9 @@ function LocationsMapDatamap(){
 
     this.setProjectionGeneralMap = function(element){
         var projection = d3.geo.equirectangular()
-            .center(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].center)
-            .rotate(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].rotation)
-            .scale(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scale)
+            .center(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].center)
+            .rotate(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].rotation)
+            .scale(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].scale)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
         var path = d3.geo.path()
             .projection(projection);
@@ -85,11 +85,11 @@ function LocationsMapDatamap(){
         currentInstance.datamap = datamap;
     };
     this.createAuxiliarsMaps = function () {
-        if("auxiliarMaps" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
-            for(var auxiliarMapIndex in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarMaps){
+        if("auxiliarMaps" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY]){
+            for(var auxiliarMapIndex in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].auxiliarMaps){
                 var containerId = "auxiliarMapDiv" + auxiliarMapIndex;
                 $("#auxiliarsMapsDiv").append("<div id='" + containerId + "' class='auxiliarMapStyle'></div>");
-                var auxiliarMapData = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].auxiliarMaps[auxiliarMapIndex];
+                var auxiliarMapData = MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].auxiliarMaps[auxiliarMapIndex];
                 var auxiliarDatamap = new Datamap({
                     projectionParams : auxiliarMapData,
                     element: document.getElementById(containerId),
@@ -115,7 +115,11 @@ function LocationsMapDatamap(){
         currentInstance.updateData();
     }
     this.init = function(){
-        currentInstance.buildLocationsMapManager();
+        if(isSubregionMode()){
+            console.log("Ignore: LocationMapDatamap not build");
+        } else{
+            currentInstance.buildLocationsMapManager();
+        }
     };
     this.addClickFunctionToLocationsInMap = function(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {
@@ -166,7 +170,9 @@ function LocationsMapDatamap(){
     };
 
     this.updateData = function(){
-        currentInstance.updateAllMapsColors()
+        if(currentInstance.datamap){
+            currentInstance.updateAllMapsColors();
+        }
     };
 
     this.initMouseInteractionInMap = function(){
