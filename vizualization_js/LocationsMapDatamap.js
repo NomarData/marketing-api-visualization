@@ -76,7 +76,7 @@ function LocationsMapDatamap(){
             element: elementContainer[0],
             scope: currentInstance.scope,
             width:  elementContainer.parent().parent().width() + "px",
-            height:'400px',
+            height: DATAMAP_HEIGHT_PX + 'px',
             setProjection : currentInstance.setProjectionGeneralMap,
             geographyConfig : currentInstance.geographyConfig,
             fills: currentInstance.fills,

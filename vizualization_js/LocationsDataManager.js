@@ -6,9 +6,9 @@ function LocationsDataManager(){
     this.locationsDataInMap = {};
     this.locationsColors = {};
     this.init = function(){
-        var scope = MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].scope;
-        Datamap.prototype[scope + "Topo"].objects[scope].geometries.map(function(locationDatamapData){
-            currentInstance.locationsDataInMap[convertDatamapsCodeToLocationKey(locationDatamapData.id)] = {
+        var locationsKeys = getAllKeysInLocationMap();
+        $.map(locationsKeys, function(locationKey){
+            currentInstance.locationsDataInMap[locationKey] = {
                 rightAudience: 0,
                 leftAudience: 0,
             }

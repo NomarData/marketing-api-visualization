@@ -86,7 +86,8 @@ APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the r
 AWARENESS_SCORE_TITLE = "Facebook Health Awareness Score";
 DEFAULT_LEFT_TOPIC = 4;
 DEFAULT_RIGHT_TOPIC = 4;
-LOCATION_HEIGHT_THRESHOLD = 680;
+LOCATION_HEIGHT_THRESHOLD = 580;
+DATAMAP_HEIGHT_PX = 520;
 LOCATION_BTNS_WIDTH = 90;
 columnsToTreemaps = [
     "genders",
