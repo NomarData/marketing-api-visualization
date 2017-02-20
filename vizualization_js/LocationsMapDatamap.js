@@ -116,7 +116,6 @@ function LocationsMapDatamap(){
     }
     this.init = function(){
         currentInstance.buildLocationsMapManager();
-
     };
     this.addClickFunctionToLocationsInMap = function(){
         d3.selectAll('.datamaps-subunit').on('click', function(geography) {

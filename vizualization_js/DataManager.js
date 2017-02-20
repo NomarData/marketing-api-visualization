@@ -164,7 +164,7 @@ function DataManager(){
         luxuriousHealthBar = new stackedHorizontalBar();
         generalScore = new GeneralScore();
         locationsDataManager = new LocationsDataManager();
-        locationsMapDatamap = new LocationsMapDatamap();
+        // locationsMapDatamap = new LocationsMapDatamap();
         locationsMapSubRegion = new  SubRegionMap();
         locationsBtns = new LocationsBtns();
         sharebleLink = new SharebleLink();
@@ -182,7 +182,7 @@ function DataManager(){
         generalScore.updateData();
         locationsDataManager.updateData();
         locationsBtns.updateData();
-        locationsMapDatamap.updateData();
+        // locationsMapDatamap.updateData();
         locationsMapSubRegion.updateData();
         btnsTopicsSelectors.updateData();
         luxuriousHealthBar.updateData();

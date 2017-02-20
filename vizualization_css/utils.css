@@ -148,3 +148,47 @@ a{
 #subregionMapContainer{
     margin-left: auto;
 }
+
+
+.btn-location {
+    margin-top: 2px;
+    width: 100%;
+    color: #000;
+    font-size: 12px;
+    font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+}
+
+.btn-location:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #000;
+    /*border: 2px solid #d1d1d1;*/
+}
+
+.btn-multiple-countries{
+    margin-top: 2px;
+    color: #000;
+}
+
+.btn-multiple-countries:hover{
+    color: #000;
+}
+
+#locationBtnList{
+    top: -75px;
+    position: relative;
+}
+
+#tooltip-locations {
+    position: absolute;
+}
+
+.hoverinfo {
+    z-index: 1;
+    padding: 4px;
+    border-radius: 1px;
+    background-color: #FFF;
+    box-shadow: 1px 1px 5px #CCC;
+    font-size: 12px;
+    border: 1px solid #CCC;
+}

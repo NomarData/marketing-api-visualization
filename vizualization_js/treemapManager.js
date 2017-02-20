@@ -144,7 +144,6 @@ function TreemapManager(){
     this.hideTreemapsAndAskToSelectLocations = function(){
         for(var treemapIndex in currentInstance.treemaps){
             var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
-            var containerHeight = treemapContainer.height();
             var chart = treemapContainer.find(".chart");
             $("#alertToSelectLocation").removeClass("hidden");
             chart.hide();
