@@ -94,11 +94,11 @@ function SubRegionMap(){
                 fillOpacity: 0.7,
                 strokeWeight: 1,
                 mouseout: function(){
-                    locationsMapDatamap.mouseoutTooltip();
+                    locationsDataManager.mouseoutTooltip();
                 },
                 mousemove: function(e){
                     d3.event = e.ya;
-                    locationsMapDatamap.mousemoveTooltip(locationKey);
+                    locationsDataManager.mousemoveTooltip(locationKey);
                 },
                 click : function (e) {
                     d3.event = e.ya;

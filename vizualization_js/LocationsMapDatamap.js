@@ -4,7 +4,6 @@ function LocationsMapDatamap(){
     this.datamap = null;
     this.auxiliarDatamaps = [];
     this.scope = DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].scope;
-    this.tooltipMargin = 10;
     this.geographyConfig = {
         dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
         hideAntarctica: true,
@@ -131,77 +130,23 @@ function LocationsMapDatamap(){
 
         });
     };
-    this.addClickFunctionToLocationBtns = function(){
-        $(".locationItem").click(function(){
-            onClickLocationFunction($(this));
-        });
-    };
+
     this.addTooltipToLocationPath =  function(){
         d3.selectAll('.datamaps-subunit').on('mousemove', function(geography) {
             currentInstance.removeHoverIfNotEnabledLocation(geography);
             var datamaps_code = geography.id;
             if(isDatamapCodeInLocationMap(datamaps_code)){
                 let locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
-                currentInstance.mousemoveTooltip(locationKey);
+                locationsDataManager.mousemoveTooltip(locationKey);
             }
         });
 
         d3.selectAll('.datamaps-subunit').on('mouseout', function(geography) {
             var datamaps_code = geography.id;
             if(isDatamapCodeInLocationMap(datamaps_code)){
-                currentInstance.mouseoutTooltip();
+                locationsDataManager.mouseoutTooltip();
             }
         });
-    };
-
-    this.addTooltipToLocationBtns =  function(){
-        d3.selectAll('.locationItem').on('mousemove',function () {
-            var locationBtn = $(this);
-            var location2letters = locationBtn.data("code");
-            var locationKey = getLocationKeyFromLocation2letter(location2letters);
-            currentInstance.mousemoveTooltip(locationKey);
-        });
-
-        d3.selectAll('.locationItem').on('mouseout',function () {
-            currentInstance.mouseoutTooltip();
-        });
-
-    };
-
-    this.mousemoveTooltip = function(locationKey){
-        var locationData = locationsDataManager.getLocationSelectedData(locationKey);
-        var locationName = getLocationNameFromLocationKey(locationKey);
-
-
-        d3.select("#tooltip-locations").classed("hidden", false);
-        var xPosition = d3.event.pageX + currentInstance.tooltipMargin;
-        var yPosition = d3.event.pageY + currentInstance.tooltipMargin;
-        d3.select("#tooltip-locations")
-            .style("left", xPosition + "px")
-            .style("top", yPosition + "px");
-
-        d3.select("#tooltip-locations  #locationNameTooltip")
-            .text(locationName);
-
-        if(!dataManager.isLocationKeyAlreadySelected(locationKey)){
-            d3.select("#locationDataTooltipContainer").classed("hidden",true);
-
-        } else {
-            d3.select("#locationDataTooltipContainer").classed("hidden",false);
-            d3.select("#tooltip-locations #locationScoreTooltip").text(scoreToPercentage(locationData.score));
-            d3.select("#tooltip-locations  #locationFacebookCoverage")
-                .text(convertIntegerToReadable(locationData.audienceCoverage));
-
-            d3.select("#tooltip-locations  #leftAudienceLocationTooltip")
-                .text(convertIntegerToReadable(locationData.leftAudience));
-
-            d3.select("#tooltip-locations  #rightAudienceLocationTooltip")
-                .text(convertIntegerToReadable(locationData.rightAudience));
-        }
-    };
-
-    this.mouseoutTooltip = function(){
-        d3.select("#tooltip-locations").classed("hidden", true);
     };
 
     this.mainMapGivenLocationsColors = function(datamapsColor){

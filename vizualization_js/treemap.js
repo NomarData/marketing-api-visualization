@@ -50,7 +50,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.root = treemapData;
     this.node = treemapData;
     this.treemapContainer = treemapContainer;
-    this.tooltip_margin = 10;
     this.treemapCategoryMargin = 15;
 
     this.treemap = d3.layout.treemap()
@@ -256,8 +255,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     };
     this.mousemoveTooltip = function(d){
         d3.select("#tooltip-treemap").classed("hidden", false);
-        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
-        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+        var xPosition = d3.event.pageX + TOOLTIP_DISTANCE_FROM_MOUSE;
+        var yPosition = d3.event.pageY + TOOLTIP_DISTANCE_FROM_MOUSE;
 
         d3.select("#tooltip-treemap")
             .style("left", xPosition + "px")

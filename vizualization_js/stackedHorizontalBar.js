@@ -7,7 +7,6 @@ function stackedHorizontalBar(){
     this.data = null;
     this.redData = null;
     this.greenData = null;
-    this.tooltip_margin = 10;
     this.margin = {
         top: 30,
         right: 0,
@@ -141,8 +140,8 @@ function stackedHorizontalBar(){
 
     this.mousemoveTooltip = function(d){
         d3.select("#tooltip-stackedbar").classed("hidden", false);
-        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
-        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+        var xPosition = d3.event.pageX + TOOLTIP_DISTANCE_FROM_MOUSE;
+        var yPosition = d3.event.pageY + TOOLTIP_DISTANCE_FROM_MOUSE;
         d3.select("#tooltip-stackedbar")
             .style("left", xPosition + "px")
             .style("top", yPosition + "px");

@@ -39,11 +39,11 @@ function LocationsBtns(){
             var locationBtn = $(this);
             var location2letters = locationBtn.data("code");
             var locationKey = getLocationKeyFromLocation2letter(location2letters);
-            locationsMapDatamap.mousemoveTooltip(locationKey);
+            locationsDataManager.mousemoveTooltip(locationKey);
         });
 
         d3.selectAll('.locationItem').on('mouseout',function () {
-            locationsMapDatamap.mouseoutTooltip();
+            locationsDataManager.mouseoutTooltip();
         });
     };
 
@@ -59,7 +59,7 @@ function LocationsBtns(){
 
     this.updateBtnColor =function (locationKey, color){
         var location2letters = getLocation2letterFromLocationKey(locationKey);
-        var locationItem = getJqueryLocationBtnByCode2Letters(location2letters);
+        var locationItem = currentInstance.getJqueryLocationBtnByCode2Letters(location2letters);
         locationItem.css("background-color",color);
         if(color == DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR){
             locationItem.css("text-decoration","");
@@ -67,6 +67,12 @@ function LocationsBtns(){
             locationItem.css("text-decoration","underline");
         }
     };
+
+
+    this.getJqueryLocationBtnByCode2Letters = function(location2Letters){
+        return $("div[data-code='"+ location2Letters +"']");
+    }
+
 
     this.initLocationsBtns();
 }

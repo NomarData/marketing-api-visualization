@@ -119,11 +119,6 @@ function removeAllParentheses(string){
     return string
 }
 
-function getJqueryLocationBtnByCode2Letters(location2Letters){
-
-    return $("div[data-code='"+ location2Letters +"']");
-}
-
 function onClickLocationFunctionByLocationKey(locationKey) {
     //Of course this can be optimized, but not deal with this now.
     var locationDatamapCode = getLocationDatamapCodeFromLocationKey(locationKey);
@@ -132,12 +127,12 @@ function onClickLocationFunctionByLocationKey(locationKey) {
 
 function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
     var location2Letter = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
-    var locationItem = getJqueryLocationBtnByCode2Letters(location2Letter);
+    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(location2Letter);
     onClickLocationFunction(locationItem);
 }
 
 function onClickLocationFunctionBy2LettersCode(_2_letters_code){
-    var locationItem = getJqueryLocationBtnByCode2Letters(_2_letters_code);
+    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(_2_letters_code);
     onClickLocationFunction(locationItem);
 }
 
