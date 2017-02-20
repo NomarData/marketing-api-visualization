@@ -14,12 +14,12 @@ $(document).ready(function () {
         updateFBDemographicDataPromise.done(function(d){
             dataManager.setSelectedInstances();
             if(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].isSubRegionData){
-                buildAndInitVisualComponents();
+                dataManager.buildAndInitVisualComponents();
             } else{
                 $.getScript(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].mapFilePath)
                     .done(function( script, textStatus ) {
                         console.log( "Map Loadeed" );
-                        buildAndInitVisualComponents();
+                        dataManager.buildAndInitVisualComponents();
                     })
                     .fail(function( jqxhr, settings, exception ) {
                         console.log( " Error load visual components:" + exception );

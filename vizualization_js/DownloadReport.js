@@ -63,8 +63,8 @@ function DownloadReport(){
             data.push([getTooltipLabel(category), selectedDemographics[category]])
         }
         var selectedLocationData = dataManager.getSelectedLocationsData();
-        for(var location2Letters in selectedLocationData){
-            data.push(["Location", selectedLocationData[location2Letters].name])
+        for(var locationKey in selectedLocationData){
+            data.push(["Location", selectedLocationData[locationKey].name])
         }
     };
 
@@ -74,8 +74,8 @@ function DownloadReport(){
         var locationsData = dataManager.getSelectedLocationsData();
         data.push([APPLICATION_TITLE]);
         data.push(header)
-        for(let locationCode in locationsData){
-            var locationData = locationsData[locationCode];
+        for(let locationKey in locationsData){
+            var locationData = locationsData[locationKey];
             var locationRow = [];
             locationRow.push(locationData.name);
             locationRow.push(locationData.score);

@@ -23,69 +23,11 @@ function removeValueFromArray(array,valueToRemove){
     });
 }
 
-function buildAndInitVisualComponents(){
-    console.log("Building visual components");
-    treemapManager = new TreemapManager();
-    luxuriousHealthBar = new stackedHorizontalBar();
-    GeneralScore = new GeneralScore();
-    arabMap = new locationsDatamap();
-    subRegionMap = new  SubRegionMap();
-    initLocationBtns();
-    sharebleLink = new SharebleLink();
-    btnsTopicsSelectors = new BtnsTopicsSelectors();
-    historyDataSelector = new HistoryDataSelector();
-    findingsFinder = new FindingFinder();
-    downloadReport = new DownloadReport();
-    console.log("Builded visual components");
-    sharebleLink.init();
-}
-
 function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
 }
 
-function initLocationBtns() {
-    externalDataManager.updateLocationList(fbInstancesDemographic);
 
-    addClickFunctionToLocationBtns();
-    addTooltipToLocationBtns();
-
-    //Select All and Deselect All Behavior
-    $("#selectedAllLocationsBtn").click(function(){
-        dataManager.selectAllLocations();
-
-    });
-    $("#unselectedAllLocationsBtn").click(function(){
-        dataManager.deselectAllLocations();
-    });
-
-    $("#fastLocationsSelectorBtn").click(function(){
-        dataManager.selectFastLocationsBtn();
-    });
-    if("fastLocationSelection" in DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY]){
-        $("#fastLocationsSelectorBtn").show();
-        $("#fastLocationsSelectorBtn").text(DATAMAPS_CONFIGS[DATAMAPS_CONFIG_KEY].fastLocationSelection.name);
-    }
-    $(".loader").fadeOut();
-};
-function addClickFunctionToLocationBtns(){
-    $(".locationItem").click(function(){
-        onClickLocationFunction($(this));
-    });
-};
-
-function addTooltipToLocationBtns(){
-    d3.selectAll('.locationItem').on('mousemove',function () {
-        var locationBtn = $(this);
-        var location2letters = locationBtn.data("code");
-        var datamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
-        arabMap.mousemoveTooltip(datamaps_code);
-    });
-
-    d3.selectAll('.locationItem').on('mouseout',function () {
-        arabMap.mouseoutTooltip();
-    });
-};
 
 function buildBreakPoints(domainBreakpoints, colorRange){
     breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
@@ -139,8 +81,6 @@ function getCenterFromCoodinates(data){
     return new Array(newX, newY);
 }
 
-
-
 function getTooltipLabel(value){
     if(value in mapValuesStringsTooltip){
         return mapValuesStringsTooltip[value];
@@ -184,6 +124,12 @@ function getJqueryLocationBtnByCode2Letters(location2Letters){
     return $("div[data-code='"+ location2Letters +"']");
 }
 
+function onClickLocationFunctionByLocationKey(locationKey) {
+    //Of course this can be optimized, but not deal with this now.
+    var locationDatamapCode = getLocationDatamapCodeFromLocationKey(locationKey);
+    onClickLocationFunctionByDatamapCode(locationDatamapCode);
+}
+
 function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
     var location2Letter = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
     var locationItem = getJqueryLocationBtnByCode2Letters(location2Letter);
@@ -195,16 +141,7 @@ function onClickLocationFunctionBy2LettersCode(_2_letters_code){
     onClickLocationFunction(locationItem);
 }
 
-function updateBtnColor(locationDatamaps_code, color){
-    var location2letters = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
-    var locationItem = getJqueryLocationBtnByCode2Letters(location2letters);
-    locationItem.css("background-color",color);
-    if(color == DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR){
-        locationItem.css("text-decoration","");
-    } else {
-        locationItem.css("text-decoration","underline");
-    }
-}
+
 
 function onClickLocationFunction(locationItem){
     var location2letters = locationItem.data("code");
@@ -219,7 +156,9 @@ function onClickLocationFunction(locationItem){
 
 function getAllDatamapsCodeInLocationMap(){
     var locationsDatamap_codes = $.map(locationCodeMap,function (item) {
-        return item.datamaps_code;
+        if("datamaps_code" in item ){
+            return item.datamaps_code;
+        }
     });
     return locationsDatamap_codes;
 }
@@ -327,6 +266,14 @@ function convertDatamapsCodeToLocationKey(datamaps_code){
     throw Error("3 Letter Code not found:" + datamaps_code);
 }
 
+function convertLocationsColorsToDatamapsColors(locationsColors){
+    var datamapsColors = {};
+    $.map(locationsColors,function(locationColor, locationKey){
+        datamapsColors[getLocationDatamapCodeFromLocationKey(locationKey)] = locationColor;
+    });
+    return datamapsColors;
+}
+
 function datenum(v, date1904) {
     if(date1904) v+=1462;
     var epoch = Date.parse(v);
@@ -347,6 +294,14 @@ function getLocation2letterFromLocationKey(locationKey){
     return locationCodeMap[locationKey]._2letters_code;
 }
 
+function getLocationNameFromLocationKey(locationKey){
+    return locationCodeMap[locationKey].name;
+}
+
+function getLocationDatamapCodeFromLocationKey(locationKey){
+    return locationCodeMap[locationKey].datamaps_code;
+}
+
 function getLocationKeyFromLocation2letter(location2letter){
     for(var key in locationCodeMap){
         if(locationCodeMap[key]._2letters_code.toUpperCase() == location2letter.toUpperCase()){
@@ -354,4 +309,8 @@ function getLocationKeyFromLocation2letter(location2letter){
         }
     }
     throw Error("2 Letter Code not found:" + location2letter);
+}
+
+function getAllKeysInLocationMap(){
+    return Object.keys(locationCodeMap);
 }

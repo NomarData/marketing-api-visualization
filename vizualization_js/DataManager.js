@@ -148,7 +148,7 @@ function DataManager(){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
                 var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
-                if(instance.location == location2letter){
+                if(getLocation2letterFromLocationKey(instance.location) == location2letter){
                     total += instance.audience;
                 }
             }
@@ -158,12 +158,32 @@ function DataManager(){
         }
     };
 
+    this.buildAndInitVisualComponents = function(){
+        console.log("Building visual components");
+        treemapManager = new TreemapManager();
+        luxuriousHealthBar = new stackedHorizontalBar();
+        generalScore = new GeneralScore();
+        locationsDataManager = new LocationsDataManager();
+        locationsMapDatamap = new LocationsMapDatamap();
+        locationsMapSubRegion = new  SubRegionMap();
+        locationsBtns = new LocationsBtns();
+        sharebleLink = new SharebleLink();
+        btnsTopicsSelectors = new BtnsTopicsSelectors();
+        historyDataSelector = new HistoryDataSelector();
+        findingsFinder = new FindingFinder();
+        downloadReport = new DownloadReport();
+        console.log("Builded visual components");
+        sharebleLink.init();
+    }
+
     this.updateVisualComponents = function(){
         currentInstance.setSelectedInstances();
         treemapManager.updateTreemaps();
-        GeneralScore.updateData();
-        arabMap.updateData();
-        subRegionMap.updateData();
+        generalScore.updateData();
+        locationsDataManager.updateData();
+        locationsBtns.updateData();
+        locationsMapDatamap.updateData();
+        locationsMapSubRegion.updateData();
         btnsTopicsSelectors.updateData();
         luxuriousHealthBar.updateData();
         sharebleLink.updateData();
@@ -225,21 +245,9 @@ function DataManager(){
 
         for(let location2lettersIndex in dataManager.selectedLocations_2letters){
             var location2letters = dataManager.selectedLocations_2letters[location2lettersIndex];
-            var locationDatamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
-            var locationData = locationsDataDatamap.getLocationSelectedData(locationDatamaps_code);
-            selectedLocationsData[location2letters] = locationData;
-        }
-        return selectedLocationsData;
-    }
-
-    this.getCellsData = function(){
-        var selectedLocationsData = {};
-
-        for(let locationIndex in dataManager.selectedLocations_2letters){
-            var location2letters = dataManager.selectedLocations_2letters[locationIndex];
-            var locationDatamaps_code = convert2LetterCodeToDatamapsCode(location2letters);
-            var locationData = locationsDataDatamap.getLocationSelectedData(locationDatamaps_code);
-            selectedLocationsData[location2letters] = locationData;
+            var locationKey = getLocationKeyFromLocation2letter(location2letters);
+            var locationData = locationsDataManager.getLocationSelectedData(locationKey);
+            selectedLocationsData[locationKey] = locationData;
         }
         return selectedLocationsData;
     }

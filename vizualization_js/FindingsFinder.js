@@ -45,13 +45,13 @@ function FindingFinder(){
         var std = this.computeLocationsStandardDeviation(locationsData);
         var average = this.computeLocationsStandardAverage(locationsData);
 
-        for(var locationData in locationsData){
-            var score = locationsData[locationData].score
+        for(var locationKey in locationsData){
+            var score = locationsData[locationKey].score
             if(score > (average + 2*std)){
-                currentInstance.currentLocationsFinding.push("<b>"  + convert2LettersCodeToName(locationData) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
+                currentInstance.currentLocationsFinding.push("<b>"  + getLocationNameFromLocationKey(locationKey) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
             }
             if(score < (average - 2*std)){
-                currentInstance.currentLocationsFinding.push("<b>"  + convert2LettersCodeToName(locationData) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
+                currentInstance.currentLocationsFinding.push("<b>"  + getLocationNameFromLocationKey(locationKey) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
             }
         }
     };

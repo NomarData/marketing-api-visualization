@@ -1,4 +1,3 @@
-FAVICON_PATH = "imgs/peace-icon.png";
 SOCIAL_MEDIA_SUBJECT = "Dengue and Depression in São Paulo";
 EMAIL_BODY = "Hey my friend, look what a nice visualization.Link: LINK";
 fbInstancesWithInterests = [];
@@ -114,13 +113,13 @@ columnsToTreemaps = [
 //     'back pain'
 // ];
 // rightTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
-HEALTH_ICON_PATH = "imgs/health.svg";
+HEALTH_ICON_PATH = "imgs/heart.svg";
 JEWEL_ICON_PATH = "imgs/jewel.svg";
 WAR_ICON_PATH = "imgs/war-icon.png";
 PEACE_ICON_PATH = "imgs/peace-icon.png";
 
-LEFT_ICON_PATH = PEACE_ICON_PATH;
-RIGHT_ICON_PATH = WAR_ICON_PATH;
+LEFT_ICON_PATH = HEALTH_ICON_PATH;
+RIGHT_ICON_PATH = JEWEL_ICON_PATH;
 filtersNameList = [""];
 leftTopics = [
     "All Peace",
