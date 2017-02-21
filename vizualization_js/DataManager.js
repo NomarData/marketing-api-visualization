@@ -117,7 +117,7 @@ function DataManager(){
          for(var indexFacebookPopulation in fbInstancesDemographic){
              var instance = fbInstancesDemographic[indexFacebookPopulation];
              if(!currentInstance.hasAllInAnyCategory(instance)){
-                 if(currentInstance.isInstanceAgreeWithSelected(instance)){
+                 if(currentInstance.isInstanceAgreeWithSelected(instance) && currentInstance.selectedLocations_2letters.length > 0){
                      facebookPopulationInstances.push(instance)
                  }
              }

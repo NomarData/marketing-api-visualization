@@ -118,13 +118,15 @@ function SubRegionMap(){
     this.addScoreTexyToMap = function(locationKey){
         var subRegionParameters = currentInstance.locationsKeyToSubRegionsParameters[locationKey];
         var locationData = locationsDataManager.getLocationSelectedData(locationKey);
-        currentInstance.map.drawOverlay({
-            lat: subRegionParameters.latitude,
-            lng: subRegionParameters.longitude,
-            content: '<div class="scoreInMap">' + "Score: " + scoreToPercentage(locationData.score) + '</div>',
-            verticalAlign: 'middle'
-        });
-    }
+        if(!isNaN(locationData.score) && isFinite(locationData.score)){
+            currentInstance.map.drawOverlay({
+                lat: subRegionParameters.latitude,
+                lng: subRegionParameters.longitude,
+                content: '<div class="scoreInMap">' + "Score: " + scoreToPercentage(locationData.score) + '</div>',
+                verticalAlign: 'middle'
+            });
+        }
+    };
 
     this.updateSubRegionColors = function () {
         var locationsColors = locationsDataManager.getLocationsColors();
