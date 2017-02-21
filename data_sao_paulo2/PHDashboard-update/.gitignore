@@ -1,0 +1,8 @@
+email_credentials.csv
+fb_credentials.csv
+data.csv
+*.pyc
+logging.txt
+credentials.csv
+.idea/
+dataframe*
