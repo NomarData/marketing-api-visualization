@@ -92,41 +92,49 @@ function SubRegionMap(){
             console.log("Ignore: SubRegion Map was not initiate");
         }
     };
+    this.addCicleToMap = function(locationKey,locationsColors){
+        var subRegionParameters = currentInstance.locationsKeyToSubRegionsParameters[locationKey];
+        currentInstance.map.drawCircle({
+            lat: subRegionParameters.latitude,
+            lng: subRegionParameters.longitude,
+            radius: subRegionParameters.radius,
+            fillColor: locationsColors[locationKey],
+            fillOpacity: 0.7,
+            content: "test",
+            strokeWeight: 1,
+            mouseout: function(){
+                locationsDataManager.mouseoutTooltip();
+            },
+            mousemove: function(e){
+                d3.event = e.ya;
+                locationsDataManager.mousemoveTooltip(locationKey);
+            },
+            click : function (e) {
+                d3.event = e.ya;
+                onClickLocationFunctionByLocationKey(locationKey);
+            }
+        });
+    }
+    this.addScoreTexyToMap = function(locationKey){
+        var subRegionParameters = currentInstance.locationsKeyToSubRegionsParameters[locationKey];
+        var locationData = locationsDataManager.getLocationSelectedData(locationKey);
+        currentInstance.map.drawOverlay({
+            lat: subRegionParameters.latitude,
+            lng: subRegionParameters.longitude,
+            content: '<div class="scoreInMap">' + "Score: " + scoreToPercentage(locationData.score) + '</div>',
+            verticalAlign: 'middle'
+        });
+    }
+
     this.updateSubRegionColors = function () {
         var locationsColors = locationsDataManager.getLocationsColors();
         currentInstance.map.removePolygons();
         currentInstance.map.removeOverlays();
-        $.map(currentInstance.locationsKeyToSubRegionsParameters,function(subRegionParameters, locationKey){
-            console.log("Parameters:" + subRegionParameters + " Color:" + locationsColors[locationKey] );
-            currentInstance.map.drawCircle({
-                lat: subRegionParameters.latitude,
-                lng: subRegionParameters.longitude,
-                radius: subRegionParameters.radius,
-                fillColor: locationsColors[locationKey],
-                fillOpacity: 0.7,
-                content: "test",
-                strokeWeight: 1,
-                mouseout: function(){
-                    locationsDataManager.mouseoutTooltip();
-                },
-                mousemove: function(e){
-                    d3.event = e.ya;
-                    locationsDataManager.mousemoveTooltip(locationKey);
-                },
-                click : function (e) {
-                    d3.event = e.ya;
-                    onClickLocationFunctionByLocationKey(locationKey);
-                }
-            });
-            var locationData = locationsDataManager.getLocationSelectedData(locationKey);
-            currentInstance.map.drawOverlay({
-                lat: subRegionParameters.latitude,
-                lng: subRegionParameters.longitude,
-                content: '<div class="scoreInMap">' + "Score: " + scoreToPercentage(locationData.score) + '</div>',
-                verticalAlign: 'middle'
-            });
-        });
-    }
+        for(var locationKey in currentInstance.locationsKeyToSubRegionsParameters){
+            currentInstance.addCicleToMap(locationKey, locationsColors);
+            currentInstance.addScoreTexyToMap(locationKey);
+        }
+    };
     this.isEmptySubregionParameters = function(){
         return $.isEmptyObject(currentInstance.locationsKeyToSubRegionsParameters);
     }
