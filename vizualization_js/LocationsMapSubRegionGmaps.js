@@ -10,7 +10,7 @@ $.fn.triggerSVGEvent = function(eventName) {
 
 function SubRegionMap(){
     var currentInstance = this;
-    this.locationsKeyToCoordinates = {};
+    this.locationsKeyToSubRegionsParameters = {};
     this.map = null;
     this.handleGeoCodeError = function(locationData, deferred){
         console.log("Error in Google GeoCode API:" + status);
@@ -29,7 +29,11 @@ function SubRegionMap(){
                 if (status == 'OK') {
                     var latlng = results[0].geometry.location;
                     var locationKey = getLocationKeyFromLocation2letter(locationData.location2LetterCode);
-                    currentInstance.locationsKeyToCoordinates[locationKey] = [latlng.lat(), latlng.lng()];
+                    currentInstance.locationsKeyToSubRegionsParameters[locationKey] = {
+                        "latitude" : latlng.lat(),
+                        "longitude" : latlng.lng(),
+                        "radius" : 5000, //TODO: Redifine this hardcoded and wrong radius
+                    };
                     console.log("Got:" + locationData.location2LetterCode);
                     deferred.resolve(locationData);
                 } else {
@@ -38,7 +42,7 @@ function SubRegionMap(){
             }
         });
     }
-    this.getPutMarkerAndSaveCoodinatesFromLocationsData = function (locationsData) {
+    this.getAndSaveCoodinatesFromLocationsDataUsingGoogleGeocoding = function (locationsData) {
         var deferreds = [];
         $.map(locationsData,function (locationData, index) {
             var deferred = new $.Deferred();
@@ -50,16 +54,28 @@ function SubRegionMap(){
             $.map(locationsDataList,function(locationData){console.log("Got geodata from: " + locationData.name)});
         });
     };
+    this.getAndSaveCoodinatesFromLocationsData = function (locationsData) {
+        $.map(locationsData,function (locationData, index) {
+            var locationKey = getLocationKeyFromLocation2letter(locationData.location2LetterCode);
+            var locationLatitude = getAttributeFromLocationKey(locationKey, "latitude");
+            var locationLongitude= getAttributeFromLocationKey(locationKey, "longitude");
+            var locationRadius = getAttributeFromLocationKey(locationKey, "radius");
+            currentInstance.locationsKeyToSubRegionsParameters[locationKey] = {
+                "latitude" : locationLatitude,
+                "longitude" : locationLongitude,
+                "radius" : locationRadius,
+            }
+            console.log("Got:" + locationData.location2LetterCode);
+        });
+    };
     this.initializeMap = function(){
-        var data = [[-23.6212, -46.7178],[-23.5577,-46.5435]];
-        var center = getCenterFromCoodinates(data);
         this.map = new GMaps({
             div: '#subregionMapContainer',
-            lat: center[0],
-            lng: center[1],
+            lat: MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].defaultSubRegionCenterLat,
+            lng: MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].defaultSubRegionCenterLng,
             width: '98%',
             height: LOCATION_HEIGHT_THRESHOLD - 60 + "px",
-            zoom: 11,
+            zoom: MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].zoomLevel,
             zoomControl: false,
             zoomControlOpt: {
                 style: 'SMALL',
@@ -79,20 +95,12 @@ function SubRegionMap(){
     this.updateSubRegionColors = function () {
         var locationsColors = locationsDataManager.getLocationsColors();
         currentInstance.map.removePolygons();
-        $.map(currentInstance.locationsKeyToCoordinates,function(coordinate, locationKey){
-            console.log("Cordinates:" + coordinate + " Color:" + locationsColors[locationKey] );
-            if(locationKey == "Michigan"){
-                coordinate[0] = -23.6212;
-                coordinate[1] = -46.7178;
-            }
-            if(locationKey == "Minnesota"){
-                coordinate[0] = -23.5577;
-                coordinate[1] = -46.5435;
-            }
+        $.map(currentInstance.locationsKeyToSubRegionsParameters,function(subRegionParameters, locationKey){
+            console.log("Parameters:" + subRegionParameters + " Color:" + locationsColors[locationKey] );
             currentInstance.map.drawCircle({
-                lat: coordinate[0],
-                lng: coordinate[1],
-                radius: 5000,
+                lat: subRegionParameters.latitude,
+                lng: subRegionParameters.longitude,
+                radius: subRegionParameters.radius,
                 fillColor: locationsColors[locationKey],
                 fillOpacity: 0.7,
                 strokeWeight: 1,
@@ -110,15 +118,27 @@ function SubRegionMap(){
             });
         });
     }
-    this.hasCoordinatesFromRegion = function(){
-        return $.isEmptyObject(currentInstance.locationsKeyToCoordinates);
+    this.isEmptySubregionParameters = function(){
+        return $.isEmptyObject(currentInstance.locationsKeyToSubRegionsParameters);
     }
+
+    this.reCenterBasedOnSubregionsCoordinates = function(){
+        var coordinatesArray = [];
+        $.map(currentInstance.locationsKeyToSubRegionsParameters, function(subRegionParameters){
+            coordinatesArray.push([subRegionParameters.latitude,subRegionParameters.longitude]);
+        });
+        var center = getCenterFromCoodinates(coordinatesArray);
+        currentInstance.map.setCenter(center[0],center[1]);
+    }
+
     this.updateData = function(){
         if(currentInstance.map){
-            if(!currentInstance.hasCoordinatesFromRegion()){
+            if(currentInstance.isEmptySubregionParameters()){
                 var locationsData = dataManager.getSelectedLocationsData();
-                locationsData = [locationsData["Michigan"], locationsData["Minnesota"]];
-                currentInstance.getPutMarkerAndSaveCoodinatesFromLocationsData(locationsData);
+                currentInstance.getAndSaveCoodinatesFromLocationsData(locationsData);
+                if(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].autoCenterMap){
+                    currentInstance.reCenterBasedOnSubregionsCoordinates();
+                }
             }
             currentInstance.updateSubRegionColors();
         }

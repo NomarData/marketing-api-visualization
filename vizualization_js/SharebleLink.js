@@ -236,9 +236,8 @@ function SharebleLink(){
             var reference = reference.toLowerCase();
             for(var locationKey in locationCodeMap){
                 var code2Letters = locationCodeMap[locationKey]._2letters_code.toLowerCase();
-                var datamap_code = locationCodeMap[locationKey].datamaps_code.toLowerCase();
                 var name = locationCodeMap[locationKey].name.toLowerCase();
-                if(reference == code2Letters || reference == datamap_code || reference == name){
+                if(reference == code2Letters || reference == name){
                     return getLocation2letterFromLocationKey(locationKey);
                 }
             }

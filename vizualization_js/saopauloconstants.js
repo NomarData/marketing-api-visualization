@@ -2,7 +2,7 @@ SOCIAL_MEDIA_SUBJECT = "Dengue and Depression in São Paulo";
 EMAIL_BODY = "Hey my friend, look what a nice visualization.Link: LINK";
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
-ROOT_DATA_PATH = "data_peace_war/";
+ROOT_DATA_PATH = "data_sao_paulo/";
 CURRENT_DATA_PATH = ROOT_DATA_PATH + "current_data/";
 HISTORY_MAP_FILE_PATH =  ROOT_DATA_PATH  + "historic_data/history_map.csv";
 USA_MAP_DATAMAPS_PATH = "vizualization_js/lib/datamaps-master/dist/datamaps.usa.min.js";
@@ -70,13 +70,20 @@ MAPS_CONFIGS = {
     },
     "SAOPAULO" : {
         "isSubRegionData" : true,
-        "zoomLevel" : 11
+        "zoomLevel" : 11,
+        "defaultSubRegionCenterLat": 0,
+        "defaultSubRegionCenterLng": 0,
+        "autoCenterMap" : true
     }
 };
-MAPS_CONFIG_SELECTION_KEY = "US";
+locationCodeMap["West Zone (rich)"] = {"name":"West Zone" , "_2letters_code":"WE", "latitude": -23.6212, "longitude": -46.7178, "radius": 5000};
+locationCodeMap["East Zone (poor)"] = {"name":"East Zone" , "_2letters_code":"ES", "latitude": -23.5577, "longitude": -46.5435, "radius": 4000};
+
+MAPS_CONFIG_SELECTION_KEY = "SAOPAULO";
 allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
 allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
-allEnabledLocationsKeys = allUsaStatesKeys;
+allSaoPauloSubRegionsKeys = ["West Zone (rich)", "East Zone (poor)"];
+allEnabledLocationsKeys = allSaoPauloSubRegionsKeys;
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
 colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
 domainLinear = [-1, -0.66, -0.33, 0, 0.33, 0.66, 1];
@@ -90,7 +97,7 @@ APPLICATION_TITLE = "Dengue and Depression in São Paulo";
 APPLICATION_DESCRIPTION = "This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the peace-related interests to a baseline war-related interests from US states";
 AWARENESS_SCORE_TITLE = "Facebook Peace Awareness Score";
 DEFAULT_LEFT_TOPIC = 0;
-DEFAULT_RIGHT_TOPIC = 2;
+DEFAULT_RIGHT_TOPIC = 0;
 LOCATION_HEIGHT_THRESHOLD = 500;
 LOCATION_BTNS_WIDTH = 90;
 columnsToTreemaps = [
@@ -122,20 +129,13 @@ LEFT_ICON_PATH = HEALTH_ICON_PATH;
 RIGHT_ICON_PATH = JEWEL_ICON_PATH;
 filtersNameList = [""];
 leftTopics = [
-    "All Peace",
-    "Peace",
-    "Human Rights",
-    "Social Moviment",
-    "Humanitarian Aid"
+    "Dengue Fever",
+    "Majot depressive disorder awareness"
 ];
 
 
 rightTopics = [
-    "All War",
-    "War",
-    "Firearm or Gun",
-    "Bomb",
-    "Fighter Aircraft"
+    "Luxury Goods"
 ];
 
 healthInterests = [
@@ -168,7 +168,9 @@ healthInterests = [
     "asthma",
     "Lung cancer awareness",
     "Diabetes mellitus",
-    "fitness and wellness"
+    "fitness and wellness",
+    "Dengue Fever",
+    "Majot depressive disorder awareness"
 ].concat(leftTopics);
 jewelInterests = ["jewel",
     "luxury goods",
@@ -178,146 +180,8 @@ jewelInterests = ["jewel",
     "Mobile Phones",
     "cars vehicles",
     "fast food",
+    "Luxury Goods",
     "luxury"].concat(rightTopics);
-
-locationCodeMap = {
-    "Alabama"  : {"name":"Alabama" , "_2letters_code":"AL","datamaps_code":"AL"},
-    "Alaska"  : {"name":"Alaska" , "_2letters_code":"AK","datamaps_code":"AK"},
-    "Arizona"  : {"name":"Arizona" , "_2letters_code":"AZ","datamaps_code":"AZ"},
-    "Arkansas"  : {"name":"Arkansas" , "_2letters_code":"AR","datamaps_code":"AR"},
-    "California"  : {"name":"California" , "_2letters_code":"CA","datamaps_code":"CA"},
-    "Colorado" : {"name":"Colorado", "_2letters_code":"CO","datamaps_code":"CO"},
-    "Connecticut" : {"name":"Connecticut", "_2letters_code":"CT","datamaps_code":"CT"},
-    "Delaware" : {"name":"Delaware", "_2letters_code":"DE","datamaps_code":"DE"},
-    "District of Columbia" : {"name":"District of Columbia", "_2letters_code":"DC","datamaps_code":"DC"},
-    "Florida" : {"name":"Florida", "_2letters_code":"FL","datamaps_code":"FL"},
-    "Georgia" : {"name":"Georgia", "_2letters_code":"GA","datamaps_code":"GA"},
-    "Hawaii" : {"name":"Hawaii", "_2letters_code":"HI","datamaps_code":"HI"},
-    "Idaho" : {"name":"Idaho", "_2letters_code":"ID","datamaps_code":"ID"},
-    "Illinois" : {"name":"Illinois", "_2letters_code":"IL","datamaps_code":"IL"},
-    "Indiana" : {"name":"Indiana", "_2letters_code":"IN","datamaps_code":"IN"},
-    "Iowa" : {"name":"Iowa", "_2letters_code":"IA","datamaps_code":"IA"},
-    "Kansas" : {"name":"Kansas", "_2letters_code":"KS","datamaps_code":"KS"},
-    "Kentucky" : {"name":"Kentucky", "_2letters_code":"KY","datamaps_code":"KY"},
-    "Louisiana" : {"name":"Louisiana", "_2letters_code":"LA","datamaps_code":"LA"},
-    "Maine" : {"name":"Maine", "_2letters_code":"ME","datamaps_code":"ME"},
-    "Maryland" : {"name":"Maryland", "_2letters_code":"MD","datamaps_code":"MD"},
-    "Massachusetts" : {"name":"Massachusetts", "_2letters_code":"MA","datamaps_code":"MA"},
-    "Michigan" : {"name":"Michigan", "_2letters_code":"MI","datamaps_code":"MI"},
-    "Minnesota" : {"name":"Minnesota", "_2letters_code":"MN","datamaps_code":"MN"},
-    "Mississippi" : {"name":"Mississippi", "_2letters_code":"MS","datamaps_code":"MS"},
-    "Missouri" : {"name":"Missouri", "_2letters_code":"MO","datamaps_code":"MO"},
-    "Montana" : {"name":"Montana", "_2letters_code":"MT","datamaps_code":"MT"},
-    "Nebraska" : {"name":"Nebraska", "_2letters_code":"NE","datamaps_code":"NE"},
-    "Nevada" : {"name":"Nevada", "_2letters_code":"NV","datamaps_code":"NV"},
-    "New Hampshire" : {"name":"New Hampshire", "_2letters_code":"NH","datamaps_code":"NH"},
-    "New Jersey" : {"name":"New Jersey", "_2letters_code":"NJ","datamaps_code":"NJ"},
-    "New Mexico" : {"name":"New Mexico", "_2letters_code":"NM","datamaps_code":"NM"},
-    "New York" : {"name":"New York", "_2letters_code":"NY","datamaps_code":"NY"},
-    "North Carolina" : {"name":"North Carolina", "_2letters_code":"NC","datamaps_code":"NC"},
-    "North Dakota" : {"name":"North Dakota", "_2letters_code":"ND","datamaps_code":"ND"},
-    "Ohio" : {"name":"Ohio", "_2letters_code":"OH","datamaps_code":"OH"},
-    "Oklahoma" : {"name":"Oklahoma", "_2letters_code":"OK","datamaps_code":"OK"},
-    "Oregon" : {"name":"Oregon", "_2letters_code":"OR","datamaps_code":"OR"},
-    "Pennsylvania" : {"name":"Pennsylvania", "_2letters_code":"PA","datamaps_code":"PA"},
-    "Rhode Island" : {"name":"Rhode Island", "_2letters_code":"RI","datamaps_code":"RI"},
-    "South Carolina" : {"name":"South Carolina", "_2letters_code":"SC","datamaps_code":"SC"},
-    "South Dakota" : {"name":"South Dakota", "_2letters_code":"SD","datamaps_code":"SD"},
-    "Tennessee" : {"name":"Tennessee", "_2letters_code":"TN","datamaps_code":"TN"},
-    "Texas" : {"name":"Texas", "_2letters_code":"TX","datamaps_code":"TX"},
-    "Utah" : {"name":"Utah", "_2letters_code":"UT","datamaps_code":"UT"},
-    "Vermont" : {"name":"Vermont", "_2letters_code":"VT","datamaps_code":"VT"},
-    "Virginia" : {"name":"Virginia", "_2letters_code":"VA","datamaps_code":"VA"},
-    "Washington" : {"name":"Washington", "_2letters_code":"WA","datamaps_code":"WA"},
-    "West Virginia" : {"name":"West Virginia", "_2letters_code":"WV","datamaps_code":"WV"},
-    "Wisconsin" : {"name":"Wisconsin", "_2letters_code":"WI","datamaps_code":"WI"},
-    "Wyoming" : {"name":"Wyoming", "_2letters_code":"WY","datamaps_code":"WY"},
-    "DZ"  : {
-        "name" : "Algeria",
-        "datamaps_code" : "DZA",
-        "_2letters_code" : "DZ"
-    },
-    "BH"  : {
-        "name" : "Bahrain",
-        "datamaps_code" : "BHR",
-        "_2letters_code" : "BH"
-    },
-    "EG"  : {
-        "name" : "Egypt",
-        "datamaps_code" : "EGY",
-        "_2letters_code" : "EG"
-    },
-    "IQ"  : {
-        "name" : "Iraq",
-        "datamaps_code" : "IRQ",
-        "_2letters_code" : "IQ"
-    },
-    "JO"  : {
-        "name" : "Jordan",
-        "datamaps_code" : "JOR",
-        "_2letters_code" : "JO"
-    },
-    "KW"  : {
-        "name" : "Kuwait",
-        "datamaps_code" : "KWT",
-        "_2letters_code" : "KW"
-    },
-    "LB"  : {
-        "name" : "Lebanon",
-        "datamaps_code" : "LBN",
-        "_2letters_code" : "LB"
-    },
-    "LY"  : {
-        "name" : "Libya",
-        "datamaps_code" : "LBY",
-        "_2letters_code" : "LY"
-    },
-    "MA"  : {
-        "name" : "Morocco",
-        "datamaps_code" : "MAR",
-        "_2letters_code" : "MA"
-    },
-    "OM"  : {
-        "name" : "Oman",
-        "datamaps_code" : "OMN",
-        "_2letters_code" : "OM"
-    },
-    "PS"  : {
-        "name" : "Palestine",
-        "datamaps_code" : "PSE",
-        "_2letters_code" : "PS"
-    },
-    "QA"  : {
-        "name" : "Qatar",
-        "datamaps_code" : "QAT",
-        "_2letters_code" : "QA"
-    },
-    "SA"  : {
-        "name" : "Saudi Arabia",
-        "datamaps_code" : "SAU",
-        "_2letters_code" : "SA"
-    },
-    "SO"  : {
-        "name" : "Somalia",
-        "datamaps_code" : "SOM",
-        "_2letters_code" : "SO"
-    },
-    "TN"  : {
-        "name" : "Tunisia",
-        "datamaps_code" : "TUN",
-        "_2letters_code" : "TN"
-    },
-    "AE"  : {
-        "name" : "United Arab Emirates",
-        "datamaps_code" : "ARE",
-        "_2letters_code" : "AE"
-    },
-    "YE"  : {
-        "name" : "Yemen",
-        "datamaps_code" : "YEM",
-        "_2letters_code" : "YE"
-    },
-};
 
 mapValuesStringsTooltip = {
     "Female" : "Female",

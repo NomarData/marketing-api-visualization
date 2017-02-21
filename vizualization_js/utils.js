@@ -90,7 +90,7 @@ function getTooltipLabel(value){
 }
 
 function isSubregionMode(){
-    if("isSubRegion" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY] && MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].isSubRegionData == true){
+    if("isSubRegionData" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY] && MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].isSubRegionData == true){
         return true;
     } else {
         return false;
@@ -316,4 +316,17 @@ function getLocationKeyFromLocation2letter(location2letter){
 
 function getAllKeysInLocationMap(){
     return Object.keys(locationCodeMap);
+}
+
+function getAttributeFromLocationKey(locationKey, attribute){
+    if(locationKey in locationCodeMap){
+        var locationItem = locationCodeMap[locationKey];
+        if(attribute in locationItem){
+            return locationItem[attribute];
+        } else{
+            console.log("attribute: " + attribute + " not defined.");
+        }
+    } else {
+        console.log("locationKey: " + locationKey + " not in locationCodeMap");
+    }
 }
