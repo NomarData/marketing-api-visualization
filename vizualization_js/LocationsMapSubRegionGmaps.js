@@ -95,6 +95,7 @@ function SubRegionMap(){
     this.updateSubRegionColors = function () {
         var locationsColors = locationsDataManager.getLocationsColors();
         currentInstance.map.removePolygons();
+        currentInstance.map.removeOverlays();
         $.map(currentInstance.locationsKeyToSubRegionsParameters,function(subRegionParameters, locationKey){
             console.log("Parameters:" + subRegionParameters + " Color:" + locationsColors[locationKey] );
             currentInstance.map.drawCircle({
@@ -103,6 +104,7 @@ function SubRegionMap(){
                 radius: subRegionParameters.radius,
                 fillColor: locationsColors[locationKey],
                 fillOpacity: 0.7,
+                content: "test",
                 strokeWeight: 1,
                 mouseout: function(){
                     locationsDataManager.mouseoutTooltip();
@@ -115,6 +117,13 @@ function SubRegionMap(){
                     d3.event = e.ya;
                     onClickLocationFunctionByLocationKey(locationKey);
                 }
+            });
+            var locationData = locationsDataManager.getLocationSelectedData(locationKey);
+            currentInstance.map.drawOverlay({
+                lat: subRegionParameters.latitude,
+                lng: subRegionParameters.longitude,
+                content: '<div class="scoreInMap">' + "Score: " + scoreToPercentage(locationData.score) + '</div>',
+                verticalAlign: 'middle'
             });
         });
     }
