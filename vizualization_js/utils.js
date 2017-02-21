@@ -128,15 +128,14 @@ function removeAllParentheses(string){
 }
 
 function onClickLocationFunctionByLocationKey(locationKey) {
-    //Of course this can be optimized, but not deal with this now.
-    var locationDatamapCode = getLocationDatamapCodeFromLocationKey(locationKey);
-    onClickLocationFunctionByDatamapCode(locationDatamapCode);
+    var location2Letter = getLocation2letterFromLocationKey(locationKey);
+    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(location2Letter);
+    onClickLocationFunction(locationItem);
 }
 
 function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
-    var location2Letter = convertDatamapsCodeTo2LetterCode(locationDatamaps_code);
-    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(location2Letter);
-    onClickLocationFunction(locationItem);
+    var locationKey = convertDatamapsCodeToLocationKey(locationDatamaps_code);
+    onClickLocationFunctionByLocationKey(locationKey);
 }
 
 function onClickLocationFunctionBy2LettersCode(_2_letters_code){
