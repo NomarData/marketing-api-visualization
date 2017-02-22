@@ -101,7 +101,7 @@ function SubRegionMap(){
             fillColor: locationsColors[locationKey],
             fillOpacity: 0.7,
             content: "test",
-            strokeWeight: 1,
+            strokeWeight: 0,
             mouseout: function(){
                 locationsDataManager.mouseoutTooltip();
             },
