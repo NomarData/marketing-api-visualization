@@ -3,9 +3,81 @@
  */
 function LocationsBtns(){
     var currentInstance = this;
-    this.initLocationsBtns = function(){
-        externalDataManager.updateLocationList(fbInstancesDemographic);
+    this.locationBtnsListContainer = null;
+    this.locationsPopulationSparklinesSvg = null;
+    this.locationsPopulationSparklinesAxis = null;
+    this.locationsPopulationSparklinesScale = null;
+    this.updatePopulationSparkline = function(){
+        // currentInstance.locationBtnsListContainer.prepend("<div id='locationBtnChart'></div>");
+        // var locationBtnChartSvg = d3.select('#locationBtnChart')
+        //     .append('svg')
+        //     .attr({'width':'100%','height':550});
+        // var text = locationBtnChartSvg.append("text");
+        // text.text("Teste")
+        //     .attr("x",0)
+        //     .attr("id","teste")
+        //     .attr("y",0);
+        var locationsData = locationsDataManager.getSelectedLocationsData();
+        var maximumSize = 0;
+        //Get Largest Population
+        $.map(locationsData, function(locationData){
+            if(locationData.audienceCoverage > maximumSize){
+                maximumSize = locationData.audienceCoverage
+            }
+        });
+        var svgPadding = 3;
+        if(!currentInstance.locationsPopulationSparklinesAxis) {
+            var axisSvg = d3.select(".btnsTitle").append("svg:svg").attr("width", "100%").attr("height", 18);
+            //Draw axis
+            var xScale = d3.scale.linear().domain([0, maximumSize]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART]);
+            // define the y axis
+            var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(2);
+            // draw y axis with labels and move in from the size by the amount of padding
+            axisSvg.append("g").attr("class", "populationSparklineAxis").attr("transform", "translate("+ svgPadding +",0)").call(xAxis);
+            currentInstance.locationsPopulationSparklinesAxis = xAxis;
+            currentInstance.locationsPopulationSparklinesScale = xScale;
+            currentInstance.locationsPopulationSparklinesSvg = axisSvg;
+        }else{
+            $(".populationSparklineAxis").remove();
+            var newScale = d3.scale.linear().domain([0, maximumSize]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART]);
+            var newAxis = d3.svg.axis().orient("bottom").scale(newScale).ticks(2);
+            currentInstance.locationsPopulationSparklinesSvg.append("g").attr("class", "populationSparklineAxis").attr("transform", "translate("+ svgPadding +",0)").call(newAxis);
+        }
 
+        //Clean the sparklines
+        currentInstance.cleanPopulationSparklines();
+
+        //Compute Sparklines width
+        $.map(locationsData, function(locationData){
+            var location2letters = locationData.location2LetterCode;
+            var sparklineContainer = currentInstance.getJqueryPopulationSparklineByCode2Letters(location2letters);
+            sparklineContainer.text(" ");
+            sparklineContainer.width((locationData.audienceCoverage * MAX_WIDTH_LOCATIONS_BAR_CHART) / maximumSize);
+            sparklineContainer.height(HEIGHT_LOCATIONS_BAR_CHART);
+        });
+    };
+    this.setScrollbarIfNecessary = function () {
+        if(currentInstance.locationBtnsListContainer.height() > LOCATION_HEIGHT_THRESHOLD){
+            currentInstance.locationBtnsListContainer.css("height", LOCATION_HEIGHT_THRESHOLD + "px");
+            currentInstance.locationBtnsListContainer.addClass("locationBtnsListOverflow");
+        }
+    };
+    this.createLocationBtnsAndPopulationSparkline = function () {
+        var locationBtnList = externalDataManager.updateLocationList(fbInstancesDemographic);
+        currentInstance.locationBtnsListContainer = $("#locationBtnList");
+        currentInstance.locationBtnsListContainer.empty();
+        currentInstance.locationBtnsListContainer.append("<div class='btnsTitle'>Population Coverage</div>");
+        for(var locationIndex in locationBtnList){
+            var locationInfo = locationBtnList[locationIndex];
+            currentInstance.locationBtnsListContainer.append("<div class='row'>" +
+                "<span class='locationItem btn btn-location ' data-code=\""+ locationInfo._2letters_code +"\">" + locationInfo.name + "</span>" +
+                "<span class='populationSparkline' data-code=\""+ locationInfo._2letters_code +"\"></span>" +
+                "</div>");
+        }
+    };
+    this.initLocationsBtns = function(){
+        currentInstance.createLocationBtnsAndPopulationSparkline();
+        currentInstance.setScrollbarIfNecessary();
         currentInstance.addClickFunctionToLocationBtns();
         currentInstance.addTooltipToLocationBtns();
 
@@ -54,7 +126,9 @@ function LocationsBtns(){
         for(var locationKeyIndex in locationsKeys){
             var locationKey = locationsKeys[locationKeyIndex];
             currentInstance.updateBtnColor(locationKey, locationsColors[locationKey]);
+            currentInstance.updateSparklineColor(locationKey, locationsColors[locationKey]);
         }
+        currentInstance.updatePopulationSparkline();
     };
 
     this.updateBtnColor =function (locationKey, color){
@@ -68,10 +142,28 @@ function LocationsBtns(){
         }
     };
 
+    this.updateSparklineColor =function (locationKey, color){
+        var location2letters = getLocation2letterFromLocationKey(locationKey);
+        var locationItem = currentInstance.getJqueryPopulationSparklineByCode2Letters(location2letters);
+        locationItem.css("background-color",color);
+        if(color == DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR){
+            locationItem.css("text-decoration","");
+        } else {
+            locationItem.css("text-decoration","underline");
+        }
+    };
 
     this.getJqueryLocationBtnByCode2Letters = function(location2Letters){
-        return $("div[data-code='"+ location2Letters +"']");
-    }
+        return $(".locationItem[data-code='"+ location2Letters +"']");
+    };
+    this.getJqueryPopulationSparklineByCode2Letters = function(location2Letters){
+        return $(".populationSparkline[data-code='"+ location2Letters +"']");
+    };
+
+    this.cleanPopulationSparklines = function () {
+        $(".populationSparkline").width(0);
+        $(".populationSparkline").height(0);
+    };
 
 
     this.initLocationsBtns();

@@ -240,16 +240,6 @@ function DataManager(){
         }
 
     };
-    this.getSelectedLocationsData = function(){
-        var selectedLocationsData = {};
 
-        for(let location2lettersIndex in dataManager.selectedLocations_2letters){
-            var location2letters = dataManager.selectedLocations_2letters[location2lettersIndex];
-            var locationKey = getLocationKeyFromLocation2letter(location2letters);
-            var locationData = locationsDataManager.getLocationSelectedData(locationKey);
-            selectedLocationsData[locationKey] = locationData;
-        }
-        return selectedLocationsData;
-    }
 }
 

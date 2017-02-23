@@ -62,7 +62,7 @@ function DownloadReport(){
         for(var category in selectedDemographics){
             data.push([getTooltipLabel(category), selectedDemographics[category]])
         }
-        var selectedLocationData = dataManager.getSelectedLocationsData();
+        var selectedLocationData = locationsDataManager.getSelectedLocationsData();
         for(var locationKey in selectedLocationData){
             data.push(["Location", selectedLocationData[locationKey].name])
         }
@@ -71,7 +71,7 @@ function DownloadReport(){
     this.getLocationsDataFromCurrentState = function(){
         let data = [];
         let header = ["Locations", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
-        var locationsData = dataManager.getSelectedLocationsData();
+        var locationsData = locationsDataManager.getSelectedLocationsData();
         data.push([APPLICATION_TITLE]);
         data.push(header)
         for(let locationKey in locationsData){

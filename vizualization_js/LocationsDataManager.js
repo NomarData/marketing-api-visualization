@@ -65,6 +65,17 @@ function LocationsDataManager(){
             "name" : getLocationNameFromLocationKey(locationKey)
         }
     };
+    this.getSelectedLocationsData = function(){
+        var selectedLocationsData = {};
+
+        for(let location2lettersIndex in dataManager.selectedLocations_2letters){
+            var location2letters = dataManager.selectedLocations_2letters[location2lettersIndex];
+            var locationKey = getLocationKeyFromLocation2letter(location2letters);
+            var locationData = currentInstance.getLocationSelectedData(locationKey);
+            selectedLocationsData[locationKey] = locationData;
+        }
+        return selectedLocationsData;
+    };
     this.getLocationAudience = function(locationKey){
         var _2letterCode = getLocation2letterFromLocationKey(locationKey);
         return dataManager.getSumSelectedFacebookPopulationByLocation2letters(_2letterCode);

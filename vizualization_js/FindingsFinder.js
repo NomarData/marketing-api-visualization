@@ -41,7 +41,7 @@ function FindingFinder(){
     }
 
     this.findLocationsOutOfStandardDeviation = function(){
-        var locationsData = dataManager.getSelectedLocationsData();
+        var locationsData = locationsDataManager.getSelectedLocationsData();
         var std = this.computeLocationsStandardDeviation(locationsData);
         var average = this.computeLocationsStandardAverage(locationsData);
 

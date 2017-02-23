@@ -152,7 +152,7 @@ a{
 
 .btn-location {
     margin-top: 2px;
-    width: 100%;
+    width: 70px;
     color: #000;
     font-size: 12px;
     font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
@@ -177,6 +177,13 @@ a{
 #locationBtnList{
     top: -75px;
     position: relative;
+    padding-right: 18px;
+    width: 200px;
+}
+.locationBtnsListOverflow{
+    padding-left: 18px;
+    overflow: auto;
+    overflow-x: hidden;
 }
 
 #tooltip-locations {
@@ -195,4 +202,21 @@ a{
 
 .scoreInMap{
     font-size: 12px;
+}
+
+.populationSparkline{
+    margin-left: 5px;
+    background-color: #555;
+    color: #555;
+    display: inline-block;
+}
+
+.btnsTitle{
+    margin-left: 65px;
+    font-size: 12px;
+}
+.populationSparklineAxis .domain{
+    fill: none;
+    stroke-width: 2px;
+    stroke: #000000;
 }

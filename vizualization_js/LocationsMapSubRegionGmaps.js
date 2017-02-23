@@ -153,7 +153,7 @@ function SubRegionMap(){
     this.updateData = function(){
         if(currentInstance.map){
             if(currentInstance.isEmptySubregionParameters()){
-                var locationsData = dataManager.getSelectedLocationsData();
+                var locationsData = locationsDataManager.getSelectedLocationsData();
                 currentInstance.getAndSaveCoodinatesFromLocationsData(locationsData);
                 if(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].autoCenterMap){
                     currentInstance.reCenterBasedOnSubregionsCoordinates();
