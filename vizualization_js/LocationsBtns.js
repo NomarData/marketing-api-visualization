@@ -17,7 +17,7 @@ function LocationsBtns(){
         }).tickPadding(0).scale(scale).tickValues(ticks);
     }
     this.updatePopulationSparkline = function(){
-        var locationsData = locationsDataManager.getSelectedLocationsData();
+        var locationsData = locationsDataManager.getAllLocationsData();
         var maximumSize = 0;
         //Get Largest Population
         $.map(locationsData, function(locationData){
@@ -48,13 +48,16 @@ function LocationsBtns(){
         currentInstance.cleanPopulationSparklines();
 
         //Compute Sparklines width
-        $.map(locationsData, function(locationData){
-            var location2letters = locationData.location2LetterCode;
-            var sparklineContainer = currentInstance.getJqueryPopulationSparklineByCode2Letters(location2letters);
-            sparklineContainer.text(" ");
-            sparklineContainer.width((locationData.audienceCoverage * MAX_WIDTH_LOCATIONS_BAR_CHART) / maximumSize);
-            sparklineContainer.height(HEIGHT_LOCATIONS_BAR_CHART);
-        });
+        if(dataManager.isAnyLocationSelected()){
+            $.map(locationsData, function(locationData){
+                var location2letters = locationData.location2LetterCode;
+                var sparklineContainer = currentInstance.getJqueryPopulationSparklineByCode2Letters(location2letters);
+                sparklineContainer.text(" ");
+                sparklineContainer.width((locationData.audienceCoverage * MAX_WIDTH_LOCATIONS_BAR_CHART) / maximumSize);
+                sparklineContainer.height(HEIGHT_LOCATIONS_BAR_CHART);
+            });
+        }
+
     };
     this.setScrollbarIfNecessary = function () {
         if(currentInstance.locationBtnsListContainer.height() > LOCATION_HEIGHT_THRESHOLD){

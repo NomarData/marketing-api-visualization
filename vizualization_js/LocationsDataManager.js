@@ -49,9 +49,9 @@ function LocationsDataManager(){
     };
 
     this.getLocationScore = function(locationKey){
-        return currentInstance.getLocationSelectedData(locationKey)["score"];
+        return currentInstance.getLocationDataGivenKey(locationKey)["score"];
     };
-    this.getLocationSelectedData = function(locationKey){
+    this.getLocationDataGivenKey = function(locationKey){
         var leftAudience = currentInstance.locationsDataInMap[locationKey].leftAudience;
         var rightAudience = currentInstance.locationsDataInMap[locationKey].rightAudience;
         var audienceCoverage = currentInstance.getLocationAudience(locationKey);
@@ -65,22 +65,36 @@ function LocationsDataManager(){
             "name" : getLocationNameFromLocationKey(locationKey)
         }
     };
+    this.getLocationsDataGivenLocationsKeys = function(locationsKeys){
+        var locationsData = {};
+        for(let locationKeyIndex in locationsKeys){
+            var locationKey = locationsKeys[locationKeyIndex];
+            var locationData = currentInstance.getLocationDataGivenKey(locationKey);
+            locationsData[locationKey] = locationData;
+        }
+        return locationsData;
+    };
     this.getSelectedLocationsData = function(){
-        var selectedLocationsData = {};
-
+        var locationsKeys = [];
         for(let location2lettersIndex in dataManager.selectedLocations_2letters){
             var location2letters = dataManager.selectedLocations_2letters[location2lettersIndex];
             var locationKey = getLocationKeyFromLocation2letter(location2letters);
-            var locationData = currentInstance.getLocationSelectedData(locationKey);
-            selectedLocationsData[locationKey] = locationData;
+            locationsKeys.push(locationKey);
         }
-        return selectedLocationsData;
+        return currentInstance.getLocationsDataGivenLocationsKeys(locationsKeys);
     };
-    this.getLocationAudience = function(locationKey){
+    this.getAllLocationsData = function () {
+        var allLocationsKeys = getAllKeysInLocationMap();
+        return currentInstance.getLocationsDataGivenLocationsKeys(allLocationsKeys);
+    };
+    this.getSelectedLocationAudience = function(locationKey){
         var _2letterCode = getLocation2letterFromLocationKey(locationKey);
         return dataManager.getSumSelectedFacebookPopulationByLocation2letters(_2letterCode);
     };
-
+    this.getLocationAudience = function(locationKey){
+        var _2letterCode = getLocation2letterFromLocationKey(locationKey);
+        return dataManager.getSumFacebookPopulationByLocation2letters(_2letterCode);
+    };
     this.updateLocationsColors = function () {
         var locationsKeys = getAllKeysInLocationMap();
         //Paint all locations as unselected
@@ -93,7 +107,7 @@ function LocationsDataManager(){
         for(var selectedLocationIndex in dataManager.selectedLocations_2letters){
             var location2Letters = dataManager.selectedLocations_2letters[selectedLocationIndex];
             var locationKey = getLocationKeyFromLocation2letter(location2Letters);
-            if(currentInstance.getLocationAudience(locationKey) > 0){
+            if(currentInstance.getSelectedLocationAudience(locationKey) > 0){
                 var score = currentInstance.getLocationScore(locationKey);
                 currentInstance.locationsColors[locationKey] = getGreenOrRedColorByScore(score);
             }
@@ -105,7 +119,7 @@ function LocationsDataManager(){
     };
 
     this.mousemoveTooltip = function(locationKey){
-        var locationData = locationsDataManager.getLocationSelectedData(locationKey);
+        var locationData = locationsDataManager.getLocationDataGivenKey(locationKey);
         var locationName = getLocationNameFromLocationKey(locationKey);
 
 

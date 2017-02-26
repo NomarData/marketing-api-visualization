@@ -117,7 +117,7 @@ function SubRegionMap(){
     }
     this.addScoreTexyToMap = function(locationKey){
         var subRegionParameters = currentInstance.locationsKeyToSubRegionsParameters[locationKey];
-        var locationData = locationsDataManager.getLocationSelectedData(locationKey);
+        var locationData = locationsDataManager.getLocationDataGivenKey(locationKey);
         if(!isNaN(locationData.score) && isFinite(locationData.score)){
             currentInstance.map.drawOverlay({
                 lat: subRegionParameters.latitude,

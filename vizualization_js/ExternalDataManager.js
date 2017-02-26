@@ -117,7 +117,7 @@
 
         this.getLocationDataWhichMatchesInLocationMapOrderedByLocationName = function(listLocationKeys){
             filterJustLocationKeysFromLocationCodeMap(listLocationKeys);
-            var locationsData = getLocationsDataGivenKeys(listLocationKeys);
+            var locationsData = getLocationsCodeMapGivenKeys(listLocationKeys);
             var sortedLocationData = sortDictListGivenAttribute(locationsData,"name");
             return sortedLocationData;
 

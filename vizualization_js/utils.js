@@ -184,7 +184,7 @@ function filterJustLocationKeysFromLocationCodeMap(list_locations_codes){
     }
 }
 
-function getLocationsDataGivenKeys(listLocationKeys){
+function getLocationsCodeMapGivenKeys(listLocationKeys){
     var listLocationsData = [];
     for(var keyIndex in listLocationKeys){
         var locationKey = listLocationKeys[keyIndex];

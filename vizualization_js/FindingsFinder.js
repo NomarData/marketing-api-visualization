@@ -48,7 +48,11 @@ function FindingFinder(){
         for(var locationKey in locationsData){
             var score = locationsData[locationKey].score
             if(score > (average + 2*std)){
-                currentInstance.currentLocationsFinding.push("<b>"  + getLocationNameFromLocationKey(locationKey) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
+                try {
+                    currentInstance.currentLocationsFinding.push("<b>" + getLocationNameFromLocationKey(locationKey) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='good'>higher</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");
+                } catch (Exception){
+                    debugger
+                }
             }
             if(score < (average - 2*std)){
                 currentInstance.currentLocationsFinding.push("<b>"  + getLocationNameFromLocationKey(locationKey) + "</b> has a score (" + scoreToPercentage(score) + ")</span> <span class='bad'>lower</span> than average <span class=''>(" + scoreToPercentage(average) + ")</span>  of others locations.");

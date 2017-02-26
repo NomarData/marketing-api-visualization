@@ -7,6 +7,7 @@ function DataManager(){
     this.selectedLeftTopic = leftTopics[DEFAULT_LEFT_TOPIC];
     this.selectedRightTopic = rightTopics[DEFAULT_RIGHT_TOPIC];
     this.selectedFbDemographicSum = 0;
+    this.allNoInterestInstancesAgreesWithTreemaps = [];
     this.loader = $(".loader");
 
     this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
@@ -104,28 +105,32 @@ function DataManager(){
     }
      this.setSelectedInstances = function(){
          console.log("Selecting Instances")
-        var instances = [];
-        var facebookPopulationInstances = [];
+        var selectedInstances = [];
+        var selectedFacebookPopulationInstances = [];
+        var allNoInterestInstancesAgreesWithTreemaps = [];
         //Filtering Instances With Interests
         for(var indexData in fbInstancesWithInterests){
             var instance = fbInstancesWithInterests[indexData];
-            if(dataManager.isInstanceAgreeWithSelected(instance)){
-                instances.push(instance)
+            if(dataManager.isInstanceAgreeWithTreemapsAndLocationsSelected(instance)){
+                selectedInstances.push(instance)
             }
         }
          //Filtering demographic related instances
          for(var indexFacebookPopulation in fbInstancesDemographic){
              var instance = fbInstancesDemographic[indexFacebookPopulation];
              if(!currentInstance.hasAllInAnyCategory(instance)){
-                 if(currentInstance.isInstanceAgreeWithSelected(instance) && currentInstance.selectedLocations_2letters.length > 0){
-                     facebookPopulationInstances.push(instance)
+                 if(currentInstance.isInstanceAgreeWithTreemaps(instance)){
+                        allNoInterestInstancesAgreesWithTreemaps.push(instance);
+                     if(currentInstance.isInstanceAgreeWithSelectedLocations(instance)){
+                         selectedFacebookPopulationInstances.push(instance)
+                     }
                  }
              }
-
          }
-        console.log(facebookPopulationInstances.length);
-        currentInstance.selectedInstances = instances;
-        currentInstance.selectedFbDemographicInstances = facebookPopulationInstances;
+        console.log(selectedFacebookPopulationInstances.length);
+        currentInstance.allNoInterestInstancesAgreesWithTreemaps = allNoInterestInstancesAgreesWithTreemaps;
+        currentInstance.selectedInstances = selectedInstances;
+        currentInstance.selectedFbDemographicInstances = selectedFacebookPopulationInstances;
         currentInstance.updateSumSelectedFbInstancesDemographic();
         console.log(currentInstance.selectedFbDemographicSum);
         console.log("Instances and Facebook Population Selected");
@@ -141,6 +146,10 @@ function DataManager(){
         }
 
 
+    };
+
+    this.isAnyLocationSelected = function(){
+        return currentInstance.selectedLocations_2letters.length > 0;
     }
 
     this.getSumSelectedFacebookPopulationByLocation2letters = function(location2letter){
@@ -156,6 +165,18 @@ function DataManager(){
         } else {
             return 0;
         }
+    };
+
+    this.getSumFacebookPopulationByLocation2letters = function(location2letter){
+        //In this case the location don't need to be selected
+        var total = 0;
+        for(var instanceIndex in currentInstance.allNoInterestInstancesAgreesWithTreemaps){
+            var instance = currentInstance.allNoInterestInstancesAgreesWithTreemaps[instanceIndex];
+            if(getLocation2letterFromLocationKey(instance.location) == location2letter){
+                total += instance.audience;
+            }
+        }
+        return total;
     };
 
     this.buildAndInitVisualComponents = function(){
@@ -196,19 +217,34 @@ function DataManager(){
         var location2letter = getLocation2letterFromLocationKey(locationKey);
         return currentInstance.selectedLocations_2letters.indexOf(location2letter) != -1 ? true : false;
     };
-    this.isInstanceAgreeWithSelected = function(instance){
+    this.isInstanceAgreeWithTreemaps = function(instance){
         for(var key in currentInstance.selectedCategoriesAndValues){
             if(instance[key] != currentInstance.selectedCategoriesAndValues[key]){
                 return false;
             }
         }
-        //Check Location code
+        return true;
+    };
+    this.isInstanceAgreeWithSelectedLocations = function(instance){
+        //TODO: Need to currect this. Shouldn't return true when currentInstance.selectedLocations_2letters.length <= 0
         if(currentInstance.selectedLocations_2letters.length > 0){
             if(!currentInstance.isLocationKeyAlreadySelected(instance.location)){
                 return false;
             }
         }
         return true;
+    }
+    this.isInstanceAgreeWithTreemapsAndLocationsSelected = function(instance){
+        if(currentInstance.isInstanceAgreeWithTreemaps(instance)){
+            //Check Location code
+            if(currentInstance.isInstanceAgreeWithSelectedLocations(instance)){
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
     };
     this.hasAllInAnyCategory = function(instance){
         for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
