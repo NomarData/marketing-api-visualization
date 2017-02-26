@@ -7,6 +7,15 @@ function LocationsBtns(){
     this.locationsPopulationSparklinesSvg = null;
     this.locationsPopulationSparklinesAxis = null;
     this.locationsPopulationSparklinesScale = null;
+    this.generateNewScale = function(max){
+        return d3.scale.linear().domain([0, max]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART - 10]);
+    }
+    this.generateNewXAxis = function(scale,max){
+        var ticks = [0, max];
+        return d3.svg.axis().orient("bottom").tickFormat(function(d) {
+            return convertIntegerToReadable(d).replace("-","");
+        }).tickPadding(0).scale(scale).tickValues(ticks);
+    }
     this.updatePopulationSparkline = function(){
         // currentInstance.locationBtnsListContainer.prepend("<div id='locationBtnChart'></div>");
         // var locationBtnChartSvg = d3.select('#locationBtnChart')
@@ -25,13 +34,13 @@ function LocationsBtns(){
                 maximumSize = locationData.audienceCoverage
             }
         });
-        var svgPadding = 3;
+        var svgPadding = 10;
         if(!currentInstance.locationsPopulationSparklinesAxis) {
             var axisSvg = d3.select(".btnsTitle").append("svg:svg").attr("width", "100%").attr("height", 18);
             //Draw axis
-            var xScale = d3.scale.linear().domain([0, maximumSize]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART]);
+            var xScale = currentInstance.generateNewScale(maximumSize);
             // define the y axis
-            var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(2);
+            var xAxis = currentInstance.generateNewXAxis(xScale,maximumSize);
             // draw y axis with labels and move in from the size by the amount of padding
             axisSvg.append("g").attr("class", "populationSparklineAxis").attr("transform", "translate("+ svgPadding +",0)").call(xAxis);
             currentInstance.locationsPopulationSparklinesAxis = xAxis;
@@ -39,8 +48,8 @@ function LocationsBtns(){
             currentInstance.locationsPopulationSparklinesSvg = axisSvg;
         }else{
             $(".populationSparklineAxis").remove();
-            var newScale = d3.scale.linear().domain([0, maximumSize]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART]);
-            var newAxis = d3.svg.axis().orient("bottom").scale(newScale).ticks(2);
+            var newScale = currentInstance.generateNewScale(maximumSize);
+            var newAxis = currentInstance.generateNewXAxis(newScale, maximumSize);
             currentInstance.locationsPopulationSparklinesSvg.append("g").attr("class", "populationSparklineAxis").attr("transform", "translate("+ svgPadding +",0)").call(newAxis);
         }
 

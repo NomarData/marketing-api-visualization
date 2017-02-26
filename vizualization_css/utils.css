@@ -205,7 +205,7 @@ a{
 }
 
 .populationSparkline{
-    margin-left: 5px;
+    margin-left: 10px;
     background-color: #555;
     color: #555;
     display: inline-block;
