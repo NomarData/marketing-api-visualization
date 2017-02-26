@@ -125,7 +125,7 @@ function TreemapManager(){
         return categoriesNames;
     };
     this.init = function(){
-        var treemapDefaultHeight = 100;
+        var treemapDefaultHeight = 130;
         $.map(columnsToTreemaps, function (treemapName) {
             $("#treemapsList").append(
                 "<div  class='row treemapRowContainer'>" +

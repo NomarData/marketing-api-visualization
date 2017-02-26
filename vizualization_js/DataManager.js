@@ -161,7 +161,8 @@ function DataManager(){
     this.buildAndInitVisualComponents = function(){
         console.log("Building visual components");
         treemapManager = new TreemapManager();
-        luxuriousHealthBar = new stackedHorizontalBar();
+        barsLeftRightScore = new stackedHorizontalBar();
+        colorScaleScore = new ColorScaleScore();
         generalScore = new GeneralScore();
         locationsDataManager = new LocationsDataManager();
         locationsMapDatamap = new LocationsMapDatamap();
@@ -185,7 +186,8 @@ function DataManager(){
         locationsMapDatamap.updateData();
         locationsMapSubRegion.updateData();
         btnsTopicsSelectors.updateData();
-        luxuriousHealthBar.updateData();
+        barsLeftRightScore.updateData();
+        colorScaleScore.updateData();
         sharebleLink.updateData();
         findingsFinder.updateData();
     };

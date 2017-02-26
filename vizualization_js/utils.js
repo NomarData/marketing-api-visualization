@@ -32,7 +32,7 @@ function scoreToPercentage(score){
 function buildBreakPoints(domainBreakpoints, colorRange){
     breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
     var breakPoints = [];
-    for(var index = 0 in domainBreakpoints){
+    for(var index in domainBreakpoints){
         var domain = domainBreakpoints[index];
         var color = colorRange[index];
         breakPoints.push({

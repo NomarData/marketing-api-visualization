@@ -220,3 +220,6 @@ a{
     stroke-width: 2px;
     stroke: #000000;
 }
+#treemapLegend{
+    margin-top: -18px;
+}

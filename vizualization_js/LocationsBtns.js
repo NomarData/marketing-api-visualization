@@ -8,7 +8,7 @@ function LocationsBtns(){
     this.locationsPopulationSparklinesAxis = null;
     this.locationsPopulationSparklinesScale = null;
     this.generateNewScale = function(max){
-        return d3.scale.linear().domain([0, max]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART - 10]);
+        return d3.scale.linear().domain([0, max]).range([0, MAX_WIDTH_LOCATIONS_BAR_CHART]);
     }
     this.generateNewXAxis = function(scale,max){
         var ticks = [0, max];
@@ -17,15 +17,6 @@ function LocationsBtns(){
         }).tickPadding(0).scale(scale).tickValues(ticks);
     }
     this.updatePopulationSparkline = function(){
-        // currentInstance.locationBtnsListContainer.prepend("<div id='locationBtnChart'></div>");
-        // var locationBtnChartSvg = d3.select('#locationBtnChart')
-        //     .append('svg')
-        //     .attr({'width':'100%','height':550});
-        // var text = locationBtnChartSvg.append("text");
-        // text.text("Teste")
-        //     .attr("x",0)
-        //     .attr("id","teste")
-        //     .attr("y",0);
         var locationsData = locationsDataManager.getSelectedLocationsData();
         var maximumSize = 0;
         //Get Largest Population
@@ -36,7 +27,7 @@ function LocationsBtns(){
         });
         var svgPadding = 10;
         if(!currentInstance.locationsPopulationSparklinesAxis) {
-            var axisSvg = d3.select(".btnsTitle").append("svg:svg").attr("width", "100%").attr("height", 18);
+            var axisSvg = d3.select(".btnsTitle").append("svg:svg").attr("width", "110%").attr("height", 18);
             //Draw axis
             var xScale = currentInstance.generateNewScale(maximumSize);
             // define the y axis
