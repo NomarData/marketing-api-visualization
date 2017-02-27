@@ -223,3 +223,7 @@ a{
 #treemapLegend{
     margin-top: -18px;
 }
+
+#interestingFindingsTitle{
+    display: none;
+}
