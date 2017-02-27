@@ -11,22 +11,32 @@ function ColorScaleScore(){
     this.numberOfSteps = 10;
     this.minValue = -1;
     this.maxValue = 1;
-    this.scoreBlueMarkerWidth = 5;
+    this.blueMarkWidth = 2;
     this.translateXPositionAxis = 0;
     this.paddingAxis = 12;
     this.legendSvg = null;
     this.xScale = null;
+    this.scoreBlueMarkerOnStackedBarWidth = 3;
+
     this.updateRectSize = function (data) {
         var newWidth = Math.abs(barsLeftRightScore.x(-data.total) - barsLeftRightScore.x(0)) * 2;
         var newXpos = barsLeftRightScore.x(Math.min(0, -data.total ));
         var legendRect = currentInstance.legendSvg.selectAll("#legendRect").transition().duration(750);
         legendRect.attr("width", newWidth);
         legendRect.attr("x", newXpos);
+    };
+
+    this.updateBlueMark = function (data) {
+        var newXpos = barsLeftRightScore.x((-data.average * data.total)) - barsLeftRightScore.x(0);
+        var legendRect = currentInstance.legendSvg.selectAll("#blueMarkScore").transition().duration(750);
+        legendRect.attr("x", newXpos);
     }
+
     this.updateData = function(){
             if(!currentInstance.isStatic){
                 var data = dataManager.getAverageSelectedScore();
                 currentInstance.updateRectSize(data);
+                currentInstance.updateBlueMark(data);
             }
         };
     this.generateScale = function () {
@@ -70,6 +80,7 @@ function ColorScaleScore(){
         var axis = currentInstance.generateAxis(barsLeftRightScore.x);
         currentInstance.legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(" + (currentInstance.paddingAxis/2) + ",-3)").call(axis);
         currentInstance.currentLegendAxisWidth = currentInstance.width;
+        currentInstance.createBlueMarkScore();
     }
 
     this.buildStaticColorScale = function(){
@@ -92,6 +103,15 @@ function ColorScaleScore(){
         var axis = d3.svg.axis().scale(axisScale).ticks(currentInstance.numberOfSteps);
         currentInstance.legendSvg.append("g").attr("class", "legendStaticAxis legendAxis").attr("transform", "translate(" + (paddingAxis/2) + ",-3)").call(axis);
         currentInstance.currentLegendAxisWidth = w ;
+    };
+
+    this.createBlueMarkScore = function () {
+
+        var scoreBlueMarkerOnColorScale = currentInstance.legendSvg.append("rect").attr("id","blueMarkScore")
+            .attr("width", currentInstance.blueMarkWidth)
+            .attr("height", currentInstance.height)
+            .style("fill", "blue")
+            .attr("transform", "translate("+ barsLeftRightScore.x(0) + ",0)");
     };
 
     this.init = function(){

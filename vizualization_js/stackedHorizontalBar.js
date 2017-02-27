@@ -117,13 +117,6 @@ function stackedHorizontalBar(){
 
     };
 
-    this.updateBlueMarkOnLegend = function(scoreData){
-        var maxBlueMarkPosition = currentInstance.currentLegendAxisWidth;
-        var currentScore = parseFloat(scoreData.average.toPrecision(2));
-        var newBlueMarkPosition = (currentScore * -1 + 1) * maxBlueMarkPosition / 2 + currentInstance.scoreBlueMarkerOnLegendWidth/2;
-        currentInstance.scoreBlueMarkerOnLegend.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
-    };
-
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
             .attr("width", this.width)
@@ -185,6 +178,7 @@ function stackedHorizontalBar(){
     this.mouseoutTooltip = function(){
         d3.select("#tooltip-stackedbar").classed("hidden", true);
     };
+
 
     this.init = function(){
         var x = this.x;
@@ -316,7 +310,7 @@ function stackedHorizontalBar(){
             .attr("y2", height);
 
         var scoreBlueMarkerOnStackedBarWidth = 3;
-        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("class","blueMarkerScore")
+        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("class","blueRectScore")
             .attr("width", scoreBlueMarkerOnStackedBarWidth)
             .attr("height", height)
             .style("stroke", "blue")
