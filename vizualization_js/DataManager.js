@@ -211,7 +211,7 @@ function DataManager(){
         colorScaleScore.updateData();
         sharebleLink.updateData();
         // findingsFinder.updateData();
-    };  
+    };
 
     this.isLocationKeyAlreadySelected = function(locationKey) {
         var location2letter = getLocation2letterFromLocationKey(locationKey);
