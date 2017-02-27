@@ -27,7 +27,7 @@ function LocationsBtns(){
         });
         var svgPadding = 10;
         if(!currentInstance.locationsPopulationSparklinesAxis) {
-            var axisSvg = d3.select(".btnsTitle").append("svg:svg").attr("width", "110%").attr("height", 18);
+            var axisSvg = d3.select(".btnsHeader").append("svg:svg").attr("width", "110%").attr("height", 18);
             //Draw axis
             var xScale = currentInstance.generateNewScale(maximumSize);
             // define the y axis
@@ -69,7 +69,7 @@ function LocationsBtns(){
         var locationBtnList = externalDataManager.updateLocationList(fbInstancesDemographic);
         currentInstance.locationBtnsListContainer = $("#locationBtnList");
         currentInstance.locationBtnsListContainer.empty();
-        currentInstance.locationBtnsListContainer.append("<div class='btnsTitle'>Population Coverage</div>");
+        currentInstance.locationBtnsListContainer.append("<div class='btnsHeader'><div class='btnsHeaderTitle'>Facebook Audience</div></div>");
         for(var locationIndex in locationBtnList){
             var locationInfo = locationBtnList[locationIndex];
             currentInstance.locationBtnsListContainer.append("<div class='row'>" +

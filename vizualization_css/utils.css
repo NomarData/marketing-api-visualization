@@ -211,7 +211,7 @@ a{
     display: inline-block;
 }
 
-.btnsTitle{
+.btnsHeader{
     margin-left: 65px;
     font-size: 12px;
 }
@@ -226,4 +226,8 @@ a{
 
 #interestingFindingsTitle{
     display: none;
+}
+
+.btnsHeaderTitle{
+    margin-left: 10px;
 }
