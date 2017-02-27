@@ -110,12 +110,21 @@ leftTopics = [
     // 'respiratory asthma',
     'back pain'
 ];
-rightTopics = ['luxury','luxury goods','cars vehicles','shopping','fast food','mobile phones gadgets'];
+rightTopics = [
+    'luxury',
+    'luxury goods',
+    'cars vehicles',
+    'shopping',
+    'fast food',
+    'mobile phones gadgets'
+];
 HEALTH_ICON_PATH = "imgs/heart.svg";
 JEWEL_ICON_PATH = "imgs/jewel.svg";
 WAR_ICON_PATH = "imgs/war-icon.png";
 PEACE_ICON_PATH = "imgs/peace-icon.png";
 
+ALL_LEFT_TOPIC = 0;
+ALL_RIGHT_TOPIC = 0;
 LEFT_ICON_PATH = HEALTH_ICON_PATH;
 RIGHT_ICON_PATH = JEWEL_ICON_PATH;
 
