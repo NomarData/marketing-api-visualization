@@ -192,7 +192,7 @@ function DataManager(){
         sharebleLink = new SharebleLink();
         btnsTopicsSelectors = new BtnsTopicsSelectors();
         historyDataSelector = new HistoryDataSelector();
-        // findingsFinder = new FindingFinder();
+        findingsFinder = new FindingFinder();
         downloadReport = new DownloadReport();
         console.log("Builded visual components");
         sharebleLink.init();
@@ -210,7 +210,7 @@ function DataManager(){
         barsLeftRightScore.updateData();
         colorScaleScore.updateData();
         sharebleLink.updateData();
-        // findingsFinder.updateData();
+        findingsFinder.updateData();
     };
 
     this.isLocationKeyAlreadySelected = function(locationKey) {

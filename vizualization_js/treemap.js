@@ -363,12 +363,21 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", 0)
+            .attr("style","font-size:12px")
             .attr("dy", function(d) { return d.dy/2 + 15; })
             .text(function(d){
                 var audience = parseInt(d.size);
                 return currentInstance.getFormattedAudience(audience);
 
             });
+        // var tspanLine3 = d3.select(this).append("svg:tspan")
+        //     .attr("x", function(d) { return d.dx / 2; })
+        //     .attr("y", 0)
+        //     .attr("style","font-size:10px")
+        //     .attr("dy", function(d) { return d.dy/2 + 30; })
+        //     .text(function(d){
+        //         return "Score: " + scoreToPercentage(d.score);
+        //     });
     }
 
     this.getFormattedAudience = function(audience){
