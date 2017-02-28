@@ -16,9 +16,9 @@ function HistoryDataSelector(){
                     var dateText = d.history[historyIndex].date;
                     var datePath = d.history[historyIndex].path;
                     $("#selectDownloadDate").append("<option class='dateOption' data-path=" + datePath + "  value=" + historyIndex + ">" + dateText + "</option>");
+                    $("#selectDownloadDate").val(historyIndex);
                 }
             }
-        });
     }
 
     this.clickOnDate = function (value) {
