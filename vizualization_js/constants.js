@@ -356,20 +356,22 @@ mapValuesTileTitle = {
     "Locals" : "Locals",
 };
 
+LEFT_TOPIC = "leftTopic";
+RIGHT_TOPIC = "rightTopic";
+
 applicationPossibleStates = {
-        "health" : leftTopics,
-        "luxury" : rightTopics,
         "gender" : ["Male", "Female"],
         "scholarity" : ["Graduated","No Degree","High School"],
         "age_range" : ["18-24", "25-44", "45+" ],
         "citizenship" : ["Expats", "Locals"],
         "country" : locationCodeMap,
 };
+applicationPossibleStates[LEFT_TOPIC] = leftTopics;
+applicationPossibleStates[RIGHT_TOPIC] = rightTopics;
 
 fbInstancesWithInterests = [];
 fbInstancesDemographic = [];
-LEFT_TOPIC = "leftTopic";
-RIGHT_TOPIC = "rightTopic";
+
 
 DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR = "rgb(204, 204, 204)";
 DEFAULT_MAP_NOT_ARAB_BACKGROUND_COLOR = "#FDFDFD";

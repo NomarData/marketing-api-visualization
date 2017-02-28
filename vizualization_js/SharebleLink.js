@@ -72,7 +72,7 @@ function SharebleLink(){
     this.applyState = function(newState){
         console.log(newState);
         currentInstance.reversingState = true;
-        dataManager.setLeftAndRightTopicAndGetPromise(newState["leftTopic"], newState["rightTopic"]).done(function(){
+        dataManager.setLeftAndRightTopicAndGetPromise(newState[LEFT_TOPIC], newState[RIGHT_TOPIC]).done(function(){
             treemapManager.clickOnTreemapGivenNameAndValue("genders", newState["genders"]);
             treemapManager.clickOnTreemapGivenNameAndValue("ages_ranges", newState["ages_ranges"]);
             treemapManager.clickOnTreemapGivenNameAndValue("scholarities", newState["scholarities"]);
@@ -85,17 +85,17 @@ function SharebleLink(){
 
     };
     this.getApplycationState = function(){
-        return {
-            "leftTopic": dataManager.selectedLeftTopic,
-            "rightTopic": dataManager.selectedRightTopic,
-            "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
-            "locations" : dataManager.selectedLocations_2letters
-        }
+        var applicationState = {}
+        applicationState[LEFT_TOPIC] = dataManager.selectedLeftTopic;
+        applicationState[RIGHT_TOPIC] = dataManager.selectedRightTopic;
+        applicationState["selectedCategoriesAndValues"] = dataManager.selectedCategoriesAndValues;
+        applicationState["locations"] = dataManager.selectedLocations_2letters;
+        return applicationState;
     };
     this.buildUrlFromState = function (state) {
         var urlParams = new URLSearchParams();
-        urlParams.append('leftTopic', state.leftTopic);
-        urlParams.append('rightTopic', state.rightTopic);
+        urlParams.append('leftTopic', state[LEFT_TOPIC]);
+        urlParams.append('rightTopic', state[RIGHT_TOPIC]);
         urlParams.append("location",state.locations.join("-"));
         for(var categoryKey in state.selectedCategoriesAndValues){
             urlParams.append(categoryKey,state.selectedCategoriesAndValues[categoryKey]);
@@ -125,15 +125,15 @@ function SharebleLink(){
         var valueInParams;
 
         switch(paramName){
-            case "leftTopic":
+            case LEFT_TOPIC:
             case "health":
-                valueInParams = urlParams.get("leftTopic");
+                valueInParams = urlParams.get(LEFT_TOPIC.toLowerCase());
                 valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "leftTopic");
                 break;
-            case "rightTopic":
+            case RIGHT_TOPIC:
             case "luxury":
-                valueInParams = urlParams.get("rightTopic");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "rightTopic");
+                valueInParams = urlParams.get(RIGHT_TOPIC.toLowerCase());
+                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, RIGHT_TOPIC);
                 break;
             case "location":
                 valueInOurData = [];
@@ -185,15 +185,14 @@ function SharebleLink(){
         var newState = {};
         try{
             var urlParams = new URLSearchParams(params);
-            newState["leftTopic"] = currentInstance.paramFromUrlParams("leftTopic", urlParams);
-            newState["rightTopic"] = currentInstance.paramFromUrlParams("rightTopic", urlParams);
+            newState[LEFT_TOPIC] = currentInstance.paramFromUrlParams(LEFT_TOPIC, urlParams);
+            newState[RIGHT_TOPIC] = currentInstance.paramFromUrlParams(RIGHT_TOPIC, urlParams);
             newState["location"] = currentInstance.paramFromUrlParams("location", urlParams);
             newState["gender"] = currentInstance.paramFromUrlParams("gender", urlParams);
             newState["scholarity"] = currentInstance.paramFromUrlParams("scholarity", urlParams);
             newState["age_range"] = currentInstance.paramFromUrlParams("age_range", urlParams);
             newState["citizenship"] = currentInstance.paramFromUrlParams("citizenship", urlParams);
-
-            if(newState["leftTopic"] == null && newState["rightTopic"] == null){
+            if(newState[LEFT_TOPIC] == null && newState[RIGHT_TOPIC] == null){
                 throw new LeftTopicAndRightTopicNullException();
             }
             return newState;
