@@ -11,9 +11,12 @@ function HistoryDataSelector(){
             let lastUpdateDate = d.history[d.history.length -1].date;
             $("#lastUpdateText").text(lastUpdateDate);
             for(var historyIndex in d.history){
-                var dateText = d.history[historyIndex].date;
-                var datePath = d.history[historyIndex].path;
-                $("#selectDownloadDate").append("<option class='dateOption' data-path=" + datePath + "  value=" + historyIndex + ">" + dateText + "</option>");
+                var historyItem = d.history[historyIndex];
+                if(historyItem.date != undefined && historyItem.path != undefined){
+                    var dateText = d.history[historyIndex].date;
+                    var datePath = d.history[historyIndex].path;
+                    $("#selectDownloadDate").append("<option class='dateOption' data-path=" + datePath + "  value=" + historyIndex + ">" + dateText + "</option>");
+                }
             }
         });
     }

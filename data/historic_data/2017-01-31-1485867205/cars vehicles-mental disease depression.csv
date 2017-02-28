@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,location
+4284,4284,18-24,1.0,Expats,Graduated,58000,1485867205.82,cars vehicles,DZ
+4285,4285,25-44,1.0,Expats,Graduated,42000,1485867205.82,cars vehicles,DZ
+4286,4286,45+,1.0,Expats,Graduated,4100,1485867205.82,cars vehicles,DZ
+4287,4287,18-24,2.0,Expats,Graduated,9100,1485867205.82,cars vehicles,DZ
+4288,4288,25-44,2.0,Expats,Graduated,4600,1485867205.82,cars vehicles,DZ
+4289,4289,45+,2.0,Expats,Graduated,600,1485867205.82,cars vehicles,DZ
+4290,4290,18-24,1.0,Expats,No Degree,24000,1485867205.82,cars vehicles,DZ
+4291,4291,25-44,1.0,Expats,No Degree,22000,1485867205.82,cars vehicles,DZ
+4292,4292,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,DZ
+4293,4293,18-24,2.0,Expats,No Degree,4500,1485867205.82,cars vehicles,DZ
+4294,4294,25-44,2.0,Expats,No Degree,3400,1485867205.82,cars vehicles,DZ
+4295,4295,45+,2.0,Expats,No Degree,670,1485867205.82,cars vehicles,DZ
+4296,4296,18-24,1.0,Expats,High School,22000,1485867205.82,cars vehicles,DZ
+4297,4297,25-44,1.0,Expats,High School,9300,1485867205.82,cars vehicles,DZ
+4298,4298,45+,1.0,Expats,High School,1100,1485867205.82,cars vehicles,DZ
+4299,4299,18-24,2.0,Expats,High School,3800,1485867205.82,cars vehicles,DZ
+4300,4300,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,DZ
+4301,4301,45+,2.0,Expats,High School,200,1485867205.82,cars vehicles,DZ
+4302,4302,18-24,1.0,Locals,Graduated,230000,1485867205.82,cars vehicles,DZ
+4303,4303,25-44,1.0,Locals,Graduated,260000,1485867205.82,cars vehicles,DZ
+4304,4304,45+,1.0,Locals,Graduated,17000,1485867205.82,cars vehicles,DZ
+4305,4305,18-24,2.0,Locals,Graduated,60000,1485867205.82,cars vehicles,DZ
+4306,4306,25-44,2.0,Locals,Graduated,54000,1485867205.82,cars vehicles,DZ
+4307,4307,45+,2.0,Locals,Graduated,4000,1485867205.82,cars vehicles,DZ
+4308,4308,18-24,1.0,Locals,No Degree,200000,1485867205.82,cars vehicles,DZ
+4309,4309,25-44,1.0,Locals,No Degree,230000,1485867205.82,cars vehicles,DZ
+4310,4310,45+,1.0,Locals,No Degree,16000,1485867205.82,cars vehicles,DZ
+4311,4311,18-24,2.0,Locals,No Degree,49000,1485867205.82,cars vehicles,DZ
+4312,4312,25-44,2.0,Locals,No Degree,39000,1485867205.82,cars vehicles,DZ
+4313,4313,45+,2.0,Locals,No Degree,4800,1485867205.82,cars vehicles,DZ
+4314,4314,18-24,1.0,Locals,High School,110000,1485867205.82,cars vehicles,DZ
+4315,4315,25-44,1.0,Locals,High School,70000,1485867205.82,cars vehicles,DZ
+4316,4316,45+,1.0,Locals,High School,5300,1485867205.82,cars vehicles,DZ
+4317,4317,18-24,2.0,Locals,High School,32000,1485867205.82,cars vehicles,DZ
+4318,4318,25-44,2.0,Locals,High School,12000,1485867205.82,cars vehicles,DZ
+4319,4319,45+,2.0,Locals,High School,1600,1485867205.82,cars vehicles,DZ
+4320,4320,18-24,1.0,Expats,Graduated,9200,1485867205.82,cars vehicles,BH
+4321,4321,25-44,1.0,Expats,Graduated,39000,1485867205.82,cars vehicles,BH
+4322,4322,45+,1.0,Expats,Graduated,4800,1485867205.82,cars vehicles,BH
+4323,4323,18-24,2.0,Expats,Graduated,1300,1485867205.82,cars vehicles,BH
+4324,4324,25-44,2.0,Expats,Graduated,8600,1485867205.82,cars vehicles,BH
+4325,4325,45+,2.0,Expats,Graduated,1700,1485867205.82,cars vehicles,BH
+4326,4326,18-24,1.0,Expats,No Degree,7200,1485867205.82,cars vehicles,BH
+4327,4327,25-44,1.0,Expats,No Degree,26000,1485867205.82,cars vehicles,BH
+4328,4328,45+,1.0,Expats,No Degree,4900,1485867205.82,cars vehicles,BH
+4329,4329,18-24,2.0,Expats,No Degree,1200,1485867205.82,cars vehicles,BH
+4330,4330,25-44,2.0,Expats,No Degree,4300,1485867205.82,cars vehicles,BH
+4331,4331,45+,2.0,Expats,No Degree,1200,1485867205.82,cars vehicles,BH
+4332,4332,18-24,1.0,Expats,High School,3800,1485867205.82,cars vehicles,BH
+4333,4333,25-44,1.0,Expats,High School,10000,1485867205.82,cars vehicles,BH
+4334,4334,45+,1.0,Expats,High School,1500,1485867205.82,cars vehicles,BH
+4335,4335,18-24,2.0,Expats,High School,820,1485867205.82,cars vehicles,BH
+4336,4336,25-44,2.0,Expats,High School,2600,1485867205.82,cars vehicles,BH
+4337,4337,45+,2.0,Expats,High School,590,1485867205.82,cars vehicles,BH
+4338,4338,18-24,1.0,Locals,Graduated,1500,1485867205.82,cars vehicles,BH
+4339,4339,25-44,1.0,Locals,Graduated,4600,1485867205.82,cars vehicles,BH
+4340,4340,45+,1.0,Locals,Graduated,590,1485867205.82,cars vehicles,BH
+4341,4341,18-24,2.0,Locals,Graduated,450,1485867205.82,cars vehicles,BH
+4342,4342,25-44,2.0,Locals,Graduated,1400,1485867205.82,cars vehicles,BH
+4343,4343,45+,2.0,Locals,Graduated,190,1485867205.82,cars vehicles,BH
+4344,4344,18-24,1.0,Locals,No Degree,1400,1485867205.82,cars vehicles,BH
+4345,4345,25-44,1.0,Locals,No Degree,2900,1485867205.82,cars vehicles,BH
+4346,4346,45+,1.0,Locals,No Degree,840,1485867205.82,cars vehicles,BH
+4347,4347,18-24,2.0,Locals,No Degree,290,1485867205.82,cars vehicles,BH
+4348,4348,25-44,2.0,Locals,No Degree,1000,1485867205.82,cars vehicles,BH
+4349,4349,45+,2.0,Locals,No Degree,160,1485867205.82,cars vehicles,BH
+4350,4350,18-24,1.0,Locals,High School,900,1485867205.82,cars vehicles,BH
+4351,4351,25-44,1.0,Locals,High School,1400,1485867205.82,cars vehicles,BH
+4352,4352,45+,1.0,Locals,High School,230,1485867205.82,cars vehicles,BH
+4353,4353,18-24,2.0,Locals,High School,450,1485867205.82,cars vehicles,BH
+4354,4354,25-44,2.0,Locals,High School,240,1485867205.82,cars vehicles,BH
+4355,4355,45+,2.0,Locals,High School,50,1485867205.82,cars vehicles,BH
+4356,4356,18-24,1.0,Expats,Graduated,24000,1485867205.82,cars vehicles,EG
+4357,4357,25-44,1.0,Expats,Graduated,40000,1485867205.82,cars vehicles,EG
+4358,4358,45+,1.0,Expats,Graduated,5900,1485867205.82,cars vehicles,EG
+4359,4359,18-24,2.0,Expats,Graduated,5500,1485867205.82,cars vehicles,EG
+4360,4360,25-44,2.0,Expats,Graduated,9800,1485867205.82,cars vehicles,EG
+4361,4361,45+,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,EG
+4362,4362,18-24,1.0,Expats,No Degree,7300,1485867205.82,cars vehicles,EG
+4363,4363,25-44,1.0,Expats,No Degree,11000,1485867205.82,cars vehicles,EG
+4364,4364,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,EG
+4365,4365,18-24,2.0,Expats,No Degree,2300,1485867205.82,cars vehicles,EG
+4366,4366,25-44,2.0,Expats,No Degree,2900,1485867205.82,cars vehicles,EG
+4367,4367,45+,2.0,Expats,No Degree,950,1485867205.82,cars vehicles,EG
+4368,4368,18-24,1.0,Expats,High School,16000,1485867205.82,cars vehicles,EG
+4369,4369,25-44,1.0,Expats,High School,9300,1485867205.82,cars vehicles,EG
+4370,4370,45+,1.0,Expats,High School,1300,1485867205.82,cars vehicles,EG
+4371,4371,18-24,2.0,Expats,High School,4600,1485867205.82,cars vehicles,EG
+4372,4372,25-44,2.0,Expats,High School,2000,1485867205.82,cars vehicles,EG
+4373,4373,45+,2.0,Expats,High School,270,1485867205.82,cars vehicles,EG
+4374,4374,18-24,1.0,Locals,Graduated,480000,1485867205.82,cars vehicles,EG
+4375,4375,25-44,1.0,Locals,Graduated,830000,1485867205.82,cars vehicles,EG
+4376,4376,45+,1.0,Locals,Graduated,92000,1485867205.82,cars vehicles,EG
+4377,4377,18-24,2.0,Locals,Graduated,160000,1485867205.82,cars vehicles,EG
+4378,4378,25-44,2.0,Locals,Graduated,220000,1485867205.82,cars vehicles,EG
+4379,4379,45+,2.0,Locals,Graduated,23000,1485867205.82,cars vehicles,EG
+4380,4380,18-24,1.0,Locals,No Degree,170000,1485867205.82,cars vehicles,EG
+4381,4381,25-44,1.0,Locals,No Degree,270000,1485867205.82,cars vehicles,EG
+4382,4382,45+,1.0,Locals,No Degree,68000,1485867205.82,cars vehicles,EG
+4383,4383,18-24,2.0,Locals,No Degree,66000,1485867205.82,cars vehicles,EG
+4384,4384,25-44,2.0,Locals,No Degree,76000,1485867205.82,cars vehicles,EG
+4385,4385,45+,2.0,Locals,No Degree,23000,1485867205.82,cars vehicles,EG
+4386,4386,18-24,1.0,Locals,High School,320000,1485867205.82,cars vehicles,EG
+4387,4387,25-44,1.0,Locals,High School,160000,1485867205.82,cars vehicles,EG
+4388,4388,45+,1.0,Locals,High School,22000,1485867205.82,cars vehicles,EG
+4389,4389,18-24,2.0,Locals,High School,120000,1485867205.82,cars vehicles,EG
+4390,4390,25-44,2.0,Locals,High School,37000,1485867205.82,cars vehicles,EG
+4391,4391,45+,2.0,Locals,High School,4800,1485867205.82,cars vehicles,EG
+4392,4392,18-24,1.0,Expats,Graduated,15000,1485867205.82,cars vehicles,IQ
+4393,4393,25-44,1.0,Expats,Graduated,28000,1485867205.82,cars vehicles,IQ
+4394,4394,45+,1.0,Expats,Graduated,2600,1485867205.82,cars vehicles,IQ
+4395,4395,18-24,2.0,Expats,Graduated,1100,1485867205.82,cars vehicles,IQ
+4396,4396,25-44,2.0,Expats,Graduated,2300,1485867205.82,cars vehicles,IQ
+4397,4397,45+,2.0,Expats,Graduated,250,1485867205.82,cars vehicles,IQ
+4398,4398,18-24,1.0,Expats,No Degree,7100,1485867205.82,cars vehicles,IQ
+4399,4399,25-44,1.0,Expats,No Degree,8800,1485867205.82,cars vehicles,IQ
+4400,4400,45+,1.0,Expats,No Degree,1300,1485867205.82,cars vehicles,IQ
+4401,4401,18-24,2.0,Expats,No Degree,900,1485867205.82,cars vehicles,IQ
+4402,4402,25-44,2.0,Expats,No Degree,1000,1485867205.82,cars vehicles,IQ
+4403,4403,45+,2.0,Expats,No Degree,280,1485867205.82,cars vehicles,IQ
+4404,4404,18-24,1.0,Expats,High School,8500,1485867205.82,cars vehicles,IQ
+4405,4405,25-44,1.0,Expats,High School,7800,1485867205.82,cars vehicles,IQ
+4406,4406,45+,1.0,Expats,High School,610,1485867205.82,cars vehicles,IQ
+4407,4407,18-24,2.0,Expats,High School,1000,1485867205.82,cars vehicles,IQ
+4408,4408,25-44,2.0,Expats,High School,620,1485867205.82,cars vehicles,IQ
+4409,4409,45+,2.0,Expats,High School,80,1485867205.82,cars vehicles,IQ
+4410,4410,18-24,1.0,Locals,Graduated,150000,1485867205.82,cars vehicles,IQ
+4411,4411,25-44,1.0,Locals,Graduated,290000,1485867205.82,cars vehicles,IQ
+4412,4412,45+,1.0,Locals,Graduated,25000,1485867205.82,cars vehicles,IQ
+4413,4413,18-24,2.0,Locals,Graduated,14000,1485867205.82,cars vehicles,IQ
+4414,4414,25-44,2.0,Locals,Graduated,29000,1485867205.82,cars vehicles,IQ
+4415,4415,45+,2.0,Locals,Graduated,4200,1485867205.82,cars vehicles,IQ
+4416,4416,18-24,1.0,Locals,No Degree,130000,1485867205.82,cars vehicles,IQ
+4417,4417,25-44,1.0,Locals,No Degree,160000,1485867205.82,cars vehicles,IQ
+4418,4418,45+,1.0,Locals,No Degree,25000,1485867205.82,cars vehicles,IQ
+4419,4419,18-24,2.0,Locals,No Degree,12000,1485867205.82,cars vehicles,IQ
+4420,4420,25-44,2.0,Locals,No Degree,17000,1485867205.82,cars vehicles,IQ
+4421,4421,45+,2.0,Locals,No Degree,6400,1485867205.82,cars vehicles,IQ
+4422,4422,18-24,1.0,Locals,High School,110000,1485867205.82,cars vehicles,IQ
+4423,4423,25-44,1.0,Locals,High School,89000,1485867205.82,cars vehicles,IQ
+4424,4424,45+,1.0,Locals,High School,7800,1485867205.82,cars vehicles,IQ
+4425,4425,18-24,2.0,Locals,High School,15000,1485867205.82,cars vehicles,IQ
+4426,4426,25-44,2.0,Locals,High School,8100,1485867205.82,cars vehicles,IQ
+4427,4427,45+,2.0,Locals,High School,1500,1485867205.82,cars vehicles,IQ
+4428,4428,18-24,1.0,Expats,Graduated,18000,1485867205.82,cars vehicles,JO
+4429,4429,25-44,1.0,Expats,Graduated,34000,1485867205.82,cars vehicles,JO
+4430,4430,45+,1.0,Expats,Graduated,4300,1485867205.82,cars vehicles,JO
+4431,4431,18-24,2.0,Expats,Graduated,6700,1485867205.82,cars vehicles,JO
+4432,4432,25-44,2.0,Expats,Graduated,13000,1485867205.82,cars vehicles,JO
+4433,4433,45+,2.0,Expats,Graduated,2300,1485867205.82,cars vehicles,JO
+4434,4434,18-24,1.0,Expats,No Degree,9500,1485867205.82,cars vehicles,JO
+4435,4435,25-44,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,JO
+4436,4436,45+,1.0,Expats,No Degree,3100,1485867205.82,cars vehicles,JO
+4437,4437,18-24,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,JO
+4438,4438,25-44,2.0,Expats,No Degree,4700,1485867205.82,cars vehicles,JO
+4439,4439,45+,2.0,Expats,No Degree,2300,1485867205.82,cars vehicles,JO
+4440,4440,18-24,1.0,Expats,High School,17000,1485867205.82,cars vehicles,JO
+4441,4441,25-44,1.0,Expats,High School,9400,1485867205.82,cars vehicles,JO
+4442,4442,45+,1.0,Expats,High School,1300,1485867205.82,cars vehicles,JO
+4443,4443,18-24,2.0,Expats,High School,8500,1485867205.82,cars vehicles,JO
+4444,4444,25-44,2.0,Expats,High School,3300,1485867205.82,cars vehicles,JO
+4445,4445,45+,2.0,Expats,High School,750,1485867205.82,cars vehicles,JO
+4446,4446,18-24,1.0,Locals,Graduated,68000,1485867205.82,cars vehicles,JO
+4447,4447,25-44,1.0,Locals,Graduated,120000,1485867205.82,cars vehicles,JO
+4448,4448,45+,1.0,Locals,Graduated,15000,1485867205.82,cars vehicles,JO
+4449,4449,18-24,2.0,Locals,Graduated,21000,1485867205.82,cars vehicles,JO
+4450,4450,25-44,2.0,Locals,Graduated,39000,1485867205.82,cars vehicles,JO
+4451,4451,45+,2.0,Locals,Graduated,4800,1485867205.82,cars vehicles,JO
+4452,4452,18-24,1.0,Locals,No Degree,43000,1485867205.82,cars vehicles,JO
+4453,4453,25-44,1.0,Locals,No Degree,59000,1485867205.82,cars vehicles,JO
+4454,4454,45+,1.0,Locals,No Degree,17000,1485867205.82,cars vehicles,JO
+4455,4455,18-24,2.0,Locals,No Degree,11000,1485867205.82,cars vehicles,JO
+4456,4456,25-44,2.0,Locals,No Degree,18000,1485867205.82,cars vehicles,JO
+4457,4457,45+,2.0,Locals,No Degree,7400,1485867205.82,cars vehicles,JO
+4458,4458,18-24,1.0,Locals,High School,60000,1485867205.82,cars vehicles,JO
+4459,4459,25-44,1.0,Locals,High School,37000,1485867205.82,cars vehicles,JO
+4460,4460,45+,1.0,Locals,High School,5700,1485867205.82,cars vehicles,JO
+4461,4461,18-24,2.0,Locals,High School,23000,1485867205.82,cars vehicles,JO
+4462,4462,25-44,2.0,Locals,High School,10000,1485867205.82,cars vehicles,JO
+4463,4463,45+,2.0,Locals,High School,1800,1485867205.82,cars vehicles,JO
+4464,4464,18-24,1.0,Expats,Graduated,9900,1485867205.82,cars vehicles,KW
+4465,4465,25-44,1.0,Expats,Graduated,82000,1485867205.82,cars vehicles,KW
+4466,4466,45+,1.0,Expats,Graduated,9100,1485867205.82,cars vehicles,KW
+4467,4467,18-24,2.0,Expats,Graduated,2400,1485867205.82,cars vehicles,KW
+4468,4468,25-44,2.0,Expats,Graduated,21000,1485867205.82,cars vehicles,KW
+4469,4469,45+,2.0,Expats,Graduated,2800,1485867205.82,cars vehicles,KW
+4470,4470,18-24,1.0,Expats,No Degree,10000,1485867205.82,cars vehicles,KW
+4471,4471,25-44,1.0,Expats,No Degree,44000,1485867205.82,cars vehicles,KW
+4472,4472,45+,1.0,Expats,No Degree,9800,1485867205.82,cars vehicles,KW
+4473,4473,18-24,2.0,Expats,No Degree,3800,1485867205.82,cars vehicles,KW
+4474,4474,25-44,2.0,Expats,No Degree,11000,1485867205.82,cars vehicles,KW
+4475,4475,45+,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,KW
+4476,4476,18-24,1.0,Expats,High School,4800,1485867205.82,cars vehicles,KW
+4477,4477,25-44,1.0,Expats,High School,21000,1485867205.82,cars vehicles,KW
+4478,4478,45+,1.0,Expats,High School,2300,1485867205.82,cars vehicles,KW
+4479,4479,18-24,2.0,Expats,High School,1800,1485867205.82,cars vehicles,KW
+4480,4480,25-44,2.0,Expats,High School,7100,1485867205.82,cars vehicles,KW
+4481,4481,45+,2.0,Expats,High School,910,1485867205.82,cars vehicles,KW
+4482,4482,18-24,1.0,Locals,Graduated,930,1485867205.82,cars vehicles,KW
+4483,4483,25-44,1.0,Locals,Graduated,4600,1485867205.82,cars vehicles,KW
+4484,4484,45+,1.0,Locals,Graduated,810,1485867205.82,cars vehicles,KW
+4485,4485,18-24,2.0,Locals,Graduated,250,1485867205.82,cars vehicles,KW
+4486,4486,25-44,2.0,Locals,Graduated,1200,1485867205.82,cars vehicles,KW
+4487,4487,45+,2.0,Locals,Graduated,160,1485867205.82,cars vehicles,KW
+4488,4488,18-24,1.0,Locals,No Degree,2100,1485867205.82,cars vehicles,KW
+4489,4489,25-44,1.0,Locals,No Degree,4700,1485867205.82,cars vehicles,KW
+4490,4490,45+,1.0,Locals,No Degree,960,1485867205.82,cars vehicles,KW
+4491,4491,18-24,2.0,Locals,No Degree,870,1485867205.82,cars vehicles,KW
+4492,4492,25-44,2.0,Locals,No Degree,1600,1485867205.82,cars vehicles,KW
+4493,4493,45+,2.0,Locals,No Degree,310,1485867205.82,cars vehicles,KW
+4494,4494,18-24,1.0,Locals,High School,600,1485867205.82,cars vehicles,KW
+4495,4495,25-44,1.0,Locals,High School,990,1485867205.82,cars vehicles,KW
+4496,4496,45+,1.0,Locals,High School,190,1485867205.82,cars vehicles,KW
+4497,4497,18-24,2.0,Locals,High School,220,1485867205.82,cars vehicles,KW
+4498,4498,25-44,2.0,Locals,High School,270,1485867205.82,cars vehicles,KW
+4499,4499,45+,2.0,Locals,High School,50,1485867205.82,cars vehicles,KW
+4500,4500,18-24,1.0,Expats,Graduated,7800,1485867205.82,cars vehicles,LB
+4501,4501,25-44,1.0,Expats,Graduated,16000,1485867205.82,cars vehicles,LB
+4502,4502,45+,1.0,Expats,Graduated,2000,1485867205.82,cars vehicles,LB
+4503,4503,18-24,2.0,Expats,Graduated,2200,1485867205.82,cars vehicles,LB
+4504,4504,25-44,2.0,Expats,Graduated,8500,1485867205.82,cars vehicles,LB
+4505,4505,45+,2.0,Expats,Graduated,1600,1485867205.82,cars vehicles,LB
+4506,4506,18-24,1.0,Expats,No Degree,8500,1485867205.82,cars vehicles,LB
+4507,4507,25-44,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,LB
+4508,4508,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,LB
+4509,4509,18-24,2.0,Expats,No Degree,3800,1485867205.82,cars vehicles,LB
+4510,4510,25-44,2.0,Expats,No Degree,8100,1485867205.82,cars vehicles,LB
+4511,4511,45+,2.0,Expats,No Degree,1600,1485867205.82,cars vehicles,LB
+4512,4512,18-24,1.0,Expats,High School,5300,1485867205.82,cars vehicles,LB
+4513,4513,25-44,1.0,Expats,High School,5800,1485867205.82,cars vehicles,LB
+4514,4514,45+,1.0,Expats,High School,740,1485867205.82,cars vehicles,LB
+4515,4515,18-24,2.0,Expats,High School,2000,1485867205.82,cars vehicles,LB
+4516,4516,25-44,2.0,Expats,High School,3500,1485867205.82,cars vehicles,LB
+4517,4517,45+,2.0,Expats,High School,620,1485867205.82,cars vehicles,LB
+4518,4518,18-24,1.0,Locals,Graduated,29000,1485867205.82,cars vehicles,LB
+4519,4519,25-44,1.0,Locals,Graduated,56000,1485867205.82,cars vehicles,LB
+4520,4520,45+,1.0,Locals,Graduated,12000,1485867205.82,cars vehicles,LB
+4521,4521,18-24,2.0,Locals,Graduated,17000,1485867205.82,cars vehicles,LB
+4522,4522,25-44,2.0,Locals,Graduated,41000,1485867205.82,cars vehicles,LB
+4523,4523,45+,2.0,Locals,Graduated,6300,1485867205.82,cars vehicles,LB
+4524,4524,18-24,1.0,Locals,No Degree,35000,1485867205.82,cars vehicles,LB
+4525,4525,25-44,1.0,Locals,No Degree,47000,1485867205.82,cars vehicles,LB
+4526,4526,45+,1.0,Locals,No Degree,18000,1485867205.82,cars vehicles,LB
+4527,4527,18-24,2.0,Locals,No Degree,16000,1485867205.82,cars vehicles,LB
+4528,4528,25-44,2.0,Locals,No Degree,34000,1485867205.82,cars vehicles,LB
+4529,4529,45+,2.0,Locals,No Degree,13000,1485867205.82,cars vehicles,LB
+4530,4530,18-24,1.0,Locals,High School,23000,1485867205.82,cars vehicles,LB
+4531,4531,25-44,1.0,Locals,High School,16000,1485867205.82,cars vehicles,LB
+4532,4532,45+,1.0,Locals,High School,3800,1485867205.82,cars vehicles,LB
+4533,4533,18-24,2.0,Locals,High School,16000,1485867205.82,cars vehicles,LB
+4534,4534,25-44,2.0,Locals,High School,11000,1485867205.82,cars vehicles,LB
+4535,4535,45+,2.0,Locals,High School,2300,1485867205.82,cars vehicles,LB
+4536,4536,18-24,1.0,Expats,Graduated,4400,1485867205.82,cars vehicles,LY
+4537,4537,25-44,1.0,Expats,Graduated,11000,1485867205.82,cars vehicles,LY
+4538,4538,45+,1.0,Expats,Graduated,1100,1485867205.82,cars vehicles,LY
+4539,4539,18-24,2.0,Expats,Graduated,640,1485867205.82,cars vehicles,LY
+4540,4540,25-44,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,LY
+4541,4541,45+,2.0,Expats,Graduated,180,1485867205.82,cars vehicles,LY
+4542,4542,18-24,1.0,Expats,No Degree,3500,1485867205.82,cars vehicles,LY
+4543,4543,25-44,1.0,Expats,No Degree,7500,1485867205.82,cars vehicles,LY
+4544,4544,45+,1.0,Expats,No Degree,880,1485867205.82,cars vehicles,LY
+4545,4545,18-24,2.0,Expats,No Degree,290,1485867205.82,cars vehicles,LY
+4546,4546,25-44,2.0,Expats,No Degree,740,1485867205.82,cars vehicles,LY
+4547,4547,45+,2.0,Expats,No Degree,180,1485867205.82,cars vehicles,LY
+4548,4548,18-24,1.0,Expats,High School,2300,1485867205.82,cars vehicles,LY
+4549,4549,25-44,1.0,Expats,High School,2900,1485867205.82,cars vehicles,LY
+4550,4550,45+,1.0,Expats,High School,250,1485867205.82,cars vehicles,LY
+4551,4551,18-24,2.0,Expats,High School,620,1485867205.82,cars vehicles,LY
+4552,4552,25-44,2.0,Expats,High School,260,1485867205.82,cars vehicles,LY
+4553,4553,45+,2.0,Expats,High School,40,1485867205.82,cars vehicles,LY
+4554,4554,18-24,1.0,Locals,Graduated,35000,1485867205.82,cars vehicles,LY
+4555,4555,25-44,1.0,Locals,Graduated,67000,1485867205.82,cars vehicles,LY
+4556,4556,45+,1.0,Locals,Graduated,6900,1485867205.82,cars vehicles,LY
+4557,4557,18-24,2.0,Locals,Graduated,9900,1485867205.82,cars vehicles,LY
+4558,4558,25-44,2.0,Locals,Graduated,16000,1485867205.82,cars vehicles,LY
+4559,4559,45+,2.0,Locals,Graduated,1400,1485867205.82,cars vehicles,LY
+4560,4560,18-24,1.0,Locals,No Degree,18000,1485867205.82,cars vehicles,LY
+4561,4561,25-44,1.0,Locals,No Degree,36000,1485867205.82,cars vehicles,LY
+4562,4562,45+,1.0,Locals,No Degree,6200,1485867205.82,cars vehicles,LY
+4563,4563,18-24,2.0,Locals,No Degree,4600,1485867205.82,cars vehicles,LY
+4564,4564,25-44,2.0,Locals,No Degree,7200,1485867205.82,cars vehicles,LY
+4565,4565,45+,2.0,Locals,No Degree,1700,1485867205.82,cars vehicles,LY
+4566,4566,18-24,1.0,Locals,High School,22000,1485867205.82,cars vehicles,LY
+4567,4567,25-44,1.0,Locals,High School,16000,1485867205.82,cars vehicles,LY
+4568,4568,45+,1.0,Locals,High School,2000,1485867205.82,cars vehicles,LY
+4569,4569,18-24,2.0,Locals,High School,9500,1485867205.82,cars vehicles,LY
+4570,4570,25-44,2.0,Locals,High School,4000,1485867205.82,cars vehicles,LY
+4571,4571,45+,2.0,Locals,High School,460,1485867205.82,cars vehicles,LY
+4572,4572,18-24,1.0,Expats,Graduated,47000,1485867205.82,cars vehicles,MA
+4573,4573,25-44,1.0,Expats,Graduated,32000,1485867205.82,cars vehicles,MA
+4574,4574,45+,1.0,Expats,Graduated,3600,1485867205.82,cars vehicles,MA
+4575,4575,18-24,2.0,Expats,Graduated,7300,1485867205.82,cars vehicles,MA
+4576,4576,25-44,2.0,Expats,Graduated,4800,1485867205.82,cars vehicles,MA
+4577,4577,45+,2.0,Expats,Graduated,540,1485867205.82,cars vehicles,MA
+4578,4578,18-24,1.0,Expats,No Degree,14000,1485867205.82,cars vehicles,MA
+4579,4579,25-44,1.0,Expats,No Degree,14000,1485867205.82,cars vehicles,MA
+4580,4580,45+,1.0,Expats,No Degree,2200,1485867205.82,cars vehicles,MA
+4581,4581,18-24,2.0,Expats,No Degree,3300,1485867205.82,cars vehicles,MA
+4582,4582,25-44,2.0,Expats,No Degree,3300,1485867205.82,cars vehicles,MA
+4583,4583,45+,2.0,Expats,No Degree,500,1485867205.82,cars vehicles,MA
+4584,4584,18-24,1.0,Expats,High School,17000,1485867205.82,cars vehicles,MA
+4585,4585,25-44,1.0,Expats,High School,8200,1485867205.82,cars vehicles,MA
+4586,4586,45+,1.0,Expats,High School,1100,1485867205.82,cars vehicles,MA
+4587,4587,18-24,2.0,Expats,High School,3100,1485867205.82,cars vehicles,MA
+4588,4588,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,MA
+4589,4589,45+,2.0,Expats,High School,230,1485867205.82,cars vehicles,MA
+4590,4590,18-24,1.0,Locals,Graduated,280000,1485867205.82,cars vehicles,MA
+4591,4591,25-44,1.0,Locals,Graduated,260000,1485867205.82,cars vehicles,MA
+4592,4592,45+,1.0,Locals,Graduated,21000,1485867205.82,cars vehicles,MA
+4593,4593,18-24,2.0,Locals,Graduated,79000,1485867205.82,cars vehicles,MA
+4594,4594,25-44,2.0,Locals,Graduated,57000,1485867205.82,cars vehicles,MA
+4595,4595,45+,2.0,Locals,Graduated,5100,1485867205.82,cars vehicles,MA
+4596,4596,18-24,1.0,Locals,No Degree,180000,1485867205.82,cars vehicles,MA
+4597,4597,25-44,1.0,Locals,No Degree,190000,1485867205.82,cars vehicles,MA
+4598,4598,45+,1.0,Locals,No Degree,22000,1485867205.82,cars vehicles,MA
+4599,4599,18-24,2.0,Locals,No Degree,53000,1485867205.82,cars vehicles,MA
+4600,4600,25-44,2.0,Locals,No Degree,40000,1485867205.82,cars vehicles,MA
+4601,4601,45+,2.0,Locals,No Degree,5800,1485867205.82,cars vehicles,MA
+4602,4602,18-24,1.0,Locals,High School,120000,1485867205.82,cars vehicles,MA
+4603,4603,25-44,1.0,Locals,High School,71000,1485867205.82,cars vehicles,MA
+4604,4604,45+,1.0,Locals,High School,6600,1485867205.82,cars vehicles,MA
+4605,4605,18-24,2.0,Locals,High School,40000,1485867205.82,cars vehicles,MA
+4606,4606,25-44,2.0,Locals,High School,15000,1485867205.82,cars vehicles,MA
+4607,4607,45+,2.0,Locals,High School,2000,1485867205.82,cars vehicles,MA
+4608,4608,18-24,1.0,Expats,Graduated,12000,1485867205.82,cars vehicles,OM
+4609,4609,25-44,1.0,Expats,Graduated,51000,1485867205.82,cars vehicles,OM
+4610,4610,45+,1.0,Expats,Graduated,4800,1485867205.82,cars vehicles,OM
+4611,4611,18-24,2.0,Expats,Graduated,1000,1485867205.82,cars vehicles,OM
+4612,4612,25-44,2.0,Expats,Graduated,7900,1485867205.82,cars vehicles,OM
+4613,4613,45+,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,OM
+4614,4614,18-24,1.0,Expats,No Degree,11000,1485867205.82,cars vehicles,OM
+4615,4615,25-44,1.0,Expats,No Degree,32000,1485867205.82,cars vehicles,OM
+4616,4616,45+,1.0,Expats,No Degree,4200,1485867205.82,cars vehicles,OM
+4617,4617,18-24,2.0,Expats,No Degree,1500,1485867205.82,cars vehicles,OM
+4618,4618,25-44,2.0,Expats,No Degree,4000,1485867205.82,cars vehicles,OM
+4619,4619,45+,2.0,Expats,No Degree,880,1485867205.82,cars vehicles,OM
+4620,4620,18-24,1.0,Expats,High School,4300,1485867205.82,cars vehicles,OM
+4621,4621,25-44,1.0,Expats,High School,11000,1485867205.82,cars vehicles,OM
+4622,4622,45+,1.0,Expats,High School,1400,1485867205.82,cars vehicles,OM
+4623,4623,18-24,2.0,Expats,High School,900,1485867205.82,cars vehicles,OM
+4624,4624,25-44,2.0,Expats,High School,2100,1485867205.82,cars vehicles,OM
+4625,4625,45+,2.0,Expats,High School,240,1485867205.82,cars vehicles,OM
+4626,4626,18-24,1.0,Locals,Graduated,3200,1485867205.82,cars vehicles,OM
+4627,4627,25-44,1.0,Locals,Graduated,8700,1485867205.82,cars vehicles,OM
+4628,4628,45+,1.0,Locals,Graduated,540,1485867205.82,cars vehicles,OM
+4629,4629,18-24,2.0,Locals,Graduated,350,1485867205.82,cars vehicles,OM
+4630,4630,25-44,2.0,Locals,Graduated,790,1485867205.82,cars vehicles,OM
+4631,4631,45+,2.0,Locals,Graduated,50,1485867205.82,cars vehicles,OM
+4632,4632,18-24,1.0,Locals,No Degree,2600,1485867205.82,cars vehicles,OM
+4633,4633,25-44,1.0,Locals,No Degree,5500,1485867205.82,cars vehicles,OM
+4634,4634,45+,1.0,Locals,No Degree,700,1485867205.82,cars vehicles,OM
+4635,4635,18-24,2.0,Locals,No Degree,370,1485867205.82,cars vehicles,OM
+4636,4636,25-44,2.0,Locals,No Degree,720,1485867205.82,cars vehicles,OM
+4637,4637,45+,2.0,Locals,No Degree,90,1485867205.82,cars vehicles,OM
+4638,4638,18-24,1.0,Locals,High School,2300,1485867205.82,cars vehicles,OM
+4639,4639,25-44,1.0,Locals,High School,2600,1485867205.82,cars vehicles,OM
+4640,4640,45+,1.0,Locals,High School,220,1485867205.82,cars vehicles,OM
+4641,4641,18-24,2.0,Locals,High School,200,1485867205.82,cars vehicles,OM
+4642,4642,25-44,2.0,Locals,High School,180,1485867205.82,cars vehicles,OM
+4643,4643,45+,2.0,Locals,High School,30,1485867205.82,cars vehicles,OM
+4644,4644,18-24,1.0,Expats,Graduated,33000,1485867205.82,cars vehicles,QA
+4645,4645,25-44,1.0,Expats,Graduated,150000,1485867205.82,cars vehicles,QA
+4646,4646,45+,1.0,Expats,Graduated,15000,1485867205.82,cars vehicles,QA
+4647,4647,18-24,2.0,Expats,Graduated,4400,1485867205.82,cars vehicles,QA
+4648,4648,25-44,2.0,Expats,Graduated,27000,1485867205.82,cars vehicles,QA
+4649,4649,45+,2.0,Expats,Graduated,3400,1485867205.82,cars vehicles,QA
+4650,4650,18-24,1.0,Expats,No Degree,23000,1485867205.82,cars vehicles,QA
+4651,4651,25-44,1.0,Expats,No Degree,76000,1485867205.82,cars vehicles,QA
+4652,4652,45+,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,QA
+4653,4653,18-24,2.0,Expats,No Degree,2600,1485867205.82,cars vehicles,QA
+4654,4654,25-44,2.0,Expats,No Degree,11000,1485867205.82,cars vehicles,QA
+4655,4655,45+,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,QA
+4656,4656,18-24,1.0,Expats,High School,11000,1485867205.82,cars vehicles,QA
+4657,4657,25-44,1.0,Expats,High School,33000,1485867205.82,cars vehicles,QA
+4658,4658,45+,1.0,Expats,High School,4200,1485867205.82,cars vehicles,QA
+4659,4659,18-24,2.0,Expats,High School,2100,1485867205.82,cars vehicles,QA
+4660,4660,25-44,2.0,Expats,High School,6800,1485867205.82,cars vehicles,QA
+4661,4661,45+,2.0,Expats,High School,930,1485867205.82,cars vehicles,QA
+4662,4662,18-24,1.0,Locals,Graduated,990,1485867205.82,cars vehicles,QA
+4663,4663,25-44,1.0,Locals,Graduated,2300,1485867205.82,cars vehicles,QA
+4664,4664,45+,1.0,Locals,Graduated,200,1485867205.82,cars vehicles,QA
+4665,4665,18-24,2.0,Locals,Graduated,180,1485867205.82,cars vehicles,QA
+4666,4666,25-44,2.0,Locals,Graduated,490,1485867205.82,cars vehicles,QA
+4667,4667,45+,2.0,Locals,Graduated,50,1485867205.82,cars vehicles,QA
+4668,4668,18-24,1.0,Locals,No Degree,760,1485867205.82,cars vehicles,QA
+4669,4669,25-44,1.0,Locals,No Degree,2300,1485867205.82,cars vehicles,QA
+4670,4670,45+,1.0,Locals,No Degree,400,1485867205.82,cars vehicles,QA
+4671,4671,18-24,2.0,Locals,No Degree,150,1485867205.82,cars vehicles,QA
+4672,4672,25-44,2.0,Locals,No Degree,620,1485867205.82,cars vehicles,QA
+4673,4673,45+,2.0,Locals,No Degree,170,1485867205.82,cars vehicles,QA
+4674,4674,18-24,1.0,Locals,High School,410,1485867205.82,cars vehicles,QA
+4675,4675,25-44,1.0,Locals,High School,590,1485867205.82,cars vehicles,QA
+4676,4676,45+,1.0,Locals,High School,50,1485867205.82,cars vehicles,QA
+4677,4677,18-24,2.0,Locals,High School,120,1485867205.82,cars vehicles,QA
+4678,4678,25-44,2.0,Locals,High School,120,1485867205.82,cars vehicles,QA
+4679,4679,45+,2.0,Locals,High School,20,1485867205.82,cars vehicles,QA
+4680,4680,18-24,1.0,Expats,Graduated,77000,1485867205.82,cars vehicles,SA
+4681,4681,25-44,1.0,Expats,Graduated,430000,1485867205.82,cars vehicles,SA
+4682,4682,45+,1.0,Expats,Graduated,41000,1485867205.82,cars vehicles,SA
+4683,4683,18-24,2.0,Expats,Graduated,7300,1485867205.82,cars vehicles,SA
+4684,4684,25-44,2.0,Expats,Graduated,49000,1485867205.82,cars vehicles,SA
+4685,4685,45+,2.0,Expats,Graduated,9600,1485867205.82,cars vehicles,SA
+4686,4686,18-24,1.0,Expats,No Degree,19000,1485867205.82,cars vehicles,SA
+4687,4687,25-44,1.0,Expats,No Degree,64000,1485867205.82,cars vehicles,SA
+4688,4688,45+,1.0,Expats,No Degree,9500,1485867205.82,cars vehicles,SA
+4689,4689,18-24,2.0,Expats,No Degree,2900,1485867205.82,cars vehicles,SA
+4690,4690,25-44,2.0,Expats,No Degree,10000,1485867205.82,cars vehicles,SA
+4691,4691,45+,2.0,Expats,No Degree,2800,1485867205.82,cars vehicles,SA
+4692,4692,18-24,1.0,Expats,High School,28000,1485867205.82,cars vehicles,SA
+4693,4693,25-44,1.0,Expats,High School,90000,1485867205.82,cars vehicles,SA
+4694,4694,45+,1.0,Expats,High School,9600,1485867205.82,cars vehicles,SA
+4695,4695,18-24,2.0,Expats,High School,5200,1485867205.82,cars vehicles,SA
+4696,4696,25-44,2.0,Expats,High School,12000,1485867205.82,cars vehicles,SA
+4697,4697,45+,2.0,Expats,High School,2500,1485867205.82,cars vehicles,SA
+4698,4698,18-24,1.0,Locals,Graduated,32000,1485867205.82,cars vehicles,SA
+4699,4699,25-44,1.0,Locals,Graduated,140000,1485867205.82,cars vehicles,SA
+4700,4700,45+,1.0,Locals,Graduated,16000,1485867205.82,cars vehicles,SA
+4701,4701,18-24,2.0,Locals,Graduated,3900,1485867205.82,cars vehicles,SA
+4702,4702,25-44,2.0,Locals,Graduated,15000,1485867205.82,cars vehicles,SA
+4703,4703,45+,2.0,Locals,Graduated,2700,1485867205.82,cars vehicles,SA
+4704,4704,18-24,1.0,Locals,No Degree,85000,1485867205.82,cars vehicles,SA
+4705,4705,25-44,1.0,Locals,No Degree,240000,1485867205.82,cars vehicles,SA
+4706,4706,45+,1.0,Locals,No Degree,39000,1485867205.82,cars vehicles,SA
+4707,4707,18-24,2.0,Locals,No Degree,7300,1485867205.82,cars vehicles,SA
+4708,4708,25-44,2.0,Locals,No Degree,17000,1485867205.82,cars vehicles,SA
+4709,4709,45+,2.0,Locals,No Degree,5100,1485867205.82,cars vehicles,SA
+4710,4710,18-24,1.0,Locals,High School,18000,1485867205.82,cars vehicles,SA
+4711,4711,25-44,1.0,Locals,High School,47000,1485867205.82,cars vehicles,SA
+4712,4712,45+,1.0,Locals,High School,5700,1485867205.82,cars vehicles,SA
+4713,4713,18-24,2.0,Locals,High School,3400,1485867205.82,cars vehicles,SA
+4714,4714,25-44,2.0,Locals,High School,4800,1485867205.82,cars vehicles,SA
+4715,4715,45+,2.0,Locals,High School,830,1485867205.82,cars vehicles,SA
+4716,4716,18-24,1.0,Expats,Graduated,1400,1485867205.82,cars vehicles,SO
+4717,4717,25-44,1.0,Expats,Graduated,1300,1485867205.82,cars vehicles,SO
+4718,4718,45+,1.0,Expats,Graduated,160,1485867205.82,cars vehicles,SO
+4719,4719,18-24,2.0,Expats,Graduated,220,1485867205.82,cars vehicles,SO
+4720,4720,25-44,2.0,Expats,Graduated,90,1485867205.82,cars vehicles,SO
+4721,4721,45+,2.0,Expats,Graduated,20,1485867205.82,cars vehicles,SO
+4722,4722,18-24,1.0,Expats,No Degree,420,1485867205.82,cars vehicles,SO
+4723,4723,25-44,1.0,Expats,No Degree,390,1485867205.82,cars vehicles,SO
+4724,4724,45+,1.0,Expats,No Degree,50,1485867205.82,cars vehicles,SO
+4725,4725,18-24,2.0,Expats,No Degree,100,1485867205.82,cars vehicles,SO
+4726,4726,25-44,2.0,Expats,No Degree,90,1485867205.82,cars vehicles,SO
+4727,4727,45+,2.0,Expats,No Degree,20,1485867205.82,cars vehicles,SO
+4728,4728,18-24,1.0,Expats,High School,500,1485867205.82,cars vehicles,SO
+4729,4729,25-44,1.0,Expats,High School,260,1485867205.82,cars vehicles,SO
+4730,4730,45+,1.0,Expats,High School,60,1485867205.82,cars vehicles,SO
+4731,4731,18-24,2.0,Expats,High School,30,1485867205.82,cars vehicles,SO
+4732,4732,25-44,2.0,Expats,High School,20,1485867205.82,cars vehicles,SO
+4733,4733,45+,2.0,Expats,High School,20,1485867205.82,cars vehicles,SO
+4734,4734,18-24,1.0,Locals,Graduated,3300,1485867205.82,cars vehicles,SO
+4735,4735,25-44,1.0,Locals,Graduated,2100,1485867205.82,cars vehicles,SO
+4736,4736,45+,1.0,Locals,Graduated,50,1485867205.82,cars vehicles,SO
+4737,4737,18-24,2.0,Locals,Graduated,720,1485867205.82,cars vehicles,SO
+4738,4738,25-44,2.0,Locals,Graduated,390,1485867205.82,cars vehicles,SO
+4739,4739,45+,2.0,Locals,Graduated,40,1485867205.82,cars vehicles,SO
+4740,4740,18-24,1.0,Locals,No Degree,2700,1485867205.82,cars vehicles,SO
+4741,4741,25-44,1.0,Locals,No Degree,1200,1485867205.82,cars vehicles,SO
+4742,4742,45+,1.0,Locals,No Degree,210,1485867205.82,cars vehicles,SO
+4743,4743,18-24,2.0,Locals,No Degree,2000,1485867205.82,cars vehicles,SO
+4744,4744,25-44,2.0,Locals,No Degree,960,1485867205.82,cars vehicles,SO
+4745,4745,45+,2.0,Locals,No Degree,90,1485867205.82,cars vehicles,SO
+4746,4746,18-24,1.0,Locals,High School,1500,1485867205.82,cars vehicles,SO
+4747,4747,25-44,1.0,Locals,High School,430,1485867205.82,cars vehicles,SO
+4748,4748,45+,1.0,Locals,High School,20,1485867205.82,cars vehicles,SO
+4749,4749,18-24,2.0,Locals,High School,360,1485867205.82,cars vehicles,SO
+4750,4750,25-44,2.0,Locals,High School,130,1485867205.82,cars vehicles,SO
+4751,4751,45+,2.0,Locals,High School,40,1485867205.82,cars vehicles,SO
+4752,4752,18-24,1.0,Expats,Graduated,18000,1485867205.82,cars vehicles,TN
+4753,4753,25-44,1.0,Expats,Graduated,17000,1485867205.82,cars vehicles,TN
+4754,4754,45+,1.0,Expats,Graduated,3000,1485867205.82,cars vehicles,TN
+4755,4755,18-24,2.0,Expats,Graduated,4600,1485867205.82,cars vehicles,TN
+4756,4756,25-44,2.0,Expats,Graduated,4500,1485867205.82,cars vehicles,TN
+4757,4757,45+,2.0,Expats,Graduated,900,1485867205.82,cars vehicles,TN
+4758,4758,18-24,1.0,Expats,No Degree,6700,1485867205.82,cars vehicles,TN
+4759,4759,25-44,1.0,Expats,No Degree,7700,1485867205.82,cars vehicles,TN
+4760,4760,45+,1.0,Expats,No Degree,1700,1485867205.82,cars vehicles,TN
+4761,4761,18-24,2.0,Expats,No Degree,2100,1485867205.82,cars vehicles,TN
+4762,4762,25-44,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,TN
+4763,4763,45+,2.0,Expats,No Degree,620,1485867205.82,cars vehicles,TN
+4764,4764,18-24,1.0,Expats,High School,7700,1485867205.82,cars vehicles,TN
+4765,4765,25-44,1.0,Expats,High School,4500,1485867205.82,cars vehicles,TN
+4766,4766,45+,1.0,Expats,High School,990,1485867205.82,cars vehicles,TN
+4767,4767,18-24,2.0,Expats,High School,2100,1485867205.82,cars vehicles,TN
+4768,4768,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,TN
+4769,4769,45+,2.0,Expats,High School,310,1485867205.82,cars vehicles,TN
+4770,4770,18-24,1.0,Locals,Graduated,100000,1485867205.82,cars vehicles,TN
+4771,4771,25-44,1.0,Locals,Graduated,180000,1485867205.82,cars vehicles,TN
+4772,4772,45+,1.0,Locals,Graduated,28000,1485867205.82,cars vehicles,TN
+4773,4773,18-24,2.0,Locals,Graduated,55000,1485867205.82,cars vehicles,TN
+4774,4774,25-44,2.0,Locals,Graduated,83000,1485867205.82,cars vehicles,TN
+4775,4775,45+,2.0,Locals,Graduated,9600,1485867205.82,cars vehicles,TN
+4776,4776,18-24,1.0,Locals,No Degree,64000,1485867205.82,cars vehicles,TN
+4777,4777,25-44,1.0,Locals,No Degree,100000,1485867205.82,cars vehicles,TN
+4778,4778,45+,1.0,Locals,No Degree,21000,1485867205.82,cars vehicles,TN
+4779,4779,18-24,2.0,Locals,No Degree,34000,1485867205.82,cars vehicles,TN
+4780,4780,25-44,2.0,Locals,No Degree,40000,1485867205.82,cars vehicles,TN
+4781,4781,45+,2.0,Locals,No Degree,9000,1485867205.82,cars vehicles,TN
+4782,4782,18-24,1.0,Locals,High School,50000,1485867205.82,cars vehicles,TN
+4783,4783,25-44,1.0,Locals,High School,49000,1485867205.82,cars vehicles,TN
+4784,4784,45+,1.0,Locals,High School,11000,1485867205.82,cars vehicles,TN
+4785,4785,18-24,2.0,Locals,High School,31000,1485867205.82,cars vehicles,TN
+4786,4786,25-44,2.0,Locals,High School,19000,1485867205.82,cars vehicles,TN
+4787,4787,45+,2.0,Locals,High School,4700,1485867205.82,cars vehicles,TN
+4788,4788,18-24,1.0,Expats,Graduated,120000,1485867205.82,cars vehicles,AE
+4789,4789,25-44,1.0,Expats,Graduated,480000,1485867205.82,cars vehicles,AE
+4790,4790,45+,1.0,Expats,Graduated,45000,1485867205.82,cars vehicles,AE
+4791,4791,18-24,2.0,Expats,Graduated,14000,1485867205.82,cars vehicles,AE
+4792,4792,25-44,2.0,Expats,Graduated,82000,1485867205.82,cars vehicles,AE
+4793,4793,45+,2.0,Expats,Graduated,12000,1485867205.82,cars vehicles,AE
+4794,4794,18-24,1.0,Expats,No Degree,82000,1485867205.82,cars vehicles,AE
+4795,4795,25-44,1.0,Expats,No Degree,190000,1485867205.82,cars vehicles,AE
+4796,4796,45+,1.0,Expats,No Degree,34000,1485867205.82,cars vehicles,AE
+4797,4797,18-24,2.0,Expats,No Degree,8000,1485867205.82,cars vehicles,AE
+4798,4798,25-44,2.0,Expats,No Degree,27000,1485867205.82,cars vehicles,AE
+4799,4799,45+,2.0,Expats,No Degree,7500,1485867205.82,cars vehicles,AE
+4800,4800,18-24,1.0,Expats,High School,42000,1485867205.82,cars vehicles,AE
+4801,4801,25-44,1.0,Expats,High School,100000,1485867205.82,cars vehicles,AE
+4802,4802,45+,1.0,Expats,High School,12000,1485867205.82,cars vehicles,AE
+4803,4803,18-24,2.0,Expats,High School,8300,1485867205.82,cars vehicles,AE
+4804,4804,25-44,2.0,Expats,High School,17000,1485867205.82,cars vehicles,AE
+4805,4805,45+,2.0,Expats,High School,3600,1485867205.82,cars vehicles,AE
+4806,4806,18-24,1.0,Locals,Graduated,3900,1485867205.82,cars vehicles,AE
+4807,4807,25-44,1.0,Locals,Graduated,12000,1485867205.82,cars vehicles,AE
+4808,4808,45+,1.0,Locals,Graduated,1200,1485867205.82,cars vehicles,AE
+4809,4809,18-24,2.0,Locals,Graduated,670,1485867205.82,cars vehicles,AE
+4810,4810,25-44,2.0,Locals,Graduated,2100,1485867205.82,cars vehicles,AE
+4811,4811,45+,2.0,Locals,Graduated,150,1485867205.82,cars vehicles,AE
+4812,4812,18-24,1.0,Locals,No Degree,4100,1485867205.82,cars vehicles,AE
+4813,4813,25-44,1.0,Locals,No Degree,11000,1485867205.82,cars vehicles,AE
+4814,4814,45+,1.0,Locals,No Degree,1900,1485867205.82,cars vehicles,AE
+4815,4815,18-24,2.0,Locals,No Degree,900,1485867205.82,cars vehicles,AE
+4816,4816,25-44,2.0,Locals,No Degree,1900,1485867205.82,cars vehicles,AE
+4817,4817,45+,2.0,Locals,No Degree,280,1485867205.82,cars vehicles,AE
+4818,4818,18-24,1.0,Locals,High School,2500,1485867205.82,cars vehicles,AE
+4819,4819,25-44,1.0,Locals,High School,2800,1485867205.82,cars vehicles,AE
+4820,4820,45+,1.0,Locals,High School,430,1485867205.82,cars vehicles,AE
+4821,4821,18-24,2.0,Locals,High School,570,1485867205.82,cars vehicles,AE
+4822,4822,25-44,2.0,Locals,High School,490,1485867205.82,cars vehicles,AE
+4823,4823,45+,2.0,Locals,High School,40,1485867205.82,cars vehicles,AE
+4824,4824,18-24,1.0,Expats,Graduated,2100,1485867205.82,cars vehicles,YE
+4825,4825,25-44,1.0,Expats,Graduated,3700,1485867205.82,cars vehicles,YE
+4826,4826,45+,1.0,Expats,Graduated,320,1485867205.82,cars vehicles,YE
+4827,4827,18-24,2.0,Expats,Graduated,250,1485867205.82,cars vehicles,YE
+4828,4828,25-44,2.0,Expats,Graduated,330,1485867205.82,cars vehicles,YE
+4829,4829,45+,2.0,Expats,Graduated,30,1485867205.82,cars vehicles,YE
+4830,4830,18-24,1.0,Expats,No Degree,780,1485867205.82,cars vehicles,YE
+4831,4831,25-44,1.0,Expats,No Degree,1100,1485867205.82,cars vehicles,YE
+4832,4832,45+,1.0,Expats,No Degree,100,1485867205.82,cars vehicles,YE
+4833,4833,18-24,2.0,Expats,No Degree,280,1485867205.82,cars vehicles,YE
+4834,4834,25-44,2.0,Expats,No Degree,180,1485867205.82,cars vehicles,YE
+4835,4835,45+,2.0,Expats,No Degree,60,1485867205.82,cars vehicles,YE
+4836,4836,18-24,1.0,Expats,High School,950,1485867205.82,cars vehicles,YE
+4837,4837,25-44,1.0,Expats,High School,910,1485867205.82,cars vehicles,YE
+4838,4838,45+,1.0,Expats,High School,90,1485867205.82,cars vehicles,YE
+4839,4839,18-24,2.0,Expats,High School,250,1485867205.82,cars vehicles,YE
+4840,4840,25-44,2.0,Expats,High School,150,1485867205.82,cars vehicles,YE
+4841,4841,45+,2.0,Expats,High School,20,1485867205.82,cars vehicles,YE
+4842,4842,18-24,1.0,Locals,Graduated,16000,1485867205.82,cars vehicles,YE
+4843,4843,25-44,1.0,Locals,Graduated,30000,1485867205.82,cars vehicles,YE
+4844,4844,45+,1.0,Locals,Graduated,2500,1485867205.82,cars vehicles,YE
+4845,4845,18-24,2.0,Locals,Graduated,1700,1485867205.82,cars vehicles,YE
+4846,4846,25-44,2.0,Locals,Graduated,3500,1485867205.82,cars vehicles,YE
+4847,4847,45+,2.0,Locals,Graduated,160,1485867205.82,cars vehicles,YE
+4848,4848,18-24,1.0,Locals,No Degree,10000,1485867205.82,cars vehicles,YE
+4849,4849,25-44,1.0,Locals,No Degree,12000,1485867205.82,cars vehicles,YE
+4850,4850,45+,1.0,Locals,No Degree,2000,1485867205.82,cars vehicles,YE
+4851,4851,18-24,2.0,Locals,No Degree,1400,1485867205.82,cars vehicles,YE
+4852,4852,25-44,2.0,Locals,No Degree,1300,1485867205.82,cars vehicles,YE
+4853,4853,45+,2.0,Locals,No Degree,270,1485867205.82,cars vehicles,YE
+4854,4854,18-24,1.0,Locals,High School,11000,1485867205.82,cars vehicles,YE
+4855,4855,25-44,1.0,Locals,High School,8200,1485867205.82,cars vehicles,YE
+4856,4856,45+,1.0,Locals,High School,650,1485867205.82,cars vehicles,YE
+4857,4857,18-24,2.0,Locals,High School,2000,1485867205.82,cars vehicles,YE
+4858,4858,25-44,2.0,Locals,High School,1100,1485867205.82,cars vehicles,YE
+4859,4859,45+,2.0,Locals,High School,60,1485867205.82,cars vehicles,YE
+4860,4860,18-24,1.0,Expats,Graduated,5300,1485867205.82,cars vehicles,PS
+4861,4861,25-44,1.0,Expats,Graduated,7000,1485867205.82,cars vehicles,PS
+4862,4862,45+,1.0,Expats,Graduated,770,1485867205.82,cars vehicles,PS
+4863,4863,18-24,2.0,Expats,Graduated,1300,1485867205.82,cars vehicles,PS
+4864,4864,25-44,2.0,Expats,Graduated,2000,1485867205.82,cars vehicles,PS
+4865,4865,45+,2.0,Expats,Graduated,160,1485867205.82,cars vehicles,PS
+4866,4866,18-24,1.0,Expats,No Degree,1400,1485867205.82,cars vehicles,PS
+4867,4867,25-44,1.0,Expats,No Degree,1500,1485867205.82,cars vehicles,PS
+4868,4868,45+,1.0,Expats,No Degree,260,1485867205.82,cars vehicles,PS
+4869,4869,18-24,2.0,Expats,No Degree,480,1485867205.82,cars vehicles,PS
+4870,4870,25-44,2.0,Expats,No Degree,540,1485867205.82,cars vehicles,PS
+4871,4871,45+,2.0,Expats,No Degree,120,1485867205.82,cars vehicles,PS
+4872,4872,18-24,1.0,Expats,High School,2900,1485867205.82,cars vehicles,PS
+4873,4873,25-44,1.0,Expats,High School,1500,1485867205.82,cars vehicles,PS
+4874,4874,45+,1.0,Expats,High School,230,1485867205.82,cars vehicles,PS
+4875,4875,18-24,2.0,Expats,High School,1300,1485867205.82,cars vehicles,PS
+4876,4876,25-44,2.0,Expats,High School,500,1485867205.82,cars vehicles,PS
+4877,4877,45+,2.0,Expats,High School,60,1485867205.82,cars vehicles,PS
+4878,4878,18-24,1.0,Locals,Graduated,18000,1485867205.82,cars vehicles,PS
+4879,4879,25-44,1.0,Locals,Graduated,26000,1485867205.82,cars vehicles,PS
+4880,4880,45+,1.0,Locals,Graduated,2500,1485867205.82,cars vehicles,PS
+4881,4881,18-24,2.0,Locals,Graduated,4500,1485867205.82,cars vehicles,PS
+4882,4882,25-44,2.0,Locals,Graduated,6400,1485867205.82,cars vehicles,PS
+4883,4883,45+,2.0,Locals,Graduated,460,1485867205.82,cars vehicles,PS
+4884,4884,18-24,1.0,Locals,No Degree,6900,1485867205.82,cars vehicles,PS
+4885,4885,25-44,1.0,Locals,No Degree,7000,1485867205.82,cars vehicles,PS
+4886,4886,45+,1.0,Locals,No Degree,1500,1485867205.82,cars vehicles,PS
+4887,4887,18-24,2.0,Locals,No Degree,1500,1485867205.82,cars vehicles,PS
+4888,4888,25-44,2.0,Locals,No Degree,2100,1485867205.82,cars vehicles,PS
+4889,4889,45+,2.0,Locals,No Degree,640,1485867205.82,cars vehicles,PS
+4890,4890,18-24,1.0,Locals,High School,12000,1485867205.82,cars vehicles,PS
+4891,4891,25-44,1.0,Locals,High School,6100,1485867205.82,cars vehicles,PS
+4892,4892,45+,1.0,Locals,High School,790,1485867205.82,cars vehicles,PS
+4893,4893,18-24,2.0,Locals,High School,4400,1485867205.82,cars vehicles,PS
+4894,4894,25-44,2.0,Locals,High School,1700,1485867205.82,cars vehicles,PS
+4895,4895,45+,2.0,Locals,High School,180,1485867205.82,cars vehicles,PS
+6732,6732,18-24,1.0,Expats,Graduated,14000,1485867205.82,mental disease depression,DZ
+6733,6733,25-44,1.0,Expats,Graduated,14000,1485867205.82,mental disease depression,DZ
+6734,6734,45+,1.0,Expats,Graduated,1900,1485867205.82,mental disease depression,DZ
+6735,6735,18-24,2.0,Expats,Graduated,5900,1485867205.82,mental disease depression,DZ
+6736,6736,25-44,2.0,Expats,Graduated,4000,1485867205.82,mental disease depression,DZ
+6737,6737,45+,2.0,Expats,Graduated,800,1485867205.82,mental disease depression,DZ
+6738,6738,18-24,1.0,Expats,No Degree,7100,1485867205.82,mental disease depression,DZ
+6739,6739,25-44,1.0,Expats,No Degree,12000,1485867205.82,mental disease depression,DZ
+6740,6740,45+,1.0,Expats,No Degree,2100,1485867205.82,mental disease depression,DZ
+6741,6741,18-24,2.0,Expats,No Degree,4100,1485867205.82,mental disease depression,DZ
+6742,6742,25-44,2.0,Expats,No Degree,4800,1485867205.82,mental disease depression,DZ
+6743,6743,45+,2.0,Expats,No Degree,1200,1485867205.82,mental disease depression,DZ
+6744,6744,18-24,1.0,Expats,High School,5100,1485867205.82,mental disease depression,DZ
+6745,6745,25-44,1.0,Expats,High School,3500,1485867205.82,mental disease depression,DZ
+6746,6746,45+,1.0,Expats,High School,570,1485867205.82,mental disease depression,DZ
+6747,6747,18-24,2.0,Expats,High School,2700,1485867205.82,mental disease depression,DZ
+6748,6748,25-44,2.0,Expats,High School,1200,1485867205.82,mental disease depression,DZ
+6749,6749,45+,2.0,Expats,High School,360,1485867205.82,mental disease depression,DZ
+6750,6750,18-24,1.0,Locals,Graduated,62000,1485867205.82,mental disease depression,DZ
+6751,6751,25-44,1.0,Locals,Graduated,100000,1485867205.82,mental disease depression,DZ
+6752,6752,45+,1.0,Locals,Graduated,11000,1485867205.82,mental disease depression,DZ
+6753,6753,18-24,2.0,Locals,Graduated,51000,1485867205.82,mental disease depression,DZ
+6754,6754,25-44,2.0,Locals,Graduated,61000,1485867205.82,mental disease depression,DZ
+6755,6755,45+,2.0,Locals,Graduated,5900,1485867205.82,mental disease depression,DZ
+6756,6756,18-24,1.0,Locals,No Degree,64000,1485867205.82,mental disease depression,DZ
+6757,6757,25-44,1.0,Locals,No Degree,130000,1485867205.82,mental disease depression,DZ
+6758,6758,45+,1.0,Locals,No Degree,18000,1485867205.82,mental disease depression,DZ
+6759,6759,18-24,2.0,Locals,No Degree,53000,1485867205.82,mental disease depression,DZ
+6760,6760,25-44,2.0,Locals,No Degree,72000,1485867205.82,mental disease depression,DZ
+6761,6761,45+,2.0,Locals,No Degree,11000,1485867205.82,mental disease depression,DZ
+6762,6762,18-24,1.0,Locals,High School,29000,1485867205.82,mental disease depression,DZ
+6763,6763,25-44,1.0,Locals,High School,30000,1485867205.82,mental disease depression,DZ
+6764,6764,45+,1.0,Locals,High School,4100,1485867205.82,mental disease depression,DZ
+6765,6765,18-24,2.0,Locals,High School,25000,1485867205.82,mental disease depression,DZ
+6766,6766,25-44,2.0,Locals,High School,15000,1485867205.82,mental disease depression,DZ
+6767,6767,45+,2.0,Locals,High School,2900,1485867205.82,mental disease depression,DZ
+6768,6768,18-24,1.0,Expats,Graduated,640,1485867205.82,mental disease depression,BH
+6769,6769,25-44,1.0,Expats,Graduated,1900,1485867205.82,mental disease depression,BH
+6770,6770,45+,1.0,Expats,Graduated,380,1485867205.82,mental disease depression,BH
+6771,6771,18-24,2.0,Expats,Graduated,470,1485867205.82,mental disease depression,BH
+6772,6772,25-44,2.0,Expats,Graduated,2900,1485867205.82,mental disease depression,BH
+6773,6773,45+,2.0,Expats,Graduated,540,1485867205.82,mental disease depression,BH
+6774,6774,18-24,1.0,Expats,No Degree,690,1485867205.82,mental disease depression,BH
+6775,6775,25-44,1.0,Expats,No Degree,1400,1485867205.82,mental disease depression,BH
+6776,6776,45+,1.0,Expats,No Degree,450,1485867205.82,mental disease depression,BH
+6777,6777,18-24,2.0,Expats,No Degree,320,1485867205.82,mental disease depression,BH
+6778,6778,25-44,2.0,Expats,No Degree,940,1485867205.82,mental disease depression,BH
+6779,6779,45+,2.0,Expats,No Degree,220,1485867205.82,mental disease depression,BH
+6780,6780,18-24,1.0,Expats,High School,350,1485867205.82,mental disease depression,BH
+6781,6781,25-44,1.0,Expats,High School,600,1485867205.82,mental disease depression,BH
+6782,6782,45+,1.0,Expats,High School,120,1485867205.82,mental disease depression,BH
+6783,6783,18-24,2.0,Expats,High School,260,1485867205.82,mental disease depression,BH
+6784,6784,25-44,2.0,Expats,High School,840,1485867205.82,mental disease depression,BH
+6785,6785,45+,2.0,Expats,High School,120,1485867205.82,mental disease depression,BH
+6786,6786,18-24,1.0,Locals,Graduated,130,1485867205.82,mental disease depression,BH
+6787,6787,25-44,1.0,Locals,Graduated,250,1485867205.82,mental disease depression,BH
+6788,6788,45+,1.0,Locals,Graduated,30,1485867205.82,mental disease depression,BH
+6789,6789,18-24,2.0,Locals,Graduated,180,1485867205.82,mental disease depression,BH
+6790,6790,25-44,2.0,Locals,Graduated,570,1485867205.82,mental disease depression,BH
+6791,6791,45+,2.0,Locals,Graduated,90,1485867205.82,mental disease depression,BH
+6792,6792,18-24,1.0,Locals,No Degree,80,1485867205.82,mental disease depression,BH
+6793,6793,25-44,1.0,Locals,No Degree,140,1485867205.82,mental disease depression,BH
+6794,6794,45+,1.0,Locals,No Degree,40,1485867205.82,mental disease depression,BH
+6795,6795,18-24,2.0,Locals,No Degree,170,1485867205.82,mental disease depression,BH
+6796,6796,25-44,2.0,Locals,No Degree,430,1485867205.82,mental disease depression,BH
+6797,6797,45+,2.0,Locals,No Degree,60,1485867205.82,mental disease depression,BH
+6798,6798,18-24,1.0,Locals,High School,70,1485867205.82,mental disease depression,BH
+6799,6799,25-44,1.0,Locals,High School,80,1485867205.82,mental disease depression,BH
+6800,6800,45+,1.0,Locals,High School,20,1485867205.82,mental disease depression,BH
+6801,6801,18-24,2.0,Locals,High School,130,1485867205.82,mental disease depression,BH
+6802,6802,25-44,2.0,Locals,High School,110,1485867205.82,mental disease depression,BH
+6803,6803,45+,2.0,Locals,High School,20,1485867205.82,mental disease depression,BH
+6804,6804,18-24,1.0,Expats,Graduated,10000,1485867205.82,mental disease depression,EG
+6805,6805,25-44,1.0,Expats,Graduated,16000,1485867205.82,mental disease depression,EG
+6806,6806,45+,1.0,Expats,Graduated,4200,1485867205.82,mental disease depression,EG
+6807,6807,18-24,2.0,Expats,Graduated,6200,1485867205.82,mental disease depression,EG
+6808,6808,25-44,2.0,Expats,Graduated,11000,1485867205.82,mental disease depression,EG
+6809,6809,45+,2.0,Expats,Graduated,1900,1485867205.82,mental disease depression,EG
+6810,6810,18-24,1.0,Expats,No Degree,4500,1485867205.82,mental disease depression,EG
+6811,6811,25-44,1.0,Expats,No Degree,7100,1485867205.82,mental disease depression,EG
+6812,6812,45+,1.0,Expats,No Degree,2800,1485867205.82,mental disease depression,EG
+6813,6813,18-24,2.0,Expats,No Degree,2800,1485867205.82,mental disease depression,EG
+6814,6814,25-44,2.0,Expats,No Degree,4000,1485867205.82,mental disease depression,EG
+6815,6815,45+,2.0,Expats,No Degree,1700,1485867205.82,mental disease depression,EG
+6816,6816,18-24,1.0,Expats,High School,6600,1485867205.82,mental disease depression,EG
+6817,6817,25-44,1.0,Expats,High School,3600,1485867205.82,mental disease depression,EG
+6818,6818,45+,1.0,Expats,High School,970,1485867205.82,mental disease depression,EG
+6819,6819,18-24,2.0,Expats,High School,5800,1485867205.82,mental disease depression,EG
+6820,6820,25-44,2.0,Expats,High School,2500,1485867205.82,mental disease depression,EG
+6821,6821,45+,2.0,Expats,High School,540,1485867205.82,mental disease depression,EG
+6822,6822,18-24,1.0,Locals,Graduated,190000,1485867205.82,mental disease depression,EG
+6823,6823,25-44,1.0,Locals,Graduated,320000,1485867205.82,mental disease depression,EG
+6824,6824,45+,1.0,Locals,Graduated,82000,1485867205.82,mental disease depression,EG
+6825,6825,18-24,2.0,Locals,Graduated,210000,1485867205.82,mental disease depression,EG
+6826,6826,25-44,2.0,Locals,Graduated,300000,1485867205.82,mental disease depression,EG
+6827,6827,45+,2.0,Locals,Graduated,42000,1485867205.82,mental disease depression,EG
+6828,6828,18-24,1.0,Locals,No Degree,96000,1485867205.82,mental disease depression,EG
+6829,6829,25-44,1.0,Locals,No Degree,180000,1485867205.82,mental disease depression,EG
+6830,6830,45+,1.0,Locals,No Degree,88000,1485867205.82,mental disease depression,EG
+6831,6831,18-24,2.0,Locals,No Degree,95000,1485867205.82,mental disease depression,EG
+6832,6832,25-44,2.0,Locals,No Degree,130000,1485867205.82,mental disease depression,EG
+6833,6833,45+,2.0,Locals,No Degree,60000,1485867205.82,mental disease depression,EG
+6834,6834,18-24,1.0,Locals,High School,130000,1485867205.82,mental disease depression,EG
+6835,6835,25-44,1.0,Locals,High School,69000,1485867205.82,mental disease depression,EG
+6836,6836,45+,1.0,Locals,High School,21000,1485867205.82,mental disease depression,EG
+6837,6837,18-24,2.0,Locals,High School,180000,1485867205.82,mental disease depression,EG
+6838,6838,25-44,2.0,Locals,High School,50000,1485867205.82,mental disease depression,EG
+6839,6839,45+,2.0,Locals,High School,9400,1485867205.82,mental disease depression,EG
+6840,6840,18-24,1.0,Expats,Graduated,8700,1485867205.82,mental disease depression,IQ
+6841,6841,25-44,1.0,Expats,Graduated,14000,1485867205.82,mental disease depression,IQ
+6842,6842,45+,1.0,Expats,Graduated,2400,1485867205.82,mental disease depression,IQ
+6843,6843,18-24,2.0,Expats,Graduated,630,1485867205.82,mental disease depression,IQ
+6844,6844,25-44,2.0,Expats,Graduated,1400,1485867205.82,mental disease depression,IQ
+6845,6845,45+,2.0,Expats,Graduated,260,1485867205.82,mental disease depression,IQ
+6846,6846,18-24,1.0,Expats,No Degree,8500,1485867205.82,mental disease depression,IQ
+6847,6847,25-44,1.0,Expats,No Degree,8600,1485867205.82,mental disease depression,IQ
+6848,6848,45+,1.0,Expats,No Degree,1900,1485867205.82,mental disease depression,IQ
+6849,6849,18-24,2.0,Expats,No Degree,1000,1485867205.82,mental disease depression,IQ
+6850,6850,25-44,2.0,Expats,No Degree,1600,1485867205.82,mental disease depression,IQ
+6851,6851,45+,2.0,Expats,No Degree,500,1485867205.82,mental disease depression,IQ
+6852,6852,18-24,1.0,Expats,High School,4000,1485867205.82,mental disease depression,IQ
+6853,6853,25-44,1.0,Expats,High School,3600,1485867205.82,mental disease depression,IQ
+6854,6854,45+,1.0,Expats,High School,720,1485867205.82,mental disease depression,IQ
+6855,6855,18-24,2.0,Expats,High School,590,1485867205.82,mental disease depression,IQ
+6856,6856,25-44,2.0,Expats,High School,440,1485867205.82,mental disease depression,IQ
+6857,6857,45+,2.0,Expats,High School,80,1485867205.82,mental disease depression,IQ
+6858,6858,18-24,1.0,Locals,Graduated,84000,1485867205.82,mental disease depression,IQ
+6859,6859,25-44,1.0,Locals,Graduated,140000,1485867205.82,mental disease depression,IQ
+6860,6860,45+,1.0,Locals,Graduated,25000,1485867205.82,mental disease depression,IQ
+6861,6861,18-24,2.0,Locals,Graduated,7000,1485867205.82,mental disease depression,IQ
+6862,6862,25-44,2.0,Locals,Graduated,15000,1485867205.82,mental disease depression,IQ
+6863,6863,45+,2.0,Locals,Graduated,4400,1485867205.82,mental disease depression,IQ
+6864,6864,18-24,1.0,Locals,No Degree,190000,1485867205.82,mental disease depression,IQ
+6865,6865,25-44,1.0,Locals,No Degree,180000,1485867205.82,mental disease depression,IQ
+6866,6866,45+,1.0,Locals,No Degree,48000,1485867205.82,mental disease depression,IQ
+6867,6867,18-24,2.0,Locals,No Degree,12000,1485867205.82,mental disease depression,IQ
+6868,6868,25-44,2.0,Locals,No Degree,17000,1485867205.82,mental disease depression,IQ
+6869,6869,45+,2.0,Locals,No Degree,9600,1485867205.82,mental disease depression,IQ
+6870,6870,18-24,1.0,Locals,High School,51000,1485867205.82,mental disease depression,IQ
+6871,6871,25-44,1.0,Locals,High School,44000,1485867205.82,mental disease depression,IQ
+6872,6872,45+,1.0,Locals,High School,8700,1485867205.82,mental disease depression,IQ
+6873,6873,18-24,2.0,Locals,High School,6400,1485867205.82,mental disease depression,IQ
+6874,6874,25-44,2.0,Locals,High School,4500,1485867205.82,mental disease depression,IQ
+6875,6875,45+,2.0,Locals,High School,1600,1485867205.82,mental disease depression,IQ
+6876,6876,18-24,1.0,Expats,Graduated,3000,1485867205.82,mental disease depression,JO
+6877,6877,25-44,1.0,Expats,Graduated,12000,1485867205.82,mental disease depression,JO
+6878,6878,45+,1.0,Expats,Graduated,2100,1485867205.82,mental disease depression,JO
+6879,6879,18-24,2.0,Expats,Graduated,2600,1485867205.82,mental disease depression,JO
+6880,6880,25-44,2.0,Expats,Graduated,9200,1485867205.82,mental disease depression,JO
+6881,6881,45+,2.0,Expats,Graduated,1900,1485867205.82,mental disease depression,JO
+6882,6882,18-24,1.0,Expats,No Degree,3900,1485867205.82,mental disease depression,JO
+6883,6883,25-44,1.0,Expats,No Degree,9500,1485867205.82,mental disease depression,JO
+6884,6884,45+,1.0,Expats,No Degree,2700,1485867205.82,mental disease depression,JO
+6885,6885,18-24,2.0,Expats,No Degree,1600,1485867205.82,mental disease depression,JO
+6886,6886,25-44,2.0,Expats,No Degree,5500,1485867205.82,mental disease depression,JO
+6887,6887,45+,2.0,Expats,No Degree,2400,1485867205.82,mental disease depression,JO
+6888,6888,18-24,1.0,Expats,High School,3000,1485867205.82,mental disease depression,JO
+6889,6889,25-44,1.0,Expats,High School,4100,1485867205.82,mental disease depression,JO
+6890,6890,45+,1.0,Expats,High School,690,1485867205.82,mental disease depression,JO
+6891,6891,18-24,2.0,Expats,High School,2700,1485867205.82,mental disease depression,JO
+6892,6892,25-44,2.0,Expats,High School,2800,1485867205.82,mental disease depression,JO
+6893,6893,45+,2.0,Expats,High School,630,1485867205.82,mental disease depression,JO
+6894,6894,18-24,1.0,Locals,Graduated,11000,1485867205.82,mental disease depression,JO
+6895,6895,25-44,1.0,Locals,Graduated,36000,1485867205.82,mental disease depression,JO
+6896,6896,45+,1.0,Locals,Graduated,6700,1485867205.82,mental disease depression,JO
+6897,6897,18-24,2.0,Locals,Graduated,7600,1485867205.82,mental disease depression,JO
+6898,6898,25-44,2.0,Locals,Graduated,30000,1485867205.82,mental disease depression,JO
+6899,6899,45+,2.0,Locals,Graduated,4100,1485867205.82,mental disease depression,JO
+6900,6900,18-24,1.0,Locals,No Degree,13000,1485867205.82,mental disease depression,JO
+6901,6901,25-44,1.0,Locals,No Degree,27000,1485867205.82,mental disease depression,JO
+6902,6902,45+,1.0,Locals,No Degree,9500,1485867205.82,mental disease depression,JO
+6903,6903,18-24,2.0,Locals,No Degree,7500,1485867205.82,mental disease depression,JO
+6904,6904,25-44,2.0,Locals,No Degree,23000,1485867205.82,mental disease depression,JO
+6905,6905,45+,2.0,Locals,No Degree,8600,1485867205.82,mental disease depression,JO
+6906,6906,18-24,1.0,Locals,High School,8800,1485867205.82,mental disease depression,JO
+6907,6907,25-44,1.0,Locals,High School,11000,1485867205.82,mental disease depression,JO
+6908,6908,45+,1.0,Locals,High School,2900,1485867205.82,mental disease depression,JO
+6909,6909,18-24,2.0,Locals,High School,8800,1485867205.82,mental disease depression,JO
+6910,6910,25-44,2.0,Locals,High School,8700,1485867205.82,mental disease depression,JO
+6911,6911,45+,2.0,Locals,High School,1600,1485867205.82,mental disease depression,JO
+6912,6912,18-24,1.0,Expats,Graduated,3400,1485867205.82,mental disease depression,KW
+6913,6913,25-44,1.0,Expats,Graduated,21000,1485867205.82,mental disease depression,KW
+6914,6914,45+,1.0,Expats,Graduated,2300,1485867205.82,mental disease depression,KW
+6915,6915,18-24,2.0,Expats,Graduated,1300,1485867205.82,mental disease depression,KW
+6916,6916,25-44,2.0,Expats,Graduated,12000,1485867205.82,mental disease depression,KW
+6917,6917,45+,2.0,Expats,Graduated,2400,1485867205.82,mental disease depression,KW
+6918,6918,18-24,1.0,Expats,No Degree,6300,1485867205.82,mental disease depression,KW
+6919,6919,25-44,1.0,Expats,No Degree,17000,1485867205.82,mental disease depression,KW
+6920,6920,45+,1.0,Expats,No Degree,3900,1485867205.82,mental disease depression,KW
+6921,6921,18-24,2.0,Expats,No Degree,1800,1485867205.82,mental disease depression,KW
+6922,6922,25-44,2.0,Expats,No Degree,6400,1485867205.82,mental disease depression,KW
+6923,6923,45+,2.0,Expats,No Degree,2700,1485867205.82,mental disease depression,KW
+6924,6924,18-24,1.0,Expats,High School,1600,1485867205.82,mental disease depression,KW
+6925,6925,25-44,1.0,Expats,High School,5600,1485867205.82,mental disease depression,KW
+6926,6926,45+,1.0,Expats,High School,820,1485867205.82,mental disease depression,KW
+6927,6927,18-24,2.0,Expats,High School,990,1485867205.82,mental disease depression,KW
+6928,6928,25-44,2.0,Expats,High School,3900,1485867205.82,mental disease depression,KW
+6929,6929,45+,2.0,Expats,High School,700,1485867205.82,mental disease depression,KW
+6930,6930,18-24,1.0,Locals,Graduated,170,1485867205.82,mental disease depression,KW
+6931,6931,25-44,1.0,Locals,Graduated,660,1485867205.82,mental disease depression,KW
+6932,6932,45+,1.0,Locals,Graduated,120,1485867205.82,mental disease depression,KW
+6933,6933,18-24,2.0,Locals,Graduated,90,1485867205.82,mental disease depression,KW
+6934,6934,25-44,2.0,Locals,Graduated,710,1485867205.82,mental disease depression,KW
+6935,6935,45+,2.0,Locals,Graduated,180,1485867205.82,mental disease depression,KW
+6936,6936,18-24,1.0,Locals,No Degree,180,1485867205.82,mental disease depression,KW
+6937,6937,25-44,1.0,Locals,No Degree,670,1485867205.82,mental disease depression,KW
+6938,6938,45+,1.0,Locals,No Degree,250,1485867205.82,mental disease depression,KW
+6939,6939,18-24,2.0,Locals,No Degree,180,1485867205.82,mental disease depression,KW
+6940,6940,25-44,2.0,Locals,No Degree,720,1485867205.82,mental disease depression,KW
+6941,6941,45+,2.0,Locals,No Degree,270,1485867205.82,mental disease depression,KW
+6942,6942,18-24,1.0,Locals,High School,110,1485867205.82,mental disease depression,KW
+6943,6943,25-44,1.0,Locals,High School,220,1485867205.82,mental disease depression,KW
+6944,6944,45+,1.0,Locals,High School,20,1485867205.82,mental disease depression,KW
+6945,6945,18-24,2.0,Locals,High School,40,1485867205.82,mental disease depression,KW
+6946,6946,25-44,2.0,Locals,High School,150,1485867205.82,mental disease depression,KW
+6947,6947,45+,2.0,Locals,High School,30,1485867205.82,mental disease depression,KW
+6948,6948,18-24,1.0,Expats,Graduated,2200,1485867205.82,mental disease depression,LB
+6949,6949,25-44,1.0,Expats,Graduated,6500,1485867205.82,mental disease depression,LB
+6950,6950,45+,1.0,Expats,Graduated,1400,1485867205.82,mental disease depression,LB
+6951,6951,18-24,2.0,Expats,Graduated,1500,1485867205.82,mental disease depression,LB
+6952,6952,25-44,2.0,Expats,Graduated,5100,1485867205.82,mental disease depression,LB
+6953,6953,45+,2.0,Expats,Graduated,1700,1485867205.82,mental disease depression,LB
+6954,6954,18-24,1.0,Expats,No Degree,3600,1485867205.82,mental disease depression,LB
+6955,6955,25-44,1.0,Expats,No Degree,8000,1485867205.82,mental disease depression,LB
+6956,6956,45+,1.0,Expats,No Degree,2200,1485867205.82,mental disease depression,LB
+6957,6957,18-24,2.0,Expats,No Degree,1800,1485867205.82,mental disease depression,LB
+6958,6958,25-44,2.0,Expats,No Degree,4700,1485867205.82,mental disease depression,LB
+6959,6959,45+,2.0,Expats,No Degree,2300,1485867205.82,mental disease depression,LB
+6960,6960,18-24,1.0,Expats,High School,1600,1485867205.82,mental disease depression,LB
+6961,6961,25-44,1.0,Expats,High School,2500,1485867205.82,mental disease depression,LB
+6962,6962,45+,1.0,Expats,High School,720,1485867205.82,mental disease depression,LB
+6963,6963,18-24,2.0,Expats,High School,1100,1485867205.82,mental disease depression,LB
+6964,6964,25-44,2.0,Expats,High School,1900,1485867205.82,mental disease depression,LB
+6965,6965,45+,2.0,Expats,High School,790,1485867205.82,mental disease depression,LB
+6966,6966,18-24,1.0,Locals,Graduated,7100,1485867205.82,mental disease depression,LB
+6967,6967,25-44,1.0,Locals,Graduated,24000,1485867205.82,mental disease depression,LB
+6968,6968,45+,1.0,Locals,Graduated,9200,1485867205.82,mental disease depression,LB
+6969,6969,18-24,2.0,Locals,Graduated,13000,1485867205.82,mental disease depression,LB
+6970,6970,25-44,2.0,Locals,Graduated,42000,1485867205.82,mental disease depression,LB
+6971,6971,45+,2.0,Locals,Graduated,12000,1485867205.82,mental disease depression,LB
+6972,6972,18-24,1.0,Locals,No Degree,9300,1485867205.82,mental disease depression,LB
+6973,6973,25-44,1.0,Locals,No Degree,26000,1485867205.82,mental disease depression,LB
+6974,6974,45+,1.0,Locals,No Degree,19000,1485867205.82,mental disease depression,LB
+6975,6975,18-24,2.0,Locals,No Degree,11000,1485867205.82,mental disease depression,LB
+6976,6976,25-44,2.0,Locals,No Degree,41000,1485867205.82,mental disease depression,LB
+6977,6977,45+,2.0,Locals,No Degree,31000,1485867205.82,mental disease depression,LB
+6978,6978,18-24,1.0,Locals,High School,5700,1485867205.82,mental disease depression,LB
+6979,6979,25-44,1.0,Locals,High School,6600,1485867205.82,mental disease depression,LB
+6980,6980,45+,1.0,Locals,High School,2900,1485867205.82,mental disease depression,LB
+6981,6981,18-24,2.0,Locals,High School,11000,1485867205.82,mental disease depression,LB
+6982,6982,25-44,2.0,Locals,High School,10000,1485867205.82,mental disease depression,LB
+6983,6983,45+,2.0,Locals,High School,4700,1485867205.82,mental disease depression,LB
+6984,6984,18-24,1.0,Expats,Graduated,2100,1485867205.82,mental disease depression,LY
+6985,6985,25-44,1.0,Expats,Graduated,6100,1485867205.82,mental disease depression,LY
+6986,6986,45+,1.0,Expats,Graduated,860,1485867205.82,mental disease depression,LY
+6987,6987,18-24,2.0,Expats,Graduated,780,1485867205.82,mental disease depression,LY
+6988,6988,25-44,2.0,Expats,Graduated,1900,1485867205.82,mental disease depression,LY
+6989,6989,45+,2.0,Expats,Graduated,450,1485867205.82,mental disease depression,LY
+6990,6990,18-24,1.0,Expats,No Degree,2700,1485867205.82,mental disease depression,LY
+6991,6991,25-44,1.0,Expats,No Degree,7000,1485867205.82,mental disease depression,LY
+6992,6992,45+,1.0,Expats,No Degree,1400,1485867205.82,mental disease depression,LY
+6993,6993,18-24,2.0,Expats,No Degree,850,1485867205.82,mental disease depression,LY
+6994,6994,25-44,2.0,Expats,No Degree,1900,1485867205.82,mental disease depression,LY
+6995,6995,45+,2.0,Expats,No Degree,620,1485867205.82,mental disease depression,LY
+6996,6996,18-24,1.0,Expats,High School,880,1485867205.82,mental disease depression,LY
+6997,6997,25-44,1.0,Expats,High School,1700,1485867205.82,mental disease depression,LY
+6998,6998,45+,1.0,Expats,High School,270,1485867205.82,mental disease depression,LY
+6999,6999,18-24,2.0,Expats,High School,560,1485867205.82,mental disease depression,LY
+7000,7000,25-44,2.0,Expats,High School,510,1485867205.82,mental disease depression,LY
+7001,7001,45+,2.0,Expats,High School,140,1485867205.82,mental disease depression,LY
+7002,7002,18-24,1.0,Locals,Graduated,12000,1485867205.82,mental disease depression,LY
+7003,7003,25-44,1.0,Locals,Graduated,30000,1485867205.82,mental disease depression,LY
+7004,7004,45+,1.0,Locals,Graduated,4800,1485867205.82,mental disease depression,LY
+7005,7005,18-24,2.0,Locals,Graduated,9200,1485867205.82,mental disease depression,LY
+7006,7006,25-44,2.0,Locals,Graduated,20000,1485867205.82,mental disease depression,LY
+7007,7007,45+,2.0,Locals,Graduated,3200,1485867205.82,mental disease depression,LY
+7008,7008,18-24,1.0,Locals,No Degree,9500,1485867205.82,mental disease depression,LY
+7009,7009,25-44,1.0,Locals,No Degree,24000,1485867205.82,mental disease depression,LY
+7010,7010,45+,1.0,Locals,No Degree,6600,1485867205.82,mental disease depression,LY
+7011,7011,18-24,2.0,Locals,No Degree,7800,1485867205.82,mental disease depression,LY
+7012,7012,25-44,2.0,Locals,No Degree,19000,1485867205.82,mental disease depression,LY
+7013,7013,45+,2.0,Locals,No Degree,6500,1485867205.82,mental disease depression,LY
+7014,7014,18-24,1.0,Locals,High School,7400,1485867205.82,mental disease depression,LY
+7015,7015,25-44,1.0,Locals,High School,7000,1485867205.82,mental disease depression,LY
+7016,7016,45+,1.0,Locals,High School,1600,1485867205.82,mental disease depression,LY
+7017,7017,18-24,2.0,Locals,High School,7600,1485867205.82,mental disease depression,LY
+7018,7018,25-44,2.0,Locals,High School,4700,1485867205.82,mental disease depression,LY
+7019,7019,45+,2.0,Locals,High School,1000,1485867205.82,mental disease depression,LY
+7020,7020,18-24,1.0,Expats,Graduated,22000,1485867205.82,mental disease depression,MA
+7021,7021,25-44,1.0,Expats,Graduated,27000,1485867205.82,mental disease depression,MA
+7022,7022,45+,1.0,Expats,Graduated,6200,1485867205.82,mental disease depression,MA
+7023,7023,18-24,2.0,Expats,Graduated,5800,1485867205.82,mental disease depression,MA
+7024,7024,25-44,2.0,Expats,Graduated,8200,1485867205.82,mental disease depression,MA
+7025,7025,45+,2.0,Expats,Graduated,2200,1485867205.82,mental disease depression,MA
+7026,7026,18-24,1.0,Expats,No Degree,8400,1485867205.82,mental disease depression,MA
+7027,7027,25-44,1.0,Expats,No Degree,19000,1485867205.82,mental disease depression,MA
+7028,7028,45+,1.0,Expats,No Degree,5700,1485867205.82,mental disease depression,MA
+7029,7029,18-24,2.0,Expats,No Degree,3700,1485867205.82,mental disease depression,MA
+7030,7030,25-44,2.0,Expats,No Degree,7200,1485867205.82,mental disease depression,MA
+7031,7031,45+,2.0,Expats,No Degree,2100,1485867205.82,mental disease depression,MA
+7032,7032,18-24,1.0,Expats,High School,7700,1485867205.82,mental disease depression,MA
+7033,7033,25-44,1.0,Expats,High School,7600,1485867205.82,mental disease depression,MA
+7034,7034,45+,1.0,Expats,High School,2000,1485867205.82,mental disease depression,MA
+7035,7035,18-24,2.0,Expats,High School,2400,1485867205.82,mental disease depression,MA
+7036,7036,25-44,2.0,Expats,High School,2300,1485867205.82,mental disease depression,MA
+7037,7037,45+,2.0,Expats,High School,920,1485867205.82,mental disease depression,MA
+7038,7038,18-24,1.0,Locals,Graduated,150000,1485867205.82,mental disease depression,MA
+7039,7039,25-44,1.0,Locals,Graduated,250000,1485867205.82,mental disease depression,MA
+7040,7040,45+,1.0,Locals,Graduated,67000,1485867205.82,mental disease depression,MA
+7041,7041,18-24,2.0,Locals,Graduated,70000,1485867205.82,mental disease depression,MA
+7042,7042,25-44,2.0,Locals,Graduated,92000,1485867205.82,mental disease depression,MA
+7043,7043,45+,2.0,Locals,Graduated,22000,1485867205.82,mental disease depression,MA
+7044,7044,18-24,1.0,Locals,No Degree,120000,1485867205.82,mental disease depression,MA
+7045,7045,25-44,1.0,Locals,No Degree,350000,1485867205.82,mental disease depression,MA
+7046,7046,45+,1.0,Locals,No Degree,120000,1485867205.82,mental disease depression,MA
+7047,7047,18-24,2.0,Locals,No Degree,62000,1485867205.82,mental disease depression,MA
+7048,7048,25-44,2.0,Locals,No Degree,110000,1485867205.82,mental disease depression,MA
+7049,7049,45+,2.0,Locals,No Degree,43000,1485867205.82,mental disease depression,MA
+7050,7050,18-24,1.0,Locals,High School,56000,1485867205.82,mental disease depression,MA
+7051,7051,25-44,1.0,Locals,High School,72000,1485867205.82,mental disease depression,MA
+7052,7052,45+,1.0,Locals,High School,24000,1485867205.82,mental disease depression,MA
+7053,7053,18-24,2.0,Locals,High School,33000,1485867205.82,mental disease depression,MA
+7054,7054,25-44,2.0,Locals,High School,26000,1485867205.82,mental disease depression,MA
+7055,7055,45+,2.0,Locals,High School,9100,1485867205.82,mental disease depression,MA
+7056,7056,18-24,1.0,Expats,Graduated,960,1485867205.82,mental disease depression,OM
+7057,7057,25-44,1.0,Expats,Graduated,3600,1485867205.82,mental disease depression,OM
+7058,7058,45+,1.0,Expats,Graduated,670,1485867205.82,mental disease depression,OM
+7059,7059,18-24,2.0,Expats,Graduated,370,1485867205.82,mental disease depression,OM
+7060,7060,25-44,2.0,Expats,Graduated,3300,1485867205.82,mental disease depression,OM
+7061,7061,45+,2.0,Expats,Graduated,450,1485867205.82,mental disease depression,OM
+7062,7062,18-24,1.0,Expats,No Degree,2100,1485867205.82,mental disease depression,OM
+7063,7063,25-44,1.0,Expats,No Degree,3900,1485867205.82,mental disease depression,OM
+7064,7064,45+,1.0,Expats,No Degree,580,1485867205.82,mental disease depression,OM
+7065,7065,18-24,2.0,Expats,No Degree,550,1485867205.82,mental disease depression,OM
+7066,7066,25-44,2.0,Expats,No Degree,1900,1485867205.82,mental disease depression,OM
+7067,7067,45+,2.0,Expats,No Degree,360,1485867205.82,mental disease depression,OM
+7068,7068,18-24,1.0,Expats,High School,340,1485867205.82,mental disease depression,OM
+7069,7069,25-44,1.0,Expats,High School,910,1485867205.82,mental disease depression,OM
+7070,7070,45+,1.0,Expats,High School,150,1485867205.82,mental disease depression,OM
+7071,7071,18-24,2.0,Expats,High School,210,1485867205.82,mental disease depression,OM
+7072,7072,25-44,2.0,Expats,High School,690,1485867205.82,mental disease depression,OM
+7073,7073,45+,2.0,Expats,High School,80,1485867205.82,mental disease depression,OM
+7074,7074,18-24,1.0,Locals,Graduated,150,1485867205.82,mental disease depression,OM
+7075,7075,25-44,1.0,Locals,Graduated,630,1485867205.82,mental disease depression,OM
+7076,7076,45+,1.0,Locals,Graduated,50,1485867205.82,mental disease depression,OM
+7077,7077,18-24,2.0,Locals,Graduated,90,1485867205.82,mental disease depression,OM
+7078,7078,25-44,2.0,Locals,Graduated,360,1485867205.82,mental disease depression,OM
+7079,7079,45+,2.0,Locals,Graduated,20,1485867205.82,mental disease depression,OM
+7080,7080,18-24,1.0,Locals,No Degree,270,1485867205.82,mental disease depression,OM
+7081,7081,25-44,1.0,Locals,No Degree,630,1485867205.82,mental disease depression,OM
+7082,7082,45+,1.0,Locals,No Degree,110,1485867205.82,mental disease depression,OM
+7083,7083,18-24,2.0,Locals,No Degree,200,1485867205.82,mental disease depression,OM
+7084,7084,25-44,2.0,Locals,No Degree,450,1485867205.82,mental disease depression,OM
+7085,7085,45+,2.0,Locals,No Degree,30,1485867205.82,mental disease depression,OM
+7086,7086,18-24,1.0,Locals,High School,90,1485867205.82,mental disease depression,OM
+7087,7087,25-44,1.0,Locals,High School,180,1485867205.82,mental disease depression,OM
+7088,7088,45+,1.0,Locals,High School,20,1485867205.82,mental disease depression,OM
+7089,7089,18-24,2.0,Locals,High School,20,1485867205.82,mental disease depression,OM
+7090,7090,25-44,2.0,Locals,High School,60,1485867205.82,mental disease depression,OM
+7091,7091,45+,2.0,Locals,High School,20,1485867205.82,mental disease depression,OM
+7092,7092,18-24,1.0,Expats,Graduated,6000,1485867205.82,mental disease depression,QA
+7093,7093,25-44,1.0,Expats,Graduated,24000,1485867205.82,mental disease depression,QA
+7094,7094,45+,1.0,Expats,Graduated,3200,1485867205.82,mental disease depression,QA
+7095,7095,18-24,2.0,Expats,Graduated,1600,1485867205.82,mental disease depression,QA
+7096,7096,25-44,2.0,Expats,Graduated,12000,1485867205.82,mental disease depression,QA
+7097,7097,45+,2.0,Expats,Graduated,1500,1485867205.82,mental disease depression,QA
+7098,7098,18-24,1.0,Expats,No Degree,4400,1485867205.82,mental disease depression,QA
+7099,7099,25-44,1.0,Expats,No Degree,10000,1485867205.82,mental disease depression,QA
+7100,7100,45+,1.0,Expats,No Degree,1600,1485867205.82,mental disease depression,QA
+7101,7101,18-24,2.0,Expats,No Degree,980,1485867205.82,mental disease depression,QA
+7102,7102,25-44,2.0,Expats,No Degree,3800,1485867205.82,mental disease depression,QA
+7103,7103,45+,2.0,Expats,No Degree,1000,1485867205.82,mental disease depression,QA
+7104,7104,18-24,1.0,Expats,High School,2100,1485867205.82,mental disease depression,QA
+7105,7105,25-44,1.0,Expats,High School,5100,1485867205.82,mental disease depression,QA
+7106,7106,45+,1.0,Expats,High School,810,1485867205.82,mental disease depression,QA
+7107,7107,18-24,2.0,Expats,High School,950,1485867205.82,mental disease depression,QA
+7108,7108,25-44,2.0,Expats,High School,2600,1485867205.82,mental disease depression,QA
+7109,7109,45+,2.0,Expats,High School,400,1485867205.82,mental disease depression,QA
+7110,7110,18-24,1.0,Locals,Graduated,170,1485867205.82,mental disease depression,QA
+7111,7111,25-44,1.0,Locals,Graduated,290,1485867205.82,mental disease depression,QA
+7112,7112,45+,1.0,Locals,Graduated,20,1485867205.82,mental disease depression,QA
+7113,7113,18-24,2.0,Locals,Graduated,50,1485867205.82,mental disease depression,QA
+7114,7114,25-44,2.0,Locals,Graduated,310,1485867205.82,mental disease depression,QA
+7115,7115,45+,2.0,Locals,Graduated,20,1485867205.82,mental disease depression,QA
+7116,7116,18-24,1.0,Locals,No Degree,70,1485867205.82,mental disease depression,QA
+7117,7117,25-44,1.0,Locals,No Degree,200,1485867205.82,mental disease depression,QA
+7118,7118,45+,1.0,Locals,No Degree,20,1485867205.82,mental disease depression,QA
+7119,7119,18-24,2.0,Locals,No Degree,100,1485867205.82,mental disease depression,QA
+7120,7120,25-44,2.0,Locals,No Degree,190,1485867205.82,mental disease depression,QA
+7121,7121,45+,2.0,Locals,No Degree,20,1485867205.82,mental disease depression,QA
+7122,7122,18-24,1.0,Locals,High School,30,1485867205.82,mental disease depression,QA
+7123,7123,25-44,1.0,Locals,High School,120,1485867205.82,mental disease depression,QA
+7124,7124,45+,1.0,Locals,High School,20,1485867205.82,mental disease depression,QA
+7125,7125,18-24,2.0,Locals,High School,80,1485867205.82,mental disease depression,QA
+7126,7126,25-44,2.0,Locals,High School,50,1485867205.82,mental disease depression,QA
+7127,7127,45+,2.0,Locals,High School,20,1485867205.82,mental disease depression,QA
+7128,7128,18-24,1.0,Expats,Graduated,13000,1485867205.82,mental disease depression,SA
+7129,7129,25-44,1.0,Expats,Graduated,69000,1485867205.82,mental disease depression,SA
+7130,7130,45+,1.0,Expats,Graduated,11000,1485867205.82,mental disease depression,SA
+7131,7131,18-24,2.0,Expats,Graduated,7700,1485867205.82,mental disease depression,SA
+7132,7132,25-44,2.0,Expats,Graduated,39000,1485867205.82,mental disease depression,SA
+7133,7133,45+,2.0,Expats,Graduated,5700,1485867205.82,mental disease depression,SA
+7134,7134,18-24,1.0,Expats,No Degree,3800,1485867205.82,mental disease depression,SA
+7135,7135,25-44,1.0,Expats,No Degree,12000,1485867205.82,mental disease depression,SA
+7136,7136,45+,1.0,Expats,No Degree,2500,1485867205.82,mental disease depression,SA
+7137,7137,18-24,2.0,Expats,No Degree,3200,1485867205.82,mental disease depression,SA
+7138,7138,25-44,2.0,Expats,No Degree,8200,1485867205.82,mental disease depression,SA
+7139,7139,45+,2.0,Expats,No Degree,2000,1485867205.82,mental disease depression,SA
+7140,7140,18-24,1.0,Expats,High School,4900,1485867205.82,mental disease depression,SA
+7141,7141,25-44,1.0,Expats,High School,15000,1485867205.82,mental disease depression,SA
+7142,7142,45+,1.0,Expats,High School,2400,1485867205.82,mental disease depression,SA
+7143,7143,18-24,2.0,Expats,High School,4400,1485867205.82,mental disease depression,SA
+7144,7144,25-44,2.0,Expats,High School,9500,1485867205.82,mental disease depression,SA
+7145,7145,45+,2.0,Expats,High School,1500,1485867205.82,mental disease depression,SA
+7146,7146,18-24,1.0,Locals,Graduated,5400,1485867205.82,mental disease depression,SA
+7147,7147,25-44,1.0,Locals,Graduated,23000,1485867205.82,mental disease depression,SA
+7148,7148,45+,1.0,Locals,Graduated,4400,1485867205.82,mental disease depression,SA
+7149,7149,18-24,2.0,Locals,Graduated,3400,1485867205.82,mental disease depression,SA
+7150,7150,25-44,2.0,Locals,Graduated,12000,1485867205.82,mental disease depression,SA
+7151,7151,45+,2.0,Locals,Graduated,1900,1485867205.82,mental disease depression,SA
+7152,7152,18-24,1.0,Locals,No Degree,28000,1485867205.82,mental disease depression,SA
+7153,7153,25-44,1.0,Locals,No Degree,56000,1485867205.82,mental disease depression,SA
+7154,7154,45+,1.0,Locals,No Degree,11000,1485867205.82,mental disease depression,SA
+7155,7155,18-24,2.0,Locals,No Degree,9800,1485867205.82,mental disease depression,SA
+7156,7156,25-44,2.0,Locals,No Degree,19000,1485867205.82,mental disease depression,SA
+7157,7157,45+,2.0,Locals,No Degree,5500,1485867205.82,mental disease depression,SA
+7158,7158,18-24,1.0,Locals,High School,2800,1485867205.82,mental disease depression,SA
+7159,7159,25-44,1.0,Locals,High School,8200,1485867205.82,mental disease depression,SA
+7160,7160,45+,1.0,Locals,High School,1600,1485867205.82,mental disease depression,SA
+7161,7161,18-24,2.0,Locals,High School,2300,1485867205.82,mental disease depression,SA
+7162,7162,25-44,2.0,Locals,High School,3800,1485867205.82,mental disease depression,SA
+7163,7163,45+,2.0,Locals,High School,670,1485867205.82,mental disease depression,SA
+7164,7164,18-24,1.0,Expats,Graduated,1400,1485867205.82,mental disease depression,SO
+7165,7165,25-44,1.0,Expats,Graduated,1200,1485867205.82,mental disease depression,SO
+7166,7166,45+,1.0,Expats,Graduated,180,1485867205.82,mental disease depression,SO
+7167,7167,18-24,2.0,Expats,Graduated,550,1485867205.82,mental disease depression,SO
+7168,7168,25-44,2.0,Expats,Graduated,400,1485867205.82,mental disease depression,SO
+7169,7169,45+,2.0,Expats,Graduated,90,1485867205.82,mental disease depression,SO
+7170,7170,18-24,1.0,Expats,No Degree,430,1485867205.82,mental disease depression,SO
+7171,7171,25-44,1.0,Expats,No Degree,740,1485867205.82,mental disease depression,SO
+7172,7172,45+,1.0,Expats,No Degree,180,1485867205.82,mental disease depression,SO
+7173,7173,18-24,2.0,Expats,No Degree,380,1485867205.82,mental disease depression,SO
+7174,7174,25-44,2.0,Expats,No Degree,230,1485867205.82,mental disease depression,SO
+7175,7175,45+,2.0,Expats,No Degree,30,1485867205.82,mental disease depression,SO
+7176,7176,18-24,1.0,Expats,High School,450,1485867205.82,mental disease depression,SO
+7177,7177,25-44,1.0,Expats,High School,270,1485867205.82,mental disease depression,SO
+7178,7178,45+,1.0,Expats,High School,80,1485867205.82,mental disease depression,SO
+7179,7179,18-24,2.0,Expats,High School,250,1485867205.82,mental disease depression,SO
+7180,7180,25-44,2.0,Expats,High School,80,1485867205.82,mental disease depression,SO
+7181,7181,45+,2.0,Expats,High School,20,1485867205.82,mental disease depression,SO
+7182,7182,18-24,1.0,Locals,Graduated,4900,1485867205.82,mental disease depression,SO
+7183,7183,25-44,1.0,Locals,Graduated,4300,1485867205.82,mental disease depression,SO
+7184,7184,45+,1.0,Locals,Graduated,280,1485867205.82,mental disease depression,SO
+7185,7185,18-24,2.0,Locals,Graduated,2900,1485867205.82,mental disease depression,SO
+7186,7186,25-44,2.0,Locals,Graduated,1500,1485867205.82,mental disease depression,SO
+7187,7187,45+,2.0,Locals,Graduated,150,1485867205.82,mental disease depression,SO
+7188,7188,18-24,1.0,Locals,No Degree,8000,1485867205.82,mental disease depression,SO
+7189,7189,25-44,1.0,Locals,No Degree,4900,1485867205.82,mental disease depression,SO
+7190,7190,45+,1.0,Locals,No Degree,890,1485867205.82,mental disease depression,SO
+7191,7191,18-24,2.0,Locals,No Degree,8300,1485867205.82,mental disease depression,SO
+7192,7192,25-44,2.0,Locals,No Degree,3500,1485867205.82,mental disease depression,SO
+7193,7193,45+,2.0,Locals,No Degree,440,1485867205.82,mental disease depression,SO
+7194,7194,18-24,1.0,Locals,High School,2000,1485867205.82,mental disease depression,SO
+7195,7195,25-44,1.0,Locals,High School,880,1485867205.82,mental disease depression,SO
+7196,7196,45+,1.0,Locals,High School,100,1485867205.82,mental disease depression,SO
+7197,7197,18-24,2.0,Locals,High School,1400,1485867205.82,mental disease depression,SO
+7198,7198,25-44,2.0,Locals,High School,400,1485867205.82,mental disease depression,SO
+7199,7199,45+,2.0,Locals,High School,110,1485867205.82,mental disease depression,SO
+7200,7200,18-24,1.0,Expats,Graduated,5000,1485867205.82,mental disease depression,TN
+7201,7201,25-44,1.0,Expats,Graduated,4600,1485867205.82,mental disease depression,TN
+7202,7202,45+,1.0,Expats,Graduated,1300,1485867205.82,mental disease depression,TN
+7203,7203,18-24,2.0,Expats,Graduated,3100,1485867205.82,mental disease depression,TN
+7204,7204,25-44,2.0,Expats,Graduated,2700,1485867205.82,mental disease depression,TN
+7205,7205,45+,2.0,Expats,Graduated,600,1485867205.82,mental disease depression,TN
+7206,7206,18-24,1.0,Expats,No Degree,2000,1485867205.82,mental disease depression,TN
+7207,7207,25-44,1.0,Expats,No Degree,2900,1485867205.82,mental disease depression,TN
+7208,7208,45+,1.0,Expats,No Degree,780,1485867205.82,mental disease depression,TN
+7209,7209,18-24,2.0,Expats,No Degree,1800,1485867205.82,mental disease depression,TN
+7210,7210,25-44,2.0,Expats,No Degree,1800,1485867205.82,mental disease depression,TN
+7211,7211,45+,2.0,Expats,No Degree,540,1485867205.82,mental disease depression,TN
+7212,7212,18-24,1.0,Expats,High School,2200,1485867205.82,mental disease depression,TN
+7213,7213,25-44,1.0,Expats,High School,1200,1485867205.82,mental disease depression,TN
+7214,7214,45+,1.0,Expats,High School,310,1485867205.82,mental disease depression,TN
+7215,7215,18-24,2.0,Expats,High School,1700,1485867205.82,mental disease depression,TN
+7216,7216,25-44,2.0,Expats,High School,920,1485867205.82,mental disease depression,TN
+7217,7217,45+,2.0,Expats,High School,330,1485867205.82,mental disease depression,TN
+7218,7218,18-24,1.0,Locals,Graduated,28000,1485867205.82,mental disease depression,TN
+7219,7219,25-44,1.0,Locals,Graduated,42000,1485867205.82,mental disease depression,TN
+7220,7220,45+,1.0,Locals,Graduated,8700,1485867205.82,mental disease depression,TN
+7221,7221,18-24,2.0,Locals,Graduated,46000,1485867205.82,mental disease depression,TN
+7222,7222,25-44,2.0,Locals,Graduated,51000,1485867205.82,mental disease depression,TN
+7223,7223,45+,2.0,Locals,Graduated,5200,1485867205.82,mental disease depression,TN
+7224,7224,18-24,1.0,Locals,No Degree,21000,1485867205.82,mental disease depression,TN
+7225,7225,25-44,1.0,Locals,No Degree,35000,1485867205.82,mental disease depression,TN
+7226,7226,45+,1.0,Locals,No Degree,9000,1485867205.82,mental disease depression,TN
+7227,7227,18-24,2.0,Locals,No Degree,34000,1485867205.82,mental disease depression,TN
+7228,7228,25-44,2.0,Locals,No Degree,29000,1485867205.82,mental disease depression,TN
+7229,7229,45+,2.0,Locals,No Degree,6200,1485867205.82,mental disease depression,TN
+7230,7230,18-24,1.0,Locals,High School,15000,1485867205.82,mental disease depression,TN
+7231,7231,25-44,1.0,Locals,High School,14000,1485867205.82,mental disease depression,TN
+7232,7232,45+,1.0,Locals,High School,3600,1485867205.82,mental disease depression,TN
+7233,7233,18-24,2.0,Locals,High School,28000,1485867205.82,mental disease depression,TN
+7234,7234,25-44,2.0,Locals,High School,12000,1485867205.82,mental disease depression,TN
+7235,7235,45+,2.0,Locals,High School,2500,1485867205.82,mental disease depression,TN
+7236,7236,18-24,1.0,Expats,Graduated,10000,1485867205.82,mental disease depression,AE
+7237,7237,25-44,1.0,Expats,Graduated,38000,1485867205.82,mental disease depression,AE
+7238,7238,45+,1.0,Expats,Graduated,6200,1485867205.82,mental disease depression,AE
+7239,7239,18-24,2.0,Expats,Graduated,5800,1485867205.82,mental disease depression,AE
+7240,7240,25-44,2.0,Expats,Graduated,53000,1485867205.82,mental disease depression,AE
+7241,7241,45+,2.0,Expats,Graduated,8900,1485867205.82,mental disease depression,AE
+7242,7242,18-24,1.0,Expats,No Degree,9100,1485867205.82,mental disease depression,AE
+7243,7243,25-44,1.0,Expats,No Degree,27000,1485867205.82,mental disease depression,AE
+7244,7244,45+,1.0,Expats,No Degree,5400,1485867205.82,mental disease depression,AE
+7245,7245,18-24,2.0,Expats,No Degree,2400,1485867205.82,mental disease depression,AE
+7246,7246,25-44,2.0,Expats,No Degree,17000,1485867205.82,mental disease depression,AE
+7247,7247,45+,2.0,Expats,No Degree,5800,1485867205.82,mental disease depression,AE
+7248,7248,18-24,1.0,Expats,High School,4100,1485867205.82,mental disease depression,AE
+7249,7249,25-44,1.0,Expats,High School,8500,1485867205.82,mental disease depression,AE
+7250,7250,45+,1.0,Expats,High School,1700,1485867205.82,mental disease depression,AE
+7251,7251,18-24,2.0,Expats,High School,3500,1485867205.82,mental disease depression,AE
+7252,7252,25-44,2.0,Expats,High School,11000,1485867205.82,mental disease depression,AE
+7253,7253,45+,2.0,Expats,High School,2600,1485867205.82,mental disease depression,AE
+7254,7254,18-24,1.0,Locals,Graduated,490,1485867205.82,mental disease depression,AE
+7255,7255,25-44,1.0,Locals,Graduated,1100,1485867205.82,mental disease depression,AE
+7256,7256,45+,1.0,Locals,Graduated,190,1485867205.82,mental disease depression,AE
+7257,7257,18-24,2.0,Locals,Graduated,350,1485867205.82,mental disease depression,AE
+7258,7258,25-44,2.0,Locals,Graduated,900,1485867205.82,mental disease depression,AE
+7259,7259,45+,2.0,Locals,Graduated,90,1485867205.82,mental disease depression,AE
+7260,7260,18-24,1.0,Locals,No Degree,480,1485867205.82,mental disease depression,AE
+7261,7261,25-44,1.0,Locals,No Degree,1100,1485867205.82,mental disease depression,AE
+7262,7262,45+,1.0,Locals,No Degree,210,1485867205.82,mental disease depression,AE
+7263,7263,18-24,2.0,Locals,No Degree,260,1485867205.82,mental disease depression,AE
+7264,7264,25-44,2.0,Locals,No Degree,630,1485867205.82,mental disease depression,AE
+7265,7265,45+,2.0,Locals,No Degree,160,1485867205.82,mental disease depression,AE
+7266,7266,18-24,1.0,Locals,High School,160,1485867205.82,mental disease depression,AE
+7267,7267,25-44,1.0,Locals,High School,320,1485867205.82,mental disease depression,AE
+7268,7268,45+,1.0,Locals,High School,80,1485867205.82,mental disease depression,AE
+7269,7269,18-24,2.0,Locals,High School,180,1485867205.82,mental disease depression,AE
+7270,7270,25-44,2.0,Locals,High School,170,1485867205.82,mental disease depression,AE
+7271,7271,45+,2.0,Locals,High School,40,1485867205.82,mental disease depression,AE
+7272,7272,18-24,1.0,Expats,Graduated,2400,1485867205.82,mental disease depression,YE
+7273,7273,25-44,1.0,Expats,Graduated,4200,1485867205.82,mental disease depression,YE
+7274,7274,45+,1.0,Expats,Graduated,360,1485867205.82,mental disease depression,YE
+7275,7275,18-24,2.0,Expats,Graduated,360,1485867205.82,mental disease depression,YE
+7276,7276,25-44,2.0,Expats,Graduated,680,1485867205.82,mental disease depression,YE
+7277,7277,45+,2.0,Expats,Graduated,80,1485867205.82,mental disease depression,YE
+7278,7278,18-24,1.0,Expats,No Degree,1600,1485867205.82,mental disease depression,YE
+7279,7279,25-44,1.0,Expats,No Degree,2500,1485867205.82,mental disease depression,YE
+7280,7280,45+,1.0,Expats,No Degree,270,1485867205.82,mental disease depression,YE
+7281,7281,18-24,2.0,Expats,No Degree,600,1485867205.82,mental disease depression,YE
+7282,7282,25-44,2.0,Expats,No Degree,540,1485867205.82,mental disease depression,YE
+7283,7283,45+,2.0,Expats,No Degree,90,1485867205.82,mental disease depression,YE
+7284,7284,18-24,1.0,Expats,High School,940,1485867205.82,mental disease depression,YE
+7285,7285,25-44,1.0,Expats,High School,1100,1485867205.82,mental disease depression,YE
+7286,7286,45+,1.0,Expats,High School,170,1485867205.82,mental disease depression,YE
+7287,7287,18-24,2.0,Expats,High School,370,1485867205.82,mental disease depression,YE
+7288,7288,25-44,2.0,Expats,High School,250,1485867205.82,mental disease depression,YE
+7289,7289,45+,2.0,Expats,High School,20,1485867205.82,mental disease depression,YE
+7290,7290,18-24,1.0,Locals,Graduated,19000,1485867205.82,mental disease depression,YE
+7291,7291,25-44,1.0,Locals,Graduated,42000,1485867205.82,mental disease depression,YE
+7292,7292,45+,1.0,Locals,Graduated,4000,1485867205.82,mental disease depression,YE
+7293,7293,18-24,2.0,Locals,Graduated,3500,1485867205.82,mental disease depression,YE
+7294,7294,25-44,2.0,Locals,Graduated,6800,1485867205.82,mental disease depression,YE
+7295,7295,45+,2.0,Locals,Graduated,510,1485867205.82,mental disease depression,YE
+7296,7296,18-24,1.0,Locals,No Degree,25000,1485867205.82,mental disease depression,YE
+7297,7297,25-44,1.0,Locals,No Degree,34000,1485867205.82,mental disease depression,YE
+7298,7298,45+,1.0,Locals,No Degree,5400,1485867205.82,mental disease depression,YE
+7299,7299,18-24,2.0,Locals,No Degree,3400,1485867205.82,mental disease depression,YE
+7300,7300,25-44,2.0,Locals,No Degree,4000,1485867205.82,mental disease depression,YE
+7301,7301,45+,2.0,Locals,No Degree,690,1485867205.82,mental disease depression,YE
+7302,7302,18-24,1.0,Locals,High School,14000,1485867205.82,mental disease depression,YE
+7303,7303,25-44,1.0,Locals,High School,12000,1485867205.82,mental disease depression,YE
+7304,7304,45+,1.0,Locals,High School,1300,1485867205.82,mental disease depression,YE
+7305,7305,18-24,2.0,Locals,High School,3800,1485867205.82,mental disease depression,YE
+7306,7306,25-44,2.0,Locals,High School,1800,1485867205.82,mental disease depression,YE
+7307,7307,45+,2.0,Locals,High School,170,1485867205.82,mental disease depression,YE
+7308,7308,18-24,1.0,Expats,Graduated,1000,1485867205.82,mental disease depression,PS
+7309,7309,25-44,1.0,Expats,Graduated,2000,1485867205.82,mental disease depression,PS
+7310,7310,45+,1.0,Expats,Graduated,450,1485867205.82,mental disease depression,PS
+7311,7311,18-24,2.0,Expats,Graduated,800,1485867205.82,mental disease depression,PS
+7312,7312,25-44,2.0,Expats,Graduated,1500,1485867205.82,mental disease depression,PS
+7313,7313,45+,2.0,Expats,Graduated,230,1485867205.82,mental disease depression,PS
+7314,7314,18-24,1.0,Expats,No Degree,260,1485867205.82,mental disease depression,PS
+7315,7315,25-44,1.0,Expats,No Degree,630,1485867205.82,mental disease depression,PS
+7316,7316,45+,1.0,Expats,No Degree,220,1485867205.82,mental disease depression,PS
+7317,7317,18-24,2.0,Expats,No Degree,290,1485867205.82,mental disease depression,PS
+7318,7318,25-44,2.0,Expats,No Degree,510,1485867205.82,mental disease depression,PS
+7319,7319,45+,2.0,Expats,No Degree,200,1485867205.82,mental disease depression,PS
+7320,7320,18-24,1.0,Expats,High School,530,1485867205.82,mental disease depression,PS
+7321,7321,25-44,1.0,Expats,High School,460,1485867205.82,mental disease depression,PS
+7322,7322,45+,1.0,Expats,High School,70,1485867205.82,mental disease depression,PS
+7323,7323,18-24,2.0,Expats,High School,760,1485867205.82,mental disease depression,PS
+7324,7324,25-44,2.0,Expats,High School,450,1485867205.82,mental disease depression,PS
+7325,7325,45+,2.0,Expats,High School,70,1485867205.82,mental disease depression,PS
+7326,7326,18-24,1.0,Locals,Graduated,3600,1485867205.82,mental disease depression,PS
+7327,7327,25-44,1.0,Locals,Graduated,9200,1485867205.82,mental disease depression,PS
+7328,7328,45+,1.0,Locals,Graduated,1800,1485867205.82,mental disease depression,PS
+7329,7329,18-24,2.0,Locals,Graduated,3300,1485867205.82,mental disease depression,PS
+7330,7330,25-44,2.0,Locals,Graduated,5600,1485867205.82,mental disease depression,PS
+7331,7331,45+,2.0,Locals,Graduated,890,1485867205.82,mental disease depression,PS
+7332,7332,18-24,1.0,Locals,No Degree,1600,1485867205.82,mental disease depression,PS
+7333,7333,25-44,1.0,Locals,No Degree,3700,1485867205.82,mental disease depression,PS
+7334,7334,45+,1.0,Locals,No Degree,1600,1485867205.82,mental disease depression,PS
+7335,7335,18-24,2.0,Locals,No Degree,1400,1485867205.82,mental disease depression,PS
+7336,7336,25-44,2.0,Locals,No Degree,3300,1485867205.82,mental disease depression,PS
+7337,7337,45+,2.0,Locals,No Degree,1800,1485867205.82,mental disease depression,PS
+7338,7338,18-24,1.0,Locals,High School,2100,1485867205.82,mental disease depression,PS
+7339,7339,25-44,1.0,Locals,High School,2000,1485867205.82,mental disease depression,PS
+7340,7340,45+,1.0,Locals,High School,500,1485867205.82,mental disease depression,PS
+7341,7341,18-24,2.0,Locals,High School,3100,1485867205.82,mental disease depression,PS
+7342,7342,25-44,2.0,Locals,High School,1600,1485867205.82,mental disease depression,PS
+7343,7343,45+,2.0,Locals,High School,340,1485867205.82,mental disease depression,PS
