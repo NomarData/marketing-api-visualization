@@ -7,7 +7,6 @@ function stackedHorizontalBar(){
     this.data = null;
     this.redData = null;
     this.greenData = null;
-    this.tooltip_margin = 10;
     this.margin = {
         top: 30,
         right: 0,
@@ -118,13 +117,6 @@ function stackedHorizontalBar(){
 
     };
 
-    this.updateBlueMarkOnLegend = function(scoreData){
-        var maxBlueMarkPosition = currentInstance.currentLegendAxisWidth;
-        var currentScore = parseFloat(scoreData.average.toPrecision(2));
-        var newBlueMarkPosition = (currentScore * -1 + 1) * maxBlueMarkPosition / 2 + currentInstance.scoreBlueMarkerOnLegendWidth/2;
-        currentInstance.scoreBlueMarkerOnLegend.transition().duration(750).attr("transform","translate(" + newBlueMarkPosition + ", 0)");
-    };
-
     this.createAndSetSVG = function(){
         var svg = d3.select("#horizontalStackedBar").append("svg")
             .attr("width", this.width)
@@ -141,14 +133,19 @@ function stackedHorizontalBar(){
 
     this.mousemoveTooltip = function(d){
         d3.select("#tooltip-stackedbar").classed("hidden", false);
-        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
-        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+        var xPosition = d3.event.pageX + TOOLTIP_DISTANCE_FROM_MOUSE;
+        var yPosition = d3.event.pageY + TOOLTIP_DISTANCE_FROM_MOUSE;
         d3.select("#tooltip-stackedbar")
             .style("left", xPosition + "px")
             .style("top", yPosition + "px");
 
-        d3.select("#tooltip-stackedbar #categoryNameTooltip")
-            .text(getTooltipLabel(d.name));
+        if(d.name == "Right Audience"){
+            d3.select("#tooltip-stackedbar #categoryNameTooltip")
+                .text(getTooltipLabel(dataManager.selectedRightTopic));
+        } else{
+            d3.select("#tooltip-stackedbar #categoryNameTooltip")
+                .text(getTooltipLabel(dataManager.selectedLeftTopic));
+        }
 
         d3.select("#tooltip-stackedbar #audienceStackedBarTooltip")
             .text(currentInstance.getFormattedAudience(d.audience));
@@ -161,7 +158,7 @@ function stackedHorizontalBar(){
     };
     this.mouseClick = function(d){
         if(d.score > 0){
-            var luxurySelectedTopic = $(".btn-luxury.btn-selected");
+            var luxurySelectedTopic = $(".btn-right.btn-selected");
             if(luxurySelectedTopic.size() == 0 && currentInstance.selectedBefore){
                 currentInstance.selectedBefore.click();
             } else {
@@ -169,7 +166,7 @@ function stackedHorizontalBar(){
                 luxurySelectedTopic.click();
             }
         } else {
-            var healthSelectedTopic = $(".btn-health.btn-selected");
+            var healthSelectedTopic = $(".btn-left.btn-selected");
             if(healthSelectedTopic.size() == 0 && currentInstance.selectedBefore){
                 currentInstance.selectedBefore.click();
             } else {
@@ -182,45 +179,6 @@ function stackedHorizontalBar(){
         d3.select("#tooltip-stackedbar").classed("hidden", true);
     };
 
-    this.buildTreemapLegends = function(colorFunction){
-        var margin = 30;
-        var divWidth = $("#treemapLegend").width();
-        var w = divWidth - margin, h = 20;
-        var translateXPositionAxis = 20;
-        var paddingAxis = 15;
-        var scoreBlueMarkerWidth = 5;
-        // debugger
-        var legendSvg = d3.select("#treemapLegend").append("svg")
-            .attr("width", divWidth)
-            .attr("height", h)
-            .append("g");
-
-
-        var legend = legendSvg.append("defs").append("svg:linearGradient").attr("id", "gradient").attr("x1", "0%").attr("y1", "100%").attr("x2", "100%").attr("y2", "100%").attr("spreadMethod", "pad");
-
-        //Appending colors
-        var max=1, data = [], min=-1;
-        var numberOfSteps = 10;
-        var step = (max-min)/numberOfSteps;
-        var stepPercentage = 100/numberOfSteps;
-        var percentage = 0;
-        for (var i=max;i > min;i=i-step){
-            data.push([i,percentage]);
-            percentage += stepPercentage
-        }
-        for(var index in data){
-            let breakpoint = data[index][0];
-            let percentage = data[index][1];
-            legend.append("stop").attr("offset", +percentage + "%").attr("stop-color", colorFunction(breakpoint)).attr("stop-opacity", 1);
-        }
-
-        legendSvg.append("rect").attr("width", w).attr("height", h).style("fill", "url(#gradient)").attr("transform", "translate(" + translateXPositionAxis + ",0)");
-        var axisScale = d3.scale.linear().range([translateXPositionAxis+paddingAxis, w-paddingAxis]).domain([1, -1]);
-        var axis = d3.svg.axis().scale(axisScale).ticks(numberOfSteps);
-        legendSvg.append("g").attr("class", "legendAxis").attr("transform", "translate(" + (paddingAxis/2) + ",-3)").call(axis);
-        currentInstance.legendSvg = legendSvg;
-        currentInstance.currentLegendAxisWidth = w ;
-    }
 
     this.init = function(){
         var x = this.x;
@@ -237,12 +195,12 @@ function stackedHorizontalBar(){
             redValue:  averageScore.redScore
         }];
         var greenData = [{
-            name: "Health Audience",
+            name: "Left Audience",
             score:  averageScore.greenScore,
             audience:  averageScore.greenAudience,
         }];
         var redData = [{
-            name: "Luxury Audience",
+            name: "Right Audience",
             score:  averageScore.redScore,
             audience:  averageScore.redAudience,
         }];
@@ -352,7 +310,7 @@ function stackedHorizontalBar(){
             .attr("y2", height);
 
         var scoreBlueMarkerOnStackedBarWidth = 3;
-        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("class","blueMarkerScore")
+        var scoreBlueMarkerOnStackedBar = svg.append("rect").attr("class","blueRectScore")
             .attr("width", scoreBlueMarkerOnStackedBarWidth)
             .attr("height", height)
             .style("stroke", "blue")
@@ -372,12 +330,8 @@ function stackedHorizontalBar(){
         currentInstance.totalGreenBar = totalGreenBar;
         currentInstance.scoreBlueMarkerOnStackedBar = scoreBlueMarkerOnStackedBar;
         currentInstance.scoreBlueMarkerOnStackedBarWidth = scoreBlueMarkerOnStackedBarWidth;
-        // Build Legend
-        currentInstance.buildTreemapLegends(colorFunction);
     };
-
     this.init();
-
 }
 
 

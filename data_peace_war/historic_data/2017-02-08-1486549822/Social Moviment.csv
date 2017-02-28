@@ -1,0 +1,1837 @@
+,ages_ranges,genders,behavior,scholarities,audience,topic,location
+5508,18-24,1.0,Expats,Graduated,110,Social Moviment,Alabama
+5509,25-44,1.0,Expats,Graduated,310,Social Moviment,Alabama
+5510,45+,1.0,Expats,Graduated,130,Social Moviment,Alabama
+5511,18-24,2.0,Expats,Graduated,60,Social Moviment,Alabama
+5512,25-44,2.0,Expats,Graduated,280,Social Moviment,Alabama
+5513,45+,2.0,Expats,Graduated,170,Social Moviment,Alabama
+5514,18-24,1.0,Expats,No Degree,50,Social Moviment,Alabama
+5515,25-44,1.0,Expats,No Degree,150,Social Moviment,Alabama
+5516,45+,1.0,Expats,No Degree,50,Social Moviment,Alabama
+5517,18-24,2.0,Expats,No Degree,30,Social Moviment,Alabama
+5518,25-44,2.0,Expats,No Degree,110,Social Moviment,Alabama
+5519,45+,2.0,Expats,No Degree,70,Social Moviment,Alabama
+5520,18-24,1.0,Expats,High School,70,Social Moviment,Alabama
+5521,25-44,1.0,Expats,High School,140,Social Moviment,Alabama
+5522,45+,1.0,Expats,High School,40,Social Moviment,Alabama
+5523,18-24,2.0,Expats,High School,80,Social Moviment,Alabama
+5524,25-44,2.0,Expats,High School,140,Social Moviment,Alabama
+5525,45+,2.0,Expats,High School,60,Social Moviment,Alabama
+5526,18-24,1.0,Locals,Graduated,900,Social Moviment,Alabama
+5527,25-44,1.0,Locals,Graduated,4200,Social Moviment,Alabama
+5528,45+,1.0,Locals,Graduated,3900,Social Moviment,Alabama
+5529,18-24,2.0,Locals,Graduated,1300,Social Moviment,Alabama
+5530,25-44,2.0,Locals,Graduated,7800,Social Moviment,Alabama
+5531,45+,2.0,Locals,Graduated,7200,Social Moviment,Alabama
+5532,18-24,1.0,Locals,No Degree,420,Social Moviment,Alabama
+5533,25-44,1.0,Locals,No Degree,1100,Social Moviment,Alabama
+5534,45+,1.0,Locals,No Degree,1400,Social Moviment,Alabama
+5535,18-24,2.0,Locals,No Degree,660,Social Moviment,Alabama
+5536,25-44,2.0,Locals,No Degree,1600,Social Moviment,Alabama
+5537,45+,2.0,Locals,No Degree,2500,Social Moviment,Alabama
+5538,18-24,1.0,Locals,High School,1300,Social Moviment,Alabama
+5539,25-44,1.0,Locals,High School,2900,Social Moviment,Alabama
+5540,45+,1.0,Locals,High School,2100,Social Moviment,Alabama
+5541,18-24,2.0,Locals,High School,2300,Social Moviment,Alabama
+5542,25-44,2.0,Locals,High School,5000,Social Moviment,Alabama
+5543,45+,2.0,Locals,High School,4200,Social Moviment,Alabama
+5544,18-24,1.0,Expats,Graduated,30,Social Moviment,Alaska
+5545,25-44,1.0,Expats,Graduated,70,Social Moviment,Alaska
+5546,45+,1.0,Expats,Graduated,40,Social Moviment,Alaska
+5547,18-24,2.0,Expats,Graduated,20,Social Moviment,Alaska
+5548,25-44,2.0,Expats,Graduated,50,Social Moviment,Alaska
+5549,45+,2.0,Expats,Graduated,100,Social Moviment,Alaska
+5550,18-24,1.0,Expats,No Degree,20,Social Moviment,Alaska
+5551,25-44,1.0,Expats,No Degree,40,Social Moviment,Alaska
+5552,45+,1.0,Expats,No Degree,20,Social Moviment,Alaska
+5553,18-24,2.0,Expats,No Degree,40,Social Moviment,Alaska
+5554,25-44,2.0,Expats,No Degree,20,Social Moviment,Alaska
+5555,45+,2.0,Expats,No Degree,40,Social Moviment,Alaska
+5556,18-24,1.0,Expats,High School,20,Social Moviment,Alaska
+5557,25-44,1.0,Expats,High School,30,Social Moviment,Alaska
+5558,45+,1.0,Expats,High School,20,Social Moviment,Alaska
+5559,18-24,2.0,Expats,High School,20,Social Moviment,Alaska
+5560,25-44,2.0,Expats,High School,20,Social Moviment,Alaska
+5561,45+,2.0,Expats,High School,50,Social Moviment,Alaska
+5562,18-24,1.0,Locals,Graduated,160,Social Moviment,Alaska
+5563,25-44,1.0,Locals,Graduated,720,Social Moviment,Alaska
+5564,45+,1.0,Locals,Graduated,700,Social Moviment,Alaska
+5565,18-24,2.0,Locals,Graduated,230,Social Moviment,Alaska
+5566,25-44,2.0,Locals,Graduated,1700,Social Moviment,Alaska
+5567,45+,2.0,Locals,Graduated,1300,Social Moviment,Alaska
+5568,18-24,1.0,Locals,No Degree,120,Social Moviment,Alaska
+5569,25-44,1.0,Locals,No Degree,270,Social Moviment,Alaska
+5570,45+,1.0,Locals,No Degree,230,Social Moviment,Alaska
+5571,18-24,2.0,Locals,No Degree,270,Social Moviment,Alaska
+5572,25-44,2.0,Locals,No Degree,530,Social Moviment,Alaska
+5573,45+,2.0,Locals,No Degree,530,Social Moviment,Alaska
+5574,18-24,1.0,Locals,High School,260,Social Moviment,Alaska
+5575,25-44,1.0,Locals,High School,540,Social Moviment,Alaska
+5576,45+,1.0,Locals,High School,450,Social Moviment,Alaska
+5577,18-24,2.0,Locals,High School,470,Social Moviment,Alaska
+5578,25-44,2.0,Locals,High School,1200,Social Moviment,Alaska
+5579,45+,2.0,Locals,High School,570,Social Moviment,Alaska
+5580,18-24,1.0,Expats,Graduated,270,Social Moviment,Arizona
+5581,25-44,1.0,Expats,Graduated,1300,Social Moviment,Arizona
+5582,45+,1.0,Expats,Graduated,680,Social Moviment,Arizona
+5583,18-24,2.0,Expats,Graduated,310,Social Moviment,Arizona
+5584,25-44,2.0,Expats,Graduated,1800,Social Moviment,Arizona
+5585,45+,2.0,Expats,Graduated,1100,Social Moviment,Arizona
+5586,18-24,1.0,Expats,No Degree,150,Social Moviment,Arizona
+5587,25-44,1.0,Expats,No Degree,480,Social Moviment,Arizona
+5588,45+,1.0,Expats,No Degree,360,Social Moviment,Arizona
+5589,18-24,2.0,Expats,No Degree,230,Social Moviment,Arizona
+5590,25-44,2.0,Expats,No Degree,770,Social Moviment,Arizona
+5591,45+,2.0,Expats,No Degree,640,Social Moviment,Arizona
+5592,18-24,1.0,Expats,High School,330,Social Moviment,Arizona
+5593,25-44,1.0,Expats,High School,540,Social Moviment,Arizona
+5594,45+,1.0,Expats,High School,210,Social Moviment,Arizona
+5595,18-24,2.0,Expats,High School,430,Social Moviment,Arizona
+5596,25-44,2.0,Expats,High School,840,Social Moviment,Arizona
+5597,45+,2.0,Expats,High School,380,Social Moviment,Arizona
+5598,18-24,1.0,Locals,Graduated,1400,Social Moviment,Arizona
+5599,25-44,1.0,Locals,Graduated,6400,Social Moviment,Arizona
+5600,45+,1.0,Locals,Graduated,6200,Social Moviment,Arizona
+5601,18-24,2.0,Locals,Graduated,1800,Social Moviment,Arizona
+5602,25-44,2.0,Locals,Graduated,12000,Social Moviment,Arizona
+5603,45+,2.0,Locals,Graduated,13000,Social Moviment,Arizona
+5604,18-24,1.0,Locals,No Degree,1000,Social Moviment,Arizona
+5605,25-44,1.0,Locals,No Degree,2000,Social Moviment,Arizona
+5606,45+,1.0,Locals,No Degree,1900,Social Moviment,Arizona
+5607,18-24,2.0,Locals,No Degree,1500,Social Moviment,Arizona
+5608,25-44,2.0,Locals,No Degree,3200,Social Moviment,Arizona
+5609,45+,2.0,Locals,No Degree,4100,Social Moviment,Arizona
+5610,18-24,1.0,Locals,High School,2200,Social Moviment,Arizona
+5611,25-44,1.0,Locals,High School,4100,Social Moviment,Arizona
+5612,45+,1.0,Locals,High School,2600,Social Moviment,Arizona
+5613,18-24,2.0,Locals,High School,3200,Social Moviment,Arizona
+5614,25-44,2.0,Locals,High School,6800,Social Moviment,Arizona
+5615,45+,2.0,Locals,High School,5700,Social Moviment,Arizona
+5616,18-24,1.0,Expats,Graduated,70,Social Moviment,Arkansas
+5617,25-44,1.0,Expats,Graduated,200,Social Moviment,Arkansas
+5618,45+,1.0,Expats,Graduated,90,Social Moviment,Arkansas
+5619,18-24,2.0,Expats,Graduated,60,Social Moviment,Arkansas
+5620,25-44,2.0,Expats,Graduated,170,Social Moviment,Arkansas
+5621,45+,2.0,Expats,Graduated,100,Social Moviment,Arkansas
+5622,18-24,1.0,Expats,No Degree,30,Social Moviment,Arkansas
+5623,25-44,1.0,Expats,No Degree,90,Social Moviment,Arkansas
+5624,45+,1.0,Expats,No Degree,50,Social Moviment,Arkansas
+5625,18-24,2.0,Expats,No Degree,20,Social Moviment,Arkansas
+5626,25-44,2.0,Expats,No Degree,60,Social Moviment,Arkansas
+5627,45+,2.0,Expats,No Degree,20,Social Moviment,Arkansas
+5628,18-24,1.0,Expats,High School,100,Social Moviment,Arkansas
+5629,25-44,1.0,Expats,High School,110,Social Moviment,Arkansas
+5630,45+,1.0,Expats,High School,40,Social Moviment,Arkansas
+5631,18-24,2.0,Expats,High School,40,Social Moviment,Arkansas
+5632,25-44,2.0,Expats,High School,110,Social Moviment,Arkansas
+5633,45+,2.0,Expats,High School,30,Social Moviment,Arkansas
+5634,18-24,1.0,Locals,Graduated,530,Social Moviment,Arkansas
+5635,25-44,1.0,Locals,Graduated,2600,Social Moviment,Arkansas
+5636,45+,1.0,Locals,Graduated,2600,Social Moviment,Arkansas
+5637,18-24,2.0,Locals,Graduated,940,Social Moviment,Arkansas
+5638,25-44,2.0,Locals,Graduated,5100,Social Moviment,Arkansas
+5639,45+,2.0,Locals,Graduated,4400,Social Moviment,Arkansas
+5640,18-24,1.0,Locals,No Degree,380,Social Moviment,Arkansas
+5641,25-44,1.0,Locals,No Degree,640,Social Moviment,Arkansas
+5642,45+,1.0,Locals,No Degree,990,Social Moviment,Arkansas
+5643,18-24,2.0,Locals,No Degree,470,Social Moviment,Arkansas
+5644,25-44,2.0,Locals,No Degree,1100,Social Moviment,Arkansas
+5645,45+,2.0,Locals,No Degree,1500,Social Moviment,Arkansas
+5646,18-24,1.0,Locals,High School,830,Social Moviment,Arkansas
+5647,25-44,1.0,Locals,High School,1800,Social Moviment,Arkansas
+5648,45+,1.0,Locals,High School,1400,Social Moviment,Arkansas
+5649,18-24,2.0,Locals,High School,1500,Social Moviment,Arkansas
+5650,25-44,2.0,Locals,High School,3400,Social Moviment,Arkansas
+5651,45+,2.0,Locals,High School,2600,Social Moviment,Arkansas
+5652,18-24,1.0,Expats,Graduated,2500,Social Moviment,California
+5653,25-44,1.0,Expats,Graduated,11000,Social Moviment,California
+5654,45+,1.0,Expats,Graduated,6700,Social Moviment,California
+5655,18-24,2.0,Expats,Graduated,1900,Social Moviment,California
+5656,25-44,2.0,Expats,Graduated,13000,Social Moviment,California
+5657,45+,2.0,Expats,Graduated,8500,Social Moviment,California
+5658,18-24,1.0,Expats,No Degree,1400,Social Moviment,California
+5659,25-44,1.0,Expats,No Degree,5700,Social Moviment,California
+5660,45+,1.0,Expats,No Degree,4200,Social Moviment,California
+5661,18-24,2.0,Expats,No Degree,1200,Social Moviment,California
+5662,25-44,2.0,Expats,No Degree,5500,Social Moviment,California
+5663,45+,2.0,Expats,No Degree,5600,Social Moviment,California
+5664,18-24,1.0,Expats,High School,2700,Social Moviment,California
+5665,25-44,1.0,Expats,High School,4800,Social Moviment,California
+5666,45+,1.0,Expats,High School,2200,Social Moviment,California
+5667,18-24,2.0,Expats,High School,2400,Social Moviment,California
+5668,25-44,2.0,Expats,High School,4700,Social Moviment,California
+5669,45+,2.0,Expats,High School,2600,Social Moviment,California
+5670,18-24,1.0,Locals,Graduated,7800,Social Moviment,California
+5671,25-44,1.0,Locals,Graduated,37000,Social Moviment,California
+5672,45+,1.0,Locals,Graduated,29000,Social Moviment,California
+5673,18-24,2.0,Locals,Graduated,8500,Social Moviment,California
+5674,25-44,2.0,Locals,Graduated,61000,Social Moviment,California
+5675,45+,2.0,Locals,Graduated,56000,Social Moviment,California
+5676,18-24,1.0,Locals,No Degree,4400,Social Moviment,California
+5677,25-44,1.0,Locals,No Degree,10000,Social Moviment,California
+5678,45+,1.0,Locals,No Degree,9500,Social Moviment,California
+5679,18-24,2.0,Locals,No Degree,4600,Social Moviment,California
+5680,25-44,2.0,Locals,No Degree,15000,Social Moviment,California
+5681,45+,2.0,Locals,No Degree,19000,Social Moviment,California
+5682,18-24,1.0,Locals,High School,12000,Social Moviment,California
+5683,25-44,1.0,Locals,High School,18000,Social Moviment,California
+5684,45+,1.0,Locals,High School,11000,Social Moviment,California
+5685,18-24,2.0,Locals,High School,14000,Social Moviment,California
+5686,25-44,2.0,Locals,High School,26000,Social Moviment,California
+5687,45+,2.0,Locals,High School,22000,Social Moviment,California
+5688,18-24,1.0,Expats,Graduated,300,Social Moviment,Colorado
+5689,25-44,1.0,Expats,Graduated,1000,Social Moviment,Colorado
+5690,45+,1.0,Expats,Graduated,370,Social Moviment,Colorado
+5691,18-24,2.0,Expats,Graduated,260,Social Moviment,Colorado
+5692,25-44,2.0,Expats,Graduated,1200,Social Moviment,Colorado
+5693,45+,2.0,Expats,Graduated,590,Social Moviment,Colorado
+5694,18-24,1.0,Expats,No Degree,210,Social Moviment,Colorado
+5695,25-44,1.0,Expats,No Degree,370,Social Moviment,Colorado
+5696,45+,1.0,Expats,No Degree,200,Social Moviment,Colorado
+5697,18-24,2.0,Expats,No Degree,220,Social Moviment,Colorado
+5698,25-44,2.0,Expats,No Degree,400,Social Moviment,Colorado
+5699,45+,2.0,Expats,No Degree,270,Social Moviment,Colorado
+5700,18-24,1.0,Expats,High School,360,Social Moviment,Colorado
+5701,25-44,1.0,Expats,High School,410,Social Moviment,Colorado
+5702,45+,1.0,Expats,High School,90,Social Moviment,Colorado
+5703,18-24,2.0,Expats,High School,430,Social Moviment,Colorado
+5704,25-44,2.0,Expats,High School,450,Social Moviment,Colorado
+5705,45+,2.0,Expats,High School,170,Social Moviment,Colorado
+5706,18-24,1.0,Locals,Graduated,1700,Social Moviment,Colorado
+5707,25-44,1.0,Locals,Graduated,7900,Social Moviment,Colorado
+5708,45+,1.0,Locals,Graduated,4900,Social Moviment,Colorado
+5709,18-24,2.0,Locals,Graduated,2400,Social Moviment,Colorado
+5710,25-44,2.0,Locals,Graduated,15000,Social Moviment,Colorado
+5711,45+,2.0,Locals,Graduated,11000,Social Moviment,Colorado
+5712,18-24,1.0,Locals,No Degree,1200,Social Moviment,Colorado
+5713,25-44,1.0,Locals,No Degree,1900,Social Moviment,Colorado
+5714,45+,1.0,Locals,No Degree,1300,Social Moviment,Colorado
+5715,18-24,2.0,Locals,No Degree,1800,Social Moviment,Colorado
+5716,25-44,2.0,Locals,No Degree,3100,Social Moviment,Colorado
+5717,45+,2.0,Locals,No Degree,3100,Social Moviment,Colorado
+5718,18-24,1.0,Locals,High School,2700,Social Moviment,Colorado
+5719,25-44,1.0,Locals,High School,4300,Social Moviment,Colorado
+5720,45+,1.0,Locals,High School,2000,Social Moviment,Colorado
+5721,18-24,2.0,Locals,High School,4200,Social Moviment,Colorado
+5722,25-44,2.0,Locals,High School,6600,Social Moviment,Colorado
+5723,45+,2.0,Locals,High School,4300,Social Moviment,Colorado
+5724,18-24,1.0,Expats,Graduated,130,Social Moviment,Connecticut
+5725,25-44,1.0,Expats,Graduated,680,Social Moviment,Connecticut
+5726,45+,1.0,Expats,Graduated,410,Social Moviment,Connecticut
+5727,18-24,2.0,Expats,Graduated,110,Social Moviment,Connecticut
+5728,25-44,2.0,Expats,Graduated,810,Social Moviment,Connecticut
+5729,45+,2.0,Expats,Graduated,590,Social Moviment,Connecticut
+5730,18-24,1.0,Expats,No Degree,90,Social Moviment,Connecticut
+5731,25-44,1.0,Expats,No Degree,240,Social Moviment,Connecticut
+5732,45+,1.0,Expats,No Degree,260,Social Moviment,Connecticut
+5733,18-24,2.0,Expats,No Degree,50,Social Moviment,Connecticut
+5734,25-44,2.0,Expats,No Degree,210,Social Moviment,Connecticut
+5735,45+,2.0,Expats,No Degree,240,Social Moviment,Connecticut
+5736,18-24,1.0,Expats,High School,260,Social Moviment,Connecticut
+5737,25-44,1.0,Expats,High School,340,Social Moviment,Connecticut
+5738,45+,1.0,Expats,High School,150,Social Moviment,Connecticut
+5739,18-24,2.0,Expats,High School,170,Social Moviment,Connecticut
+5740,25-44,2.0,Expats,High School,280,Social Moviment,Connecticut
+5741,45+,2.0,Expats,High School,210,Social Moviment,Connecticut
+5742,18-24,1.0,Locals,Graduated,510,Social Moviment,Connecticut
+5743,25-44,1.0,Locals,Graduated,2400,Social Moviment,Connecticut
+5744,45+,1.0,Locals,Graduated,2600,Social Moviment,Connecticut
+5745,18-24,2.0,Locals,Graduated,640,Social Moviment,Connecticut
+5746,25-44,2.0,Locals,Graduated,4600,Social Moviment,Connecticut
+5747,45+,2.0,Locals,Graduated,5600,Social Moviment,Connecticut
+5748,18-24,1.0,Locals,No Degree,250,Social Moviment,Connecticut
+5749,25-44,1.0,Locals,No Degree,430,Social Moviment,Connecticut
+5750,45+,1.0,Locals,No Degree,720,Social Moviment,Connecticut
+5751,18-24,2.0,Locals,No Degree,340,Social Moviment,Connecticut
+5752,25-44,2.0,Locals,No Degree,1100,Social Moviment,Connecticut
+5753,45+,2.0,Locals,No Degree,1600,Social Moviment,Connecticut
+5754,18-24,1.0,Locals,High School,990,Social Moviment,Connecticut
+5755,25-44,1.0,Locals,High School,1200,Social Moviment,Connecticut
+5756,45+,1.0,Locals,High School,900,Social Moviment,Connecticut
+5757,18-24,2.0,Locals,High School,1200,Social Moviment,Connecticut
+5758,25-44,2.0,Locals,High School,2100,Social Moviment,Connecticut
+5759,45+,2.0,Locals,High School,2100,Social Moviment,Connecticut
+5760,18-24,1.0,Expats,Graduated,20,Social Moviment,Delaware
+5761,25-44,1.0,Expats,Graduated,130,Social Moviment,Delaware
+5762,45+,1.0,Expats,Graduated,70,Social Moviment,Delaware
+5763,18-24,2.0,Expats,Graduated,20,Social Moviment,Delaware
+5764,25-44,2.0,Expats,Graduated,170,Social Moviment,Delaware
+5765,45+,2.0,Expats,Graduated,90,Social Moviment,Delaware
+5766,18-24,1.0,Expats,No Degree,20,Social Moviment,Delaware
+5767,25-44,1.0,Expats,No Degree,50,Social Moviment,Delaware
+5768,45+,1.0,Expats,No Degree,30,Social Moviment,Delaware
+5769,18-24,2.0,Expats,No Degree,20,Social Moviment,Delaware
+5770,25-44,2.0,Expats,No Degree,20,Social Moviment,Delaware
+5771,45+,2.0,Expats,No Degree,90,Social Moviment,Delaware
+5772,18-24,1.0,Expats,High School,40,Social Moviment,Delaware
+5773,25-44,1.0,Expats,High School,60,Social Moviment,Delaware
+5774,45+,1.0,Expats,High School,20,Social Moviment,Delaware
+5775,18-24,2.0,Expats,High School,40,Social Moviment,Delaware
+5776,25-44,2.0,Expats,High School,30,Social Moviment,Delaware
+5777,45+,2.0,Expats,High School,30,Social Moviment,Delaware
+5778,18-24,1.0,Locals,Graduated,100,Social Moviment,Delaware
+5779,25-44,1.0,Locals,Graduated,660,Social Moviment,Delaware
+5780,45+,1.0,Locals,Graduated,920,Social Moviment,Delaware
+5781,18-24,2.0,Locals,Graduated,110,Social Moviment,Delaware
+5782,25-44,2.0,Locals,Graduated,1400,Social Moviment,Delaware
+5783,45+,2.0,Locals,Graduated,1800,Social Moviment,Delaware
+5784,18-24,1.0,Locals,No Degree,50,Social Moviment,Delaware
+5785,25-44,1.0,Locals,No Degree,240,Social Moviment,Delaware
+5786,45+,1.0,Locals,No Degree,270,Social Moviment,Delaware
+5787,18-24,2.0,Locals,No Degree,120,Social Moviment,Delaware
+5788,25-44,2.0,Locals,No Degree,280,Social Moviment,Delaware
+5789,45+,2.0,Locals,No Degree,610,Social Moviment,Delaware
+5790,18-24,1.0,Locals,High School,180,Social Moviment,Delaware
+5791,25-44,1.0,Locals,High School,460,Social Moviment,Delaware
+5792,45+,1.0,Locals,High School,380,Social Moviment,Delaware
+5793,18-24,2.0,Locals,High School,290,Social Moviment,Delaware
+5794,25-44,2.0,Locals,High School,880,Social Moviment,Delaware
+5795,45+,2.0,Locals,High School,980,Social Moviment,Delaware
+5796,18-24,1.0,Expats,Graduated,40,Social Moviment,District of Columbia
+5797,25-44,1.0,Expats,Graduated,460,Social Moviment,District of Columbia
+5798,45+,1.0,Expats,Graduated,320,Social Moviment,District of Columbia
+5799,18-24,2.0,Expats,Graduated,180,Social Moviment,District of Columbia
+5800,25-44,2.0,Expats,Graduated,690,Social Moviment,District of Columbia
+5801,45+,2.0,Expats,Graduated,310,Social Moviment,District of Columbia
+5802,18-24,1.0,Expats,No Degree,20,Social Moviment,District of Columbia
+5803,25-44,1.0,Expats,No Degree,90,Social Moviment,District of Columbia
+5804,45+,1.0,Expats,No Degree,110,Social Moviment,District of Columbia
+5805,18-24,2.0,Expats,No Degree,20,Social Moviment,District of Columbia
+5806,25-44,2.0,Expats,No Degree,150,Social Moviment,District of Columbia
+5807,45+,2.0,Expats,No Degree,90,Social Moviment,District of Columbia
+5808,18-24,1.0,Expats,High School,60,Social Moviment,District of Columbia
+5809,25-44,1.0,Expats,High School,110,Social Moviment,District of Columbia
+5810,45+,1.0,Expats,High School,80,Social Moviment,District of Columbia
+5811,18-24,2.0,Expats,High School,100,Social Moviment,District of Columbia
+5812,25-44,2.0,Expats,High School,160,Social Moviment,District of Columbia
+5813,45+,2.0,Expats,High School,30,Social Moviment,District of Columbia
+5814,18-24,1.0,Locals,Graduated,360,Social Moviment,District of Columbia
+5815,25-44,1.0,Locals,Graduated,2500,Social Moviment,District of Columbia
+5816,45+,1.0,Locals,Graduated,1400,Social Moviment,District of Columbia
+5817,18-24,2.0,Locals,Graduated,850,Social Moviment,District of Columbia
+5818,25-44,2.0,Locals,Graduated,4700,Social Moviment,District of Columbia
+5819,45+,2.0,Locals,Graduated,2200,Social Moviment,District of Columbia
+5820,18-24,1.0,Locals,No Degree,50,Social Moviment,District of Columbia
+5821,25-44,1.0,Locals,No Degree,240,Social Moviment,District of Columbia
+5822,45+,1.0,Locals,No Degree,310,Social Moviment,District of Columbia
+5823,18-24,2.0,Locals,No Degree,70,Social Moviment,District of Columbia
+5824,25-44,2.0,Locals,No Degree,310,Social Moviment,District of Columbia
+5825,45+,2.0,Locals,No Degree,500,Social Moviment,District of Columbia
+5826,18-24,1.0,Locals,High School,540,Social Moviment,District of Columbia
+5827,25-44,1.0,Locals,High School,540,Social Moviment,District of Columbia
+5828,45+,1.0,Locals,High School,450,Social Moviment,District of Columbia
+5829,18-24,2.0,Locals,High School,1000,Social Moviment,District of Columbia
+5830,25-44,2.0,Locals,High School,760,Social Moviment,District of Columbia
+5831,45+,2.0,Locals,High School,560,Social Moviment,District of Columbia
+5832,18-24,1.0,Expats,Graduated,1100,Social Moviment,Florida
+5833,25-44,1.0,Expats,Graduated,6200,Social Moviment,Florida
+5834,45+,1.0,Expats,Graduated,5300,Social Moviment,Florida
+5835,18-24,2.0,Expats,Graduated,1100,Social Moviment,Florida
+5836,25-44,2.0,Expats,Graduated,8600,Social Moviment,Florida
+5837,45+,2.0,Expats,Graduated,7300,Social Moviment,Florida
+5838,18-24,1.0,Expats,No Degree,670,Social Moviment,Florida
+5839,25-44,1.0,Expats,No Degree,2000,Social Moviment,Florida
+5840,45+,1.0,Expats,No Degree,2300,Social Moviment,Florida
+5841,18-24,2.0,Expats,No Degree,630,Social Moviment,Florida
+5842,25-44,2.0,Expats,No Degree,2300,Social Moviment,Florida
+5843,45+,2.0,Expats,No Degree,3500,Social Moviment,Florida
+5844,18-24,1.0,Expats,High School,1100,Social Moviment,Florida
+5845,25-44,1.0,Expats,High School,2100,Social Moviment,Florida
+5846,45+,1.0,Expats,High School,1500,Social Moviment,Florida
+5847,18-24,2.0,Expats,High School,1700,Social Moviment,Florida
+5848,25-44,2.0,Expats,High School,2800,Social Moviment,Florida
+5849,45+,2.0,Expats,High School,2500,Social Moviment,Florida
+5850,18-24,1.0,Locals,Graduated,3200,Social Moviment,Florida
+5851,25-44,1.0,Locals,Graduated,16000,Social Moviment,Florida
+5852,45+,1.0,Locals,Graduated,18000,Social Moviment,Florida
+5853,18-24,2.0,Locals,Graduated,3900,Social Moviment,Florida
+5854,25-44,2.0,Locals,Graduated,29000,Social Moviment,Florida
+5855,45+,2.0,Locals,Graduated,35000,Social Moviment,Florida
+5856,18-24,1.0,Locals,No Degree,1900,Social Moviment,Florida
+5857,25-44,1.0,Locals,No Degree,4500,Social Moviment,Florida
+5858,45+,1.0,Locals,No Degree,5800,Social Moviment,Florida
+5859,18-24,2.0,Locals,No Degree,2400,Social Moviment,Florida
+5860,25-44,2.0,Locals,No Degree,6500,Social Moviment,Florida
+5861,45+,2.0,Locals,No Degree,11000,Social Moviment,Florida
+5862,18-24,1.0,Locals,High School,4200,Social Moviment,Florida
+5863,25-44,1.0,Locals,High School,9300,Social Moviment,Florida
+5864,45+,1.0,Locals,High School,8100,Social Moviment,Florida
+5865,18-24,2.0,Locals,High School,6900,Social Moviment,Florida
+5866,25-44,2.0,Locals,High School,15000,Social Moviment,Florida
+5867,45+,2.0,Locals,High School,17000,Social Moviment,Florida
+5868,18-24,1.0,Expats,Graduated,370,Social Moviment,Georgia
+5869,25-44,1.0,Expats,Graduated,1700,Social Moviment,Georgia
+5870,45+,1.0,Expats,Graduated,910,Social Moviment,Georgia
+5871,18-24,2.0,Expats,Graduated,340,Social Moviment,Georgia
+5872,25-44,2.0,Expats,Graduated,1900,Social Moviment,Georgia
+5873,45+,2.0,Expats,Graduated,1100,Social Moviment,Georgia
+5874,18-24,1.0,Expats,No Degree,210,Social Moviment,Georgia
+5875,25-44,1.0,Expats,No Degree,720,Social Moviment,Georgia
+5876,45+,1.0,Expats,No Degree,430,Social Moviment,Georgia
+5877,18-24,2.0,Expats,No Degree,160,Social Moviment,Georgia
+5878,25-44,2.0,Expats,No Degree,690,Social Moviment,Georgia
+5879,45+,2.0,Expats,No Degree,470,Social Moviment,Georgia
+5880,18-24,1.0,Expats,High School,430,Social Moviment,Georgia
+5881,25-44,1.0,Expats,High School,680,Social Moviment,Georgia
+5882,45+,1.0,Expats,High School,240,Social Moviment,Georgia
+5883,18-24,2.0,Expats,High School,460,Social Moviment,Georgia
+5884,25-44,2.0,Expats,High School,760,Social Moviment,Georgia
+5885,45+,2.0,Expats,High School,340,Social Moviment,Georgia
+5886,18-24,1.0,Locals,Graduated,1700,Social Moviment,Georgia
+5887,25-44,1.0,Locals,Graduated,11000,Social Moviment,Georgia
+5888,45+,1.0,Locals,Graduated,9100,Social Moviment,Georgia
+5889,18-24,2.0,Locals,Graduated,2300,Social Moviment,Georgia
+5890,25-44,2.0,Locals,Graduated,19000,Social Moviment,Georgia
+5891,45+,2.0,Locals,Graduated,16000,Social Moviment,Georgia
+5892,18-24,1.0,Locals,No Degree,840,Social Moviment,Georgia
+5893,25-44,1.0,Locals,No Degree,2400,Social Moviment,Georgia
+5894,45+,1.0,Locals,No Degree,3000,Social Moviment,Georgia
+5895,18-24,2.0,Locals,No Degree,1300,Social Moviment,Georgia
+5896,25-44,2.0,Locals,No Degree,3600,Social Moviment,Georgia
+5897,45+,2.0,Locals,No Degree,5000,Social Moviment,Georgia
+5898,18-24,1.0,Locals,High School,2600,Social Moviment,Georgia
+5899,25-44,1.0,Locals,High School,5700,Social Moviment,Georgia
+5900,45+,1.0,Locals,High School,4300,Social Moviment,Georgia
+5901,18-24,2.0,Locals,High School,4100,Social Moviment,Georgia
+5902,25-44,2.0,Locals,High School,9500,Social Moviment,Georgia
+5903,45+,2.0,Locals,High School,7900,Social Moviment,Georgia
+5904,18-24,1.0,Expats,Graduated,20,Social Moviment,Hawaii
+5905,25-44,1.0,Expats,Graduated,210,Social Moviment,Hawaii
+5906,45+,1.0,Expats,Graduated,200,Social Moviment,Hawaii
+5907,18-24,2.0,Expats,Graduated,90,Social Moviment,Hawaii
+5908,25-44,2.0,Expats,Graduated,370,Social Moviment,Hawaii
+5909,45+,2.0,Expats,Graduated,340,Social Moviment,Hawaii
+5910,18-24,1.0,Expats,No Degree,30,Social Moviment,Hawaii
+5911,25-44,1.0,Expats,No Degree,130,Social Moviment,Hawaii
+5912,45+,1.0,Expats,No Degree,100,Social Moviment,Hawaii
+5913,18-24,2.0,Expats,No Degree,30,Social Moviment,Hawaii
+5914,25-44,2.0,Expats,No Degree,130,Social Moviment,Hawaii
+5915,45+,2.0,Expats,No Degree,160,Social Moviment,Hawaii
+5916,18-24,1.0,Expats,High School,50,Social Moviment,Hawaii
+5917,25-44,1.0,Expats,High School,100,Social Moviment,Hawaii
+5918,45+,1.0,Expats,High School,110,Social Moviment,Hawaii
+5919,18-24,2.0,Expats,High School,120,Social Moviment,Hawaii
+5920,25-44,2.0,Expats,High School,100,Social Moviment,Hawaii
+5921,45+,2.0,Expats,High School,120,Social Moviment,Hawaii
+5922,18-24,1.0,Locals,Graduated,150,Social Moviment,Hawaii
+5923,25-44,1.0,Locals,Graduated,1200,Social Moviment,Hawaii
+5924,45+,1.0,Locals,Graduated,1100,Social Moviment,Hawaii
+5925,18-24,2.0,Locals,Graduated,180,Social Moviment,Hawaii
+5926,25-44,2.0,Locals,Graduated,1800,Social Moviment,Hawaii
+5927,45+,2.0,Locals,Graduated,2000,Social Moviment,Hawaii
+5928,18-24,1.0,Locals,No Degree,30,Social Moviment,Hawaii
+5929,25-44,1.0,Locals,No Degree,260,Social Moviment,Hawaii
+5930,45+,1.0,Locals,No Degree,220,Social Moviment,Hawaii
+5931,18-24,2.0,Locals,No Degree,90,Social Moviment,Hawaii
+5932,25-44,2.0,Locals,No Degree,400,Social Moviment,Hawaii
+5933,45+,2.0,Locals,No Degree,520,Social Moviment,Hawaii
+5934,18-24,1.0,Locals,High School,240,Social Moviment,Hawaii
+5935,25-44,1.0,Locals,High School,620,Social Moviment,Hawaii
+5936,45+,1.0,Locals,High School,270,Social Moviment,Hawaii
+5937,18-24,2.0,Locals,High School,450,Social Moviment,Hawaii
+5938,25-44,2.0,Locals,High School,800,Social Moviment,Hawaii
+5939,45+,2.0,Locals,High School,770,Social Moviment,Hawaii
+5940,18-24,1.0,Expats,Graduated,80,Social Moviment,Idaho
+5941,25-44,1.0,Expats,Graduated,90,Social Moviment,Idaho
+5942,45+,1.0,Expats,Graduated,70,Social Moviment,Idaho
+5943,18-24,2.0,Expats,Graduated,20,Social Moviment,Idaho
+5944,25-44,2.0,Expats,Graduated,120,Social Moviment,Idaho
+5945,45+,2.0,Expats,Graduated,130,Social Moviment,Idaho
+5946,18-24,1.0,Expats,No Degree,20,Social Moviment,Idaho
+5947,25-44,1.0,Expats,No Degree,20,Social Moviment,Idaho
+5948,45+,1.0,Expats,No Degree,20,Social Moviment,Idaho
+5949,18-24,2.0,Expats,No Degree,30,Social Moviment,Idaho
+5950,25-44,2.0,Expats,No Degree,70,Social Moviment,Idaho
+5951,45+,2.0,Expats,No Degree,40,Social Moviment,Idaho
+5952,18-24,1.0,Expats,High School,90,Social Moviment,Idaho
+5953,25-44,1.0,Expats,High School,50,Social Moviment,Idaho
+5954,45+,1.0,Expats,High School,20,Social Moviment,Idaho
+5955,18-24,2.0,Expats,High School,60,Social Moviment,Idaho
+5956,25-44,2.0,Expats,High School,30,Social Moviment,Idaho
+5957,45+,2.0,Expats,High School,60,Social Moviment,Idaho
+5958,18-24,1.0,Locals,Graduated,290,Social Moviment,Idaho
+5959,25-44,1.0,Locals,Graduated,1300,Social Moviment,Idaho
+5960,45+,1.0,Locals,Graduated,1200,Social Moviment,Idaho
+5961,18-24,2.0,Locals,Graduated,480,Social Moviment,Idaho
+5962,25-44,2.0,Locals,Graduated,3800,Social Moviment,Idaho
+5963,45+,2.0,Locals,Graduated,3100,Social Moviment,Idaho
+5964,18-24,1.0,Locals,No Degree,210,Social Moviment,Idaho
+5965,25-44,1.0,Locals,No Degree,320,Social Moviment,Idaho
+5966,45+,1.0,Locals,No Degree,400,Social Moviment,Idaho
+5967,18-24,2.0,Locals,No Degree,500,Social Moviment,Idaho
+5968,25-44,2.0,Locals,No Degree,800,Social Moviment,Idaho
+5969,45+,2.0,Locals,No Degree,980,Social Moviment,Idaho
+5970,18-24,1.0,Locals,High School,680,Social Moviment,Idaho
+5971,25-44,1.0,Locals,High School,1000,Social Moviment,Idaho
+5972,45+,1.0,Locals,High School,490,Social Moviment,Idaho
+5973,18-24,2.0,Locals,High School,1200,Social Moviment,Idaho
+5974,25-44,2.0,Locals,High School,2300,Social Moviment,Idaho
+5975,45+,2.0,Locals,High School,1700,Social Moviment,Idaho
+5976,18-24,1.0,Expats,Graduated,640,Social Moviment,Illinois
+5977,25-44,1.0,Expats,Graduated,2600,Social Moviment,Illinois
+5978,45+,1.0,Expats,Graduated,1300,Social Moviment,Illinois
+5979,18-24,2.0,Expats,Graduated,520,Social Moviment,Illinois
+5980,25-44,2.0,Expats,Graduated,2700,Social Moviment,Illinois
+5981,45+,2.0,Expats,Graduated,1400,Social Moviment,Illinois
+5982,18-24,1.0,Expats,No Degree,290,Social Moviment,Illinois
+5983,25-44,1.0,Expats,No Degree,1100,Social Moviment,Illinois
+5984,45+,1.0,Expats,No Degree,710,Social Moviment,Illinois
+5985,18-24,2.0,Expats,No Degree,280,Social Moviment,Illinois
+5986,25-44,2.0,Expats,No Degree,960,Social Moviment,Illinois
+5987,45+,2.0,Expats,No Degree,800,Social Moviment,Illinois
+5988,18-24,1.0,Expats,High School,730,Social Moviment,Illinois
+5989,25-44,1.0,Expats,High School,1100,Social Moviment,Illinois
+5990,45+,1.0,Expats,High School,420,Social Moviment,Illinois
+5991,18-24,2.0,Expats,High School,710,Social Moviment,Illinois
+5992,25-44,2.0,Expats,High School,930,Social Moviment,Illinois
+5993,45+,2.0,Expats,High School,470,Social Moviment,Illinois
+5994,18-24,1.0,Locals,Graduated,3400,Social Moviment,Illinois
+5995,25-44,1.0,Locals,Graduated,14000,Social Moviment,Illinois
+5996,45+,1.0,Locals,Graduated,11000,Social Moviment,Illinois
+5997,18-24,2.0,Locals,Graduated,4000,Social Moviment,Illinois
+5998,25-44,2.0,Locals,Graduated,23000,Social Moviment,Illinois
+5999,45+,2.0,Locals,Graduated,19000,Social Moviment,Illinois
+6000,18-24,1.0,Locals,No Degree,1800,Social Moviment,Illinois
+6001,25-44,1.0,Locals,No Degree,3500,Social Moviment,Illinois
+6002,45+,1.0,Locals,No Degree,3400,Social Moviment,Illinois
+6003,18-24,2.0,Locals,No Degree,2300,Social Moviment,Illinois
+6004,25-44,2.0,Locals,No Degree,4300,Social Moviment,Illinois
+6005,45+,2.0,Locals,No Degree,5700,Social Moviment,Illinois
+6006,18-24,1.0,Locals,High School,5000,Social Moviment,Illinois
+6007,25-44,1.0,Locals,High School,7200,Social Moviment,Illinois
+6008,45+,1.0,Locals,High School,4900,Social Moviment,Illinois
+6009,18-24,2.0,Locals,High School,6800,Social Moviment,Illinois
+6010,25-44,2.0,Locals,High School,9700,Social Moviment,Illinois
+6011,45+,2.0,Locals,High School,8300,Social Moviment,Illinois
+6012,18-24,1.0,Expats,Graduated,210,Social Moviment,Indiana
+6013,25-44,1.0,Expats,Graduated,600,Social Moviment,Indiana
+6014,45+,1.0,Expats,Graduated,240,Social Moviment,Indiana
+6015,18-24,2.0,Expats,Graduated,130,Social Moviment,Indiana
+6016,25-44,2.0,Expats,Graduated,530,Social Moviment,Indiana
+6017,45+,2.0,Expats,Graduated,310,Social Moviment,Indiana
+6018,18-24,1.0,Expats,No Degree,80,Social Moviment,Indiana
+6019,25-44,1.0,Expats,No Degree,280,Social Moviment,Indiana
+6020,45+,1.0,Expats,No Degree,120,Social Moviment,Indiana
+6021,18-24,2.0,Expats,No Degree,50,Social Moviment,Indiana
+6022,25-44,2.0,Expats,No Degree,200,Social Moviment,Indiana
+6023,45+,2.0,Expats,No Degree,140,Social Moviment,Indiana
+6024,18-24,1.0,Expats,High School,200,Social Moviment,Indiana
+6025,25-44,1.0,Expats,High School,260,Social Moviment,Indiana
+6026,45+,1.0,Expats,High School,70,Social Moviment,Indiana
+6027,18-24,2.0,Expats,High School,160,Social Moviment,Indiana
+6028,25-44,2.0,Expats,High School,190,Social Moviment,Indiana
+6029,45+,2.0,Expats,High School,100,Social Moviment,Indiana
+6030,18-24,1.0,Locals,Graduated,1300,Social Moviment,Indiana
+6031,25-44,1.0,Locals,Graduated,5600,Social Moviment,Indiana
+6032,45+,1.0,Locals,Graduated,5100,Social Moviment,Indiana
+6033,18-24,2.0,Locals,Graduated,1700,Social Moviment,Indiana
+6034,25-44,2.0,Locals,Graduated,11000,Social Moviment,Indiana
+6035,45+,2.0,Locals,Graduated,10000,Social Moviment,Indiana
+6036,18-24,1.0,Locals,No Degree,710,Social Moviment,Indiana
+6037,25-44,1.0,Locals,No Degree,1400,Social Moviment,Indiana
+6038,45+,1.0,Locals,No Degree,1600,Social Moviment,Indiana
+6039,18-24,2.0,Locals,No Degree,1100,Social Moviment,Indiana
+6040,25-44,2.0,Locals,No Degree,2100,Social Moviment,Indiana
+6041,45+,2.0,Locals,No Degree,3000,Social Moviment,Indiana
+6042,18-24,1.0,Locals,High School,2100,Social Moviment,Indiana
+6043,25-44,1.0,Locals,High School,3800,Social Moviment,Indiana
+6044,45+,1.0,Locals,High School,2900,Social Moviment,Indiana
+6045,18-24,2.0,Locals,High School,3600,Social Moviment,Indiana
+6046,25-44,2.0,Locals,High School,7000,Social Moviment,Indiana
+6047,45+,2.0,Locals,High School,6100,Social Moviment,Indiana
+6048,18-24,1.0,Expats,Graduated,80,Social Moviment,Iowa
+6049,25-44,1.0,Expats,Graduated,350,Social Moviment,Iowa
+6050,45+,1.0,Expats,Graduated,140,Social Moviment,Iowa
+6051,18-24,2.0,Expats,Graduated,40,Social Moviment,Iowa
+6052,25-44,2.0,Expats,Graduated,380,Social Moviment,Iowa
+6053,45+,2.0,Expats,Graduated,130,Social Moviment,Iowa
+6054,18-24,1.0,Expats,No Degree,20,Social Moviment,Iowa
+6055,25-44,1.0,Expats,No Degree,90,Social Moviment,Iowa
+6056,45+,1.0,Expats,No Degree,20,Social Moviment,Iowa
+6057,18-24,2.0,Expats,No Degree,40,Social Moviment,Iowa
+6058,25-44,2.0,Expats,No Degree,120,Social Moviment,Iowa
+6059,45+,2.0,Expats,No Degree,50,Social Moviment,Iowa
+6060,18-24,1.0,Expats,High School,80,Social Moviment,Iowa
+6061,25-44,1.0,Expats,High School,150,Social Moviment,Iowa
+6062,45+,1.0,Expats,High School,20,Social Moviment,Iowa
+6063,18-24,2.0,Expats,High School,100,Social Moviment,Iowa
+6064,25-44,2.0,Expats,High School,90,Social Moviment,Iowa
+6065,45+,2.0,Expats,High School,70,Social Moviment,Iowa
+6066,18-24,1.0,Locals,Graduated,730,Social Moviment,Iowa
+6067,25-44,1.0,Locals,Graduated,2600,Social Moviment,Iowa
+6068,45+,1.0,Locals,Graduated,2000,Social Moviment,Iowa
+6069,18-24,2.0,Locals,Graduated,890,Social Moviment,Iowa
+6070,25-44,2.0,Locals,Graduated,5800,Social Moviment,Iowa
+6071,45+,2.0,Locals,Graduated,4900,Social Moviment,Iowa
+6072,18-24,1.0,Locals,No Degree,310,Social Moviment,Iowa
+6073,25-44,1.0,Locals,No Degree,410,Social Moviment,Iowa
+6074,45+,1.0,Locals,No Degree,530,Social Moviment,Iowa
+6075,18-24,2.0,Locals,No Degree,490,Social Moviment,Iowa
+6076,25-44,2.0,Locals,No Degree,890,Social Moviment,Iowa
+6077,45+,2.0,Locals,No Degree,1400,Social Moviment,Iowa
+6078,18-24,1.0,Locals,High School,900,Social Moviment,Iowa
+6079,25-44,1.0,Locals,High School,1300,Social Moviment,Iowa
+6080,45+,1.0,Locals,High School,910,Social Moviment,Iowa
+6081,18-24,2.0,Locals,High School,1400,Social Moviment,Iowa
+6082,25-44,2.0,Locals,High School,2100,Social Moviment,Iowa
+6083,45+,2.0,Locals,High School,2100,Social Moviment,Iowa
+6084,18-24,1.0,Expats,Graduated,50,Social Moviment,Kansas
+6085,25-44,1.0,Expats,Graduated,360,Social Moviment,Kansas
+6086,45+,1.0,Expats,Graduated,140,Social Moviment,Kansas
+6087,18-24,2.0,Expats,Graduated,60,Social Moviment,Kansas
+6088,25-44,2.0,Expats,Graduated,320,Social Moviment,Kansas
+6089,45+,2.0,Expats,Graduated,150,Social Moviment,Kansas
+6090,18-24,1.0,Expats,No Degree,110,Social Moviment,Kansas
+6091,25-44,1.0,Expats,No Degree,70,Social Moviment,Kansas
+6092,45+,1.0,Expats,No Degree,30,Social Moviment,Kansas
+6093,18-24,2.0,Expats,No Degree,70,Social Moviment,Kansas
+6094,25-44,2.0,Expats,No Degree,160,Social Moviment,Kansas
+6095,45+,2.0,Expats,No Degree,100,Social Moviment,Kansas
+6096,18-24,1.0,Expats,High School,140,Social Moviment,Kansas
+6097,25-44,1.0,Expats,High School,140,Social Moviment,Kansas
+6098,45+,1.0,Expats,High School,30,Social Moviment,Kansas
+6099,18-24,2.0,Expats,High School,70,Social Moviment,Kansas
+6100,25-44,2.0,Expats,High School,180,Social Moviment,Kansas
+6101,45+,2.0,Expats,High School,110,Social Moviment,Kansas
+6102,18-24,1.0,Locals,Graduated,540,Social Moviment,Kansas
+6103,25-44,1.0,Locals,Graduated,2100,Social Moviment,Kansas
+6104,45+,1.0,Locals,Graduated,2400,Social Moviment,Kansas
+6105,18-24,2.0,Locals,Graduated,810,Social Moviment,Kansas
+6106,25-44,2.0,Locals,Graduated,4900,Social Moviment,Kansas
+6107,45+,2.0,Locals,Graduated,4700,Social Moviment,Kansas
+6108,18-24,1.0,Locals,No Degree,190,Social Moviment,Kansas
+6109,25-44,1.0,Locals,No Degree,610,Social Moviment,Kansas
+6110,45+,1.0,Locals,No Degree,730,Social Moviment,Kansas
+6111,18-24,2.0,Locals,No Degree,540,Social Moviment,Kansas
+6112,25-44,2.0,Locals,No Degree,1000,Social Moviment,Kansas
+6113,45+,2.0,Locals,No Degree,1300,Social Moviment,Kansas
+6114,18-24,1.0,Locals,High School,1100,Social Moviment,Kansas
+6115,25-44,1.0,Locals,High School,1400,Social Moviment,Kansas
+6116,45+,1.0,Locals,High School,960,Social Moviment,Kansas
+6117,18-24,2.0,Locals,High School,1600,Social Moviment,Kansas
+6118,25-44,2.0,Locals,High School,2600,Social Moviment,Kansas
+6119,45+,2.0,Locals,High School,2100,Social Moviment,Kansas
+6120,18-24,1.0,Expats,Graduated,80,Social Moviment,Kentucky
+6121,25-44,1.0,Expats,Graduated,240,Social Moviment,Kentucky
+6122,45+,1.0,Expats,Graduated,100,Social Moviment,Kentucky
+6123,18-24,2.0,Expats,Graduated,40,Social Moviment,Kentucky
+6124,25-44,2.0,Expats,Graduated,310,Social Moviment,Kentucky
+6125,45+,2.0,Expats,Graduated,110,Social Moviment,Kentucky
+6126,18-24,1.0,Expats,No Degree,20,Social Moviment,Kentucky
+6127,25-44,1.0,Expats,No Degree,90,Social Moviment,Kentucky
+6128,45+,1.0,Expats,No Degree,60,Social Moviment,Kentucky
+6129,18-24,2.0,Expats,No Degree,20,Social Moviment,Kentucky
+6130,25-44,2.0,Expats,No Degree,60,Social Moviment,Kentucky
+6131,45+,2.0,Expats,No Degree,60,Social Moviment,Kentucky
+6132,18-24,1.0,Expats,High School,90,Social Moviment,Kentucky
+6133,25-44,1.0,Expats,High School,100,Social Moviment,Kentucky
+6134,45+,1.0,Expats,High School,50,Social Moviment,Kentucky
+6135,18-24,2.0,Expats,High School,80,Social Moviment,Kentucky
+6136,25-44,2.0,Expats,High School,60,Social Moviment,Kentucky
+6137,45+,2.0,Expats,High School,50,Social Moviment,Kentucky
+6138,18-24,1.0,Locals,Graduated,640,Social Moviment,Kentucky
+6139,25-44,1.0,Locals,Graduated,3300,Social Moviment,Kentucky
+6140,45+,1.0,Locals,Graduated,3500,Social Moviment,Kentucky
+6141,18-24,2.0,Locals,Graduated,880,Social Moviment,Kentucky
+6142,25-44,2.0,Locals,Graduated,6900,Social Moviment,Kentucky
+6143,45+,2.0,Locals,Graduated,6300,Social Moviment,Kentucky
+6144,18-24,1.0,Locals,No Degree,380,Social Moviment,Kentucky
+6145,25-44,1.0,Locals,No Degree,790,Social Moviment,Kentucky
+6146,45+,1.0,Locals,No Degree,1100,Social Moviment,Kentucky
+6147,18-24,2.0,Locals,No Degree,560,Social Moviment,Kentucky
+6148,25-44,2.0,Locals,No Degree,1400,Social Moviment,Kentucky
+6149,45+,2.0,Locals,No Degree,2400,Social Moviment,Kentucky
+6150,18-24,1.0,Locals,High School,1100,Social Moviment,Kentucky
+6151,25-44,1.0,Locals,High School,2500,Social Moviment,Kentucky
+6152,45+,1.0,Locals,High School,2000,Social Moviment,Kentucky
+6153,18-24,2.0,Locals,High School,2200,Social Moviment,Kentucky
+6154,25-44,2.0,Locals,High School,4700,Social Moviment,Kentucky
+6155,45+,2.0,Locals,High School,4000,Social Moviment,Kentucky
+6156,18-24,1.0,Expats,Graduated,120,Social Moviment,Louisiana
+6157,25-44,1.0,Expats,Graduated,370,Social Moviment,Louisiana
+6158,45+,1.0,Expats,Graduated,150,Social Moviment,Louisiana
+6159,18-24,2.0,Expats,Graduated,70,Social Moviment,Louisiana
+6160,25-44,2.0,Expats,Graduated,350,Social Moviment,Louisiana
+6161,45+,2.0,Expats,Graduated,210,Social Moviment,Louisiana
+6162,18-24,1.0,Expats,No Degree,50,Social Moviment,Louisiana
+6163,25-44,1.0,Expats,No Degree,130,Social Moviment,Louisiana
+6164,45+,1.0,Expats,No Degree,110,Social Moviment,Louisiana
+6165,18-24,2.0,Expats,No Degree,40,Social Moviment,Louisiana
+6166,25-44,2.0,Expats,No Degree,130,Social Moviment,Louisiana
+6167,45+,2.0,Expats,No Degree,70,Social Moviment,Louisiana
+6168,18-24,1.0,Expats,High School,70,Social Moviment,Louisiana
+6169,25-44,1.0,Expats,High School,110,Social Moviment,Louisiana
+6170,45+,1.0,Expats,High School,40,Social Moviment,Louisiana
+6171,18-24,2.0,Expats,High School,70,Social Moviment,Louisiana
+6172,25-44,2.0,Expats,High School,110,Social Moviment,Louisiana
+6173,45+,2.0,Expats,High School,60,Social Moviment,Louisiana
+6174,18-24,1.0,Locals,Graduated,660,Social Moviment,Louisiana
+6175,25-44,1.0,Locals,Graduated,3800,Social Moviment,Louisiana
+6176,45+,1.0,Locals,Graduated,3200,Social Moviment,Louisiana
+6177,18-24,2.0,Locals,Graduated,1000,Social Moviment,Louisiana
+6178,25-44,2.0,Locals,Graduated,7600,Social Moviment,Louisiana
+6179,45+,2.0,Locals,Graduated,5400,Social Moviment,Louisiana
+6180,18-24,1.0,Locals,No Degree,290,Social Moviment,Louisiana
+6181,25-44,1.0,Locals,No Degree,1300,Social Moviment,Louisiana
+6182,45+,1.0,Locals,No Degree,1300,Social Moviment,Louisiana
+6183,18-24,2.0,Locals,No Degree,540,Social Moviment,Louisiana
+6184,25-44,2.0,Locals,No Degree,1700,Social Moviment,Louisiana
+6185,45+,2.0,Locals,No Degree,2300,Social Moviment,Louisiana
+6186,18-24,1.0,Locals,High School,970,Social Moviment,Louisiana
+6187,25-44,1.0,Locals,High School,2800,Social Moviment,Louisiana
+6188,45+,1.0,Locals,High School,1800,Social Moviment,Louisiana
+6189,18-24,2.0,Locals,High School,1800,Social Moviment,Louisiana
+6190,25-44,2.0,Locals,High School,4600,Social Moviment,Louisiana
+6191,45+,2.0,Locals,High School,3300,Social Moviment,Louisiana
+6192,18-24,1.0,Expats,Graduated,50,Social Moviment,Maine
+6193,25-44,1.0,Expats,Graduated,70,Social Moviment,Maine
+6194,45+,1.0,Expats,Graduated,70,Social Moviment,Maine
+6195,18-24,2.0,Expats,Graduated,40,Social Moviment,Maine
+6196,25-44,2.0,Expats,Graduated,50,Social Moviment,Maine
+6197,45+,2.0,Expats,Graduated,50,Social Moviment,Maine
+6198,18-24,1.0,Expats,No Degree,20,Social Moviment,Maine
+6199,25-44,1.0,Expats,No Degree,30,Social Moviment,Maine
+6200,45+,1.0,Expats,No Degree,20,Social Moviment,Maine
+6201,18-24,2.0,Expats,No Degree,20,Social Moviment,Maine
+6202,25-44,2.0,Expats,No Degree,20,Social Moviment,Maine
+6203,45+,2.0,Expats,No Degree,40,Social Moviment,Maine
+6204,18-24,1.0,Expats,High School,20,Social Moviment,Maine
+6205,25-44,1.0,Expats,High School,20,Social Moviment,Maine
+6206,45+,1.0,Expats,High School,20,Social Moviment,Maine
+6207,18-24,2.0,Expats,High School,20,Social Moviment,Maine
+6208,25-44,2.0,Expats,High School,40,Social Moviment,Maine
+6209,45+,2.0,Expats,High School,20,Social Moviment,Maine
+6210,18-24,1.0,Locals,Graduated,180,Social Moviment,Maine
+6211,25-44,1.0,Locals,Graduated,1100,Social Moviment,Maine
+6212,45+,1.0,Locals,Graduated,1200,Social Moviment,Maine
+6213,18-24,2.0,Locals,Graduated,300,Social Moviment,Maine
+6214,25-44,2.0,Locals,Graduated,3000,Social Moviment,Maine
+6215,45+,2.0,Locals,Graduated,3700,Social Moviment,Maine
+6216,18-24,1.0,Locals,No Degree,170,Social Moviment,Maine
+6217,25-44,1.0,Locals,No Degree,220,Social Moviment,Maine
+6218,45+,1.0,Locals,No Degree,410,Social Moviment,Maine
+6219,18-24,2.0,Locals,No Degree,330,Social Moviment,Maine
+6220,25-44,2.0,Locals,No Degree,480,Social Moviment,Maine
+6221,45+,2.0,Locals,No Degree,810,Social Moviment,Maine
+6222,18-24,1.0,Locals,High School,530,Social Moviment,Maine
+6223,25-44,1.0,Locals,High School,830,Social Moviment,Maine
+6224,45+,1.0,Locals,High School,650,Social Moviment,Maine
+6225,18-24,2.0,Locals,High School,650,Social Moviment,Maine
+6226,25-44,2.0,Locals,High School,1800,Social Moviment,Maine
+6227,45+,2.0,Locals,High School,1500,Social Moviment,Maine
+6228,18-24,1.0,Expats,Graduated,280,Social Moviment,Maryland
+6229,25-44,1.0,Expats,Graduated,1500,Social Moviment,Maryland
+6230,45+,1.0,Expats,Graduated,850,Social Moviment,Maryland
+6231,18-24,2.0,Expats,Graduated,260,Social Moviment,Maryland
+6232,25-44,2.0,Expats,Graduated,1600,Social Moviment,Maryland
+6233,45+,2.0,Expats,Graduated,1100,Social Moviment,Maryland
+6234,18-24,1.0,Expats,No Degree,150,Social Moviment,Maryland
+6235,25-44,1.0,Expats,No Degree,520,Social Moviment,Maryland
+6236,45+,1.0,Expats,No Degree,340,Social Moviment,Maryland
+6237,18-24,2.0,Expats,No Degree,140,Social Moviment,Maryland
+6238,25-44,2.0,Expats,No Degree,470,Social Moviment,Maryland
+6239,45+,2.0,Expats,No Degree,380,Social Moviment,Maryland
+6240,18-24,1.0,Expats,High School,290,Social Moviment,Maryland
+6241,25-44,1.0,Expats,High School,520,Social Moviment,Maryland
+6242,45+,1.0,Expats,High School,250,Social Moviment,Maryland
+6243,18-24,2.0,Expats,High School,330,Social Moviment,Maryland
+6244,25-44,2.0,Expats,High School,490,Social Moviment,Maryland
+6245,45+,2.0,Expats,High School,270,Social Moviment,Maryland
+6246,18-24,1.0,Locals,Graduated,900,Social Moviment,Maryland
+6247,25-44,1.0,Locals,Graduated,5900,Social Moviment,Maryland
+6248,45+,1.0,Locals,Graduated,5500,Social Moviment,Maryland
+6249,18-24,2.0,Locals,Graduated,1300,Social Moviment,Maryland
+6250,25-44,2.0,Locals,Graduated,11000,Social Moviment,Maryland
+6251,45+,2.0,Locals,Graduated,11000,Social Moviment,Maryland
+6252,18-24,1.0,Locals,No Degree,340,Social Moviment,Maryland
+6253,25-44,1.0,Locals,No Degree,1200,Social Moviment,Maryland
+6254,45+,1.0,Locals,No Degree,1600,Social Moviment,Maryland
+6255,18-24,2.0,Locals,No Degree,510,Social Moviment,Maryland
+6256,25-44,2.0,Locals,No Degree,1800,Social Moviment,Maryland
+6257,45+,2.0,Locals,No Degree,2800,Social Moviment,Maryland
+6258,18-24,1.0,Locals,High School,1300,Social Moviment,Maryland
+6259,25-44,1.0,Locals,High School,2700,Social Moviment,Maryland
+6260,45+,1.0,Locals,High School,2200,Social Moviment,Maryland
+6261,18-24,2.0,Locals,High School,1800,Social Moviment,Maryland
+6262,25-44,2.0,Locals,High School,4500,Social Moviment,Maryland
+6263,45+,2.0,Locals,High School,4100,Social Moviment,Maryland
+6264,18-24,1.0,Expats,Graduated,480,Social Moviment,Massachusetts
+6265,25-44,1.0,Expats,Graduated,2200,Social Moviment,Massachusetts
+6266,45+,1.0,Expats,Graduated,1100,Social Moviment,Massachusetts
+6267,18-24,2.0,Expats,Graduated,480,Social Moviment,Massachusetts
+6268,25-44,2.0,Expats,Graduated,2500,Social Moviment,Massachusetts
+6269,45+,2.0,Expats,Graduated,1300,Social Moviment,Massachusetts
+6270,18-24,1.0,Expats,No Degree,210,Social Moviment,Massachusetts
+6271,25-44,1.0,Expats,No Degree,750,Social Moviment,Massachusetts
+6272,45+,1.0,Expats,No Degree,530,Social Moviment,Massachusetts
+6273,18-24,2.0,Expats,No Degree,220,Social Moviment,Massachusetts
+6274,25-44,2.0,Expats,No Degree,730,Social Moviment,Massachusetts
+6275,45+,2.0,Expats,No Degree,630,Social Moviment,Massachusetts
+6276,18-24,1.0,Expats,High School,510,Social Moviment,Massachusetts
+6277,25-44,1.0,Expats,High School,900,Social Moviment,Massachusetts
+6278,45+,1.0,Expats,High School,350,Social Moviment,Massachusetts
+6279,18-24,2.0,Expats,High School,630,Social Moviment,Massachusetts
+6280,25-44,2.0,Expats,High School,850,Social Moviment,Massachusetts
+6281,45+,2.0,Expats,High School,430,Social Moviment,Massachusetts
+6282,18-24,1.0,Locals,Graduated,1500,Social Moviment,Massachusetts
+6283,25-44,1.0,Locals,Graduated,6800,Social Moviment,Massachusetts
+6284,45+,1.0,Locals,Graduated,4900,Social Moviment,Massachusetts
+6285,18-24,2.0,Locals,Graduated,2100,Social Moviment,Massachusetts
+6286,25-44,2.0,Locals,Graduated,13000,Social Moviment,Massachusetts
+6287,45+,2.0,Locals,Graduated,12000,Social Moviment,Massachusetts
+6288,18-24,1.0,Locals,No Degree,580,Social Moviment,Massachusetts
+6289,25-44,1.0,Locals,No Degree,1600,Social Moviment,Massachusetts
+6290,45+,1.0,Locals,No Degree,1400,Social Moviment,Massachusetts
+6291,18-24,2.0,Locals,No Degree,800,Social Moviment,Massachusetts
+6292,25-44,2.0,Locals,No Degree,2200,Social Moviment,Massachusetts
+6293,45+,2.0,Locals,No Degree,3200,Social Moviment,Massachusetts
+6294,18-24,1.0,Locals,High School,2300,Social Moviment,Massachusetts
+6295,25-44,1.0,Locals,High School,3300,Social Moviment,Massachusetts
+6296,45+,1.0,Locals,High School,1900,Social Moviment,Massachusetts
+6297,18-24,2.0,Locals,High School,3500,Social Moviment,Massachusetts
+6298,25-44,2.0,Locals,High School,5100,Social Moviment,Massachusetts
+6299,45+,2.0,Locals,High School,3900,Social Moviment,Massachusetts
+6300,18-24,1.0,Expats,Graduated,270,Social Moviment,Michigan
+6301,25-44,1.0,Expats,Graduated,900,Social Moviment,Michigan
+6302,45+,1.0,Expats,Graduated,430,Social Moviment,Michigan
+6303,18-24,2.0,Expats,Graduated,190,Social Moviment,Michigan
+6304,25-44,2.0,Expats,Graduated,900,Social Moviment,Michigan
+6305,45+,2.0,Expats,Graduated,620,Social Moviment,Michigan
+6306,18-24,1.0,Expats,No Degree,110,Social Moviment,Michigan
+6307,25-44,1.0,Expats,No Degree,260,Social Moviment,Michigan
+6308,45+,1.0,Expats,No Degree,220,Social Moviment,Michigan
+6309,18-24,2.0,Expats,No Degree,90,Social Moviment,Michigan
+6310,25-44,2.0,Expats,No Degree,240,Social Moviment,Michigan
+6311,45+,2.0,Expats,No Degree,260,Social Moviment,Michigan
+6312,18-24,1.0,Expats,High School,260,Social Moviment,Michigan
+6313,25-44,1.0,Expats,High School,320,Social Moviment,Michigan
+6314,45+,1.0,Expats,High School,120,Social Moviment,Michigan
+6315,18-24,2.0,Expats,High School,290,Social Moviment,Michigan
+6316,25-44,2.0,Expats,High School,320,Social Moviment,Michigan
+6317,45+,2.0,Expats,High School,170,Social Moviment,Michigan
+6318,18-24,1.0,Locals,Graduated,2000,Social Moviment,Michigan
+6319,25-44,1.0,Locals,Graduated,8900,Social Moviment,Michigan
+6320,45+,1.0,Locals,Graduated,7900,Social Moviment,Michigan
+6321,18-24,2.0,Locals,Graduated,2900,Social Moviment,Michigan
+6322,25-44,2.0,Locals,Graduated,17000,Social Moviment,Michigan
+6323,45+,2.0,Locals,Graduated,17000,Social Moviment,Michigan
+6324,18-24,1.0,Locals,No Degree,1000,Social Moviment,Michigan
+6325,25-44,1.0,Locals,No Degree,2200,Social Moviment,Michigan
+6326,45+,1.0,Locals,No Degree,2600,Social Moviment,Michigan
+6327,18-24,2.0,Locals,No Degree,1700,Social Moviment,Michigan
+6328,25-44,2.0,Locals,No Degree,3500,Social Moviment,Michigan
+6329,45+,2.0,Locals,No Degree,5000,Social Moviment,Michigan
+6330,18-24,1.0,Locals,High School,3200,Social Moviment,Michigan
+6331,25-44,1.0,Locals,High School,5400,Social Moviment,Michigan
+6332,45+,1.0,Locals,High School,4000,Social Moviment,Michigan
+6333,18-24,2.0,Locals,High School,5700,Social Moviment,Michigan
+6334,25-44,2.0,Locals,High School,9800,Social Moviment,Michigan
+6335,45+,2.0,Locals,High School,8600,Social Moviment,Michigan
+6336,18-24,1.0,Expats,Graduated,170,Social Moviment,Minnesota
+6337,25-44,1.0,Expats,Graduated,810,Social Moviment,Minnesota
+6338,45+,1.0,Expats,Graduated,320,Social Moviment,Minnesota
+6339,18-24,2.0,Expats,Graduated,180,Social Moviment,Minnesota
+6340,25-44,2.0,Expats,Graduated,810,Social Moviment,Minnesota
+6341,45+,2.0,Expats,Graduated,350,Social Moviment,Minnesota
+6342,18-24,1.0,Expats,No Degree,100,Social Moviment,Minnesota
+6343,25-44,1.0,Expats,No Degree,330,Social Moviment,Minnesota
+6344,45+,1.0,Expats,No Degree,160,Social Moviment,Minnesota
+6345,18-24,2.0,Expats,No Degree,100,Social Moviment,Minnesota
+6346,25-44,2.0,Expats,No Degree,280,Social Moviment,Minnesota
+6347,45+,2.0,Expats,No Degree,160,Social Moviment,Minnesota
+6348,18-24,1.0,Expats,High School,230,Social Moviment,Minnesota
+6349,25-44,1.0,Expats,High School,330,Social Moviment,Minnesota
+6350,45+,1.0,Expats,High School,90,Social Moviment,Minnesota
+6351,18-24,2.0,Expats,High School,280,Social Moviment,Minnesota
+6352,25-44,2.0,Expats,High School,270,Social Moviment,Minnesota
+6353,45+,2.0,Expats,High School,100,Social Moviment,Minnesota
+6354,18-24,1.0,Locals,Graduated,1100,Social Moviment,Minnesota
+6355,25-44,1.0,Locals,Graduated,4700,Social Moviment,Minnesota
+6356,45+,1.0,Locals,Graduated,3800,Social Moviment,Minnesota
+6357,18-24,2.0,Locals,Graduated,1500,Social Moviment,Minnesota
+6358,25-44,2.0,Locals,Graduated,11000,Social Moviment,Minnesota
+6359,45+,2.0,Locals,Graduated,9500,Social Moviment,Minnesota
+6360,18-24,1.0,Locals,No Degree,530,Social Moviment,Minnesota
+6361,25-44,1.0,Locals,No Degree,1100,Social Moviment,Minnesota
+6362,45+,1.0,Locals,No Degree,1100,Social Moviment,Minnesota
+6363,18-24,2.0,Locals,No Degree,900,Social Moviment,Minnesota
+6364,25-44,2.0,Locals,No Degree,1900,Social Moviment,Minnesota
+6365,45+,2.0,Locals,No Degree,2500,Social Moviment,Minnesota
+6366,18-24,1.0,Locals,High School,1700,Social Moviment,Minnesota
+6367,25-44,1.0,Locals,High School,2400,Social Moviment,Minnesota
+6368,45+,1.0,Locals,High School,1500,Social Moviment,Minnesota
+6369,18-24,2.0,Locals,High School,2800,Social Moviment,Minnesota
+6370,25-44,2.0,Locals,High School,4500,Social Moviment,Minnesota
+6371,45+,2.0,Locals,High School,3500,Social Moviment,Minnesota
+6372,18-24,1.0,Expats,Graduated,40,Social Moviment,Mississippi
+6373,25-44,1.0,Expats,Graduated,160,Social Moviment,Mississippi
+6374,45+,1.0,Expats,Graduated,50,Social Moviment,Mississippi
+6375,18-24,2.0,Expats,Graduated,50,Social Moviment,Mississippi
+6376,25-44,2.0,Expats,Graduated,100,Social Moviment,Mississippi
+6377,45+,2.0,Expats,Graduated,90,Social Moviment,Mississippi
+6378,18-24,1.0,Expats,No Degree,20,Social Moviment,Mississippi
+6379,25-44,1.0,Expats,No Degree,90,Social Moviment,Mississippi
+6380,45+,1.0,Expats,No Degree,70,Social Moviment,Mississippi
+6381,18-24,2.0,Expats,No Degree,20,Social Moviment,Mississippi
+6382,25-44,2.0,Expats,No Degree,30,Social Moviment,Mississippi
+6383,45+,2.0,Expats,No Degree,20,Social Moviment,Mississippi
+6384,18-24,1.0,Expats,High School,30,Social Moviment,Mississippi
+6385,25-44,1.0,Expats,High School,140,Social Moviment,Mississippi
+6386,45+,1.0,Expats,High School,20,Social Moviment,Mississippi
+6387,18-24,2.0,Expats,High School,20,Social Moviment,Mississippi
+6388,25-44,2.0,Expats,High School,40,Social Moviment,Mississippi
+6389,45+,2.0,Expats,High School,40,Social Moviment,Mississippi
+6390,18-24,1.0,Locals,Graduated,620,Social Moviment,Mississippi
+6391,25-44,1.0,Locals,Graduated,2900,Social Moviment,Mississippi
+6392,45+,1.0,Locals,Graduated,2300,Social Moviment,Mississippi
+6393,18-24,2.0,Locals,Graduated,720,Social Moviment,Mississippi
+6394,25-44,2.0,Locals,Graduated,4900,Social Moviment,Mississippi
+6395,45+,2.0,Locals,Graduated,4200,Social Moviment,Mississippi
+6396,18-24,1.0,Locals,No Degree,220,Social Moviment,Mississippi
+6397,25-44,1.0,Locals,No Degree,600,Social Moviment,Mississippi
+6398,45+,1.0,Locals,No Degree,890,Social Moviment,Mississippi
+6399,18-24,2.0,Locals,No Degree,480,Social Moviment,Mississippi
+6400,25-44,2.0,Locals,No Degree,960,Social Moviment,Mississippi
+6401,45+,2.0,Locals,No Degree,1500,Social Moviment,Mississippi
+6402,18-24,1.0,Locals,High School,600,Social Moviment,Mississippi
+6403,25-44,1.0,Locals,High School,1700,Social Moviment,Mississippi
+6404,45+,1.0,Locals,High School,1400,Social Moviment,Mississippi
+6405,18-24,2.0,Locals,High School,1400,Social Moviment,Mississippi
+6406,25-44,2.0,Locals,High School,2800,Social Moviment,Mississippi
+6407,45+,2.0,Locals,High School,2200,Social Moviment,Mississippi
+6408,18-24,1.0,Expats,Graduated,140,Social Moviment,Missouri
+6409,25-44,1.0,Expats,Graduated,450,Social Moviment,Missouri
+6410,45+,1.0,Expats,Graduated,240,Social Moviment,Missouri
+6411,18-24,2.0,Expats,Graduated,110,Social Moviment,Missouri
+6412,25-44,2.0,Expats,Graduated,500,Social Moviment,Missouri
+6413,45+,2.0,Expats,Graduated,250,Social Moviment,Missouri
+6414,18-24,1.0,Expats,No Degree,50,Social Moviment,Missouri
+6415,25-44,1.0,Expats,No Degree,180,Social Moviment,Missouri
+6416,45+,1.0,Expats,No Degree,100,Social Moviment,Missouri
+6417,18-24,2.0,Expats,No Degree,50,Social Moviment,Missouri
+6418,25-44,2.0,Expats,No Degree,170,Social Moviment,Missouri
+6419,45+,2.0,Expats,No Degree,120,Social Moviment,Missouri
+6420,18-24,1.0,Expats,High School,140,Social Moviment,Missouri
+6421,25-44,1.0,Expats,High School,230,Social Moviment,Missouri
+6422,45+,1.0,Expats,High School,60,Social Moviment,Missouri
+6423,18-24,2.0,Expats,High School,170,Social Moviment,Missouri
+6424,25-44,2.0,Expats,High School,190,Social Moviment,Missouri
+6425,45+,2.0,Expats,High School,80,Social Moviment,Missouri
+6426,18-24,1.0,Locals,Graduated,1200,Social Moviment,Missouri
+6427,25-44,1.0,Locals,Graduated,5100,Social Moviment,Missouri
+6428,45+,1.0,Locals,Graduated,5000,Social Moviment,Missouri
+6429,18-24,2.0,Locals,Graduated,1700,Social Moviment,Missouri
+6430,25-44,2.0,Locals,Graduated,11000,Social Moviment,Missouri
+6431,45+,2.0,Locals,Graduated,10000,Social Moviment,Missouri
+6432,18-24,1.0,Locals,No Degree,590,Social Moviment,Missouri
+6433,25-44,1.0,Locals,No Degree,1500,Social Moviment,Missouri
+6434,45+,1.0,Locals,No Degree,1700,Social Moviment,Missouri
+6435,18-24,2.0,Locals,No Degree,1100,Social Moviment,Missouri
+6436,25-44,2.0,Locals,No Degree,2400,Social Moviment,Missouri
+6437,45+,2.0,Locals,No Degree,3400,Social Moviment,Missouri
+6438,18-24,1.0,Locals,High School,1900,Social Moviment,Missouri
+6439,25-44,1.0,Locals,High School,3600,Social Moviment,Missouri
+6440,45+,1.0,Locals,High School,2900,Social Moviment,Missouri
+6441,18-24,2.0,Locals,High School,3300,Social Moviment,Missouri
+6442,25-44,2.0,Locals,High School,6300,Social Moviment,Missouri
+6443,45+,2.0,Locals,High School,5700,Social Moviment,Missouri
+6444,18-24,1.0,Expats,Graduated,20,Social Moviment,Montana
+6445,25-44,1.0,Expats,Graduated,70,Social Moviment,Montana
+6446,45+,1.0,Expats,Graduated,40,Social Moviment,Montana
+6447,18-24,2.0,Expats,Graduated,30,Social Moviment,Montana
+6448,25-44,2.0,Expats,Graduated,70,Social Moviment,Montana
+6449,45+,2.0,Expats,Graduated,60,Social Moviment,Montana
+6450,18-24,1.0,Expats,No Degree,20,Social Moviment,Montana
+6451,25-44,1.0,Expats,No Degree,20,Social Moviment,Montana
+6452,45+,1.0,Expats,No Degree,20,Social Moviment,Montana
+6453,18-24,2.0,Expats,No Degree,20,Social Moviment,Montana
+6454,25-44,2.0,Expats,No Degree,40,Social Moviment,Montana
+6455,45+,2.0,Expats,No Degree,30,Social Moviment,Montana
+6456,18-24,1.0,Expats,High School,20,Social Moviment,Montana
+6457,25-44,1.0,Expats,High School,20,Social Moviment,Montana
+6458,45+,1.0,Expats,High School,20,Social Moviment,Montana
+6459,18-24,2.0,Expats,High School,20,Social Moviment,Montana
+6460,25-44,2.0,Expats,High School,20,Social Moviment,Montana
+6461,45+,2.0,Expats,High School,20,Social Moviment,Montana
+6462,18-24,1.0,Locals,Graduated,240,Social Moviment,Montana
+6463,25-44,1.0,Locals,Graduated,1100,Social Moviment,Montana
+6464,45+,1.0,Locals,Graduated,1000,Social Moviment,Montana
+6465,18-24,2.0,Locals,Graduated,500,Social Moviment,Montana
+6466,25-44,2.0,Locals,Graduated,2300,Social Moviment,Montana
+6467,45+,2.0,Locals,Graduated,2600,Social Moviment,Montana
+6468,18-24,1.0,Locals,No Degree,110,Social Moviment,Montana
+6469,25-44,1.0,Locals,No Degree,270,Social Moviment,Montana
+6470,45+,1.0,Locals,No Degree,230,Social Moviment,Montana
+6471,18-24,2.0,Locals,No Degree,440,Social Moviment,Montana
+6472,25-44,2.0,Locals,No Degree,510,Social Moviment,Montana
+6473,45+,2.0,Locals,No Degree,730,Social Moviment,Montana
+6474,18-24,1.0,Locals,High School,530,Social Moviment,Montana
+6475,25-44,1.0,Locals,High School,630,Social Moviment,Montana
+6476,45+,1.0,Locals,High School,340,Social Moviment,Montana
+6477,18-24,2.0,Locals,High School,980,Social Moviment,Montana
+6478,25-44,2.0,Locals,High School,1500,Social Moviment,Montana
+6479,45+,2.0,Locals,High School,940,Social Moviment,Montana
+6480,18-24,1.0,Expats,Graduated,30,Social Moviment,Nebraska
+6481,25-44,1.0,Expats,Graduated,230,Social Moviment,Nebraska
+6482,45+,1.0,Expats,Graduated,60,Social Moviment,Nebraska
+6483,18-24,2.0,Expats,Graduated,20,Social Moviment,Nebraska
+6484,25-44,2.0,Expats,Graduated,180,Social Moviment,Nebraska
+6485,45+,2.0,Expats,Graduated,100,Social Moviment,Nebraska
+6486,18-24,1.0,Expats,No Degree,30,Social Moviment,Nebraska
+6487,25-44,1.0,Expats,No Degree,110,Social Moviment,Nebraska
+6488,45+,1.0,Expats,No Degree,20,Social Moviment,Nebraska
+6489,18-24,2.0,Expats,No Degree,20,Social Moviment,Nebraska
+6490,25-44,2.0,Expats,No Degree,140,Social Moviment,Nebraska
+6491,45+,2.0,Expats,No Degree,50,Social Moviment,Nebraska
+6492,18-24,1.0,Expats,High School,70,Social Moviment,Nebraska
+6493,25-44,1.0,Expats,High School,110,Social Moviment,Nebraska
+6494,45+,1.0,Expats,High School,20,Social Moviment,Nebraska
+6495,18-24,2.0,Expats,High School,120,Social Moviment,Nebraska
+6496,25-44,2.0,Expats,High School,100,Social Moviment,Nebraska
+6497,45+,2.0,Expats,High School,50,Social Moviment,Nebraska
+6498,18-24,1.0,Locals,Graduated,520,Social Moviment,Nebraska
+6499,25-44,1.0,Locals,Graduated,1300,Social Moviment,Nebraska
+6500,45+,1.0,Locals,Graduated,1200,Social Moviment,Nebraska
+6501,18-24,2.0,Locals,Graduated,590,Social Moviment,Nebraska
+6502,25-44,2.0,Locals,Graduated,3400,Social Moviment,Nebraska
+6503,45+,2.0,Locals,Graduated,3300,Social Moviment,Nebraska
+6504,18-24,1.0,Locals,No Degree,240,Social Moviment,Nebraska
+6505,25-44,1.0,Locals,No Degree,400,Social Moviment,Nebraska
+6506,45+,1.0,Locals,No Degree,420,Social Moviment,Nebraska
+6507,18-24,2.0,Locals,No Degree,180,Social Moviment,Nebraska
+6508,25-44,2.0,Locals,No Degree,640,Social Moviment,Nebraska
+6509,45+,2.0,Locals,No Degree,870,Social Moviment,Nebraska
+6510,18-24,1.0,Locals,High School,600,Social Moviment,Nebraska
+6511,25-44,1.0,Locals,High School,1000,Social Moviment,Nebraska
+6512,45+,1.0,Locals,High School,700,Social Moviment,Nebraska
+6513,18-24,2.0,Locals,High School,970,Social Moviment,Nebraska
+6514,25-44,2.0,Locals,High School,1700,Social Moviment,Nebraska
+6515,45+,2.0,Locals,High School,1400,Social Moviment,Nebraska
+6516,18-24,1.0,Expats,Graduated,170,Social Moviment,Nevada
+6517,25-44,1.0,Expats,Graduated,690,Social Moviment,Nevada
+6518,45+,1.0,Expats,Graduated,500,Social Moviment,Nevada
+6519,18-24,2.0,Expats,Graduated,130,Social Moviment,Nevada
+6520,25-44,2.0,Expats,Graduated,740,Social Moviment,Nevada
+6521,45+,2.0,Expats,Graduated,510,Social Moviment,Nevada
+6522,18-24,1.0,Expats,No Degree,70,Social Moviment,Nevada
+6523,25-44,1.0,Expats,No Degree,290,Social Moviment,Nevada
+6524,45+,1.0,Expats,No Degree,220,Social Moviment,Nevada
+6525,18-24,2.0,Expats,No Degree,60,Social Moviment,Nevada
+6526,25-44,2.0,Expats,No Degree,340,Social Moviment,Nevada
+6527,45+,2.0,Expats,No Degree,300,Social Moviment,Nevada
+6528,18-24,1.0,Expats,High School,120,Social Moviment,Nevada
+6529,25-44,1.0,Expats,High School,320,Social Moviment,Nevada
+6530,45+,1.0,Expats,High School,110,Social Moviment,Nevada
+6531,18-24,2.0,Expats,High School,180,Social Moviment,Nevada
+6532,25-44,2.0,Expats,High School,280,Social Moviment,Nevada
+6533,45+,2.0,Expats,High School,200,Social Moviment,Nevada
+6534,18-24,1.0,Locals,Graduated,510,Social Moviment,Nevada
+6535,25-44,1.0,Locals,Graduated,2300,Social Moviment,Nevada
+6536,45+,1.0,Locals,Graduated,2300,Social Moviment,Nevada
+6537,18-24,2.0,Locals,Graduated,450,Social Moviment,Nevada
+6538,25-44,2.0,Locals,Graduated,4400,Social Moviment,Nevada
+6539,45+,2.0,Locals,Graduated,3800,Social Moviment,Nevada
+6540,18-24,1.0,Locals,No Degree,360,Social Moviment,Nevada
+6541,25-44,1.0,Locals,No Degree,810,Social Moviment,Nevada
+6542,45+,1.0,Locals,No Degree,720,Social Moviment,Nevada
+6543,18-24,2.0,Locals,No Degree,510,Social Moviment,Nevada
+6544,25-44,2.0,Locals,No Degree,1100,Social Moviment,Nevada
+6545,45+,2.0,Locals,No Degree,1700,Social Moviment,Nevada
+6546,18-24,1.0,Locals,High School,720,Social Moviment,Nevada
+6547,25-44,1.0,Locals,High School,1900,Social Moviment,Nevada
+6548,45+,1.0,Locals,High School,1200,Social Moviment,Nevada
+6549,18-24,2.0,Locals,High School,1200,Social Moviment,Nevada
+6550,25-44,2.0,Locals,High School,2700,Social Moviment,Nevada
+6551,45+,2.0,Locals,High School,2200,Social Moviment,Nevada
+6552,18-24,1.0,Expats,Graduated,20,Social Moviment,New Hampshire
+6553,25-44,1.0,Expats,Graduated,120,Social Moviment,New Hampshire
+6554,45+,1.0,Expats,Graduated,90,Social Moviment,New Hampshire
+6555,18-24,2.0,Expats,Graduated,20,Social Moviment,New Hampshire
+6556,25-44,2.0,Expats,Graduated,150,Social Moviment,New Hampshire
+6557,45+,2.0,Expats,Graduated,110,Social Moviment,New Hampshire
+6558,18-24,1.0,Expats,No Degree,20,Social Moviment,New Hampshire
+6559,25-44,1.0,Expats,No Degree,40,Social Moviment,New Hampshire
+6560,45+,1.0,Expats,No Degree,20,Social Moviment,New Hampshire
+6561,18-24,2.0,Expats,No Degree,20,Social Moviment,New Hampshire
+6562,25-44,2.0,Expats,No Degree,40,Social Moviment,New Hampshire
+6563,45+,2.0,Expats,No Degree,40,Social Moviment,New Hampshire
+6564,18-24,1.0,Expats,High School,30,Social Moviment,New Hampshire
+6565,25-44,1.0,Expats,High School,30,Social Moviment,New Hampshire
+6566,45+,1.0,Expats,High School,20,Social Moviment,New Hampshire
+6567,18-24,2.0,Expats,High School,20,Social Moviment,New Hampshire
+6568,25-44,2.0,Expats,High School,50,Social Moviment,New Hampshire
+6569,45+,2.0,Expats,High School,40,Social Moviment,New Hampshire
+6570,18-24,1.0,Locals,Graduated,340,Social Moviment,New Hampshire
+6571,25-44,1.0,Locals,Graduated,1000,Social Moviment,New Hampshire
+6572,45+,1.0,Locals,Graduated,920,Social Moviment,New Hampshire
+6573,18-24,2.0,Locals,Graduated,330,Social Moviment,New Hampshire
+6574,25-44,2.0,Locals,Graduated,2200,Social Moviment,New Hampshire
+6575,45+,2.0,Locals,Graduated,2700,Social Moviment,New Hampshire
+6576,18-24,1.0,Locals,No Degree,160,Social Moviment,New Hampshire
+6577,25-44,1.0,Locals,No Degree,260,Social Moviment,New Hampshire
+6578,45+,1.0,Locals,No Degree,260,Social Moviment,New Hampshire
+6579,18-24,2.0,Locals,No Degree,200,Social Moviment,New Hampshire
+6580,25-44,2.0,Locals,No Degree,450,Social Moviment,New Hampshire
+6581,45+,2.0,Locals,No Degree,850,Social Moviment,New Hampshire
+6582,18-24,1.0,Locals,High School,470,Social Moviment,New Hampshire
+6583,25-44,1.0,Locals,High School,650,Social Moviment,New Hampshire
+6584,45+,1.0,Locals,High School,390,Social Moviment,New Hampshire
+6585,18-24,2.0,Locals,High School,670,Social Moviment,New Hampshire
+6586,25-44,2.0,Locals,High School,1300,Social Moviment,New Hampshire
+6587,45+,2.0,Locals,High School,1100,Social Moviment,New Hampshire
+6588,18-24,1.0,Expats,Graduated,510,Social Moviment,New Jersey
+6589,25-44,1.0,Expats,Graduated,2400,Social Moviment,New Jersey
+6590,45+,1.0,Expats,Graduated,1500,Social Moviment,New Jersey
+6591,18-24,2.0,Expats,Graduated,420,Social Moviment,New Jersey
+6592,25-44,2.0,Expats,Graduated,2600,Social Moviment,New Jersey
+6593,45+,2.0,Expats,Graduated,1700,Social Moviment,New Jersey
+6594,18-24,1.0,Expats,No Degree,270,Social Moviment,New Jersey
+6595,25-44,1.0,Expats,No Degree,960,Social Moviment,New Jersey
+6596,45+,1.0,Expats,No Degree,740,Social Moviment,New Jersey
+6597,18-24,2.0,Expats,No Degree,220,Social Moviment,New Jersey
+6598,25-44,2.0,Expats,No Degree,880,Social Moviment,New Jersey
+6599,45+,2.0,Expats,No Degree,860,Social Moviment,New Jersey
+6600,18-24,1.0,Expats,High School,470,Social Moviment,New Jersey
+6601,25-44,1.0,Expats,High School,980,Social Moviment,New Jersey
+6602,45+,1.0,Expats,High School,500,Social Moviment,New Jersey
+6603,18-24,2.0,Expats,High School,500,Social Moviment,New Jersey
+6604,25-44,2.0,Expats,High School,930,Social Moviment,New Jersey
+6605,45+,2.0,Expats,High School,610,Social Moviment,New Jersey
+6606,18-24,1.0,Locals,Graduated,1200,Social Moviment,New Jersey
+6607,25-44,1.0,Locals,Graduated,6300,Social Moviment,New Jersey
+6608,45+,1.0,Locals,Graduated,5900,Social Moviment,New Jersey
+6609,18-24,2.0,Locals,Graduated,1500,Social Moviment,New Jersey
+6610,25-44,2.0,Locals,Graduated,11000,Social Moviment,New Jersey
+6611,45+,2.0,Locals,Graduated,12000,Social Moviment,New Jersey
+6612,18-24,1.0,Locals,No Degree,480,Social Moviment,New Jersey
+6613,25-44,1.0,Locals,No Degree,1500,Social Moviment,New Jersey
+6614,45+,1.0,Locals,No Degree,1800,Social Moviment,New Jersey
+6615,18-24,2.0,Locals,No Degree,570,Social Moviment,New Jersey
+6616,25-44,2.0,Locals,No Degree,2100,Social Moviment,New Jersey
+6617,45+,2.0,Locals,No Degree,3600,Social Moviment,New Jersey
+6618,18-24,1.0,Locals,High School,1700,Social Moviment,New Jersey
+6619,25-44,1.0,Locals,High School,3000,Social Moviment,New Jersey
+6620,45+,1.0,Locals,High School,2800,Social Moviment,New Jersey
+6621,18-24,2.0,Locals,High School,2400,Social Moviment,New Jersey
+6622,25-44,2.0,Locals,High School,4500,Social Moviment,New Jersey
+6623,45+,2.0,Locals,High School,5300,Social Moviment,New Jersey
+6624,18-24,1.0,Expats,Graduated,130,Social Moviment,New Mexico
+6625,25-44,1.0,Expats,Graduated,270,Social Moviment,New Mexico
+6626,45+,1.0,Expats,Graduated,170,Social Moviment,New Mexico
+6627,18-24,2.0,Expats,Graduated,90,Social Moviment,New Mexico
+6628,25-44,2.0,Expats,Graduated,390,Social Moviment,New Mexico
+6629,45+,2.0,Expats,Graduated,270,Social Moviment,New Mexico
+6630,18-24,1.0,Expats,No Degree,70,Social Moviment,New Mexico
+6631,25-44,1.0,Expats,No Degree,70,Social Moviment,New Mexico
+6632,45+,1.0,Expats,No Degree,20,Social Moviment,New Mexico
+6633,18-24,2.0,Expats,No Degree,50,Social Moviment,New Mexico
+6634,25-44,2.0,Expats,No Degree,160,Social Moviment,New Mexico
+6635,45+,2.0,Expats,No Degree,120,Social Moviment,New Mexico
+6636,18-24,1.0,Expats,High School,50,Social Moviment,New Mexico
+6637,25-44,1.0,Expats,High School,110,Social Moviment,New Mexico
+6638,45+,1.0,Expats,High School,40,Social Moviment,New Mexico
+6639,18-24,2.0,Expats,High School,100,Social Moviment,New Mexico
+6640,25-44,2.0,Expats,High School,190,Social Moviment,New Mexico
+6641,45+,2.0,Expats,High School,80,Social Moviment,New Mexico
+6642,18-24,1.0,Locals,Graduated,550,Social Moviment,New Mexico
+6643,25-44,1.0,Locals,Graduated,2300,Social Moviment,New Mexico
+6644,45+,1.0,Locals,Graduated,1900,Social Moviment,New Mexico
+6645,18-24,2.0,Locals,Graduated,860,Social Moviment,New Mexico
+6646,25-44,2.0,Locals,Graduated,4300,Social Moviment,New Mexico
+6647,45+,2.0,Locals,Graduated,4700,Social Moviment,New Mexico
+6648,18-24,1.0,Locals,No Degree,370,Social Moviment,New Mexico
+6649,25-44,1.0,Locals,No Degree,550,Social Moviment,New Mexico
+6650,45+,1.0,Locals,No Degree,610,Social Moviment,New Mexico
+6651,18-24,2.0,Locals,No Degree,530,Social Moviment,New Mexico
+6652,25-44,2.0,Locals,No Degree,1100,Social Moviment,New Mexico
+6653,45+,2.0,Locals,No Degree,1400,Social Moviment,New Mexico
+6654,18-24,1.0,Locals,High School,870,Social Moviment,New Mexico
+6655,25-44,1.0,Locals,High School,1400,Social Moviment,New Mexico
+6656,45+,1.0,Locals,High School,850,Social Moviment,New Mexico
+6657,18-24,2.0,Locals,High School,1400,Social Moviment,New Mexico
+6658,25-44,2.0,Locals,High School,2500,Social Moviment,New Mexico
+6659,45+,2.0,Locals,High School,2000,Social Moviment,New Mexico
+6660,18-24,1.0,Expats,Graduated,1200,Social Moviment,New York
+6661,25-44,1.0,Expats,Graduated,6600,Social Moviment,New York
+6662,45+,1.0,Expats,Graduated,3400,Social Moviment,New York
+6663,18-24,2.0,Expats,Graduated,1300,Social Moviment,New York
+6664,25-44,2.0,Expats,Graduated,7900,Social Moviment,New York
+6665,45+,2.0,Expats,Graduated,4400,Social Moviment,New York
+6666,18-24,1.0,Expats,No Degree,710,Social Moviment,New York
+6667,25-44,1.0,Expats,No Degree,2600,Social Moviment,New York
+6668,45+,1.0,Expats,No Degree,2200,Social Moviment,New York
+6669,18-24,2.0,Expats,No Degree,660,Social Moviment,New York
+6670,25-44,2.0,Expats,No Degree,2200,Social Moviment,New York
+6671,45+,2.0,Expats,No Degree,2700,Social Moviment,New York
+6672,18-24,1.0,Expats,High School,1400,Social Moviment,New York
+6673,25-44,1.0,Expats,High School,2200,Social Moviment,New York
+6674,45+,1.0,Expats,High School,960,Social Moviment,New York
+6675,18-24,2.0,Expats,High School,1500,Social Moviment,New York
+6676,25-44,2.0,Expats,High School,2100,Social Moviment,New York
+6677,45+,2.0,Expats,High School,1400,Social Moviment,New York
+6678,18-24,1.0,Locals,Graduated,3900,Social Moviment,New York
+6679,25-44,1.0,Locals,Graduated,19000,Social Moviment,New York
+6680,45+,1.0,Locals,Graduated,15000,Social Moviment,New York
+6681,18-24,2.0,Locals,Graduated,5300,Social Moviment,New York
+6682,25-44,2.0,Locals,Graduated,34000,Social Moviment,New York
+6683,45+,2.0,Locals,Graduated,29000,Social Moviment,New York
+6684,18-24,1.0,Locals,No Degree,1500,Social Moviment,New York
+6685,25-44,1.0,Locals,No Degree,4900,Social Moviment,New York
+6686,45+,1.0,Locals,No Degree,5100,Social Moviment,New York
+6687,18-24,2.0,Locals,No Degree,2200,Social Moviment,New York
+6688,25-44,2.0,Locals,No Degree,6800,Social Moviment,New York
+6689,45+,2.0,Locals,No Degree,9800,Social Moviment,New York
+6690,18-24,1.0,Locals,High School,5100,Social Moviment,New York
+6691,25-44,1.0,Locals,High School,8400,Social Moviment,New York
+6692,45+,1.0,Locals,High School,5400,Social Moviment,New York
+6693,18-24,2.0,Locals,High School,7300,Social Moviment,New York
+6694,25-44,2.0,Locals,High School,12000,Social Moviment,New York
+6695,45+,2.0,Locals,High School,10000,Social Moviment,New York
+6696,18-24,1.0,Expats,Graduated,330,Social Moviment,North Carolina
+6697,25-44,1.0,Expats,Graduated,1300,Social Moviment,North Carolina
+6698,45+,1.0,Expats,Graduated,600,Social Moviment,North Carolina
+6699,18-24,2.0,Expats,Graduated,280,Social Moviment,North Carolina
+6700,25-44,2.0,Expats,Graduated,1400,Social Moviment,North Carolina
+6701,45+,2.0,Expats,Graduated,860,Social Moviment,North Carolina
+6702,18-24,1.0,Expats,No Degree,170,Social Moviment,North Carolina
+6703,25-44,1.0,Expats,No Degree,530,Social Moviment,North Carolina
+6704,45+,1.0,Expats,No Degree,290,Social Moviment,North Carolina
+6705,18-24,2.0,Expats,No Degree,150,Social Moviment,North Carolina
+6706,25-44,2.0,Expats,No Degree,510,Social Moviment,North Carolina
+6707,45+,2.0,Expats,No Degree,340,Social Moviment,North Carolina
+6708,18-24,1.0,Expats,High School,390,Social Moviment,North Carolina
+6709,25-44,1.0,Expats,High School,530,Social Moviment,North Carolina
+6710,45+,1.0,Expats,High School,190,Social Moviment,North Carolina
+6711,18-24,2.0,Expats,High School,370,Social Moviment,North Carolina
+6712,25-44,2.0,Expats,High School,560,Social Moviment,North Carolina
+6713,45+,2.0,Expats,High School,260,Social Moviment,North Carolina
+6714,18-24,1.0,Locals,Graduated,2000,Social Moviment,North Carolina
+6715,25-44,1.0,Locals,Graduated,9200,Social Moviment,North Carolina
+6716,45+,1.0,Locals,Graduated,8900,Social Moviment,North Carolina
+6717,18-24,2.0,Locals,Graduated,2800,Social Moviment,North Carolina
+6718,25-44,2.0,Locals,Graduated,20000,Social Moviment,North Carolina
+6719,45+,2.0,Locals,Graduated,19000,Social Moviment,North Carolina
+6720,18-24,1.0,Locals,No Degree,900,Social Moviment,North Carolina
+6721,25-44,1.0,Locals,No Degree,2300,Social Moviment,North Carolina
+6722,45+,1.0,Locals,No Degree,2700,Social Moviment,North Carolina
+6723,18-24,2.0,Locals,No Degree,1400,Social Moviment,North Carolina
+6724,25-44,2.0,Locals,No Degree,3400,Social Moviment,North Carolina
+6725,45+,2.0,Locals,No Degree,5200,Social Moviment,North Carolina
+6726,18-24,1.0,Locals,High School,2900,Social Moviment,North Carolina
+6727,25-44,1.0,Locals,High School,5100,Social Moviment,North Carolina
+6728,45+,1.0,Locals,High School,4200,Social Moviment,North Carolina
+6729,18-24,2.0,Locals,High School,4700,Social Moviment,North Carolina
+6730,25-44,2.0,Locals,High School,9000,Social Moviment,North Carolina
+6731,45+,2.0,Locals,High School,7600,Social Moviment,North Carolina
+6732,18-24,1.0,Expats,Graduated,30,Social Moviment,North Dakota
+6733,25-44,1.0,Expats,Graduated,30,Social Moviment,North Dakota
+6734,45+,1.0,Expats,Graduated,20,Social Moviment,North Dakota
+6735,18-24,2.0,Expats,Graduated,20,Social Moviment,North Dakota
+6736,25-44,2.0,Expats,Graduated,70,Social Moviment,North Dakota
+6737,45+,2.0,Expats,Graduated,20,Social Moviment,North Dakota
+6738,18-24,1.0,Expats,No Degree,20,Social Moviment,North Dakota
+6739,25-44,1.0,Expats,No Degree,20,Social Moviment,North Dakota
+6740,45+,1.0,Expats,No Degree,20,Social Moviment,North Dakota
+6741,18-24,2.0,Expats,No Degree,20,Social Moviment,North Dakota
+6742,25-44,2.0,Expats,No Degree,20,Social Moviment,North Dakota
+6743,45+,2.0,Expats,No Degree,30,Social Moviment,North Dakota
+6744,18-24,1.0,Expats,High School,20,Social Moviment,North Dakota
+6745,25-44,1.0,Expats,High School,20,Social Moviment,North Dakota
+6746,45+,1.0,Expats,High School,20,Social Moviment,North Dakota
+6747,18-24,2.0,Expats,High School,20,Social Moviment,North Dakota
+6748,25-44,2.0,Expats,High School,20,Social Moviment,North Dakota
+6749,45+,2.0,Expats,High School,20,Social Moviment,North Dakota
+6750,18-24,1.0,Locals,Graduated,140,Social Moviment,North Dakota
+6751,25-44,1.0,Locals,Graduated,790,Social Moviment,North Dakota
+6752,45+,1.0,Locals,Graduated,490,Social Moviment,North Dakota
+6753,18-24,2.0,Locals,Graduated,190,Social Moviment,North Dakota
+6754,25-44,2.0,Locals,Graduated,1400,Social Moviment,North Dakota
+6755,45+,2.0,Locals,Graduated,890,Social Moviment,North Dakota
+6756,18-24,1.0,Locals,No Degree,110,Social Moviment,North Dakota
+6757,25-44,1.0,Locals,No Degree,270,Social Moviment,North Dakota
+6758,45+,1.0,Locals,No Degree,130,Social Moviment,North Dakota
+6759,18-24,2.0,Locals,No Degree,290,Social Moviment,North Dakota
+6760,25-44,2.0,Locals,No Degree,320,Social Moviment,North Dakota
+6761,45+,2.0,Locals,No Degree,400,Social Moviment,North Dakota
+6762,18-24,1.0,Locals,High School,350,Social Moviment,North Dakota
+6763,25-44,1.0,Locals,High School,500,Social Moviment,North Dakota
+6764,45+,1.0,Locals,High School,270,Social Moviment,North Dakota
+6765,18-24,2.0,Locals,High School,530,Social Moviment,North Dakota
+6766,25-44,2.0,Locals,High School,870,Social Moviment,North Dakota
+6767,45+,2.0,Locals,High School,410,Social Moviment,North Dakota
+6768,18-24,1.0,Expats,Graduated,230,Social Moviment,Ohio
+6769,25-44,1.0,Expats,Graduated,970,Social Moviment,Ohio
+6770,45+,1.0,Expats,Graduated,460,Social Moviment,Ohio
+6771,18-24,2.0,Expats,Graduated,210,Social Moviment,Ohio
+6772,25-44,2.0,Expats,Graduated,900,Social Moviment,Ohio
+6773,45+,2.0,Expats,Graduated,590,Social Moviment,Ohio
+6774,18-24,1.0,Expats,No Degree,110,Social Moviment,Ohio
+6775,25-44,1.0,Expats,No Degree,310,Social Moviment,Ohio
+6776,45+,1.0,Expats,No Degree,190,Social Moviment,Ohio
+6777,18-24,2.0,Expats,No Degree,90,Social Moviment,Ohio
+6778,25-44,2.0,Expats,No Degree,260,Social Moviment,Ohio
+6779,45+,2.0,Expats,No Degree,270,Social Moviment,Ohio
+6780,18-24,1.0,Expats,High School,220,Social Moviment,Ohio
+6781,25-44,1.0,Expats,High School,310,Social Moviment,Ohio
+6782,45+,1.0,Expats,High School,130,Social Moviment,Ohio
+6783,18-24,2.0,Expats,High School,250,Social Moviment,Ohio
+6784,25-44,2.0,Expats,High School,320,Social Moviment,Ohio
+6785,45+,2.0,Expats,High School,190,Social Moviment,Ohio
+6786,18-24,1.0,Locals,Graduated,2000,Social Moviment,Ohio
+6787,25-44,1.0,Locals,Graduated,10000,Social Moviment,Ohio
+6788,45+,1.0,Locals,Graduated,9500,Social Moviment,Ohio
+6789,18-24,2.0,Locals,Graduated,2800,Social Moviment,Ohio
+6790,25-44,2.0,Locals,Graduated,21000,Social Moviment,Ohio
+6791,45+,2.0,Locals,Graduated,20000,Social Moviment,Ohio
+6792,18-24,1.0,Locals,No Degree,1100,Social Moviment,Ohio
+6793,25-44,1.0,Locals,No Degree,2500,Social Moviment,Ohio
+6794,45+,1.0,Locals,No Degree,3000,Social Moviment,Ohio
+6795,18-24,2.0,Locals,No Degree,1800,Social Moviment,Ohio
+6796,25-44,2.0,Locals,No Degree,3900,Social Moviment,Ohio
+6797,45+,2.0,Locals,No Degree,6100,Social Moviment,Ohio
+6798,18-24,1.0,Locals,High School,3300,Social Moviment,Ohio
+6799,25-44,1.0,Locals,High School,6700,Social Moviment,Ohio
+6800,45+,1.0,Locals,High School,5400,Social Moviment,Ohio
+6801,18-24,2.0,Locals,High School,5700,Social Moviment,Ohio
+6802,25-44,2.0,Locals,High School,12000,Social Moviment,Ohio
+6803,45+,2.0,Locals,High School,11000,Social Moviment,Ohio
+6804,18-24,1.0,Expats,Graduated,100,Social Moviment,Oklahoma
+6805,25-44,1.0,Expats,Graduated,350,Social Moviment,Oklahoma
+6806,45+,1.0,Expats,Graduated,100,Social Moviment,Oklahoma
+6807,18-24,2.0,Expats,Graduated,50,Social Moviment,Oklahoma
+6808,25-44,2.0,Expats,Graduated,300,Social Moviment,Oklahoma
+6809,45+,2.0,Expats,Graduated,170,Social Moviment,Oklahoma
+6810,18-24,1.0,Expats,No Degree,60,Social Moviment,Oklahoma
+6811,25-44,1.0,Expats,No Degree,200,Social Moviment,Oklahoma
+6812,45+,1.0,Expats,No Degree,70,Social Moviment,Oklahoma
+6813,18-24,2.0,Expats,No Degree,20,Social Moviment,Oklahoma
+6814,25-44,2.0,Expats,No Degree,100,Social Moviment,Oklahoma
+6815,45+,2.0,Expats,No Degree,80,Social Moviment,Oklahoma
+6816,18-24,1.0,Expats,High School,100,Social Moviment,Oklahoma
+6817,25-44,1.0,Expats,High School,180,Social Moviment,Oklahoma
+6818,45+,1.0,Expats,High School,30,Social Moviment,Oklahoma
+6819,18-24,2.0,Expats,High School,140,Social Moviment,Oklahoma
+6820,25-44,2.0,Expats,High School,90,Social Moviment,Oklahoma
+6821,45+,2.0,Expats,High School,20,Social Moviment,Oklahoma
+6822,18-24,1.0,Locals,Graduated,600,Social Moviment,Oklahoma
+6823,25-44,1.0,Locals,Graduated,3200,Social Moviment,Oklahoma
+6824,45+,1.0,Locals,Graduated,3300,Social Moviment,Oklahoma
+6825,18-24,2.0,Locals,Graduated,990,Social Moviment,Oklahoma
+6826,25-44,2.0,Locals,Graduated,7300,Social Moviment,Oklahoma
+6827,45+,2.0,Locals,Graduated,6400,Social Moviment,Oklahoma
+6828,18-24,1.0,Locals,No Degree,540,Social Moviment,Oklahoma
+6829,25-44,1.0,Locals,No Degree,1000,Social Moviment,Oklahoma
+6830,45+,1.0,Locals,No Degree,1100,Social Moviment,Oklahoma
+6831,18-24,2.0,Locals,No Degree,800,Social Moviment,Oklahoma
+6832,25-44,2.0,Locals,No Degree,1500,Social Moviment,Oklahoma
+6833,45+,2.0,Locals,No Degree,2100,Social Moviment,Oklahoma
+6834,18-24,1.0,Locals,High School,1100,Social Moviment,Oklahoma
+6835,25-44,1.0,Locals,High School,2600,Social Moviment,Oklahoma
+6836,45+,1.0,Locals,High School,1800,Social Moviment,Oklahoma
+6837,18-24,2.0,Locals,High School,2300,Social Moviment,Oklahoma
+6838,25-44,2.0,Locals,High School,4800,Social Moviment,Oklahoma
+6839,45+,2.0,Locals,High School,4000,Social Moviment,Oklahoma
+6840,18-24,1.0,Expats,Graduated,140,Social Moviment,Oregon
+6841,25-44,1.0,Expats,Graduated,760,Social Moviment,Oregon
+6842,45+,1.0,Expats,Graduated,450,Social Moviment,Oregon
+6843,18-24,2.0,Expats,Graduated,160,Social Moviment,Oregon
+6844,25-44,2.0,Expats,Graduated,870,Social Moviment,Oregon
+6845,45+,2.0,Expats,Graduated,770,Social Moviment,Oregon
+6846,18-24,1.0,Expats,No Degree,60,Social Moviment,Oregon
+6847,25-44,1.0,Expats,No Degree,250,Social Moviment,Oregon
+6848,45+,1.0,Expats,No Degree,160,Social Moviment,Oregon
+6849,18-24,2.0,Expats,No Degree,100,Social Moviment,Oregon
+6850,25-44,2.0,Expats,No Degree,220,Social Moviment,Oregon
+6851,45+,2.0,Expats,No Degree,360,Social Moviment,Oregon
+6852,18-24,1.0,Expats,High School,190,Social Moviment,Oregon
+6853,25-44,1.0,Expats,High School,270,Social Moviment,Oregon
+6854,45+,1.0,Expats,High School,70,Social Moviment,Oregon
+6855,18-24,2.0,Expats,High School,180,Social Moviment,Oregon
+6856,25-44,2.0,Expats,High School,320,Social Moviment,Oregon
+6857,45+,2.0,Expats,High School,250,Social Moviment,Oregon
+6858,18-24,1.0,Locals,Graduated,1200,Social Moviment,Oregon
+6859,25-44,1.0,Locals,Graduated,6200,Social Moviment,Oregon
+6860,45+,1.0,Locals,Graduated,5200,Social Moviment,Oregon
+6861,18-24,2.0,Locals,Graduated,1800,Social Moviment,Oregon
+6862,25-44,2.0,Locals,Graduated,14000,Social Moviment,Oregon
+6863,45+,2.0,Locals,Graduated,14000,Social Moviment,Oregon
+6864,18-24,1.0,Locals,No Degree,590,Social Moviment,Oregon
+6865,25-44,1.0,Locals,No Degree,1500,Social Moviment,Oregon
+6866,45+,1.0,Locals,No Degree,1400,Social Moviment,Oregon
+6867,18-24,2.0,Locals,No Degree,1000,Social Moviment,Oregon
+6868,25-44,2.0,Locals,No Degree,3000,Social Moviment,Oregon
+6869,45+,2.0,Locals,No Degree,3600,Social Moviment,Oregon
+6870,18-24,1.0,Locals,High School,1700,Social Moviment,Oregon
+6871,25-44,1.0,Locals,High School,3200,Social Moviment,Oregon
+6872,45+,1.0,Locals,High School,1900,Social Moviment,Oregon
+6873,18-24,2.0,Locals,High School,3400,Social Moviment,Oregon
+6874,25-44,2.0,Locals,High School,6400,Social Moviment,Oregon
+6875,45+,2.0,Locals,High School,5400,Social Moviment,Oregon
+6876,18-24,1.0,Expats,Graduated,360,Social Moviment,Pennsylvania
+6877,25-44,1.0,Expats,Graduated,1500,Social Moviment,Pennsylvania
+6878,45+,1.0,Expats,Graduated,730,Social Moviment,Pennsylvania
+6879,18-24,2.0,Expats,Graduated,320,Social Moviment,Pennsylvania
+6880,25-44,2.0,Expats,Graduated,1500,Social Moviment,Pennsylvania
+6881,45+,2.0,Expats,Graduated,970,Social Moviment,Pennsylvania
+6882,18-24,1.0,Expats,No Degree,170,Social Moviment,Pennsylvania
+6883,25-44,1.0,Expats,No Degree,530,Social Moviment,Pennsylvania
+6884,45+,1.0,Expats,No Degree,350,Social Moviment,Pennsylvania
+6885,18-24,2.0,Expats,No Degree,160,Social Moviment,Pennsylvania
+6886,25-44,2.0,Expats,No Degree,470,Social Moviment,Pennsylvania
+6887,45+,2.0,Expats,No Degree,450,Social Moviment,Pennsylvania
+6888,18-24,1.0,Expats,High School,370,Social Moviment,Pennsylvania
+6889,25-44,1.0,Expats,High School,560,Social Moviment,Pennsylvania
+6890,45+,1.0,Expats,High School,250,Social Moviment,Pennsylvania
+6891,18-24,2.0,Expats,High School,420,Social Moviment,Pennsylvania
+6892,25-44,2.0,Expats,High School,520,Social Moviment,Pennsylvania
+6893,45+,2.0,Expats,High School,330,Social Moviment,Pennsylvania
+6894,18-24,1.0,Locals,Graduated,2200,Social Moviment,Pennsylvania
+6895,25-44,1.0,Locals,Graduated,10000,Social Moviment,Pennsylvania
+6896,45+,1.0,Locals,Graduated,9300,Social Moviment,Pennsylvania
+6897,18-24,2.0,Locals,Graduated,3000,Social Moviment,Pennsylvania
+6898,25-44,2.0,Locals,Graduated,21000,Social Moviment,Pennsylvania
+6899,45+,2.0,Locals,Graduated,19000,Social Moviment,Pennsylvania
+6900,18-24,1.0,Locals,No Degree,990,Social Moviment,Pennsylvania
+6901,25-44,1.0,Locals,No Degree,2500,Social Moviment,Pennsylvania
+6902,45+,1.0,Locals,No Degree,3000,Social Moviment,Pennsylvania
+6903,18-24,2.0,Locals,No Degree,1600,Social Moviment,Pennsylvania
+6904,25-44,2.0,Locals,No Degree,3900,Social Moviment,Pennsylvania
+6905,45+,2.0,Locals,No Degree,5800,Social Moviment,Pennsylvania
+6906,18-24,1.0,Locals,High School,3700,Social Moviment,Pennsylvania
+6907,25-44,1.0,Locals,High School,6000,Social Moviment,Pennsylvania
+6908,45+,1.0,Locals,High School,4900,Social Moviment,Pennsylvania
+6909,18-24,2.0,Locals,High School,5800,Social Moviment,Pennsylvania
+6910,25-44,2.0,Locals,High School,10000,Social Moviment,Pennsylvania
+6911,45+,2.0,Locals,High School,10000,Social Moviment,Pennsylvania
+6912,18-24,1.0,Expats,Graduated,40,Social Moviment,Rhode Island
+6913,25-44,1.0,Expats,Graduated,220,Social Moviment,Rhode Island
+6914,45+,1.0,Expats,Graduated,160,Social Moviment,Rhode Island
+6915,18-24,2.0,Expats,Graduated,20,Social Moviment,Rhode Island
+6916,25-44,2.0,Expats,Graduated,220,Social Moviment,Rhode Island
+6917,45+,2.0,Expats,Graduated,120,Social Moviment,Rhode Island
+6918,18-24,1.0,Expats,No Degree,30,Social Moviment,Rhode Island
+6919,25-44,1.0,Expats,No Degree,80,Social Moviment,Rhode Island
+6920,45+,1.0,Expats,No Degree,50,Social Moviment,Rhode Island
+6921,18-24,2.0,Expats,No Degree,20,Social Moviment,Rhode Island
+6922,25-44,2.0,Expats,No Degree,60,Social Moviment,Rhode Island
+6923,45+,2.0,Expats,No Degree,30,Social Moviment,Rhode Island
+6924,18-24,1.0,Expats,High School,80,Social Moviment,Rhode Island
+6925,25-44,1.0,Expats,High School,100,Social Moviment,Rhode Island
+6926,45+,1.0,Expats,High School,30,Social Moviment,Rhode Island
+6927,18-24,2.0,Expats,High School,70,Social Moviment,Rhode Island
+6928,25-44,2.0,Expats,High School,120,Social Moviment,Rhode Island
+6929,45+,2.0,Expats,High School,70,Social Moviment,Rhode Island
+6930,18-24,1.0,Locals,Graduated,210,Social Moviment,Rhode Island
+6931,25-44,1.0,Locals,Graduated,1100,Social Moviment,Rhode Island
+6932,45+,1.0,Locals,Graduated,840,Social Moviment,Rhode Island
+6933,18-24,2.0,Locals,Graduated,310,Social Moviment,Rhode Island
+6934,25-44,2.0,Locals,Graduated,2200,Social Moviment,Rhode Island
+6935,45+,2.0,Locals,Graduated,1900,Social Moviment,Rhode Island
+6936,18-24,1.0,Locals,No Degree,120,Social Moviment,Rhode Island
+6937,25-44,1.0,Locals,No Degree,230,Social Moviment,Rhode Island
+6938,45+,1.0,Locals,No Degree,260,Social Moviment,Rhode Island
+6939,18-24,2.0,Locals,No Degree,200,Social Moviment,Rhode Island
+6940,25-44,2.0,Locals,No Degree,390,Social Moviment,Rhode Island
+6941,45+,2.0,Locals,No Degree,440,Social Moviment,Rhode Island
+6942,18-24,1.0,Locals,High School,340,Social Moviment,Rhode Island
+6943,25-44,1.0,Locals,High School,500,Social Moviment,Rhode Island
+6944,45+,1.0,Locals,High School,370,Social Moviment,Rhode Island
+6945,18-24,2.0,Locals,High School,560,Social Moviment,Rhode Island
+6946,25-44,2.0,Locals,High School,930,Social Moviment,Rhode Island
+6947,45+,2.0,Locals,High School,750,Social Moviment,Rhode Island
+6948,18-24,1.0,Expats,Graduated,90,Social Moviment,South Carolina
+6949,25-44,1.0,Expats,Graduated,390,Social Moviment,South Carolina
+6950,45+,1.0,Expats,Graduated,190,Social Moviment,South Carolina
+6951,18-24,2.0,Expats,Graduated,80,Social Moviment,South Carolina
+6952,25-44,2.0,Expats,Graduated,390,Social Moviment,South Carolina
+6953,45+,2.0,Expats,Graduated,280,Social Moviment,South Carolina
+6954,18-24,1.0,Expats,No Degree,60,Social Moviment,South Carolina
+6955,25-44,1.0,Expats,No Degree,190,Social Moviment,South Carolina
+6956,45+,1.0,Expats,No Degree,90,Social Moviment,South Carolina
+6957,18-24,2.0,Expats,No Degree,40,Social Moviment,South Carolina
+6958,25-44,2.0,Expats,No Degree,140,Social Moviment,South Carolina
+6959,45+,2.0,Expats,No Degree,100,Social Moviment,South Carolina
+6960,18-24,1.0,Expats,High School,110,Social Moviment,South Carolina
+6961,25-44,1.0,Expats,High School,190,Social Moviment,South Carolina
+6962,45+,1.0,Expats,High School,70,Social Moviment,South Carolina
+6963,18-24,2.0,Expats,High School,120,Social Moviment,South Carolina
+6964,25-44,2.0,Expats,High School,160,Social Moviment,South Carolina
+6965,45+,2.0,Expats,High School,90,Social Moviment,South Carolina
+6966,18-24,1.0,Locals,Graduated,830,Social Moviment,South Carolina
+6967,25-44,1.0,Locals,Graduated,4000,Social Moviment,South Carolina
+6968,45+,1.0,Locals,Graduated,3600,Social Moviment,South Carolina
+6969,18-24,2.0,Locals,Graduated,1100,Social Moviment,South Carolina
+6970,25-44,2.0,Locals,Graduated,7800,Social Moviment,South Carolina
+6971,45+,2.0,Locals,Graduated,7100,Social Moviment,South Carolina
+6972,18-24,1.0,Locals,No Degree,380,Social Moviment,South Carolina
+6973,25-44,1.0,Locals,No Degree,1100,Social Moviment,South Carolina
+6974,45+,1.0,Locals,No Degree,1200,Social Moviment,South Carolina
+6975,18-24,2.0,Locals,No Degree,590,Social Moviment,South Carolina
+6976,25-44,2.0,Locals,No Degree,1400,Social Moviment,South Carolina
+6977,45+,2.0,Locals,No Degree,2300,Social Moviment,South Carolina
+6978,18-24,1.0,Locals,High School,1200,Social Moviment,South Carolina
+6979,25-44,1.0,Locals,High School,2600,Social Moviment,South Carolina
+6980,45+,1.0,Locals,High School,1800,Social Moviment,South Carolina
+6981,18-24,2.0,Locals,High School,1900,Social Moviment,South Carolina
+6982,25-44,2.0,Locals,High School,4300,Social Moviment,South Carolina
+6983,45+,2.0,Locals,High School,3600,Social Moviment,South Carolina
+6984,18-24,1.0,Expats,Graduated,20,Social Moviment,South Dakota
+6985,25-44,1.0,Expats,Graduated,90,Social Moviment,South Dakota
+6986,45+,1.0,Expats,Graduated,20,Social Moviment,South Dakota
+6987,18-24,2.0,Expats,Graduated,20,Social Moviment,South Dakota
+6988,25-44,2.0,Expats,Graduated,20,Social Moviment,South Dakota
+6989,45+,2.0,Expats,Graduated,40,Social Moviment,South Dakota
+6990,18-24,1.0,Expats,No Degree,20,Social Moviment,South Dakota
+6991,25-44,1.0,Expats,No Degree,40,Social Moviment,South Dakota
+6992,45+,1.0,Expats,No Degree,20,Social Moviment,South Dakota
+6993,18-24,2.0,Expats,No Degree,20,Social Moviment,South Dakota
+6994,25-44,2.0,Expats,No Degree,20,Social Moviment,South Dakota
+6995,45+,2.0,Expats,No Degree,20,Social Moviment,South Dakota
+6996,18-24,1.0,Expats,High School,20,Social Moviment,South Dakota
+6997,25-44,1.0,Expats,High School,20,Social Moviment,South Dakota
+6998,45+,1.0,Expats,High School,20,Social Moviment,South Dakota
+6999,18-24,2.0,Expats,High School,20,Social Moviment,South Dakota
+7000,25-44,2.0,Expats,High School,20,Social Moviment,South Dakota
+7001,45+,2.0,Expats,High School,20,Social Moviment,South Dakota
+7002,18-24,1.0,Locals,Graduated,320,Social Moviment,South Dakota
+7003,25-44,1.0,Locals,Graduated,980,Social Moviment,South Dakota
+7004,45+,1.0,Locals,Graduated,610,Social Moviment,South Dakota
+7005,18-24,2.0,Locals,Graduated,500,Social Moviment,South Dakota
+7006,25-44,2.0,Locals,Graduated,2400,Social Moviment,South Dakota
+7007,45+,2.0,Locals,Graduated,1800,Social Moviment,South Dakota
+7008,18-24,1.0,Locals,No Degree,130,Social Moviment,South Dakota
+7009,25-44,1.0,Locals,No Degree,400,Social Moviment,South Dakota
+7010,45+,1.0,Locals,No Degree,220,Social Moviment,South Dakota
+7011,18-24,2.0,Locals,No Degree,400,Social Moviment,South Dakota
+7012,25-44,2.0,Locals,No Degree,620,Social Moviment,South Dakota
+7013,45+,2.0,Locals,No Degree,530,Social Moviment,South Dakota
+7014,18-24,1.0,Locals,High School,490,Social Moviment,South Dakota
+7015,25-44,1.0,Locals,High School,670,Social Moviment,South Dakota
+7016,45+,1.0,Locals,High School,360,Social Moviment,South Dakota
+7017,18-24,2.0,Locals,High School,770,Social Moviment,South Dakota
+7018,25-44,2.0,Locals,High School,1700,Social Moviment,South Dakota
+7019,45+,2.0,Locals,High School,760,Social Moviment,South Dakota
+7020,18-24,1.0,Expats,Graduated,130,Social Moviment,Tennessee
+7021,25-44,1.0,Expats,Graduated,570,Social Moviment,Tennessee
+7022,45+,1.0,Expats,Graduated,240,Social Moviment,Tennessee
+7023,18-24,2.0,Expats,Graduated,120,Social Moviment,Tennessee
+7024,25-44,2.0,Expats,Graduated,520,Social Moviment,Tennessee
+7025,45+,2.0,Expats,Graduated,310,Social Moviment,Tennessee
+7026,18-24,1.0,Expats,No Degree,90,Social Moviment,Tennessee
+7027,25-44,1.0,Expats,No Degree,310,Social Moviment,Tennessee
+7028,45+,1.0,Expats,No Degree,120,Social Moviment,Tennessee
+7029,18-24,2.0,Expats,No Degree,70,Social Moviment,Tennessee
+7030,25-44,2.0,Expats,No Degree,230,Social Moviment,Tennessee
+7031,45+,2.0,Expats,No Degree,110,Social Moviment,Tennessee
+7032,18-24,1.0,Expats,High School,150,Social Moviment,Tennessee
+7033,25-44,1.0,Expats,High School,240,Social Moviment,Tennessee
+7034,45+,1.0,Expats,High School,80,Social Moviment,Tennessee
+7035,18-24,2.0,Expats,High School,180,Social Moviment,Tennessee
+7036,25-44,2.0,Expats,High School,220,Social Moviment,Tennessee
+7037,45+,2.0,Expats,High School,100,Social Moviment,Tennessee
+7038,18-24,1.0,Locals,Graduated,1300,Social Moviment,Tennessee
+7039,25-44,1.0,Locals,Graduated,6400,Social Moviment,Tennessee
+7040,45+,1.0,Locals,Graduated,5500,Social Moviment,Tennessee
+7041,18-24,2.0,Locals,Graduated,1900,Social Moviment,Tennessee
+7042,25-44,2.0,Locals,Graduated,13000,Social Moviment,Tennessee
+7043,45+,2.0,Locals,Graduated,10000,Social Moviment,Tennessee
+7044,18-24,1.0,Locals,No Degree,580,Social Moviment,Tennessee
+7045,25-44,1.0,Locals,No Degree,1600,Social Moviment,Tennessee
+7046,45+,1.0,Locals,No Degree,1900,Social Moviment,Tennessee
+7047,18-24,2.0,Locals,No Degree,980,Social Moviment,Tennessee
+7048,25-44,2.0,Locals,No Degree,2400,Social Moviment,Tennessee
+7049,45+,2.0,Locals,No Degree,3600,Social Moviment,Tennessee
+7050,18-24,1.0,Locals,High School,1900,Social Moviment,Tennessee
+7051,25-44,1.0,Locals,High School,4100,Social Moviment,Tennessee
+7052,45+,1.0,Locals,High School,3000,Social Moviment,Tennessee
+7053,18-24,2.0,Locals,High School,3300,Social Moviment,Tennessee
+7054,25-44,2.0,Locals,High School,7400,Social Moviment,Tennessee
+7055,45+,2.0,Locals,High School,6000,Social Moviment,Tennessee
+7056,18-24,1.0,Expats,Graduated,1800,Social Moviment,Texas
+7057,25-44,1.0,Expats,Graduated,5800,Social Moviment,Texas
+7058,45+,1.0,Expats,Graduated,2900,Social Moviment,Texas
+7059,18-24,2.0,Expats,Graduated,1200,Social Moviment,Texas
+7060,25-44,2.0,Expats,Graduated,5800,Social Moviment,Texas
+7061,45+,2.0,Expats,Graduated,3100,Social Moviment,Texas
+7062,18-24,1.0,Expats,No Degree,900,Social Moviment,Texas
+7063,25-44,1.0,Expats,No Degree,2400,Social Moviment,Texas
+7064,45+,1.0,Expats,No Degree,1500,Social Moviment,Texas
+7065,18-24,2.0,Expats,No Degree,760,Social Moviment,Texas
+7066,25-44,2.0,Expats,No Degree,2500,Social Moviment,Texas
+7067,45+,2.0,Expats,No Degree,2000,Social Moviment,Texas
+7068,18-24,1.0,Expats,High School,1700,Social Moviment,Texas
+7069,25-44,1.0,Expats,High School,2400,Social Moviment,Texas
+7070,45+,1.0,Expats,High School,800,Social Moviment,Texas
+7071,18-24,2.0,Expats,High School,1600,Social Moviment,Texas
+7072,25-44,2.0,Expats,High School,2600,Social Moviment,Texas
+7073,45+,2.0,Expats,High School,1000,Social Moviment,Texas
+7074,18-24,1.0,Locals,Graduated,5200,Social Moviment,Texas
+7075,25-44,1.0,Locals,Graduated,23000,Social Moviment,Texas
+7076,45+,1.0,Locals,Graduated,18000,Social Moviment,Texas
+7077,18-24,2.0,Locals,Graduated,6200,Social Moviment,Texas
+7078,25-44,2.0,Locals,Graduated,40000,Social Moviment,Texas
+7079,45+,2.0,Locals,Graduated,33000,Social Moviment,Texas
+7080,18-24,1.0,Locals,No Degree,3000,Social Moviment,Texas
+7081,25-44,1.0,Locals,No Degree,6500,Social Moviment,Texas
+7082,45+,1.0,Locals,No Degree,6300,Social Moviment,Texas
+7083,18-24,2.0,Locals,No Degree,3800,Social Moviment,Texas
+7084,25-44,2.0,Locals,No Degree,9300,Social Moviment,Texas
+7085,45+,2.0,Locals,No Degree,11000,Social Moviment,Texas
+7086,18-24,1.0,Locals,High School,7100,Social Moviment,Texas
+7087,25-44,1.0,Locals,High School,14000,Social Moviment,Texas
+7088,45+,1.0,Locals,High School,9300,Social Moviment,Texas
+7089,18-24,2.0,Locals,High School,11000,Social Moviment,Texas
+7090,25-44,2.0,Locals,High School,22000,Social Moviment,Texas
+7091,45+,2.0,Locals,High School,16000,Social Moviment,Texas
+7092,18-24,1.0,Expats,Graduated,100,Social Moviment,Utah
+7093,25-44,1.0,Expats,Graduated,390,Social Moviment,Utah
+7094,45+,1.0,Expats,Graduated,170,Social Moviment,Utah
+7095,18-24,2.0,Expats,Graduated,80,Social Moviment,Utah
+7096,25-44,2.0,Expats,Graduated,330,Social Moviment,Utah
+7097,45+,2.0,Expats,Graduated,240,Social Moviment,Utah
+7098,18-24,1.0,Expats,No Degree,60,Social Moviment,Utah
+7099,25-44,1.0,Expats,No Degree,150,Social Moviment,Utah
+7100,45+,1.0,Expats,No Degree,80,Social Moviment,Utah
+7101,18-24,2.0,Expats,No Degree,90,Social Moviment,Utah
+7102,25-44,2.0,Expats,No Degree,170,Social Moviment,Utah
+7103,45+,2.0,Expats,No Degree,140,Social Moviment,Utah
+7104,18-24,1.0,Expats,High School,150,Social Moviment,Utah
+7105,25-44,1.0,Expats,High School,140,Social Moviment,Utah
+7106,45+,1.0,Expats,High School,20,Social Moviment,Utah
+7107,18-24,2.0,Expats,High School,130,Social Moviment,Utah
+7108,25-44,2.0,Expats,High School,220,Social Moviment,Utah
+7109,45+,2.0,Expats,High School,60,Social Moviment,Utah
+7110,18-24,1.0,Locals,Graduated,800,Social Moviment,Utah
+7111,25-44,1.0,Locals,Graduated,2300,Social Moviment,Utah
+7112,45+,1.0,Locals,Graduated,1500,Social Moviment,Utah
+7113,18-24,2.0,Locals,Graduated,850,Social Moviment,Utah
+7114,25-44,2.0,Locals,Graduated,4800,Social Moviment,Utah
+7115,45+,2.0,Locals,Graduated,3200,Social Moviment,Utah
+7116,18-24,1.0,Locals,No Degree,520,Social Moviment,Utah
+7117,25-44,1.0,Locals,No Degree,580,Social Moviment,Utah
+7118,45+,1.0,Locals,No Degree,530,Social Moviment,Utah
+7119,18-24,2.0,Locals,No Degree,680,Social Moviment,Utah
+7120,25-44,2.0,Locals,No Degree,1200,Social Moviment,Utah
+7121,45+,2.0,Locals,No Degree,910,Social Moviment,Utah
+7122,18-24,1.0,Locals,High School,1100,Social Moviment,Utah
+7123,25-44,1.0,Locals,High School,1600,Social Moviment,Utah
+7124,45+,1.0,Locals,High School,640,Social Moviment,Utah
+7125,18-24,2.0,Locals,High School,1700,Social Moviment,Utah
+7126,25-44,2.0,Locals,High School,2800,Social Moviment,Utah
+7127,45+,2.0,Locals,High School,1400,Social Moviment,Utah
+7128,18-24,1.0,Expats,Graduated,20,Social Moviment,Vermont
+7129,25-44,1.0,Expats,Graduated,60,Social Moviment,Vermont
+7130,45+,1.0,Expats,Graduated,40,Social Moviment,Vermont
+7131,18-24,2.0,Expats,Graduated,20,Social Moviment,Vermont
+7132,25-44,2.0,Expats,Graduated,50,Social Moviment,Vermont
+7133,45+,2.0,Expats,Graduated,60,Social Moviment,Vermont
+7134,18-24,1.0,Expats,No Degree,20,Social Moviment,Vermont
+7135,25-44,1.0,Expats,No Degree,20,Social Moviment,Vermont
+7136,45+,1.0,Expats,No Degree,20,Social Moviment,Vermont
+7137,18-24,2.0,Expats,No Degree,20,Social Moviment,Vermont
+7138,25-44,2.0,Expats,No Degree,20,Social Moviment,Vermont
+7139,45+,2.0,Expats,No Degree,30,Social Moviment,Vermont
+7140,18-24,1.0,Expats,High School,50,Social Moviment,Vermont
+7141,25-44,1.0,Expats,High School,40,Social Moviment,Vermont
+7142,45+,1.0,Expats,High School,20,Social Moviment,Vermont
+7143,18-24,2.0,Expats,High School,30,Social Moviment,Vermont
+7144,25-44,2.0,Expats,High School,20,Social Moviment,Vermont
+7145,45+,2.0,Expats,High School,30,Social Moviment,Vermont
+7146,18-24,1.0,Locals,Graduated,150,Social Moviment,Vermont
+7147,25-44,1.0,Locals,Graduated,800,Social Moviment,Vermont
+7148,45+,1.0,Locals,Graduated,680,Social Moviment,Vermont
+7149,18-24,2.0,Locals,Graduated,240,Social Moviment,Vermont
+7150,25-44,2.0,Locals,Graduated,1900,Social Moviment,Vermont
+7151,45+,2.0,Locals,Graduated,1900,Social Moviment,Vermont
+7152,18-24,1.0,Locals,No Degree,50,Social Moviment,Vermont
+7153,25-44,1.0,Locals,No Degree,150,Social Moviment,Vermont
+7154,45+,1.0,Locals,No Degree,220,Social Moviment,Vermont
+7155,18-24,2.0,Locals,No Degree,70,Social Moviment,Vermont
+7156,25-44,2.0,Locals,No Degree,200,Social Moviment,Vermont
+7157,45+,2.0,Locals,No Degree,440,Social Moviment,Vermont
+7158,18-24,1.0,Locals,High School,250,Social Moviment,Vermont
+7159,25-44,1.0,Locals,High School,320,Social Moviment,Vermont
+7160,45+,1.0,Locals,High School,310,Social Moviment,Vermont
+7161,18-24,2.0,Locals,High School,540,Social Moviment,Vermont
+7162,25-44,2.0,Locals,High School,770,Social Moviment,Vermont
+7163,45+,2.0,Locals,High School,520,Social Moviment,Vermont
+7164,18-24,1.0,Expats,Graduated,360,Social Moviment,Virginia
+7165,25-44,1.0,Expats,Graduated,1600,Social Moviment,Virginia
+7166,45+,1.0,Expats,Graduated,820,Social Moviment,Virginia
+7167,18-24,2.0,Expats,Graduated,340,Social Moviment,Virginia
+7168,25-44,2.0,Expats,Graduated,1700,Social Moviment,Virginia
+7169,45+,2.0,Expats,Graduated,1100,Social Moviment,Virginia
+7170,18-24,1.0,Expats,No Degree,160,Social Moviment,Virginia
+7171,25-44,1.0,Expats,No Degree,520,Social Moviment,Virginia
+7172,45+,1.0,Expats,No Degree,380,Social Moviment,Virginia
+7173,18-24,2.0,Expats,No Degree,160,Social Moviment,Virginia
+7174,25-44,2.0,Expats,No Degree,530,Social Moviment,Virginia
+7175,45+,2.0,Expats,No Degree,440,Social Moviment,Virginia
+7176,18-24,1.0,Expats,High School,350,Social Moviment,Virginia
+7177,25-44,1.0,Expats,High School,530,Social Moviment,Virginia
+7178,45+,1.0,Expats,High School,240,Social Moviment,Virginia
+7179,18-24,2.0,Expats,High School,410,Social Moviment,Virginia
+7180,25-44,2.0,Expats,High School,550,Social Moviment,Virginia
+7181,45+,2.0,Expats,High School,330,Social Moviment,Virginia
+7182,18-24,1.0,Locals,Graduated,1500,Social Moviment,Virginia
+7183,25-44,1.0,Locals,Graduated,6900,Social Moviment,Virginia
+7184,45+,1.0,Locals,Graduated,6600,Social Moviment,Virginia
+7185,18-24,2.0,Locals,Graduated,2000,Social Moviment,Virginia
+7186,25-44,2.0,Locals,Graduated,14000,Social Moviment,Virginia
+7187,45+,2.0,Locals,Graduated,13000,Social Moviment,Virginia
+7188,18-24,1.0,Locals,No Degree,640,Social Moviment,Virginia
+7189,25-44,1.0,Locals,No Degree,1700,Social Moviment,Virginia
+7190,45+,1.0,Locals,No Degree,1900,Social Moviment,Virginia
+7191,18-24,2.0,Locals,No Degree,870,Social Moviment,Virginia
+7192,25-44,2.0,Locals,No Degree,2600,Social Moviment,Virginia
+7193,45+,2.0,Locals,No Degree,3800,Social Moviment,Virginia
+7194,18-24,1.0,Locals,High School,2300,Social Moviment,Virginia
+7195,25-44,1.0,Locals,High School,4000,Social Moviment,Virginia
+7196,45+,1.0,Locals,High School,3000,Social Moviment,Virginia
+7197,18-24,2.0,Locals,High School,3600,Social Moviment,Virginia
+7198,25-44,2.0,Locals,High School,6800,Social Moviment,Virginia
+7199,45+,2.0,Locals,High School,5700,Social Moviment,Virginia
+7200,18-24,1.0,Expats,Graduated,330,Social Moviment,Washington
+7201,25-44,1.0,Expats,Graduated,1400,Social Moviment,Washington
+7202,45+,1.0,Expats,Graduated,650,Social Moviment,Washington
+7203,18-24,2.0,Expats,Graduated,290,Social Moviment,Washington
+7204,25-44,2.0,Expats,Graduated,1600,Social Moviment,Washington
+7205,45+,2.0,Expats,Graduated,1100,Social Moviment,Washington
+7206,18-24,1.0,Expats,No Degree,150,Social Moviment,Washington
+7207,25-44,1.0,Expats,No Degree,500,Social Moviment,Washington
+7208,45+,1.0,Expats,No Degree,300,Social Moviment,Washington
+7209,18-24,2.0,Expats,No Degree,160,Social Moviment,Washington
+7210,25-44,2.0,Expats,No Degree,530,Social Moviment,Washington
+7211,45+,2.0,Expats,No Degree,440,Social Moviment,Washington
+7212,18-24,1.0,Expats,High School,380,Social Moviment,Washington
+7213,25-44,1.0,Expats,High School,560,Social Moviment,Washington
+7214,45+,1.0,Expats,High School,210,Social Moviment,Washington
+7215,18-24,2.0,Expats,High School,420,Social Moviment,Washington
+7216,25-44,2.0,Expats,High School,610,Social Moviment,Washington
+7217,45+,2.0,Expats,High School,310,Social Moviment,Washington
+7218,18-24,1.0,Locals,Graduated,1900,Social Moviment,Washington
+7219,25-44,1.0,Locals,Graduated,8400,Social Moviment,Washington
+7220,45+,1.0,Locals,Graduated,7300,Social Moviment,Washington
+7221,18-24,2.0,Locals,Graduated,2600,Social Moviment,Washington
+7222,25-44,2.0,Locals,Graduated,18000,Social Moviment,Washington
+7223,45+,2.0,Locals,Graduated,17000,Social Moviment,Washington
+7224,18-24,1.0,Locals,No Degree,1100,Social Moviment,Washington
+7225,25-44,1.0,Locals,No Degree,2100,Social Moviment,Washington
+7226,45+,1.0,Locals,No Degree,1900,Social Moviment,Washington
+7227,18-24,2.0,Locals,No Degree,1600,Social Moviment,Washington
+7228,25-44,2.0,Locals,No Degree,3800,Social Moviment,Washington
+7229,45+,2.0,Locals,No Degree,4900,Social Moviment,Washington
+7230,18-24,1.0,Locals,High School,3000,Social Moviment,Washington
+7231,25-44,1.0,Locals,High School,4800,Social Moviment,Washington
+7232,45+,1.0,Locals,High School,2800,Social Moviment,Washington
+7233,18-24,2.0,Locals,High School,4200,Social Moviment,Washington
+7234,25-44,2.0,Locals,High School,8500,Social Moviment,Washington
+7235,45+,2.0,Locals,High School,6600,Social Moviment,Washington
+7236,18-24,1.0,Expats,Graduated,20,Social Moviment,West Virginia
+7237,25-44,1.0,Expats,Graduated,50,Social Moviment,West Virginia
+7238,45+,1.0,Expats,Graduated,50,Social Moviment,West Virginia
+7239,18-24,2.0,Expats,Graduated,20,Social Moviment,West Virginia
+7240,25-44,2.0,Expats,Graduated,100,Social Moviment,West Virginia
+7241,45+,2.0,Expats,Graduated,90,Social Moviment,West Virginia
+7242,18-24,1.0,Expats,No Degree,20,Social Moviment,West Virginia
+7243,25-44,1.0,Expats,No Degree,20,Social Moviment,West Virginia
+7244,45+,1.0,Expats,No Degree,20,Social Moviment,West Virginia
+7245,18-24,2.0,Expats,No Degree,20,Social Moviment,West Virginia
+7246,25-44,2.0,Expats,No Degree,20,Social Moviment,West Virginia
+7247,45+,2.0,Expats,No Degree,20,Social Moviment,West Virginia
+7248,18-24,1.0,Expats,High School,30,Social Moviment,West Virginia
+7249,25-44,1.0,Expats,High School,20,Social Moviment,West Virginia
+7250,45+,1.0,Expats,High School,20,Social Moviment,West Virginia
+7251,18-24,2.0,Expats,High School,20,Social Moviment,West Virginia
+7252,25-44,2.0,Expats,High School,20,Social Moviment,West Virginia
+7253,45+,2.0,Expats,High School,20,Social Moviment,West Virginia
+7254,18-24,1.0,Locals,Graduated,360,Social Moviment,West Virginia
+7255,25-44,1.0,Locals,Graduated,1400,Social Moviment,West Virginia
+7256,45+,1.0,Locals,Graduated,1300,Social Moviment,West Virginia
+7257,18-24,2.0,Locals,Graduated,460,Social Moviment,West Virginia
+7258,25-44,2.0,Locals,Graduated,3100,Social Moviment,West Virginia
+7259,45+,2.0,Locals,Graduated,3100,Social Moviment,West Virginia
+7260,18-24,1.0,Locals,No Degree,150,Social Moviment,West Virginia
+7261,25-44,1.0,Locals,No Degree,430,Social Moviment,West Virginia
+7262,45+,1.0,Locals,No Degree,410,Social Moviment,West Virginia
+7263,18-24,2.0,Locals,No Degree,270,Social Moviment,West Virginia
+7264,25-44,2.0,Locals,No Degree,450,Social Moviment,West Virginia
+7265,45+,2.0,Locals,No Degree,1200,Social Moviment,West Virginia
+7266,18-24,1.0,Locals,High School,450,Social Moviment,West Virginia
+7267,25-44,1.0,Locals,High School,940,Social Moviment,West Virginia
+7268,45+,1.0,Locals,High School,810,Social Moviment,West Virginia
+7269,18-24,2.0,Locals,High School,890,Social Moviment,West Virginia
+7270,25-44,2.0,Locals,High School,2300,Social Moviment,West Virginia
+7271,45+,2.0,Locals,High School,2200,Social Moviment,West Virginia
+7272,18-24,1.0,Expats,Graduated,150,Social Moviment,Wisconsin
+7273,25-44,1.0,Expats,Graduated,500,Social Moviment,Wisconsin
+7274,45+,1.0,Expats,Graduated,220,Social Moviment,Wisconsin
+7275,18-24,2.0,Expats,Graduated,120,Social Moviment,Wisconsin
+7276,25-44,2.0,Expats,Graduated,550,Social Moviment,Wisconsin
+7277,45+,2.0,Expats,Graduated,310,Social Moviment,Wisconsin
+7278,18-24,1.0,Expats,No Degree,100,Social Moviment,Wisconsin
+7279,25-44,1.0,Expats,No Degree,190,Social Moviment,Wisconsin
+7280,45+,1.0,Expats,No Degree,120,Social Moviment,Wisconsin
+7281,18-24,2.0,Expats,No Degree,60,Social Moviment,Wisconsin
+7282,25-44,2.0,Expats,No Degree,180,Social Moviment,Wisconsin
+7283,45+,2.0,Expats,No Degree,120,Social Moviment,Wisconsin
+7284,18-24,1.0,Expats,High School,160,Social Moviment,Wisconsin
+7285,25-44,1.0,Expats,High School,230,Social Moviment,Wisconsin
+7286,45+,1.0,Expats,High School,60,Social Moviment,Wisconsin
+7287,18-24,2.0,Expats,High School,190,Social Moviment,Wisconsin
+7288,25-44,2.0,Expats,High School,190,Social Moviment,Wisconsin
+7289,45+,2.0,Expats,High School,80,Social Moviment,Wisconsin
+7290,18-24,1.0,Locals,Graduated,1400,Social Moviment,Wisconsin
+7291,25-44,1.0,Locals,Graduated,4800,Social Moviment,Wisconsin
+7292,45+,1.0,Locals,Graduated,3700,Social Moviment,Wisconsin
+7293,18-24,2.0,Locals,Graduated,1600,Social Moviment,Wisconsin
+7294,25-44,2.0,Locals,Graduated,9800,Social Moviment,Wisconsin
+7295,45+,2.0,Locals,Graduated,9100,Social Moviment,Wisconsin
+7296,18-24,1.0,Locals,No Degree,780,Social Moviment,Wisconsin
+7297,25-44,1.0,Locals,No Degree,1300,Social Moviment,Wisconsin
+7298,45+,1.0,Locals,No Degree,1200,Social Moviment,Wisconsin
+7299,18-24,2.0,Locals,No Degree,1200,Social Moviment,Wisconsin
+7300,25-44,2.0,Locals,No Degree,2000,Social Moviment,Wisconsin
+7301,45+,2.0,Locals,No Degree,2500,Social Moviment,Wisconsin
+7302,18-24,1.0,Locals,High School,2300,Social Moviment,Wisconsin
+7303,25-44,1.0,Locals,High School,2900,Social Moviment,Wisconsin
+7304,45+,1.0,Locals,High School,1600,Social Moviment,Wisconsin
+7305,18-24,2.0,Locals,High School,3600,Social Moviment,Wisconsin
+7306,25-44,2.0,Locals,High School,5300,Social Moviment,Wisconsin
+7307,45+,2.0,Locals,High School,3900,Social Moviment,Wisconsin
+7308,18-24,1.0,Expats,Graduated,20,Social Moviment,Wyoming
+7309,25-44,1.0,Expats,Graduated,50,Social Moviment,Wyoming
+7310,45+,1.0,Expats,Graduated,20,Social Moviment,Wyoming
+7311,18-24,2.0,Expats,Graduated,20,Social Moviment,Wyoming
+7312,25-44,2.0,Expats,Graduated,30,Social Moviment,Wyoming
+7313,45+,2.0,Expats,Graduated,40,Social Moviment,Wyoming
+7314,18-24,1.0,Expats,No Degree,20,Social Moviment,Wyoming
+7315,25-44,1.0,Expats,No Degree,30,Social Moviment,Wyoming
+7316,45+,1.0,Expats,No Degree,20,Social Moviment,Wyoming
+7317,18-24,2.0,Expats,No Degree,20,Social Moviment,Wyoming
+7318,25-44,2.0,Expats,No Degree,20,Social Moviment,Wyoming
+7319,45+,2.0,Expats,No Degree,20,Social Moviment,Wyoming
+7320,18-24,1.0,Expats,High School,20,Social Moviment,Wyoming
+7321,25-44,1.0,Expats,High School,20,Social Moviment,Wyoming
+7322,45+,1.0,Expats,High School,20,Social Moviment,Wyoming
+7323,18-24,2.0,Expats,High School,20,Social Moviment,Wyoming
+7324,25-44,2.0,Expats,High School,20,Social Moviment,Wyoming
+7325,45+,2.0,Expats,High School,20,Social Moviment,Wyoming
+7326,18-24,1.0,Locals,Graduated,150,Social Moviment,Wyoming
+7327,25-44,1.0,Locals,Graduated,470,Social Moviment,Wyoming
+7328,45+,1.0,Locals,Graduated,410,Social Moviment,Wyoming
+7329,18-24,2.0,Locals,Graduated,230,Social Moviment,Wyoming
+7330,25-44,2.0,Locals,Graduated,960,Social Moviment,Wyoming
+7331,45+,2.0,Locals,Graduated,1100,Social Moviment,Wyoming
+7332,18-24,1.0,Locals,No Degree,70,Social Moviment,Wyoming
+7333,25-44,1.0,Locals,No Degree,140,Social Moviment,Wyoming
+7334,45+,1.0,Locals,No Degree,130,Social Moviment,Wyoming
+7335,18-24,2.0,Locals,No Degree,180,Social Moviment,Wyoming
+7336,25-44,2.0,Locals,No Degree,260,Social Moviment,Wyoming
+7337,45+,2.0,Locals,No Degree,360,Social Moviment,Wyoming
+7338,18-24,1.0,Locals,High School,270,Social Moviment,Wyoming
+7339,25-44,1.0,Locals,High School,350,Social Moviment,Wyoming
+7340,45+,1.0,Locals,High School,240,Social Moviment,Wyoming
+7341,18-24,2.0,Locals,High School,470,Social Moviment,Wyoming
+7342,25-44,2.0,Locals,High School,720,Social Moviment,Wyoming
+7343,45+,2.0,Locals,High School,530,Social Moviment,Wyoming

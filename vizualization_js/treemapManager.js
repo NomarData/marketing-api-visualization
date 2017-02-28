@@ -33,8 +33,8 @@ function getTreemapDataFromInstancesList(category){
 }
 
 function processSubCategoryList(categoryAudience, subCategoryName){
-    var luxuryAudience = 0.0;
-    var healthAudience = 0.0;
+    var rightAudience = 0.0;
+    var leftAudience = 0.0;
     var totalAudienceWithInterest = 0.0;
     var subCategoryList = categoryAudience["data"][subCategoryName];
 
@@ -43,9 +43,9 @@ function processSubCategoryList(categoryAudience, subCategoryName){
     for(var index in subCategoryList){
         var instance = subCategoryList[index];
         if (getInstancePolarity(instance) == -1){
-            luxuryAudience += instance.audience;
+            rightAudience += instance.audience;
         } else if (getInstancePolarity(instance) == 1){
-            healthAudience += instance.audience;
+            leftAudience += instance.audience;
         }
         totalAudienceWithInterest += instance.audience;
     }
@@ -55,10 +55,10 @@ function processSubCategoryList(categoryAudience, subCategoryName){
         "size" : totalAudienceGivenSelection + 1,
         "audienceWithInterest" : totalAudienceWithInterest,
         "audienceCoverage" : totalAudienceGivenSelection,
-        // "score" : (healthAudience - luxuryAudience) / totalAudienceWithInterest
-        "score" : (healthAudience - luxuryAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero probably will never happen,
-        "healthAudience" : healthAudience,
-        "luxuryAudience" : luxuryAudience
+        // "score" : (leftAudience - rightAudience) / totalAudienceWithInterest
+        "score" : (leftAudience - rightAudience) / (totalAudienceGivenSelection + 1), // (+ 1) Avoid divide by zero probably will never happen,
+        "leftAudience" : leftAudience,
+        "rightAudience" : rightAudience
     }
 
 }
@@ -75,8 +75,8 @@ function generateTreemapChidren(categoryAudience){
                 "size" : treemapDataCell.size,
                 "audienceWithInterest" : treemapDataCell.audienceWithInterest,
                 "score" : treemapDataCell.score,
-                "healthAudience" : treemapDataCell.healthAudience,
-                "luxuryAudience" : treemapDataCell.luxuryAudience,
+                "leftAudience" : treemapDataCell.leftAudience,
+                "rightAudience" : treemapDataCell.rightAudience,
                 "audienceCoverage" : treemapDataCell.audienceCoverage
             }]
         });
@@ -125,50 +125,33 @@ function TreemapManager(){
         return categoriesNames;
     };
     this.init = function(){
-        var treemapDefaultHeight = 100;
-
-        var genderTreemap = new Treemap($("#genderTreemapDiv").width(),treemapDefaultHeight,$("#genderTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("gender"));
-        genderTreemap.init();
-
-        var ageRangeTreemap = new Treemap($("#ageRangeTreemapDiv").width(),treemapDefaultHeight,$("#ageRangeTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("age_range"));
-        ageRangeTreemap.init();
-
-        var scholarityTreemap = new Treemap($("#scholarityTreemapDiv").width(),treemapDefaultHeight,$("#scholarityTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("scholarity"));
-        scholarityTreemap.init();
-
-        // var languageTreemap = new Treemap($("#languageTreemapDiv").width(),treemapDefaultHeight,$("#languageTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("language"));
-        // languageTreemap.init();
-
-        var citizenshipTreemap = new Treemap($("#citizenshipTreemapDiv").width(),treemapDefaultHeight,$("#citizenshipTreemapDiv").get(0),colorFunction,getTreemapDataFromInstancesList("citizenship"));
-        citizenshipTreemap.init();
-
-        this.treemaps.push(genderTreemap);
-        this.treemaps.push(ageRangeTreemap);
-        this.treemaps.push(scholarityTreemap);
-        // this.treemaps.push(languageTreemap);
-        this.treemaps.push(citizenshipTreemap);
-
-    }
-
-
-
-    this.updateLuxuriousHealthBar = function(){
-        // var luxuriousHealthData = this.getAverageSelectedScore();
-        // luxuriousHealthBar.updateData(luxuriousHealthData);
+        var treemapDefaultHeight = 130;
+        $.map(columnsToTreemaps, function (treemapName) {
+            $("#treemapsList").append(
+                "<div  class='row treemapRowContainer'>" +
+                "<div class='span5 treemapSpanContainer'>" +
+                "<div id='" + treemapName + "FilterDiv'>" +
+                "</div>" +
+                "</div>" +
+                "</div>"
+            );
+            var treemap = new Treemap($("#treemapsList").width(),treemapDefaultHeight,$("#" + treemapName + "FilterDiv").get(0),colorFunction,getTreemapDataFromInstancesList(treemapName));
+            treemap.init();
+            currentInstance.treemaps.push(treemap);
+        });
     };
     
-    this.hideTreemapsAndAskToSelectCountries = function(){
+    this.hideTreemapsAndAskToSelectLocations = function(){
         for(var treemapIndex in currentInstance.treemaps){
             var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
-            var containerHeight = treemapContainer.height();
             var chart = treemapContainer.find(".chart");
-            $("#alertToSelectCountry").removeClass("hidden");
+            $("#alertToSelectLocation").removeClass("hidden");
             chart.hide();
         }
     }
     
     this.showTreemaps = function () {
-        $("#alertToSelectCountry").addClass("hidden");
+        $("#alertToSelectLocation").addClass("hidden");
         for(var treemapIndex in currentInstance.treemaps){
             var treemapContainer = $(currentInstance.treemaps[treemapIndex].treemapContainer);
             var containerHeight = treemapContainer.height();
@@ -178,13 +161,13 @@ function TreemapManager(){
     }
 
     this.checkIfNeedToHideTreemaps = function(){
-        if(dataManager.selectedCountries_2letters.length > 0){
+        if(dataManager.selectedLocations_2letters.length > 0){
             if(!$(".chart").is(":visible")){
                 currentInstance.showTreemaps();
             }
         } else{
             if($(".chart").is(":visible")){
-                currentInstance.hideTreemapsAndAskToSelectCountries();
+                currentInstance.hideTreemapsAndAskToSelectLocations();
             }
             return;
         }

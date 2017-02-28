@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,location
+4284,4284,18-24,1.0,Expats,Graduated,58000,1485867205.82,cars vehicles,DZ
+4285,4285,25-44,1.0,Expats,Graduated,42000,1485867205.82,cars vehicles,DZ
+4286,4286,45+,1.0,Expats,Graduated,4100,1485867205.82,cars vehicles,DZ
+4287,4287,18-24,2.0,Expats,Graduated,9100,1485867205.82,cars vehicles,DZ
+4288,4288,25-44,2.0,Expats,Graduated,4600,1485867205.82,cars vehicles,DZ
+4289,4289,45+,2.0,Expats,Graduated,600,1485867205.82,cars vehicles,DZ
+4290,4290,18-24,1.0,Expats,No Degree,24000,1485867205.82,cars vehicles,DZ
+4291,4291,25-44,1.0,Expats,No Degree,22000,1485867205.82,cars vehicles,DZ
+4292,4292,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,DZ
+4293,4293,18-24,2.0,Expats,No Degree,4500,1485867205.82,cars vehicles,DZ
+4294,4294,25-44,2.0,Expats,No Degree,3400,1485867205.82,cars vehicles,DZ
+4295,4295,45+,2.0,Expats,No Degree,670,1485867205.82,cars vehicles,DZ
+4296,4296,18-24,1.0,Expats,High School,22000,1485867205.82,cars vehicles,DZ
+4297,4297,25-44,1.0,Expats,High School,9300,1485867205.82,cars vehicles,DZ
+4298,4298,45+,1.0,Expats,High School,1100,1485867205.82,cars vehicles,DZ
+4299,4299,18-24,2.0,Expats,High School,3800,1485867205.82,cars vehicles,DZ
+4300,4300,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,DZ
+4301,4301,45+,2.0,Expats,High School,200,1485867205.82,cars vehicles,DZ
+4302,4302,18-24,1.0,Locals,Graduated,230000,1485867205.82,cars vehicles,DZ
+4303,4303,25-44,1.0,Locals,Graduated,260000,1485867205.82,cars vehicles,DZ
+4304,4304,45+,1.0,Locals,Graduated,17000,1485867205.82,cars vehicles,DZ
+4305,4305,18-24,2.0,Locals,Graduated,60000,1485867205.82,cars vehicles,DZ
+4306,4306,25-44,2.0,Locals,Graduated,54000,1485867205.82,cars vehicles,DZ
+4307,4307,45+,2.0,Locals,Graduated,4000,1485867205.82,cars vehicles,DZ
+4308,4308,18-24,1.0,Locals,No Degree,200000,1485867205.82,cars vehicles,DZ
+4309,4309,25-44,1.0,Locals,No Degree,230000,1485867205.82,cars vehicles,DZ
+4310,4310,45+,1.0,Locals,No Degree,16000,1485867205.82,cars vehicles,DZ
+4311,4311,18-24,2.0,Locals,No Degree,49000,1485867205.82,cars vehicles,DZ
+4312,4312,25-44,2.0,Locals,No Degree,39000,1485867205.82,cars vehicles,DZ
+4313,4313,45+,2.0,Locals,No Degree,4800,1485867205.82,cars vehicles,DZ
+4314,4314,18-24,1.0,Locals,High School,110000,1485867205.82,cars vehicles,DZ
+4315,4315,25-44,1.0,Locals,High School,70000,1485867205.82,cars vehicles,DZ
+4316,4316,45+,1.0,Locals,High School,5300,1485867205.82,cars vehicles,DZ
+4317,4317,18-24,2.0,Locals,High School,32000,1485867205.82,cars vehicles,DZ
+4318,4318,25-44,2.0,Locals,High School,12000,1485867205.82,cars vehicles,DZ
+4319,4319,45+,2.0,Locals,High School,1600,1485867205.82,cars vehicles,DZ
+4320,4320,18-24,1.0,Expats,Graduated,9200,1485867205.82,cars vehicles,BH
+4321,4321,25-44,1.0,Expats,Graduated,39000,1485867205.82,cars vehicles,BH
+4322,4322,45+,1.0,Expats,Graduated,4800,1485867205.82,cars vehicles,BH
+4323,4323,18-24,2.0,Expats,Graduated,1300,1485867205.82,cars vehicles,BH
+4324,4324,25-44,2.0,Expats,Graduated,8600,1485867205.82,cars vehicles,BH
+4325,4325,45+,2.0,Expats,Graduated,1700,1485867205.82,cars vehicles,BH
+4326,4326,18-24,1.0,Expats,No Degree,7200,1485867205.82,cars vehicles,BH
+4327,4327,25-44,1.0,Expats,No Degree,26000,1485867205.82,cars vehicles,BH
+4328,4328,45+,1.0,Expats,No Degree,4900,1485867205.82,cars vehicles,BH
+4329,4329,18-24,2.0,Expats,No Degree,1200,1485867205.82,cars vehicles,BH
+4330,4330,25-44,2.0,Expats,No Degree,4300,1485867205.82,cars vehicles,BH
+4331,4331,45+,2.0,Expats,No Degree,1200,1485867205.82,cars vehicles,BH
+4332,4332,18-24,1.0,Expats,High School,3800,1485867205.82,cars vehicles,BH
+4333,4333,25-44,1.0,Expats,High School,10000,1485867205.82,cars vehicles,BH
+4334,4334,45+,1.0,Expats,High School,1500,1485867205.82,cars vehicles,BH
+4335,4335,18-24,2.0,Expats,High School,820,1485867205.82,cars vehicles,BH
+4336,4336,25-44,2.0,Expats,High School,2600,1485867205.82,cars vehicles,BH
+4337,4337,45+,2.0,Expats,High School,590,1485867205.82,cars vehicles,BH
+4338,4338,18-24,1.0,Locals,Graduated,1500,1485867205.82,cars vehicles,BH
+4339,4339,25-44,1.0,Locals,Graduated,4600,1485867205.82,cars vehicles,BH
+4340,4340,45+,1.0,Locals,Graduated,590,1485867205.82,cars vehicles,BH
+4341,4341,18-24,2.0,Locals,Graduated,450,1485867205.82,cars vehicles,BH
+4342,4342,25-44,2.0,Locals,Graduated,1400,1485867205.82,cars vehicles,BH
+4343,4343,45+,2.0,Locals,Graduated,190,1485867205.82,cars vehicles,BH
+4344,4344,18-24,1.0,Locals,No Degree,1400,1485867205.82,cars vehicles,BH
+4345,4345,25-44,1.0,Locals,No Degree,2900,1485867205.82,cars vehicles,BH
+4346,4346,45+,1.0,Locals,No Degree,840,1485867205.82,cars vehicles,BH
+4347,4347,18-24,2.0,Locals,No Degree,290,1485867205.82,cars vehicles,BH
+4348,4348,25-44,2.0,Locals,No Degree,1000,1485867205.82,cars vehicles,BH
+4349,4349,45+,2.0,Locals,No Degree,160,1485867205.82,cars vehicles,BH
+4350,4350,18-24,1.0,Locals,High School,900,1485867205.82,cars vehicles,BH
+4351,4351,25-44,1.0,Locals,High School,1400,1485867205.82,cars vehicles,BH
+4352,4352,45+,1.0,Locals,High School,230,1485867205.82,cars vehicles,BH
+4353,4353,18-24,2.0,Locals,High School,450,1485867205.82,cars vehicles,BH
+4354,4354,25-44,2.0,Locals,High School,240,1485867205.82,cars vehicles,BH
+4355,4355,45+,2.0,Locals,High School,50,1485867205.82,cars vehicles,BH
+4356,4356,18-24,1.0,Expats,Graduated,24000,1485867205.82,cars vehicles,EG
+4357,4357,25-44,1.0,Expats,Graduated,40000,1485867205.82,cars vehicles,EG
+4358,4358,45+,1.0,Expats,Graduated,5900,1485867205.82,cars vehicles,EG
+4359,4359,18-24,2.0,Expats,Graduated,5500,1485867205.82,cars vehicles,EG
+4360,4360,25-44,2.0,Expats,Graduated,9800,1485867205.82,cars vehicles,EG
+4361,4361,45+,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,EG
+4362,4362,18-24,1.0,Expats,No Degree,7300,1485867205.82,cars vehicles,EG
+4363,4363,25-44,1.0,Expats,No Degree,11000,1485867205.82,cars vehicles,EG
+4364,4364,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,EG
+4365,4365,18-24,2.0,Expats,No Degree,2300,1485867205.82,cars vehicles,EG
+4366,4366,25-44,2.0,Expats,No Degree,2900,1485867205.82,cars vehicles,EG
+4367,4367,45+,2.0,Expats,No Degree,950,1485867205.82,cars vehicles,EG
+4368,4368,18-24,1.0,Expats,High School,16000,1485867205.82,cars vehicles,EG
+4369,4369,25-44,1.0,Expats,High School,9300,1485867205.82,cars vehicles,EG
+4370,4370,45+,1.0,Expats,High School,1300,1485867205.82,cars vehicles,EG
+4371,4371,18-24,2.0,Expats,High School,4600,1485867205.82,cars vehicles,EG
+4372,4372,25-44,2.0,Expats,High School,2000,1485867205.82,cars vehicles,EG
+4373,4373,45+,2.0,Expats,High School,270,1485867205.82,cars vehicles,EG
+4374,4374,18-24,1.0,Locals,Graduated,480000,1485867205.82,cars vehicles,EG
+4375,4375,25-44,1.0,Locals,Graduated,830000,1485867205.82,cars vehicles,EG
+4376,4376,45+,1.0,Locals,Graduated,92000,1485867205.82,cars vehicles,EG
+4377,4377,18-24,2.0,Locals,Graduated,160000,1485867205.82,cars vehicles,EG
+4378,4378,25-44,2.0,Locals,Graduated,220000,1485867205.82,cars vehicles,EG
+4379,4379,45+,2.0,Locals,Graduated,23000,1485867205.82,cars vehicles,EG
+4380,4380,18-24,1.0,Locals,No Degree,170000,1485867205.82,cars vehicles,EG
+4381,4381,25-44,1.0,Locals,No Degree,270000,1485867205.82,cars vehicles,EG
+4382,4382,45+,1.0,Locals,No Degree,68000,1485867205.82,cars vehicles,EG
+4383,4383,18-24,2.0,Locals,No Degree,66000,1485867205.82,cars vehicles,EG
+4384,4384,25-44,2.0,Locals,No Degree,76000,1485867205.82,cars vehicles,EG
+4385,4385,45+,2.0,Locals,No Degree,23000,1485867205.82,cars vehicles,EG
+4386,4386,18-24,1.0,Locals,High School,320000,1485867205.82,cars vehicles,EG
+4387,4387,25-44,1.0,Locals,High School,160000,1485867205.82,cars vehicles,EG
+4388,4388,45+,1.0,Locals,High School,22000,1485867205.82,cars vehicles,EG
+4389,4389,18-24,2.0,Locals,High School,120000,1485867205.82,cars vehicles,EG
+4390,4390,25-44,2.0,Locals,High School,37000,1485867205.82,cars vehicles,EG
+4391,4391,45+,2.0,Locals,High School,4800,1485867205.82,cars vehicles,EG
+4392,4392,18-24,1.0,Expats,Graduated,15000,1485867205.82,cars vehicles,IQ
+4393,4393,25-44,1.0,Expats,Graduated,28000,1485867205.82,cars vehicles,IQ
+4394,4394,45+,1.0,Expats,Graduated,2600,1485867205.82,cars vehicles,IQ
+4395,4395,18-24,2.0,Expats,Graduated,1100,1485867205.82,cars vehicles,IQ
+4396,4396,25-44,2.0,Expats,Graduated,2300,1485867205.82,cars vehicles,IQ
+4397,4397,45+,2.0,Expats,Graduated,250,1485867205.82,cars vehicles,IQ
+4398,4398,18-24,1.0,Expats,No Degree,7100,1485867205.82,cars vehicles,IQ
+4399,4399,25-44,1.0,Expats,No Degree,8800,1485867205.82,cars vehicles,IQ
+4400,4400,45+,1.0,Expats,No Degree,1300,1485867205.82,cars vehicles,IQ
+4401,4401,18-24,2.0,Expats,No Degree,900,1485867205.82,cars vehicles,IQ
+4402,4402,25-44,2.0,Expats,No Degree,1000,1485867205.82,cars vehicles,IQ
+4403,4403,45+,2.0,Expats,No Degree,280,1485867205.82,cars vehicles,IQ
+4404,4404,18-24,1.0,Expats,High School,8500,1485867205.82,cars vehicles,IQ
+4405,4405,25-44,1.0,Expats,High School,7800,1485867205.82,cars vehicles,IQ
+4406,4406,45+,1.0,Expats,High School,610,1485867205.82,cars vehicles,IQ
+4407,4407,18-24,2.0,Expats,High School,1000,1485867205.82,cars vehicles,IQ
+4408,4408,25-44,2.0,Expats,High School,620,1485867205.82,cars vehicles,IQ
+4409,4409,45+,2.0,Expats,High School,80,1485867205.82,cars vehicles,IQ
+4410,4410,18-24,1.0,Locals,Graduated,150000,1485867205.82,cars vehicles,IQ
+4411,4411,25-44,1.0,Locals,Graduated,290000,1485867205.82,cars vehicles,IQ
+4412,4412,45+,1.0,Locals,Graduated,25000,1485867205.82,cars vehicles,IQ
+4413,4413,18-24,2.0,Locals,Graduated,14000,1485867205.82,cars vehicles,IQ
+4414,4414,25-44,2.0,Locals,Graduated,29000,1485867205.82,cars vehicles,IQ
+4415,4415,45+,2.0,Locals,Graduated,4200,1485867205.82,cars vehicles,IQ
+4416,4416,18-24,1.0,Locals,No Degree,130000,1485867205.82,cars vehicles,IQ
+4417,4417,25-44,1.0,Locals,No Degree,160000,1485867205.82,cars vehicles,IQ
+4418,4418,45+,1.0,Locals,No Degree,25000,1485867205.82,cars vehicles,IQ
+4419,4419,18-24,2.0,Locals,No Degree,12000,1485867205.82,cars vehicles,IQ
+4420,4420,25-44,2.0,Locals,No Degree,17000,1485867205.82,cars vehicles,IQ
+4421,4421,45+,2.0,Locals,No Degree,6400,1485867205.82,cars vehicles,IQ
+4422,4422,18-24,1.0,Locals,High School,110000,1485867205.82,cars vehicles,IQ
+4423,4423,25-44,1.0,Locals,High School,89000,1485867205.82,cars vehicles,IQ
+4424,4424,45+,1.0,Locals,High School,7800,1485867205.82,cars vehicles,IQ
+4425,4425,18-24,2.0,Locals,High School,15000,1485867205.82,cars vehicles,IQ
+4426,4426,25-44,2.0,Locals,High School,8100,1485867205.82,cars vehicles,IQ
+4427,4427,45+,2.0,Locals,High School,1500,1485867205.82,cars vehicles,IQ
+4428,4428,18-24,1.0,Expats,Graduated,18000,1485867205.82,cars vehicles,JO
+4429,4429,25-44,1.0,Expats,Graduated,34000,1485867205.82,cars vehicles,JO
+4430,4430,45+,1.0,Expats,Graduated,4300,1485867205.82,cars vehicles,JO
+4431,4431,18-24,2.0,Expats,Graduated,6700,1485867205.82,cars vehicles,JO
+4432,4432,25-44,2.0,Expats,Graduated,13000,1485867205.82,cars vehicles,JO
+4433,4433,45+,2.0,Expats,Graduated,2300,1485867205.82,cars vehicles,JO
+4434,4434,18-24,1.0,Expats,No Degree,9500,1485867205.82,cars vehicles,JO
+4435,4435,25-44,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,JO
+4436,4436,45+,1.0,Expats,No Degree,3100,1485867205.82,cars vehicles,JO
+4437,4437,18-24,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,JO
+4438,4438,25-44,2.0,Expats,No Degree,4700,1485867205.82,cars vehicles,JO
+4439,4439,45+,2.0,Expats,No Degree,2300,1485867205.82,cars vehicles,JO
+4440,4440,18-24,1.0,Expats,High School,17000,1485867205.82,cars vehicles,JO
+4441,4441,25-44,1.0,Expats,High School,9400,1485867205.82,cars vehicles,JO
+4442,4442,45+,1.0,Expats,High School,1300,1485867205.82,cars vehicles,JO
+4443,4443,18-24,2.0,Expats,High School,8500,1485867205.82,cars vehicles,JO
+4444,4444,25-44,2.0,Expats,High School,3300,1485867205.82,cars vehicles,JO
+4445,4445,45+,2.0,Expats,High School,750,1485867205.82,cars vehicles,JO
+4446,4446,18-24,1.0,Locals,Graduated,68000,1485867205.82,cars vehicles,JO
+4447,4447,25-44,1.0,Locals,Graduated,120000,1485867205.82,cars vehicles,JO
+4448,4448,45+,1.0,Locals,Graduated,15000,1485867205.82,cars vehicles,JO
+4449,4449,18-24,2.0,Locals,Graduated,21000,1485867205.82,cars vehicles,JO
+4450,4450,25-44,2.0,Locals,Graduated,39000,1485867205.82,cars vehicles,JO
+4451,4451,45+,2.0,Locals,Graduated,4800,1485867205.82,cars vehicles,JO
+4452,4452,18-24,1.0,Locals,No Degree,43000,1485867205.82,cars vehicles,JO
+4453,4453,25-44,1.0,Locals,No Degree,59000,1485867205.82,cars vehicles,JO
+4454,4454,45+,1.0,Locals,No Degree,17000,1485867205.82,cars vehicles,JO
+4455,4455,18-24,2.0,Locals,No Degree,11000,1485867205.82,cars vehicles,JO
+4456,4456,25-44,2.0,Locals,No Degree,18000,1485867205.82,cars vehicles,JO
+4457,4457,45+,2.0,Locals,No Degree,7400,1485867205.82,cars vehicles,JO
+4458,4458,18-24,1.0,Locals,High School,60000,1485867205.82,cars vehicles,JO
+4459,4459,25-44,1.0,Locals,High School,37000,1485867205.82,cars vehicles,JO
+4460,4460,45+,1.0,Locals,High School,5700,1485867205.82,cars vehicles,JO
+4461,4461,18-24,2.0,Locals,High School,23000,1485867205.82,cars vehicles,JO
+4462,4462,25-44,2.0,Locals,High School,10000,1485867205.82,cars vehicles,JO
+4463,4463,45+,2.0,Locals,High School,1800,1485867205.82,cars vehicles,JO
+4464,4464,18-24,1.0,Expats,Graduated,9900,1485867205.82,cars vehicles,KW
+4465,4465,25-44,1.0,Expats,Graduated,82000,1485867205.82,cars vehicles,KW
+4466,4466,45+,1.0,Expats,Graduated,9100,1485867205.82,cars vehicles,KW
+4467,4467,18-24,2.0,Expats,Graduated,2400,1485867205.82,cars vehicles,KW
+4468,4468,25-44,2.0,Expats,Graduated,21000,1485867205.82,cars vehicles,KW
+4469,4469,45+,2.0,Expats,Graduated,2800,1485867205.82,cars vehicles,KW
+4470,4470,18-24,1.0,Expats,No Degree,10000,1485867205.82,cars vehicles,KW
+4471,4471,25-44,1.0,Expats,No Degree,44000,1485867205.82,cars vehicles,KW
+4472,4472,45+,1.0,Expats,No Degree,9800,1485867205.82,cars vehicles,KW
+4473,4473,18-24,2.0,Expats,No Degree,3800,1485867205.82,cars vehicles,KW
+4474,4474,25-44,2.0,Expats,No Degree,11000,1485867205.82,cars vehicles,KW
+4475,4475,45+,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,KW
+4476,4476,18-24,1.0,Expats,High School,4800,1485867205.82,cars vehicles,KW
+4477,4477,25-44,1.0,Expats,High School,21000,1485867205.82,cars vehicles,KW
+4478,4478,45+,1.0,Expats,High School,2300,1485867205.82,cars vehicles,KW
+4479,4479,18-24,2.0,Expats,High School,1800,1485867205.82,cars vehicles,KW
+4480,4480,25-44,2.0,Expats,High School,7100,1485867205.82,cars vehicles,KW
+4481,4481,45+,2.0,Expats,High School,910,1485867205.82,cars vehicles,KW
+4482,4482,18-24,1.0,Locals,Graduated,930,1485867205.82,cars vehicles,KW
+4483,4483,25-44,1.0,Locals,Graduated,4600,1485867205.82,cars vehicles,KW
+4484,4484,45+,1.0,Locals,Graduated,810,1485867205.82,cars vehicles,KW
+4485,4485,18-24,2.0,Locals,Graduated,250,1485867205.82,cars vehicles,KW
+4486,4486,25-44,2.0,Locals,Graduated,1200,1485867205.82,cars vehicles,KW
+4487,4487,45+,2.0,Locals,Graduated,160,1485867205.82,cars vehicles,KW
+4488,4488,18-24,1.0,Locals,No Degree,2100,1485867205.82,cars vehicles,KW
+4489,4489,25-44,1.0,Locals,No Degree,4700,1485867205.82,cars vehicles,KW
+4490,4490,45+,1.0,Locals,No Degree,960,1485867205.82,cars vehicles,KW
+4491,4491,18-24,2.0,Locals,No Degree,870,1485867205.82,cars vehicles,KW
+4492,4492,25-44,2.0,Locals,No Degree,1600,1485867205.82,cars vehicles,KW
+4493,4493,45+,2.0,Locals,No Degree,310,1485867205.82,cars vehicles,KW
+4494,4494,18-24,1.0,Locals,High School,600,1485867205.82,cars vehicles,KW
+4495,4495,25-44,1.0,Locals,High School,990,1485867205.82,cars vehicles,KW
+4496,4496,45+,1.0,Locals,High School,190,1485867205.82,cars vehicles,KW
+4497,4497,18-24,2.0,Locals,High School,220,1485867205.82,cars vehicles,KW
+4498,4498,25-44,2.0,Locals,High School,270,1485867205.82,cars vehicles,KW
+4499,4499,45+,2.0,Locals,High School,50,1485867205.82,cars vehicles,KW
+4500,4500,18-24,1.0,Expats,Graduated,7800,1485867205.82,cars vehicles,LB
+4501,4501,25-44,1.0,Expats,Graduated,16000,1485867205.82,cars vehicles,LB
+4502,4502,45+,1.0,Expats,Graduated,2000,1485867205.82,cars vehicles,LB
+4503,4503,18-24,2.0,Expats,Graduated,2200,1485867205.82,cars vehicles,LB
+4504,4504,25-44,2.0,Expats,Graduated,8500,1485867205.82,cars vehicles,LB
+4505,4505,45+,2.0,Expats,Graduated,1600,1485867205.82,cars vehicles,LB
+4506,4506,18-24,1.0,Expats,No Degree,8500,1485867205.82,cars vehicles,LB
+4507,4507,25-44,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,LB
+4508,4508,45+,1.0,Expats,No Degree,2500,1485867205.82,cars vehicles,LB
+4509,4509,18-24,2.0,Expats,No Degree,3800,1485867205.82,cars vehicles,LB
+4510,4510,25-44,2.0,Expats,No Degree,8100,1485867205.82,cars vehicles,LB
+4511,4511,45+,2.0,Expats,No Degree,1600,1485867205.82,cars vehicles,LB
+4512,4512,18-24,1.0,Expats,High School,5300,1485867205.82,cars vehicles,LB
+4513,4513,25-44,1.0,Expats,High School,5800,1485867205.82,cars vehicles,LB
+4514,4514,45+,1.0,Expats,High School,740,1485867205.82,cars vehicles,LB
+4515,4515,18-24,2.0,Expats,High School,2000,1485867205.82,cars vehicles,LB
+4516,4516,25-44,2.0,Expats,High School,3500,1485867205.82,cars vehicles,LB
+4517,4517,45+,2.0,Expats,High School,620,1485867205.82,cars vehicles,LB
+4518,4518,18-24,1.0,Locals,Graduated,29000,1485867205.82,cars vehicles,LB
+4519,4519,25-44,1.0,Locals,Graduated,56000,1485867205.82,cars vehicles,LB
+4520,4520,45+,1.0,Locals,Graduated,12000,1485867205.82,cars vehicles,LB
+4521,4521,18-24,2.0,Locals,Graduated,17000,1485867205.82,cars vehicles,LB
+4522,4522,25-44,2.0,Locals,Graduated,41000,1485867205.82,cars vehicles,LB
+4523,4523,45+,2.0,Locals,Graduated,6300,1485867205.82,cars vehicles,LB
+4524,4524,18-24,1.0,Locals,No Degree,35000,1485867205.82,cars vehicles,LB
+4525,4525,25-44,1.0,Locals,No Degree,47000,1485867205.82,cars vehicles,LB
+4526,4526,45+,1.0,Locals,No Degree,18000,1485867205.82,cars vehicles,LB
+4527,4527,18-24,2.0,Locals,No Degree,16000,1485867205.82,cars vehicles,LB
+4528,4528,25-44,2.0,Locals,No Degree,34000,1485867205.82,cars vehicles,LB
+4529,4529,45+,2.0,Locals,No Degree,13000,1485867205.82,cars vehicles,LB
+4530,4530,18-24,1.0,Locals,High School,23000,1485867205.82,cars vehicles,LB
+4531,4531,25-44,1.0,Locals,High School,16000,1485867205.82,cars vehicles,LB
+4532,4532,45+,1.0,Locals,High School,3800,1485867205.82,cars vehicles,LB
+4533,4533,18-24,2.0,Locals,High School,16000,1485867205.82,cars vehicles,LB
+4534,4534,25-44,2.0,Locals,High School,11000,1485867205.82,cars vehicles,LB
+4535,4535,45+,2.0,Locals,High School,2300,1485867205.82,cars vehicles,LB
+4536,4536,18-24,1.0,Expats,Graduated,4400,1485867205.82,cars vehicles,LY
+4537,4537,25-44,1.0,Expats,Graduated,11000,1485867205.82,cars vehicles,LY
+4538,4538,45+,1.0,Expats,Graduated,1100,1485867205.82,cars vehicles,LY
+4539,4539,18-24,2.0,Expats,Graduated,640,1485867205.82,cars vehicles,LY
+4540,4540,25-44,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,LY
+4541,4541,45+,2.0,Expats,Graduated,180,1485867205.82,cars vehicles,LY
+4542,4542,18-24,1.0,Expats,No Degree,3500,1485867205.82,cars vehicles,LY
+4543,4543,25-44,1.0,Expats,No Degree,7500,1485867205.82,cars vehicles,LY
+4544,4544,45+,1.0,Expats,No Degree,880,1485867205.82,cars vehicles,LY
+4545,4545,18-24,2.0,Expats,No Degree,290,1485867205.82,cars vehicles,LY
+4546,4546,25-44,2.0,Expats,No Degree,740,1485867205.82,cars vehicles,LY
+4547,4547,45+,2.0,Expats,No Degree,180,1485867205.82,cars vehicles,LY
+4548,4548,18-24,1.0,Expats,High School,2300,1485867205.82,cars vehicles,LY
+4549,4549,25-44,1.0,Expats,High School,2900,1485867205.82,cars vehicles,LY
+4550,4550,45+,1.0,Expats,High School,250,1485867205.82,cars vehicles,LY
+4551,4551,18-24,2.0,Expats,High School,620,1485867205.82,cars vehicles,LY
+4552,4552,25-44,2.0,Expats,High School,260,1485867205.82,cars vehicles,LY
+4553,4553,45+,2.0,Expats,High School,40,1485867205.82,cars vehicles,LY
+4554,4554,18-24,1.0,Locals,Graduated,35000,1485867205.82,cars vehicles,LY
+4555,4555,25-44,1.0,Locals,Graduated,67000,1485867205.82,cars vehicles,LY
+4556,4556,45+,1.0,Locals,Graduated,6900,1485867205.82,cars vehicles,LY
+4557,4557,18-24,2.0,Locals,Graduated,9900,1485867205.82,cars vehicles,LY
+4558,4558,25-44,2.0,Locals,Graduated,16000,1485867205.82,cars vehicles,LY
+4559,4559,45+,2.0,Locals,Graduated,1400,1485867205.82,cars vehicles,LY
+4560,4560,18-24,1.0,Locals,No Degree,18000,1485867205.82,cars vehicles,LY
+4561,4561,25-44,1.0,Locals,No Degree,36000,1485867205.82,cars vehicles,LY
+4562,4562,45+,1.0,Locals,No Degree,6200,1485867205.82,cars vehicles,LY
+4563,4563,18-24,2.0,Locals,No Degree,4600,1485867205.82,cars vehicles,LY
+4564,4564,25-44,2.0,Locals,No Degree,7200,1485867205.82,cars vehicles,LY
+4565,4565,45+,2.0,Locals,No Degree,1700,1485867205.82,cars vehicles,LY
+4566,4566,18-24,1.0,Locals,High School,22000,1485867205.82,cars vehicles,LY
+4567,4567,25-44,1.0,Locals,High School,16000,1485867205.82,cars vehicles,LY
+4568,4568,45+,1.0,Locals,High School,2000,1485867205.82,cars vehicles,LY
+4569,4569,18-24,2.0,Locals,High School,9500,1485867205.82,cars vehicles,LY
+4570,4570,25-44,2.0,Locals,High School,4000,1485867205.82,cars vehicles,LY
+4571,4571,45+,2.0,Locals,High School,460,1485867205.82,cars vehicles,LY
+4572,4572,18-24,1.0,Expats,Graduated,47000,1485867205.82,cars vehicles,MA
+4573,4573,25-44,1.0,Expats,Graduated,32000,1485867205.82,cars vehicles,MA
+4574,4574,45+,1.0,Expats,Graduated,3600,1485867205.82,cars vehicles,MA
+4575,4575,18-24,2.0,Expats,Graduated,7300,1485867205.82,cars vehicles,MA
+4576,4576,25-44,2.0,Expats,Graduated,4800,1485867205.82,cars vehicles,MA
+4577,4577,45+,2.0,Expats,Graduated,540,1485867205.82,cars vehicles,MA
+4578,4578,18-24,1.0,Expats,No Degree,14000,1485867205.82,cars vehicles,MA
+4579,4579,25-44,1.0,Expats,No Degree,14000,1485867205.82,cars vehicles,MA
+4580,4580,45+,1.0,Expats,No Degree,2200,1485867205.82,cars vehicles,MA
+4581,4581,18-24,2.0,Expats,No Degree,3300,1485867205.82,cars vehicles,MA
+4582,4582,25-44,2.0,Expats,No Degree,3300,1485867205.82,cars vehicles,MA
+4583,4583,45+,2.0,Expats,No Degree,500,1485867205.82,cars vehicles,MA
+4584,4584,18-24,1.0,Expats,High School,17000,1485867205.82,cars vehicles,MA
+4585,4585,25-44,1.0,Expats,High School,8200,1485867205.82,cars vehicles,MA
+4586,4586,45+,1.0,Expats,High School,1100,1485867205.82,cars vehicles,MA
+4587,4587,18-24,2.0,Expats,High School,3100,1485867205.82,cars vehicles,MA
+4588,4588,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,MA
+4589,4589,45+,2.0,Expats,High School,230,1485867205.82,cars vehicles,MA
+4590,4590,18-24,1.0,Locals,Graduated,280000,1485867205.82,cars vehicles,MA
+4591,4591,25-44,1.0,Locals,Graduated,260000,1485867205.82,cars vehicles,MA
+4592,4592,45+,1.0,Locals,Graduated,21000,1485867205.82,cars vehicles,MA
+4593,4593,18-24,2.0,Locals,Graduated,79000,1485867205.82,cars vehicles,MA
+4594,4594,25-44,2.0,Locals,Graduated,57000,1485867205.82,cars vehicles,MA
+4595,4595,45+,2.0,Locals,Graduated,5100,1485867205.82,cars vehicles,MA
+4596,4596,18-24,1.0,Locals,No Degree,180000,1485867205.82,cars vehicles,MA
+4597,4597,25-44,1.0,Locals,No Degree,190000,1485867205.82,cars vehicles,MA
+4598,4598,45+,1.0,Locals,No Degree,22000,1485867205.82,cars vehicles,MA
+4599,4599,18-24,2.0,Locals,No Degree,53000,1485867205.82,cars vehicles,MA
+4600,4600,25-44,2.0,Locals,No Degree,40000,1485867205.82,cars vehicles,MA
+4601,4601,45+,2.0,Locals,No Degree,5800,1485867205.82,cars vehicles,MA
+4602,4602,18-24,1.0,Locals,High School,120000,1485867205.82,cars vehicles,MA
+4603,4603,25-44,1.0,Locals,High School,71000,1485867205.82,cars vehicles,MA
+4604,4604,45+,1.0,Locals,High School,6600,1485867205.82,cars vehicles,MA
+4605,4605,18-24,2.0,Locals,High School,40000,1485867205.82,cars vehicles,MA
+4606,4606,25-44,2.0,Locals,High School,15000,1485867205.82,cars vehicles,MA
+4607,4607,45+,2.0,Locals,High School,2000,1485867205.82,cars vehicles,MA
+4608,4608,18-24,1.0,Expats,Graduated,12000,1485867205.82,cars vehicles,OM
+4609,4609,25-44,1.0,Expats,Graduated,51000,1485867205.82,cars vehicles,OM
+4610,4610,45+,1.0,Expats,Graduated,4800,1485867205.82,cars vehicles,OM
+4611,4611,18-24,2.0,Expats,Graduated,1000,1485867205.82,cars vehicles,OM
+4612,4612,25-44,2.0,Expats,Graduated,7900,1485867205.82,cars vehicles,OM
+4613,4613,45+,2.0,Expats,Graduated,1400,1485867205.82,cars vehicles,OM
+4614,4614,18-24,1.0,Expats,No Degree,11000,1485867205.82,cars vehicles,OM
+4615,4615,25-44,1.0,Expats,No Degree,32000,1485867205.82,cars vehicles,OM
+4616,4616,45+,1.0,Expats,No Degree,4200,1485867205.82,cars vehicles,OM
+4617,4617,18-24,2.0,Expats,No Degree,1500,1485867205.82,cars vehicles,OM
+4618,4618,25-44,2.0,Expats,No Degree,4000,1485867205.82,cars vehicles,OM
+4619,4619,45+,2.0,Expats,No Degree,880,1485867205.82,cars vehicles,OM
+4620,4620,18-24,1.0,Expats,High School,4300,1485867205.82,cars vehicles,OM
+4621,4621,25-44,1.0,Expats,High School,11000,1485867205.82,cars vehicles,OM
+4622,4622,45+,1.0,Expats,High School,1400,1485867205.82,cars vehicles,OM
+4623,4623,18-24,2.0,Expats,High School,900,1485867205.82,cars vehicles,OM
+4624,4624,25-44,2.0,Expats,High School,2100,1485867205.82,cars vehicles,OM
+4625,4625,45+,2.0,Expats,High School,240,1485867205.82,cars vehicles,OM
+4626,4626,18-24,1.0,Locals,Graduated,3200,1485867205.82,cars vehicles,OM
+4627,4627,25-44,1.0,Locals,Graduated,8700,1485867205.82,cars vehicles,OM
+4628,4628,45+,1.0,Locals,Graduated,540,1485867205.82,cars vehicles,OM
+4629,4629,18-24,2.0,Locals,Graduated,350,1485867205.82,cars vehicles,OM
+4630,4630,25-44,2.0,Locals,Graduated,790,1485867205.82,cars vehicles,OM
+4631,4631,45+,2.0,Locals,Graduated,50,1485867205.82,cars vehicles,OM
+4632,4632,18-24,1.0,Locals,No Degree,2600,1485867205.82,cars vehicles,OM
+4633,4633,25-44,1.0,Locals,No Degree,5500,1485867205.82,cars vehicles,OM
+4634,4634,45+,1.0,Locals,No Degree,700,1485867205.82,cars vehicles,OM
+4635,4635,18-24,2.0,Locals,No Degree,370,1485867205.82,cars vehicles,OM
+4636,4636,25-44,2.0,Locals,No Degree,720,1485867205.82,cars vehicles,OM
+4637,4637,45+,2.0,Locals,No Degree,90,1485867205.82,cars vehicles,OM
+4638,4638,18-24,1.0,Locals,High School,2300,1485867205.82,cars vehicles,OM
+4639,4639,25-44,1.0,Locals,High School,2600,1485867205.82,cars vehicles,OM
+4640,4640,45+,1.0,Locals,High School,220,1485867205.82,cars vehicles,OM
+4641,4641,18-24,2.0,Locals,High School,200,1485867205.82,cars vehicles,OM
+4642,4642,25-44,2.0,Locals,High School,180,1485867205.82,cars vehicles,OM
+4643,4643,45+,2.0,Locals,High School,30,1485867205.82,cars vehicles,OM
+4644,4644,18-24,1.0,Expats,Graduated,33000,1485867205.82,cars vehicles,QA
+4645,4645,25-44,1.0,Expats,Graduated,150000,1485867205.82,cars vehicles,QA
+4646,4646,45+,1.0,Expats,Graduated,15000,1485867205.82,cars vehicles,QA
+4647,4647,18-24,2.0,Expats,Graduated,4400,1485867205.82,cars vehicles,QA
+4648,4648,25-44,2.0,Expats,Graduated,27000,1485867205.82,cars vehicles,QA
+4649,4649,45+,2.0,Expats,Graduated,3400,1485867205.82,cars vehicles,QA
+4650,4650,18-24,1.0,Expats,No Degree,23000,1485867205.82,cars vehicles,QA
+4651,4651,25-44,1.0,Expats,No Degree,76000,1485867205.82,cars vehicles,QA
+4652,4652,45+,1.0,Expats,No Degree,13000,1485867205.82,cars vehicles,QA
+4653,4653,18-24,2.0,Expats,No Degree,2600,1485867205.82,cars vehicles,QA
+4654,4654,25-44,2.0,Expats,No Degree,11000,1485867205.82,cars vehicles,QA
+4655,4655,45+,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,QA
+4656,4656,18-24,1.0,Expats,High School,11000,1485867205.82,cars vehicles,QA
+4657,4657,25-44,1.0,Expats,High School,33000,1485867205.82,cars vehicles,QA
+4658,4658,45+,1.0,Expats,High School,4200,1485867205.82,cars vehicles,QA
+4659,4659,18-24,2.0,Expats,High School,2100,1485867205.82,cars vehicles,QA
+4660,4660,25-44,2.0,Expats,High School,6800,1485867205.82,cars vehicles,QA
+4661,4661,45+,2.0,Expats,High School,930,1485867205.82,cars vehicles,QA
+4662,4662,18-24,1.0,Locals,Graduated,990,1485867205.82,cars vehicles,QA
+4663,4663,25-44,1.0,Locals,Graduated,2300,1485867205.82,cars vehicles,QA
+4664,4664,45+,1.0,Locals,Graduated,200,1485867205.82,cars vehicles,QA
+4665,4665,18-24,2.0,Locals,Graduated,180,1485867205.82,cars vehicles,QA
+4666,4666,25-44,2.0,Locals,Graduated,490,1485867205.82,cars vehicles,QA
+4667,4667,45+,2.0,Locals,Graduated,50,1485867205.82,cars vehicles,QA
+4668,4668,18-24,1.0,Locals,No Degree,760,1485867205.82,cars vehicles,QA
+4669,4669,25-44,1.0,Locals,No Degree,2300,1485867205.82,cars vehicles,QA
+4670,4670,45+,1.0,Locals,No Degree,400,1485867205.82,cars vehicles,QA
+4671,4671,18-24,2.0,Locals,No Degree,150,1485867205.82,cars vehicles,QA
+4672,4672,25-44,2.0,Locals,No Degree,620,1485867205.82,cars vehicles,QA
+4673,4673,45+,2.0,Locals,No Degree,170,1485867205.82,cars vehicles,QA
+4674,4674,18-24,1.0,Locals,High School,410,1485867205.82,cars vehicles,QA
+4675,4675,25-44,1.0,Locals,High School,590,1485867205.82,cars vehicles,QA
+4676,4676,45+,1.0,Locals,High School,50,1485867205.82,cars vehicles,QA
+4677,4677,18-24,2.0,Locals,High School,120,1485867205.82,cars vehicles,QA
+4678,4678,25-44,2.0,Locals,High School,120,1485867205.82,cars vehicles,QA
+4679,4679,45+,2.0,Locals,High School,20,1485867205.82,cars vehicles,QA
+4680,4680,18-24,1.0,Expats,Graduated,77000,1485867205.82,cars vehicles,SA
+4681,4681,25-44,1.0,Expats,Graduated,430000,1485867205.82,cars vehicles,SA
+4682,4682,45+,1.0,Expats,Graduated,41000,1485867205.82,cars vehicles,SA
+4683,4683,18-24,2.0,Expats,Graduated,7300,1485867205.82,cars vehicles,SA
+4684,4684,25-44,2.0,Expats,Graduated,49000,1485867205.82,cars vehicles,SA
+4685,4685,45+,2.0,Expats,Graduated,9600,1485867205.82,cars vehicles,SA
+4686,4686,18-24,1.0,Expats,No Degree,19000,1485867205.82,cars vehicles,SA
+4687,4687,25-44,1.0,Expats,No Degree,64000,1485867205.82,cars vehicles,SA
+4688,4688,45+,1.0,Expats,No Degree,9500,1485867205.82,cars vehicles,SA
+4689,4689,18-24,2.0,Expats,No Degree,2900,1485867205.82,cars vehicles,SA
+4690,4690,25-44,2.0,Expats,No Degree,10000,1485867205.82,cars vehicles,SA
+4691,4691,45+,2.0,Expats,No Degree,2800,1485867205.82,cars vehicles,SA
+4692,4692,18-24,1.0,Expats,High School,28000,1485867205.82,cars vehicles,SA
+4693,4693,25-44,1.0,Expats,High School,90000,1485867205.82,cars vehicles,SA
+4694,4694,45+,1.0,Expats,High School,9600,1485867205.82,cars vehicles,SA
+4695,4695,18-24,2.0,Expats,High School,5200,1485867205.82,cars vehicles,SA
+4696,4696,25-44,2.0,Expats,High School,12000,1485867205.82,cars vehicles,SA
+4697,4697,45+,2.0,Expats,High School,2500,1485867205.82,cars vehicles,SA
+4698,4698,18-24,1.0,Locals,Graduated,32000,1485867205.82,cars vehicles,SA
+4699,4699,25-44,1.0,Locals,Graduated,140000,1485867205.82,cars vehicles,SA
+4700,4700,45+,1.0,Locals,Graduated,16000,1485867205.82,cars vehicles,SA
+4701,4701,18-24,2.0,Locals,Graduated,3900,1485867205.82,cars vehicles,SA
+4702,4702,25-44,2.0,Locals,Graduated,15000,1485867205.82,cars vehicles,SA
+4703,4703,45+,2.0,Locals,Graduated,2700,1485867205.82,cars vehicles,SA
+4704,4704,18-24,1.0,Locals,No Degree,85000,1485867205.82,cars vehicles,SA
+4705,4705,25-44,1.0,Locals,No Degree,240000,1485867205.82,cars vehicles,SA
+4706,4706,45+,1.0,Locals,No Degree,39000,1485867205.82,cars vehicles,SA
+4707,4707,18-24,2.0,Locals,No Degree,7300,1485867205.82,cars vehicles,SA
+4708,4708,25-44,2.0,Locals,No Degree,17000,1485867205.82,cars vehicles,SA
+4709,4709,45+,2.0,Locals,No Degree,5100,1485867205.82,cars vehicles,SA
+4710,4710,18-24,1.0,Locals,High School,18000,1485867205.82,cars vehicles,SA
+4711,4711,25-44,1.0,Locals,High School,47000,1485867205.82,cars vehicles,SA
+4712,4712,45+,1.0,Locals,High School,5700,1485867205.82,cars vehicles,SA
+4713,4713,18-24,2.0,Locals,High School,3400,1485867205.82,cars vehicles,SA
+4714,4714,25-44,2.0,Locals,High School,4800,1485867205.82,cars vehicles,SA
+4715,4715,45+,2.0,Locals,High School,830,1485867205.82,cars vehicles,SA
+4716,4716,18-24,1.0,Expats,Graduated,1400,1485867205.82,cars vehicles,SO
+4717,4717,25-44,1.0,Expats,Graduated,1300,1485867205.82,cars vehicles,SO
+4718,4718,45+,1.0,Expats,Graduated,160,1485867205.82,cars vehicles,SO
+4719,4719,18-24,2.0,Expats,Graduated,220,1485867205.82,cars vehicles,SO
+4720,4720,25-44,2.0,Expats,Graduated,90,1485867205.82,cars vehicles,SO
+4721,4721,45+,2.0,Expats,Graduated,20,1485867205.82,cars vehicles,SO
+4722,4722,18-24,1.0,Expats,No Degree,420,1485867205.82,cars vehicles,SO
+4723,4723,25-44,1.0,Expats,No Degree,390,1485867205.82,cars vehicles,SO
+4724,4724,45+,1.0,Expats,No Degree,50,1485867205.82,cars vehicles,SO
+4725,4725,18-24,2.0,Expats,No Degree,100,1485867205.82,cars vehicles,SO
+4726,4726,25-44,2.0,Expats,No Degree,90,1485867205.82,cars vehicles,SO
+4727,4727,45+,2.0,Expats,No Degree,20,1485867205.82,cars vehicles,SO
+4728,4728,18-24,1.0,Expats,High School,500,1485867205.82,cars vehicles,SO
+4729,4729,25-44,1.0,Expats,High School,260,1485867205.82,cars vehicles,SO
+4730,4730,45+,1.0,Expats,High School,60,1485867205.82,cars vehicles,SO
+4731,4731,18-24,2.0,Expats,High School,30,1485867205.82,cars vehicles,SO
+4732,4732,25-44,2.0,Expats,High School,20,1485867205.82,cars vehicles,SO
+4733,4733,45+,2.0,Expats,High School,20,1485867205.82,cars vehicles,SO
+4734,4734,18-24,1.0,Locals,Graduated,3300,1485867205.82,cars vehicles,SO
+4735,4735,25-44,1.0,Locals,Graduated,2100,1485867205.82,cars vehicles,SO
+4736,4736,45+,1.0,Locals,Graduated,50,1485867205.82,cars vehicles,SO
+4737,4737,18-24,2.0,Locals,Graduated,720,1485867205.82,cars vehicles,SO
+4738,4738,25-44,2.0,Locals,Graduated,390,1485867205.82,cars vehicles,SO
+4739,4739,45+,2.0,Locals,Graduated,40,1485867205.82,cars vehicles,SO
+4740,4740,18-24,1.0,Locals,No Degree,2700,1485867205.82,cars vehicles,SO
+4741,4741,25-44,1.0,Locals,No Degree,1200,1485867205.82,cars vehicles,SO
+4742,4742,45+,1.0,Locals,No Degree,210,1485867205.82,cars vehicles,SO
+4743,4743,18-24,2.0,Locals,No Degree,2000,1485867205.82,cars vehicles,SO
+4744,4744,25-44,2.0,Locals,No Degree,960,1485867205.82,cars vehicles,SO
+4745,4745,45+,2.0,Locals,No Degree,90,1485867205.82,cars vehicles,SO
+4746,4746,18-24,1.0,Locals,High School,1500,1485867205.82,cars vehicles,SO
+4747,4747,25-44,1.0,Locals,High School,430,1485867205.82,cars vehicles,SO
+4748,4748,45+,1.0,Locals,High School,20,1485867205.82,cars vehicles,SO
+4749,4749,18-24,2.0,Locals,High School,360,1485867205.82,cars vehicles,SO
+4750,4750,25-44,2.0,Locals,High School,130,1485867205.82,cars vehicles,SO
+4751,4751,45+,2.0,Locals,High School,40,1485867205.82,cars vehicles,SO
+4752,4752,18-24,1.0,Expats,Graduated,18000,1485867205.82,cars vehicles,TN
+4753,4753,25-44,1.0,Expats,Graduated,17000,1485867205.82,cars vehicles,TN
+4754,4754,45+,1.0,Expats,Graduated,3000,1485867205.82,cars vehicles,TN
+4755,4755,18-24,2.0,Expats,Graduated,4600,1485867205.82,cars vehicles,TN
+4756,4756,25-44,2.0,Expats,Graduated,4500,1485867205.82,cars vehicles,TN
+4757,4757,45+,2.0,Expats,Graduated,900,1485867205.82,cars vehicles,TN
+4758,4758,18-24,1.0,Expats,No Degree,6700,1485867205.82,cars vehicles,TN
+4759,4759,25-44,1.0,Expats,No Degree,7700,1485867205.82,cars vehicles,TN
+4760,4760,45+,1.0,Expats,No Degree,1700,1485867205.82,cars vehicles,TN
+4761,4761,18-24,2.0,Expats,No Degree,2100,1485867205.82,cars vehicles,TN
+4762,4762,25-44,2.0,Expats,No Degree,2500,1485867205.82,cars vehicles,TN
+4763,4763,45+,2.0,Expats,No Degree,620,1485867205.82,cars vehicles,TN
+4764,4764,18-24,1.0,Expats,High School,7700,1485867205.82,cars vehicles,TN
+4765,4765,25-44,1.0,Expats,High School,4500,1485867205.82,cars vehicles,TN
+4766,4766,45+,1.0,Expats,High School,990,1485867205.82,cars vehicles,TN
+4767,4767,18-24,2.0,Expats,High School,2100,1485867205.82,cars vehicles,TN
+4768,4768,25-44,2.0,Expats,High School,1200,1485867205.82,cars vehicles,TN
+4769,4769,45+,2.0,Expats,High School,310,1485867205.82,cars vehicles,TN
+4770,4770,18-24,1.0,Locals,Graduated,100000,1485867205.82,cars vehicles,TN
+4771,4771,25-44,1.0,Locals,Graduated,180000,1485867205.82,cars vehicles,TN
+4772,4772,45+,1.0,Locals,Graduated,28000,1485867205.82,cars vehicles,TN
+4773,4773,18-24,2.0,Locals,Graduated,55000,1485867205.82,cars vehicles,TN
+4774,4774,25-44,2.0,Locals,Graduated,83000,1485867205.82,cars vehicles,TN
+4775,4775,45+,2.0,Locals,Graduated,9600,1485867205.82,cars vehicles,TN
+4776,4776,18-24,1.0,Locals,No Degree,64000,1485867205.82,cars vehicles,TN
+4777,4777,25-44,1.0,Locals,No Degree,100000,1485867205.82,cars vehicles,TN
+4778,4778,45+,1.0,Locals,No Degree,21000,1485867205.82,cars vehicles,TN
+4779,4779,18-24,2.0,Locals,No Degree,34000,1485867205.82,cars vehicles,TN
+4780,4780,25-44,2.0,Locals,No Degree,40000,1485867205.82,cars vehicles,TN
+4781,4781,45+,2.0,Locals,No Degree,9000,1485867205.82,cars vehicles,TN
+4782,4782,18-24,1.0,Locals,High School,50000,1485867205.82,cars vehicles,TN
+4783,4783,25-44,1.0,Locals,High School,49000,1485867205.82,cars vehicles,TN
+4784,4784,45+,1.0,Locals,High School,11000,1485867205.82,cars vehicles,TN
+4785,4785,18-24,2.0,Locals,High School,31000,1485867205.82,cars vehicles,TN
+4786,4786,25-44,2.0,Locals,High School,19000,1485867205.82,cars vehicles,TN
+4787,4787,45+,2.0,Locals,High School,4700,1485867205.82,cars vehicles,TN
+4788,4788,18-24,1.0,Expats,Graduated,120000,1485867205.82,cars vehicles,AE
+4789,4789,25-44,1.0,Expats,Graduated,480000,1485867205.82,cars vehicles,AE
+4790,4790,45+,1.0,Expats,Graduated,45000,1485867205.82,cars vehicles,AE
+4791,4791,18-24,2.0,Expats,Graduated,14000,1485867205.82,cars vehicles,AE
+4792,4792,25-44,2.0,Expats,Graduated,82000,1485867205.82,cars vehicles,AE
+4793,4793,45+,2.0,Expats,Graduated,12000,1485867205.82,cars vehicles,AE
+4794,4794,18-24,1.0,Expats,No Degree,82000,1485867205.82,cars vehicles,AE
+4795,4795,25-44,1.0,Expats,No Degree,190000,1485867205.82,cars vehicles,AE
+4796,4796,45+,1.0,Expats,No Degree,34000,1485867205.82,cars vehicles,AE
+4797,4797,18-24,2.0,Expats,No Degree,8000,1485867205.82,cars vehicles,AE
+4798,4798,25-44,2.0,Expats,No Degree,27000,1485867205.82,cars vehicles,AE
+4799,4799,45+,2.0,Expats,No Degree,7500,1485867205.82,cars vehicles,AE
+4800,4800,18-24,1.0,Expats,High School,42000,1485867205.82,cars vehicles,AE
+4801,4801,25-44,1.0,Expats,High School,100000,1485867205.82,cars vehicles,AE
+4802,4802,45+,1.0,Expats,High School,12000,1485867205.82,cars vehicles,AE
+4803,4803,18-24,2.0,Expats,High School,8300,1485867205.82,cars vehicles,AE
+4804,4804,25-44,2.0,Expats,High School,17000,1485867205.82,cars vehicles,AE
+4805,4805,45+,2.0,Expats,High School,3600,1485867205.82,cars vehicles,AE
+4806,4806,18-24,1.0,Locals,Graduated,3900,1485867205.82,cars vehicles,AE
+4807,4807,25-44,1.0,Locals,Graduated,12000,1485867205.82,cars vehicles,AE
+4808,4808,45+,1.0,Locals,Graduated,1200,1485867205.82,cars vehicles,AE
+4809,4809,18-24,2.0,Locals,Graduated,670,1485867205.82,cars vehicles,AE
+4810,4810,25-44,2.0,Locals,Graduated,2100,1485867205.82,cars vehicles,AE
+4811,4811,45+,2.0,Locals,Graduated,150,1485867205.82,cars vehicles,AE
+4812,4812,18-24,1.0,Locals,No Degree,4100,1485867205.82,cars vehicles,AE
+4813,4813,25-44,1.0,Locals,No Degree,11000,1485867205.82,cars vehicles,AE
+4814,4814,45+,1.0,Locals,No Degree,1900,1485867205.82,cars vehicles,AE
+4815,4815,18-24,2.0,Locals,No Degree,900,1485867205.82,cars vehicles,AE
+4816,4816,25-44,2.0,Locals,No Degree,1900,1485867205.82,cars vehicles,AE
+4817,4817,45+,2.0,Locals,No Degree,280,1485867205.82,cars vehicles,AE
+4818,4818,18-24,1.0,Locals,High School,2500,1485867205.82,cars vehicles,AE
+4819,4819,25-44,1.0,Locals,High School,2800,1485867205.82,cars vehicles,AE
+4820,4820,45+,1.0,Locals,High School,430,1485867205.82,cars vehicles,AE
+4821,4821,18-24,2.0,Locals,High School,570,1485867205.82,cars vehicles,AE
+4822,4822,25-44,2.0,Locals,High School,490,1485867205.82,cars vehicles,AE
+4823,4823,45+,2.0,Locals,High School,40,1485867205.82,cars vehicles,AE
+4824,4824,18-24,1.0,Expats,Graduated,2100,1485867205.82,cars vehicles,YE
+4825,4825,25-44,1.0,Expats,Graduated,3700,1485867205.82,cars vehicles,YE
+4826,4826,45+,1.0,Expats,Graduated,320,1485867205.82,cars vehicles,YE
+4827,4827,18-24,2.0,Expats,Graduated,250,1485867205.82,cars vehicles,YE
+4828,4828,25-44,2.0,Expats,Graduated,330,1485867205.82,cars vehicles,YE
+4829,4829,45+,2.0,Expats,Graduated,30,1485867205.82,cars vehicles,YE
+4830,4830,18-24,1.0,Expats,No Degree,780,1485867205.82,cars vehicles,YE
+4831,4831,25-44,1.0,Expats,No Degree,1100,1485867205.82,cars vehicles,YE
+4832,4832,45+,1.0,Expats,No Degree,100,1485867205.82,cars vehicles,YE
+4833,4833,18-24,2.0,Expats,No Degree,280,1485867205.82,cars vehicles,YE
+4834,4834,25-44,2.0,Expats,No Degree,180,1485867205.82,cars vehicles,YE
+4835,4835,45+,2.0,Expats,No Degree,60,1485867205.82,cars vehicles,YE
+4836,4836,18-24,1.0,Expats,High School,950,1485867205.82,cars vehicles,YE
+4837,4837,25-44,1.0,Expats,High School,910,1485867205.82,cars vehicles,YE
+4838,4838,45+,1.0,Expats,High School,90,1485867205.82,cars vehicles,YE
+4839,4839,18-24,2.0,Expats,High School,250,1485867205.82,cars vehicles,YE
+4840,4840,25-44,2.0,Expats,High School,150,1485867205.82,cars vehicles,YE
+4841,4841,45+,2.0,Expats,High School,20,1485867205.82,cars vehicles,YE
+4842,4842,18-24,1.0,Locals,Graduated,16000,1485867205.82,cars vehicles,YE
+4843,4843,25-44,1.0,Locals,Graduated,30000,1485867205.82,cars vehicles,YE
+4844,4844,45+,1.0,Locals,Graduated,2500,1485867205.82,cars vehicles,YE
+4845,4845,18-24,2.0,Locals,Graduated,1700,1485867205.82,cars vehicles,YE
+4846,4846,25-44,2.0,Locals,Graduated,3500,1485867205.82,cars vehicles,YE
+4847,4847,45+,2.0,Locals,Graduated,160,1485867205.82,cars vehicles,YE
+4848,4848,18-24,1.0,Locals,No Degree,10000,1485867205.82,cars vehicles,YE
+4849,4849,25-44,1.0,Locals,No Degree,12000,1485867205.82,cars vehicles,YE
+4850,4850,45+,1.0,Locals,No Degree,2000,1485867205.82,cars vehicles,YE
+4851,4851,18-24,2.0,Locals,No Degree,1400,1485867205.82,cars vehicles,YE
+4852,4852,25-44,2.0,Locals,No Degree,1300,1485867205.82,cars vehicles,YE
+4853,4853,45+,2.0,Locals,No Degree,270,1485867205.82,cars vehicles,YE
+4854,4854,18-24,1.0,Locals,High School,11000,1485867205.82,cars vehicles,YE
+4855,4855,25-44,1.0,Locals,High School,8200,1485867205.82,cars vehicles,YE
+4856,4856,45+,1.0,Locals,High School,650,1485867205.82,cars vehicles,YE
+4857,4857,18-24,2.0,Locals,High School,2000,1485867205.82,cars vehicles,YE
+4858,4858,25-44,2.0,Locals,High School,1100,1485867205.82,cars vehicles,YE
+4859,4859,45+,2.0,Locals,High School,60,1485867205.82,cars vehicles,YE
+4860,4860,18-24,1.0,Expats,Graduated,5300,1485867205.82,cars vehicles,PS
+4861,4861,25-44,1.0,Expats,Graduated,7000,1485867205.82,cars vehicles,PS
+4862,4862,45+,1.0,Expats,Graduated,770,1485867205.82,cars vehicles,PS
+4863,4863,18-24,2.0,Expats,Graduated,1300,1485867205.82,cars vehicles,PS
+4864,4864,25-44,2.0,Expats,Graduated,2000,1485867205.82,cars vehicles,PS
+4865,4865,45+,2.0,Expats,Graduated,160,1485867205.82,cars vehicles,PS
+4866,4866,18-24,1.0,Expats,No Degree,1400,1485867205.82,cars vehicles,PS
+4867,4867,25-44,1.0,Expats,No Degree,1500,1485867205.82,cars vehicles,PS
+4868,4868,45+,1.0,Expats,No Degree,260,1485867205.82,cars vehicles,PS
+4869,4869,18-24,2.0,Expats,No Degree,480,1485867205.82,cars vehicles,PS
+4870,4870,25-44,2.0,Expats,No Degree,540,1485867205.82,cars vehicles,PS
+4871,4871,45+,2.0,Expats,No Degree,120,1485867205.82,cars vehicles,PS
+4872,4872,18-24,1.0,Expats,High School,2900,1485867205.82,cars vehicles,PS
+4873,4873,25-44,1.0,Expats,High School,1500,1485867205.82,cars vehicles,PS
+4874,4874,45+,1.0,Expats,High School,230,1485867205.82,cars vehicles,PS
+4875,4875,18-24,2.0,Expats,High School,1300,1485867205.82,cars vehicles,PS
+4876,4876,25-44,2.0,Expats,High School,500,1485867205.82,cars vehicles,PS
+4877,4877,45+,2.0,Expats,High School,60,1485867205.82,cars vehicles,PS
+4878,4878,18-24,1.0,Locals,Graduated,18000,1485867205.82,cars vehicles,PS
+4879,4879,25-44,1.0,Locals,Graduated,26000,1485867205.82,cars vehicles,PS
+4880,4880,45+,1.0,Locals,Graduated,2500,1485867205.82,cars vehicles,PS
+4881,4881,18-24,2.0,Locals,Graduated,4500,1485867205.82,cars vehicles,PS
+4882,4882,25-44,2.0,Locals,Graduated,6400,1485867205.82,cars vehicles,PS
+4883,4883,45+,2.0,Locals,Graduated,460,1485867205.82,cars vehicles,PS
+4884,4884,18-24,1.0,Locals,No Degree,6900,1485867205.82,cars vehicles,PS
+4885,4885,25-44,1.0,Locals,No Degree,7000,1485867205.82,cars vehicles,PS
+4886,4886,45+,1.0,Locals,No Degree,1500,1485867205.82,cars vehicles,PS
+4887,4887,18-24,2.0,Locals,No Degree,1500,1485867205.82,cars vehicles,PS
+4888,4888,25-44,2.0,Locals,No Degree,2100,1485867205.82,cars vehicles,PS
+4889,4889,45+,2.0,Locals,No Degree,640,1485867205.82,cars vehicles,PS
+4890,4890,18-24,1.0,Locals,High School,12000,1485867205.82,cars vehicles,PS
+4891,4891,25-44,1.0,Locals,High School,6100,1485867205.82,cars vehicles,PS
+4892,4892,45+,1.0,Locals,High School,790,1485867205.82,cars vehicles,PS
+4893,4893,18-24,2.0,Locals,High School,4400,1485867205.82,cars vehicles,PS
+4894,4894,25-44,2.0,Locals,High School,1700,1485867205.82,cars vehicles,PS
+4895,4895,45+,2.0,Locals,High School,180,1485867205.82,cars vehicles,PS
+6120,6120,18-24,1.0,Expats,Graduated,180000,1485867205.82,mobile phones gadgets,DZ
+6121,6121,25-44,1.0,Expats,Graduated,200000,1485867205.82,mobile phones gadgets,DZ
+6122,6122,45+,1.0,Expats,Graduated,25000,1485867205.82,mobile phones gadgets,DZ
+6123,6123,18-24,2.0,Expats,Graduated,80000,1485867205.82,mobile phones gadgets,DZ
+6124,6124,25-44,2.0,Expats,Graduated,51000,1485867205.82,mobile phones gadgets,DZ
+6125,6125,45+,2.0,Expats,Graduated,7300,1485867205.82,mobile phones gadgets,DZ
+6126,6126,18-24,1.0,Expats,No Degree,180000,1485867205.82,mobile phones gadgets,DZ
+6127,6127,25-44,1.0,Expats,No Degree,280000,1485867205.82,mobile phones gadgets,DZ
+6128,6128,45+,1.0,Expats,No Degree,45000,1485867205.82,mobile phones gadgets,DZ
+6129,6129,18-24,2.0,Expats,No Degree,110000,1485867205.82,mobile phones gadgets,DZ
+6130,6130,25-44,2.0,Expats,No Degree,92000,1485867205.82,mobile phones gadgets,DZ
+6131,6131,45+,2.0,Expats,No Degree,14000,1485867205.82,mobile phones gadgets,DZ
+6132,6132,18-24,1.0,Expats,High School,70000,1485867205.82,mobile phones gadgets,DZ
+6133,6133,25-44,1.0,Expats,High School,49000,1485867205.82,mobile phones gadgets,DZ
+6134,6134,45+,1.0,Expats,High School,8700,1485867205.82,mobile phones gadgets,DZ
+6135,6135,18-24,2.0,Expats,High School,33000,1485867205.82,mobile phones gadgets,DZ
+6136,6136,25-44,2.0,Expats,High School,14000,1485867205.82,mobile phones gadgets,DZ
+6137,6137,45+,2.0,Expats,High School,3100,1485867205.82,mobile phones gadgets,DZ
+6138,6138,18-24,1.0,Locals,Graduated,860000,1485867205.82,mobile phones gadgets,DZ
+6139,6139,25-44,1.0,Locals,Graduated,1300000,1485867205.82,mobile phones gadgets,DZ
+6140,6140,45+,1.0,Locals,Graduated,140000,1485867205.82,mobile phones gadgets,DZ
+6141,6141,18-24,2.0,Locals,Graduated,620000,1485867205.82,mobile phones gadgets,DZ
+6142,6142,25-44,2.0,Locals,Graduated,580000,1485867205.82,mobile phones gadgets,DZ
+6143,6143,45+,2.0,Locals,Graduated,51000,1485867205.82,mobile phones gadgets,DZ
+6144,6144,18-24,1.0,Locals,No Degree,1800000,1485867205.82,mobile phones gadgets,DZ
+6145,6145,25-44,1.0,Locals,No Degree,2400000,1485867205.82,mobile phones gadgets,DZ
+6146,6146,45+,1.0,Locals,No Degree,380000,1485867205.82,mobile phones gadgets,DZ
+6147,6147,18-24,2.0,Locals,No Degree,1400000,1485867205.82,mobile phones gadgets,DZ
+6148,6148,25-44,2.0,Locals,No Degree,1100000,1485867205.82,mobile phones gadgets,DZ
+6149,6149,45+,2.0,Locals,No Degree,150000,1485867205.82,mobile phones gadgets,DZ
+6150,6150,18-24,1.0,Locals,High School,410000,1485867205.82,mobile phones gadgets,DZ
+6151,6151,25-44,1.0,Locals,High School,380000,1485867205.82,mobile phones gadgets,DZ
+6152,6152,45+,1.0,Locals,High School,56000,1485867205.82,mobile phones gadgets,DZ
+6153,6153,18-24,2.0,Locals,High School,320000,1485867205.82,mobile phones gadgets,DZ
+6154,6154,25-44,2.0,Locals,High School,150000,1485867205.82,mobile phones gadgets,DZ
+6155,6155,45+,2.0,Locals,High School,23000,1485867205.82,mobile phones gadgets,DZ
+6156,6156,18-24,1.0,Expats,Graduated,27000,1485867205.82,mobile phones gadgets,BH
+6157,6157,25-44,1.0,Expats,Graduated,140000,1485867205.82,mobile phones gadgets,BH
+6158,6158,45+,1.0,Expats,Graduated,20000,1485867205.82,mobile phones gadgets,BH
+6159,6159,18-24,2.0,Expats,Graduated,7400,1485867205.82,mobile phones gadgets,BH
+6160,6160,25-44,2.0,Expats,Graduated,46000,1485867205.82,mobile phones gadgets,BH
+6161,6161,45+,2.0,Expats,Graduated,8300,1485867205.82,mobile phones gadgets,BH
+6162,6162,18-24,1.0,Expats,No Degree,59000,1485867205.82,mobile phones gadgets,BH
+6163,6163,25-44,1.0,Expats,No Degree,160000,1485867205.82,mobile phones gadgets,BH
+6164,6164,45+,1.0,Expats,No Degree,29000,1485867205.82,mobile phones gadgets,BH
+6165,6165,18-24,2.0,Expats,No Degree,16000,1485867205.82,mobile phones gadgets,BH
+6166,6166,25-44,2.0,Expats,No Degree,38000,1485867205.82,mobile phones gadgets,BH
+6167,6167,45+,2.0,Expats,No Degree,8800,1485867205.82,mobile phones gadgets,BH
+6168,6168,18-24,1.0,Expats,High School,12000,1485867205.82,mobile phones gadgets,BH
+6169,6169,25-44,1.0,Expats,High School,38000,1485867205.82,mobile phones gadgets,BH
+6170,6170,45+,1.0,Expats,High School,6600,1485867205.82,mobile phones gadgets,BH
+6171,6171,18-24,2.0,Expats,High School,4900,1485867205.82,mobile phones gadgets,BH
+6172,6172,25-44,2.0,Expats,High School,15000,1485867205.82,mobile phones gadgets,BH
+6173,6173,45+,2.0,Expats,High School,2700,1485867205.82,mobile phones gadgets,BH
+6174,6174,18-24,1.0,Locals,Graduated,6200,1485867205.82,mobile phones gadgets,BH
+6175,6175,25-44,1.0,Locals,Graduated,20000,1485867205.82,mobile phones gadgets,BH
+6176,6176,45+,1.0,Locals,Graduated,3700,1485867205.82,mobile phones gadgets,BH
+6177,6177,18-24,2.0,Locals,Graduated,3500,1485867205.82,mobile phones gadgets,BH
+6178,6178,25-44,2.0,Locals,Graduated,10000,1485867205.82,mobile phones gadgets,BH
+6179,6179,45+,2.0,Locals,Graduated,1100,1485867205.82,mobile phones gadgets,BH
+6180,6180,18-24,1.0,Locals,No Degree,17000,1485867205.82,mobile phones gadgets,BH
+6181,6181,25-44,1.0,Locals,No Degree,30000,1485867205.82,mobile phones gadgets,BH
+6182,6182,45+,1.0,Locals,No Degree,7600,1485867205.82,mobile phones gadgets,BH
+6183,6183,18-24,2.0,Locals,No Degree,8400,1485867205.82,mobile phones gadgets,BH
+6184,6184,25-44,2.0,Locals,No Degree,14000,1485867205.82,mobile phones gadgets,BH
+6185,6185,45+,2.0,Locals,No Degree,2900,1485867205.82,mobile phones gadgets,BH
+6186,6186,18-24,1.0,Locals,High School,4400,1485867205.82,mobile phones gadgets,BH
+6187,6187,25-44,1.0,Locals,High School,6200,1485867205.82,mobile phones gadgets,BH
+6188,6188,45+,1.0,Locals,High School,1200,1485867205.82,mobile phones gadgets,BH
+6189,6189,18-24,2.0,Locals,High School,3700,1485867205.82,mobile phones gadgets,BH
+6190,6190,25-44,2.0,Locals,High School,2700,1485867205.82,mobile phones gadgets,BH
+6191,6191,45+,2.0,Locals,High School,360,1485867205.82,mobile phones gadgets,BH
+6192,6192,18-24,1.0,Expats,Graduated,130000,1485867205.82,mobile phones gadgets,EG
+6193,6193,25-44,1.0,Expats,Graduated,230000,1485867205.82,mobile phones gadgets,EG
+6194,6194,45+,1.0,Expats,Graduated,38000,1485867205.82,mobile phones gadgets,EG
+6195,6195,18-24,2.0,Expats,Graduated,55000,1485867205.82,mobile phones gadgets,EG
+6196,6196,25-44,2.0,Expats,Graduated,86000,1485867205.82,mobile phones gadgets,EG
+6197,6197,45+,2.0,Expats,Graduated,14000,1485867205.82,mobile phones gadgets,EG
+6198,6198,18-24,1.0,Expats,No Degree,100000,1485867205.82,mobile phones gadgets,EG
+6199,6199,25-44,1.0,Expats,No Degree,160000,1485867205.82,mobile phones gadgets,EG
+6200,6200,45+,1.0,Expats,No Degree,35000,1485867205.82,mobile phones gadgets,EG
+6201,6201,18-24,2.0,Expats,No Degree,55000,1485867205.82,mobile phones gadgets,EG
+6202,6202,25-44,2.0,Expats,No Degree,65000,1485867205.82,mobile phones gadgets,EG
+6203,6203,45+,2.0,Expats,No Degree,18000,1485867205.82,mobile phones gadgets,EG
+6204,6204,18-24,1.0,Expats,High School,67000,1485867205.82,mobile phones gadgets,EG
+6205,6205,25-44,1.0,Expats,High School,55000,1485867205.82,mobile phones gadgets,EG
+6206,6206,45+,1.0,Expats,High School,9400,1485867205.82,mobile phones gadgets,EG
+6207,6207,18-24,2.0,Expats,High School,38000,1485867205.82,mobile phones gadgets,EG
+6208,6208,25-44,2.0,Expats,High School,22000,1485867205.82,mobile phones gadgets,EG
+6209,6209,45+,2.0,Expats,High School,4600,1485867205.82,mobile phones gadgets,EG
+6210,6210,18-24,1.0,Locals,Graduated,2200000,1485867205.82,mobile phones gadgets,EG
+6211,6211,25-44,1.0,Locals,Graduated,3700000,1485867205.82,mobile phones gadgets,EG
+6212,6212,45+,1.0,Locals,Graduated,600000,1485867205.82,mobile phones gadgets,EG
+6213,6213,18-24,2.0,Locals,Graduated,1400000,1485867205.82,mobile phones gadgets,EG
+6214,6214,25-44,2.0,Locals,Graduated,1900000,1485867205.82,mobile phones gadgets,EG
+6215,6215,45+,2.0,Locals,Graduated,260000,1485867205.82,mobile phones gadgets,EG
+6216,6216,18-24,1.0,Locals,No Degree,2700000,1485867205.82,mobile phones gadgets,EG
+6217,6217,25-44,1.0,Locals,No Degree,3800000,1485867205.82,mobile phones gadgets,EG
+6218,6218,45+,1.0,Locals,No Degree,1000000,1485867205.82,mobile phones gadgets,EG
+6219,6219,18-24,2.0,Locals,No Degree,1600000,1485867205.82,mobile phones gadgets,EG
+6220,6220,25-44,2.0,Locals,No Degree,1800000,1485867205.82,mobile phones gadgets,EG
+6221,6221,45+,2.0,Locals,No Degree,550000,1485867205.82,mobile phones gadgets,EG
+6222,6222,18-24,1.0,Locals,High School,1200000,1485867205.82,mobile phones gadgets,EG
+6223,6223,25-44,1.0,Locals,High School,920000,1485867205.82,mobile phones gadgets,EG
+6224,6224,45+,1.0,Locals,High School,160000,1485867205.82,mobile phones gadgets,EG
+6225,6225,18-24,2.0,Locals,High School,990000,1485867205.82,mobile phones gadgets,EG
+6226,6226,25-44,2.0,Locals,High School,390000,1485867205.82,mobile phones gadgets,EG
+6227,6227,45+,2.0,Locals,High School,66000,1485867205.82,mobile phones gadgets,EG
+6228,6228,18-24,1.0,Expats,Graduated,93000,1485867205.82,mobile phones gadgets,IQ
+6229,6229,25-44,1.0,Expats,Graduated,170000,1485867205.82,mobile phones gadgets,IQ
+6230,6230,45+,1.0,Expats,Graduated,22000,1485867205.82,mobile phones gadgets,IQ
+6231,6231,18-24,2.0,Expats,Graduated,24000,1485867205.82,mobile phones gadgets,IQ
+6232,6232,25-44,2.0,Expats,Graduated,33000,1485867205.82,mobile phones gadgets,IQ
+6233,6233,45+,2.0,Expats,Graduated,3600,1485867205.82,mobile phones gadgets,IQ
+6234,6234,18-24,1.0,Expats,No Degree,100000,1485867205.82,mobile phones gadgets,IQ
+6235,6235,25-44,1.0,Expats,No Degree,140000,1485867205.82,mobile phones gadgets,IQ
+6236,6236,45+,1.0,Expats,No Degree,23000,1485867205.82,mobile phones gadgets,IQ
+6237,6237,18-24,2.0,Expats,No Degree,50000,1485867205.82,mobile phones gadgets,IQ
+6238,6238,25-44,2.0,Expats,No Degree,42000,1485867205.82,mobile phones gadgets,IQ
+6239,6239,45+,2.0,Expats,No Degree,6800,1485867205.82,mobile phones gadgets,IQ
+6240,6240,18-24,1.0,Expats,High School,46000,1485867205.82,mobile phones gadgets,IQ
+6241,6241,25-44,1.0,Expats,High School,50000,1485867205.82,mobile phones gadgets,IQ
+6242,6242,45+,1.0,Expats,High School,6700,1485867205.82,mobile phones gadgets,IQ
+6243,6243,18-24,2.0,Expats,High School,16000,1485867205.82,mobile phones gadgets,IQ
+6244,6244,25-44,2.0,Expats,High School,11000,1485867205.82,mobile phones gadgets,IQ
+6245,6245,45+,2.0,Expats,High School,1400,1485867205.82,mobile phones gadgets,IQ
+6246,6246,18-24,1.0,Locals,Graduated,870000,1485867205.82,mobile phones gadgets,IQ
+6247,6247,25-44,1.0,Locals,Graduated,1600000,1485867205.82,mobile phones gadgets,IQ
+6248,6248,45+,1.0,Locals,Graduated,230000,1485867205.82,mobile phones gadgets,IQ
+6249,6249,18-24,2.0,Locals,Graduated,290000,1485867205.82,mobile phones gadgets,IQ
+6250,6250,25-44,2.0,Locals,Graduated,380000,1485867205.82,mobile phones gadgets,IQ
+6251,6251,45+,2.0,Locals,Graduated,55000,1485867205.82,mobile phones gadgets,IQ
+6252,6252,18-24,1.0,Locals,No Degree,2000000,1485867205.82,mobile phones gadgets,IQ
+6253,6253,25-44,1.0,Locals,No Degree,2100000,1485867205.82,mobile phones gadgets,IQ
+6254,6254,45+,1.0,Locals,No Degree,470000,1485867205.82,mobile phones gadgets,IQ
+6255,6255,18-24,2.0,Locals,No Degree,860000,1485867205.82,mobile phones gadgets,IQ
+6256,6256,25-44,2.0,Locals,No Degree,690000,1485867205.82,mobile phones gadgets,IQ
+6257,6257,45+,2.0,Locals,No Degree,160000,1485867205.82,mobile phones gadgets,IQ
+6258,6258,18-24,1.0,Locals,High School,530000,1485867205.82,mobile phones gadgets,IQ
+6259,6259,25-44,1.0,Locals,High School,480000,1485867205.82,mobile phones gadgets,IQ
+6260,6260,45+,1.0,Locals,High School,78000,1485867205.82,mobile phones gadgets,IQ
+6261,6261,18-24,2.0,Locals,High School,250000,1485867205.82,mobile phones gadgets,IQ
+6262,6262,25-44,2.0,Locals,High School,130000,1485867205.82,mobile phones gadgets,IQ
+6263,6263,45+,2.0,Locals,High School,20000,1485867205.82,mobile phones gadgets,IQ
+6264,6264,18-24,1.0,Expats,Graduated,68000,1485867205.82,mobile phones gadgets,JO
+6265,6265,25-44,1.0,Expats,Graduated,140000,1485867205.82,mobile phones gadgets,JO
+6266,6266,45+,1.0,Expats,Graduated,24000,1485867205.82,mobile phones gadgets,JO
+6267,6267,18-24,2.0,Expats,Graduated,39000,1485867205.82,mobile phones gadgets,JO
+6268,6268,25-44,2.0,Expats,Graduated,78000,1485867205.82,mobile phones gadgets,JO
+6269,6269,45+,2.0,Expats,Graduated,16000,1485867205.82,mobile phones gadgets,JO
+6270,6270,18-24,1.0,Expats,No Degree,110000,1485867205.82,mobile phones gadgets,JO
+6271,6271,25-44,1.0,Expats,No Degree,170000,1485867205.82,mobile phones gadgets,JO
+6272,6272,45+,1.0,Expats,No Degree,36000,1485867205.82,mobile phones gadgets,JO
+6273,6273,18-24,2.0,Expats,No Degree,68000,1485867205.82,mobile phones gadgets,JO
+6274,6274,25-44,2.0,Expats,No Degree,79000,1485867205.82,mobile phones gadgets,JO
+6275,6275,45+,2.0,Expats,No Degree,27000,1485867205.82,mobile phones gadgets,JO
+6276,6276,18-24,1.0,Expats,High School,50000,1485867205.82,mobile phones gadgets,JO
+6277,6277,25-44,1.0,Expats,High School,47000,1485867205.82,mobile phones gadgets,JO
+6278,6278,45+,1.0,Expats,High School,8000,1485867205.82,mobile phones gadgets,JO
+6279,6279,18-24,2.0,Expats,High School,44000,1485867205.82,mobile phones gadgets,JO
+6280,6280,25-44,2.0,Expats,High School,26000,1485867205.82,mobile phones gadgets,JO
+6281,6281,45+,2.0,Expats,High School,6300,1485867205.82,mobile phones gadgets,JO
+6282,6282,18-24,1.0,Locals,Graduated,200000,1485867205.82,mobile phones gadgets,JO
+6283,6283,25-44,1.0,Locals,Graduated,360000,1485867205.82,mobile phones gadgets,JO
+6284,6284,45+,1.0,Locals,Graduated,71000,1485867205.82,mobile phones gadgets,JO
+6285,6285,18-24,2.0,Locals,Graduated,130000,1485867205.82,mobile phones gadgets,JO
+6286,6286,25-44,2.0,Locals,Graduated,230000,1485867205.82,mobile phones gadgets,JO
+6287,6287,45+,2.0,Locals,Graduated,34000,1485867205.82,mobile phones gadgets,JO
+6288,6288,18-24,1.0,Locals,No Degree,340000,1485867205.82,mobile phones gadgets,JO
+6289,6289,25-44,1.0,Locals,No Degree,390000,1485867205.82,mobile phones gadgets,JO
+6290,6290,45+,1.0,Locals,No Degree,140000,1485867205.82,mobile phones gadgets,JO
+6291,6291,18-24,2.0,Locals,No Degree,280000,1485867205.82,mobile phones gadgets,JO
+6292,6292,25-44,2.0,Locals,No Degree,290000,1485867205.82,mobile phones gadgets,JO
+6293,6293,45+,2.0,Locals,No Degree,100000,1485867205.82,mobile phones gadgets,JO
+6294,6294,18-24,1.0,Locals,High School,160000,1485867205.82,mobile phones gadgets,JO
+6295,6295,25-44,1.0,Locals,High School,120000,1485867205.82,mobile phones gadgets,JO
+6296,6296,45+,1.0,Locals,High School,29000,1485867205.82,mobile phones gadgets,JO
+6297,6297,18-24,2.0,Locals,High School,150000,1485867205.82,mobile phones gadgets,JO
+6298,6298,25-44,2.0,Locals,High School,74000,1485867205.82,mobile phones gadgets,JO
+6299,6299,45+,2.0,Locals,High School,15000,1485867205.82,mobile phones gadgets,JO
+6300,6300,18-24,1.0,Expats,Graduated,47000,1485867205.82,mobile phones gadgets,KW
+6301,6301,25-44,1.0,Expats,Graduated,380000,1485867205.82,mobile phones gadgets,KW
+6302,6302,45+,1.0,Expats,Graduated,58000,1485867205.82,mobile phones gadgets,KW
+6303,6303,18-24,2.0,Expats,Graduated,21000,1485867205.82,mobile phones gadgets,KW
+6304,6304,25-44,2.0,Expats,Graduated,160000,1485867205.82,mobile phones gadgets,KW
+6305,6305,45+,2.0,Expats,Graduated,22000,1485867205.82,mobile phones gadgets,KW
+6306,6306,18-24,1.0,Expats,No Degree,150000,1485867205.82,mobile phones gadgets,KW
+6307,6307,25-44,1.0,Expats,No Degree,490000,1485867205.82,mobile phones gadgets,KW
+6308,6308,45+,1.0,Expats,No Degree,100000,1485867205.82,mobile phones gadgets,KW
+6309,6309,18-24,2.0,Expats,No Degree,62000,1485867205.82,mobile phones gadgets,KW
+6310,6310,25-44,2.0,Expats,No Degree,170000,1485867205.82,mobile phones gadgets,KW
+6311,6311,45+,2.0,Expats,No Degree,32000,1485867205.82,mobile phones gadgets,KW
+6312,6312,18-24,1.0,Expats,High School,25000,1485867205.82,mobile phones gadgets,KW
+6313,6313,25-44,1.0,Expats,High School,110000,1485867205.82,mobile phones gadgets,KW
+6314,6314,45+,1.0,Expats,High School,19000,1485867205.82,mobile phones gadgets,KW
+6315,6315,18-24,2.0,Expats,High School,15000,1485867205.82,mobile phones gadgets,KW
+6316,6316,25-44,2.0,Expats,High School,62000,1485867205.82,mobile phones gadgets,KW
+6317,6317,45+,2.0,Expats,High School,8200,1485867205.82,mobile phones gadgets,KW
+6318,6318,18-24,1.0,Locals,Graduated,5700,1485867205.82,mobile phones gadgets,KW
+6319,6319,25-44,1.0,Locals,Graduated,27000,1485867205.82,mobile phones gadgets,KW
+6320,6320,45+,1.0,Locals,Graduated,4900,1485867205.82,mobile phones gadgets,KW
+6321,6321,18-24,2.0,Locals,Graduated,2400,1485867205.82,mobile phones gadgets,KW
+6322,6322,25-44,2.0,Locals,Graduated,12000,1485867205.82,mobile phones gadgets,KW
+6323,6323,45+,2.0,Locals,Graduated,1800,1485867205.82,mobile phones gadgets,KW
+6324,6324,18-24,1.0,Locals,No Degree,33000,1485867205.82,mobile phones gadgets,KW
+6325,6325,25-44,1.0,Locals,No Degree,68000,1485867205.82,mobile phones gadgets,KW
+6326,6326,45+,1.0,Locals,No Degree,14000,1485867205.82,mobile phones gadgets,KW
+6327,6327,18-24,2.0,Locals,No Degree,15000,1485867205.82,mobile phones gadgets,KW
+6328,6328,25-44,2.0,Locals,No Degree,28000,1485867205.82,mobile phones gadgets,KW
+6329,6329,45+,2.0,Locals,No Degree,5300,1485867205.82,mobile phones gadgets,KW
+6330,6330,18-24,1.0,Locals,High School,3700,1485867205.82,mobile phones gadgets,KW
+6331,6331,25-44,1.0,Locals,High School,7400,1485867205.82,mobile phones gadgets,KW
+6332,6332,45+,1.0,Locals,High School,1400,1485867205.82,mobile phones gadgets,KW
+6333,6333,18-24,2.0,Locals,High School,2500,1485867205.82,mobile phones gadgets,KW
+6334,6334,25-44,2.0,Locals,High School,3000,1485867205.82,mobile phones gadgets,KW
+6335,6335,45+,2.0,Locals,High School,410,1485867205.82,mobile phones gadgets,KW
+6336,6336,18-24,1.0,Expats,Graduated,44000,1485867205.82,mobile phones gadgets,LB
+6337,6337,25-44,1.0,Expats,Graduated,85000,1485867205.82,mobile phones gadgets,LB
+6338,6338,45+,1.0,Expats,Graduated,12000,1485867205.82,mobile phones gadgets,LB
+6339,6339,18-24,2.0,Expats,Graduated,17000,1485867205.82,mobile phones gadgets,LB
+6340,6340,25-44,2.0,Expats,Graduated,42000,1485867205.82,mobile phones gadgets,LB
+6341,6341,45+,2.0,Expats,Graduated,9000,1485867205.82,mobile phones gadgets,LB
+6342,6342,18-24,1.0,Expats,No Degree,110000,1485867205.82,mobile phones gadgets,LB
+6343,6343,25-44,1.0,Expats,No Degree,150000,1485867205.82,mobile phones gadgets,LB
+6344,6344,45+,1.0,Expats,No Degree,24000,1485867205.82,mobile phones gadgets,LB
+6345,6345,18-24,2.0,Expats,No Degree,56000,1485867205.82,mobile phones gadgets,LB
+6346,6346,25-44,2.0,Expats,No Degree,71000,1485867205.82,mobile phones gadgets,LB
+6347,6347,45+,2.0,Expats,No Degree,16000,1485867205.82,mobile phones gadgets,LB
+6348,6348,18-24,1.0,Expats,High School,27000,1485867205.82,mobile phones gadgets,LB
+6349,6349,25-44,1.0,Expats,High School,32000,1485867205.82,mobile phones gadgets,LB
+6350,6350,45+,1.0,Expats,High School,4200,1485867205.82,mobile phones gadgets,LB
+6351,6351,18-24,2.0,Expats,High School,13000,1485867205.82,mobile phones gadgets,LB
+6352,6352,25-44,2.0,Expats,High School,18000,1485867205.82,mobile phones gadgets,LB
+6353,6353,45+,2.0,Expats,High School,3700,1485867205.82,mobile phones gadgets,LB
+6354,6354,18-24,1.0,Locals,Graduated,74000,1485867205.82,mobile phones gadgets,LB
+6355,6355,25-44,1.0,Locals,Graduated,170000,1485867205.82,mobile phones gadgets,LB
+6356,6356,45+,1.0,Locals,Graduated,47000,1485867205.82,mobile phones gadgets,LB
+6357,6357,18-24,2.0,Locals,Graduated,66000,1485867205.82,mobile phones gadgets,LB
+6358,6358,25-44,2.0,Locals,Graduated,150000,1485867205.82,mobile phones gadgets,LB
+6359,6359,45+,2.0,Locals,Graduated,37000,1485867205.82,mobile phones gadgets,LB
+6360,6360,18-24,1.0,Locals,No Degree,200000,1485867205.82,mobile phones gadgets,LB
+6361,6361,25-44,1.0,Locals,No Degree,270000,1485867205.82,mobile phones gadgets,LB
+6362,6362,45+,1.0,Locals,No Degree,120000,1485867205.82,mobile phones gadgets,LB
+6363,6363,18-24,2.0,Locals,No Degree,140000,1485867205.82,mobile phones gadgets,LB
+6364,6364,25-44,2.0,Locals,No Degree,210000,1485867205.82,mobile phones gadgets,LB
+6365,6365,45+,2.0,Locals,No Degree,120000,1485867205.82,mobile phones gadgets,LB
+6366,6366,18-24,1.0,Locals,High School,59000,1485867205.82,mobile phones gadgets,LB
+6367,6367,25-44,1.0,Locals,High School,49000,1485867205.82,mobile phones gadgets,LB
+6368,6368,45+,1.0,Locals,High School,16000,1485867205.82,mobile phones gadgets,LB
+6369,6369,18-24,2.0,Locals,High School,67000,1485867205.82,mobile phones gadgets,LB
+6370,6370,25-44,2.0,Locals,High School,44000,1485867205.82,mobile phones gadgets,LB
+6371,6371,45+,2.0,Locals,High School,14000,1485867205.82,mobile phones gadgets,LB
+6372,6372,18-24,1.0,Expats,Graduated,26000,1485867205.82,mobile phones gadgets,LY
+6373,6373,25-44,1.0,Expats,Graduated,70000,1485867205.82,mobile phones gadgets,LY
+6374,6374,45+,1.0,Expats,Graduated,8700,1485867205.82,mobile phones gadgets,LY
+6375,6375,18-24,2.0,Expats,Graduated,7500,1485867205.82,mobile phones gadgets,LY
+6376,6376,25-44,2.0,Expats,Graduated,16000,1485867205.82,mobile phones gadgets,LY
+6377,6377,45+,2.0,Expats,Graduated,3000,1485867205.82,mobile phones gadgets,LY
+6378,6378,18-24,1.0,Expats,No Degree,50000,1485867205.82,mobile phones gadgets,LY
+6379,6379,25-44,1.0,Expats,No Degree,100000,1485867205.82,mobile phones gadgets,LY
+6380,6380,45+,1.0,Expats,No Degree,14000,1485867205.82,mobile phones gadgets,LY
+6381,6381,18-24,2.0,Expats,No Degree,14000,1485867205.82,mobile phones gadgets,LY
+6382,6382,25-44,2.0,Expats,No Degree,22000,1485867205.82,mobile phones gadgets,LY
+6383,6383,45+,2.0,Expats,No Degree,5000,1485867205.82,mobile phones gadgets,LY
+6384,6384,18-24,1.0,Expats,High School,11000,1485867205.82,mobile phones gadgets,LY
+6385,6385,25-44,1.0,Expats,High School,19000,1485867205.82,mobile phones gadgets,LY
+6386,6386,45+,1.0,Expats,High School,2500,1485867205.82,mobile phones gadgets,LY
+6387,6387,18-24,2.0,Expats,High School,4500,1485867205.82,mobile phones gadgets,LY
+6388,6388,25-44,2.0,Expats,High School,4400,1485867205.82,mobile phones gadgets,LY
+6389,6389,45+,2.0,Expats,High School,830,1485867205.82,mobile phones gadgets,LY
+6390,6390,18-24,1.0,Locals,Graduated,120000,1485867205.82,mobile phones gadgets,LY
+6391,6391,25-44,1.0,Locals,Graduated,280000,1485867205.82,mobile phones gadgets,LY
+6392,6392,45+,1.0,Locals,Graduated,46000,1485867205.82,mobile phones gadgets,LY
+6393,6393,18-24,2.0,Locals,Graduated,93000,1485867205.82,mobile phones gadgets,LY
+6394,6394,25-44,2.0,Locals,Graduated,160000,1485867205.82,mobile phones gadgets,LY
+6395,6395,45+,2.0,Locals,Graduated,19000,1485867205.82,mobile phones gadgets,LY
+6396,6396,18-24,1.0,Locals,No Degree,180000,1485867205.82,mobile phones gadgets,LY
+6397,6397,25-44,1.0,Locals,No Degree,340000,1485867205.82,mobile phones gadgets,LY
+6398,6398,45+,1.0,Locals,No Degree,81000,1485867205.82,mobile phones gadgets,LY
+6399,6399,18-24,2.0,Locals,No Degree,130000,1485867205.82,mobile phones gadgets,LY
+6400,6400,25-44,2.0,Locals,No Degree,220000,1485867205.82,mobile phones gadgets,LY
+6401,6401,45+,2.0,Locals,No Degree,54000,1485867205.82,mobile phones gadgets,LY
+6402,6402,18-24,1.0,Locals,High School,69000,1485867205.82,mobile phones gadgets,LY
+6403,6403,25-44,1.0,Locals,High School,67000,1485867205.82,mobile phones gadgets,LY
+6404,6404,45+,1.0,Locals,High School,14000,1485867205.82,mobile phones gadgets,LY
+6405,6405,18-24,2.0,Locals,High School,69000,1485867205.82,mobile phones gadgets,LY
+6406,6406,25-44,2.0,Locals,High School,39000,1485867205.82,mobile phones gadgets,LY
+6407,6407,45+,2.0,Locals,High School,6300,1485867205.82,mobile phones gadgets,LY
+6408,6408,18-24,1.0,Expats,Graduated,140000,1485867205.82,mobile phones gadgets,MA
+6409,6409,25-44,1.0,Expats,Graduated,130000,1485867205.82,mobile phones gadgets,MA
+6410,6410,45+,1.0,Expats,Graduated,19000,1485867205.82,mobile phones gadgets,MA
+6411,6411,18-24,2.0,Expats,Graduated,50000,1485867205.82,mobile phones gadgets,MA
+6412,6412,25-44,2.0,Expats,Graduated,43000,1485867205.82,mobile phones gadgets,MA
+6413,6413,45+,2.0,Expats,Graduated,6100,1485867205.82,mobile phones gadgets,MA
+6414,6414,18-24,1.0,Expats,No Degree,85000,1485867205.82,mobile phones gadgets,MA
+6415,6415,25-44,1.0,Expats,No Degree,130000,1485867205.82,mobile phones gadgets,MA
+6416,6416,45+,1.0,Expats,No Degree,27000,1485867205.82,mobile phones gadgets,MA
+6417,6417,18-24,2.0,Expats,No Degree,54000,1485867205.82,mobile phones gadgets,MA
+6418,6418,25-44,2.0,Expats,No Degree,59000,1485867205.82,mobile phones gadgets,MA
+6419,6419,45+,2.0,Expats,No Degree,9800,1485867205.82,mobile phones gadgets,MA
+6420,6420,18-24,1.0,Expats,High School,51000,1485867205.82,mobile phones gadgets,MA
+6421,6421,25-44,1.0,Expats,High School,35000,1485867205.82,mobile phones gadgets,MA
+6422,6422,45+,1.0,Expats,High School,6200,1485867205.82,mobile phones gadgets,MA
+6423,6423,18-24,2.0,Expats,High School,22000,1485867205.82,mobile phones gadgets,MA
+6424,6424,25-44,2.0,Expats,High School,14000,1485867205.82,mobile phones gadgets,MA
+6425,6425,45+,2.0,Expats,High School,2700,1485867205.82,mobile phones gadgets,MA
+6426,6426,18-24,1.0,Locals,Graduated,890000,1485867205.82,mobile phones gadgets,MA
+6427,6427,25-44,1.0,Locals,Graduated,1000000,1485867205.82,mobile phones gadgets,MA
+6428,6428,45+,1.0,Locals,Graduated,150000,1485867205.82,mobile phones gadgets,MA
+6429,6429,18-24,2.0,Locals,Graduated,520000,1485867205.82,mobile phones gadgets,MA
+6430,6430,25-44,2.0,Locals,Graduated,430000,1485867205.82,mobile phones gadgets,MA
+6431,6431,45+,2.0,Locals,Graduated,54000,1485867205.82,mobile phones gadgets,MA
+6432,6432,18-24,1.0,Locals,No Degree,1200000,1485867205.82,mobile phones gadgets,MA
+6433,6433,25-44,1.0,Locals,No Degree,1600000,1485867205.82,mobile phones gadgets,MA
+6434,6434,45+,1.0,Locals,No Degree,340000,1485867205.82,mobile phones gadgets,MA
+6435,6435,18-24,2.0,Locals,No Degree,820000,1485867205.82,mobile phones gadgets,MA
+6436,6436,25-44,2.0,Locals,No Degree,700000,1485867205.82,mobile phones gadgets,MA
+6437,6437,45+,2.0,Locals,No Degree,140000,1485867205.82,mobile phones gadgets,MA
+6438,6438,18-24,1.0,Locals,High School,400000,1485867205.82,mobile phones gadgets,MA
+6439,6439,25-44,1.0,Locals,High School,300000,1485867205.82,mobile phones gadgets,MA
+6440,6440,45+,1.0,Locals,High School,52000,1485867205.82,mobile phones gadgets,MA
+6441,6441,18-24,2.0,Locals,High School,280000,1485867205.82,mobile phones gadgets,MA
+6442,6442,25-44,2.0,Locals,High School,130000,1485867205.82,mobile phones gadgets,MA
+6443,6443,45+,2.0,Locals,High School,23000,1485867205.82,mobile phones gadgets,MA
+6444,6444,18-24,1.0,Expats,Graduated,50000,1485867205.82,mobile phones gadgets,OM
+6445,6445,25-44,1.0,Expats,Graduated,250000,1485867205.82,mobile phones gadgets,OM
+6446,6446,45+,1.0,Expats,Graduated,28000,1485867205.82,mobile phones gadgets,OM
+6447,6447,18-24,2.0,Expats,Graduated,11000,1485867205.82,mobile phones gadgets,OM
+6448,6448,25-44,2.0,Expats,Graduated,55000,1485867205.82,mobile phones gadgets,OM
+6449,6449,45+,2.0,Expats,Graduated,8200,1485867205.82,mobile phones gadgets,OM
+6450,6450,18-24,1.0,Expats,No Degree,170000,1485867205.82,mobile phones gadgets,OM
+6451,6451,25-44,1.0,Expats,No Degree,360000,1485867205.82,mobile phones gadgets,OM
+6452,6452,45+,1.0,Expats,No Degree,39000,1485867205.82,mobile phones gadgets,OM
+6453,6453,18-24,2.0,Expats,No Degree,42000,1485867205.82,mobile phones gadgets,OM
+6454,6454,25-44,2.0,Expats,No Degree,58000,1485867205.82,mobile phones gadgets,OM
+6455,6455,45+,2.0,Expats,No Degree,8200,1485867205.82,mobile phones gadgets,OM
+6456,6456,18-24,1.0,Expats,High School,20000,1485867205.82,mobile phones gadgets,OM
+6457,6457,25-44,1.0,Expats,High School,62000,1485867205.82,mobile phones gadgets,OM
+6458,6458,45+,1.0,Expats,High School,8000,1485867205.82,mobile phones gadgets,OM
+6459,6459,18-24,2.0,Expats,High School,7300,1485867205.82,mobile phones gadgets,OM
+6460,6460,25-44,2.0,Expats,High School,15000,1485867205.82,mobile phones gadgets,OM
+6461,6461,45+,2.0,Expats,High School,2300,1485867205.82,mobile phones gadgets,OM
+6462,6462,18-24,1.0,Locals,Graduated,19000,1485867205.82,mobile phones gadgets,OM
+6463,6463,25-44,1.0,Locals,Graduated,48000,1485867205.82,mobile phones gadgets,OM
+6464,6464,45+,1.0,Locals,Graduated,2900,1485867205.82,mobile phones gadgets,OM
+6465,6465,18-24,2.0,Locals,Graduated,4100,1485867205.82,mobile phones gadgets,OM
+6466,6466,25-44,2.0,Locals,Graduated,8100,1485867205.82,mobile phones gadgets,OM
+6467,6467,45+,2.0,Locals,Graduated,430,1485867205.82,mobile phones gadgets,OM
+6468,6468,18-24,1.0,Locals,No Degree,47000,1485867205.82,mobile phones gadgets,OM
+6469,6469,25-44,1.0,Locals,No Degree,67000,1485867205.82,mobile phones gadgets,OM
+6470,6470,45+,1.0,Locals,No Degree,7700,1485867205.82,mobile phones gadgets,OM
+6471,6471,18-24,2.0,Locals,No Degree,14000,1485867205.82,mobile phones gadgets,OM
+6472,6472,25-44,2.0,Locals,No Degree,17000,1485867205.82,mobile phones gadgets,OM
+6473,6473,45+,2.0,Locals,No Degree,1400,1485867205.82,mobile phones gadgets,OM
+6474,6474,18-24,1.0,Locals,High School,11000,1485867205.82,mobile phones gadgets,OM
+6475,6475,25-44,1.0,Locals,High School,14000,1485867205.82,mobile phones gadgets,OM
+6476,6476,45+,1.0,Locals,High School,1200,1485867205.82,mobile phones gadgets,OM
+6477,6477,18-24,2.0,Locals,High School,3300,1485867205.82,mobile phones gadgets,OM
+6478,6478,25-44,2.0,Locals,High School,2200,1485867205.82,mobile phones gadgets,OM
+6479,6479,45+,2.0,Locals,High School,200,1485867205.82,mobile phones gadgets,OM
+6480,6480,18-24,1.0,Expats,Graduated,120000,1485867205.82,mobile phones gadgets,QA
+6481,6481,25-44,1.0,Expats,Graduated,510000,1485867205.82,mobile phones gadgets,QA
+6482,6482,45+,1.0,Expats,Graduated,60000,1485867205.82,mobile phones gadgets,QA
+6483,6483,18-24,2.0,Expats,Graduated,27000,1485867205.82,mobile phones gadgets,QA
+6484,6484,25-44,2.0,Expats,Graduated,140000,1485867205.82,mobile phones gadgets,QA
+6485,6485,45+,2.0,Expats,Graduated,16000,1485867205.82,mobile phones gadgets,QA
+6486,6486,18-24,1.0,Expats,No Degree,250000,1485867205.82,mobile phones gadgets,QA
+6487,6487,25-44,1.0,Expats,No Degree,470000,1485867205.82,mobile phones gadgets,QA
+6488,6488,45+,1.0,Expats,No Degree,70000,1485867205.82,mobile phones gadgets,QA
+6489,6489,18-24,2.0,Expats,No Degree,52000,1485867205.82,mobile phones gadgets,QA
+6490,6490,25-44,2.0,Expats,No Degree,95000,1485867205.82,mobile phones gadgets,QA
+6491,6491,45+,2.0,Expats,No Degree,16000,1485867205.82,mobile phones gadgets,QA
+6492,6492,18-24,1.0,Expats,High School,46000,1485867205.82,mobile phones gadgets,QA
+6493,6493,25-44,1.0,Expats,High School,130000,1485867205.82,mobile phones gadgets,QA
+6494,6494,45+,1.0,Expats,High School,17000,1485867205.82,mobile phones gadgets,QA
+6495,6495,18-24,2.0,Expats,High School,14000,1485867205.82,mobile phones gadgets,QA
+6496,6496,25-44,2.0,Expats,High School,37000,1485867205.82,mobile phones gadgets,QA
+6497,6497,45+,2.0,Expats,High School,4900,1485867205.82,mobile phones gadgets,QA
+6498,6498,18-24,1.0,Locals,Graduated,4300,1485867205.82,mobile phones gadgets,QA
+6499,6499,25-44,1.0,Locals,Graduated,11000,1485867205.82,mobile phones gadgets,QA
+6500,6500,45+,1.0,Locals,Graduated,1300,1485867205.82,mobile phones gadgets,QA
+6501,6501,18-24,2.0,Locals,Graduated,1500,1485867205.82,mobile phones gadgets,QA
+6502,6502,25-44,2.0,Locals,Graduated,4000,1485867205.82,mobile phones gadgets,QA
+6503,6503,45+,2.0,Locals,Graduated,370,1485867205.82,mobile phones gadgets,QA
+6504,6504,18-24,1.0,Locals,No Degree,19000,1485867205.82,mobile phones gadgets,QA
+6505,6505,25-44,1.0,Locals,No Degree,32000,1485867205.82,mobile phones gadgets,QA
+6506,6506,45+,1.0,Locals,No Degree,5200,1485867205.82,mobile phones gadgets,QA
+6507,6507,18-24,2.0,Locals,No Degree,6900,1485867205.82,mobile phones gadgets,QA
+6508,6508,25-44,2.0,Locals,No Degree,12000,1485867205.82,mobile phones gadgets,QA
+6509,6509,45+,2.0,Locals,No Degree,1500,1485867205.82,mobile phones gadgets,QA
+6510,6510,18-24,1.0,Locals,High School,2000,1485867205.82,mobile phones gadgets,QA
+6511,6511,25-44,1.0,Locals,High School,3600,1485867205.82,mobile phones gadgets,QA
+6512,6512,45+,1.0,Locals,High School,380,1485867205.82,mobile phones gadgets,QA
+6513,6513,18-24,2.0,Locals,High School,1400,1485867205.82,mobile phones gadgets,QA
+6514,6514,25-44,2.0,Locals,High School,1200,1485867205.82,mobile phones gadgets,QA
+6515,6515,45+,2.0,Locals,High School,100,1485867205.82,mobile phones gadgets,QA
+6516,6516,18-24,1.0,Expats,Graduated,370000,1485867205.82,mobile phones gadgets,SA
+6517,6517,25-44,1.0,Expats,Graduated,1900000,1485867205.82,mobile phones gadgets,SA
+6518,6518,45+,1.0,Expats,Graduated,230000,1485867205.82,mobile phones gadgets,SA
+6519,6519,18-24,2.0,Expats,Graduated,88000,1485867205.82,mobile phones gadgets,SA
+6520,6520,25-44,2.0,Expats,Graduated,410000,1485867205.82,mobile phones gadgets,SA
+6521,6521,45+,2.0,Expats,Graduated,52000,1485867205.82,mobile phones gadgets,SA
+6522,6522,18-24,1.0,Expats,No Degree,140000,1485867205.82,mobile phones gadgets,SA
+6523,6523,25-44,1.0,Expats,No Degree,410000,1485867205.82,mobile phones gadgets,SA
+6524,6524,45+,1.0,Expats,No Degree,66000,1485867205.82,mobile phones gadgets,SA
+6525,6525,18-24,2.0,Expats,No Degree,54000,1485867205.82,mobile phones gadgets,SA
+6526,6526,25-44,2.0,Expats,No Degree,130000,1485867205.82,mobile phones gadgets,SA
+6527,6527,45+,2.0,Expats,No Degree,21000,1485867205.82,mobile phones gadgets,SA
+6528,6528,18-24,1.0,Expats,High School,150000,1485867205.82,mobile phones gadgets,SA
+6529,6529,25-44,1.0,Expats,High School,440000,1485867205.82,mobile phones gadgets,SA
+6530,6530,45+,1.0,Expats,High School,59000,1485867205.82,mobile phones gadgets,SA
+6531,6531,18-24,2.0,Expats,High School,53000,1485867205.82,mobile phones gadgets,SA
+6532,6532,25-44,2.0,Expats,High School,120000,1485867205.82,mobile phones gadgets,SA
+6533,6533,45+,2.0,Expats,High School,16000,1485867205.82,mobile phones gadgets,SA
+6534,6534,18-24,1.0,Locals,Graduated,230000,1485867205.82,mobile phones gadgets,SA
+6535,6535,25-44,1.0,Locals,Graduated,930000,1485867205.82,mobile phones gadgets,SA
+6536,6536,45+,1.0,Locals,Graduated,110000,1485867205.82,mobile phones gadgets,SA
+6537,6537,18-24,2.0,Locals,Graduated,78000,1485867205.82,mobile phones gadgets,SA
+6538,6538,25-44,2.0,Locals,Graduated,220000,1485867205.82,mobile phones gadgets,SA
+6539,6539,45+,2.0,Locals,Graduated,24000,1485867205.82,mobile phones gadgets,SA
+6540,6540,18-24,1.0,Locals,No Degree,1700000,1485867205.82,mobile phones gadgets,SA
+6541,6541,25-44,1.0,Locals,No Degree,3100000,1485867205.82,mobile phones gadgets,SA
+6542,6542,45+,1.0,Locals,No Degree,470000,1485867205.82,mobile phones gadgets,SA
+6543,6543,18-24,2.0,Locals,No Degree,510000,1485867205.82,mobile phones gadgets,SA
+6544,6544,25-44,2.0,Locals,No Degree,620000,1485867205.82,mobile phones gadgets,SA
+6545,6545,45+,2.0,Locals,No Degree,100000,1485867205.82,mobile phones gadgets,SA
+6546,6546,18-24,1.0,Locals,High School,150000,1485867205.82,mobile phones gadgets,SA
+6547,6547,25-44,1.0,Locals,High School,330000,1485867205.82,mobile phones gadgets,SA
+6548,6548,45+,1.0,Locals,High School,43000,1485867205.82,mobile phones gadgets,SA
+6549,6549,18-24,2.0,Locals,High School,67000,1485867205.82,mobile phones gadgets,SA
+6550,6550,25-44,2.0,Locals,High School,78000,1485867205.82,mobile phones gadgets,SA
+6551,6551,45+,2.0,Locals,High School,9200,1485867205.82,mobile phones gadgets,SA
+6552,6552,18-24,1.0,Expats,Graduated,17000,1485867205.82,mobile phones gadgets,SO
+6553,6553,25-44,1.0,Expats,Graduated,17000,1485867205.82,mobile phones gadgets,SO
+6554,6554,45+,1.0,Expats,Graduated,2300,1485867205.82,mobile phones gadgets,SO
+6555,6555,18-24,2.0,Expats,Graduated,6400,1485867205.82,mobile phones gadgets,SO
+6556,6556,25-44,2.0,Expats,Graduated,4000,1485867205.82,mobile phones gadgets,SO
+6557,6557,45+,2.0,Expats,Graduated,500,1485867205.82,mobile phones gadgets,SO
+6558,6558,18-24,1.0,Expats,No Degree,6800,1485867205.82,mobile phones gadgets,SO
+6559,6559,25-44,1.0,Expats,No Degree,10000,1485867205.82,mobile phones gadgets,SO
+6560,6560,45+,1.0,Expats,No Degree,1800,1485867205.82,mobile phones gadgets,SO
+6561,6561,18-24,2.0,Expats,No Degree,4100,1485867205.82,mobile phones gadgets,SO
+6562,6562,25-44,2.0,Expats,No Degree,2400,1485867205.82,mobile phones gadgets,SO
+6563,6563,45+,2.0,Expats,No Degree,350,1485867205.82,mobile phones gadgets,SO
+6564,6564,18-24,1.0,Expats,High School,4500,1485867205.82,mobile phones gadgets,SO
+6565,6565,25-44,1.0,Expats,High School,3800,1485867205.82,mobile phones gadgets,SO
+6566,6566,45+,1.0,Expats,High School,640,1485867205.82,mobile phones gadgets,SO
+6567,6567,18-24,2.0,Expats,High School,2400,1485867205.82,mobile phones gadgets,SO
+6568,6568,25-44,2.0,Expats,High School,1000,1485867205.82,mobile phones gadgets,SO
+6569,6569,45+,2.0,Expats,High School,100,1485867205.82,mobile phones gadgets,SO
+6570,6570,18-24,1.0,Locals,Graduated,53000,1485867205.82,mobile phones gadgets,SO
+6571,6571,25-44,1.0,Locals,Graduated,54000,1485867205.82,mobile phones gadgets,SO
+6572,6572,45+,1.0,Locals,Graduated,4200,1485867205.82,mobile phones gadgets,SO
+6573,6573,18-24,2.0,Locals,Graduated,29000,1485867205.82,mobile phones gadgets,SO
+6574,6574,25-44,2.0,Locals,Graduated,16000,1485867205.82,mobile phones gadgets,SO
+6575,6575,45+,2.0,Locals,Graduated,1600,1485867205.82,mobile phones gadgets,SO
+6576,6576,18-24,1.0,Locals,No Degree,130000,1485867205.82,mobile phones gadgets,SO
+6577,6577,25-44,1.0,Locals,No Degree,78000,1485867205.82,mobile phones gadgets,SO
+6578,6578,45+,1.0,Locals,No Degree,13000,1485867205.82,mobile phones gadgets,SO
+6579,6579,18-24,2.0,Locals,No Degree,99000,1485867205.82,mobile phones gadgets,SO
+6580,6580,25-44,2.0,Locals,No Degree,39000,1485867205.82,mobile phones gadgets,SO
+6581,6581,45+,2.0,Locals,No Degree,4400,1485867205.82,mobile phones gadgets,SO
+6582,6582,18-24,1.0,Locals,High School,20000,1485867205.82,mobile phones gadgets,SO
+6583,6583,25-44,1.0,Locals,High School,11000,1485867205.82,mobile phones gadgets,SO
+6584,6584,45+,1.0,Locals,High School,1200,1485867205.82,mobile phones gadgets,SO
+6585,6585,18-24,2.0,Locals,High School,12000,1485867205.82,mobile phones gadgets,SO
+6586,6586,25-44,2.0,Locals,High School,4000,1485867205.82,mobile phones gadgets,SO
+6587,6587,45+,2.0,Locals,High School,550,1485867205.82,mobile phones gadgets,SO
+6588,6588,18-24,1.0,Expats,Graduated,53000,1485867205.82,mobile phones gadgets,TN
+6589,6589,25-44,1.0,Expats,Graduated,64000,1485867205.82,mobile phones gadgets,TN
+6590,6590,45+,1.0,Expats,Graduated,13000,1485867205.82,mobile phones gadgets,TN
+6591,6591,18-24,2.0,Expats,Graduated,24000,1485867205.82,mobile phones gadgets,TN
+6592,6592,25-44,2.0,Expats,Graduated,26000,1485867205.82,mobile phones gadgets,TN
+6593,6593,45+,2.0,Expats,Graduated,5300,1485867205.82,mobile phones gadgets,TN
+6594,6594,18-24,1.0,Expats,No Degree,38000,1485867205.82,mobile phones gadgets,TN
+6595,6595,25-44,1.0,Expats,No Degree,64000,1485867205.82,mobile phones gadgets,TN
+6596,6596,45+,1.0,Expats,No Degree,14000,1485867205.82,mobile phones gadgets,TN
+6597,6597,18-24,2.0,Expats,No Degree,25000,1485867205.82,mobile phones gadgets,TN
+6598,6598,25-44,2.0,Expats,No Degree,32000,1485867205.82,mobile phones gadgets,TN
+6599,6599,45+,2.0,Expats,No Degree,6500,1485867205.82,mobile phones gadgets,TN
+6600,6600,18-24,1.0,Expats,High School,23000,1485867205.82,mobile phones gadgets,TN
+6601,6601,25-44,1.0,Expats,High School,18000,1485867205.82,mobile phones gadgets,TN
+6602,6602,45+,1.0,Expats,High School,4400,1485867205.82,mobile phones gadgets,TN
+6603,6603,18-24,2.0,Expats,High School,12000,1485867205.82,mobile phones gadgets,TN
+6604,6604,25-44,2.0,Expats,High School,8300,1485867205.82,mobile phones gadgets,TN
+6605,6605,45+,2.0,Expats,High School,2500,1485867205.82,mobile phones gadgets,TN
+6606,6606,18-24,1.0,Locals,Graduated,280000,1485867205.82,mobile phones gadgets,TN
+6607,6607,25-44,1.0,Locals,Graduated,540000,1485867205.82,mobile phones gadgets,TN
+6608,6608,45+,1.0,Locals,Graduated,110000,1485867205.82,mobile phones gadgets,TN
+6609,6609,18-24,2.0,Locals,Graduated,270000,1485867205.82,mobile phones gadgets,TN
+6610,6610,25-44,2.0,Locals,Graduated,410000,1485867205.82,mobile phones gadgets,TN
+6611,6611,45+,2.0,Locals,Graduated,51000,1485867205.82,mobile phones gadgets,TN
+6612,6612,18-24,1.0,Locals,No Degree,420000,1485867205.82,mobile phones gadgets,TN
+6613,6613,25-44,1.0,Locals,No Degree,660000,1485867205.82,mobile phones gadgets,TN
+6614,6614,45+,1.0,Locals,No Degree,180000,1485867205.82,mobile phones gadgets,TN
+6615,6615,18-24,2.0,Locals,No Degree,380000,1485867205.82,mobile phones gadgets,TN
+6616,6616,25-44,2.0,Locals,No Degree,440000,1485867205.82,mobile phones gadgets,TN
+6617,6617,45+,2.0,Locals,No Degree,110000,1485867205.82,mobile phones gadgets,TN
+6618,6618,18-24,1.0,Locals,High School,150000,1485867205.82,mobile phones gadgets,TN
+6619,6619,25-44,1.0,Locals,High School,180000,1485867205.82,mobile phones gadgets,TN
+6620,6620,45+,1.0,Locals,High School,48000,1485867205.82,mobile phones gadgets,TN
+6621,6621,18-24,2.0,Locals,High School,160000,1485867205.82,mobile phones gadgets,TN
+6622,6622,25-44,2.0,Locals,High School,110000,1485867205.82,mobile phones gadgets,TN
+6623,6623,45+,2.0,Locals,High School,29000,1485867205.82,mobile phones gadgets,TN
+6624,6624,18-24,1.0,Expats,Graduated,370000,1485867205.82,mobile phones gadgets,AE
+6625,6625,25-44,1.0,Expats,Graduated,1800000,1485867205.82,mobile phones gadgets,AE
+6626,6626,45+,1.0,Expats,Graduated,200000,1485867205.82,mobile phones gadgets,AE
+6627,6627,18-24,2.0,Expats,Graduated,110000,1485867205.82,mobile phones gadgets,AE
+6628,6628,25-44,2.0,Expats,Graduated,650000,1485867205.82,mobile phones gadgets,AE
+6629,6629,45+,2.0,Expats,Graduated,81000,1485867205.82,mobile phones gadgets,AE
+6630,6630,18-24,1.0,Expats,No Degree,620000,1485867205.82,mobile phones gadgets,AE
+6631,6631,25-44,1.0,Expats,No Degree,1400000,1485867205.82,mobile phones gadgets,AE
+6632,6632,45+,1.0,Expats,No Degree,210000,1485867205.82,mobile phones gadgets,AE
+6633,6633,18-24,2.0,Expats,No Degree,180000,1485867205.82,mobile phones gadgets,AE
+6634,6634,25-44,2.0,Expats,No Degree,370000,1485867205.82,mobile phones gadgets,AE
+6635,6635,45+,2.0,Expats,No Degree,74000,1485867205.82,mobile phones gadgets,AE
+6636,6636,18-24,1.0,Expats,High School,140000,1485867205.82,mobile phones gadgets,AE
+6637,6637,25-44,1.0,Expats,High School,420000,1485867205.82,mobile phones gadgets,AE
+6638,6638,45+,1.0,Expats,High School,57000,1485867205.82,mobile phones gadgets,AE
+6639,6639,18-24,2.0,Expats,High School,63000,1485867205.82,mobile phones gadgets,AE
+6640,6640,25-44,2.0,Expats,High School,140000,1485867205.82,mobile phones gadgets,AE
+6641,6641,45+,2.0,Expats,High School,24000,1485867205.82,mobile phones gadgets,AE
+6642,6642,18-24,1.0,Locals,Graduated,17000,1485867205.82,mobile phones gadgets,AE
+6643,6643,25-44,1.0,Locals,Graduated,54000,1485867205.82,mobile phones gadgets,AE
+6644,6644,45+,1.0,Locals,Graduated,5800,1485867205.82,mobile phones gadgets,AE
+6645,6645,18-24,2.0,Locals,Graduated,7500,1485867205.82,mobile phones gadgets,AE
+6646,6646,25-44,2.0,Locals,Graduated,21000,1485867205.82,mobile phones gadgets,AE
+6647,6647,45+,2.0,Locals,Graduated,1600,1485867205.82,mobile phones gadgets,AE
+6648,6648,18-24,1.0,Locals,No Degree,75000,1485867205.82,mobile phones gadgets,AE
+6649,6649,25-44,1.0,Locals,No Degree,140000,1485867205.82,mobile phones gadgets,AE
+6650,6650,45+,1.0,Locals,No Degree,21000,1485867205.82,mobile phones gadgets,AE
+6651,6651,18-24,2.0,Locals,No Degree,34000,1485867205.82,mobile phones gadgets,AE
+6652,6652,25-44,2.0,Locals,No Degree,57000,1485867205.82,mobile phones gadgets,AE
+6653,6653,45+,2.0,Locals,No Degree,6600,1485867205.82,mobile phones gadgets,AE
+6654,6654,18-24,1.0,Locals,High School,11000,1485867205.82,mobile phones gadgets,AE
+6655,6655,25-44,1.0,Locals,High School,16000,1485867205.82,mobile phones gadgets,AE
+6656,6656,45+,1.0,Locals,High School,1800,1485867205.82,mobile phones gadgets,AE
+6657,6657,18-24,2.0,Locals,High School,6500,1485867205.82,mobile phones gadgets,AE
+6658,6658,25-44,2.0,Locals,High School,5600,1485867205.82,mobile phones gadgets,AE
+6659,6659,45+,2.0,Locals,High School,550,1485867205.82,mobile phones gadgets,AE
+6660,6660,18-24,1.0,Expats,Graduated,19000,1485867205.82,mobile phones gadgets,YE
+6661,6661,25-44,1.0,Expats,Graduated,33000,1485867205.82,mobile phones gadgets,YE
+6662,6662,45+,1.0,Expats,Graduated,3000,1485867205.82,mobile phones gadgets,YE
+6663,6663,18-24,2.0,Expats,Graduated,3700,1485867205.82,mobile phones gadgets,YE
+6664,6664,25-44,2.0,Expats,Graduated,5200,1485867205.82,mobile phones gadgets,YE
+6665,6665,45+,2.0,Expats,Graduated,490,1485867205.82,mobile phones gadgets,YE
+6666,6666,18-24,1.0,Expats,No Degree,18000,1485867205.82,mobile phones gadgets,YE
+6667,6667,25-44,1.0,Expats,No Degree,28000,1485867205.82,mobile phones gadgets,YE
+6668,6668,45+,1.0,Expats,No Degree,2700,1485867205.82,mobile phones gadgets,YE
+6669,6669,18-24,2.0,Expats,No Degree,9700,1485867205.82,mobile phones gadgets,YE
+6670,6670,25-44,2.0,Expats,No Degree,7300,1485867205.82,mobile phones gadgets,YE
+6671,6671,45+,2.0,Expats,No Degree,910,1485867205.82,mobile phones gadgets,YE
+6672,6672,18-24,1.0,Expats,High School,8300,1485867205.82,mobile phones gadgets,YE
+6673,6673,25-44,1.0,Expats,High School,8200,1485867205.82,mobile phones gadgets,YE
+6674,6674,45+,1.0,Expats,High School,860,1485867205.82,mobile phones gadgets,YE
+6675,6675,18-24,2.0,Expats,High School,2700,1485867205.82,mobile phones gadgets,YE
+6676,6676,25-44,2.0,Expats,High School,1600,1485867205.82,mobile phones gadgets,YE
+6677,6677,45+,2.0,Expats,High School,150,1485867205.82,mobile phones gadgets,YE
+6678,6678,18-24,1.0,Locals,Graduated,130000,1485867205.82,mobile phones gadgets,YE
+6679,6679,25-44,1.0,Locals,Graduated,270000,1485867205.82,mobile phones gadgets,YE
+6680,6680,45+,1.0,Locals,Graduated,23000,1485867205.82,mobile phones gadgets,YE
+6681,6681,18-24,2.0,Locals,Graduated,23000,1485867205.82,mobile phones gadgets,YE
+6682,6682,25-44,2.0,Locals,Graduated,35000,1485867205.82,mobile phones gadgets,YE
+6683,6683,45+,2.0,Locals,Graduated,2100,1485867205.82,mobile phones gadgets,YE
+6684,6684,18-24,1.0,Locals,No Degree,280000,1485867205.82,mobile phones gadgets,YE
+6685,6685,25-44,1.0,Locals,No Degree,320000,1485867205.82,mobile phones gadgets,YE
+6686,6686,45+,1.0,Locals,No Degree,40000,1485867205.82,mobile phones gadgets,YE
+6687,6687,18-24,2.0,Locals,No Degree,51000,1485867205.82,mobile phones gadgets,YE
+6688,6688,25-44,2.0,Locals,No Degree,45000,1485867205.82,mobile phones gadgets,YE
+6689,6689,45+,2.0,Locals,No Degree,5600,1485867205.82,mobile phones gadgets,YE
+6690,6690,18-24,1.0,Locals,High School,88000,1485867205.82,mobile phones gadgets,YE
+6691,6691,25-44,1.0,Locals,High School,83000,1485867205.82,mobile phones gadgets,YE
+6692,6692,45+,1.0,Locals,High School,7200,1485867205.82,mobile phones gadgets,YE
+6693,6693,18-24,2.0,Locals,High School,21000,1485867205.82,mobile phones gadgets,YE
+6694,6694,25-44,2.0,Locals,High School,11000,1485867205.82,mobile phones gadgets,YE
+6695,6695,45+,2.0,Locals,High School,820,1485867205.82,mobile phones gadgets,YE
+6696,6696,18-24,1.0,Expats,Graduated,19000,1485867205.82,mobile phones gadgets,PS
+6697,6697,25-44,1.0,Expats,Graduated,31000,1485867205.82,mobile phones gadgets,PS
+6698,6698,45+,1.0,Expats,Graduated,4900,1485867205.82,mobile phones gadgets,PS
+6699,6699,18-24,2.0,Expats,Graduated,15000,1485867205.82,mobile phones gadgets,PS
+6700,6700,25-44,2.0,Expats,Graduated,20000,1485867205.82,mobile phones gadgets,PS
+6701,6701,45+,2.0,Expats,Graduated,2600,1485867205.82,mobile phones gadgets,PS
+6702,6702,18-24,1.0,Expats,No Degree,12000,1485867205.82,mobile phones gadgets,PS
+6703,6703,25-44,1.0,Expats,No Degree,16000,1485867205.82,mobile phones gadgets,PS
+6704,6704,45+,1.0,Expats,No Degree,3800,1485867205.82,mobile phones gadgets,PS
+6705,6705,18-24,2.0,Expats,No Degree,15000,1485867205.82,mobile phones gadgets,PS
+6706,6706,25-44,2.0,Expats,No Degree,14000,1485867205.82,mobile phones gadgets,PS
+6707,6707,45+,2.0,Expats,No Degree,3500,1485867205.82,mobile phones gadgets,PS
+6708,6708,18-24,1.0,Expats,High School,10000,1485867205.82,mobile phones gadgets,PS
+6709,6709,25-44,1.0,Expats,High School,6700,1485867205.82,mobile phones gadgets,PS
+6710,6710,45+,1.0,Expats,High School,1400,1485867205.82,mobile phones gadgets,PS
+6711,6711,18-24,2.0,Expats,High School,12000,1485867205.82,mobile phones gadgets,PS
+6712,6712,25-44,2.0,Expats,High School,5400,1485867205.82,mobile phones gadgets,PS
+6713,6713,45+,2.0,Expats,High School,1300,1485867205.82,mobile phones gadgets,PS
+6714,6714,18-24,1.0,Locals,Graduated,82000,1485867205.82,mobile phones gadgets,PS
+6715,6715,25-44,1.0,Locals,Graduated,130000,1485867205.82,mobile phones gadgets,PS
+6716,6716,45+,1.0,Locals,Graduated,20000,1485867205.82,mobile phones gadgets,PS
+6717,6717,18-24,2.0,Locals,Graduated,71000,1485867205.82,mobile phones gadgets,PS
+6718,6718,25-44,2.0,Locals,Graduated,87000,1485867205.82,mobile phones gadgets,PS
+6719,6719,45+,2.0,Locals,Graduated,8800,1485867205.82,mobile phones gadgets,PS
+6720,6720,18-24,1.0,Locals,No Degree,90000,1485867205.82,mobile phones gadgets,PS
+6721,6721,25-44,1.0,Locals,No Degree,93000,1485867205.82,mobile phones gadgets,PS
+6722,6722,45+,1.0,Locals,No Degree,29000,1485867205.82,mobile phones gadgets,PS
+6723,6723,18-24,2.0,Locals,No Degree,80000,1485867205.82,mobile phones gadgets,PS
+6724,6724,25-44,2.0,Locals,No Degree,80000,1485867205.82,mobile phones gadgets,PS
+6725,6725,45+,2.0,Locals,No Degree,24000,1485867205.82,mobile phones gadgets,PS
+6726,6726,18-24,1.0,Locals,High School,51000,1485867205.82,mobile phones gadgets,PS
+6727,6727,25-44,1.0,Locals,High School,32000,1485867205.82,mobile phones gadgets,PS
+6728,6728,45+,1.0,Locals,High School,6900,1485867205.82,mobile phones gadgets,PS
+6729,6729,18-24,2.0,Locals,High School,57000,1485867205.82,mobile phones gadgets,PS
+6730,6730,25-44,2.0,Locals,High School,25000,1485867205.82,mobile phones gadgets,PS
+6731,6731,45+,2.0,Locals,High School,4000,1485867205.82,mobile phones gadgets,PS

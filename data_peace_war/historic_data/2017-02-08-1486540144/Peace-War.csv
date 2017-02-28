@@ -1,0 +1,3673 @@
+,ages_ranges,genders,behavior,scholarities,audience,topic,country_code
+1836,18-24,1.0,Expats,Graduated,120,Peace,Alabama
+1837,25-44,1.0,Expats,Graduated,540,Peace,Alabama
+1838,45+,1.0,Expats,Graduated,250,Peace,Alabama
+1839,18-24,2.0,Expats,Graduated,170,Peace,Alabama
+1840,25-44,2.0,Expats,Graduated,610,Peace,Alabama
+1841,45+,2.0,Expats,Graduated,470,Peace,Alabama
+1842,18-24,1.0,Expats,No Degree,200,Peace,Alabama
+1843,25-44,1.0,Expats,No Degree,580,Peace,Alabama
+1844,45+,1.0,Expats,No Degree,160,Peace,Alabama
+1845,18-24,2.0,Expats,No Degree,140,Peace,Alabama
+1846,25-44,2.0,Expats,No Degree,380,Peace,Alabama
+1847,45+,2.0,Expats,No Degree,340,Peace,Alabama
+1848,18-24,1.0,Expats,High School,130,Peace,Alabama
+1849,25-44,1.0,Expats,High School,270,Peace,Alabama
+1850,45+,1.0,Expats,High School,90,Peace,Alabama
+1851,18-24,2.0,Expats,High School,170,Peace,Alabama
+1852,25-44,2.0,Expats,High School,420,Peace,Alabama
+1853,45+,2.0,Expats,High School,320,Peace,Alabama
+1854,18-24,1.0,Locals,Graduated,940,Peace,Alabama
+1855,25-44,1.0,Locals,Graduated,5100,Peace,Alabama
+1856,45+,1.0,Locals,Graduated,8300,Peace,Alabama
+1857,18-24,2.0,Locals,Graduated,2900,Peace,Alabama
+1858,25-44,2.0,Locals,Graduated,21000,Peace,Alabama
+1859,45+,2.0,Locals,Graduated,30000,Peace,Alabama
+1860,18-24,1.0,Locals,No Degree,550,Peace,Alabama
+1861,25-44,1.0,Locals,No Degree,1200,Peace,Alabama
+1862,45+,1.0,Locals,No Degree,2700,Peace,Alabama
+1863,18-24,2.0,Locals,No Degree,1700,Peace,Alabama
+1864,25-44,2.0,Locals,No Degree,4700,Peace,Alabama
+1865,45+,2.0,Locals,No Degree,12000,Peace,Alabama
+1866,18-24,1.0,Locals,High School,1400,Peace,Alabama
+1867,25-44,1.0,Locals,High School,3400,Peace,Alabama
+1868,45+,1.0,Locals,High School,5500,Peace,Alabama
+1869,18-24,2.0,Locals,High School,5100,Peace,Alabama
+1870,25-44,2.0,Locals,High School,14000,Peace,Alabama
+1871,45+,2.0,Locals,High School,22000,Peace,Alabama
+1872,18-24,1.0,Expats,Graduated,20,Peace,Alaska
+1873,25-44,1.0,Expats,Graduated,190,Peace,Alaska
+1874,45+,1.0,Expats,Graduated,110,Peace,Alaska
+1875,18-24,2.0,Expats,Graduated,20,Peace,Alaska
+1876,25-44,2.0,Expats,Graduated,290,Peace,Alaska
+1877,45+,2.0,Expats,Graduated,300,Peace,Alaska
+1878,18-24,1.0,Expats,No Degree,20,Peace,Alaska
+1879,25-44,1.0,Expats,No Degree,40,Peace,Alaska
+1880,45+,1.0,Expats,No Degree,80,Peace,Alaska
+1881,18-24,2.0,Expats,No Degree,30,Peace,Alaska
+1882,25-44,2.0,Expats,No Degree,90,Peace,Alaska
+1883,45+,2.0,Expats,No Degree,130,Peace,Alaska
+1884,18-24,1.0,Expats,High School,20,Peace,Alaska
+1885,25-44,1.0,Expats,High School,100,Peace,Alaska
+1886,45+,1.0,Expats,High School,40,Peace,Alaska
+1887,18-24,2.0,Expats,High School,70,Peace,Alaska
+1888,25-44,2.0,Expats,High School,130,Peace,Alaska
+1889,45+,2.0,Expats,High School,130,Peace,Alaska
+1890,18-24,1.0,Locals,Graduated,110,Peace,Alaska
+1891,25-44,1.0,Locals,Graduated,1100,Peace,Alaska
+1892,45+,1.0,Locals,Graduated,1300,Peace,Alaska
+1893,18-24,2.0,Locals,Graduated,300,Peace,Alaska
+1894,25-44,2.0,Locals,Graduated,3000,Peace,Alaska
+1895,45+,2.0,Locals,Graduated,3500,Peace,Alaska
+1896,18-24,1.0,Locals,No Degree,150,Peace,Alaska
+1897,25-44,1.0,Locals,No Degree,320,Peace,Alaska
+1898,45+,1.0,Locals,No Degree,600,Peace,Alaska
+1899,18-24,2.0,Locals,No Degree,420,Peace,Alaska
+1900,25-44,2.0,Locals,No Degree,1000,Peace,Alaska
+1901,45+,2.0,Locals,No Degree,1700,Peace,Alaska
+1902,18-24,1.0,Locals,High School,270,Peace,Alaska
+1903,25-44,1.0,Locals,High School,770,Peace,Alaska
+1904,45+,1.0,Locals,High School,990,Peace,Alaska
+1905,18-24,2.0,Locals,High School,850,Peace,Alaska
+1906,25-44,2.0,Locals,High School,2300,Peace,Alaska
+1907,45+,2.0,Locals,High School,2400,Peace,Alaska
+1908,18-24,1.0,Expats,Graduated,390,Peace,Arizona
+1909,25-44,1.0,Expats,Graduated,1800,Peace,Arizona
+1910,45+,1.0,Expats,Graduated,1200,Peace,Arizona
+1911,18-24,2.0,Expats,Graduated,690,Peace,Arizona
+1912,25-44,2.0,Expats,Graduated,3700,Peace,Arizona
+1913,45+,2.0,Expats,Graduated,3000,Peace,Arizona
+1914,18-24,1.0,Expats,No Degree,270,Peace,Arizona
+1915,25-44,1.0,Expats,No Degree,1100,Peace,Arizona
+1916,45+,1.0,Expats,No Degree,840,Peace,Arizona
+1917,18-24,2.0,Expats,No Degree,670,Peace,Arizona
+1918,25-44,2.0,Expats,No Degree,2600,Peace,Arizona
+1919,45+,2.0,Expats,No Degree,2700,Peace,Arizona
+1920,18-24,1.0,Expats,High School,390,Peace,Arizona
+1921,25-44,1.0,Expats,High School,950,Peace,Arizona
+1922,45+,1.0,Expats,High School,450,Peace,Arizona
+1923,18-24,2.0,Expats,High School,810,Peace,Arizona
+1924,25-44,2.0,Expats,High School,2100,Peace,Arizona
+1925,45+,2.0,Expats,High School,1300,Peace,Arizona
+1926,18-24,1.0,Locals,Graduated,1500,Peace,Arizona
+1927,25-44,1.0,Locals,Graduated,7300,Peace,Arizona
+1928,45+,1.0,Locals,Graduated,12000,Peace,Arizona
+1929,18-24,2.0,Locals,Graduated,3500,Peace,Arizona
+1930,25-44,2.0,Locals,Graduated,22000,Peace,Arizona
+1931,45+,2.0,Locals,Graduated,34000,Peace,Arizona
+1932,18-24,1.0,Locals,No Degree,1200,Peace,Arizona
+1933,25-44,1.0,Locals,No Degree,2300,Peace,Arizona
+1934,45+,1.0,Locals,No Degree,3500,Peace,Arizona
+1935,18-24,2.0,Locals,No Degree,3200,Peace,Arizona
+1936,25-44,2.0,Locals,No Degree,6400,Peace,Arizona
+1937,45+,2.0,Locals,No Degree,13000,Peace,Arizona
+1938,18-24,1.0,Locals,High School,1900,Peace,Arizona
+1939,25-44,1.0,Locals,High School,3900,Peace,Arizona
+1940,45+,1.0,Locals,High School,5600,Peace,Arizona
+1941,18-24,2.0,Locals,High School,6200,Peace,Arizona
+1942,25-44,2.0,Locals,High School,13000,Peace,Arizona
+1943,45+,2.0,Locals,High School,20000,Peace,Arizona
+1944,18-24,1.0,Expats,Graduated,70,Peace,Arkansas
+1945,25-44,1.0,Expats,Graduated,710,Peace,Arkansas
+1946,45+,1.0,Expats,Graduated,130,Peace,Arkansas
+1947,18-24,2.0,Expats,Graduated,90,Peace,Arkansas
+1948,25-44,2.0,Expats,Graduated,520,Peace,Arkansas
+1949,45+,2.0,Expats,Graduated,390,Peace,Arkansas
+1950,18-24,1.0,Expats,No Degree,70,Peace,Arkansas
+1951,25-44,1.0,Expats,No Degree,480,Peace,Arkansas
+1952,45+,1.0,Expats,No Degree,190,Peace,Arkansas
+1953,18-24,2.0,Expats,No Degree,70,Peace,Arkansas
+1954,25-44,2.0,Expats,No Degree,520,Peace,Arkansas
+1955,45+,2.0,Expats,No Degree,300,Peace,Arkansas
+1956,18-24,1.0,Expats,High School,140,Peace,Arkansas
+1957,25-44,1.0,Expats,High School,280,Peace,Arkansas
+1958,45+,1.0,Expats,High School,120,Peace,Arkansas
+1959,18-24,2.0,Expats,High School,140,Peace,Arkansas
+1960,25-44,2.0,Expats,High School,390,Peace,Arkansas
+1961,45+,2.0,Expats,High School,210,Peace,Arkansas
+1962,18-24,1.0,Locals,Graduated,530,Peace,Arkansas
+1963,25-44,1.0,Locals,Graduated,3400,Peace,Arkansas
+1964,45+,1.0,Locals,Graduated,5900,Peace,Arkansas
+1965,18-24,2.0,Locals,Graduated,1800,Peace,Arkansas
+1966,25-44,2.0,Locals,Graduated,14000,Peace,Arkansas
+1967,45+,2.0,Locals,Graduated,19000,Peace,Arkansas
+1968,18-24,1.0,Locals,No Degree,270,Peace,Arkansas
+1969,25-44,1.0,Locals,No Degree,930,Peace,Arkansas
+1970,45+,1.0,Locals,No Degree,2400,Peace,Arkansas
+1971,18-24,2.0,Locals,No Degree,900,Peace,Arkansas
+1972,25-44,2.0,Locals,No Degree,2900,Peace,Arkansas
+1973,45+,2.0,Locals,No Degree,7800,Peace,Arkansas
+1974,18-24,1.0,Locals,High School,860,Peace,Arkansas
+1975,25-44,1.0,Locals,High School,2600,Peace,Arkansas
+1976,45+,1.0,Locals,High School,4100,Peace,Arkansas
+1977,18-24,2.0,Locals,High School,3500,Peace,Arkansas
+1978,25-44,2.0,Locals,High School,9200,Peace,Arkansas
+1979,45+,2.0,Locals,High School,15000,Peace,Arkansas
+1980,18-24,1.0,Expats,Graduated,3200,Peace,California
+1981,25-44,1.0,Expats,Graduated,21000,Peace,California
+1982,45+,1.0,Expats,Graduated,13000,Peace,California
+1983,18-24,2.0,Expats,Graduated,3800,Peace,California
+1984,25-44,2.0,Expats,Graduated,30000,Peace,California
+1985,45+,2.0,Expats,Graduated,27000,Peace,California
+1986,18-24,1.0,Expats,No Degree,2200,Peace,California
+1987,25-44,1.0,Expats,No Degree,16000,Peace,California
+1988,45+,1.0,Expats,No Degree,11000,Peace,California
+1989,18-24,2.0,Expats,No Degree,3200,Peace,California
+1990,25-44,2.0,Expats,No Degree,24000,Peace,California
+1991,45+,2.0,Expats,No Degree,28000,Peace,California
+1992,18-24,1.0,Expats,High School,3000,Peace,California
+1993,25-44,1.0,Expats,High School,10000,Peace,California
+1994,45+,1.0,Expats,High School,4800,Peace,California
+1995,18-24,2.0,Expats,High School,4500,Peace,California
+1996,25-44,2.0,Expats,High School,15000,Peace,California
+1997,45+,2.0,Expats,High School,11000,Peace,California
+1998,18-24,1.0,Locals,Graduated,6200,Peace,California
+1999,25-44,1.0,Locals,Graduated,37000,Peace,California
+2000,45+,1.0,Locals,Graduated,45000,Peace,California
+2001,18-24,2.0,Locals,Graduated,12000,Peace,California
+2002,25-44,2.0,Locals,Graduated,100000,Peace,California
+2003,45+,2.0,Locals,Graduated,130000,Peace,California
+2004,18-24,1.0,Locals,No Degree,4100,Peace,California
+2005,25-44,1.0,Locals,No Degree,13000,Peace,California
+2006,45+,1.0,Locals,No Degree,16000,Peace,California
+2007,18-24,2.0,Locals,No Degree,8500,Peace,California
+2008,25-44,2.0,Locals,No Degree,31000,Peace,California
+2009,45+,2.0,Locals,No Degree,54000,Peace,California
+2010,18-24,1.0,Locals,High School,9600,Peace,California
+2011,25-44,1.0,Locals,High School,22000,Peace,California
+2012,45+,1.0,Locals,High School,21000,Peace,California
+2013,18-24,2.0,Locals,High School,23000,Peace,California
+2014,25-44,2.0,Locals,High School,54000,Peace,California
+2015,45+,2.0,Locals,High School,70000,Peace,California
+2016,18-24,1.0,Expats,Graduated,380,Peace,Colorado
+2017,25-44,1.0,Expats,Graduated,1500,Peace,Colorado
+2018,45+,1.0,Expats,Graduated,630,Peace,Colorado
+2019,18-24,2.0,Expats,Graduated,460,Peace,Colorado
+2020,25-44,2.0,Expats,Graduated,2800,Peace,Colorado
+2021,45+,2.0,Expats,Graduated,1600,Peace,Colorado
+2022,18-24,1.0,Expats,No Degree,310,Peace,Colorado
+2023,25-44,1.0,Expats,No Degree,1200,Peace,Colorado
+2024,45+,1.0,Expats,No Degree,350,Peace,Colorado
+2025,18-24,2.0,Expats,No Degree,460,Peace,Colorado
+2026,25-44,2.0,Expats,No Degree,1300,Peace,Colorado
+2027,45+,2.0,Expats,No Degree,1200,Peace,Colorado
+2028,18-24,1.0,Expats,High School,390,Peace,Colorado
+2029,25-44,1.0,Expats,High School,670,Peace,Colorado
+2030,45+,1.0,Expats,High School,230,Peace,Colorado
+2031,18-24,2.0,Expats,High School,630,Peace,Colorado
+2032,25-44,2.0,Expats,High School,1400,Peace,Colorado
+2033,45+,2.0,Expats,High School,630,Peace,Colorado
+2034,18-24,1.0,Locals,Graduated,1400,Peace,Colorado
+2035,25-44,1.0,Locals,Graduated,7600,Peace,Colorado
+2036,45+,1.0,Locals,Graduated,8800,Peace,Colorado
+2037,18-24,2.0,Locals,Graduated,3300,Peace,Colorado
+2038,25-44,2.0,Locals,Graduated,25000,Peace,Colorado
+2039,45+,2.0,Locals,Graduated,29000,Peace,Colorado
+2040,18-24,1.0,Locals,No Degree,890,Peace,Colorado
+2041,25-44,1.0,Locals,No Degree,2400,Peace,Colorado
+2042,45+,1.0,Locals,No Degree,2500,Peace,Colorado
+2043,18-24,2.0,Locals,No Degree,2900,Peace,Colorado
+2044,25-44,2.0,Locals,No Degree,5700,Peace,Colorado
+2045,45+,2.0,Locals,No Degree,9000,Peace,Colorado
+2046,18-24,1.0,Locals,High School,2400,Peace,Colorado
+2047,25-44,1.0,Locals,High School,4000,Peace,Colorado
+2048,45+,1.0,Locals,High School,4500,Peace,Colorado
+2049,18-24,2.0,Locals,High School,6200,Peace,Colorado
+2050,25-44,2.0,Locals,High School,12000,Peace,Colorado
+2051,45+,2.0,Locals,High School,15000,Peace,Colorado
+2052,18-24,1.0,Expats,Graduated,350,Peace,Connecticut
+2053,25-44,1.0,Expats,Graduated,1500,Peace,Connecticut
+2054,45+,1.0,Expats,Graduated,720,Peace,Connecticut
+2055,18-24,2.0,Expats,Graduated,220,Peace,Connecticut
+2056,25-44,2.0,Expats,Graduated,2100,Peace,Connecticut
+2057,45+,2.0,Expats,Graduated,1700,Peace,Connecticut
+2058,18-24,1.0,Expats,No Degree,230,Peace,Connecticut
+2059,25-44,1.0,Expats,No Degree,810,Peace,Connecticut
+2060,45+,1.0,Expats,No Degree,570,Peace,Connecticut
+2061,18-24,2.0,Expats,No Degree,220,Peace,Connecticut
+2062,25-44,2.0,Expats,No Degree,1100,Peace,Connecticut
+2063,45+,2.0,Expats,No Degree,1200,Peace,Connecticut
+2064,18-24,1.0,Expats,High School,230,Peace,Connecticut
+2065,25-44,1.0,Expats,High School,610,Peace,Connecticut
+2066,45+,1.0,Expats,High School,270,Peace,Connecticut
+2067,18-24,2.0,Expats,High School,370,Peace,Connecticut
+2068,25-44,2.0,Expats,High School,960,Peace,Connecticut
+2069,45+,2.0,Expats,High School,780,Peace,Connecticut
+2070,18-24,1.0,Locals,Graduated,650,Peace,Connecticut
+2071,25-44,1.0,Locals,Graduated,3000,Peace,Connecticut
+2072,45+,1.0,Locals,Graduated,4200,Peace,Connecticut
+2073,18-24,2.0,Locals,Graduated,1400,Peace,Connecticut
+2074,25-44,2.0,Locals,Graduated,11000,Peace,Connecticut
+2075,45+,2.0,Locals,Graduated,16000,Peace,Connecticut
+2076,18-24,1.0,Locals,No Degree,200,Peace,Connecticut
+2077,25-44,1.0,Locals,No Degree,690,Peace,Connecticut
+2078,45+,1.0,Locals,No Degree,1400,Peace,Connecticut
+2079,18-24,2.0,Locals,No Degree,590,Peace,Connecticut
+2080,25-44,2.0,Locals,No Degree,2300,Peace,Connecticut
+2081,45+,2.0,Locals,No Degree,5300,Peace,Connecticut
+2082,18-24,1.0,Locals,High School,790,Peace,Connecticut
+2083,25-44,1.0,Locals,High School,1700,Peace,Connecticut
+2084,45+,1.0,Locals,High School,2500,Peace,Connecticut
+2085,18-24,2.0,Locals,High School,2900,Peace,Connecticut
+2086,25-44,2.0,Locals,High School,5400,Peace,Connecticut
+2087,45+,2.0,Locals,High School,8700,Peace,Connecticut
+2088,18-24,1.0,Expats,Graduated,90,Peace,Delaware
+2089,25-44,1.0,Expats,Graduated,190,Peace,Delaware
+2090,45+,1.0,Expats,Graduated,150,Peace,Delaware
+2091,18-24,2.0,Expats,Graduated,40,Peace,Delaware
+2092,25-44,2.0,Expats,Graduated,330,Peace,Delaware
+2093,45+,2.0,Expats,Graduated,180,Peace,Delaware
+2094,18-24,1.0,Expats,No Degree,40,Peace,Delaware
+2095,25-44,1.0,Expats,No Degree,180,Peace,Delaware
+2096,45+,1.0,Expats,No Degree,20,Peace,Delaware
+2097,18-24,2.0,Expats,No Degree,40,Peace,Delaware
+2098,25-44,2.0,Expats,No Degree,170,Peace,Delaware
+2099,45+,2.0,Expats,No Degree,150,Peace,Delaware
+2100,18-24,1.0,Expats,High School,30,Peace,Delaware
+2101,25-44,1.0,Expats,High School,130,Peace,Delaware
+2102,45+,1.0,Expats,High School,30,Peace,Delaware
+2103,18-24,2.0,Expats,High School,50,Peace,Delaware
+2104,25-44,2.0,Expats,High School,110,Peace,Delaware
+2105,45+,2.0,Expats,High School,90,Peace,Delaware
+2106,18-24,1.0,Locals,Graduated,50,Peace,Delaware
+2107,25-44,1.0,Locals,Graduated,600,Peace,Delaware
+2108,45+,1.0,Locals,Graduated,1200,Peace,Delaware
+2109,18-24,2.0,Locals,Graduated,190,Peace,Delaware
+2110,25-44,2.0,Locals,Graduated,2500,Peace,Delaware
+2111,45+,2.0,Locals,Graduated,4300,Peace,Delaware
+2112,18-24,1.0,Locals,No Degree,110,Peace,Delaware
+2113,25-44,1.0,Locals,No Degree,280,Peace,Delaware
+2114,45+,1.0,Locals,No Degree,320,Peace,Delaware
+2115,18-24,2.0,Locals,No Degree,190,Peace,Delaware
+2116,25-44,2.0,Locals,No Degree,630,Peace,Delaware
+2117,45+,2.0,Locals,No Degree,1600,Peace,Delaware
+2118,18-24,1.0,Locals,High School,130,Peace,Delaware
+2119,25-44,1.0,Locals,High School,540,Peace,Delaware
+2120,45+,1.0,Locals,High School,790,Peace,Delaware
+2121,18-24,2.0,Locals,High School,570,Peace,Delaware
+2122,25-44,2.0,Locals,High School,1600,Peace,Delaware
+2123,45+,2.0,Locals,High School,3300,Peace,Delaware
+2124,18-24,1.0,Expats,Graduated,90,Peace,District of Columbia
+2125,25-44,1.0,Expats,Graduated,760,Peace,District of Columbia
+2126,45+,1.0,Expats,Graduated,250,Peace,District of Columbia
+2127,18-24,2.0,Expats,Graduated,220,Peace,District of Columbia
+2128,25-44,2.0,Expats,Graduated,1200,Peace,District of Columbia
+2129,45+,2.0,Expats,Graduated,320,Peace,District of Columbia
+2130,18-24,1.0,Expats,No Degree,30,Peace,District of Columbia
+2131,25-44,1.0,Expats,No Degree,340,Peace,District of Columbia
+2132,45+,1.0,Expats,No Degree,130,Peace,District of Columbia
+2133,18-24,2.0,Expats,No Degree,40,Peace,District of Columbia
+2134,25-44,2.0,Expats,No Degree,320,Peace,District of Columbia
+2135,45+,2.0,Expats,No Degree,160,Peace,District of Columbia
+2136,18-24,1.0,Expats,High School,190,Peace,District of Columbia
+2137,25-44,1.0,Expats,High School,180,Peace,District of Columbia
+2138,45+,1.0,Expats,High School,50,Peace,District of Columbia
+2139,18-24,2.0,Expats,High School,190,Peace,District of Columbia
+2140,25-44,2.0,Expats,High School,270,Peace,District of Columbia
+2141,45+,2.0,Expats,High School,70,Peace,District of Columbia
+2142,18-24,1.0,Locals,Graduated,310,Peace,District of Columbia
+2143,25-44,1.0,Locals,Graduated,1700,Peace,District of Columbia
+2144,45+,1.0,Locals,Graduated,1000,Peace,District of Columbia
+2145,18-24,2.0,Locals,Graduated,720,Peace,District of Columbia
+2146,25-44,2.0,Locals,Graduated,3400,Peace,District of Columbia
+2147,45+,2.0,Locals,Graduated,2000,Peace,District of Columbia
+2148,18-24,1.0,Locals,No Degree,50,Peace,District of Columbia
+2149,25-44,1.0,Locals,No Degree,210,Peace,District of Columbia
+2150,45+,1.0,Locals,No Degree,320,Peace,District of Columbia
+2151,18-24,2.0,Locals,No Degree,60,Peace,District of Columbia
+2152,25-44,2.0,Locals,No Degree,530,Peace,District of Columbia
+2153,45+,2.0,Locals,No Degree,900,Peace,District of Columbia
+2154,18-24,1.0,Locals,High School,450,Peace,District of Columbia
+2155,25-44,1.0,Locals,High School,450,Peace,District of Columbia
+2156,45+,1.0,Locals,High School,250,Peace,District of Columbia
+2157,18-24,2.0,Locals,High School,660,Peace,District of Columbia
+2158,25-44,2.0,Locals,High School,780,Peace,District of Columbia
+2159,45+,2.0,Locals,High School,820,Peace,District of Columbia
+2160,18-24,1.0,Expats,Graduated,2100,Peace,Florida
+2161,25-44,1.0,Expats,Graduated,13000,Peace,Florida
+2162,45+,1.0,Expats,Graduated,9400,Peace,Florida
+2163,18-24,2.0,Expats,Graduated,2700,Peace,Florida
+2164,25-44,2.0,Expats,Graduated,23000,Peace,Florida
+2165,45+,2.0,Expats,Graduated,24000,Peace,Florida
+2166,18-24,1.0,Expats,No Degree,1400,Peace,Florida
+2167,25-44,1.0,Expats,No Degree,8400,Peace,Florida
+2168,45+,1.0,Expats,No Degree,5100,Peace,Florida
+2169,18-24,2.0,Expats,No Degree,1800,Peace,Florida
+2170,25-44,2.0,Expats,No Degree,11000,Peace,Florida
+2171,45+,2.0,Expats,No Degree,14000,Peace,Florida
+2172,18-24,1.0,Expats,High School,1500,Peace,Florida
+2173,25-44,1.0,Expats,High School,5700,Peace,Florida
+2174,45+,1.0,Expats,High School,3400,Peace,Florida
+2175,18-24,2.0,Expats,High School,3100,Peace,Florida
+2176,25-44,2.0,Expats,High School,9400,Peace,Florida
+2177,45+,2.0,Expats,High School,9300,Peace,Florida
+2178,18-24,1.0,Locals,Graduated,3200,Peace,Florida
+2179,25-44,1.0,Locals,Graduated,20000,Peace,Florida
+2180,45+,1.0,Locals,Graduated,35000,Peace,Florida
+2181,18-24,2.0,Locals,Graduated,8000,Peace,Florida
+2182,25-44,2.0,Locals,Graduated,64000,Peace,Florida
+2183,45+,2.0,Locals,Graduated,110000,Peace,Florida
+2184,18-24,1.0,Locals,No Degree,1900,Peace,Florida
+2185,25-44,1.0,Locals,No Degree,6100,Peace,Florida
+2186,45+,1.0,Locals,No Degree,12000,Peace,Florida
+2187,18-24,2.0,Locals,No Degree,5000,Peace,Florida
+2188,25-44,2.0,Locals,No Degree,17000,Peace,Florida
+2189,45+,2.0,Locals,No Degree,39000,Peace,Florida
+2190,18-24,1.0,Locals,High School,3800,Peace,Florida
+2191,25-44,1.0,Locals,High School,12000,Peace,Florida
+2192,45+,1.0,Locals,High School,18000,Peace,Florida
+2193,18-24,2.0,Locals,High School,13000,Peace,Florida
+2194,25-44,2.0,Locals,High School,36000,Peace,Florida
+2195,45+,2.0,Locals,High School,66000,Peace,Florida
+2196,18-24,1.0,Expats,Graduated,650,Peace,Georgia
+2197,25-44,1.0,Expats,Graduated,3500,Peace,Georgia
+2198,45+,1.0,Expats,Graduated,1500,Peace,Georgia
+2199,18-24,2.0,Expats,Graduated,610,Peace,Georgia
+2200,25-44,2.0,Expats,Graduated,4600,Peace,Georgia
+2201,45+,2.0,Expats,Graduated,3600,Peace,Georgia
+2202,18-24,1.0,Expats,No Degree,470,Peace,Georgia
+2203,25-44,1.0,Expats,No Degree,2500,Peace,Georgia
+2204,45+,1.0,Expats,No Degree,830,Peace,Georgia
+2205,18-24,2.0,Expats,No Degree,510,Peace,Georgia
+2206,25-44,2.0,Expats,No Degree,2600,Peace,Georgia
+2207,45+,2.0,Expats,No Degree,2200,Peace,Georgia
+2208,18-24,1.0,Expats,High School,490,Peace,Georgia
+2209,25-44,1.0,Expats,High School,1400,Peace,Georgia
+2210,45+,1.0,Expats,High School,540,Peace,Georgia
+2211,18-24,2.0,Expats,High School,910,Peace,Georgia
+2212,25-44,2.0,Expats,High School,2000,Peace,Georgia
+2213,45+,2.0,Expats,High School,1100,Peace,Georgia
+2214,18-24,1.0,Locals,Graduated,1800,Peace,Georgia
+2215,25-44,1.0,Locals,Graduated,10000,Peace,Georgia
+2216,45+,1.0,Locals,Graduated,15000,Peace,Georgia
+2217,18-24,2.0,Locals,Graduated,4700,Peace,Georgia
+2218,25-44,2.0,Locals,Graduated,36000,Peace,Georgia
+2219,45+,2.0,Locals,Graduated,50000,Peace,Georgia
+2220,18-24,1.0,Locals,No Degree,900,Peace,Georgia
+2221,25-44,1.0,Locals,No Degree,2600,Peace,Georgia
+2222,45+,1.0,Locals,No Degree,5700,Peace,Georgia
+2223,18-24,2.0,Locals,No Degree,2500,Peace,Georgia
+2224,25-44,2.0,Locals,No Degree,7800,Peace,Georgia
+2225,45+,2.0,Locals,No Degree,19000,Peace,Georgia
+2226,18-24,1.0,Locals,High School,1900,Peace,Georgia
+2227,25-44,1.0,Locals,High School,6000,Peace,Georgia
+2228,45+,1.0,Locals,High School,8400,Peace,Georgia
+2229,18-24,2.0,Locals,High School,7700,Peace,Georgia
+2230,25-44,2.0,Locals,High School,22000,Peace,Georgia
+2231,45+,2.0,Locals,High School,34000,Peace,Georgia
+2232,18-24,1.0,Expats,Graduated,130,Peace,Hawaii
+2233,25-44,1.0,Expats,Graduated,610,Peace,Hawaii
+2234,45+,1.0,Expats,Graduated,740,Peace,Hawaii
+2235,18-24,2.0,Expats,Graduated,190,Peace,Hawaii
+2236,25-44,2.0,Expats,Graduated,1300,Peace,Hawaii
+2237,45+,2.0,Expats,Graduated,1400,Peace,Hawaii
+2238,18-24,1.0,Expats,No Degree,90,Peace,Hawaii
+2239,25-44,1.0,Expats,No Degree,390,Peace,Hawaii
+2240,45+,1.0,Expats,No Degree,330,Peace,Hawaii
+2241,18-24,2.0,Expats,No Degree,100,Peace,Hawaii
+2242,25-44,2.0,Expats,No Degree,530,Peace,Hawaii
+2243,45+,2.0,Expats,No Degree,990,Peace,Hawaii
+2244,18-24,1.0,Expats,High School,150,Peace,Hawaii
+2245,25-44,1.0,Expats,High School,280,Peace,Hawaii
+2246,45+,1.0,Expats,High School,330,Peace,Hawaii
+2247,18-24,2.0,Expats,High School,320,Peace,Hawaii
+2248,25-44,2.0,Expats,High School,510,Peace,Hawaii
+2249,45+,2.0,Expats,High School,600,Peace,Hawaii
+2250,18-24,1.0,Locals,Graduated,310,Peace,Hawaii
+2251,25-44,1.0,Locals,Graduated,2000,Peace,Hawaii
+2252,45+,1.0,Locals,Graduated,2400,Peace,Hawaii
+2253,18-24,2.0,Locals,Graduated,610,Peace,Hawaii
+2254,25-44,2.0,Locals,Graduated,4300,Peace,Hawaii
+2255,45+,2.0,Locals,Graduated,5100,Peace,Hawaii
+2256,18-24,1.0,Locals,No Degree,100,Peace,Hawaii
+2257,25-44,1.0,Locals,No Degree,450,Peace,Hawaii
+2258,45+,1.0,Locals,No Degree,800,Peace,Hawaii
+2259,18-24,2.0,Locals,No Degree,260,Peace,Hawaii
+2260,25-44,2.0,Locals,No Degree,1100,Peace,Hawaii
+2261,45+,2.0,Locals,No Degree,2100,Peace,Hawaii
+2262,18-24,1.0,Locals,High School,560,Peace,Hawaii
+2263,25-44,1.0,Locals,High School,1100,Peace,Hawaii
+2264,45+,1.0,Locals,High School,1100,Peace,Hawaii
+2265,18-24,2.0,Locals,High School,920,Peace,Hawaii
+2266,25-44,2.0,Locals,High School,2400,Peace,Hawaii
+2267,45+,2.0,Locals,High School,2900,Peace,Hawaii
+2268,18-24,1.0,Expats,Graduated,80,Peace,Idaho
+2269,25-44,1.0,Expats,Graduated,190,Peace,Idaho
+2270,45+,1.0,Expats,Graduated,80,Peace,Idaho
+2271,18-24,2.0,Expats,Graduated,90,Peace,Idaho
+2272,25-44,2.0,Expats,Graduated,450,Peace,Idaho
+2273,45+,2.0,Expats,Graduated,280,Peace,Idaho
+2274,18-24,1.0,Expats,No Degree,20,Peace,Idaho
+2275,25-44,1.0,Expats,No Degree,130,Peace,Idaho
+2276,45+,1.0,Expats,No Degree,40,Peace,Idaho
+2277,18-24,2.0,Expats,No Degree,40,Peace,Idaho
+2278,25-44,2.0,Expats,No Degree,220,Peace,Idaho
+2279,45+,2.0,Expats,No Degree,170,Peace,Idaho
+2280,18-24,1.0,Expats,High School,50,Peace,Idaho
+2281,25-44,1.0,Expats,High School,90,Peace,Idaho
+2282,45+,1.0,Expats,High School,20,Peace,Idaho
+2283,18-24,2.0,Expats,High School,110,Peace,Idaho
+2284,25-44,2.0,Expats,High School,130,Peace,Idaho
+2285,45+,2.0,Expats,High School,170,Peace,Idaho
+2286,18-24,1.0,Locals,Graduated,280,Peace,Idaho
+2287,25-44,1.0,Locals,Graduated,1400,Peace,Idaho
+2288,45+,1.0,Locals,Graduated,2700,Peace,Idaho
+2289,18-24,2.0,Locals,Graduated,1200,Peace,Idaho
+2290,25-44,2.0,Locals,Graduated,6000,Peace,Idaho
+2291,45+,2.0,Locals,Graduated,8700,Peace,Idaho
+2292,18-24,1.0,Locals,No Degree,180,Peace,Idaho
+2293,25-44,1.0,Locals,No Degree,360,Peace,Idaho
+2294,45+,1.0,Locals,No Degree,830,Peace,Idaho
+2295,18-24,2.0,Locals,No Degree,920,Peace,Idaho
+2296,25-44,2.0,Locals,No Degree,1400,Peace,Idaho
+2297,45+,2.0,Locals,No Degree,3000,Peace,Idaho
+2298,18-24,1.0,Locals,High School,480,Peace,Idaho
+2299,25-44,1.0,Locals,High School,1100,Peace,Idaho
+2300,45+,1.0,Locals,High School,1400,Peace,Idaho
+2301,18-24,2.0,Locals,High School,2000,Peace,Idaho
+2302,25-44,2.0,Locals,High School,3700,Peace,Idaho
+2303,45+,2.0,Locals,High School,5500,Peace,Idaho
+2304,18-24,1.0,Expats,Graduated,720,Peace,Illinois
+2305,25-44,1.0,Expats,Graduated,4500,Peace,Illinois
+2306,45+,1.0,Expats,Graduated,2900,Peace,Illinois
+2307,18-24,2.0,Expats,Graduated,860,Peace,Illinois
+2308,25-44,2.0,Expats,Graduated,6600,Peace,Illinois
+2309,45+,2.0,Expats,Graduated,4300,Peace,Illinois
+2310,18-24,1.0,Expats,No Degree,450,Peace,Illinois
+2311,25-44,1.0,Expats,No Degree,2800,Peace,Illinois
+2312,45+,1.0,Expats,No Degree,1800,Peace,Illinois
+2313,18-24,2.0,Expats,No Degree,670,Peace,Illinois
+2314,25-44,2.0,Expats,No Degree,3700,Peace,Illinois
+2315,45+,2.0,Expats,No Degree,3800,Peace,Illinois
+2316,18-24,1.0,Expats,High School,570,Peace,Illinois
+2317,25-44,1.0,Expats,High School,1800,Peace,Illinois
+2318,45+,1.0,Expats,High School,860,Peace,Illinois
+2319,18-24,2.0,Expats,High School,1100,Peace,Illinois
+2320,25-44,2.0,Expats,High School,2600,Peace,Illinois
+2321,45+,2.0,Expats,High School,1900,Peace,Illinois
+2322,18-24,1.0,Locals,Graduated,2900,Peace,Illinois
+2323,25-44,1.0,Locals,Graduated,13000,Peace,Illinois
+2324,45+,1.0,Locals,Graduated,16000,Peace,Illinois
+2325,18-24,2.0,Locals,Graduated,6800,Peace,Illinois
+2326,25-44,2.0,Locals,Graduated,44000,Peace,Illinois
+2327,45+,2.0,Locals,Graduated,55000,Peace,Illinois
+2328,18-24,1.0,Locals,No Degree,1500,Peace,Illinois
+2329,25-44,1.0,Locals,No Degree,3400,Peace,Illinois
+2330,45+,1.0,Locals,No Degree,5500,Peace,Illinois
+2331,18-24,2.0,Locals,No Degree,4200,Peace,Illinois
+2332,25-44,2.0,Locals,No Degree,9000,Peace,Illinois
+2333,45+,2.0,Locals,No Degree,19000,Peace,Illinois
+2334,18-24,1.0,Locals,High School,3400,Peace,Illinois
+2335,25-44,1.0,Locals,High School,7800,Peace,Illinois
+2336,45+,1.0,Locals,High School,8900,Peace,Illinois
+2337,18-24,2.0,Locals,High School,12000,Peace,Illinois
+2338,25-44,2.0,Locals,High School,21000,Peace,Illinois
+2339,45+,2.0,Locals,High School,32000,Peace,Illinois
+2340,18-24,1.0,Expats,Graduated,180,Peace,Indiana
+2341,25-44,1.0,Expats,Graduated,1200,Peace,Indiana
+2342,45+,1.0,Expats,Graduated,620,Peace,Indiana
+2343,18-24,2.0,Expats,Graduated,210,Peace,Indiana
+2344,25-44,2.0,Expats,Graduated,1500,Peace,Indiana
+2345,45+,2.0,Expats,Graduated,1000,Peace,Indiana
+2346,18-24,1.0,Expats,No Degree,250,Peace,Indiana
+2347,25-44,1.0,Expats,No Degree,1100,Peace,Indiana
+2348,45+,1.0,Expats,No Degree,330,Peace,Indiana
+2349,18-24,2.0,Expats,No Degree,230,Peace,Indiana
+2350,25-44,2.0,Expats,No Degree,720,Peace,Indiana
+2351,45+,2.0,Expats,No Degree,710,Peace,Indiana
+2352,18-24,1.0,Expats,High School,270,Peace,Indiana
+2353,25-44,1.0,Expats,High School,540,Peace,Indiana
+2354,45+,1.0,Expats,High School,180,Peace,Indiana
+2355,18-24,2.0,Expats,High School,360,Peace,Indiana
+2356,25-44,2.0,Expats,High School,540,Peace,Indiana
+2357,45+,2.0,Expats,High School,520,Peace,Indiana
+2358,18-24,1.0,Locals,Graduated,1400,Peace,Indiana
+2359,25-44,1.0,Locals,Graduated,7000,Peace,Indiana
+2360,45+,1.0,Locals,Graduated,12000,Peace,Indiana
+2361,18-24,2.0,Locals,Graduated,3900,Peace,Indiana
+2362,25-44,2.0,Locals,Graduated,28000,Peace,Indiana
+2363,45+,2.0,Locals,Graduated,37000,Peace,Indiana
+2364,18-24,1.0,Locals,No Degree,850,Peace,Indiana
+2365,25-44,1.0,Locals,No Degree,2200,Peace,Indiana
+2366,45+,1.0,Locals,No Degree,3900,Peace,Indiana
+2367,18-24,2.0,Locals,No Degree,2600,Peace,Indiana
+2368,25-44,2.0,Locals,No Degree,5800,Peace,Indiana
+2369,45+,2.0,Locals,No Degree,14000,Peace,Indiana
+2370,18-24,1.0,Locals,High School,2000,Peace,Indiana
+2371,25-44,1.0,Locals,High School,5300,Peace,Indiana
+2372,45+,1.0,Locals,High School,8200,Peace,Indiana
+2373,18-24,2.0,Locals,High School,7700,Peace,Indiana
+2374,25-44,2.0,Locals,High School,19000,Peace,Indiana
+2375,45+,2.0,Locals,High School,30000,Peace,Indiana
+2376,18-24,1.0,Expats,Graduated,140,Peace,Iowa
+2377,25-44,1.0,Expats,Graduated,540,Peace,Iowa
+2378,45+,1.0,Expats,Graduated,270,Peace,Iowa
+2379,18-24,2.0,Expats,Graduated,130,Peace,Iowa
+2380,25-44,2.0,Expats,Graduated,780,Peace,Iowa
+2381,45+,2.0,Expats,Graduated,480,Peace,Iowa
+2382,18-24,1.0,Expats,No Degree,70,Peace,Iowa
+2383,25-44,1.0,Expats,No Degree,370,Peace,Iowa
+2384,45+,1.0,Expats,No Degree,150,Peace,Iowa
+2385,18-24,2.0,Expats,No Degree,90,Peace,Iowa
+2386,25-44,2.0,Expats,No Degree,300,Peace,Iowa
+2387,45+,2.0,Expats,No Degree,180,Peace,Iowa
+2388,18-24,1.0,Expats,High School,80,Peace,Iowa
+2389,25-44,1.0,Expats,High School,200,Peace,Iowa
+2390,45+,1.0,Expats,High School,20,Peace,Iowa
+2391,18-24,2.0,Expats,High School,250,Peace,Iowa
+2392,25-44,2.0,Expats,High School,270,Peace,Iowa
+2393,45+,2.0,Expats,High School,150,Peace,Iowa
+2394,18-24,1.0,Locals,Graduated,560,Peace,Iowa
+2395,25-44,1.0,Locals,Graduated,3000,Peace,Iowa
+2396,45+,1.0,Locals,Graduated,4400,Peace,Iowa
+2397,18-24,2.0,Locals,Graduated,1800,Peace,Iowa
+2398,25-44,2.0,Locals,Graduated,12000,Peace,Iowa
+2399,45+,2.0,Locals,Graduated,16000,Peace,Iowa
+2400,18-24,1.0,Locals,No Degree,260,Peace,Iowa
+2401,25-44,1.0,Locals,No Degree,620,Peace,Iowa
+2402,45+,1.0,Locals,No Degree,1200,Peace,Iowa
+2403,18-24,2.0,Locals,No Degree,920,Peace,Iowa
+2404,25-44,2.0,Locals,No Degree,2000,Peace,Iowa
+2405,45+,2.0,Locals,No Degree,4900,Peace,Iowa
+2406,18-24,1.0,Locals,High School,840,Peace,Iowa
+2407,25-44,1.0,Locals,High School,1800,Peace,Iowa
+2408,45+,1.0,Locals,High School,2700,Peace,Iowa
+2409,18-24,2.0,Locals,High School,3400,Peace,Iowa
+2410,25-44,2.0,Locals,High School,5800,Peace,Iowa
+2411,45+,2.0,Locals,High School,10000,Peace,Iowa
+2412,18-24,1.0,Expats,Graduated,160,Peace,Kansas
+2413,25-44,1.0,Expats,Graduated,630,Peace,Kansas
+2414,45+,1.0,Expats,Graduated,300,Peace,Kansas
+2415,18-24,2.0,Expats,Graduated,110,Peace,Kansas
+2416,25-44,2.0,Expats,Graduated,860,Peace,Kansas
+2417,45+,2.0,Expats,Graduated,550,Peace,Kansas
+2418,18-24,1.0,Expats,No Degree,90,Peace,Kansas
+2419,25-44,1.0,Expats,No Degree,520,Peace,Kansas
+2420,45+,1.0,Expats,No Degree,200,Peace,Kansas
+2421,18-24,2.0,Expats,No Degree,190,Peace,Kansas
+2422,25-44,2.0,Expats,No Degree,540,Peace,Kansas
+2423,45+,2.0,Expats,No Degree,370,Peace,Kansas
+2424,18-24,1.0,Expats,High School,170,Peace,Kansas
+2425,25-44,1.0,Expats,High School,230,Peace,Kansas
+2426,45+,1.0,Expats,High School,80,Peace,Kansas
+2427,18-24,2.0,Expats,High School,240,Peace,Kansas
+2428,25-44,2.0,Expats,High School,530,Peace,Kansas
+2429,45+,2.0,Expats,High School,250,Peace,Kansas
+2430,18-24,1.0,Locals,Graduated,640,Peace,Kansas
+2431,25-44,1.0,Locals,Graduated,3200,Peace,Kansas
+2432,45+,1.0,Locals,Graduated,5500,Peace,Kansas
+2433,18-24,2.0,Locals,Graduated,2100,Peace,Kansas
+2434,25-44,2.0,Locals,Graduated,13000,Peace,Kansas
+2435,45+,2.0,Locals,Graduated,17000,Peace,Kansas
+2436,18-24,1.0,Locals,No Degree,300,Peace,Kansas
+2437,25-44,1.0,Locals,No Degree,960,Peace,Kansas
+2438,45+,1.0,Locals,No Degree,1700,Peace,Kansas
+2439,18-24,2.0,Locals,No Degree,1200,Peace,Kansas
+2440,25-44,2.0,Locals,No Degree,2500,Peace,Kansas
+2441,45+,2.0,Locals,No Degree,5000,Peace,Kansas
+2442,18-24,1.0,Locals,High School,840,Peace,Kansas
+2443,25-44,1.0,Locals,High School,1900,Peace,Kansas
+2444,45+,1.0,Locals,High School,2500,Peace,Kansas
+2445,18-24,2.0,Locals,High School,4300,Peace,Kansas
+2446,25-44,2.0,Locals,High School,7000,Peace,Kansas
+2447,45+,2.0,Locals,High School,10000,Peace,Kansas
+2448,18-24,1.0,Expats,Graduated,170,Peace,Kentucky
+2449,25-44,1.0,Expats,Graduated,880,Peace,Kentucky
+2450,45+,1.0,Expats,Graduated,380,Peace,Kentucky
+2451,18-24,2.0,Expats,Graduated,140,Peace,Kentucky
+2452,25-44,2.0,Expats,Graduated,900,Peace,Kentucky
+2453,45+,2.0,Expats,Graduated,520,Peace,Kentucky
+2454,18-24,1.0,Expats,No Degree,100,Peace,Kentucky
+2455,25-44,1.0,Expats,No Degree,450,Peace,Kentucky
+2456,45+,1.0,Expats,No Degree,160,Peace,Kentucky
+2457,18-24,2.0,Expats,No Degree,60,Peace,Kentucky
+2458,25-44,2.0,Expats,No Degree,480,Peace,Kentucky
+2459,45+,2.0,Expats,No Degree,310,Peace,Kentucky
+2460,18-24,1.0,Expats,High School,60,Peace,Kentucky
+2461,25-44,1.0,Expats,High School,270,Peace,Kentucky
+2462,45+,1.0,Expats,High School,140,Peace,Kentucky
+2463,18-24,2.0,Expats,High School,170,Peace,Kentucky
+2464,25-44,2.0,Expats,High School,310,Peace,Kentucky
+2465,45+,2.0,Expats,High School,150,Peace,Kentucky
+2466,18-24,1.0,Locals,Graduated,810,Peace,Kentucky
+2467,25-44,1.0,Locals,Graduated,5000,Peace,Kentucky
+2468,45+,1.0,Locals,Graduated,8300,Peace,Kentucky
+2469,18-24,2.0,Locals,Graduated,2500,Peace,Kentucky
+2470,25-44,2.0,Locals,Graduated,20000,Peace,Kentucky
+2471,45+,2.0,Locals,Graduated,27000,Peace,Kentucky
+2472,18-24,1.0,Locals,No Degree,470,Peace,Kentucky
+2473,25-44,1.0,Locals,No Degree,1400,Peace,Kentucky
+2474,45+,1.0,Locals,No Degree,3200,Peace,Kentucky
+2475,18-24,2.0,Locals,No Degree,1600,Peace,Kentucky
+2476,25-44,2.0,Locals,No Degree,4600,Peace,Kentucky
+2477,45+,2.0,Locals,No Degree,11000,Peace,Kentucky
+2478,18-24,1.0,Locals,High School,1100,Peace,Kentucky
+2479,25-44,1.0,Locals,High School,4000,Peace,Kentucky
+2480,45+,1.0,Locals,High School,5900,Peace,Kentucky
+2481,18-24,2.0,Locals,High School,5100,Peace,Kentucky
+2482,25-44,2.0,Locals,High School,15000,Peace,Kentucky
+2483,45+,2.0,Locals,High School,21000,Peace,Kentucky
+2484,18-24,1.0,Expats,Graduated,200,Peace,Louisiana
+2485,25-44,1.0,Expats,Graduated,900,Peace,Louisiana
+2486,45+,1.0,Expats,Graduated,390,Peace,Louisiana
+2487,18-24,2.0,Expats,Graduated,230,Peace,Louisiana
+2488,25-44,2.0,Expats,Graduated,960,Peace,Louisiana
+2489,45+,2.0,Expats,Graduated,650,Peace,Louisiana
+2490,18-24,1.0,Expats,No Degree,150,Peace,Louisiana
+2491,25-44,1.0,Expats,No Degree,630,Peace,Louisiana
+2492,45+,1.0,Expats,No Degree,200,Peace,Louisiana
+2493,18-24,2.0,Expats,No Degree,120,Peace,Louisiana
+2494,25-44,2.0,Expats,No Degree,530,Peace,Louisiana
+2495,45+,2.0,Expats,No Degree,390,Peace,Louisiana
+2496,18-24,1.0,Expats,High School,180,Peace,Louisiana
+2497,25-44,1.0,Expats,High School,380,Peace,Louisiana
+2498,45+,1.0,Expats,High School,150,Peace,Louisiana
+2499,18-24,2.0,Expats,High School,200,Peace,Louisiana
+2500,25-44,2.0,Expats,High School,380,Peace,Louisiana
+2501,45+,2.0,Expats,High School,300,Peace,Louisiana
+2502,18-24,1.0,Locals,Graduated,820,Peace,Louisiana
+2503,25-44,1.0,Locals,Graduated,4600,Peace,Louisiana
+2504,45+,1.0,Locals,Graduated,7000,Peace,Louisiana
+2505,18-24,2.0,Locals,Graduated,2200,Peace,Louisiana
+2506,25-44,2.0,Locals,Graduated,18000,Peace,Louisiana
+2507,45+,2.0,Locals,Graduated,22000,Peace,Louisiana
+2508,18-24,1.0,Locals,No Degree,300,Peace,Louisiana
+2509,25-44,1.0,Locals,No Degree,1500,Peace,Louisiana
+2510,45+,1.0,Locals,No Degree,2700,Peace,Louisiana
+2511,18-24,2.0,Locals,No Degree,1300,Peace,Louisiana
+2512,25-44,2.0,Locals,No Degree,4500,Peace,Louisiana
+2513,45+,2.0,Locals,No Degree,10000,Peace,Louisiana
+2514,18-24,1.0,Locals,High School,910,Peace,Louisiana
+2515,25-44,1.0,Locals,High School,3100,Peace,Louisiana
+2516,45+,1.0,Locals,High School,4900,Peace,Louisiana
+2517,18-24,2.0,Locals,High School,3800,Peace,Louisiana
+2518,25-44,2.0,Locals,High School,12000,Peace,Louisiana
+2519,45+,2.0,Locals,High School,18000,Peace,Louisiana
+2520,18-24,1.0,Expats,Graduated,70,Peace,Maine
+2521,25-44,1.0,Expats,Graduated,170,Peace,Maine
+2522,45+,1.0,Expats,Graduated,90,Peace,Maine
+2523,18-24,2.0,Expats,Graduated,50,Peace,Maine
+2524,25-44,2.0,Expats,Graduated,290,Peace,Maine
+2525,45+,2.0,Expats,Graduated,370,Peace,Maine
+2526,18-24,1.0,Expats,No Degree,20,Peace,Maine
+2527,25-44,1.0,Expats,No Degree,20,Peace,Maine
+2528,45+,1.0,Expats,No Degree,20,Peace,Maine
+2529,18-24,2.0,Expats,No Degree,20,Peace,Maine
+2530,25-44,2.0,Expats,No Degree,100,Peace,Maine
+2531,45+,2.0,Expats,No Degree,180,Peace,Maine
+2532,18-24,1.0,Expats,High School,20,Peace,Maine
+2533,25-44,1.0,Expats,High School,80,Peace,Maine
+2534,45+,1.0,Expats,High School,30,Peace,Maine
+2535,18-24,2.0,Expats,High School,70,Peace,Maine
+2536,25-44,2.0,Expats,High School,100,Peace,Maine
+2537,45+,2.0,Expats,High School,120,Peace,Maine
+2538,18-24,1.0,Locals,Graduated,250,Peace,Maine
+2539,25-44,1.0,Locals,Graduated,1400,Peace,Maine
+2540,45+,1.0,Locals,Graduated,2600,Peace,Maine
+2541,18-24,2.0,Locals,Graduated,760,Peace,Maine
+2542,25-44,2.0,Locals,Graduated,6300,Peace,Maine
+2543,45+,2.0,Locals,Graduated,9900,Peace,Maine
+2544,18-24,1.0,Locals,No Degree,140,Peace,Maine
+2545,25-44,1.0,Locals,No Degree,370,Peace,Maine
+2546,45+,1.0,Locals,No Degree,860,Peace,Maine
+2547,18-24,2.0,Locals,No Degree,510,Peace,Maine
+2548,25-44,2.0,Locals,No Degree,1100,Peace,Maine
+2549,45+,2.0,Locals,No Degree,3200,Peace,Maine
+2550,18-24,1.0,Locals,High School,450,Peace,Maine
+2551,25-44,1.0,Locals,High School,1200,Peace,Maine
+2552,45+,1.0,Locals,High School,1600,Peace,Maine
+2553,18-24,2.0,Locals,High School,1700,Peace,Maine
+2554,25-44,2.0,Locals,High School,4100,Peace,Maine
+2555,45+,2.0,Locals,High School,5700,Peace,Maine
+2556,18-24,1.0,Expats,Graduated,690,Peace,Maryland
+2557,25-44,1.0,Expats,Graduated,3300,Peace,Maryland
+2558,45+,1.0,Expats,Graduated,1600,Peace,Maryland
+2559,18-24,2.0,Expats,Graduated,700,Peace,Maryland
+2560,25-44,2.0,Expats,Graduated,4000,Peace,Maryland
+2561,45+,2.0,Expats,Graduated,2800,Peace,Maryland
+2562,18-24,1.0,Expats,No Degree,480,Peace,Maryland
+2563,25-44,1.0,Expats,No Degree,1900,Peace,Maryland
+2564,45+,1.0,Expats,No Degree,890,Peace,Maryland
+2565,18-24,2.0,Expats,No Degree,450,Peace,Maryland
+2566,25-44,2.0,Expats,No Degree,1900,Peace,Maryland
+2567,45+,2.0,Expats,No Degree,1800,Peace,Maryland
+2568,18-24,1.0,Expats,High School,480,Peace,Maryland
+2569,25-44,1.0,Expats,High School,1200,Peace,Maryland
+2570,45+,1.0,Expats,High School,630,Peace,Maryland
+2571,18-24,2.0,Expats,High School,570,Peace,Maryland
+2572,25-44,2.0,Expats,High School,1300,Peace,Maryland
+2573,45+,2.0,Expats,High School,920,Peace,Maryland
+2574,18-24,1.0,Locals,Graduated,900,Peace,Maryland
+2575,25-44,1.0,Locals,Graduated,5900,Peace,Maryland
+2576,45+,1.0,Locals,Graduated,7900,Peace,Maryland
+2577,18-24,2.0,Locals,Graduated,2300,Peace,Maryland
+2578,25-44,2.0,Locals,Graduated,19000,Peace,Maryland
+2579,45+,2.0,Locals,Graduated,25000,Peace,Maryland
+2580,18-24,1.0,Locals,No Degree,420,Peace,Maryland
+2581,25-44,1.0,Locals,No Degree,1400,Peace,Maryland
+2582,45+,1.0,Locals,No Degree,2700,Peace,Maryland
+2583,18-24,2.0,Locals,No Degree,970,Peace,Maryland
+2584,25-44,2.0,Locals,No Degree,3500,Peace,Maryland
+2585,45+,2.0,Locals,No Degree,8700,Peace,Maryland
+2586,18-24,1.0,Locals,High School,1200,Peace,Maryland
+2587,25-44,1.0,Locals,High School,3400,Peace,Maryland
+2588,45+,1.0,Locals,High School,4400,Peace,Maryland
+2589,18-24,2.0,Locals,High School,3400,Peace,Maryland
+2590,25-44,2.0,Locals,High School,8700,Peace,Maryland
+2591,45+,2.0,Locals,High School,15000,Peace,Maryland
+2592,18-24,1.0,Expats,Graduated,690,Peace,Massachusetts
+2593,25-44,1.0,Expats,Graduated,3100,Peace,Massachusetts
+2594,45+,1.0,Expats,Graduated,1500,Peace,Massachusetts
+2595,18-24,2.0,Expats,Graduated,870,Peace,Massachusetts
+2596,25-44,2.0,Expats,Graduated,5100,Peace,Massachusetts
+2597,45+,2.0,Expats,Graduated,3300,Peace,Massachusetts
+2598,18-24,1.0,Expats,No Degree,450,Peace,Massachusetts
+2599,25-44,1.0,Expats,No Degree,1500,Peace,Massachusetts
+2600,45+,1.0,Expats,No Degree,980,Peace,Massachusetts
+2601,18-24,2.0,Expats,No Degree,620,Peace,Massachusetts
+2602,25-44,2.0,Expats,No Degree,2200,Peace,Massachusetts
+2603,45+,2.0,Expats,No Degree,2600,Peace,Massachusetts
+2604,18-24,1.0,Expats,High School,630,Peace,Massachusetts
+2605,25-44,1.0,Expats,High School,1200,Peace,Massachusetts
+2606,45+,1.0,Expats,High School,560,Peace,Massachusetts
+2607,18-24,2.0,Expats,High School,1000,Peace,Massachusetts
+2608,25-44,2.0,Expats,High School,2000,Peace,Massachusetts
+2609,45+,2.0,Expats,High School,1300,Peace,Massachusetts
+2610,18-24,1.0,Locals,Graduated,1200,Peace,Massachusetts
+2611,25-44,1.0,Locals,Graduated,6600,Peace,Massachusetts
+2612,45+,1.0,Locals,Graduated,8700,Peace,Massachusetts
+2613,18-24,2.0,Locals,Graduated,3100,Peace,Massachusetts
+2614,25-44,2.0,Locals,Graduated,23000,Peace,Massachusetts
+2615,45+,2.0,Locals,Graduated,29000,Peace,Massachusetts
+2616,18-24,1.0,Locals,No Degree,470,Peace,Massachusetts
+2617,25-44,1.0,Locals,No Degree,1300,Peace,Massachusetts
+2618,45+,1.0,Locals,No Degree,2900,Peace,Massachusetts
+2619,18-24,2.0,Locals,No Degree,1400,Peace,Massachusetts
+2620,25-44,2.0,Locals,No Degree,4000,Peace,Massachusetts
+2621,45+,2.0,Locals,No Degree,9100,Peace,Massachusetts
+2622,18-24,1.0,Locals,High School,1800,Peace,Massachusetts
+2623,25-44,1.0,Locals,High School,3200,Peace,Massachusetts
+2624,45+,1.0,Locals,High School,4400,Peace,Massachusetts
+2625,18-24,2.0,Locals,High School,5800,Peace,Massachusetts
+2626,25-44,2.0,Locals,High School,9100,Peace,Massachusetts
+2627,45+,2.0,Locals,High School,14000,Peace,Massachusetts
+2628,18-24,1.0,Expats,Graduated,410,Peace,Michigan
+2629,25-44,1.0,Expats,Graduated,1800,Peace,Michigan
+2630,45+,1.0,Expats,Graduated,1100,Peace,Michigan
+2631,18-24,2.0,Expats,Graduated,410,Peace,Michigan
+2632,25-44,2.0,Expats,Graduated,2100,Peace,Michigan
+2633,45+,2.0,Expats,Graduated,1800,Peace,Michigan
+2634,18-24,1.0,Expats,No Degree,290,Peace,Michigan
+2635,25-44,1.0,Expats,No Degree,980,Peace,Michigan
+2636,45+,1.0,Expats,No Degree,770,Peace,Michigan
+2637,18-24,2.0,Expats,No Degree,230,Peace,Michigan
+2638,25-44,2.0,Expats,No Degree,1100,Peace,Michigan
+2639,45+,2.0,Expats,No Degree,1200,Peace,Michigan
+2640,18-24,1.0,Expats,High School,380,Peace,Michigan
+2641,25-44,1.0,Expats,High School,650,Peace,Michigan
+2642,45+,1.0,Expats,High School,330,Peace,Michigan
+2643,18-24,2.0,Expats,High School,540,Peace,Michigan
+2644,25-44,2.0,Expats,High School,880,Peace,Michigan
+2645,45+,2.0,Expats,High School,510,Peace,Michigan
+2646,18-24,1.0,Locals,Graduated,1800,Peace,Michigan
+2647,25-44,1.0,Locals,Graduated,9800,Peace,Michigan
+2648,45+,1.0,Locals,Graduated,16000,Peace,Michigan
+2649,18-24,2.0,Locals,Graduated,5500,Peace,Michigan
+2650,25-44,2.0,Locals,Graduated,37000,Peace,Michigan
+2651,45+,2.0,Locals,Graduated,53000,Peace,Michigan
+2652,18-24,1.0,Locals,No Degree,980,Peace,Michigan
+2653,25-44,1.0,Locals,No Degree,2700,Peace,Michigan
+2654,45+,1.0,Locals,No Degree,5100,Peace,Michigan
+2655,18-24,2.0,Locals,No Degree,3200,Peace,Michigan
+2656,25-44,2.0,Locals,No Degree,8100,Peace,Michigan
+2657,45+,2.0,Locals,No Degree,18000,Peace,Michigan
+2658,18-24,1.0,Locals,High School,2600,Peace,Michigan
+2659,25-44,1.0,Locals,High School,6800,Peace,Michigan
+2660,45+,1.0,Locals,High School,9600,Peace,Michigan
+2661,18-24,2.0,Locals,High School,10000,Peace,Michigan
+2662,25-44,2.0,Locals,High School,23000,Peace,Michigan
+2663,45+,2.0,Locals,High School,37000,Peace,Michigan
+2664,18-24,1.0,Expats,Graduated,410,Peace,Minnesota
+2665,25-44,1.0,Expats,Graduated,1700,Peace,Minnesota
+2666,45+,1.0,Expats,Graduated,620,Peace,Minnesota
+2667,18-24,2.0,Expats,Graduated,460,Peace,Minnesota
+2668,25-44,2.0,Expats,Graduated,1800,Peace,Minnesota
+2669,45+,2.0,Expats,Graduated,890,Peace,Minnesota
+2670,18-24,1.0,Expats,No Degree,240,Peace,Minnesota
+2671,25-44,1.0,Expats,No Degree,790,Peace,Minnesota
+2672,45+,1.0,Expats,No Degree,430,Peace,Minnesota
+2673,18-24,2.0,Expats,No Degree,290,Peace,Minnesota
+2674,25-44,2.0,Expats,No Degree,880,Peace,Minnesota
+2675,45+,2.0,Expats,No Degree,580,Peace,Minnesota
+2676,18-24,1.0,Expats,High School,370,Peace,Minnesota
+2677,25-44,1.0,Expats,High School,650,Peace,Minnesota
+2678,45+,1.0,Expats,High School,260,Peace,Minnesota
+2679,18-24,2.0,Expats,High School,460,Peace,Minnesota
+2680,25-44,2.0,Expats,High School,560,Peace,Minnesota
+2681,45+,2.0,Expats,High School,440,Peace,Minnesota
+2682,18-24,1.0,Locals,Graduated,1000,Peace,Minnesota
+2683,25-44,1.0,Locals,Graduated,4700,Peace,Minnesota
+2684,45+,1.0,Locals,Graduated,6300,Peace,Minnesota
+2685,18-24,2.0,Locals,Graduated,2800,Peace,Minnesota
+2686,25-44,2.0,Locals,Graduated,17000,Peace,Minnesota
+2687,45+,2.0,Locals,Graduated,23000,Peace,Minnesota
+2688,18-24,1.0,Locals,No Degree,510,Peace,Minnesota
+2689,25-44,1.0,Locals,No Degree,1200,Peace,Minnesota
+2690,45+,1.0,Locals,No Degree,1900,Peace,Minnesota
+2691,18-24,2.0,Locals,No Degree,1600,Peace,Minnesota
+2692,25-44,2.0,Locals,No Degree,3300,Peace,Minnesota
+2693,45+,2.0,Locals,No Degree,7100,Peace,Minnesota
+2694,18-24,1.0,Locals,High School,1400,Peace,Minnesota
+2695,25-44,1.0,Locals,High School,2600,Peace,Minnesota
+2696,45+,1.0,Locals,High School,3000,Peace,Minnesota
+2697,18-24,2.0,Locals,High School,5000,Peace,Minnesota
+2698,25-44,2.0,Locals,High School,8300,Peace,Minnesota
+2699,45+,2.0,Locals,High School,13000,Peace,Minnesota
+2700,18-24,1.0,Expats,Graduated,90,Peace,Mississippi
+2701,25-44,1.0,Expats,Graduated,380,Peace,Mississippi
+2702,45+,1.0,Expats,Graduated,130,Peace,Mississippi
+2703,18-24,2.0,Expats,Graduated,90,Peace,Mississippi
+2704,25-44,2.0,Expats,Graduated,310,Peace,Mississippi
+2705,45+,2.0,Expats,Graduated,260,Peace,Mississippi
+2706,18-24,1.0,Expats,No Degree,40,Peace,Mississippi
+2707,25-44,1.0,Expats,No Degree,220,Peace,Mississippi
+2708,45+,1.0,Expats,No Degree,90,Peace,Mississippi
+2709,18-24,2.0,Expats,No Degree,30,Peace,Mississippi
+2710,25-44,2.0,Expats,No Degree,260,Peace,Mississippi
+2711,45+,2.0,Expats,No Degree,190,Peace,Mississippi
+2712,18-24,1.0,Expats,High School,60,Peace,Mississippi
+2713,25-44,1.0,Expats,High School,130,Peace,Mississippi
+2714,45+,1.0,Expats,High School,70,Peace,Mississippi
+2715,18-24,2.0,Expats,High School,100,Peace,Mississippi
+2716,25-44,2.0,Expats,High School,120,Peace,Mississippi
+2717,45+,2.0,Expats,High School,120,Peace,Mississippi
+2718,18-24,1.0,Locals,Graduated,670,Peace,Mississippi
+2719,25-44,1.0,Locals,Graduated,2700,Peace,Mississippi
+2720,45+,1.0,Locals,Graduated,4400,Peace,Mississippi
+2721,18-24,2.0,Locals,Graduated,1700,Peace,Mississippi
+2722,25-44,2.0,Locals,Graduated,12000,Peace,Mississippi
+2723,45+,2.0,Locals,Graduated,17000,Peace,Mississippi
+2724,18-24,1.0,Locals,No Degree,390,Peace,Mississippi
+2725,25-44,1.0,Locals,No Degree,840,Peace,Mississippi
+2726,45+,1.0,Locals,No Degree,1600,Peace,Mississippi
+2727,18-24,2.0,Locals,No Degree,810,Peace,Mississippi
+2728,25-44,2.0,Locals,No Degree,2800,Peace,Mississippi
+2729,45+,2.0,Locals,No Degree,7300,Peace,Mississippi
+2730,18-24,1.0,Locals,High School,680,Peace,Mississippi
+2731,25-44,1.0,Locals,High School,1900,Peace,Mississippi
+2732,45+,1.0,Locals,High School,2900,Peace,Mississippi
+2733,18-24,2.0,Locals,High School,3000,Peace,Mississippi
+2734,25-44,2.0,Locals,High School,7600,Peace,Mississippi
+2735,45+,2.0,Locals,High School,12000,Peace,Mississippi
+2736,18-24,1.0,Expats,Graduated,220,Peace,Missouri
+2737,25-44,1.0,Expats,Graduated,790,Peace,Missouri
+2738,45+,1.0,Expats,Graduated,330,Peace,Missouri
+2739,18-24,2.0,Expats,Graduated,170,Peace,Missouri
+2740,25-44,2.0,Expats,Graduated,1200,Peace,Missouri
+2741,45+,2.0,Expats,Graduated,790,Peace,Missouri
+2742,18-24,1.0,Expats,No Degree,150,Peace,Missouri
+2743,25-44,1.0,Expats,No Degree,520,Peace,Missouri
+2744,45+,1.0,Expats,No Degree,200,Peace,Missouri
+2745,18-24,2.0,Expats,No Degree,100,Peace,Missouri
+2746,25-44,2.0,Expats,No Degree,520,Peace,Missouri
+2747,45+,2.0,Expats,No Degree,430,Peace,Missouri
+2748,18-24,1.0,Expats,High School,250,Peace,Missouri
+2749,25-44,1.0,Expats,High School,380,Peace,Missouri
+2750,45+,1.0,Expats,High School,110,Peace,Missouri
+2751,18-24,2.0,Expats,High School,320,Peace,Missouri
+2752,25-44,2.0,Expats,High School,400,Peace,Missouri
+2753,45+,2.0,Expats,High School,330,Peace,Missouri
+2754,18-24,1.0,Locals,Graduated,1300,Peace,Missouri
+2755,25-44,1.0,Locals,Graduated,6700,Peace,Missouri
+2756,45+,1.0,Locals,Graduated,11000,Peace,Missouri
+2757,18-24,2.0,Locals,Graduated,4100,Peace,Missouri
+2758,25-44,2.0,Locals,Graduated,24000,Peace,Missouri
+2759,45+,2.0,Locals,Graduated,34000,Peace,Missouri
+2760,18-24,1.0,Locals,No Degree,720,Peace,Missouri
+2761,25-44,1.0,Locals,No Degree,1700,Peace,Missouri
+2762,45+,1.0,Locals,No Degree,3700,Peace,Missouri
+2763,18-24,2.0,Locals,No Degree,2700,Peace,Missouri
+2764,25-44,2.0,Locals,No Degree,5500,Peace,Missouri
+2765,45+,2.0,Locals,No Degree,13000,Peace,Missouri
+2766,18-24,1.0,Locals,High School,1800,Peace,Missouri
+2767,25-44,1.0,Locals,High School,4800,Peace,Missouri
+2768,45+,1.0,Locals,High School,7300,Peace,Missouri
+2769,18-24,2.0,Locals,High School,7900,Peace,Missouri
+2770,25-44,2.0,Locals,High School,17000,Peace,Missouri
+2771,45+,2.0,Locals,High School,26000,Peace,Missouri
+2772,18-24,1.0,Expats,Graduated,20,Peace,Montana
+2773,25-44,1.0,Expats,Graduated,60,Peace,Montana
+2774,45+,1.0,Expats,Graduated,80,Peace,Montana
+2775,18-24,2.0,Expats,Graduated,20,Peace,Montana
+2776,25-44,2.0,Expats,Graduated,100,Peace,Montana
+2777,45+,2.0,Expats,Graduated,180,Peace,Montana
+2778,18-24,1.0,Expats,No Degree,20,Peace,Montana
+2779,25-44,1.0,Expats,No Degree,30,Peace,Montana
+2780,45+,1.0,Expats,No Degree,20,Peace,Montana
+2781,18-24,2.0,Expats,No Degree,20,Peace,Montana
+2782,25-44,2.0,Expats,No Degree,80,Peace,Montana
+2783,45+,2.0,Expats,No Degree,50,Peace,Montana
+2784,18-24,1.0,Expats,High School,20,Peace,Montana
+2785,25-44,1.0,Expats,High School,40,Peace,Montana
+2786,45+,1.0,Expats,High School,20,Peace,Montana
+2787,18-24,2.0,Expats,High School,20,Peace,Montana
+2788,25-44,2.0,Expats,High School,40,Peace,Montana
+2789,45+,2.0,Expats,High School,50,Peace,Montana
+2790,18-24,1.0,Locals,Graduated,420,Peace,Montana
+2791,25-44,1.0,Locals,Graduated,1500,Peace,Montana
+2792,45+,1.0,Locals,Graduated,1900,Peace,Montana
+2793,18-24,2.0,Locals,Graduated,710,Peace,Montana
+2794,25-44,2.0,Locals,Graduated,4500,Peace,Montana
+2795,45+,2.0,Locals,Graduated,6700,Peace,Montana
+2796,18-24,1.0,Locals,No Degree,120,Peace,Montana
+2797,25-44,1.0,Locals,No Degree,340,Peace,Montana
+2798,45+,1.0,Locals,No Degree,610,Peace,Montana
+2799,18-24,2.0,Locals,No Degree,700,Peace,Montana
+2800,25-44,2.0,Locals,No Degree,1000,Peace,Montana
+2801,45+,2.0,Locals,No Degree,2000,Peace,Montana
+2802,18-24,1.0,Locals,High School,420,Peace,Montana
+2803,25-44,1.0,Locals,High School,900,Peace,Montana
+2804,45+,1.0,Locals,High School,990,Peace,Montana
+2805,18-24,2.0,Locals,High School,1500,Peace,Montana
+2806,25-44,2.0,Locals,High School,3100,Peace,Montana
+2807,45+,2.0,Locals,High School,3400,Peace,Montana
+2808,18-24,1.0,Expats,Graduated,130,Peace,Nebraska
+2809,25-44,1.0,Expats,Graduated,540,Peace,Nebraska
+2810,45+,1.0,Expats,Graduated,130,Peace,Nebraska
+2811,18-24,2.0,Expats,Graduated,180,Peace,Nebraska
+2812,25-44,2.0,Expats,Graduated,540,Peace,Nebraska
+2813,45+,2.0,Expats,Graduated,260,Peace,Nebraska
+2814,18-24,1.0,Expats,No Degree,130,Peace,Nebraska
+2815,25-44,1.0,Expats,No Degree,440,Peace,Nebraska
+2816,45+,1.0,Expats,No Degree,110,Peace,Nebraska
+2817,18-24,2.0,Expats,No Degree,70,Peace,Nebraska
+2818,25-44,2.0,Expats,No Degree,360,Peace,Nebraska
+2819,45+,2.0,Expats,No Degree,170,Peace,Nebraska
+2820,18-24,1.0,Expats,High School,180,Peace,Nebraska
+2821,25-44,1.0,Expats,High School,220,Peace,Nebraska
+2822,45+,1.0,Expats,High School,50,Peace,Nebraska
+2823,18-24,2.0,Expats,High School,130,Peace,Nebraska
+2824,25-44,2.0,Expats,High School,320,Peace,Nebraska
+2825,45+,2.0,Expats,High School,80,Peace,Nebraska
+2826,18-24,1.0,Locals,Graduated,420,Peace,Nebraska
+2827,25-44,1.0,Locals,Graduated,2000,Peace,Nebraska
+2828,45+,1.0,Locals,Graduated,2900,Peace,Nebraska
+2829,18-24,2.0,Locals,Graduated,1000,Peace,Nebraska
+2830,25-44,2.0,Locals,Graduated,8000,Peace,Nebraska
+2831,45+,2.0,Locals,Graduated,9700,Peace,Nebraska
+2832,18-24,1.0,Locals,No Degree,270,Peace,Nebraska
+2833,25-44,1.0,Locals,No Degree,410,Peace,Nebraska
+2834,45+,1.0,Locals,No Degree,880,Peace,Nebraska
+2835,18-24,2.0,Locals,No Degree,710,Peace,Nebraska
+2836,25-44,2.0,Locals,No Degree,1600,Peace,Nebraska
+2837,45+,2.0,Locals,No Degree,3200,Peace,Nebraska
+2838,18-24,1.0,Locals,High School,550,Peace,Nebraska
+2839,25-44,1.0,Locals,High School,1400,Peace,Nebraska
+2840,45+,1.0,Locals,High School,1800,Peace,Nebraska
+2841,18-24,2.0,Locals,High School,2100,Peace,Nebraska
+2842,25-44,2.0,Locals,High School,4100,Peace,Nebraska
+2843,45+,2.0,Locals,High School,6500,Peace,Nebraska
+2844,18-24,1.0,Expats,Graduated,180,Peace,Nevada
+2845,25-44,1.0,Expats,Graduated,1100,Peace,Nevada
+2846,45+,1.0,Expats,Graduated,970,Peace,Nevada
+2847,18-24,2.0,Expats,Graduated,330,Peace,Nevada
+2848,25-44,2.0,Expats,Graduated,1900,Peace,Nevada
+2849,45+,2.0,Expats,Graduated,1700,Peace,Nevada
+2850,18-24,1.0,Expats,No Degree,130,Peace,Nevada
+2851,25-44,1.0,Expats,No Degree,1000,Peace,Nevada
+2852,45+,1.0,Expats,No Degree,550,Peace,Nevada
+2853,18-24,2.0,Expats,No Degree,200,Peace,Nevada
+2854,25-44,2.0,Expats,No Degree,1300,Peace,Nevada
+2855,45+,2.0,Expats,No Degree,1600,Peace,Nevada
+2856,18-24,1.0,Expats,High School,160,Peace,Nevada
+2857,25-44,1.0,Expats,High School,540,Peace,Nevada
+2858,45+,1.0,Expats,High School,330,Peace,Nevada
+2859,18-24,2.0,Expats,High School,290,Peace,Nevada
+2860,25-44,2.0,Expats,High School,770,Peace,Nevada
+2861,45+,2.0,Expats,High School,890,Peace,Nevada
+2862,18-24,1.0,Locals,Graduated,580,Peace,Nevada
+2863,25-44,1.0,Locals,Graduated,2600,Peace,Nevada
+2864,45+,1.0,Locals,Graduated,4000,Peace,Nevada
+2865,18-24,2.0,Locals,Graduated,1100,Peace,Nevada
+2866,25-44,2.0,Locals,Graduated,8500,Peace,Nevada
+2867,45+,2.0,Locals,Graduated,11000,Peace,Nevada
+2868,18-24,1.0,Locals,No Degree,360,Peace,Nevada
+2869,25-44,1.0,Locals,No Degree,1000,Peace,Nevada
+2870,45+,1.0,Locals,No Degree,1200,Peace,Nevada
+2871,18-24,2.0,Locals,No Degree,750,Peace,Nevada
+2872,25-44,2.0,Locals,No Degree,2300,Peace,Nevada
+2873,45+,2.0,Locals,No Degree,4400,Peace,Nevada
+2874,18-24,1.0,Locals,High School,650,Peace,Nevada
+2875,25-44,1.0,Locals,High School,1700,Peace,Nevada
+2876,45+,1.0,Locals,High School,2400,Peace,Nevada
+2877,18-24,2.0,Locals,High School,2100,Peace,Nevada
+2878,25-44,2.0,Locals,High School,5100,Peace,Nevada
+2879,45+,2.0,Locals,High School,8000,Peace,Nevada
+2880,18-24,1.0,Expats,Graduated,40,Peace,New Hampshire
+2881,25-44,1.0,Expats,Graduated,190,Peace,New Hampshire
+2882,45+,1.0,Expats,Graduated,160,Peace,New Hampshire
+2883,18-24,2.0,Expats,Graduated,60,Peace,New Hampshire
+2884,25-44,2.0,Expats,Graduated,340,Peace,New Hampshire
+2885,45+,2.0,Expats,Graduated,310,Peace,New Hampshire
+2886,18-24,1.0,Expats,No Degree,20,Peace,New Hampshire
+2887,25-44,1.0,Expats,No Degree,90,Peace,New Hampshire
+2888,45+,1.0,Expats,No Degree,20,Peace,New Hampshire
+2889,18-24,2.0,Expats,No Degree,20,Peace,New Hampshire
+2890,25-44,2.0,Expats,No Degree,70,Peace,New Hampshire
+2891,45+,2.0,Expats,No Degree,120,Peace,New Hampshire
+2892,18-24,1.0,Expats,High School,40,Peace,New Hampshire
+2893,25-44,1.0,Expats,High School,60,Peace,New Hampshire
+2894,45+,1.0,Expats,High School,60,Peace,New Hampshire
+2895,18-24,2.0,Expats,High School,60,Peace,New Hampshire
+2896,25-44,2.0,Expats,High School,70,Peace,New Hampshire
+2897,45+,2.0,Expats,High School,80,Peace,New Hampshire
+2898,18-24,1.0,Locals,Graduated,200,Peace,New Hampshire
+2899,25-44,1.0,Locals,Graduated,1500,Peace,New Hampshire
+2900,45+,1.0,Locals,Graduated,2400,Peace,New Hampshire
+2901,18-24,2.0,Locals,Graduated,680,Peace,New Hampshire
+2902,25-44,2.0,Locals,Graduated,6300,Peace,New Hampshire
+2903,45+,2.0,Locals,Graduated,7900,Peace,New Hampshire
+2904,18-24,1.0,Locals,No Degree,210,Peace,New Hampshire
+2905,25-44,1.0,Locals,No Degree,370,Peace,New Hampshire
+2906,45+,1.0,Locals,No Degree,720,Peace,New Hampshire
+2907,18-24,2.0,Locals,No Degree,560,Peace,New Hampshire
+2908,25-44,2.0,Locals,No Degree,1100,Peace,New Hampshire
+2909,45+,2.0,Locals,No Degree,2900,Peace,New Hampshire
+2910,18-24,1.0,Locals,High School,430,Peace,New Hampshire
+2911,25-44,1.0,Locals,High School,990,Peace,New Hampshire
+2912,45+,1.0,Locals,High School,1500,Peace,New Hampshire
+2913,18-24,2.0,Locals,High School,1500,Peace,New Hampshire
+2914,25-44,2.0,Locals,High School,3600,Peace,New Hampshire
+2915,45+,2.0,Locals,High School,4800,Peace,New Hampshire
+2916,18-24,1.0,Expats,Graduated,1100,Peace,New Jersey
+2917,25-44,1.0,Expats,Graduated,5900,Peace,New Jersey
+2918,45+,1.0,Expats,Graduated,3100,Peace,New Jersey
+2919,18-24,2.0,Expats,Graduated,940,Peace,New Jersey
+2920,25-44,2.0,Expats,Graduated,8200,Peace,New Jersey
+2921,45+,2.0,Expats,Graduated,5700,Peace,New Jersey
+2922,18-24,1.0,Expats,No Degree,710,Peace,New Jersey
+2923,25-44,1.0,Expats,No Degree,3200,Peace,New Jersey
+2924,45+,1.0,Expats,No Degree,2100,Peace,New Jersey
+2925,18-24,2.0,Expats,No Degree,760,Peace,New Jersey
+2926,25-44,2.0,Expats,No Degree,3700,Peace,New Jersey
+2927,45+,2.0,Expats,No Degree,4300,Peace,New Jersey
+2928,18-24,1.0,Expats,High School,650,Peace,New Jersey
+2929,25-44,1.0,Expats,High School,2400,Peace,New Jersey
+2930,45+,1.0,Expats,High School,1200,Peace,New Jersey
+2931,18-24,2.0,Expats,High School,990,Peace,New Jersey
+2932,25-44,2.0,Expats,High School,3100,Peace,New Jersey
+2933,45+,2.0,Expats,High School,2600,Peace,New Jersey
+2934,18-24,1.0,Locals,Graduated,1300,Peace,New Jersey
+2935,25-44,1.0,Locals,Graduated,7500,Peace,New Jersey
+2936,45+,1.0,Locals,Graduated,10000,Peace,New Jersey
+2937,18-24,2.0,Locals,Graduated,2800,Peace,New Jersey
+2938,25-44,2.0,Locals,Graduated,24000,Peace,New Jersey
+2939,45+,2.0,Locals,Graduated,33000,Peace,New Jersey
+2940,18-24,1.0,Locals,No Degree,540,Peace,New Jersey
+2941,25-44,1.0,Locals,No Degree,1900,Peace,New Jersey
+2942,45+,1.0,Locals,No Degree,3800,Peace,New Jersey
+2943,18-24,2.0,Locals,No Degree,1200,Peace,New Jersey
+2944,25-44,2.0,Locals,No Degree,5000,Peace,New Jersey
+2945,45+,2.0,Locals,No Degree,12000,Peace,New Jersey
+2946,18-24,1.0,Locals,High School,1700,Peace,New Jersey
+2947,25-44,1.0,Locals,High School,3700,Peace,New Jersey
+2948,45+,1.0,Locals,High School,5900,Peace,New Jersey
+2949,18-24,2.0,Locals,High School,4900,Peace,New Jersey
+2950,25-44,2.0,Locals,High School,9900,Peace,New Jersey
+2951,45+,2.0,Locals,High School,21000,Peace,New Jersey
+2952,18-24,1.0,Expats,Graduated,150,Peace,New Mexico
+2953,25-44,1.0,Expats,Graduated,420,Peace,New Mexico
+2954,45+,1.0,Expats,Graduated,270,Peace,New Mexico
+2955,18-24,2.0,Expats,Graduated,140,Peace,New Mexico
+2956,25-44,2.0,Expats,Graduated,960,Peace,New Mexico
+2957,45+,2.0,Expats,Graduated,770,Peace,New Mexico
+2958,18-24,1.0,Expats,No Degree,30,Peace,New Mexico
+2959,25-44,1.0,Expats,No Degree,350,Peace,New Mexico
+2960,45+,1.0,Expats,No Degree,190,Peace,New Mexico
+2961,18-24,2.0,Expats,No Degree,120,Peace,New Mexico
+2962,25-44,2.0,Expats,No Degree,630,Peace,New Mexico
+2963,45+,2.0,Expats,No Degree,530,Peace,New Mexico
+2964,18-24,1.0,Expats,High School,160,Peace,New Mexico
+2965,25-44,1.0,Expats,High School,220,Peace,New Mexico
+2966,45+,1.0,Expats,High School,90,Peace,New Mexico
+2967,18-24,2.0,Expats,High School,170,Peace,New Mexico
+2968,25-44,2.0,Expats,High School,460,Peace,New Mexico
+2969,45+,2.0,Expats,High School,220,Peace,New Mexico
+2970,18-24,1.0,Locals,Graduated,690,Peace,New Mexico
+2971,25-44,1.0,Locals,Graduated,2700,Peace,New Mexico
+2972,45+,1.0,Locals,Graduated,3900,Peace,New Mexico
+2973,18-24,2.0,Locals,Graduated,1200,Peace,New Mexico
+2974,25-44,2.0,Locals,Graduated,8600,Peace,New Mexico
+2975,45+,2.0,Locals,Graduated,11000,Peace,New Mexico
+2976,18-24,1.0,Locals,No Degree,480,Peace,New Mexico
+2977,25-44,1.0,Locals,No Degree,860,Peace,New Mexico
+2978,45+,1.0,Locals,No Degree,1100,Peace,New Mexico
+2979,18-24,2.0,Locals,No Degree,1100,Peace,New Mexico
+2980,25-44,2.0,Locals,No Degree,2300,Peace,New Mexico
+2981,45+,2.0,Locals,No Degree,4700,Peace,New Mexico
+2982,18-24,1.0,Locals,High School,880,Peace,New Mexico
+2983,25-44,1.0,Locals,High School,1600,Peace,New Mexico
+2984,45+,1.0,Locals,High School,1500,Peace,New Mexico
+2985,18-24,2.0,Locals,High School,2100,Peace,New Mexico
+2986,25-44,2.0,Locals,High School,5100,Peace,New Mexico
+2987,45+,2.0,Locals,High School,6700,Peace,New Mexico
+2988,18-24,1.0,Expats,Graduated,2600,Peace,New York
+2989,25-44,1.0,Expats,Graduated,12000,Peace,New York
+2990,45+,1.0,Expats,Graduated,5900,Peace,New York
+2991,18-24,2.0,Expats,Graduated,2900,Peace,New York
+2992,25-44,2.0,Expats,Graduated,18000,Peace,New York
+2993,45+,2.0,Expats,Graduated,12000,Peace,New York
+2994,18-24,1.0,Expats,No Degree,1900,Peace,New York
+2995,25-44,1.0,Expats,No Degree,7500,Peace,New York
+2996,45+,1.0,Expats,No Degree,4700,Peace,New York
+2997,18-24,2.0,Expats,No Degree,2000,Peace,New York
+2998,25-44,2.0,Expats,No Degree,8600,Peace,New York
+2999,45+,2.0,Expats,No Degree,11000,Peace,New York
+3000,18-24,1.0,Expats,High School,2300,Peace,New York
+3001,25-44,1.0,Expats,High School,4900,Peace,New York
+3002,45+,1.0,Expats,High School,2500,Peace,New York
+3003,18-24,2.0,Expats,High School,3000,Peace,New York
+3004,25-44,2.0,Expats,High School,6500,Peace,New York
+3005,45+,2.0,Expats,High School,5000,Peace,New York
+3006,18-24,1.0,Locals,Graduated,4300,Peace,New York
+3007,25-44,1.0,Locals,Graduated,22000,Peace,New York
+3008,45+,1.0,Locals,Graduated,25000,Peace,New York
+3009,18-24,2.0,Locals,Graduated,8300,Peace,New York
+3010,25-44,2.0,Locals,Graduated,61000,Peace,New York
+3011,45+,2.0,Locals,Graduated,70000,Peace,New York
+3012,18-24,1.0,Locals,No Degree,2100,Peace,New York
+3013,25-44,1.0,Locals,No Degree,6700,Peace,New York
+3014,45+,1.0,Locals,No Degree,9800,Peace,New York
+3015,18-24,2.0,Locals,No Degree,4300,Peace,New York
+3016,25-44,2.0,Locals,No Degree,14000,Peace,New York
+3017,45+,2.0,Locals,No Degree,29000,Peace,New York
+3018,18-24,1.0,Locals,High School,5700,Peace,New York
+3019,25-44,1.0,Locals,High School,11000,Peace,New York
+3020,45+,1.0,Locals,High School,13000,Peace,New York
+3021,18-24,2.0,Locals,High School,14000,Peace,New York
+3022,25-44,2.0,Locals,High School,25000,Peace,New York
+3023,45+,2.0,Locals,High School,39000,Peace,New York
+3024,18-24,1.0,Expats,Graduated,580,Peace,North Carolina
+3025,25-44,1.0,Expats,Graduated,2700,Peace,North Carolina
+3026,45+,1.0,Expats,Graduated,1200,Peace,North Carolina
+3027,18-24,2.0,Expats,Graduated,630,Peace,North Carolina
+3028,25-44,2.0,Expats,Graduated,3400,Peace,North Carolina
+3029,45+,2.0,Expats,Graduated,2400,Peace,North Carolina
+3030,18-24,1.0,Expats,No Degree,410,Peace,North Carolina
+3031,25-44,1.0,Expats,No Degree,1700,Peace,North Carolina
+3032,45+,1.0,Expats,No Degree,790,Peace,North Carolina
+3033,18-24,2.0,Expats,No Degree,550,Peace,North Carolina
+3034,25-44,2.0,Expats,No Degree,2100,Peace,North Carolina
+3035,45+,2.0,Expats,No Degree,1500,Peace,North Carolina
+3036,18-24,1.0,Expats,High School,530,Peace,North Carolina
+3037,25-44,1.0,Expats,High School,1400,Peace,North Carolina
+3038,45+,1.0,Expats,High School,430,Peace,North Carolina
+3039,18-24,2.0,Expats,High School,760,Peace,North Carolina
+3040,25-44,2.0,Expats,High School,1900,Peace,North Carolina
+3041,45+,2.0,Expats,High School,950,Peace,North Carolina
+3042,18-24,1.0,Locals,Graduated,1900,Peace,North Carolina
+3043,25-44,1.0,Locals,Graduated,11000,Peace,North Carolina
+3044,45+,1.0,Locals,Graduated,18000,Peace,North Carolina
+3045,18-24,2.0,Locals,Graduated,5500,Peace,North Carolina
+3046,25-44,2.0,Locals,Graduated,42000,Peace,North Carolina
+3047,45+,2.0,Locals,Graduated,61000,Peace,North Carolina
+3048,18-24,1.0,Locals,No Degree,900,Peace,North Carolina
+3049,25-44,1.0,Locals,No Degree,2800,Peace,North Carolina
+3050,45+,1.0,Locals,No Degree,5700,Peace,North Carolina
+3051,18-24,2.0,Locals,No Degree,2900,Peace,North Carolina
+3052,25-44,2.0,Locals,No Degree,7700,Peace,North Carolina
+3053,45+,2.0,Locals,No Degree,20000,Peace,North Carolina
+3054,18-24,1.0,Locals,High School,2400,Peace,North Carolina
+3055,25-44,1.0,Locals,High School,5900,Peace,North Carolina
+3056,45+,1.0,Locals,High School,10000,Peace,North Carolina
+3057,18-24,2.0,Locals,High School,9000,Peace,North Carolina
+3058,25-44,2.0,Locals,High School,20000,Peace,North Carolina
+3059,45+,2.0,Locals,High School,34000,Peace,North Carolina
+3060,18-24,1.0,Expats,Graduated,60,Peace,North Dakota
+3061,25-44,1.0,Expats,Graduated,150,Peace,North Dakota
+3062,45+,1.0,Expats,Graduated,70,Peace,North Dakota
+3063,18-24,2.0,Expats,Graduated,50,Peace,North Dakota
+3064,25-44,2.0,Expats,Graduated,140,Peace,North Dakota
+3065,45+,2.0,Expats,Graduated,80,Peace,North Dakota
+3066,18-24,1.0,Expats,No Degree,20,Peace,North Dakota
+3067,25-44,1.0,Expats,No Degree,50,Peace,North Dakota
+3068,45+,1.0,Expats,No Degree,30,Peace,North Dakota
+3069,18-24,2.0,Expats,No Degree,20,Peace,North Dakota
+3070,25-44,2.0,Expats,No Degree,90,Peace,North Dakota
+3071,45+,2.0,Expats,No Degree,80,Peace,North Dakota
+3072,18-24,1.0,Expats,High School,30,Peace,North Dakota
+3073,25-44,1.0,Expats,High School,70,Peace,North Dakota
+3074,45+,1.0,Expats,High School,20,Peace,North Dakota
+3075,18-24,2.0,Expats,High School,70,Peace,North Dakota
+3076,25-44,2.0,Expats,High School,90,Peace,North Dakota
+3077,45+,2.0,Expats,High School,50,Peace,North Dakota
+3078,18-24,1.0,Locals,Graduated,130,Peace,North Dakota
+3079,25-44,1.0,Locals,Graduated,900,Peace,North Dakota
+3080,45+,1.0,Locals,Graduated,820,Peace,North Dakota
+3081,18-24,2.0,Locals,Graduated,540,Peace,North Dakota
+3082,25-44,2.0,Locals,Graduated,2800,Peace,North Dakota
+3083,45+,2.0,Locals,Graduated,3100,Peace,North Dakota
+3084,18-24,1.0,Locals,No Degree,80,Peace,North Dakota
+3085,25-44,1.0,Locals,No Degree,270,Peace,North Dakota
+3086,45+,1.0,Locals,No Degree,360,Peace,North Dakota
+3087,18-24,2.0,Locals,No Degree,270,Peace,North Dakota
+3088,25-44,2.0,Locals,No Degree,640,Peace,North Dakota
+3089,45+,2.0,Locals,No Degree,1300,Peace,North Dakota
+3090,18-24,1.0,Locals,High School,210,Peace,North Dakota
+3091,25-44,1.0,Locals,High School,630,Peace,North Dakota
+3092,45+,1.0,Locals,High School,510,Peace,North Dakota
+3093,18-24,2.0,Locals,High School,880,Peace,North Dakota
+3094,25-44,2.0,Locals,High School,1700,Peace,North Dakota
+3095,45+,2.0,Locals,High School,1800,Peace,North Dakota
+3096,18-24,1.0,Expats,Graduated,420,Peace,Ohio
+3097,25-44,1.0,Expats,Graduated,1600,Peace,Ohio
+3098,45+,1.0,Expats,Graduated,690,Peace,Ohio
+3099,18-24,2.0,Expats,Graduated,380,Peace,Ohio
+3100,25-44,2.0,Expats,Graduated,2400,Peace,Ohio
+3101,45+,2.0,Expats,Graduated,1600,Peace,Ohio
+3102,18-24,1.0,Expats,No Degree,230,Peace,Ohio
+3103,25-44,1.0,Expats,No Degree,990,Peace,Ohio
+3104,45+,1.0,Expats,No Degree,360,Peace,Ohio
+3105,18-24,2.0,Expats,No Degree,310,Peace,Ohio
+3106,25-44,2.0,Expats,No Degree,960,Peace,Ohio
+3107,45+,2.0,Expats,No Degree,910,Peace,Ohio
+3108,18-24,1.0,Expats,High School,420,Peace,Ohio
+3109,25-44,1.0,Expats,High School,570,Peace,Ohio
+3110,45+,1.0,Expats,High School,280,Peace,Ohio
+3111,18-24,2.0,Expats,High School,530,Peace,Ohio
+3112,25-44,2.0,Expats,High School,760,Peace,Ohio
+3113,45+,2.0,Expats,High School,650,Peace,Ohio
+3114,18-24,1.0,Locals,Graduated,2200,Peace,Ohio
+3115,25-44,1.0,Locals,Graduated,12000,Peace,Ohio
+3116,45+,1.0,Locals,Graduated,18000,Peace,Ohio
+3117,18-24,2.0,Locals,Graduated,6200,Peace,Ohio
+3118,25-44,2.0,Locals,Graduated,46000,Peace,Ohio
+3119,45+,2.0,Locals,Graduated,60000,Peace,Ohio
+3120,18-24,1.0,Locals,No Degree,1300,Peace,Ohio
+3121,25-44,1.0,Locals,No Degree,3200,Peace,Ohio
+3122,45+,1.0,Locals,No Degree,6400,Peace,Ohio
+3123,18-24,2.0,Locals,No Degree,3800,Peace,Ohio
+3124,25-44,2.0,Locals,No Degree,8800,Peace,Ohio
+3125,45+,2.0,Locals,No Degree,23000,Peace,Ohio
+3126,18-24,1.0,Locals,High School,2900,Peace,Ohio
+3127,25-44,1.0,Locals,High School,8400,Peace,Ohio
+3128,45+,1.0,Locals,High School,13000,Peace,Ohio
+3129,18-24,2.0,Locals,High School,12000,Peace,Ohio
+3130,25-44,2.0,Locals,High School,30000,Peace,Ohio
+3131,45+,2.0,Locals,High School,49000,Peace,Ohio
+3132,18-24,1.0,Expats,Graduated,220,Peace,Oklahoma
+3133,25-44,1.0,Expats,Graduated,730,Peace,Oklahoma
+3134,45+,1.0,Expats,Graduated,320,Peace,Oklahoma
+3135,18-24,2.0,Expats,Graduated,170,Peace,Oklahoma
+3136,25-44,2.0,Expats,Graduated,920,Peace,Oklahoma
+3137,45+,2.0,Expats,Graduated,540,Peace,Oklahoma
+3138,18-24,1.0,Expats,No Degree,200,Peace,Oklahoma
+3139,25-44,1.0,Expats,No Degree,640,Peace,Oklahoma
+3140,45+,1.0,Expats,No Degree,180,Peace,Oklahoma
+3141,18-24,2.0,Expats,No Degree,130,Peace,Oklahoma
+3142,25-44,2.0,Expats,No Degree,610,Peace,Oklahoma
+3143,45+,2.0,Expats,No Degree,630,Peace,Oklahoma
+3144,18-24,1.0,Expats,High School,240,Peace,Oklahoma
+3145,25-44,1.0,Expats,High School,400,Peace,Oklahoma
+3146,45+,1.0,Expats,High School,80,Peace,Oklahoma
+3147,18-24,2.0,Expats,High School,280,Peace,Oklahoma
+3148,25-44,2.0,Expats,High School,540,Peace,Oklahoma
+3149,45+,2.0,Expats,High School,230,Peace,Oklahoma
+3150,18-24,1.0,Locals,Graduated,770,Peace,Oklahoma
+3151,25-44,1.0,Locals,Graduated,5300,Peace,Oklahoma
+3152,45+,1.0,Locals,Graduated,7600,Peace,Oklahoma
+3153,18-24,2.0,Locals,Graduated,2300,Peace,Oklahoma
+3154,25-44,2.0,Locals,Graduated,17000,Peace,Oklahoma
+3155,45+,2.0,Locals,Graduated,24000,Peace,Oklahoma
+3156,18-24,1.0,Locals,No Degree,610,Peace,Oklahoma
+3157,25-44,1.0,Locals,No Degree,1200,Peace,Oklahoma
+3158,45+,1.0,Locals,No Degree,2600,Peace,Oklahoma
+3159,18-24,2.0,Locals,No Degree,1700,Peace,Oklahoma
+3160,25-44,2.0,Locals,No Degree,4000,Peace,Oklahoma
+3161,45+,2.0,Locals,No Degree,9100,Peace,Oklahoma
+3162,18-24,1.0,Locals,High School,1300,Peace,Oklahoma
+3163,25-44,1.0,Locals,High School,3500,Peace,Oklahoma
+3164,45+,1.0,Locals,High School,5300,Peace,Oklahoma
+3165,18-24,2.0,Locals,High School,4700,Peace,Oklahoma
+3166,25-44,2.0,Locals,High School,12000,Peace,Oklahoma
+3167,45+,2.0,Locals,High School,19000,Peace,Oklahoma
+3168,18-24,1.0,Expats,Graduated,180,Peace,Oregon
+3169,25-44,1.0,Expats,Graduated,1700,Peace,Oregon
+3170,45+,1.0,Expats,Graduated,870,Peace,Oregon
+3171,18-24,2.0,Expats,Graduated,180,Peace,Oregon
+3172,25-44,2.0,Expats,Graduated,2200,Peace,Oregon
+3173,45+,2.0,Expats,Graduated,1300,Peace,Oregon
+3174,18-24,1.0,Expats,No Degree,150,Peace,Oregon
+3175,25-44,1.0,Expats,No Degree,1300,Peace,Oregon
+3176,45+,1.0,Expats,No Degree,540,Peace,Oregon
+3177,18-24,2.0,Expats,No Degree,160,Peace,Oregon
+3178,25-44,2.0,Expats,No Degree,1300,Peace,Oregon
+3179,45+,2.0,Expats,No Degree,940,Peace,Oregon
+3180,18-24,1.0,Expats,High School,190,Peace,Oregon
+3181,25-44,1.0,Expats,High School,880,Peace,Oregon
+3182,45+,1.0,Expats,High School,200,Peace,Oregon
+3183,18-24,2.0,Expats,High School,420,Peace,Oregon
+3184,25-44,2.0,Expats,High School,1000,Peace,Oregon
+3185,45+,2.0,Expats,High School,560,Peace,Oregon
+3186,18-24,1.0,Locals,Graduated,990,Peace,Oregon
+3187,25-44,1.0,Locals,Graduated,6200,Peace,Oregon
+3188,45+,1.0,Locals,Graduated,7800,Peace,Oregon
+3189,18-24,2.0,Locals,Graduated,2200,Peace,Oregon
+3190,25-44,2.0,Locals,Graduated,19000,Peace,Oregon
+3191,45+,2.0,Locals,Graduated,25000,Peace,Oregon
+3192,18-24,1.0,Locals,No Degree,520,Peace,Oregon
+3193,25-44,1.0,Locals,No Degree,2000,Peace,Oregon
+3194,45+,1.0,Locals,No Degree,2400,Peace,Oregon
+3195,18-24,2.0,Locals,No Degree,1700,Peace,Oregon
+3196,25-44,2.0,Locals,No Degree,5000,Peace,Oregon
+3197,45+,2.0,Locals,No Degree,8100,Peace,Oregon
+3198,18-24,1.0,Locals,High School,1300,Peace,Oregon
+3199,25-44,1.0,Locals,High School,4000,Peace,Oregon
+3200,45+,1.0,Locals,High School,3800,Peace,Oregon
+3201,18-24,2.0,Locals,High School,4100,Peace,Oregon
+3202,25-44,2.0,Locals,High School,11000,Peace,Oregon
+3203,45+,2.0,Locals,High School,14000,Peace,Oregon
+3204,18-24,1.0,Expats,Graduated,610,Peace,Pennsylvania
+3205,25-44,1.0,Expats,Graduated,2700,Peace,Pennsylvania
+3206,45+,1.0,Expats,Graduated,1400,Peace,Pennsylvania
+3207,18-24,2.0,Expats,Graduated,680,Peace,Pennsylvania
+3208,25-44,2.0,Expats,Graduated,3600,Peace,Pennsylvania
+3209,45+,2.0,Expats,Graduated,3000,Peace,Pennsylvania
+3210,18-24,1.0,Expats,No Degree,320,Peace,Pennsylvania
+3211,25-44,1.0,Expats,No Degree,1300,Peace,Pennsylvania
+3212,45+,1.0,Expats,No Degree,870,Peace,Pennsylvania
+3213,18-24,2.0,Expats,No Degree,370,Peace,Pennsylvania
+3214,25-44,2.0,Expats,No Degree,1800,Peace,Pennsylvania
+3215,45+,2.0,Expats,No Degree,1800,Peace,Pennsylvania
+3216,18-24,1.0,Expats,High School,540,Peace,Pennsylvania
+3217,25-44,1.0,Expats,High School,1100,Peace,Pennsylvania
+3218,45+,1.0,Expats,High School,500,Peace,Pennsylvania
+3219,18-24,2.0,Expats,High School,770,Peace,Pennsylvania
+3220,25-44,2.0,Expats,High School,1600,Peace,Pennsylvania
+3221,45+,2.0,Expats,High School,1400,Peace,Pennsylvania
+3222,18-24,1.0,Locals,Graduated,2300,Peace,Pennsylvania
+3223,25-44,1.0,Locals,Graduated,14000,Peace,Pennsylvania
+3224,45+,1.0,Locals,Graduated,18000,Peace,Pennsylvania
+3225,18-24,2.0,Locals,Graduated,6400,Peace,Pennsylvania
+3226,25-44,2.0,Locals,Graduated,47000,Peace,Pennsylvania
+3227,45+,2.0,Locals,Graduated,58000,Peace,Pennsylvania
+3228,18-24,1.0,Locals,No Degree,970,Peace,Pennsylvania
+3229,25-44,1.0,Locals,No Degree,3100,Peace,Pennsylvania
+3230,45+,1.0,Locals,No Degree,6000,Peace,Pennsylvania
+3231,18-24,2.0,Locals,No Degree,3800,Peace,Pennsylvania
+3232,25-44,2.0,Locals,No Degree,9000,Peace,Pennsylvania
+3233,45+,2.0,Locals,No Degree,21000,Peace,Pennsylvania
+3234,18-24,1.0,Locals,High School,3200,Peace,Pennsylvania
+3235,25-44,1.0,Locals,High School,8100,Peace,Pennsylvania
+3236,45+,1.0,Locals,High School,11000,Peace,Pennsylvania
+3237,18-24,2.0,Locals,High School,12000,Peace,Pennsylvania
+3238,25-44,2.0,Locals,High School,26000,Peace,Pennsylvania
+3239,45+,2.0,Locals,High School,44000,Peace,Pennsylvania
+3240,18-24,1.0,Expats,Graduated,90,Peace,Rhode Island
+3241,25-44,1.0,Expats,Graduated,400,Peace,Rhode Island
+3242,45+,1.0,Expats,Graduated,220,Peace,Rhode Island
+3243,18-24,2.0,Expats,Graduated,20,Peace,Rhode Island
+3244,25-44,2.0,Expats,Graduated,600,Peace,Rhode Island
+3245,45+,2.0,Expats,Graduated,500,Peace,Rhode Island
+3246,18-24,1.0,Expats,No Degree,50,Peace,Rhode Island
+3247,25-44,1.0,Expats,No Degree,190,Peace,Rhode Island
+3248,45+,1.0,Expats,No Degree,50,Peace,Rhode Island
+3249,18-24,2.0,Expats,No Degree,60,Peace,Rhode Island
+3250,25-44,2.0,Expats,No Degree,250,Peace,Rhode Island
+3251,45+,2.0,Expats,No Degree,410,Peace,Rhode Island
+3252,18-24,1.0,Expats,High School,80,Peace,Rhode Island
+3253,25-44,1.0,Expats,High School,130,Peace,Rhode Island
+3254,45+,1.0,Expats,High School,90,Peace,Rhode Island
+3255,18-24,2.0,Expats,High School,90,Peace,Rhode Island
+3256,25-44,2.0,Expats,High School,260,Peace,Rhode Island
+3257,45+,2.0,Expats,High School,220,Peace,Rhode Island
+3258,18-24,1.0,Locals,Graduated,120,Peace,Rhode Island
+3259,25-44,1.0,Locals,Graduated,970,Peace,Rhode Island
+3260,45+,1.0,Locals,Graduated,1400,Peace,Rhode Island
+3261,18-24,2.0,Locals,Graduated,570,Peace,Rhode Island
+3262,25-44,2.0,Locals,Graduated,4100,Peace,Rhode Island
+3263,45+,2.0,Locals,Graduated,5200,Peace,Rhode Island
+3264,18-24,1.0,Locals,No Degree,70,Peace,Rhode Island
+3265,25-44,1.0,Locals,No Degree,330,Peace,Rhode Island
+3266,45+,1.0,Locals,No Degree,440,Peace,Rhode Island
+3267,18-24,2.0,Locals,No Degree,240,Peace,Rhode Island
+3268,25-44,2.0,Locals,No Degree,780,Peace,Rhode Island
+3269,45+,2.0,Locals,No Degree,1700,Peace,Rhode Island
+3270,18-24,1.0,Locals,High School,230,Peace,Rhode Island
+3271,25-44,1.0,Locals,High School,790,Peace,Rhode Island
+3272,45+,1.0,Locals,High School,740,Peace,Rhode Island
+3273,18-24,2.0,Locals,High School,1100,Peace,Rhode Island
+3274,25-44,2.0,Locals,High School,1900,Peace,Rhode Island
+3275,45+,2.0,Locals,High School,3100,Peace,Rhode Island
+3276,18-24,1.0,Expats,Graduated,180,Peace,South Carolina
+3277,25-44,1.0,Expats,Graduated,870,Peace,South Carolina
+3278,45+,1.0,Expats,Graduated,440,Peace,South Carolina
+3279,18-24,2.0,Expats,Graduated,120,Peace,South Carolina
+3280,25-44,2.0,Expats,Graduated,1100,Peace,South Carolina
+3281,45+,2.0,Expats,Graduated,1100,Peace,South Carolina
+3282,18-24,1.0,Expats,No Degree,160,Peace,South Carolina
+3283,25-44,1.0,Expats,No Degree,800,Peace,South Carolina
+3284,45+,1.0,Expats,No Degree,250,Peace,South Carolina
+3285,18-24,2.0,Expats,No Degree,160,Peace,South Carolina
+3286,25-44,2.0,Expats,No Degree,720,Peace,South Carolina
+3287,45+,2.0,Expats,No Degree,630,Peace,South Carolina
+3288,18-24,1.0,Expats,High School,180,Peace,South Carolina
+3289,25-44,1.0,Expats,High School,320,Peace,South Carolina
+3290,45+,1.0,Expats,High School,200,Peace,South Carolina
+3291,18-24,2.0,Expats,High School,270,Peace,South Carolina
+3292,25-44,2.0,Expats,High School,670,Peace,South Carolina
+3293,45+,2.0,Expats,High School,430,Peace,South Carolina
+3294,18-24,1.0,Locals,Graduated,1300,Peace,South Carolina
+3295,25-44,1.0,Locals,Graduated,5100,Peace,South Carolina
+3296,45+,1.0,Locals,Graduated,8500,Peace,South Carolina
+3297,18-24,2.0,Locals,Graduated,3000,Peace,South Carolina
+3298,25-44,2.0,Locals,Graduated,21000,Peace,South Carolina
+3299,45+,2.0,Locals,Graduated,27000,Peace,South Carolina
+3300,18-24,1.0,Locals,No Degree,430,Peace,South Carolina
+3301,25-44,1.0,Locals,No Degree,1200,Peace,South Carolina
+3302,45+,1.0,Locals,No Degree,2700,Peace,South Carolina
+3303,18-24,2.0,Locals,No Degree,1600,Peace,South Carolina
+3304,25-44,2.0,Locals,No Degree,3700,Peace,South Carolina
+3305,45+,2.0,Locals,No Degree,11000,Peace,South Carolina
+3306,18-24,1.0,Locals,High School,1300,Peace,South Carolina
+3307,25-44,1.0,Locals,High School,3200,Peace,South Carolina
+3308,45+,1.0,Locals,High School,4800,Peace,South Carolina
+3309,18-24,2.0,Locals,High School,4900,Peace,South Carolina
+3310,25-44,2.0,Locals,High School,12000,Peace,South Carolina
+3311,45+,2.0,Locals,High School,19000,Peace,South Carolina
+3312,18-24,1.0,Expats,Graduated,90,Peace,South Dakota
+3313,25-44,1.0,Expats,Graduated,160,Peace,South Dakota
+3314,45+,1.0,Expats,Graduated,60,Peace,South Dakota
+3315,18-24,2.0,Expats,Graduated,20,Peace,South Dakota
+3316,25-44,2.0,Expats,Graduated,100,Peace,South Dakota
+3317,45+,2.0,Expats,Graduated,60,Peace,South Dakota
+3318,18-24,1.0,Expats,No Degree,20,Peace,South Dakota
+3319,25-44,1.0,Expats,No Degree,50,Peace,South Dakota
+3320,45+,1.0,Expats,No Degree,20,Peace,South Dakota
+3321,18-24,2.0,Expats,No Degree,40,Peace,South Dakota
+3322,25-44,2.0,Expats,No Degree,60,Peace,South Dakota
+3323,45+,2.0,Expats,No Degree,40,Peace,South Dakota
+3324,18-24,1.0,Expats,High School,50,Peace,South Dakota
+3325,25-44,1.0,Expats,High School,30,Peace,South Dakota
+3326,45+,1.0,Expats,High School,20,Peace,South Dakota
+3327,18-24,2.0,Expats,High School,40,Peace,South Dakota
+3328,25-44,2.0,Expats,High School,80,Peace,South Dakota
+3329,45+,2.0,Expats,High School,30,Peace,South Dakota
+3330,18-24,1.0,Locals,Graduated,180,Peace,South Dakota
+3331,25-44,1.0,Locals,Graduated,980,Peace,South Dakota
+3332,45+,1.0,Locals,Graduated,1200,Peace,South Dakota
+3333,18-24,2.0,Locals,Graduated,540,Peace,South Dakota
+3334,25-44,2.0,Locals,Graduated,3300,Peace,South Dakota
+3335,45+,2.0,Locals,Graduated,4100,Peace,South Dakota
+3336,18-24,1.0,Locals,No Degree,120,Peace,South Dakota
+3337,25-44,1.0,Locals,No Degree,220,Peace,South Dakota
+3338,45+,1.0,Locals,No Degree,450,Peace,South Dakota
+3339,18-24,2.0,Locals,No Degree,520,Peace,South Dakota
+3340,25-44,2.0,Locals,No Degree,870,Peace,South Dakota
+3341,45+,2.0,Locals,No Degree,1400,Peace,South Dakota
+3342,18-24,1.0,Locals,High School,180,Peace,South Dakota
+3343,25-44,1.0,Locals,High School,720,Peace,South Dakota
+3344,45+,1.0,Locals,High School,580,Peace,South Dakota
+3345,18-24,2.0,Locals,High School,1000,Peace,South Dakota
+3346,25-44,2.0,Locals,High School,2100,Peace,South Dakota
+3347,45+,2.0,Locals,High School,2500,Peace,South Dakota
+3348,18-24,1.0,Expats,Graduated,330,Peace,Tennessee
+3349,25-44,1.0,Expats,Graduated,1500,Peace,Tennessee
+3350,45+,1.0,Expats,Graduated,480,Peace,Tennessee
+3351,18-24,2.0,Expats,Graduated,330,Peace,Tennessee
+3352,25-44,2.0,Expats,Graduated,1500,Peace,Tennessee
+3353,45+,2.0,Expats,Graduated,1200,Peace,Tennessee
+3354,18-24,1.0,Expats,No Degree,230,Peace,Tennessee
+3355,25-44,1.0,Expats,No Degree,1200,Peace,Tennessee
+3356,45+,1.0,Expats,No Degree,290,Peace,Tennessee
+3357,18-24,2.0,Expats,No Degree,170,Peace,Tennessee
+3358,25-44,2.0,Expats,No Degree,980,Peace,Tennessee
+3359,45+,2.0,Expats,No Degree,610,Peace,Tennessee
+3360,18-24,1.0,Expats,High School,270,Peace,Tennessee
+3361,25-44,1.0,Expats,High School,600,Peace,Tennessee
+3362,45+,1.0,Expats,High School,170,Peace,Tennessee
+3363,18-24,2.0,Expats,High School,350,Peace,Tennessee
+3364,25-44,2.0,Expats,High School,770,Peace,Tennessee
+3365,45+,2.0,Expats,High School,360,Peace,Tennessee
+3366,18-24,1.0,Locals,Graduated,1400,Peace,Tennessee
+3367,25-44,1.0,Locals,Graduated,8500,Peace,Tennessee
+3368,45+,1.0,Locals,Graduated,13000,Peace,Tennessee
+3369,18-24,2.0,Locals,Graduated,3900,Peace,Tennessee
+3370,25-44,2.0,Locals,Graduated,31000,Peace,Tennessee
+3371,45+,2.0,Locals,Graduated,40000,Peace,Tennessee
+3372,18-24,1.0,Locals,No Degree,680,Peace,Tennessee
+3373,25-44,1.0,Locals,No Degree,2100,Peace,Tennessee
+3374,45+,1.0,Locals,No Degree,4800,Peace,Tennessee
+3375,18-24,2.0,Locals,No Degree,2500,Peace,Tennessee
+3376,25-44,2.0,Locals,No Degree,6800,Peace,Tennessee
+3377,45+,2.0,Locals,No Degree,17000,Peace,Tennessee
+3378,18-24,1.0,Locals,High School,1900,Peace,Tennessee
+3379,25-44,1.0,Locals,High School,5300,Peace,Tennessee
+3380,45+,1.0,Locals,High School,8000,Peace,Tennessee
+3381,18-24,2.0,Locals,High School,7600,Peace,Tennessee
+3382,25-44,2.0,Locals,High School,20000,Peace,Tennessee
+3383,45+,2.0,Locals,High School,31000,Peace,Tennessee
+3384,18-24,1.0,Expats,Graduated,3200,Peace,Texas
+3385,25-44,1.0,Expats,Graduated,14000,Peace,Texas
+3386,45+,1.0,Expats,Graduated,6400,Peace,Texas
+3387,18-24,2.0,Expats,Graduated,3300,Peace,Texas
+3388,25-44,2.0,Expats,Graduated,20000,Peace,Texas
+3389,45+,2.0,Expats,Graduated,12000,Peace,Texas
+3390,18-24,1.0,Expats,No Degree,2100,Peace,Texas
+3391,25-44,1.0,Expats,No Degree,9500,Peace,Texas
+3392,45+,1.0,Expats,No Degree,4300,Peace,Texas
+3393,18-24,2.0,Expats,No Degree,2700,Peace,Texas
+3394,25-44,2.0,Expats,No Degree,14000,Peace,Texas
+3395,45+,2.0,Expats,No Degree,12000,Peace,Texas
+3396,18-24,1.0,Expats,High School,2500,Peace,Texas
+3397,25-44,1.0,Expats,High School,6000,Peace,Texas
+3398,45+,1.0,Expats,High School,2100,Peace,Texas
+3399,18-24,2.0,Expats,High School,3600,Peace,Texas
+3400,25-44,2.0,Expats,High School,9900,Peace,Texas
+3401,45+,2.0,Expats,High School,5100,Peace,Texas
+3402,18-24,1.0,Locals,Graduated,5600,Peace,Texas
+3403,25-44,1.0,Locals,Graduated,28000,Peace,Texas
+3404,45+,1.0,Locals,Graduated,38000,Peace,Texas
+3405,18-24,2.0,Locals,Graduated,13000,Peace,Texas
+3406,25-44,2.0,Locals,Graduated,96000,Peace,Texas
+3407,45+,2.0,Locals,Graduated,120000,Peace,Texas
+3408,18-24,1.0,Locals,No Degree,3600,Peace,Texas
+3409,25-44,1.0,Locals,No Degree,8700,Peace,Texas
+3410,45+,1.0,Locals,No Degree,15000,Peace,Texas
+3411,18-24,2.0,Locals,No Degree,7900,Peace,Texas
+3412,25-44,2.0,Locals,No Degree,24000,Peace,Texas
+3413,45+,2.0,Locals,No Degree,50000,Peace,Texas
+3414,18-24,1.0,Locals,High School,7400,Peace,Texas
+3415,25-44,1.0,Locals,High School,18000,Peace,Texas
+3416,45+,1.0,Locals,High School,22000,Peace,Texas
+3417,18-24,2.0,Locals,High School,21000,Peace,Texas
+3418,25-44,2.0,Locals,High School,57000,Peace,Texas
+3419,45+,2.0,Locals,High School,79000,Peace,Texas
+3420,18-24,1.0,Expats,Graduated,160,Peace,Utah
+3421,25-44,1.0,Expats,Graduated,760,Peace,Utah
+3422,45+,1.0,Expats,Graduated,320,Peace,Utah
+3423,18-24,2.0,Expats,Graduated,170,Peace,Utah
+3424,25-44,2.0,Expats,Graduated,1100,Peace,Utah
+3425,45+,2.0,Expats,Graduated,780,Peace,Utah
+3426,18-24,1.0,Expats,No Degree,90,Peace,Utah
+3427,25-44,1.0,Expats,No Degree,470,Peace,Utah
+3428,45+,1.0,Expats,No Degree,220,Peace,Utah
+3429,18-24,2.0,Expats,No Degree,120,Peace,Utah
+3430,25-44,2.0,Expats,No Degree,670,Peace,Utah
+3431,45+,2.0,Expats,No Degree,630,Peace,Utah
+3432,18-24,1.0,Expats,High School,180,Peace,Utah
+3433,25-44,1.0,Expats,High School,360,Peace,Utah
+3434,45+,1.0,Expats,High School,100,Peace,Utah
+3435,18-24,2.0,Expats,High School,300,Peace,Utah
+3436,25-44,2.0,Expats,High School,580,Peace,Utah
+3437,45+,2.0,Expats,High School,310,Peace,Utah
+3438,18-24,1.0,Locals,Graduated,630,Peace,Utah
+3439,25-44,1.0,Locals,Graduated,3100,Peace,Utah
+3440,45+,1.0,Locals,Graduated,3200,Peace,Utah
+3441,18-24,2.0,Locals,Graduated,1700,Peace,Utah
+3442,25-44,2.0,Locals,Graduated,10000,Peace,Utah
+3443,45+,2.0,Locals,Graduated,9400,Peace,Utah
+3444,18-24,1.0,Locals,No Degree,400,Peace,Utah
+3445,25-44,1.0,Locals,No Degree,720,Peace,Utah
+3446,45+,1.0,Locals,No Degree,930,Peace,Utah
+3447,18-24,2.0,Locals,No Degree,1200,Peace,Utah
+3448,25-44,2.0,Locals,No Degree,2500,Peace,Utah
+3449,45+,2.0,Locals,No Degree,2900,Peace,Utah
+3450,18-24,1.0,Locals,High School,1100,Peace,Utah
+3451,25-44,1.0,Locals,High School,1900,Peace,Utah
+3452,45+,1.0,Locals,High School,1700,Peace,Utah
+3453,18-24,2.0,Locals,High School,3500,Peace,Utah
+3454,25-44,2.0,Locals,High School,6100,Peace,Utah
+3455,45+,2.0,Locals,High School,5600,Peace,Utah
+3456,18-24,1.0,Expats,Graduated,20,Peace,Vermont
+3457,25-44,1.0,Expats,Graduated,80,Peace,Vermont
+3458,45+,1.0,Expats,Graduated,90,Peace,Vermont
+3459,18-24,2.0,Expats,Graduated,20,Peace,Vermont
+3460,25-44,2.0,Expats,Graduated,110,Peace,Vermont
+3461,45+,2.0,Expats,Graduated,100,Peace,Vermont
+3462,18-24,1.0,Expats,No Degree,20,Peace,Vermont
+3463,25-44,1.0,Expats,No Degree,20,Peace,Vermont
+3464,45+,1.0,Expats,No Degree,20,Peace,Vermont
+3465,18-24,2.0,Expats,No Degree,50,Peace,Vermont
+3466,25-44,2.0,Expats,No Degree,20,Peace,Vermont
+3467,45+,2.0,Expats,No Degree,90,Peace,Vermont
+3468,18-24,1.0,Expats,High School,30,Peace,Vermont
+3469,25-44,1.0,Expats,High School,20,Peace,Vermont
+3470,45+,1.0,Expats,High School,20,Peace,Vermont
+3471,18-24,2.0,Expats,High School,120,Peace,Vermont
+3472,25-44,2.0,Expats,High School,60,Peace,Vermont
+3473,45+,2.0,Expats,High School,50,Peace,Vermont
+3474,18-24,1.0,Locals,Graduated,120,Peace,Vermont
+3475,25-44,1.0,Locals,Graduated,710,Peace,Vermont
+3476,45+,1.0,Locals,Graduated,1100,Peace,Vermont
+3477,18-24,2.0,Locals,Graduated,340,Peace,Vermont
+3478,25-44,2.0,Locals,Graduated,2600,Peace,Vermont
+3479,45+,2.0,Locals,Graduated,3800,Peace,Vermont
+3480,18-24,1.0,Locals,No Degree,50,Peace,Vermont
+3481,25-44,1.0,Locals,No Degree,200,Peace,Vermont
+3482,45+,1.0,Locals,No Degree,460,Peace,Vermont
+3483,18-24,2.0,Locals,No Degree,240,Peace,Vermont
+3484,25-44,2.0,Locals,No Degree,420,Peace,Vermont
+3485,45+,2.0,Locals,No Degree,1200,Peace,Vermont
+3486,18-24,1.0,Locals,High School,160,Peace,Vermont
+3487,25-44,1.0,Locals,High School,360,Peace,Vermont
+3488,45+,1.0,Locals,High School,630,Peace,Vermont
+3489,18-24,2.0,Locals,High School,770,Peace,Vermont
+3490,25-44,2.0,Locals,High School,1600,Peace,Vermont
+3491,45+,2.0,Locals,High School,1800,Peace,Vermont
+3492,18-24,1.0,Expats,Graduated,700,Peace,Virginia
+3493,25-44,1.0,Expats,Graduated,3700,Peace,Virginia
+3494,45+,1.0,Expats,Graduated,1600,Peace,Virginia
+3495,18-24,2.0,Expats,Graduated,740,Peace,Virginia
+3496,25-44,2.0,Expats,Graduated,4500,Peace,Virginia
+3497,45+,2.0,Expats,Graduated,3100,Peace,Virginia
+3498,18-24,1.0,Expats,No Degree,500,Peace,Virginia
+3499,25-44,1.0,Expats,No Degree,2100,Peace,Virginia
+3500,45+,1.0,Expats,No Degree,1200,Peace,Virginia
+3501,18-24,2.0,Expats,No Degree,550,Peace,Virginia
+3502,25-44,2.0,Expats,No Degree,2300,Peace,Virginia
+3503,45+,2.0,Expats,No Degree,2200,Peace,Virginia
+3504,18-24,1.0,Expats,High School,750,Peace,Virginia
+3505,25-44,1.0,Expats,High School,1300,Peace,Virginia
+3506,45+,1.0,Expats,High School,690,Peace,Virginia
+3507,18-24,2.0,Expats,High School,730,Peace,Virginia
+3508,25-44,2.0,Expats,High School,1600,Peace,Virginia
+3509,45+,2.0,Expats,High School,1300,Peace,Virginia
+3510,18-24,1.0,Locals,Graduated,1300,Peace,Virginia
+3511,25-44,1.0,Locals,Graduated,7800,Peace,Virginia
+3512,45+,1.0,Locals,Graduated,12000,Peace,Virginia
+3513,18-24,2.0,Locals,Graduated,3600,Peace,Virginia
+3514,25-44,2.0,Locals,Graduated,27000,Peace,Virginia
+3515,45+,2.0,Locals,Graduated,38000,Peace,Virginia
+3516,18-24,1.0,Locals,No Degree,560,Peace,Virginia
+3517,25-44,1.0,Locals,No Degree,1800,Peace,Virginia
+3518,45+,1.0,Locals,No Degree,3900,Peace,Virginia
+3519,18-24,2.0,Locals,No Degree,1900,Peace,Virginia
+3520,25-44,2.0,Locals,No Degree,5500,Peace,Virginia
+3521,45+,2.0,Locals,No Degree,13000,Peace,Virginia
+3522,18-24,1.0,Locals,High School,2000,Peace,Virginia
+3523,25-44,1.0,Locals,High School,4600,Peace,Virginia
+3524,45+,1.0,Locals,High School,6500,Peace,Virginia
+3525,18-24,2.0,Locals,High School,6700,Peace,Virginia
+3526,25-44,2.0,Locals,High School,16000,Peace,Virginia
+3527,45+,2.0,Locals,High School,23000,Peace,Virginia
+3528,18-24,1.0,Expats,Graduated,470,Peace,Washington
+3529,25-44,1.0,Expats,Graduated,2600,Peace,Washington
+3530,45+,1.0,Expats,Graduated,1300,Peace,Washington
+3531,18-24,2.0,Expats,Graduated,520,Peace,Washington
+3532,25-44,2.0,Expats,Graduated,3300,Peace,Washington
+3533,45+,2.0,Expats,Graduated,2800,Peace,Washington
+3534,18-24,1.0,Expats,No Degree,300,Peace,Washington
+3535,25-44,1.0,Expats,No Degree,1500,Peace,Washington
+3536,45+,1.0,Expats,No Degree,720,Peace,Washington
+3537,18-24,2.0,Expats,No Degree,290,Peace,Washington
+3538,25-44,2.0,Expats,No Degree,1900,Peace,Washington
+3539,45+,2.0,Expats,No Degree,1900,Peace,Washington
+3540,18-24,1.0,Expats,High School,460,Peace,Washington
+3541,25-44,1.0,Expats,High School,1100,Peace,Washington
+3542,45+,1.0,Expats,High School,510,Peace,Washington
+3543,18-24,2.0,Expats,High School,800,Peace,Washington
+3544,25-44,2.0,Expats,High School,1500,Peace,Washington
+3545,45+,2.0,Expats,High School,1100,Peace,Washington
+3546,18-24,1.0,Locals,Graduated,1400,Peace,Washington
+3547,25-44,1.0,Locals,Graduated,7300,Peace,Washington
+3548,45+,1.0,Locals,Graduated,12000,Peace,Washington
+3549,18-24,2.0,Locals,Graduated,3600,Peace,Washington
+3550,25-44,2.0,Locals,Graduated,25000,Peace,Washington
+3551,45+,2.0,Locals,Graduated,35000,Peace,Washington
+3552,18-24,1.0,Locals,No Degree,1000,Peace,Washington
+3553,25-44,1.0,Locals,No Degree,2500,Peace,Washington
+3554,45+,1.0,Locals,No Degree,3400,Peace,Washington
+3555,18-24,2.0,Locals,No Degree,2100,Peace,Washington
+3556,25-44,2.0,Locals,No Degree,6000,Peace,Washington
+3557,45+,2.0,Locals,No Degree,12000,Peace,Washington
+3558,18-24,1.0,Locals,High School,2000,Peace,Washington
+3559,25-44,1.0,Locals,High School,4900,Peace,Washington
+3560,45+,1.0,Locals,High School,5300,Peace,Washington
+3561,18-24,2.0,Locals,High School,6100,Peace,Washington
+3562,25-44,2.0,Locals,High School,15000,Peace,Washington
+3563,45+,2.0,Locals,High School,19000,Peace,Washington
+3564,18-24,1.0,Expats,Graduated,20,Peace,West Virginia
+3565,25-44,1.0,Expats,Graduated,90,Peace,West Virginia
+3566,45+,1.0,Expats,Graduated,110,Peace,West Virginia
+3567,18-24,2.0,Expats,Graduated,50,Peace,West Virginia
+3568,25-44,2.0,Expats,Graduated,170,Peace,West Virginia
+3569,45+,2.0,Expats,Graduated,90,Peace,West Virginia
+3570,18-24,1.0,Expats,No Degree,20,Peace,West Virginia
+3571,25-44,1.0,Expats,No Degree,20,Peace,West Virginia
+3572,45+,1.0,Expats,No Degree,20,Peace,West Virginia
+3573,18-24,2.0,Expats,No Degree,20,Peace,West Virginia
+3574,25-44,2.0,Expats,No Degree,50,Peace,West Virginia
+3575,45+,2.0,Expats,No Degree,90,Peace,West Virginia
+3576,18-24,1.0,Expats,High School,20,Peace,West Virginia
+3577,25-44,1.0,Expats,High School,20,Peace,West Virginia
+3578,45+,1.0,Expats,High School,20,Peace,West Virginia
+3579,18-24,2.0,Expats,High School,30,Peace,West Virginia
+3580,25-44,2.0,Expats,High School,30,Peace,West Virginia
+3581,45+,2.0,Expats,High School,60,Peace,West Virginia
+3582,18-24,1.0,Locals,Graduated,290,Peace,West Virginia
+3583,25-44,1.0,Locals,Graduated,2200,Peace,West Virginia
+3584,45+,1.0,Locals,Graduated,3500,Peace,West Virginia
+3585,18-24,2.0,Locals,Graduated,1100,Peace,West Virginia
+3586,25-44,2.0,Locals,Graduated,8900,Peace,West Virginia
+3587,45+,2.0,Locals,Graduated,12000,Peace,West Virginia
+3588,18-24,1.0,Locals,No Degree,170,Peace,West Virginia
+3589,25-44,1.0,Locals,No Degree,670,Peace,West Virginia
+3590,45+,1.0,Locals,No Degree,1600,Peace,West Virginia
+3591,18-24,2.0,Locals,No Degree,900,Peace,West Virginia
+3592,25-44,2.0,Locals,No Degree,2000,Peace,West Virginia
+3593,45+,2.0,Locals,No Degree,5200,Peace,West Virginia
+3594,18-24,1.0,Locals,High School,440,Peace,West Virginia
+3595,25-44,1.0,Locals,High School,1900,Peace,West Virginia
+3596,45+,1.0,Locals,High School,2400,Peace,West Virginia
+3597,18-24,2.0,Locals,High School,2100,Peace,West Virginia
+3598,25-44,2.0,Locals,High School,6600,Peace,West Virginia
+3599,45+,2.0,Locals,High School,11000,Peace,West Virginia
+3600,18-24,1.0,Expats,Graduated,180,Peace,Wisconsin
+3601,25-44,1.0,Expats,Graduated,960,Peace,Wisconsin
+3602,45+,1.0,Expats,Graduated,380,Peace,Wisconsin
+3603,18-24,2.0,Expats,Graduated,210,Peace,Wisconsin
+3604,25-44,2.0,Expats,Graduated,1100,Peace,Wisconsin
+3605,45+,2.0,Expats,Graduated,890,Peace,Wisconsin
+3606,18-24,1.0,Expats,No Degree,140,Peace,Wisconsin
+3607,25-44,1.0,Expats,No Degree,450,Peace,Wisconsin
+3608,45+,1.0,Expats,No Degree,260,Peace,Wisconsin
+3609,18-24,2.0,Expats,No Degree,150,Peace,Wisconsin
+3610,25-44,2.0,Expats,No Degree,540,Peace,Wisconsin
+3611,45+,2.0,Expats,No Degree,460,Peace,Wisconsin
+3612,18-24,1.0,Expats,High School,270,Peace,Wisconsin
+3613,25-44,1.0,Expats,High School,340,Peace,Wisconsin
+3614,45+,1.0,Expats,High School,150,Peace,Wisconsin
+3615,18-24,2.0,Expats,High School,220,Peace,Wisconsin
+3616,25-44,2.0,Expats,High School,540,Peace,Wisconsin
+3617,45+,2.0,Expats,High School,250,Peace,Wisconsin
+3618,18-24,1.0,Locals,Graduated,1100,Peace,Wisconsin
+3619,25-44,1.0,Locals,Graduated,5300,Peace,Wisconsin
+3620,45+,1.0,Locals,Graduated,6900,Peace,Wisconsin
+3621,18-24,2.0,Locals,Graduated,2700,Peace,Wisconsin
+3622,25-44,2.0,Locals,Graduated,19000,Peace,Wisconsin
+3623,45+,2.0,Locals,Graduated,24000,Peace,Wisconsin
+3624,18-24,1.0,Locals,No Degree,590,Peace,Wisconsin
+3625,25-44,1.0,Locals,No Degree,1000,Peace,Wisconsin
+3626,45+,1.0,Locals,No Degree,2200,Peace,Wisconsin
+3627,18-24,2.0,Locals,No Degree,2100,Peace,Wisconsin
+3628,25-44,2.0,Locals,No Degree,3800,Peace,Wisconsin
+3629,45+,2.0,Locals,No Degree,7800,Peace,Wisconsin
+3630,18-24,1.0,Locals,High School,1700,Peace,Wisconsin
+3631,25-44,1.0,Locals,High School,3100,Peace,Wisconsin
+3632,45+,1.0,Locals,High School,3800,Peace,Wisconsin
+3633,18-24,2.0,Locals,High School,5600,Peace,Wisconsin
+3634,25-44,2.0,Locals,High School,11000,Peace,Wisconsin
+3635,45+,2.0,Locals,High School,15000,Peace,Wisconsin
+3636,18-24,1.0,Expats,Graduated,20,Peace,Wyoming
+3637,25-44,1.0,Expats,Graduated,70,Peace,Wyoming
+3638,45+,1.0,Expats,Graduated,20,Peace,Wyoming
+3639,18-24,2.0,Expats,Graduated,20,Peace,Wyoming
+3640,25-44,2.0,Expats,Graduated,150,Peace,Wyoming
+3641,45+,2.0,Expats,Graduated,70,Peace,Wyoming
+3642,18-24,1.0,Expats,No Degree,20,Peace,Wyoming
+3643,25-44,1.0,Expats,No Degree,30,Peace,Wyoming
+3644,45+,1.0,Expats,No Degree,20,Peace,Wyoming
+3645,18-24,2.0,Expats,No Degree,20,Peace,Wyoming
+3646,25-44,2.0,Expats,No Degree,60,Peace,Wyoming
+3647,45+,2.0,Expats,No Degree,20,Peace,Wyoming
+3648,18-24,1.0,Expats,High School,20,Peace,Wyoming
+3649,25-44,1.0,Expats,High School,50,Peace,Wyoming
+3650,45+,1.0,Expats,High School,20,Peace,Wyoming
+3651,18-24,2.0,Expats,High School,20,Peace,Wyoming
+3652,25-44,2.0,Expats,High School,80,Peace,Wyoming
+3653,45+,2.0,Expats,High School,20,Peace,Wyoming
+3654,18-24,1.0,Locals,Graduated,90,Peace,Wyoming
+3655,25-44,1.0,Locals,Graduated,690,Peace,Wyoming
+3656,45+,1.0,Locals,Graduated,1100,Peace,Wyoming
+3657,18-24,2.0,Locals,Graduated,370,Peace,Wyoming
+3658,25-44,2.0,Locals,Graduated,2400,Peace,Wyoming
+3659,45+,2.0,Locals,Graduated,3300,Peace,Wyoming
+3660,18-24,1.0,Locals,No Degree,80,Peace,Wyoming
+3661,25-44,1.0,Locals,No Degree,180,Peace,Wyoming
+3662,45+,1.0,Locals,No Degree,380,Peace,Wyoming
+3663,18-24,2.0,Locals,No Degree,270,Peace,Wyoming
+3664,25-44,2.0,Locals,No Degree,530,Peace,Wyoming
+3665,45+,2.0,Locals,No Degree,1200,Peace,Wyoming
+3666,18-24,1.0,Locals,High School,210,Peace,Wyoming
+3667,25-44,1.0,Locals,High School,540,Peace,Wyoming
+3668,45+,1.0,Locals,High School,480,Peace,Wyoming
+3669,18-24,2.0,Locals,High School,700,Peace,Wyoming
+3670,25-44,2.0,Locals,High School,1800,Peace,Wyoming
+3671,45+,2.0,Locals,High School,2000,Peace,Wyoming
+9180,18-24,1.0,Expats,Graduated,1500,War,Alabama
+9181,25-44,1.0,Expats,Graduated,4400,War,Alabama
+9182,45+,1.0,Expats,Graduated,1100,War,Alabama
+9183,18-24,2.0,Expats,Graduated,320,War,Alabama
+9184,25-44,2.0,Expats,Graduated,1400,War,Alabama
+9185,45+,2.0,Expats,Graduated,570,War,Alabama
+9186,18-24,1.0,Expats,No Degree,2100,War,Alabama
+9187,25-44,1.0,Expats,No Degree,4100,War,Alabama
+9188,45+,1.0,Expats,No Degree,880,War,Alabama
+9189,18-24,2.0,Expats,No Degree,420,War,Alabama
+9190,25-44,2.0,Expats,No Degree,1100,War,Alabama
+9191,45+,2.0,Expats,No Degree,490,War,Alabama
+9192,18-24,1.0,Expats,High School,1400,War,Alabama
+9193,25-44,1.0,Expats,High School,2300,War,Alabama
+9194,45+,1.0,Expats,High School,510,War,Alabama
+9195,18-24,2.0,Expats,High School,450,War,Alabama
+9196,25-44,2.0,Expats,High School,900,War,Alabama
+9197,45+,2.0,Expats,High School,310,War,Alabama
+9198,18-24,1.0,Locals,Graduated,16000,War,Alabama
+9199,25-44,1.0,Locals,Graduated,51000,War,Alabama
+9200,45+,1.0,Locals,Graduated,33000,War,Alabama
+9201,18-24,2.0,Locals,Graduated,4800,War,Alabama
+9202,25-44,2.0,Locals,Graduated,29000,War,Alabama
+9203,45+,2.0,Locals,Graduated,27000,War,Alabama
+9204,18-24,1.0,Locals,No Degree,9400,War,Alabama
+9205,25-44,1.0,Locals,No Degree,16000,War,Alabama
+9206,45+,1.0,Locals,No Degree,13000,War,Alabama
+9207,18-24,2.0,Locals,No Degree,3500,War,Alabama
+9208,25-44,2.0,Locals,No Degree,6200,War,Alabama
+9209,45+,2.0,Locals,No Degree,9700,War,Alabama
+9210,18-24,1.0,Locals,High School,22000,War,Alabama
+9211,25-44,1.0,Locals,High School,40000,War,Alabama
+9212,45+,1.0,Locals,High School,22000,War,Alabama
+9213,18-24,2.0,Locals,High School,8500,War,Alabama
+9214,25-44,2.0,Locals,High School,19000,War,Alabama
+9215,45+,2.0,Locals,High School,19000,War,Alabama
+9216,18-24,1.0,Expats,Graduated,320,War,Alaska
+9217,25-44,1.0,Expats,Graduated,1200,War,Alaska
+9218,45+,1.0,Expats,Graduated,400,War,Alaska
+9219,18-24,2.0,Expats,Graduated,70,War,Alaska
+9220,25-44,2.0,Expats,Graduated,470,War,Alaska
+9221,45+,2.0,Expats,Graduated,220,War,Alaska
+9222,18-24,1.0,Expats,No Degree,240,War,Alaska
+9223,25-44,1.0,Expats,No Degree,390,War,Alaska
+9224,45+,1.0,Expats,No Degree,280,War,Alaska
+9225,18-24,2.0,Expats,No Degree,100,War,Alaska
+9226,25-44,2.0,Expats,No Degree,190,War,Alaska
+9227,45+,2.0,Expats,No Degree,100,War,Alaska
+9228,18-24,1.0,Expats,High School,320,War,Alaska
+9229,25-44,1.0,Expats,High School,670,War,Alaska
+9230,45+,1.0,Expats,High School,250,War,Alaska
+9231,18-24,2.0,Expats,High School,170,War,Alaska
+9232,25-44,2.0,Expats,High School,230,War,Alaska
+9233,45+,2.0,Expats,High School,90,War,Alaska
+9234,18-24,1.0,Locals,Graduated,2500,War,Alaska
+9235,25-44,1.0,Locals,Graduated,9500,War,Alaska
+9236,45+,1.0,Locals,Graduated,5200,War,Alaska
+9237,18-24,2.0,Locals,Graduated,620,War,Alaska
+9238,25-44,2.0,Locals,Graduated,4300,War,Alaska
+9239,45+,2.0,Locals,Graduated,3100,War,Alaska
+9240,18-24,1.0,Locals,No Degree,1900,War,Alaska
+9241,25-44,1.0,Locals,No Degree,3400,War,Alaska
+9242,45+,1.0,Locals,No Degree,2000,War,Alaska
+9243,18-24,2.0,Locals,No Degree,490,War,Alaska
+9244,25-44,2.0,Locals,No Degree,1200,War,Alaska
+9245,45+,2.0,Locals,No Degree,1500,War,Alaska
+9246,18-24,1.0,Locals,High School,5200,War,Alaska
+9247,25-44,1.0,Locals,High School,8500,War,Alaska
+9248,45+,1.0,Locals,High School,3600,War,Alaska
+9249,18-24,2.0,Locals,High School,1500,War,Alaska
+9250,25-44,2.0,Locals,High School,3400,War,Alaska
+9251,45+,2.0,Locals,High School,2100,War,Alaska
+9252,18-24,1.0,Expats,Graduated,4400,War,Arizona
+9253,25-44,1.0,Expats,Graduated,13000,War,Arizona
+9254,45+,1.0,Expats,Graduated,4600,War,Arizona
+9255,18-24,2.0,Expats,Graduated,1400,War,Arizona
+9256,25-44,2.0,Expats,Graduated,7500,War,Arizona
+9257,45+,2.0,Expats,Graduated,3600,War,Arizona
+9258,18-24,1.0,Expats,No Degree,3600,War,Arizona
+9259,25-44,1.0,Expats,No Degree,10000,War,Arizona
+9260,45+,1.0,Expats,No Degree,5200,War,Arizona
+9261,18-24,2.0,Expats,No Degree,1900,War,Arizona
+9262,25-44,2.0,Expats,No Degree,6000,War,Arizona
+9263,45+,2.0,Expats,No Degree,4100,War,Arizona
+9264,18-24,1.0,Expats,High School,4300,War,Arizona
+9265,25-44,1.0,Expats,High School,7600,War,Arizona
+9266,45+,1.0,Expats,High School,2200,War,Arizona
+9267,18-24,2.0,Expats,High School,2200,War,Arizona
+9268,25-44,2.0,Expats,High School,4800,War,Arizona
+9269,45+,2.0,Expats,High School,1800,War,Arizona
+9270,18-24,1.0,Locals,Graduated,20000,War,Arizona
+9271,25-44,1.0,Locals,Graduated,59000,War,Arizona
+9272,45+,1.0,Locals,Graduated,40000,War,Arizona
+9273,18-24,2.0,Locals,Graduated,6400,War,Arizona
+9274,25-44,2.0,Locals,Graduated,33000,War,Arizona
+9275,45+,2.0,Locals,Graduated,33000,War,Arizona
+9276,18-24,1.0,Locals,No Degree,16000,War,Arizona
+9277,25-44,1.0,Locals,No Degree,23000,War,Arizona
+9278,45+,1.0,Locals,No Degree,15000,War,Arizona
+9279,18-24,2.0,Locals,No Degree,6500,War,Arizona
+9280,25-44,2.0,Locals,No Degree,9800,War,Arizona
+9281,45+,2.0,Locals,No Degree,13000,War,Arizona
+9282,18-24,1.0,Locals,High School,30000,War,Arizona
+9283,25-44,1.0,Locals,High School,45000,War,Arizona
+9284,45+,1.0,Locals,High School,23000,War,Arizona
+9285,18-24,2.0,Locals,High School,12000,War,Arizona
+9286,25-44,2.0,Locals,High School,23000,War,Arizona
+9287,45+,2.0,Locals,High School,20000,War,Arizona
+9288,18-24,1.0,Expats,Graduated,990,War,Arkansas
+9289,25-44,1.0,Expats,Graduated,3100,War,Arkansas
+9290,45+,1.0,Expats,Graduated,830,War,Arkansas
+9291,18-24,2.0,Expats,Graduated,390,War,Arkansas
+9292,25-44,2.0,Expats,Graduated,1200,War,Arkansas
+9293,45+,2.0,Expats,Graduated,430,War,Arkansas
+9294,18-24,1.0,Expats,No Degree,1000,War,Arkansas
+9295,25-44,1.0,Expats,No Degree,3100,War,Arkansas
+9296,45+,1.0,Expats,No Degree,810,War,Arkansas
+9297,18-24,2.0,Expats,No Degree,290,War,Arkansas
+9298,25-44,2.0,Expats,No Degree,1200,War,Arkansas
+9299,45+,2.0,Expats,No Degree,420,War,Arkansas
+9300,18-24,1.0,Expats,High School,960,War,Arkansas
+9301,25-44,1.0,Expats,High School,1600,War,Arkansas
+9302,45+,1.0,Expats,High School,400,War,Arkansas
+9303,18-24,2.0,Expats,High School,360,War,Arkansas
+9304,25-44,2.0,Expats,High School,850,War,Arkansas
+9305,45+,2.0,Expats,High School,280,War,Arkansas
+9306,18-24,1.0,Locals,Graduated,8900,War,Arkansas
+9307,25-44,1.0,Locals,Graduated,32000,War,Arkansas
+9308,45+,1.0,Locals,Graduated,19000,War,Arkansas
+9309,18-24,2.0,Locals,Graduated,2900,War,Arkansas
+9310,25-44,2.0,Locals,Graduated,16000,War,Arkansas
+9311,45+,2.0,Locals,Graduated,15000,War,Arkansas
+9312,18-24,1.0,Locals,No Degree,5600,War,Arkansas
+9313,25-44,1.0,Locals,No Degree,10000,War,Arkansas
+9314,45+,1.0,Locals,No Degree,8400,War,Arkansas
+9315,18-24,2.0,Locals,No Degree,1900,War,Arkansas
+9316,25-44,2.0,Locals,No Degree,3400,War,Arkansas
+9317,45+,2.0,Locals,No Degree,5400,War,Arkansas
+9318,18-24,1.0,Locals,High School,12000,War,Arkansas
+9319,25-44,1.0,Locals,High School,27000,War,Arkansas
+9320,45+,1.0,Locals,High School,15000,War,Arkansas
+9321,18-24,2.0,Locals,High School,4900,War,Arkansas
+9322,25-44,2.0,Locals,High School,11000,War,Arkansas
+9323,45+,2.0,Locals,High School,12000,War,Arkansas
+9324,18-24,1.0,Expats,Graduated,29000,War,California
+9325,25-44,1.0,Expats,Graduated,120000,War,California
+9326,45+,1.0,Expats,Graduated,45000,War,California
+9327,18-24,2.0,Expats,Graduated,9500,War,California
+9328,25-44,2.0,Expats,Graduated,54000,War,California
+9329,45+,2.0,Expats,Graduated,26000,War,California
+9330,18-24,1.0,Expats,No Degree,30000,War,California
+9331,25-44,1.0,Expats,No Degree,110000,War,California
+9332,45+,1.0,Expats,No Degree,62000,War,California
+9333,18-24,2.0,Expats,No Degree,10000,War,California
+9334,25-44,2.0,Expats,No Degree,53000,War,California
+9335,45+,2.0,Expats,No Degree,38000,War,California
+9336,18-24,1.0,Expats,High School,28000,War,California
+9337,25-44,1.0,Expats,High School,66000,War,California
+9338,45+,1.0,Expats,High School,22000,War,California
+9339,18-24,2.0,Expats,High School,12000,War,California
+9340,25-44,2.0,Expats,High School,34000,War,California
+9341,45+,2.0,Expats,High School,13000,War,California
+9342,18-24,1.0,Locals,Graduated,78000,War,California
+9343,25-44,1.0,Locals,Graduated,260000,War,California
+9344,45+,1.0,Locals,Graduated,140000,War,California
+9345,18-24,2.0,Locals,Graduated,26000,War,California
+9346,25-44,2.0,Locals,Graduated,150000,War,California
+9347,45+,2.0,Locals,Graduated,110000,War,California
+9348,18-24,1.0,Locals,No Degree,67000,War,California
+9349,25-44,1.0,Locals,No Degree,110000,War,California
+9350,45+,1.0,Locals,No Degree,67000,War,California
+9351,18-24,2.0,Locals,No Degree,23000,War,California
+9352,25-44,2.0,Locals,No Degree,47000,War,California
+9353,45+,2.0,Locals,No Degree,52000,War,California
+9354,18-24,1.0,Locals,High School,120000,War,California
+9355,25-44,1.0,Locals,High School,190000,War,California
+9356,45+,1.0,Locals,High School,84000,War,California
+9357,18-24,2.0,Locals,High School,46000,War,California
+9358,25-44,2.0,Locals,High School,90000,War,California
+9359,45+,2.0,Locals,High School,67000,War,California
+9360,18-24,1.0,Expats,Graduated,3500,War,Colorado
+9361,25-44,1.0,Expats,Graduated,9500,War,Colorado
+9362,45+,1.0,Expats,Graduated,2900,War,Colorado
+9363,18-24,2.0,Expats,Graduated,1100,War,Colorado
+9364,25-44,2.0,Expats,Graduated,4500,War,Colorado
+9365,45+,2.0,Expats,Graduated,1600,War,Colorado
+9366,18-24,1.0,Expats,No Degree,3300,War,Colorado
+9367,25-44,1.0,Expats,No Degree,9100,War,Colorado
+9368,45+,1.0,Expats,No Degree,3000,War,Colorado
+9369,18-24,2.0,Expats,No Degree,1300,War,Colorado
+9370,25-44,2.0,Expats,No Degree,3800,War,Colorado
+9371,45+,2.0,Expats,No Degree,1700,War,Colorado
+9372,18-24,1.0,Expats,High School,3400,War,Colorado
+9373,25-44,1.0,Expats,High School,5400,War,Colorado
+9374,45+,1.0,Expats,High School,1100,War,Colorado
+9375,18-24,2.0,Expats,High School,1700,War,Colorado
+9376,25-44,2.0,Expats,High School,3000,War,Colorado
+9377,45+,2.0,Expats,High School,790,War,Colorado
+9378,18-24,1.0,Locals,Graduated,17000,War,Colorado
+9379,25-44,1.0,Locals,Graduated,58000,War,Colorado
+9380,45+,1.0,Locals,Graduated,30000,War,Colorado
+9381,18-24,2.0,Locals,Graduated,4800,War,Colorado
+9382,25-44,2.0,Locals,Graduated,32000,War,Colorado
+9383,45+,2.0,Locals,Graduated,24000,War,Colorado
+9384,18-24,1.0,Locals,No Degree,15000,War,Colorado
+9385,25-44,1.0,Locals,No Degree,19000,War,Colorado
+9386,45+,1.0,Locals,No Degree,10000,War,Colorado
+9387,18-24,2.0,Locals,No Degree,5000,War,Colorado
+9388,25-44,2.0,Locals,No Degree,7200,War,Colorado
+9389,45+,2.0,Locals,No Degree,8300,War,Colorado
+9390,18-24,1.0,Locals,High School,28000,War,Colorado
+9391,25-44,1.0,Locals,High School,42000,War,Colorado
+9392,45+,1.0,Locals,High School,17000,War,Colorado
+9393,18-24,2.0,Locals,High School,9700,War,Colorado
+9394,25-44,2.0,Locals,High School,18000,War,Colorado
+9395,45+,2.0,Locals,High School,13000,War,Colorado
+9396,18-24,1.0,Expats,Graduated,2400,War,Connecticut
+9397,25-44,1.0,Expats,Graduated,9600,War,Connecticut
+9398,45+,1.0,Expats,Graduated,3100,War,Connecticut
+9399,18-24,2.0,Expats,Graduated,630,War,Connecticut
+9400,25-44,2.0,Expats,Graduated,3800,War,Connecticut
+9401,45+,2.0,Expats,Graduated,2100,War,Connecticut
+9402,18-24,1.0,Expats,No Degree,2200,War,Connecticut
+9403,25-44,1.0,Expats,No Degree,7100,War,Connecticut
+9404,45+,1.0,Expats,No Degree,3000,War,Connecticut
+9405,18-24,2.0,Expats,No Degree,520,War,Connecticut
+9406,25-44,2.0,Expats,No Degree,2100,War,Connecticut
+9407,45+,2.0,Expats,No Degree,1700,War,Connecticut
+9408,18-24,1.0,Expats,High School,2200,War,Connecticut
+9409,25-44,1.0,Expats,High School,5100,War,Connecticut
+9410,45+,1.0,Expats,High School,1700,War,Connecticut
+9411,18-24,2.0,Expats,High School,860,War,Connecticut
+9412,25-44,2.0,Expats,High School,2200,War,Connecticut
+9413,45+,2.0,Expats,High School,1100,War,Connecticut
+9414,18-24,1.0,Locals,Graduated,6700,War,Connecticut
+9415,25-44,1.0,Locals,Graduated,25000,War,Connecticut
+9416,45+,1.0,Locals,Graduated,16000,War,Connecticut
+9417,18-24,2.0,Locals,Graduated,2000,War,Connecticut
+9418,25-44,2.0,Locals,Graduated,14000,War,Connecticut
+9419,45+,2.0,Locals,Graduated,13000,War,Connecticut
+9420,18-24,1.0,Locals,No Degree,4500,War,Connecticut
+9421,25-44,1.0,Locals,No Degree,7900,War,Connecticut
+9422,45+,1.0,Locals,No Degree,6600,War,Connecticut
+9423,18-24,2.0,Locals,No Degree,1200,War,Connecticut
+9424,25-44,2.0,Locals,No Degree,3100,War,Connecticut
+9425,45+,2.0,Locals,No Degree,4600,War,Connecticut
+9426,18-24,1.0,Locals,High School,10000,War,Connecticut
+9427,25-44,1.0,Locals,High School,18000,War,Connecticut
+9428,45+,1.0,Locals,High School,10000,War,Connecticut
+9429,18-24,2.0,Locals,High School,4600,War,Connecticut
+9430,25-44,2.0,Locals,High School,7100,War,Connecticut
+9431,45+,2.0,Locals,High School,7900,War,Connecticut
+9432,18-24,1.0,Expats,Graduated,590,War,Delaware
+9433,25-44,1.0,Expats,Graduated,1900,War,Delaware
+9434,45+,1.0,Expats,Graduated,500,War,Delaware
+9435,18-24,2.0,Expats,Graduated,160,War,Delaware
+9436,25-44,2.0,Expats,Graduated,710,War,Delaware
+9437,45+,2.0,Expats,Graduated,270,War,Delaware
+9438,18-24,1.0,Expats,No Degree,450,War,Delaware
+9439,25-44,1.0,Expats,No Degree,1400,War,Delaware
+9440,45+,1.0,Expats,No Degree,380,War,Delaware
+9441,18-24,2.0,Expats,No Degree,90,War,Delaware
+9442,25-44,2.0,Expats,No Degree,550,War,Delaware
+9443,45+,2.0,Expats,No Degree,210,War,Delaware
+9444,18-24,1.0,Expats,High School,470,War,Delaware
+9445,25-44,1.0,Expats,High School,990,War,Delaware
+9446,45+,1.0,Expats,High School,180,War,Delaware
+9447,18-24,2.0,Expats,High School,150,War,Delaware
+9448,25-44,2.0,Expats,High School,480,War,Delaware
+9449,45+,2.0,Expats,High School,190,War,Delaware
+9450,18-24,1.0,Locals,Graduated,2100,War,Delaware
+9451,25-44,1.0,Locals,Graduated,8500,War,Delaware
+9452,45+,1.0,Locals,Graduated,5100,War,Delaware
+9453,18-24,2.0,Locals,Graduated,630,War,Delaware
+9454,25-44,2.0,Locals,Graduated,5300,War,Delaware
+9455,45+,2.0,Locals,Graduated,4300,War,Delaware
+9456,18-24,1.0,Locals,No Degree,1300,War,Delaware
+9457,25-44,1.0,Locals,No Degree,2500,War,Delaware
+9458,45+,1.0,Locals,No Degree,2000,War,Delaware
+9459,18-24,2.0,Locals,No Degree,570,War,Delaware
+9460,25-44,2.0,Locals,No Degree,1000,War,Delaware
+9461,45+,2.0,Locals,No Degree,1700,War,Delaware
+9462,18-24,1.0,Locals,High School,3100,War,Delaware
+9463,25-44,1.0,Locals,High School,7000,War,Delaware
+9464,45+,1.0,Locals,High School,4100,War,Delaware
+9465,18-24,2.0,Locals,High School,1300,War,Delaware
+9466,25-44,2.0,Locals,High School,3600,War,Delaware
+9467,45+,2.0,Locals,High School,3200,War,Delaware
+9468,18-24,1.0,Expats,Graduated,640,War,District of Columbia
+9469,25-44,1.0,Expats,Graduated,2400,War,District of Columbia
+9470,45+,1.0,Expats,Graduated,720,War,District of Columbia
+9471,18-24,2.0,Expats,Graduated,260,War,District of Columbia
+9472,25-44,2.0,Expats,Graduated,1100,War,District of Columbia
+9473,45+,2.0,Expats,Graduated,360,War,District of Columbia
+9474,18-24,1.0,Expats,No Degree,690,War,District of Columbia
+9475,25-44,1.0,Expats,No Degree,2000,War,District of Columbia
+9476,45+,1.0,Expats,No Degree,590,War,District of Columbia
+9477,18-24,2.0,Expats,No Degree,150,War,District of Columbia
+9478,25-44,2.0,Expats,No Degree,460,War,District of Columbia
+9479,45+,2.0,Expats,No Degree,180,War,District of Columbia
+9480,18-24,1.0,Expats,High School,610,War,District of Columbia
+9481,25-44,1.0,Expats,High School,1000,War,District of Columbia
+9482,45+,1.0,Expats,High School,170,War,District of Columbia
+9483,18-24,2.0,Expats,High School,250,War,District of Columbia
+9484,25-44,2.0,Expats,High School,400,War,District of Columbia
+9485,45+,2.0,Expats,High School,70,War,District of Columbia
+9486,18-24,1.0,Locals,Graduated,1400,War,District of Columbia
+9487,25-44,1.0,Locals,Graduated,7000,War,District of Columbia
+9488,45+,1.0,Locals,Graduated,2400,War,District of Columbia
+9489,18-24,2.0,Locals,Graduated,1000,War,District of Columbia
+9490,25-44,2.0,Locals,Graduated,5100,War,District of Columbia
+9491,45+,2.0,Locals,Graduated,1700,War,District of Columbia
+9492,18-24,1.0,Locals,No Degree,690,War,District of Columbia
+9493,25-44,1.0,Locals,No Degree,1800,War,District of Columbia
+9494,45+,1.0,Locals,No Degree,1300,War,District of Columbia
+9495,18-24,2.0,Locals,No Degree,200,War,District of Columbia
+9496,25-44,2.0,Locals,No Degree,750,War,District of Columbia
+9497,45+,2.0,Locals,No Degree,800,War,District of Columbia
+9498,18-24,1.0,Locals,High School,2100,War,District of Columbia
+9499,25-44,1.0,Locals,High School,3200,War,District of Columbia
+9500,45+,1.0,Locals,High School,1200,War,District of Columbia
+9501,18-24,2.0,Locals,High School,1100,War,District of Columbia
+9502,25-44,2.0,Locals,High School,1700,War,District of Columbia
+9503,45+,2.0,Locals,High School,790,War,District of Columbia
+9504,18-24,1.0,Expats,Graduated,18000,War,Florida
+9505,25-44,1.0,Expats,Graduated,73000,War,Florida
+9506,45+,1.0,Expats,Graduated,33000,War,Florida
+9507,18-24,2.0,Expats,Graduated,5100,War,Florida
+9508,25-44,2.0,Expats,Graduated,31000,War,Florida
+9509,45+,2.0,Expats,Graduated,23000,War,Florida
+9510,18-24,1.0,Expats,No Degree,18000,War,Florida
+9511,25-44,1.0,Expats,No Degree,51000,War,Florida
+9512,45+,1.0,Expats,No Degree,28000,War,Florida
+9513,18-24,2.0,Expats,No Degree,4700,War,Florida
+9514,25-44,2.0,Expats,No Degree,16000,War,Florida
+9515,45+,2.0,Expats,No Degree,17000,War,Florida
+9516,18-24,1.0,Expats,High School,17000,War,Florida
+9517,25-44,1.0,Expats,High School,37000,War,Florida
+9518,45+,1.0,Expats,High School,14000,War,Florida
+9519,18-24,2.0,Expats,High School,6600,War,Florida
+9520,25-44,2.0,Expats,High School,15000,War,Florida
+9521,45+,2.0,Expats,High School,11000,War,Florida
+9522,18-24,1.0,Locals,Graduated,42000,War,Florida
+9523,25-44,1.0,Locals,Graduated,160000,War,Florida
+9524,45+,1.0,Locals,Graduated,110000,War,Florida
+9525,18-24,2.0,Locals,Graduated,14000,War,Florida
+9526,25-44,2.0,Locals,Graduated,84000,War,Florida
+9527,45+,2.0,Locals,Graduated,93000,War,Florida
+9528,18-24,1.0,Locals,No Degree,30000,War,Florida
+9529,25-44,1.0,Locals,No Degree,55000,War,Florida
+9530,45+,1.0,Locals,No Degree,48000,War,Florida
+9531,18-24,2.0,Locals,No Degree,11000,War,Florida
+9532,25-44,2.0,Locals,No Degree,21000,War,Florida
+9533,45+,2.0,Locals,No Degree,34000,War,Florida
+9534,18-24,1.0,Locals,High School,58000,War,Florida
+9535,25-44,1.0,Locals,High School,110000,War,Florida
+9536,45+,1.0,Locals,High School,70000,War,Florida
+9537,18-24,2.0,Locals,High School,24000,War,Florida
+9538,25-44,2.0,Locals,High School,51000,War,Florida
+9539,45+,2.0,Locals,High School,60000,War,Florida
+9540,18-24,1.0,Expats,Graduated,6000,War,Georgia
+9541,25-44,1.0,Expats,Graduated,22000,War,Georgia
+9542,45+,1.0,Expats,Graduated,6300,War,Georgia
+9543,18-24,2.0,Expats,Graduated,1500,War,Georgia
+9544,25-44,2.0,Expats,Graduated,9100,War,Georgia
+9545,45+,2.0,Expats,Graduated,3700,War,Georgia
+9546,18-24,1.0,Expats,No Degree,6800,War,Georgia
+9547,25-44,1.0,Expats,No Degree,20000,War,Georgia
+9548,45+,1.0,Expats,No Degree,6100,War,Georgia
+9549,18-24,2.0,Expats,No Degree,1600,War,Georgia
+9550,25-44,2.0,Expats,No Degree,6800,War,Georgia
+9551,45+,2.0,Expats,No Degree,3100,War,Georgia
+9552,18-24,1.0,Expats,High School,5200,War,Georgia
+9553,25-44,1.0,Expats,High School,11000,War,Georgia
+9554,45+,1.0,Expats,High School,2900,War,Georgia
+9555,18-24,2.0,Expats,High School,2200,War,Georgia
+9556,25-44,2.0,Expats,High School,4500,War,Georgia
+9557,45+,2.0,Expats,High School,1600,War,Georgia
+9558,18-24,1.0,Locals,Graduated,27000,War,Georgia
+9559,25-44,1.0,Locals,Graduated,98000,War,Georgia
+9560,45+,1.0,Locals,Graduated,59000,War,Georgia
+9561,18-24,2.0,Locals,Graduated,8300,War,Georgia
+9562,25-44,2.0,Locals,Graduated,53000,War,Georgia
+9563,45+,2.0,Locals,Graduated,46000,War,Georgia
+9564,18-24,1.0,Locals,No Degree,18000,War,Georgia
+9565,25-44,1.0,Locals,No Degree,33000,War,Georgia
+9566,45+,1.0,Locals,No Degree,24000,War,Georgia
+9567,18-24,2.0,Locals,No Degree,6000,War,Georgia
+9568,25-44,2.0,Locals,No Degree,12000,War,Georgia
+9569,45+,2.0,Locals,No Degree,18000,War,Georgia
+9570,18-24,1.0,Locals,High School,37000,War,Georgia
+9571,25-44,1.0,Locals,High School,71000,War,Georgia
+9572,45+,1.0,Locals,High School,37000,War,Georgia
+9573,18-24,2.0,Locals,High School,15000,War,Georgia
+9574,25-44,2.0,Locals,High School,32000,War,Georgia
+9575,45+,2.0,Locals,High School,30000,War,Georgia
+9576,18-24,1.0,Expats,Graduated,1300,War,Hawaii
+9577,25-44,1.0,Expats,Graduated,3800,War,Hawaii
+9578,45+,1.0,Expats,Graduated,2100,War,Hawaii
+9579,18-24,2.0,Expats,Graduated,330,War,Hawaii
+9580,25-44,2.0,Expats,Graduated,1700,War,Hawaii
+9581,45+,2.0,Expats,Graduated,1000,War,Hawaii
+9582,18-24,1.0,Expats,No Degree,1000,War,Hawaii
+9583,25-44,1.0,Expats,No Degree,2300,War,Hawaii
+9584,45+,1.0,Expats,No Degree,1500,War,Hawaii
+9585,18-24,2.0,Expats,No Degree,210,War,Hawaii
+9586,25-44,2.0,Expats,No Degree,620,War,Hawaii
+9587,45+,2.0,Expats,No Degree,860,War,Hawaii
+9588,18-24,1.0,Expats,High School,1200,War,Hawaii
+9589,25-44,1.0,Expats,High School,2200,War,Hawaii
+9590,45+,1.0,Expats,High School,810,War,Hawaii
+9591,18-24,2.0,Expats,High School,430,War,Hawaii
+9592,25-44,2.0,Expats,High School,680,War,Hawaii
+9593,45+,2.0,Expats,High School,550,War,Hawaii
+9594,18-24,1.0,Locals,Graduated,3700,War,Hawaii
+9595,25-44,1.0,Locals,Graduated,14000,War,Hawaii
+9596,45+,1.0,Locals,Graduated,7000,War,Hawaii
+9597,18-24,2.0,Locals,Graduated,850,War,Hawaii
+9598,25-44,2.0,Locals,Graduated,5300,War,Hawaii
+9599,45+,2.0,Locals,Graduated,4600,War,Hawaii
+9600,18-24,1.0,Locals,No Degree,2100,War,Hawaii
+9601,25-44,1.0,Locals,No Degree,4700,War,Hawaii
+9602,45+,1.0,Locals,No Degree,2600,War,Hawaii
+9603,18-24,2.0,Locals,No Degree,420,War,Hawaii
+9604,25-44,2.0,Locals,No Degree,1500,War,Hawaii
+9605,45+,2.0,Locals,No Degree,1900,War,Hawaii
+9606,18-24,1.0,Locals,High School,5700,War,Hawaii
+9607,25-44,1.0,Locals,High School,10000,War,Hawaii
+9608,45+,1.0,Locals,High School,4200,War,Hawaii
+9609,18-24,2.0,Locals,High School,1400,War,Hawaii
+9610,25-44,2.0,Locals,High School,3300,War,Hawaii
+9611,45+,2.0,Locals,High School,2400,War,Hawaii
+9612,18-24,1.0,Expats,Graduated,610,War,Idaho
+9613,25-44,1.0,Expats,Graduated,1500,War,Idaho
+9614,45+,1.0,Expats,Graduated,420,War,Idaho
+9615,18-24,2.0,Expats,Graduated,180,War,Idaho
+9616,25-44,2.0,Expats,Graduated,690,War,Idaho
+9617,45+,2.0,Expats,Graduated,270,War,Idaho
+9618,18-24,1.0,Expats,No Degree,440,War,Idaho
+9619,25-44,1.0,Expats,No Degree,1400,War,Idaho
+9620,45+,1.0,Expats,No Degree,560,War,Idaho
+9621,18-24,2.0,Expats,No Degree,210,War,Idaho
+9622,25-44,2.0,Expats,No Degree,610,War,Idaho
+9623,45+,2.0,Expats,No Degree,270,War,Idaho
+9624,18-24,1.0,Expats,High School,540,War,Idaho
+9625,25-44,1.0,Expats,High School,1000,War,Idaho
+9626,45+,1.0,Expats,High School,130,War,Idaho
+9627,18-24,2.0,Expats,High School,190,War,Idaho
+9628,25-44,2.0,Expats,High School,390,War,Idaho
+9629,45+,2.0,Expats,High School,140,War,Idaho
+9630,18-24,1.0,Locals,Graduated,5600,War,Idaho
+9631,25-44,1.0,Locals,Graduated,17000,War,Idaho
+9632,45+,1.0,Locals,Graduated,11000,War,Idaho
+9633,18-24,2.0,Locals,Graduated,1500,War,Idaho
+9634,25-44,2.0,Locals,Graduated,9200,War,Idaho
+9635,45+,2.0,Locals,Graduated,9200,War,Idaho
+9636,18-24,1.0,Locals,No Degree,3700,War,Idaho
+9637,25-44,1.0,Locals,No Degree,5200,War,Idaho
+9638,45+,1.0,Locals,No Degree,3800,War,Idaho
+9639,18-24,2.0,Locals,No Degree,1500,War,Idaho
+9640,25-44,2.0,Locals,No Degree,2100,War,Idaho
+9641,45+,2.0,Locals,No Degree,2900,War,Idaho
+9642,18-24,1.0,Locals,High School,9200,War,Idaho
+9643,25-44,1.0,Locals,High School,13000,War,Idaho
+9644,45+,1.0,Locals,High School,6400,War,Idaho
+9645,18-24,2.0,Locals,High School,3500,War,Idaho
+9646,25-44,2.0,Locals,High School,6300,War,Idaho
+9647,45+,2.0,Locals,High School,5600,War,Idaho
+9648,18-24,1.0,Expats,Graduated,6600,War,Illinois
+9649,25-44,1.0,Expats,Graduated,32000,War,Illinois
+9650,45+,1.0,Expats,Graduated,10000,War,Illinois
+9651,18-24,2.0,Expats,Graduated,2100,War,Illinois
+9652,25-44,2.0,Expats,Graduated,13000,War,Illinois
+9653,45+,2.0,Expats,Graduated,4800,War,Illinois
+9654,18-24,1.0,Expats,No Degree,5900,War,Illinois
+9655,25-44,1.0,Expats,No Degree,26000,War,Illinois
+9656,45+,1.0,Expats,No Degree,11000,War,Illinois
+9657,18-24,2.0,Expats,No Degree,1900,War,Illinois
+9658,25-44,2.0,Expats,No Degree,10000,War,Illinois
+9659,45+,2.0,Expats,No Degree,5300,War,Illinois
+9660,18-24,1.0,Expats,High School,6500,War,Illinois
+9661,25-44,1.0,Expats,High School,16000,War,Illinois
+9662,45+,1.0,Expats,High School,4200,War,Illinois
+9663,18-24,2.0,Expats,High School,2900,War,Illinois
+9664,25-44,2.0,Expats,High School,6900,War,Illinois
+9665,45+,2.0,Expats,High School,2200,War,Illinois
+9666,18-24,1.0,Locals,Graduated,39000,War,Illinois
+9667,25-44,1.0,Locals,Graduated,120000,War,Illinois
+9668,45+,1.0,Locals,Graduated,63000,War,Illinois
+9669,18-24,2.0,Locals,Graduated,11000,War,Illinois
+9670,25-44,2.0,Locals,Graduated,64000,War,Illinois
+9671,45+,2.0,Locals,Graduated,51000,War,Illinois
+9672,18-24,1.0,Locals,No Degree,26000,War,Illinois
+9673,25-44,1.0,Locals,No Degree,39000,War,Illinois
+9674,45+,1.0,Locals,No Degree,26000,War,Illinois
+9675,18-24,2.0,Locals,No Degree,8200,War,Illinois
+9676,25-44,2.0,Locals,No Degree,14000,War,Illinois
+9677,45+,2.0,Locals,No Degree,18000,War,Illinois
+9678,18-24,1.0,Locals,High School,51000,War,Illinois
+9679,25-44,1.0,Locals,High School,77000,War,Illinois
+9680,45+,1.0,Locals,High School,40000,War,Illinois
+9681,18-24,2.0,Locals,High School,20000,War,Illinois
+9682,25-44,2.0,Locals,High School,33000,War,Illinois
+9683,45+,2.0,Locals,High School,30000,War,Illinois
+9684,18-24,1.0,Expats,Graduated,2400,War,Indiana
+9685,25-44,1.0,Expats,Graduated,7500,War,Indiana
+9686,45+,1.0,Expats,Graduated,2000,War,Indiana
+9687,18-24,2.0,Expats,Graduated,580,War,Indiana
+9688,25-44,2.0,Expats,Graduated,2600,War,Indiana
+9689,45+,2.0,Expats,Graduated,1100,War,Indiana
+9690,18-24,1.0,Expats,No Degree,2000,War,Indiana
+9691,25-44,1.0,Expats,No Degree,6800,War,Indiana
+9692,45+,1.0,Expats,No Degree,2000,War,Indiana
+9693,18-24,2.0,Expats,No Degree,600,War,Indiana
+9694,25-44,2.0,Expats,No Degree,2200,War,Indiana
+9695,45+,2.0,Expats,No Degree,940,War,Indiana
+9696,18-24,1.0,Expats,High School,2400,War,Indiana
+9697,25-44,1.0,Expats,High School,4000,War,Indiana
+9698,45+,1.0,Expats,High School,780,War,Indiana
+9699,18-24,2.0,Expats,High School,810,War,Indiana
+9700,25-44,2.0,Expats,High School,1700,War,Indiana
+9701,45+,2.0,Expats,High School,340,War,Indiana
+9702,18-24,1.0,Locals,Graduated,20000,War,Indiana
+9703,25-44,1.0,Locals,Graduated,69000,War,Indiana
+9704,45+,1.0,Locals,Graduated,42000,War,Indiana
+9705,18-24,2.0,Locals,Graduated,5600,War,Indiana
+9706,25-44,2.0,Locals,Graduated,36000,War,Indiana
+9707,45+,2.0,Locals,Graduated,32000,War,Indiana
+9708,18-24,1.0,Locals,No Degree,13000,War,Indiana
+9709,25-44,1.0,Locals,No Degree,20000,War,Indiana
+9710,45+,1.0,Locals,No Degree,16000,War,Indiana
+9711,18-24,2.0,Locals,No Degree,4600,War,Indiana
+9712,25-44,2.0,Locals,No Degree,7300,War,Indiana
+9713,45+,2.0,Locals,No Degree,11000,War,Indiana
+9714,18-24,1.0,Locals,High School,31000,War,Indiana
+9715,25-44,1.0,Locals,High School,57000,War,Indiana
+9716,45+,1.0,Locals,High School,32000,War,Indiana
+9717,18-24,2.0,Locals,High School,11000,War,Indiana
+9718,25-44,2.0,Locals,High School,25000,War,Indiana
+9719,45+,2.0,Locals,High School,26000,War,Indiana
+9720,18-24,1.0,Expats,Graduated,1300,War,Iowa
+9721,25-44,1.0,Expats,Graduated,3500,War,Iowa
+9722,45+,1.0,Expats,Graduated,820,War,Iowa
+9723,18-24,2.0,Expats,Graduated,300,War,Iowa
+9724,25-44,2.0,Expats,Graduated,1000,War,Iowa
+9725,45+,2.0,Expats,Graduated,380,War,Iowa
+9726,18-24,1.0,Expats,No Degree,1100,War,Iowa
+9727,25-44,1.0,Expats,No Degree,2800,War,Iowa
+9728,45+,1.0,Expats,No Degree,970,War,Iowa
+9729,18-24,2.0,Expats,No Degree,260,War,Iowa
+9730,25-44,2.0,Expats,No Degree,890,War,Iowa
+9731,45+,2.0,Expats,No Degree,360,War,Iowa
+9732,18-24,1.0,Expats,High School,1100,War,Iowa
+9733,25-44,1.0,Expats,High School,1600,War,Iowa
+9734,45+,1.0,Expats,High School,390,War,Iowa
+9735,18-24,2.0,Expats,High School,540,War,Iowa
+9736,25-44,2.0,Expats,High School,560,War,Iowa
+9737,45+,2.0,Expats,High School,250,War,Iowa
+9738,18-24,1.0,Locals,Graduated,11000,War,Iowa
+9739,25-44,1.0,Locals,Graduated,34000,War,Iowa
+9740,45+,1.0,Locals,Graduated,18000,War,Iowa
+9741,18-24,2.0,Locals,Graduated,3000,War,Iowa
+9742,25-44,2.0,Locals,Graduated,17000,War,Iowa
+9743,45+,2.0,Locals,Graduated,15000,War,Iowa
+9744,18-24,1.0,Locals,No Degree,5300,War,Iowa
+9745,25-44,1.0,Locals,No Degree,8400,War,Iowa
+9746,45+,1.0,Locals,No Degree,6700,War,Iowa
+9747,18-24,2.0,Locals,No Degree,1900,War,Iowa
+9748,25-44,2.0,Locals,No Degree,2900,War,Iowa
+9749,45+,2.0,Locals,No Degree,4500,War,Iowa
+9750,18-24,1.0,Locals,High School,16000,War,Iowa
+9751,25-44,1.0,Locals,High School,24000,War,Iowa
+9752,45+,1.0,Locals,High School,13000,War,Iowa
+9753,18-24,2.0,Locals,High School,5500,War,Iowa
+9754,25-44,2.0,Locals,High School,9300,War,Iowa
+9755,45+,2.0,Locals,High School,9900,War,Iowa
+9756,18-24,1.0,Expats,Graduated,1200,War,Kansas
+9757,25-44,1.0,Expats,Graduated,3900,War,Kansas
+9758,45+,1.0,Expats,Graduated,1200,War,Kansas
+9759,18-24,2.0,Expats,Graduated,380,War,Kansas
+9760,25-44,2.0,Expats,Graduated,1500,War,Kansas
+9761,45+,2.0,Expats,Graduated,580,War,Kansas
+9762,18-24,1.0,Expats,No Degree,1200,War,Kansas
+9763,25-44,1.0,Expats,No Degree,3700,War,Kansas
+9764,45+,1.0,Expats,No Degree,1300,War,Kansas
+9765,18-24,2.0,Expats,No Degree,400,War,Kansas
+9766,25-44,2.0,Expats,No Degree,1600,War,Kansas
+9767,45+,2.0,Expats,No Degree,680,War,Kansas
+9768,18-24,1.0,Expats,High School,1300,War,Kansas
+9769,25-44,1.0,Expats,High School,2300,War,Kansas
+9770,45+,1.0,Expats,High School,390,War,Kansas
+9771,18-24,2.0,Expats,High School,590,War,Kansas
+9772,25-44,2.0,Expats,High School,1200,War,Kansas
+9773,45+,2.0,Expats,High School,330,War,Kansas
+9774,18-24,1.0,Locals,Graduated,10000,War,Kansas
+9775,25-44,1.0,Locals,Graduated,32000,War,Kansas
+9776,45+,1.0,Locals,Graduated,20000,War,Kansas
+9777,18-24,2.0,Locals,Graduated,2500,War,Kansas
+9778,25-44,2.0,Locals,Graduated,17000,War,Kansas
+9779,45+,2.0,Locals,Graduated,15000,War,Kansas
+9780,18-24,1.0,Locals,No Degree,5900,War,Kansas
+9781,25-44,1.0,Locals,No Degree,8900,War,Kansas
+9782,45+,1.0,Locals,No Degree,7000,War,Kansas
+9783,18-24,2.0,Locals,No Degree,1900,War,Kansas
+9784,25-44,2.0,Locals,No Degree,3000,War,Kansas
+9785,45+,2.0,Locals,No Degree,4500,War,Kansas
+9786,18-24,1.0,Locals,High School,15000,War,Kansas
+9787,25-44,1.0,Locals,High School,23000,War,Kansas
+9788,45+,1.0,Locals,High School,12000,War,Kansas
+9789,18-24,2.0,Locals,High School,5100,War,Kansas
+9790,25-44,2.0,Locals,High School,10000,War,Kansas
+9791,45+,2.0,Locals,High School,9700,War,Kansas
+9792,18-24,1.0,Expats,Graduated,1300,War,Kentucky
+9793,25-44,1.0,Expats,Graduated,4800,War,Kentucky
+9794,45+,1.0,Expats,Graduated,1100,War,Kentucky
+9795,18-24,2.0,Expats,Graduated,360,War,Kentucky
+9796,25-44,2.0,Expats,Graduated,1400,War,Kentucky
+9797,45+,2.0,Expats,Graduated,480,War,Kentucky
+9798,18-24,1.0,Expats,No Degree,1400,War,Kentucky
+9799,25-44,1.0,Expats,No Degree,3800,War,Kentucky
+9800,45+,1.0,Expats,No Degree,1100,War,Kentucky
+9801,18-24,2.0,Expats,No Degree,270,War,Kentucky
+9802,25-44,2.0,Expats,No Degree,1200,War,Kentucky
+9803,45+,2.0,Expats,No Degree,480,War,Kentucky
+9804,18-24,1.0,Expats,High School,1300,War,Kentucky
+9805,25-44,1.0,Expats,High School,2300,War,Kentucky
+9806,45+,1.0,Expats,High School,510,War,Kentucky
+9807,18-24,2.0,Expats,High School,490,War,Kentucky
+9808,25-44,2.0,Expats,High School,800,War,Kentucky
+9809,45+,2.0,Expats,High School,260,War,Kentucky
+9810,18-24,1.0,Locals,Graduated,13000,War,Kentucky
+9811,25-44,1.0,Locals,Graduated,49000,War,Kentucky
+9812,45+,1.0,Locals,Graduated,30000,War,Kentucky
+9813,18-24,2.0,Locals,Graduated,4000,War,Kentucky
+9814,25-44,2.0,Locals,Graduated,26000,War,Kentucky
+9815,45+,2.0,Locals,Graduated,25000,War,Kentucky
+9816,18-24,1.0,Locals,No Degree,8700,War,Kentucky
+9817,25-44,1.0,Locals,No Degree,15000,War,Kentucky
+9818,45+,1.0,Locals,No Degree,12000,War,Kentucky
+9819,18-24,2.0,Locals,No Degree,3000,War,Kentucky
+9820,25-44,2.0,Locals,No Degree,5400,War,Kentucky
+9821,45+,2.0,Locals,No Degree,8800,War,Kentucky
+9822,18-24,1.0,Locals,High School,20000,War,Kentucky
+9823,25-44,1.0,Locals,High School,41000,War,Kentucky
+9824,45+,1.0,Locals,High School,22000,War,Kentucky
+9825,18-24,2.0,Locals,High School,8100,War,Kentucky
+9826,25-44,2.0,Locals,High School,19000,War,Kentucky
+9827,45+,2.0,Locals,High School,18000,War,Kentucky
+9828,18-24,1.0,Expats,Graduated,1900,War,Louisiana
+9829,25-44,1.0,Expats,Graduated,5700,War,Louisiana
+9830,45+,1.0,Expats,Graduated,1400,War,Louisiana
+9831,18-24,2.0,Expats,Graduated,470,War,Louisiana
+9832,25-44,2.0,Expats,Graduated,2000,War,Louisiana
+9833,45+,2.0,Expats,Graduated,720,War,Louisiana
+9834,18-24,1.0,Expats,No Degree,2200,War,Louisiana
+9835,25-44,1.0,Expats,No Degree,5200,War,Louisiana
+9836,45+,1.0,Expats,No Degree,1100,War,Louisiana
+9837,18-24,2.0,Expats,No Degree,550,War,Louisiana
+9838,25-44,2.0,Expats,No Degree,1200,War,Louisiana
+9839,45+,2.0,Expats,No Degree,430,War,Louisiana
+9840,18-24,1.0,Expats,High School,1500,War,Louisiana
+9841,25-44,1.0,Expats,High School,3000,War,Louisiana
+9842,45+,1.0,Expats,High School,590,War,Louisiana
+9843,18-24,2.0,Expats,High School,540,War,Louisiana
+9844,25-44,2.0,Expats,High School,960,War,Louisiana
+9845,45+,2.0,Expats,High School,360,War,Louisiana
+9846,18-24,1.0,Locals,Graduated,12000,War,Louisiana
+9847,25-44,1.0,Locals,Graduated,48000,War,Louisiana
+9848,45+,1.0,Locals,Graduated,26000,War,Louisiana
+9849,18-24,2.0,Locals,Graduated,3900,War,Louisiana
+9850,25-44,2.0,Locals,Graduated,25000,War,Louisiana
+9851,45+,2.0,Locals,Graduated,19000,War,Louisiana
+9852,18-24,1.0,Locals,No Degree,7300,War,Louisiana
+9853,25-44,1.0,Locals,No Degree,18000,War,Louisiana
+9854,45+,1.0,Locals,No Degree,12000,War,Louisiana
+9855,18-24,2.0,Locals,No Degree,2800,War,Louisiana
+9856,25-44,2.0,Locals,No Degree,6200,War,Louisiana
+9857,45+,2.0,Locals,No Degree,9400,War,Louisiana
+9858,18-24,1.0,Locals,High School,18000,War,Louisiana
+9859,25-44,1.0,Locals,High School,39000,War,Louisiana
+9860,45+,1.0,Locals,High School,21000,War,Louisiana
+9861,18-24,2.0,Locals,High School,7100,War,Louisiana
+9862,25-44,2.0,Locals,High School,17000,War,Louisiana
+9863,45+,2.0,Locals,High School,16000,War,Louisiana
+9864,18-24,1.0,Expats,Graduated,240,War,Maine
+9865,25-44,1.0,Expats,Graduated,880,War,Maine
+9866,45+,1.0,Expats,Graduated,370,War,Maine
+9867,18-24,2.0,Expats,Graduated,80,War,Maine
+9868,25-44,2.0,Expats,Graduated,330,War,Maine
+9869,45+,2.0,Expats,Graduated,260,War,Maine
+9870,18-24,1.0,Expats,No Degree,190,War,Maine
+9871,25-44,1.0,Expats,No Degree,340,War,Maine
+9872,45+,1.0,Expats,No Degree,210,War,Maine
+9873,18-24,2.0,Expats,No Degree,20,War,Maine
+9874,25-44,2.0,Expats,No Degree,120,War,Maine
+9875,45+,2.0,Expats,No Degree,180,War,Maine
+9876,18-24,1.0,Expats,High School,230,War,Maine
+9877,25-44,1.0,Expats,High School,350,War,Maine
+9878,45+,1.0,Expats,High School,90,War,Maine
+9879,18-24,2.0,Expats,High School,170,War,Maine
+9880,25-44,2.0,Expats,High School,90,War,Maine
+9881,45+,2.0,Expats,High School,90,War,Maine
+9882,18-24,1.0,Locals,Graduated,3400,War,Maine
+9883,25-44,1.0,Locals,Graduated,13000,War,Maine
+9884,45+,1.0,Locals,Graduated,9100,War,Maine
+9885,18-24,2.0,Locals,Graduated,1200,War,Maine
+9886,25-44,2.0,Locals,Graduated,6900,War,Maine
+9887,45+,2.0,Locals,Graduated,7700,War,Maine
+9888,18-24,1.0,Locals,No Degree,2200,War,Maine
+9889,25-44,1.0,Locals,No Degree,3500,War,Maine
+9890,45+,1.0,Locals,No Degree,3400,War,Maine
+9891,18-24,2.0,Locals,No Degree,880,War,Maine
+9892,25-44,2.0,Locals,No Degree,1200,War,Maine
+9893,45+,2.0,Locals,No Degree,2600,War,Maine
+9894,18-24,1.0,Locals,High School,6400,War,Maine
+9895,25-44,1.0,Locals,High School,11000,War,Maine
+9896,45+,1.0,Locals,High School,6600,War,Maine
+9897,18-24,2.0,Locals,High School,2100,War,Maine
+9898,25-44,2.0,Locals,High School,4700,War,Maine
+9899,45+,2.0,Locals,High School,4900,War,Maine
+9900,18-24,1.0,Expats,Graduated,4600,War,Maryland
+9901,25-44,1.0,Expats,Graduated,18000,War,Maryland
+9902,45+,1.0,Expats,Graduated,5300,War,Maryland
+9903,18-24,2.0,Expats,Graduated,1400,War,Maryland
+9904,25-44,2.0,Expats,Graduated,6900,War,Maryland
+9905,45+,2.0,Expats,Graduated,3000,War,Maryland
+9906,18-24,1.0,Expats,No Degree,5800,War,Maryland
+9907,25-44,1.0,Expats,No Degree,15000,War,Maryland
+9908,45+,1.0,Expats,No Degree,5000,War,Maryland
+9909,18-24,2.0,Expats,No Degree,1600,War,Maryland
+9910,25-44,2.0,Expats,No Degree,4900,War,Maryland
+9911,45+,2.0,Expats,No Degree,2100,War,Maryland
+9912,18-24,1.0,Expats,High School,4100,War,Maryland
+9913,25-44,1.0,Expats,High School,8700,War,Maryland
+9914,45+,1.0,Expats,High School,2300,War,Maryland
+9915,18-24,2.0,Expats,High School,1700,War,Maryland
+9916,25-44,2.0,Expats,High School,3400,War,Maryland
+9917,45+,2.0,Expats,High School,1100,War,Maryland
+9918,18-24,1.0,Locals,Graduated,13000,War,Maryland
+9919,25-44,1.0,Locals,Graduated,51000,War,Maryland
+9920,45+,1.0,Locals,Graduated,29000,War,Maryland
+9921,18-24,2.0,Locals,Graduated,4200,War,Maryland
+9922,25-44,2.0,Locals,Graduated,29000,War,Maryland
+9923,45+,2.0,Locals,Graduated,25000,War,Maryland
+9924,18-24,1.0,Locals,No Degree,7700,War,Maryland
+9925,25-44,1.0,Locals,No Degree,15000,War,Maryland
+9926,45+,1.0,Locals,No Degree,12000,War,Maryland
+9927,18-24,2.0,Locals,No Degree,2300,War,Maryland
+9928,25-44,2.0,Locals,No Degree,5200,War,Maryland
+9929,45+,2.0,Locals,No Degree,8600,War,Maryland
+9930,18-24,1.0,Locals,High School,16000,War,Maryland
+9931,25-44,1.0,Locals,High School,35000,War,Maryland
+9932,45+,1.0,Locals,High School,19000,War,Maryland
+9933,18-24,2.0,Locals,High School,7000,War,Maryland
+9934,25-44,2.0,Locals,High School,15000,War,Maryland
+9935,45+,2.0,Locals,High School,14000,War,Maryland
+9936,18-24,1.0,Expats,Graduated,5700,War,Massachusetts
+9937,25-44,1.0,Expats,Graduated,22000,War,Massachusetts
+9938,45+,1.0,Expats,Graduated,6200,War,Massachusetts
+9939,18-24,2.0,Expats,Graduated,1500,War,Massachusetts
+9940,25-44,2.0,Expats,Graduated,10000,War,Massachusetts
+9941,45+,2.0,Expats,Graduated,4000,War,Massachusetts
+9942,18-24,1.0,Expats,No Degree,4500,War,Massachusetts
+9943,25-44,1.0,Expats,No Degree,13000,War,Massachusetts
+9944,45+,1.0,Expats,No Degree,6800,War,Massachusetts
+9945,18-24,2.0,Expats,No Degree,1400,War,Massachusetts
+9946,25-44,2.0,Expats,No Degree,4600,War,Massachusetts
+9947,45+,2.0,Expats,No Degree,3400,War,Massachusetts
+9948,18-24,1.0,Expats,High School,5300,War,Massachusetts
+9949,25-44,1.0,Expats,High School,9700,War,Massachusetts
+9950,45+,1.0,Expats,High School,3000,War,Massachusetts
+9951,18-24,2.0,Expats,High School,2100,War,Massachusetts
+9952,25-44,2.0,Expats,High School,4100,War,Massachusetts
+9953,45+,2.0,Expats,High School,1900,War,Massachusetts
+9954,18-24,1.0,Locals,Graduated,14000,War,Massachusetts
+9955,25-44,1.0,Locals,Graduated,55000,War,Massachusetts
+9956,45+,1.0,Locals,Graduated,31000,War,Massachusetts
+9957,18-24,2.0,Locals,Graduated,4700,War,Massachusetts
+9958,25-44,2.0,Locals,Graduated,38000,War,Massachusetts
+9959,45+,2.0,Locals,Graduated,28000,War,Massachusetts
+9960,18-24,1.0,Locals,No Degree,9200,War,Massachusetts
+9961,25-44,1.0,Locals,No Degree,16000,War,Massachusetts
+9962,45+,1.0,Locals,No Degree,12000,War,Massachusetts
+9963,18-24,2.0,Locals,No Degree,2700,War,Massachusetts
+9964,25-44,2.0,Locals,No Degree,6400,War,Massachusetts
+9965,45+,2.0,Locals,No Degree,10000,War,Massachusetts
+9966,18-24,1.0,Locals,High School,22000,War,Massachusetts
+9967,25-44,1.0,Locals,High School,35000,War,Massachusetts
+9968,45+,1.0,Locals,High School,19000,War,Massachusetts
+9969,18-24,2.0,Locals,High School,9900,War,Massachusetts
+9970,25-44,2.0,Locals,High School,17000,War,Massachusetts
+9971,45+,2.0,Locals,High School,15000,War,Massachusetts
+9972,18-24,1.0,Expats,Graduated,3100,War,Michigan
+9973,25-44,1.0,Expats,Graduated,11000,War,Michigan
+9974,45+,1.0,Expats,Graduated,3600,War,Michigan
+9975,18-24,2.0,Expats,Graduated,630,War,Michigan
+9976,25-44,2.0,Expats,Graduated,3100,War,Michigan
+9977,45+,2.0,Expats,Graduated,2000,War,Michigan
+9978,18-24,1.0,Expats,No Degree,2300,War,Michigan
+9979,25-44,1.0,Expats,No Degree,6700,War,Michigan
+9980,45+,1.0,Expats,No Degree,3500,War,Michigan
+9981,18-24,2.0,Expats,No Degree,620,War,Michigan
+9982,25-44,2.0,Expats,No Degree,2000,War,Michigan
+9983,45+,2.0,Expats,No Degree,1400,War,Michigan
+9984,18-24,1.0,Expats,High School,2900,War,Michigan
+9985,25-44,1.0,Expats,High School,5000,War,Michigan
+9986,45+,1.0,Expats,High School,1300,War,Michigan
+9987,18-24,2.0,Expats,High School,1200,War,Michigan
+9988,25-44,2.0,Expats,High School,1600,War,Michigan
+9989,45+,2.0,Expats,High School,480,War,Michigan
+9990,18-24,1.0,Locals,Graduated,29000,War,Michigan
+9991,25-44,1.0,Locals,Graduated,98000,War,Michigan
+9992,45+,1.0,Locals,Graduated,59000,War,Michigan
+9993,18-24,2.0,Locals,Graduated,8700,War,Michigan
+9994,25-44,2.0,Locals,Graduated,51000,War,Michigan
+9995,45+,2.0,Locals,Graduated,48000,War,Michigan
+9996,18-24,1.0,Locals,No Degree,18000,War,Michigan
+9997,25-44,1.0,Locals,No Degree,30000,War,Michigan
+9998,45+,1.0,Locals,No Degree,23000,War,Michigan
+9999,18-24,2.0,Locals,No Degree,6400,War,Michigan
+10000,25-44,2.0,Locals,No Degree,12000,War,Michigan
+10001,45+,2.0,Locals,No Degree,17000,War,Michigan
+10002,18-24,1.0,Locals,High School,43000,War,Michigan
+10003,25-44,1.0,Locals,High School,75000,War,Michigan
+10004,45+,1.0,Locals,High School,40000,War,Michigan
+10005,18-24,2.0,Locals,High School,16000,War,Michigan
+10006,25-44,2.0,Locals,High School,33000,War,Michigan
+10007,45+,2.0,Locals,High School,33000,War,Michigan
+10008,18-24,1.0,Expats,Graduated,2000,War,Minnesota
+10009,25-44,1.0,Expats,Graduated,8300,War,Minnesota
+10010,45+,1.0,Expats,Graduated,2100,War,Minnesota
+10011,18-24,2.0,Expats,Graduated,650,War,Minnesota
+10012,25-44,2.0,Expats,Graduated,2700,War,Minnesota
+10013,45+,2.0,Expats,Graduated,820,War,Minnesota
+10014,18-24,1.0,Expats,No Degree,2200,War,Minnesota
+10015,25-44,1.0,Expats,No Degree,5600,War,Minnesota
+10016,45+,1.0,Expats,No Degree,1900,War,Minnesota
+10017,18-24,2.0,Expats,No Degree,690,War,Minnesota
+10018,25-44,2.0,Expats,No Degree,1900,War,Minnesota
+10019,45+,2.0,Expats,No Degree,820,War,Minnesota
+10020,18-24,1.0,Expats,High School,2100,War,Minnesota
+10021,25-44,1.0,Expats,High School,3900,War,Minnesota
+10022,45+,1.0,Expats,High School,780,War,Minnesota
+10023,18-24,2.0,Expats,High School,880,War,Minnesota
+10024,25-44,2.0,Expats,High School,1100,War,Minnesota
+10025,45+,2.0,Expats,High School,340,War,Minnesota
+10026,18-24,1.0,Locals,Graduated,14000,War,Minnesota
+10027,25-44,1.0,Locals,Graduated,51000,War,Minnesota
+10028,45+,1.0,Locals,Graduated,27000,War,Minnesota
+10029,18-24,2.0,Locals,Graduated,3600,War,Minnesota
+10030,25-44,2.0,Locals,Graduated,26000,War,Minnesota
+10031,45+,2.0,Locals,Graduated,23000,War,Minnesota
+10032,18-24,1.0,Locals,No Degree,8800,War,Minnesota
+10033,25-44,1.0,Locals,No Degree,14000,War,Minnesota
+10034,45+,1.0,Locals,No Degree,9700,War,Minnesota
+10035,18-24,2.0,Locals,No Degree,3000,War,Minnesota
+10036,25-44,2.0,Locals,No Degree,4900,War,Minnesota
+10037,45+,2.0,Locals,No Degree,7200,War,Minnesota
+10038,18-24,1.0,Locals,High School,21000,War,Minnesota
+10039,25-44,1.0,Locals,High School,33000,War,Minnesota
+10040,45+,1.0,Locals,High School,16000,War,Minnesota
+10041,18-24,2.0,Locals,High School,7600,War,Minnesota
+10042,25-44,2.0,Locals,High School,13000,War,Minnesota
+10043,45+,2.0,Locals,High School,13000,War,Minnesota
+10044,18-24,1.0,Expats,Graduated,550,War,Mississippi
+10045,25-44,1.0,Expats,Graduated,2100,War,Mississippi
+10046,45+,1.0,Expats,Graduated,410,War,Mississippi
+10047,18-24,2.0,Expats,Graduated,170,War,Mississippi
+10048,25-44,2.0,Expats,Graduated,590,War,Mississippi
+10049,45+,2.0,Expats,Graduated,300,War,Mississippi
+10050,18-24,1.0,Expats,No Degree,790,War,Mississippi
+10051,25-44,1.0,Expats,No Degree,1900,War,Mississippi
+10052,45+,1.0,Expats,No Degree,500,War,Mississippi
+10053,18-24,2.0,Expats,No Degree,140,War,Mississippi
+10054,25-44,2.0,Expats,No Degree,520,War,Mississippi
+10055,45+,2.0,Expats,No Degree,270,War,Mississippi
+10056,18-24,1.0,Expats,High School,750,War,Mississippi
+10057,25-44,1.0,Expats,High School,1100,War,Mississippi
+10058,45+,1.0,Expats,High School,210,War,Mississippi
+10059,18-24,2.0,Expats,High School,200,War,Mississippi
+10060,25-44,2.0,Expats,High School,370,War,Mississippi
+10061,45+,2.0,Expats,High School,140,War,Mississippi
+10062,18-24,1.0,Locals,Graduated,11000,War,Mississippi
+10063,25-44,1.0,Locals,Graduated,34000,War,Mississippi
+10064,45+,1.0,Locals,Graduated,19000,War,Mississippi
+10065,18-24,2.0,Locals,Graduated,3500,War,Mississippi
+10066,25-44,2.0,Locals,Graduated,19000,War,Mississippi
+10067,45+,2.0,Locals,Graduated,16000,War,Mississippi
+10068,18-24,1.0,Locals,No Degree,5500,War,Mississippi
+10069,25-44,1.0,Locals,No Degree,10000,War,Mississippi
+10070,45+,1.0,Locals,No Degree,8500,War,Mississippi
+10071,18-24,2.0,Locals,No Degree,2000,War,Mississippi
+10072,25-44,2.0,Locals,No Degree,4100,War,Mississippi
+10073,45+,2.0,Locals,No Degree,6100,War,Mississippi
+10074,18-24,1.0,Locals,High School,13000,War,Mississippi
+10075,25-44,1.0,Locals,High School,23000,War,Mississippi
+10076,45+,1.0,Locals,High School,13000,War,Mississippi
+10077,18-24,2.0,Locals,High School,5000,War,Mississippi
+10078,25-44,2.0,Locals,High School,11000,War,Mississippi
+10079,45+,2.0,Locals,High School,9900,War,Mississippi
+10080,18-24,1.0,Expats,Graduated,2100,War,Missouri
+10081,25-44,1.0,Expats,Graduated,5100,War,Missouri
+10082,45+,1.0,Expats,Graduated,1400,War,Missouri
+10083,18-24,2.0,Expats,Graduated,410,War,Missouri
+10084,25-44,2.0,Expats,Graduated,2000,War,Missouri
+10085,45+,2.0,Expats,Graduated,870,War,Missouri
+10086,18-24,1.0,Expats,No Degree,1600,War,Missouri
+10087,25-44,1.0,Expats,No Degree,4000,War,Missouri
+10088,45+,1.0,Expats,No Degree,1300,War,Missouri
+10089,18-24,2.0,Expats,No Degree,360,War,Missouri
+10090,25-44,2.0,Expats,No Degree,1200,War,Missouri
+10091,45+,2.0,Expats,No Degree,540,War,Missouri
+10092,18-24,1.0,Expats,High School,1900,War,Missouri
+10093,25-44,1.0,Expats,High School,2600,War,Missouri
+10094,45+,1.0,Expats,High School,600,War,Missouri
+10095,18-24,2.0,Expats,High School,630,War,Missouri
+10096,25-44,2.0,Expats,High School,1200,War,Missouri
+10097,45+,2.0,Expats,High School,350,War,Missouri
+10098,18-24,1.0,Locals,Graduated,20000,War,Missouri
+10099,25-44,1.0,Locals,Graduated,66000,War,Missouri
+10100,45+,1.0,Locals,Graduated,40000,War,Missouri
+10101,18-24,2.0,Locals,Graduated,5600,War,Missouri
+10102,25-44,2.0,Locals,Graduated,34000,War,Missouri
+10103,45+,2.0,Locals,Graduated,30000,War,Missouri
+10104,18-24,1.0,Locals,No Degree,12000,War,Missouri
+10105,25-44,1.0,Locals,No Degree,21000,War,Missouri
+10106,45+,1.0,Locals,No Degree,16000,War,Missouri
+10107,18-24,2.0,Locals,No Degree,4100,War,Missouri
+10108,25-44,2.0,Locals,No Degree,7200,War,Missouri
+10109,45+,2.0,Locals,No Degree,12000,War,Missouri
+10110,18-24,1.0,Locals,High School,30000,War,Missouri
+10111,25-44,1.0,Locals,High School,52000,War,Missouri
+10112,45+,1.0,Locals,High School,28000,War,Missouri
+10113,18-24,2.0,Locals,High School,11000,War,Missouri
+10114,25-44,2.0,Locals,High School,23000,War,Missouri
+10115,45+,2.0,Locals,High School,23000,War,Missouri
+10116,18-24,1.0,Expats,Graduated,190,War,Montana
+10117,25-44,1.0,Expats,Graduated,360,War,Montana
+10118,45+,1.0,Expats,Graduated,170,War,Montana
+10119,18-24,2.0,Expats,Graduated,20,War,Montana
+10120,25-44,2.0,Expats,Graduated,250,War,Montana
+10121,45+,2.0,Expats,Graduated,200,War,Montana
+10122,18-24,1.0,Expats,No Degree,60,War,Montana
+10123,25-44,1.0,Expats,No Degree,180,War,Montana
+10124,45+,1.0,Expats,No Degree,80,War,Montana
+10125,18-24,2.0,Expats,No Degree,20,War,Montana
+10126,25-44,2.0,Expats,No Degree,40,War,Montana
+10127,45+,2.0,Expats,No Degree,90,War,Montana
+10128,18-24,1.0,Expats,High School,180,War,Montana
+10129,25-44,1.0,Expats,High School,170,War,Montana
+10130,45+,1.0,Expats,High School,60,War,Montana
+10131,18-24,2.0,Expats,High School,90,War,Montana
+10132,25-44,2.0,Expats,High School,70,War,Montana
+10133,45+,2.0,Expats,High School,50,War,Montana
+10134,18-24,1.0,Locals,Graduated,4200,War,Montana
+10135,25-44,1.0,Locals,Graduated,12000,War,Montana
+10136,45+,1.0,Locals,Graduated,7000,War,Montana
+10137,18-24,2.0,Locals,Graduated,1100,War,Montana
+10138,25-44,2.0,Locals,Graduated,5800,War,Montana
+10139,45+,2.0,Locals,Graduated,6100,War,Montana
+10140,18-24,1.0,Locals,No Degree,2600,War,Montana
+10141,25-44,1.0,Locals,No Degree,3600,War,Montana
+10142,45+,1.0,Locals,No Degree,2300,War,Montana
+10143,18-24,2.0,Locals,No Degree,870,War,Montana
+10144,25-44,2.0,Locals,No Degree,1400,War,Montana
+10145,45+,2.0,Locals,No Degree,2000,War,Montana
+10146,18-24,1.0,Locals,High School,6100,War,Montana
+10147,25-44,1.0,Locals,High School,8700,War,Montana
+10148,45+,1.0,Locals,High School,4000,War,Montana
+10149,18-24,2.0,Locals,High School,2200,War,Montana
+10150,25-44,2.0,Locals,High School,4000,War,Montana
+10151,45+,2.0,Locals,High School,3600,War,Montana
+10152,18-24,1.0,Expats,Graduated,1100,War,Nebraska
+10153,25-44,1.0,Expats,Graduated,3200,War,Nebraska
+10154,45+,1.0,Expats,Graduated,650,War,Nebraska
+10155,18-24,2.0,Expats,Graduated,470,War,Nebraska
+10156,25-44,2.0,Expats,Graduated,1400,War,Nebraska
+10157,45+,2.0,Expats,Graduated,330,War,Nebraska
+10158,18-24,1.0,Expats,No Degree,1100,War,Nebraska
+10159,25-44,1.0,Expats,No Degree,3100,War,Nebraska
+10160,45+,1.0,Expats,No Degree,810,War,Nebraska
+10161,18-24,2.0,Expats,No Degree,450,War,Nebraska
+10162,25-44,2.0,Expats,No Degree,1200,War,Nebraska
+10163,45+,2.0,Expats,No Degree,220,War,Nebraska
+10164,18-24,1.0,Expats,High School,870,War,Nebraska
+10165,25-44,1.0,Expats,High School,1700,War,Nebraska
+10166,45+,1.0,Expats,High School,230,War,Nebraska
+10167,18-24,2.0,Expats,High School,500,War,Nebraska
+10168,25-44,2.0,Expats,High School,790,War,Nebraska
+10169,45+,2.0,Expats,High School,130,War,Nebraska
+10170,18-24,1.0,Locals,Graduated,6300,War,Nebraska
+10171,25-44,1.0,Locals,Graduated,20000,War,Nebraska
+10172,45+,1.0,Locals,Graduated,11000,War,Nebraska
+10173,18-24,2.0,Locals,Graduated,1800,War,Nebraska
+10174,25-44,2.0,Locals,Graduated,11000,War,Nebraska
+10175,45+,2.0,Locals,Graduated,9800,War,Nebraska
+10176,18-24,1.0,Locals,No Degree,3600,War,Nebraska
+10177,25-44,1.0,Locals,No Degree,5900,War,Nebraska
+10178,45+,1.0,Locals,No Degree,4200,War,Nebraska
+10179,18-24,2.0,Locals,No Degree,1200,War,Nebraska
+10180,25-44,2.0,Locals,No Degree,2300,War,Nebraska
+10181,45+,2.0,Locals,No Degree,3300,War,Nebraska
+10182,18-24,1.0,Locals,High School,8700,War,Nebraska
+10183,25-44,1.0,Locals,High School,15000,War,Nebraska
+10184,45+,1.0,Locals,High School,7900,War,Nebraska
+10185,18-24,2.0,Locals,High School,3500,War,Nebraska
+10186,25-44,2.0,Locals,High School,6800,War,Nebraska
+10187,45+,2.0,Locals,High School,6400,War,Nebraska
+10188,18-24,1.0,Expats,Graduated,1800,War,Nevada
+10189,25-44,1.0,Expats,Graduated,8100,War,Nevada
+10190,45+,1.0,Expats,Graduated,3600,War,Nevada
+10191,18-24,2.0,Expats,Graduated,650,War,Nevada
+10192,25-44,2.0,Expats,Graduated,3600,War,Nevada
+10193,45+,2.0,Expats,Graduated,2100,War,Nevada
+10194,18-24,1.0,Expats,No Degree,2000,War,Nevada
+10195,25-44,1.0,Expats,No Degree,7700,War,Nevada
+10196,45+,1.0,Expats,No Degree,3700,War,Nevada
+10197,18-24,2.0,Expats,No Degree,650,War,Nevada
+10198,25-44,2.0,Expats,No Degree,3600,War,Nevada
+10199,45+,2.0,Expats,No Degree,2100,War,Nevada
+10200,18-24,1.0,Expats,High School,1900,War,Nevada
+10201,25-44,1.0,Expats,High School,5200,War,Nevada
+10202,45+,1.0,Expats,High School,1600,War,Nevada
+10203,18-24,2.0,Expats,High School,840,War,Nevada
+10204,25-44,2.0,Expats,High School,2600,War,Nevada
+10205,45+,2.0,Expats,High School,1100,War,Nevada
+10206,18-24,1.0,Locals,Graduated,6900,War,Nevada
+10207,25-44,1.0,Locals,Graduated,25000,War,Nevada
+10208,45+,1.0,Locals,Graduated,16000,War,Nevada
+10209,18-24,2.0,Locals,Graduated,2100,War,Nevada
+10210,25-44,2.0,Locals,Graduated,12000,War,Nevada
+10211,45+,2.0,Locals,Graduated,10000,War,Nevada
+10212,18-24,1.0,Locals,No Degree,6800,War,Nevada
+10213,25-44,1.0,Locals,No Degree,10000,War,Nevada
+10214,45+,1.0,Locals,No Degree,6100,War,Nevada
+10215,18-24,2.0,Locals,No Degree,2700,War,Nevada
+10216,25-44,2.0,Locals,No Degree,4000,War,Nevada
+10217,45+,2.0,Locals,No Degree,4400,War,Nevada
+10218,18-24,1.0,Locals,High School,12000,War,Nevada
+10219,25-44,1.0,Locals,High School,21000,War,Nevada
+10220,45+,1.0,Locals,High School,10000,War,Nevada
+10221,18-24,2.0,Locals,High School,4400,War,Nevada
+10222,25-44,2.0,Locals,High School,9100,War,Nevada
+10223,45+,2.0,Locals,High School,7600,War,Nevada
+10224,18-24,1.0,Expats,Graduated,420,War,New Hampshire
+10225,25-44,1.0,Expats,Graduated,1300,War,New Hampshire
+10226,45+,1.0,Expats,Graduated,530,War,New Hampshire
+10227,18-24,2.0,Expats,Graduated,70,War,New Hampshire
+10228,25-44,2.0,Expats,Graduated,450,War,New Hampshire
+10229,45+,2.0,Expats,Graduated,410,War,New Hampshire
+10230,18-24,1.0,Expats,No Degree,270,War,New Hampshire
+10231,25-44,1.0,Expats,No Degree,610,War,New Hampshire
+10232,45+,1.0,Expats,No Degree,270,War,New Hampshire
+10233,18-24,2.0,Expats,No Degree,20,War,New Hampshire
+10234,25-44,2.0,Expats,No Degree,180,War,New Hampshire
+10235,45+,2.0,Expats,No Degree,140,War,New Hampshire
+10236,18-24,1.0,Expats,High School,360,War,New Hampshire
+10237,25-44,1.0,Expats,High School,500,War,New Hampshire
+10238,45+,1.0,Expats,High School,270,War,New Hampshire
+10239,18-24,2.0,Expats,High School,140,War,New Hampshire
+10240,25-44,2.0,Expats,High School,180,War,New Hampshire
+10241,45+,2.0,Expats,High School,140,War,New Hampshire
+10242,18-24,1.0,Locals,Graduated,3200,War,New Hampshire
+10243,25-44,1.0,Locals,Graduated,13000,War,New Hampshire
+10244,45+,1.0,Locals,Graduated,8200,War,New Hampshire
+10245,18-24,2.0,Locals,Graduated,1000,War,New Hampshire
+10246,25-44,2.0,Locals,Graduated,6900,War,New Hampshire
+10247,45+,2.0,Locals,Graduated,7000,War,New Hampshire
+10248,18-24,1.0,Locals,No Degree,1800,War,New Hampshire
+10249,25-44,1.0,Locals,No Degree,3500,War,New Hampshire
+10250,45+,1.0,Locals,No Degree,3000,War,New Hampshire
+10251,18-24,2.0,Locals,No Degree,570,War,New Hampshire
+10252,25-44,2.0,Locals,No Degree,1400,War,New Hampshire
+10253,45+,2.0,Locals,No Degree,2300,War,New Hampshire
+10254,18-24,1.0,Locals,High School,5100,War,New Hampshire
+10255,25-44,1.0,Locals,High School,11000,War,New Hampshire
+10256,45+,1.0,Locals,High School,5800,War,New Hampshire
+10257,18-24,2.0,Locals,High School,2200,War,New Hampshire
+10258,25-44,2.0,Locals,High School,3900,War,New Hampshire
+10259,45+,2.0,Locals,High School,4900,War,New Hampshire
+10260,18-24,1.0,Expats,Graduated,8700,War,New Jersey
+10261,25-44,1.0,Expats,Graduated,36000,War,New Jersey
+10262,45+,1.0,Expats,Graduated,13000,War,New Jersey
+10263,18-24,2.0,Expats,Graduated,2300,War,New Jersey
+10264,25-44,2.0,Expats,Graduated,14000,War,New Jersey
+10265,45+,2.0,Expats,Graduated,7300,War,New Jersey
+10266,18-24,1.0,Expats,No Degree,8400,War,New Jersey
+10267,25-44,1.0,Expats,No Degree,26000,War,New Jersey
+10268,45+,1.0,Expats,No Degree,12000,War,New Jersey
+10269,18-24,2.0,Expats,No Degree,2100,War,New Jersey
+10270,25-44,2.0,Expats,No Degree,7800,War,New Jersey
+10271,45+,2.0,Expats,No Degree,5900,War,New Jersey
+10272,18-24,1.0,Expats,High School,7300,War,New Jersey
+10273,25-44,1.0,Expats,High School,17000,War,New Jersey
+10274,45+,1.0,Expats,High School,5300,War,New Jersey
+10275,18-24,2.0,Expats,High School,2400,War,New Jersey
+10276,25-44,2.0,Expats,High School,6000,War,New Jersey
+10277,45+,2.0,Expats,High School,3000,War,New Jersey
+10278,18-24,1.0,Locals,Graduated,16000,War,New Jersey
+10279,25-44,1.0,Locals,Graduated,62000,War,New Jersey
+10280,45+,1.0,Locals,Graduated,37000,War,New Jersey
+10281,18-24,2.0,Locals,Graduated,5600,War,New Jersey
+10282,25-44,2.0,Locals,Graduated,32000,War,New Jersey
+10283,45+,2.0,Locals,Graduated,32000,War,New Jersey
+10284,18-24,1.0,Locals,No Degree,9200,War,New Jersey
+10285,25-44,1.0,Locals,No Degree,20000,War,New Jersey
+10286,45+,1.0,Locals,No Degree,15000,War,New Jersey
+10287,18-24,2.0,Locals,No Degree,3000,War,New Jersey
+10288,25-44,2.0,Locals,No Degree,7100,War,New Jersey
+10289,45+,2.0,Locals,No Degree,12000,War,New Jersey
+10290,18-24,1.0,Locals,High School,22000,War,New Jersey
+10291,25-44,1.0,Locals,High School,39000,War,New Jersey
+10292,45+,1.0,Locals,High School,24000,War,New Jersey
+10293,18-24,2.0,Locals,High School,9600,War,New Jersey
+10294,25-44,2.0,Locals,High School,16000,War,New Jersey
+10295,45+,2.0,Locals,High School,21000,War,New Jersey
+10296,18-24,1.0,Expats,Graduated,1000,War,New Mexico
+10297,25-44,1.0,Expats,Graduated,3000,War,New Mexico
+10298,45+,1.0,Expats,Graduated,870,War,New Mexico
+10299,18-24,2.0,Expats,Graduated,410,War,New Mexico
+10300,25-44,2.0,Expats,Graduated,1800,War,New Mexico
+10301,45+,2.0,Expats,Graduated,900,War,New Mexico
+10302,18-24,1.0,Expats,No Degree,880,War,New Mexico
+10303,25-44,1.0,Expats,No Degree,2900,War,New Mexico
+10304,45+,1.0,Expats,No Degree,1200,War,New Mexico
+10305,18-24,2.0,Expats,No Degree,400,War,New Mexico
+10306,25-44,2.0,Expats,No Degree,1400,War,New Mexico
+10307,45+,2.0,Expats,No Degree,900,War,New Mexico
+10308,18-24,1.0,Expats,High School,1100,War,New Mexico
+10309,25-44,1.0,Expats,High School,1800,War,New Mexico
+10310,45+,1.0,Expats,High School,480,War,New Mexico
+10311,18-24,2.0,Expats,High School,610,War,New Mexico
+10312,25-44,2.0,Expats,High School,1400,War,New Mexico
+10313,45+,2.0,Expats,High School,360,War,New Mexico
+10314,18-24,1.0,Locals,Graduated,6900,War,New Mexico
+10315,25-44,1.0,Locals,Graduated,20000,War,New Mexico
+10316,45+,1.0,Locals,Graduated,11000,War,New Mexico
+10317,18-24,2.0,Locals,Graduated,2100,War,New Mexico
+10318,25-44,2.0,Locals,Graduated,12000,War,New Mexico
+10319,45+,2.0,Locals,Graduated,9900,War,New Mexico
+10320,18-24,1.0,Locals,No Degree,6300,War,New Mexico
+10321,25-44,1.0,Locals,No Degree,7900,War,New Mexico
+10322,45+,1.0,Locals,No Degree,4900,War,New Mexico
+10323,18-24,2.0,Locals,No Degree,2200,War,New Mexico
+10324,25-44,2.0,Locals,No Degree,3500,War,New Mexico
+10325,45+,2.0,Locals,No Degree,3900,War,New Mexico
+10326,18-24,1.0,Locals,High School,10000,War,New Mexico
+10327,25-44,1.0,Locals,High School,15000,War,New Mexico
+10328,45+,1.0,Locals,High School,6500,War,New Mexico
+10329,18-24,2.0,Locals,High School,4200,War,New Mexico
+10330,25-44,2.0,Locals,High School,8300,War,New Mexico
+10331,45+,2.0,Locals,High School,6000,War,New Mexico
+10332,18-24,1.0,Expats,Graduated,21000,War,New York
+10333,25-44,1.0,Expats,Graduated,77000,War,New York
+10334,45+,1.0,Expats,Graduated,23000,War,New York
+10335,18-24,2.0,Expats,Graduated,5500,War,New York
+10336,25-44,2.0,Expats,Graduated,30000,War,New York
+10337,45+,2.0,Expats,Graduated,13000,War,New York
+10338,18-24,1.0,Expats,No Degree,21000,War,New York
+10339,25-44,1.0,Expats,No Degree,68000,War,New York
+10340,45+,1.0,Expats,No Degree,30000,War,New York
+10341,18-24,2.0,Expats,No Degree,5800,War,New York
+10342,25-44,2.0,Expats,No Degree,20000,War,New York
+10343,45+,2.0,Expats,No Degree,14000,War,New York
+10344,18-24,1.0,Expats,High School,20000,War,New York
+10345,25-44,1.0,Expats,High School,39000,War,New York
+10346,45+,1.0,Expats,High School,11000,War,New York
+10347,18-24,2.0,Expats,High School,6400,War,New York
+10348,25-44,2.0,Expats,High School,14000,War,New York
+10349,45+,2.0,Expats,High School,6100,War,New York
+10350,18-24,1.0,Locals,Graduated,41000,War,New York
+10351,25-44,1.0,Locals,Graduated,140000,War,New York
+10352,45+,1.0,Locals,Graduated,71000,War,New York
+10353,18-24,2.0,Locals,Graduated,14000,War,New York
+10354,25-44,2.0,Locals,Graduated,78000,War,New York
+10355,45+,2.0,Locals,Graduated,60000,War,New York
+10356,18-24,1.0,Locals,No Degree,31000,War,New York
+10357,25-44,1.0,Locals,No Degree,57000,War,New York
+10358,45+,1.0,Locals,No Degree,38000,War,New York
+10359,18-24,2.0,Locals,No Degree,10000,War,New York
+10360,25-44,2.0,Locals,No Degree,20000,War,New York
+10361,45+,2.0,Locals,No Degree,27000,War,New York
+10362,18-24,1.0,Locals,High School,61000,War,New York
+10363,25-44,1.0,Locals,High School,93000,War,New York
+10364,45+,1.0,Locals,High School,47000,War,New York
+10365,18-24,2.0,Locals,High School,24000,War,New York
+10366,25-44,2.0,Locals,High School,38000,War,New York
+10367,45+,2.0,Locals,High School,36000,War,New York
+10368,18-24,1.0,Expats,Graduated,5300,War,North Carolina
+10369,25-44,1.0,Expats,Graduated,17000,War,North Carolina
+10370,45+,1.0,Expats,Graduated,4300,War,North Carolina
+10371,18-24,2.0,Expats,Graduated,1600,War,North Carolina
+10372,25-44,2.0,Expats,Graduated,6900,War,North Carolina
+10373,45+,2.0,Expats,Graduated,2700,War,North Carolina
+10374,18-24,1.0,Expats,No Degree,5400,War,North Carolina
+10375,25-44,1.0,Expats,No Degree,16000,War,North Carolina
+10376,45+,1.0,Expats,No Degree,4300,War,North Carolina
+10377,18-24,2.0,Expats,No Degree,1600,War,North Carolina
+10378,25-44,2.0,Expats,No Degree,5900,War,North Carolina
+10379,45+,2.0,Expats,No Degree,2100,War,North Carolina
+10380,18-24,1.0,Expats,High School,4800,War,North Carolina
+10381,25-44,1.0,Expats,High School,8800,War,North Carolina
+10382,45+,1.0,Expats,High School,2100,War,North Carolina
+10383,18-24,2.0,Expats,High School,2000,War,North Carolina
+10384,25-44,2.0,Expats,High School,4300,War,North Carolina
+10385,45+,2.0,Expats,High School,970,War,North Carolina
+10386,18-24,1.0,Locals,Graduated,31000,War,North Carolina
+10387,25-44,1.0,Locals,Graduated,100000,War,North Carolina
+10388,45+,1.0,Locals,Graduated,62000,War,North Carolina
+10389,18-24,2.0,Locals,Graduated,9400,War,North Carolina
+10390,25-44,2.0,Locals,Graduated,60000,War,North Carolina
+10391,45+,2.0,Locals,Graduated,54000,War,North Carolina
+10392,18-24,1.0,Locals,No Degree,17000,War,North Carolina
+10393,25-44,1.0,Locals,No Degree,30000,War,North Carolina
+10394,45+,1.0,Locals,No Degree,22000,War,North Carolina
+10395,18-24,2.0,Locals,No Degree,5700,War,North Carolina
+10396,25-44,2.0,Locals,No Degree,11000,War,North Carolina
+10397,45+,2.0,Locals,No Degree,16000,War,North Carolina
+10398,18-24,1.0,Locals,High School,42000,War,North Carolina
+10399,25-44,1.0,Locals,High School,69000,War,North Carolina
+10400,45+,1.0,Locals,High School,38000,War,North Carolina
+10401,18-24,2.0,Locals,High School,16000,War,North Carolina
+10402,25-44,2.0,Locals,High School,31000,War,North Carolina
+10403,45+,2.0,Locals,High School,28000,War,North Carolina
+10404,18-24,1.0,Expats,Graduated,370,War,North Dakota
+10405,25-44,1.0,Expats,Graduated,1200,War,North Dakota
+10406,45+,1.0,Expats,Graduated,300,War,North Dakota
+10407,18-24,2.0,Expats,Graduated,60,War,North Dakota
+10408,25-44,2.0,Expats,Graduated,290,War,North Dakota
+10409,45+,2.0,Expats,Graduated,140,War,North Dakota
+10410,18-24,1.0,Expats,No Degree,180,War,North Dakota
+10411,25-44,1.0,Expats,No Degree,560,War,North Dakota
+10412,45+,1.0,Expats,No Degree,270,War,North Dakota
+10413,18-24,2.0,Expats,No Degree,60,War,North Dakota
+10414,25-44,2.0,Expats,No Degree,150,War,North Dakota
+10415,45+,2.0,Expats,No Degree,20,War,North Dakota
+10416,18-24,1.0,Expats,High School,260,War,North Dakota
+10417,25-44,1.0,Expats,High School,450,War,North Dakota
+10418,45+,1.0,Expats,High School,140,War,North Dakota
+10419,18-24,2.0,Expats,High School,60,War,North Dakota
+10420,25-44,2.0,Expats,High School,150,War,North Dakota
+10421,45+,2.0,Expats,High School,60,War,North Dakota
+10422,18-24,1.0,Locals,Graduated,2900,War,North Dakota
+10423,25-44,1.0,Locals,Graduated,11000,War,North Dakota
+10424,45+,1.0,Locals,Graduated,5000,War,North Dakota
+10425,18-24,2.0,Locals,Graduated,700,War,North Dakota
+10426,25-44,2.0,Locals,Graduated,4900,War,North Dakota
+10427,45+,2.0,Locals,Graduated,4700,War,North Dakota
+10428,18-24,1.0,Locals,No Degree,1700,War,North Dakota
+10429,25-44,1.0,Locals,No Degree,2700,War,North Dakota
+10430,45+,1.0,Locals,No Degree,1700,War,North Dakota
+10431,18-24,2.0,Locals,No Degree,530,War,North Dakota
+10432,25-44,2.0,Locals,No Degree,850,War,North Dakota
+10433,45+,2.0,Locals,No Degree,2200,War,North Dakota
+10434,18-24,1.0,Locals,High School,5000,War,North Dakota
+10435,25-44,1.0,Locals,High School,7900,War,North Dakota
+10436,45+,1.0,Locals,High School,3100,War,North Dakota
+10437,18-24,2.0,Locals,High School,1500,War,North Dakota
+10438,25-44,2.0,Locals,High School,2800,War,North Dakota
+10439,45+,2.0,Locals,High School,2500,War,North Dakota
+10440,18-24,1.0,Expats,Graduated,2900,War,Ohio
+10441,25-44,1.0,Expats,Graduated,11000,War,Ohio
+10442,45+,1.0,Expats,Graduated,2800,War,Ohio
+10443,18-24,2.0,Expats,Graduated,660,War,Ohio
+10444,25-44,2.0,Expats,Graduated,3600,War,Ohio
+10445,45+,2.0,Expats,Graduated,1900,War,Ohio
+10446,18-24,1.0,Expats,No Degree,2600,War,Ohio
+10447,25-44,1.0,Expats,No Degree,7100,War,Ohio
+10448,45+,1.0,Expats,No Degree,2600,War,Ohio
+10449,18-24,2.0,Expats,No Degree,660,War,Ohio
+10450,25-44,2.0,Expats,No Degree,2100,War,Ohio
+10451,45+,2.0,Expats,No Degree,1000,War,Ohio
+10452,18-24,1.0,Expats,High School,3200,War,Ohio
+10453,25-44,1.0,Expats,High School,4600,War,Ohio
+10454,45+,1.0,Expats,High School,1100,War,Ohio
+10455,18-24,2.0,Expats,High School,1000,War,Ohio
+10456,25-44,2.0,Expats,High School,1500,War,Ohio
+10457,45+,2.0,Expats,High School,770,War,Ohio
+10458,18-24,1.0,Locals,Graduated,33000,War,Ohio
+10459,25-44,1.0,Locals,Graduated,120000,War,Ohio
+10460,45+,1.0,Locals,Graduated,71000,War,Ohio
+10461,18-24,2.0,Locals,Graduated,9500,War,Ohio
+10462,25-44,2.0,Locals,Graduated,62000,War,Ohio
+10463,45+,2.0,Locals,Graduated,56000,War,Ohio
+10464,18-24,1.0,Locals,No Degree,21000,War,Ohio
+10465,25-44,1.0,Locals,No Degree,35000,War,Ohio
+10466,45+,1.0,Locals,No Degree,28000,War,Ohio
+10467,18-24,2.0,Locals,No Degree,7100,War,Ohio
+10468,25-44,2.0,Locals,No Degree,13000,War,Ohio
+10469,45+,2.0,Locals,No Degree,21000,War,Ohio
+10470,18-24,1.0,Locals,High School,50000,War,Ohio
+10471,25-44,1.0,Locals,High School,96000,War,Ohio
+10472,45+,1.0,Locals,High School,54000,War,Ohio
+10473,18-24,2.0,Locals,High School,19000,War,Ohio
+10474,25-44,2.0,Locals,High School,43000,War,Ohio
+10475,45+,2.0,Locals,High School,45000,War,Ohio
+10476,18-24,1.0,Expats,Graduated,1700,War,Oklahoma
+10477,25-44,1.0,Expats,Graduated,4800,War,Oklahoma
+10478,45+,1.0,Expats,Graduated,1300,War,Oklahoma
+10479,18-24,2.0,Expats,Graduated,560,War,Oklahoma
+10480,25-44,2.0,Expats,Graduated,2000,War,Oklahoma
+10481,45+,2.0,Expats,Graduated,540,War,Oklahoma
+10482,18-24,1.0,Expats,No Degree,1700,War,Oklahoma
+10483,25-44,1.0,Expats,No Degree,5200,War,Oklahoma
+10484,45+,1.0,Expats,No Degree,1600,War,Oklahoma
+10485,18-24,2.0,Expats,No Degree,500,War,Oklahoma
+10486,25-44,2.0,Expats,No Degree,1900,War,Oklahoma
+10487,45+,2.0,Expats,No Degree,740,War,Oklahoma
+10488,18-24,1.0,Expats,High School,1500,War,Oklahoma
+10489,25-44,1.0,Expats,High School,2600,War,Oklahoma
+10490,45+,1.0,Expats,High School,570,War,Oklahoma
+10491,18-24,2.0,Expats,High School,630,War,Oklahoma
+10492,25-44,2.0,Expats,High School,1600,War,Oklahoma
+10493,45+,2.0,Expats,High School,410,War,Oklahoma
+10494,18-24,1.0,Locals,Graduated,13000,War,Oklahoma
+10495,25-44,1.0,Locals,Graduated,45000,War,Oklahoma
+10496,45+,1.0,Locals,Graduated,29000,War,Oklahoma
+10497,18-24,2.0,Locals,Graduated,3700,War,Oklahoma
+10498,25-44,2.0,Locals,Graduated,23000,War,Oklahoma
+10499,45+,2.0,Locals,Graduated,21000,War,Oklahoma
+10500,18-24,1.0,Locals,No Degree,8800,War,Oklahoma
+10501,25-44,1.0,Locals,No Degree,14000,War,Oklahoma
+10502,45+,1.0,Locals,No Degree,10000,War,Oklahoma
+10503,18-24,2.0,Locals,No Degree,3200,War,Oklahoma
+10504,25-44,2.0,Locals,No Degree,5300,War,Oklahoma
+10505,45+,2.0,Locals,No Degree,7600,War,Oklahoma
+10506,18-24,1.0,Locals,High School,20000,War,Oklahoma
+10507,25-44,1.0,Locals,High School,39000,War,Oklahoma
+10508,45+,1.0,Locals,High School,20000,War,Oklahoma
+10509,18-24,2.0,Locals,High School,7200,War,Oklahoma
+10510,25-44,2.0,Locals,High School,16000,War,Oklahoma
+10511,45+,2.0,Locals,High School,16000,War,Oklahoma
+10512,18-24,1.0,Expats,Graduated,1600,War,Oregon
+10513,25-44,1.0,Expats,Graduated,6000,War,Oregon
+10514,45+,1.0,Expats,Graduated,2100,War,Oregon
+10515,18-24,2.0,Expats,Graduated,490,War,Oregon
+10516,25-44,2.0,Expats,Graduated,2600,War,Oregon
+10517,45+,2.0,Expats,Graduated,1100,War,Oregon
+10518,18-24,1.0,Expats,No Degree,1500,War,Oregon
+10519,25-44,1.0,Expats,No Degree,4500,War,Oregon
+10520,45+,1.0,Expats,No Degree,1900,War,Oregon
+10521,18-24,2.0,Expats,No Degree,520,War,Oregon
+10522,25-44,2.0,Expats,No Degree,1700,War,Oregon
+10523,45+,2.0,Expats,No Degree,1100,War,Oregon
+10524,18-24,1.0,Expats,High School,1700,War,Oregon
+10525,25-44,1.0,Expats,High School,3200,War,Oregon
+10526,45+,1.0,Expats,High School,810,War,Oregon
+10527,18-24,2.0,Expats,High School,760,War,Oregon
+10528,25-44,2.0,Expats,High School,1600,War,Oregon
+10529,45+,2.0,Expats,High School,450,War,Oregon
+10530,18-24,1.0,Locals,Graduated,11000,War,Oregon
+10531,25-44,1.0,Locals,Graduated,38000,War,Oregon
+10532,45+,1.0,Locals,Graduated,25000,War,Oregon
+10533,18-24,2.0,Locals,Graduated,3500,War,Oregon
+10534,25-44,2.0,Locals,Graduated,21000,War,Oregon
+10535,45+,2.0,Locals,Graduated,23000,War,Oregon
+10536,18-24,1.0,Locals,No Degree,7500,War,Oregon
+10537,25-44,1.0,Locals,No Degree,13000,War,Oregon
+10538,45+,1.0,Locals,No Degree,9000,War,Oregon
+10539,18-24,2.0,Locals,No Degree,2500,War,Oregon
+10540,25-44,2.0,Locals,No Degree,5100,War,Oregon
+10541,45+,2.0,Locals,No Degree,7600,War,Oregon
+10542,18-24,1.0,Locals,High School,17000,War,Oregon
+10543,25-44,1.0,Locals,High School,29000,War,Oregon
+10544,45+,1.0,Locals,High School,14000,War,Oregon
+10545,18-24,2.0,Locals,High School,6400,War,Oregon
+10546,25-44,2.0,Locals,High School,13000,War,Oregon
+10547,45+,2.0,Locals,High School,13000,War,Oregon
+10548,18-24,1.0,Expats,Graduated,5100,War,Pennsylvania
+10549,25-44,1.0,Expats,Graduated,17000,War,Pennsylvania
+10550,45+,1.0,Expats,Graduated,5500,War,Pennsylvania
+10551,18-24,2.0,Expats,Graduated,1400,War,Pennsylvania
+10552,25-44,2.0,Expats,Graduated,7000,War,Pennsylvania
+10553,45+,2.0,Expats,Graduated,3100,War,Pennsylvania
+10554,18-24,1.0,Expats,No Degree,4600,War,Pennsylvania
+10555,25-44,1.0,Expats,No Degree,12000,War,Pennsylvania
+10556,45+,1.0,Expats,No Degree,5300,War,Pennsylvania
+10557,18-24,2.0,Expats,No Degree,1000,War,Pennsylvania
+10558,25-44,2.0,Expats,No Degree,3800,War,Pennsylvania
+10559,45+,2.0,Expats,No Degree,2500,War,Pennsylvania
+10560,18-24,1.0,Expats,High School,5300,War,Pennsylvania
+10561,25-44,1.0,Expats,High School,8700,War,Pennsylvania
+10562,45+,1.0,Expats,High School,2400,War,Pennsylvania
+10563,18-24,2.0,Expats,High School,1700,War,Pennsylvania
+10564,25-44,2.0,Expats,High School,3400,War,Pennsylvania
+10565,45+,2.0,Expats,High School,1700,War,Pennsylvania
+10566,18-24,1.0,Locals,Graduated,32000,War,Pennsylvania
+10567,25-44,1.0,Locals,Graduated,120000,War,Pennsylvania
+10568,45+,1.0,Locals,Graduated,64000,War,Pennsylvania
+10569,18-24,2.0,Locals,Graduated,10000,War,Pennsylvania
+10570,25-44,2.0,Locals,Graduated,63000,War,Pennsylvania
+10571,45+,2.0,Locals,Graduated,54000,War,Pennsylvania
+10572,18-24,1.0,Locals,No Degree,19000,War,Pennsylvania
+10573,25-44,1.0,Locals,No Degree,34000,War,Pennsylvania
+10574,45+,1.0,Locals,No Degree,28000,War,Pennsylvania
+10575,18-24,2.0,Locals,No Degree,6700,War,Pennsylvania
+10576,25-44,2.0,Locals,No Degree,13000,War,Pennsylvania
+10577,45+,2.0,Locals,No Degree,20000,War,Pennsylvania
+10578,18-24,1.0,Locals,High School,49000,War,Pennsylvania
+10579,25-44,1.0,Locals,High School,86000,War,Pennsylvania
+10580,45+,1.0,Locals,High School,49000,War,Pennsylvania
+10581,18-24,2.0,Locals,High School,20000,War,Pennsylvania
+10582,25-44,2.0,Locals,High School,38000,War,Pennsylvania
+10583,45+,2.0,Locals,High School,43000,War,Pennsylvania
+10584,18-24,1.0,Expats,Graduated,810,War,Rhode Island
+10585,25-44,1.0,Expats,Graduated,2800,War,Rhode Island
+10586,45+,1.0,Expats,Graduated,1000,War,Rhode Island
+10587,18-24,2.0,Expats,Graduated,170,War,Rhode Island
+10588,25-44,2.0,Expats,Graduated,1100,War,Rhode Island
+10589,45+,2.0,Expats,Graduated,620,War,Rhode Island
+10590,18-24,1.0,Expats,No Degree,800,War,Rhode Island
+10591,25-44,1.0,Expats,No Degree,2100,War,Rhode Island
+10592,45+,1.0,Expats,No Degree,920,War,Rhode Island
+10593,18-24,2.0,Expats,No Degree,190,War,Rhode Island
+10594,25-44,2.0,Expats,No Degree,610,War,Rhode Island
+10595,45+,2.0,Expats,No Degree,370,War,Rhode Island
+10596,18-24,1.0,Expats,High School,740,War,Rhode Island
+10597,25-44,1.0,Expats,High School,1300,War,Rhode Island
+10598,45+,1.0,Expats,High School,450,War,Rhode Island
+10599,18-24,2.0,Expats,High School,260,War,Rhode Island
+10600,25-44,2.0,Expats,High School,630,War,Rhode Island
+10601,45+,2.0,Expats,High School,200,War,Rhode Island
+10602,18-24,1.0,Locals,Graduated,2500,War,Rhode Island
+10603,25-44,1.0,Locals,Graduated,9100,War,Rhode Island
+10604,45+,1.0,Locals,Graduated,5200,War,Rhode Island
+10605,18-24,2.0,Locals,Graduated,1000,War,Rhode Island
+10606,25-44,2.0,Locals,Graduated,5300,War,Rhode Island
+10607,45+,2.0,Locals,Graduated,4700,War,Rhode Island
+10608,18-24,1.0,Locals,No Degree,1500,War,Rhode Island
+10609,25-44,1.0,Locals,No Degree,3200,War,Rhode Island
+10610,45+,1.0,Locals,No Degree,2100,War,Rhode Island
+10611,18-24,2.0,Locals,No Degree,590,War,Rhode Island
+10612,25-44,2.0,Locals,No Degree,1300,War,Rhode Island
+10613,45+,2.0,Locals,No Degree,1600,War,Rhode Island
+10614,18-24,1.0,Locals,High School,4000,War,Rhode Island
+10615,25-44,1.0,Locals,High School,7100,War,Rhode Island
+10616,45+,1.0,Locals,High School,3300,War,Rhode Island
+10617,18-24,2.0,Locals,High School,1900,War,Rhode Island
+10618,25-44,2.0,Locals,High School,2700,War,Rhode Island
+10619,45+,2.0,Locals,High School,2500,War,Rhode Island
+10620,18-24,1.0,Expats,Graduated,1800,War,South Carolina
+10621,25-44,1.0,Expats,Graduated,6000,War,South Carolina
+10622,45+,1.0,Expats,Graduated,1600,War,South Carolina
+10623,18-24,2.0,Expats,Graduated,380,War,South Carolina
+10624,25-44,2.0,Expats,Graduated,2300,War,South Carolina
+10625,45+,2.0,Expats,Graduated,1100,War,South Carolina
+10626,18-24,1.0,Expats,No Degree,1900,War,South Carolina
+10627,25-44,1.0,Expats,No Degree,5600,War,South Carolina
+10628,45+,1.0,Expats,No Degree,1400,War,South Carolina
+10629,18-24,2.0,Expats,No Degree,390,War,South Carolina
+10630,25-44,2.0,Expats,No Degree,1700,War,South Carolina
+10631,45+,2.0,Expats,No Degree,650,War,South Carolina
+10632,18-24,1.0,Expats,High School,1200,War,South Carolina
+10633,25-44,1.0,Expats,High School,2900,War,South Carolina
+10634,45+,1.0,Expats,High School,590,War,South Carolina
+10635,18-24,2.0,Expats,High School,570,War,South Carolina
+10636,25-44,2.0,Expats,High School,1300,War,South Carolina
+10637,45+,2.0,Expats,High School,400,War,South Carolina
+10638,18-24,1.0,Locals,Graduated,15000,War,South Carolina
+10639,25-44,1.0,Locals,Graduated,50000,War,South Carolina
+10640,45+,1.0,Locals,Graduated,32000,War,South Carolina
+10641,18-24,2.0,Locals,Graduated,4300,War,South Carolina
+10642,25-44,2.0,Locals,Graduated,27000,War,South Carolina
+10643,45+,2.0,Locals,Graduated,26000,War,South Carolina
+10644,18-24,1.0,Locals,No Degree,8200,War,South Carolina
+10645,25-44,1.0,Locals,No Degree,15000,War,South Carolina
+10646,45+,1.0,Locals,No Degree,12000,War,South Carolina
+10647,18-24,2.0,Locals,No Degree,3200,War,South Carolina
+10648,25-44,2.0,Locals,No Degree,5500,War,South Carolina
+10649,45+,2.0,Locals,No Degree,8700,War,South Carolina
+10650,18-24,1.0,Locals,High School,20000,War,South Carolina
+10651,25-44,1.0,Locals,High School,36000,War,South Carolina
+10652,45+,1.0,Locals,High School,21000,War,South Carolina
+10653,18-24,2.0,Locals,High School,7100,War,South Carolina
+10654,25-44,2.0,Locals,High School,17000,War,South Carolina
+10655,45+,2.0,Locals,High School,17000,War,South Carolina
+10656,18-24,1.0,Expats,Graduated,300,War,South Dakota
+10657,25-44,1.0,Expats,Graduated,950,War,South Dakota
+10658,45+,1.0,Expats,Graduated,110,War,South Dakota
+10659,18-24,2.0,Expats,Graduated,40,War,South Dakota
+10660,25-44,2.0,Expats,Graduated,200,War,South Dakota
+10661,45+,2.0,Expats,Graduated,90,War,South Dakota
+10662,18-24,1.0,Expats,No Degree,260,War,South Dakota
+10663,25-44,1.0,Expats,No Degree,560,War,South Dakota
+10664,45+,1.0,Expats,No Degree,90,War,South Dakota
+10665,18-24,2.0,Expats,No Degree,50,War,South Dakota
+10666,25-44,2.0,Expats,No Degree,130,War,South Dakota
+10667,45+,2.0,Expats,No Degree,60,War,South Dakota
+10668,18-24,1.0,Expats,High School,340,War,South Dakota
+10669,25-44,1.0,Expats,High School,310,War,South Dakota
+10670,45+,1.0,Expats,High School,80,War,South Dakota
+10671,18-24,2.0,Expats,High School,120,War,South Dakota
+10672,25-44,2.0,Expats,High School,150,War,South Dakota
+10673,45+,2.0,Expats,High School,50,War,South Dakota
+10674,18-24,1.0,Locals,Graduated,3300,War,South Dakota
+10675,25-44,1.0,Locals,Graduated,10000,War,South Dakota
+10676,45+,1.0,Locals,Graduated,5000,War,South Dakota
+10677,18-24,2.0,Locals,Graduated,930,War,South Dakota
+10678,25-44,2.0,Locals,Graduated,5300,War,South Dakota
+10679,45+,2.0,Locals,Graduated,4500,War,South Dakota
+10680,18-24,1.0,Locals,No Degree,1800,War,South Dakota
+10681,25-44,1.0,Locals,No Degree,2600,War,South Dakota
+10682,45+,1.0,Locals,No Degree,2000,War,South Dakota
+10683,18-24,2.0,Locals,No Degree,740,War,South Dakota
+10684,25-44,2.0,Locals,No Degree,1300,War,South Dakota
+10685,45+,2.0,Locals,No Degree,1600,War,South Dakota
+10686,18-24,1.0,Locals,High School,4500,War,South Dakota
+10687,25-44,1.0,Locals,High School,7300,War,South Dakota
+10688,45+,1.0,Locals,High School,3400,War,South Dakota
+10689,18-24,2.0,Locals,High School,1600,War,South Dakota
+10690,25-44,2.0,Locals,High School,3100,War,South Dakota
+10691,45+,2.0,Locals,High School,2500,War,South Dakota
+10692,18-24,1.0,Expats,Graduated,2900,War,Tennessee
+10693,25-44,1.0,Expats,Graduated,8700,War,Tennessee
+10694,45+,1.0,Expats,Graduated,2100,War,Tennessee
+10695,18-24,2.0,Expats,Graduated,620,War,Tennessee
+10696,25-44,2.0,Expats,Graduated,2800,War,Tennessee
+10697,45+,2.0,Expats,Graduated,1200,War,Tennessee
+10698,18-24,1.0,Expats,No Degree,3200,War,Tennessee
+10699,25-44,1.0,Expats,No Degree,8600,War,Tennessee
+10700,45+,1.0,Expats,No Degree,2200,War,Tennessee
+10701,18-24,2.0,Expats,No Degree,720,War,Tennessee
+10702,25-44,2.0,Expats,No Degree,2300,War,Tennessee
+10703,45+,2.0,Expats,No Degree,830,War,Tennessee
+10704,18-24,1.0,Expats,High School,2400,War,Tennessee
+10705,25-44,1.0,Expats,High School,4400,War,Tennessee
+10706,45+,1.0,Expats,High School,800,War,Tennessee
+10707,18-24,2.0,Expats,High School,900,War,Tennessee
+10708,25-44,2.0,Expats,High School,1700,War,Tennessee
+10709,45+,2.0,Expats,High School,400,War,Tennessee
+10710,18-24,1.0,Locals,Graduated,20000,War,Tennessee
+10711,25-44,1.0,Locals,Graduated,70000,War,Tennessee
+10712,45+,1.0,Locals,Graduated,43000,War,Tennessee
+10713,18-24,2.0,Locals,Graduated,6300,War,Tennessee
+10714,25-44,2.0,Locals,Graduated,38000,War,Tennessee
+10715,45+,2.0,Locals,Graduated,34000,War,Tennessee
+10716,18-24,1.0,Locals,No Degree,12000,War,Tennessee
+10717,25-44,1.0,Locals,No Degree,22000,War,Tennessee
+10718,45+,1.0,Locals,No Degree,17000,War,Tennessee
+10719,18-24,2.0,Locals,No Degree,4100,War,Tennessee
+10720,25-44,2.0,Locals,No Degree,8000,War,Tennessee
+10721,45+,2.0,Locals,No Degree,14000,War,Tennessee
+10722,18-24,1.0,Locals,High School,28000,War,Tennessee
+10723,25-44,1.0,Locals,High School,53000,War,Tennessee
+10724,45+,1.0,Locals,High School,30000,War,Tennessee
+10725,18-24,2.0,Locals,High School,11000,War,Tennessee
+10726,25-44,2.0,Locals,High School,25000,War,Tennessee
+10727,45+,2.0,Locals,High School,25000,War,Tennessee
+10728,18-24,1.0,Expats,Graduated,27000,War,Texas
+10729,25-44,1.0,Expats,Graduated,92000,War,Texas
+10730,45+,1.0,Expats,Graduated,25000,War,Texas
+10731,18-24,2.0,Expats,Graduated,9200,War,Texas
+10732,25-44,2.0,Expats,Graduated,44000,War,Texas
+10733,45+,2.0,Expats,Graduated,15000,War,Texas
+10734,18-24,1.0,Expats,No Degree,29000,War,Texas
+10735,25-44,1.0,Expats,No Degree,85000,War,Texas
+10736,45+,1.0,Expats,No Degree,30000,War,Texas
+10737,18-24,2.0,Expats,No Degree,9600,War,Texas
+10738,25-44,2.0,Expats,No Degree,38000,War,Texas
+10739,45+,2.0,Expats,No Degree,18000,War,Texas
+10740,18-24,1.0,Expats,High School,24000,War,Texas
+10741,25-44,1.0,Expats,High School,47000,War,Texas
+10742,45+,1.0,Expats,High School,10000,War,Texas
+10743,18-24,2.0,Expats,High School,11000,War,Texas
+10744,25-44,2.0,Expats,High School,27000,War,Texas
+10745,45+,2.0,Expats,High School,6600,War,Texas
+10746,18-24,1.0,Locals,Graduated,78000,War,Texas
+10747,25-44,1.0,Locals,Graduated,280000,War,Texas
+10748,45+,1.0,Locals,Graduated,150000,War,Texas
+10749,18-24,2.0,Locals,Graduated,26000,War,Texas
+10750,25-44,2.0,Locals,Graduated,150000,War,Texas
+10751,45+,2.0,Locals,Graduated,110000,War,Texas
+10752,18-24,1.0,Locals,No Degree,62000,War,Texas
+10753,25-44,1.0,Locals,No Degree,100000,War,Texas
+10754,45+,1.0,Locals,No Degree,64000,War,Texas
+10755,18-24,2.0,Locals,No Degree,22000,War,Texas
+10756,25-44,2.0,Locals,No Degree,40000,War,Texas
+10757,45+,2.0,Locals,No Degree,45000,War,Texas
+10758,18-24,1.0,Locals,High School,120000,War,Texas
+10759,25-44,1.0,Locals,High School,210000,War,Texas
+10760,45+,1.0,Locals,High School,92000,War,Texas
+10761,18-24,2.0,Locals,High School,48000,War,Texas
+10762,25-44,2.0,Locals,High School,100000,War,Texas
+10763,45+,2.0,Locals,High School,73000,War,Texas
+10764,18-24,1.0,Expats,Graduated,1700,War,Utah
+10765,25-44,1.0,Expats,Graduated,4700,War,Utah
+10766,45+,1.0,Expats,Graduated,1500,War,Utah
+10767,18-24,2.0,Expats,Graduated,430,War,Utah
+10768,25-44,2.0,Expats,Graduated,2000,War,Utah
+10769,45+,2.0,Expats,Graduated,990,War,Utah
+10770,18-24,1.0,Expats,No Degree,1200,War,Utah
+10771,25-44,1.0,Expats,No Degree,4100,War,Utah
+10772,45+,1.0,Expats,No Degree,1300,War,Utah
+10773,18-24,2.0,Expats,No Degree,450,War,Utah
+10774,25-44,2.0,Expats,No Degree,1700,War,Utah
+10775,45+,2.0,Expats,No Degree,1200,War,Utah
+10776,18-24,1.0,Expats,High School,1800,War,Utah
+10777,25-44,1.0,Expats,High School,2700,War,Utah
+10778,45+,1.0,Expats,High School,540,War,Utah
+10779,18-24,2.0,Expats,High School,720,War,Utah
+10780,25-44,2.0,Expats,High School,1300,War,Utah
+10781,45+,2.0,Expats,High School,380,War,Utah
+10782,18-24,1.0,Locals,Graduated,10000,War,Utah
+10783,25-44,1.0,Locals,Graduated,31000,War,Utah
+10784,45+,1.0,Locals,Graduated,15000,War,Utah
+10785,18-24,2.0,Locals,Graduated,3400,War,Utah
+10786,25-44,2.0,Locals,Graduated,17000,War,Utah
+10787,45+,2.0,Locals,Graduated,12000,War,Utah
+10788,18-24,1.0,Locals,No Degree,7500,War,Utah
+10789,25-44,1.0,Locals,No Degree,8900,War,Utah
+10790,45+,1.0,Locals,No Degree,4900,War,Utah
+10791,18-24,2.0,Locals,No Degree,2600,War,Utah
+10792,25-44,2.0,Locals,No Degree,4100,War,Utah
+10793,45+,2.0,Locals,No Degree,4200,War,Utah
+10794,18-24,1.0,Locals,High School,16000,War,Utah
+10795,25-44,1.0,Locals,High School,23000,War,Utah
+10796,45+,1.0,Locals,High School,8100,War,Utah
+10797,18-24,2.0,Locals,High School,6200,War,Utah
+10798,25-44,2.0,Locals,High School,11000,War,Utah
+10799,45+,2.0,Locals,High School,6900,War,Utah
+10800,18-24,1.0,Expats,Graduated,80,War,Vermont
+10801,25-44,1.0,Expats,Graduated,350,War,Vermont
+10802,45+,1.0,Expats,Graduated,210,War,Vermont
+10803,18-24,2.0,Expats,Graduated,50,War,Vermont
+10804,25-44,2.0,Expats,Graduated,70,War,Vermont
+10805,45+,2.0,Expats,Graduated,100,War,Vermont
+10806,18-24,1.0,Expats,No Degree,130,War,Vermont
+10807,25-44,1.0,Expats,No Degree,220,War,Vermont
+10808,45+,1.0,Expats,No Degree,110,War,Vermont
+10809,18-24,2.0,Expats,No Degree,20,War,Vermont
+10810,25-44,2.0,Expats,No Degree,50,War,Vermont
+10811,45+,2.0,Expats,No Degree,90,War,Vermont
+10812,18-24,1.0,Expats,High School,180,War,Vermont
+10813,25-44,1.0,Expats,High School,160,War,Vermont
+10814,45+,1.0,Expats,High School,70,War,Vermont
+10815,18-24,2.0,Expats,High School,70,War,Vermont
+10816,25-44,2.0,Expats,High School,60,War,Vermont
+10817,45+,2.0,Expats,High School,50,War,Vermont
+10818,18-24,1.0,Locals,Graduated,1800,War,Vermont
+10819,25-44,1.0,Locals,Graduated,5200,War,Vermont
+10820,45+,1.0,Locals,Graduated,3700,War,Vermont
+10821,18-24,2.0,Locals,Graduated,550,War,Vermont
+10822,25-44,2.0,Locals,Graduated,3300,War,Vermont
+10823,45+,2.0,Locals,Graduated,3400,War,Vermont
+10824,18-24,1.0,Locals,No Degree,990,War,Vermont
+10825,25-44,1.0,Locals,No Degree,1300,War,Vermont
+10826,45+,1.0,Locals,No Degree,1200,War,Vermont
+10827,18-24,2.0,Locals,No Degree,250,War,Vermont
+10828,25-44,2.0,Locals,No Degree,440,War,Vermont
+10829,45+,2.0,Locals,No Degree,960,War,Vermont
+10830,18-24,1.0,Locals,High School,3000,War,Vermont
+10831,25-44,1.0,Locals,High School,4500,War,Vermont
+10832,45+,1.0,Locals,High School,2500,War,Vermont
+10833,18-24,2.0,Locals,High School,1100,War,Vermont
+10834,25-44,2.0,Locals,High School,1900,War,Vermont
+10835,45+,2.0,Locals,High School,1700,War,Vermont
+10836,18-24,1.0,Expats,Graduated,5400,War,Virginia
+10837,25-44,1.0,Expats,Graduated,21000,War,Virginia
+10838,45+,1.0,Expats,Graduated,6300,War,Virginia
+10839,18-24,2.0,Expats,Graduated,1400,War,Virginia
+10840,25-44,2.0,Expats,Graduated,7300,War,Virginia
+10841,45+,2.0,Expats,Graduated,3400,War,Virginia
+10842,18-24,1.0,Expats,No Degree,5400,War,Virginia
+10843,25-44,1.0,Expats,No Degree,15000,War,Virginia
+10844,45+,1.0,Expats,No Degree,5100,War,Virginia
+10845,18-24,2.0,Expats,No Degree,1500,War,Virginia
+10846,25-44,2.0,Expats,No Degree,4400,War,Virginia
+10847,45+,2.0,Expats,No Degree,2600,War,Virginia
+10848,18-24,1.0,Expats,High School,5200,War,Virginia
+10849,25-44,1.0,Expats,High School,8800,War,Virginia
+10850,45+,1.0,Expats,High School,2400,War,Virginia
+10851,18-24,2.0,Expats,High School,1500,War,Virginia
+10852,25-44,2.0,Expats,High School,3600,War,Virginia
+10853,45+,2.0,Expats,High School,1300,War,Virginia
+10854,18-24,1.0,Locals,Graduated,21000,War,Virginia
+10855,25-44,1.0,Locals,Graduated,78000,War,Virginia
+10856,45+,1.0,Locals,Graduated,47000,War,Virginia
+10857,18-24,2.0,Locals,Graduated,6100,War,Virginia
+10858,25-44,2.0,Locals,Graduated,44000,War,Virginia
+10859,45+,2.0,Locals,Graduated,38000,War,Virginia
+10860,18-24,1.0,Locals,No Degree,12000,War,Virginia
+10861,25-44,1.0,Locals,No Degree,22000,War,Virginia
+10862,45+,1.0,Locals,No Degree,17000,War,Virginia
+10863,18-24,2.0,Locals,No Degree,3800,War,Virginia
+10864,25-44,2.0,Locals,No Degree,9100,War,Virginia
+10865,45+,2.0,Locals,No Degree,13000,War,Virginia
+10866,18-24,1.0,Locals,High School,33000,War,Virginia
+10867,25-44,1.0,Locals,High School,55000,War,Virginia
+10868,45+,1.0,Locals,High School,28000,War,Virginia
+10869,18-24,2.0,Locals,High School,12000,War,Virginia
+10870,25-44,2.0,Locals,High School,25000,War,Virginia
+10871,45+,2.0,Locals,High School,23000,War,Virginia
+10872,18-24,1.0,Expats,Graduated,4100,War,Washington
+10873,25-44,1.0,Expats,Graduated,16000,War,Washington
+10874,45+,1.0,Expats,Graduated,5000,War,Washington
+10875,18-24,2.0,Expats,Graduated,1300,War,Washington
+10876,25-44,2.0,Expats,Graduated,6600,War,Washington
+10877,45+,2.0,Expats,Graduated,2900,War,Washington
+10878,18-24,1.0,Expats,No Degree,3600,War,Washington
+10879,25-44,1.0,Expats,No Degree,12000,War,Washington
+10880,45+,1.0,Expats,No Degree,4300,War,Washington
+10881,18-24,2.0,Expats,No Degree,970,War,Washington
+10882,25-44,2.0,Expats,No Degree,4300,War,Washington
+10883,45+,2.0,Expats,No Degree,2500,War,Washington
+10884,18-24,1.0,Expats,High School,4000,War,Washington
+10885,25-44,1.0,Expats,High School,7600,War,Washington
+10886,45+,1.0,Expats,High School,2100,War,Washington
+10887,18-24,2.0,Expats,High School,1600,War,Washington
+10888,25-44,2.0,Expats,High School,3200,War,Washington
+10889,45+,2.0,Expats,High School,1200,War,Washington
+10890,18-24,1.0,Locals,Graduated,19000,War,Washington
+10891,25-44,1.0,Locals,Graduated,67000,War,Washington
+10892,45+,1.0,Locals,Graduated,42000,War,Washington
+10893,18-24,2.0,Locals,Graduated,5500,War,Washington
+10894,25-44,2.0,Locals,Graduated,38000,War,Washington
+10895,45+,2.0,Locals,Graduated,35000,War,Washington
+10896,18-24,1.0,Locals,No Degree,14000,War,Washington
+10897,25-44,1.0,Locals,No Degree,23000,War,Washington
+10898,45+,1.0,Locals,No Degree,16000,War,Washington
+10899,18-24,2.0,Locals,No Degree,4500,War,Washington
+10900,25-44,2.0,Locals,No Degree,8500,War,Washington
+10901,45+,2.0,Locals,No Degree,12000,War,Washington
+10902,18-24,1.0,Locals,High School,30000,War,Washington
+10903,25-44,1.0,Locals,High School,50000,War,Washington
+10904,45+,1.0,Locals,High School,24000,War,Washington
+10905,18-24,2.0,Locals,High School,11000,War,Washington
+10906,25-44,2.0,Locals,High School,22000,War,Washington
+10907,45+,2.0,Locals,High School,19000,War,Washington
+10908,18-24,1.0,Expats,Graduated,360,War,West Virginia
+10909,25-44,1.0,Expats,Graduated,670,War,West Virginia
+10910,45+,1.0,Expats,Graduated,240,War,West Virginia
+10911,18-24,2.0,Expats,Graduated,60,War,West Virginia
+10912,25-44,2.0,Expats,Graduated,270,War,West Virginia
+10913,45+,2.0,Expats,Graduated,180,War,West Virginia
+10914,18-24,1.0,Expats,No Degree,220,War,West Virginia
+10915,25-44,1.0,Expats,No Degree,330,War,West Virginia
+10916,45+,1.0,Expats,No Degree,130,War,West Virginia
+10917,18-24,2.0,Expats,No Degree,60,War,West Virginia
+10918,25-44,2.0,Expats,No Degree,100,War,West Virginia
+10919,45+,2.0,Expats,No Degree,70,War,West Virginia
+10920,18-24,1.0,Expats,High School,260,War,West Virginia
+10921,25-44,1.0,Expats,High School,370,War,West Virginia
+10922,45+,1.0,Expats,High School,90,War,West Virginia
+10923,18-24,2.0,Expats,High School,70,War,West Virginia
+10924,25-44,2.0,Expats,High School,90,War,West Virginia
+10925,45+,2.0,Expats,High School,70,War,West Virginia
+10926,18-24,1.0,Locals,Graduated,6300,War,West Virginia
+10927,25-44,1.0,Locals,Graduated,21000,War,West Virginia
+10928,45+,1.0,Locals,Graduated,13000,War,West Virginia
+10929,18-24,2.0,Locals,Graduated,1800,War,West Virginia
+10930,25-44,2.0,Locals,Graduated,12000,War,West Virginia
+10931,45+,2.0,Locals,Graduated,12000,War,West Virginia
+10932,18-24,1.0,Locals,No Degree,3900,War,West Virginia
+10933,25-44,1.0,Locals,No Degree,6400,War,West Virginia
+10934,45+,1.0,Locals,No Degree,5400,War,West Virginia
+10935,18-24,2.0,Locals,No Degree,1300,War,West Virginia
+10936,25-44,2.0,Locals,No Degree,2600,War,West Virginia
+10937,45+,2.0,Locals,No Degree,4400,War,West Virginia
+10938,18-24,1.0,Locals,High School,9600,War,West Virginia
+10939,25-44,1.0,Locals,High School,19000,War,West Virginia
+10940,45+,1.0,Locals,High School,10000,War,West Virginia
+10941,18-24,2.0,Locals,High School,3500,War,West Virginia
+10942,25-44,2.0,Locals,High School,9200,War,West Virginia
+10943,45+,2.0,Locals,High School,10000,War,West Virginia
+10944,18-24,1.0,Expats,Graduated,1900,War,Wisconsin
+10945,25-44,1.0,Expats,Graduated,5500,War,Wisconsin
+10946,45+,1.0,Expats,Graduated,1600,War,Wisconsin
+10947,18-24,2.0,Expats,Graduated,510,War,Wisconsin
+10948,25-44,2.0,Expats,Graduated,2200,War,Wisconsin
+10949,45+,2.0,Expats,Graduated,1000,War,Wisconsin
+10950,18-24,1.0,Expats,No Degree,1700,War,Wisconsin
+10951,25-44,1.0,Expats,No Degree,4500,War,Wisconsin
+10952,45+,1.0,Expats,No Degree,1600,War,Wisconsin
+10953,18-24,2.0,Expats,No Degree,600,War,Wisconsin
+10954,25-44,2.0,Expats,No Degree,1400,War,Wisconsin
+10955,45+,2.0,Expats,No Degree,740,War,Wisconsin
+10956,18-24,1.0,Expats,High School,1900,War,Wisconsin
+10957,25-44,1.0,Expats,High School,3200,War,Wisconsin
+10958,45+,1.0,Expats,High School,580,War,Wisconsin
+10959,18-24,2.0,Expats,High School,760,War,Wisconsin
+10960,25-44,2.0,Expats,High School,1200,War,Wisconsin
+10961,45+,2.0,Expats,High School,330,War,Wisconsin
+10962,18-24,1.0,Locals,Graduated,17000,War,Wisconsin
+10963,25-44,1.0,Locals,Graduated,56000,War,Wisconsin
+10964,45+,1.0,Locals,Graduated,30000,War,Wisconsin
+10965,18-24,2.0,Locals,Graduated,4600,War,Wisconsin
+10966,25-44,2.0,Locals,Graduated,28000,War,Wisconsin
+10967,45+,2.0,Locals,Graduated,23000,War,Wisconsin
+10968,18-24,1.0,Locals,No Degree,11000,War,Wisconsin
+10969,25-44,1.0,Locals,No Degree,15000,War,Wisconsin
+10970,45+,1.0,Locals,No Degree,12000,War,Wisconsin
+10971,18-24,2.0,Locals,No Degree,3400,War,Wisconsin
+10972,25-44,2.0,Locals,No Degree,5400,War,Wisconsin
+10973,45+,2.0,Locals,No Degree,8500,War,Wisconsin
+10974,18-24,1.0,Locals,High School,27000,War,Wisconsin
+10975,25-44,1.0,Locals,High School,40000,War,Wisconsin
+10976,45+,1.0,Locals,High School,18000,War,Wisconsin
+10977,18-24,2.0,Locals,High School,11000,War,Wisconsin
+10978,25-44,2.0,Locals,High School,16000,War,Wisconsin
+10979,45+,2.0,Locals,High School,15000,War,Wisconsin
+10980,18-24,1.0,Expats,Graduated,190,War,Wyoming
+10981,25-44,1.0,Expats,Graduated,440,War,Wyoming
+10982,45+,1.0,Expats,Graduated,150,War,Wyoming
+10983,18-24,2.0,Expats,Graduated,30,War,Wyoming
+10984,25-44,2.0,Expats,Graduated,210,War,Wyoming
+10985,45+,2.0,Expats,Graduated,70,War,Wyoming
+10986,18-24,1.0,Expats,No Degree,150,War,Wyoming
+10987,25-44,1.0,Expats,No Degree,330,War,Wyoming
+10988,45+,1.0,Expats,No Degree,110,War,Wyoming
+10989,18-24,2.0,Expats,No Degree,20,War,Wyoming
+10990,25-44,2.0,Expats,No Degree,180,War,Wyoming
+10991,45+,2.0,Expats,No Degree,80,War,Wyoming
+10992,18-24,1.0,Expats,High School,90,War,Wyoming
+10993,25-44,1.0,Expats,High School,230,War,Wyoming
+10994,45+,1.0,Expats,High School,90,War,Wyoming
+10995,18-24,2.0,Expats,High School,40,War,Wyoming
+10996,25-44,2.0,Expats,High School,120,War,Wyoming
+10997,45+,2.0,Expats,High School,30,War,Wyoming
+10998,18-24,1.0,Locals,Graduated,2500,War,Wyoming
+10999,25-44,1.0,Locals,Graduated,7500,War,Wyoming
+11000,45+,1.0,Locals,Graduated,4000,War,Wyoming
+11001,18-24,2.0,Locals,Graduated,610,War,Wyoming
+11002,25-44,2.0,Locals,Graduated,3100,War,Wyoming
+11003,45+,2.0,Locals,Graduated,3300,War,Wyoming
+11004,18-24,1.0,Locals,No Degree,1800,War,Wyoming
+11005,25-44,1.0,Locals,No Degree,2100,War,Wyoming
+11006,45+,1.0,Locals,No Degree,1700,War,Wyoming
+11007,18-24,2.0,Locals,No Degree,480,War,Wyoming
+11008,25-44,2.0,Locals,No Degree,780,War,Wyoming
+11009,45+,2.0,Locals,No Degree,1100,War,Wyoming
+11010,18-24,1.0,Locals,High School,3500,War,Wyoming
+11011,25-44,1.0,Locals,High School,5800,War,Wyoming
+11012,45+,1.0,Locals,High School,2600,War,Wyoming
+11013,18-24,2.0,Locals,High School,1300,War,Wyoming
+11014,25-44,2.0,Locals,High School,2500,War,Wyoming
+11015,45+,2.0,Locals,High School,2100,War,Wyoming

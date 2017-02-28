@@ -5,19 +5,19 @@ function InvalidParameterValueException(value, arrayName){
     this.name = "InvalidParameterValueException";
     this.value = value;
     this.arrayName = arrayName;
-    this.message = "Sorry, we couldn't parse yours parameters. Default parameters were applied. <strong> The value: " + value + " is invalid. For: " + arrayName.replace("countries","country") + "</strong>";
+    this.message = "Sorry, we couldn't parse yours parameters. Default parameters were applied. <strong> The value: " + value + " is invalid. For: " + arrayName.replace("locations","location") + "</strong>";
 }
 
-function HealthAndLuxuryNullException(){
-    this.name = "HealthAndLuxuryNullException";
-    this.message = "Health and Luxury can't be both null."
+function LeftTopicAndRightTopicNullException(){
+    this.name = "LeftTopicAndRightTopicNullException";
+    this.message = "Left and Right topics can't be both null."
 }
 
 
 function SharebleLink(){
     var currentInstance = this;
     this.reversingState = false;
-    this.listsOfValues = listOfValues;
+    this.listsOfValues = applicationPossibleStates;
     this.hasParamsGivenUrl = function(url){
         var urlList = url.split("?");
         if(urlList.length > 1){
@@ -55,8 +55,7 @@ function SharebleLink(){
         if(currentInstance.hasParamsGivenUrl(url)){
             currentInstance.applyStateGivenUrl(url);
         } else {
-            // dataManager.updateDatasetAndGetPromise();
-            dataManager.selectDefaultCountries();
+            dataManager.selectDefaultLocations();
             sharebleLink.updateSharebleLinkAsUrl();
         }
         currentInstance.applyBackBtnFunctionality();
@@ -73,12 +72,12 @@ function SharebleLink(){
     this.applyState = function(newState){
         console.log(newState);
         currentInstance.reversingState = true;
-        dataManager.setHealthAndLuxuryTopicAndGetPromise(newState["health"], newState["luxury"]).done(function(){
-            treemapManager.clickOnTreemapGivenNameAndValue("gender", newState["gender"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("age_range", newState["age_range"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("scholarity", newState["scholarity"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("citizenship", newState["citizenship"]);
-            dataManager.setCountryCodeList(newState["countries"]);
+        dataManager.setLeftAndRightTopicAndGetPromise(newState["leftTopic"], newState["rightTopic"]).done(function(){
+            treemapManager.clickOnTreemapGivenNameAndValue("genders", newState["genders"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("ages_ranges", newState["ages_ranges"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("scholarities", newState["scholarities"]);
+            treemapManager.clickOnTreemapGivenNameAndValue("behavior", newState["behavior"]);
+            dataManager.setSelectedLocations2lettersList(newState["location"]);
             currentInstance.reversingState = false;
             currentInstance.updateData();
         });
@@ -87,17 +86,17 @@ function SharebleLink(){
     };
     this.getApplycationState = function(){
         return {
-            "health": dataManager.selectedHealth,
-            "luxury": dataManager.selectedLuxury,
+            "leftTopic": dataManager.selectedLeftTopic,
+            "rightTopic": dataManager.selectedRightTopic,
             "selectedCategoriesAndValues" : dataManager.selectedCategoriesAndValues,
-            "countries" : dataManager.selectedCountries_2letters
+            "locations" : dataManager.selectedLocations_2letters
         }
     };
     this.buildUrlFromState = function (state) {
         var urlParams = new URLSearchParams();
-        urlParams.append('health', state.health);
-        urlParams.append('luxury', state.luxury);
-        urlParams.append("country",state.countries.join("-"));
+        urlParams.append('leftTopic', state.leftTopic);
+        urlParams.append('rightTopic', state.rightTopic);
+        urlParams.append("location",state.locations.join("-"));
         for(var categoryKey in state.selectedCategoriesAndValues){
             urlParams.append(categoryKey,state.selectedCategoriesAndValues[categoryKey]);
         }
@@ -126,22 +125,24 @@ function SharebleLink(){
         var valueInParams;
 
         switch(paramName){
+            case "leftTopic":
             case "health":
-                valueInParams = urlParams.get("health");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "health");
+                valueInParams = urlParams.get("leftTopic");
+                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "leftTopic");
                 break;
+            case "rightTopic":
             case "luxury":
-                valueInParams = urlParams.get("luxury");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "luxury");
+                valueInParams = urlParams.get("rightTopic");
+                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "rightTopic");
                 break;
-            case "country":
+            case "location":
                 valueInOurData = [];
-                valueInParams = urlParams.get("country");
+                valueInParams = urlParams.get("location");
                 if(valueInParams){
-                    var referencesToCountryList = valueInParams.split("-");
-                    for(var referenceIndex in referencesToCountryList){
-                        var reference = referencesToCountryList[referenceIndex];
-                        valueInOurData.push(currentInstance.getCountryCodeFromReference(reference));
+                    var referencesToLocationList = valueInParams.split("-");
+                    for(var referenceIndex in referencesToLocationList){
+                        var reference = referencesToLocationList[referenceIndex];
+                        valueInOurData.push(currentInstance.getLocation2lettersFromReference(reference));
                     }
                 } else {
                     valueInOurData = [];
@@ -165,16 +166,16 @@ function SharebleLink(){
                 valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "citizenship");
                 break;
             default:
-                throw Error("Parameter name invalid.");
+                throw Error("Parameter name invalid:" + paramName);
         }
         //Finally
         return valueInOurData;
     };
     this.printState = function(){
         var categories = dataManager.selectedCategoriesAndValues;
-        console.log("Selected Health:" + dataManager.selectedHealth);
-        console.log("Selected Luxury:" + dataManager.selectedLuxury);
-        console.log("Selected Countries:" + dataManager.selectedCountries_2letters);
+        console.log("Selected leftTopic:" + dataManager.selectedLeftTopic);
+        console.log("Selected rightTopic:" + dataManager.selectedRightTopic);
+        console.log("Selected Locations:" + dataManager.selectedLocations_2letters);
         console.log("Selected Gender:" + ("gender" in categories ? categories["gender"] : null));
         console.log("Selected Scholarity:" + ("scholarity" in categories ? categories["scholarity"] : null));
         console.log("Selected Age Range:" + ("age_range" in categories ? categories["age_range"] : null));
@@ -184,24 +185,24 @@ function SharebleLink(){
         var newState = {};
         try{
             var urlParams = new URLSearchParams(params);
-            newState["health"] = currentInstance.paramFromUrlParams("health", urlParams);
-            newState["luxury"] = currentInstance.paramFromUrlParams("luxury", urlParams);
-            newState["countries"] = currentInstance.paramFromUrlParams("country", urlParams);
+            newState["leftTopic"] = currentInstance.paramFromUrlParams("leftTopic", urlParams);
+            newState["rightTopic"] = currentInstance.paramFromUrlParams("rightTopic", urlParams);
+            newState["location"] = currentInstance.paramFromUrlParams("location", urlParams);
             newState["gender"] = currentInstance.paramFromUrlParams("gender", urlParams);
             newState["scholarity"] = currentInstance.paramFromUrlParams("scholarity", urlParams);
             newState["age_range"] = currentInstance.paramFromUrlParams("age_range", urlParams);
             newState["citizenship"] = currentInstance.paramFromUrlParams("citizenship", urlParams);
 
-            if(newState["health"] == null && newState["luxury"] == null){
-                throw new HealthAndLuxuryNullException();
+            if(newState["leftTopic"] == null && newState["rightTopic"] == null){
+                throw new LeftTopicAndRightTopicNullException();
             }
             return newState;
         } catch(Exception){
-            if(Exception instanceof InvalidParameterValueException || Exception instanceof HealthAndLuxuryNullException){
+            if(Exception instanceof InvalidParameterValueException || Exception instanceof LeftTopicAndRightTopicNullException){
                 $("#alertCouldntParseParams").removeClass("hidden");
                 $("#alertCouldntParseParams").html(Exception.message);
                 setTimeout(function(){ $("#alertCouldntParseParams").fadeOut(); }, 8000);
-                dataManager.selectAllCountries();
+                dataManager.selectAllLocations();
                 console.log("Exception Name:\n" + Exception.name);
                 console.log("Exception Message:\n" + Exception.message);
                 console.log(newState);
@@ -216,7 +217,7 @@ function SharebleLink(){
     this.getValueFromListIgnoreCase = function(givenValue, arrayName){
         var array = currentInstance.listsOfValues[arrayName];
         if(givenValue && givenValue != "null"){
-            //reference can be code 2 letter, code 3 letters or country name
+            //reference can be code 2 letter, code 3 letters or location name
             var givenValue = givenValue.toLowerCase();
             for(var index in array){
                 var valueInArrayLow = array[index].toLowerCase();
@@ -229,19 +230,18 @@ function SharebleLink(){
         return null;
     }
 
-    this.getCountryCodeFromReference = function(reference){
-        //reference can be code 2 letter, code 3 letters or country name
+    this.getLocation2lettersFromReference = function(reference){
+        //reference can be code 2 letter, code 3 letters or location name
         if(reference){
             var reference = reference.toLowerCase();
-            for(var countryCode2Letters in countryCodeMap){
-                var code2Letters = countryCode2Letters.toLowerCase();
-                var code3Letters = countryCodeMap[countryCode2Letters]._3letter_code.toLowerCase();
-                var name = countryCodeMap[countryCode2Letters].name.toLowerCase();
-                if(reference == code2Letters || reference == code3Letters || reference == name){
-                    return countryCode2Letters;
+            for(var locationKey in locationCodeMap){
+                var code2Letters = locationCodeMap[locationKey]._2letters_code.toLowerCase();
+                var name = locationCodeMap[locationKey].name.toLowerCase();
+                if(reference == code2Letters || reference == name){
+                    return getLocation2letterFromLocationKey(locationKey);
                 }
             }
-            throw new InvalidParameterValueException(reference, "countries"); //If no value matched
+            throw new InvalidParameterValueException(reference, "locations"); //If no value matched
         }
         return null;
     }

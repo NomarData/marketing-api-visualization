@@ -85,22 +85,17 @@
             }
 
         };
-        this.updateCountriesList =function(data){
-            // var promise = currentInstance.getPromiseListCountries();
-                var countries_code = [];
-                for(var instanceIndex in data){
-                    var instance = data[instanceIndex];
-                    if(countries_code.indexOf(instance.country_code) == -1){
-                        countries_code.push(instance.country_code);
+        this.updateLocationList =function(instances){
+            // var promise = currentInstance.getPromiseListLocations();
+                var locationsKeys = [];
+                for(var instanceIndex in instances){
+                    var instance = instances[instanceIndex];
+                    if(locationsKeys.indexOf(instance.location) == -1){
+                        locationsKeys.push(instance.location);
                     }
                 }
-                var sortedListCountries = currentInstance.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName(countries_code);
-                var countriesListContainer = $("#countriesList");
-                countriesListContainer.empty();
-                for(var countriesIndex in sortedListCountries){
-                    var country = sortedListCountries[countriesIndex];
-                    countriesListContainer.append("<div class='countryItem btn btn-country' data-code=\""+ country._2letter_code +"\">" + country.name + "</div>");
-                }
+                return currentInstance.getLocationDataWhichMatchesInLocationMapOrderedByLocationName(locationsKeys);
+
         };
         this.setFacebookInitialPopulationList = function(instances){
             var parsedInstances = $.map(instances,function(instance){
@@ -120,15 +115,13 @@
             fbInstancesWithInterests = parsedInstances;
         };
 
-        this.getDictsCountriesWhichMatchesInCountryMapOrderedByCountryName = function(list_country_codes){
-            updateFilteringCountryCodeMap(list_country_codes);
-            var list_countries = getCountriesGivenCodes(list_country_codes);
-            var sortedListCountries = sortDictListGivenAttribute(list_countries,"name");
-            return sortedListCountries;
+        this.getLocationDataWhichMatchesInLocationMapOrderedByLocationName = function(listLocationKeys){
+            filterJustLocationKeysFromLocationCodeMap(listLocationKeys);
+            var locationsData = getLocationsCodeMapGivenKeys(listLocationKeys);
+            var sortedLocationData = sortDictListGivenAttribute(locationsData,"name");
+            return sortedLocationData;
 
         };
-
-
 
         this.init = function(){
         };

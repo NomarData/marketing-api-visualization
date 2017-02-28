@@ -18,11 +18,11 @@
     <!-- Bootstrap Css-->
     <!--<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />-->
     <!--<link rel='stylesheet' href="bootstrap/css/bootstrap.min.css">-->
-    <link rel="shortcut icon" href="imgs/icon.png">
+    <link id="favicon" rel="shortcut icon" href="imgs/icon.png">
     <link rel='stylesheet' href="bootstrap/download/cosmo-bootswatch.min.css">
     <link rel="stylesheet" href="bootstrap/download/bootstrap-responsive.min.css" >
     <link href="vizualization_css/treemap.css" rel="stylesheet" />
-    <link href="vizualization_css/arabLeagueMap.css" rel="stylesheet" />
+    <link href="vizualization_css/locationsMap.css" rel="stylesheet" />
     <link href="vizualization_css/stackedHorizontalBar.css" rel="stylesheet" />
     <link href="vizualization_css/interestsSelection.css" rel="stylesheet" />
     <link href="vizualization_css/btnsTopicsSelectors.css" rel="stylesheet" />
@@ -39,10 +39,10 @@
 <div class="navbar navbar-inverse navbar-static-top">
     <div class="navbar-inner">
         <div class="container">
-            <a class="brand" href="index.html">Health Awareness on Facebook in the Arab World</a>
+            <a class="brand" id="applicationTitle" href="index.html">Health Awareness on Facebook in the Arab World</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
-                    <li class="active"><a href="index.html">Application</a></li>
+                    <li class="active"><a href="index.html">Health vs Luxury</a></li>
                     <li ><a href="about.html">About</a></li>
                 </ul>
                 <div class="pull-right">
@@ -68,7 +68,7 @@
             <div class="span12">
                 <dl class="dl-horizontal">
                     <dt>Description:</dt>
-                    <dd>This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</dd>
+                    <dd id="applicationDescription">This tool was created to allow users to explore the rich demographic detailed data provided by Facebook in order to compare visually and numerically the health-related interests to a baseline luxury-related interests from Arab League countries.</dd>
                     <dd><br/>Check our <a href="about.html"><strong>about page</strong></a> for more information.</dd>
                 </dl>
             </div>
@@ -86,10 +86,10 @@
                     <span>Audience</span>: <strong id="audience"></strong>
                 </div>
                 <div>
-                    <span>Health Audience</span>: <strong id="healthAudienceTooltip"></strong>
+                    <span>Left Audience</span>: <strong id="leftAudienceTooltip"></strong>
                 </div>
                 <div>
-                    <span>Luxury Audience</span>: <strong id="luxuryAudienceTooltip"></strong>
+                    <span>Right Audience</span>: <strong id="rightAudienceTooltip"></strong>
                 </div>
                 <div>
                     <span>Facebook Coverage</span>: <strong id="audienceCoverageTooltip"></strong>
@@ -116,23 +116,23 @@
 
         </div>
 
-        <div id="tooltip-countries" class="hoverinfo hidden">
+        <div id="tooltip-locations" class="hoverinfo hidden">
             <div>
                 <div>
-                    Country: <strong id="countryNameTooltip"></strong>
+                    Location: <strong id="locationNameTooltip"></strong>
                 </div>
-                <div id="countryDataTooltipContainer">
+                <div id="locationDataTooltipContainer">
                     <div>
-                        <span>Score</span>: <strong id="countryScoreTooltip"></strong>
+                        <span>Score</span>: <strong id="locationScoreTooltip"></strong>
                     </div>
                     <div>
-                        Facebook Coverage: <strong id="countryFacebookCoverage"></strong>
+                        Facebook Coverage: <strong id="locationFacebookCoverage"></strong>
                     </div>
                     <div>
-                        <span>Health Audience</span>: <strong id="healthAudienceCountryTooltip"></strong>
+                        <span>Left Audience</span>: <strong id="leftAudienceLocationTooltip"></strong>
                     </div>
                     <div>
-                        <span>Luxury Audience</span>: <strong id="luxuryAudienceCountryTooltip"></strong>
+                        <span>Right Audience</span>: <strong id="rightAudienceLocationTooltip"></strong>
                     </div>
                 </div>
             </div>
@@ -145,10 +145,10 @@
                     <h3 >Choose Comparative Topics of Interest</h3>
                     <div class="row">
                         <div class="span5">
-                            <div id="btnsHealthContainerHeader">
+                            <div id="btnsLeftTopicContainerHeader">
 
                             </div>
-                            <div id="btnsHealthContainer" >
+                            <div id="btnsLeftTopicContainer" >
 
                             </div>
                         </div>
@@ -160,10 +160,10 @@
 
                         </div>
                         <div class="span5">
-                            <div id="btnsLuxuryContainerHeader">
+                            <div id="btnsRightTopicContainerHeader">
 
                             </div>
-                            <div id="btnsLuxuryContainer" >
+                            <div id="btnsRightTopicContainer" >
 
                             </div>
                         </div>
@@ -175,89 +175,62 @@
                     <!--<div class="title">Luxurious vs. Health Inclination</div>-->
                     <!--<div class="text-center">Average Inclination Score = ((red/Total)*red - (green/Total)*green) / Total)</div>-->
                     <div class="text-center">
-                        <span class="healAwarenessScoreTitle"> Facebook Health Awareness Score: </span><span id="GeneralScore">0</span>
+                        <span class="AwarenessScoreTitle">Facebook Health Awareness Score</span>: <span id="GeneralScore">0</span>
                     </div>
                     <div class="text-center">
                         <div class="row">
                             <div class="span1">
-                                <img src="imgs/heart.svg" style="max-width: 40px; vertical-align: top;"/>
+                                <img id="leftIconImg" style="max-width: 40px; max-height: 40px; vertical-align: top;"/>
                             </div>
                             <div class="span9">
                                 <div class="row">
                                     <span id="horizontalStackedBar"> </span>
                                 </div>
+                                <div class="row">
+                                    <div id="treemapLegend"></div>
+                                </div>
                             </div>
                             <div class="span1">
-                                <img src="imgs/jewel.svg"  style="max-width: 40px; vertical-align: top;" />
+                                <img id="rightIconImg" style="max-width: 40px; max-height: 40px; vertical-align: top;" />
                             </div>
                         </div>
-
-
-
-
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div style="vertical-align: middle"  class="span5 treemapContainer">
-                    <div  class="row treemapRowContainer">
-                        <!--<div class="span1">-->
-                        <!--<h4>Gender</h4>-->
-                        <!--</div>-->
-                        <div class="span5 treemapSpanContainer">
-                            <div id="genderTreemapDiv"></div>
-                        </div>
+                    <div id="treemapsList">
+
                     </div>
-                    <div  class="row treemapRowContainer">
-                        <!--<div class="span1">-->
-                        <!--<h4>Age Range</h4>-->
-                        <!--</div>-->
-                        <div class="span5 treemapSpanContainer">
-                            <div id="ageRangeTreemapDiv"></div>
-                        </div>
-                    </div>
-                    <div  class="row treemapRowContainer">
-                        <!--<div class="span1">-->
-                        <!--<h4>Education</h4>-->
-                        <!--</div>-->
-                        <div class="span5 treemapSpanContainer">
-                            <div id="scholarityTreemapDiv"></div>
-                        </div>
-                    </div>
-                    <div  class="row treemapRowContainer">
-                        <div class="span5 treemapSpanContainer">
-                            <div id="citizenshipTreemapDiv"></div>
-                        </div>
-                    </div>
-                    <div id="alertToSelectCountry" class="text-center hidden">
-                        <div><h2>Select at least one country</h2></div>
+                    <div id="alertToSelectLocation" class="text-center hidden">
+                        <div><h2>Select at least one Location</h2></div>
                     </div>
 
-                    <div class="text-center">
-                        <div><strong>Facebook Health Awareness Score</strong></div>
+                    <div class="text-center hidden">
+                        <div class="AwarenessScoreTitle">Facebook Health Awareness Score</div>
                     </div>
                     <div class="row">
                         <div class="span5">
-                            <div id="treemapLegend">
 
-                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="span6">
                     <div class="row text-center">
-                        <div id="arabLeagueMapDiv" class="arabLeagueMap"></div>
-                        <div id="qatarBahreinMapDiv" class="qatarBahreinMap"></div>
+                        <div id="mainLocationsMapDiv" class="locationMap"></div>
+                        <div id="auxiliarsMapsDiv">
+
+                        </div>
                     </div>
                     <div class="row text-center mapSelectDeselectAllBtns">
-                        <div id="selectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
-                            All countries
+                        <div id="selectedAllLocationsBtn" class="span2 btn btn-multiple-countries">
+                            All Locations
                         </div>
-                        <div id="gccCountriesBtn" class="span1 btn btn-multiple-countries">
+                        <div id="fastLocationsSelectorBtn" style="display:none" class="span1 btn btn-multiple-countries">
                             Only GCC
                         </div>
-                        <div id="unSelectedAllCountriesBtn" class="span2 btn btn-multiple-countries">
-                            No countries
+                        <div id="unselectedAllLocationsBtn" class="span2 btn btn-multiple-countries">
+                            No Locations
                         </div>
                         <div class="span3 text-center socialLinks">
                             <div>
@@ -269,7 +242,7 @@
                                 <li><a id="emailShareLink" href="mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=:%20$LINK" target="_blank" title="Send email"><img alt="Send email" src="imgs/social_flat_rounded_rects_svg/Email.svg"></a></li>
                             </ul>
                         </div>
-                        <div class="span3 text-center socialLinks">
+                        <div class="span3 text-center">
                             <div>
                                 <div style="margin-bottom: -10px">
                                     <p>Collection Date</p>
@@ -282,7 +255,8 @@
                     </div>
                 </div>
                 <div class="span1">
-                    <div id="countriesList">
+                    <!--<div id="locationBtnList" style="height:500px; width: 100px; padding-right:15px; overflow: auto; overflow-x:hidden; ">-->
+                    <div id="locationBtnList">
                     </div>
                 </div>
             </div>
@@ -307,8 +281,8 @@
         </div>
     </div>
     <!--  Libraries Imported -->
-    <script src="bootstrap/js/jquery.min.js" rel="stylesheet"></script>
-    <script src="bootstrap/js/bootstrap.min.js" rel="stylesheet"></script>
+    <script src="bootstrap/js/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="vizualization_js/lib/shim.js"></script>
     <script src="vizualization_js/lib/FileSaver.min.js"></script>
     <script src="vizualization_js/lib/xlsx.core.min.js"></script>
@@ -317,7 +291,7 @@
     <script src="vizualization_js/lib/simple-statistics.min.js"></script>
     <script src="vizualization_js/lib/url-search-params.js"></script>
     <script src="vizualization_js/lib/topojson.js"></script>
-    <script src="vizualization_js/lib/datamaps.all.hires.min.js"></script>
+    <!--<script src="vizualization_js/lib/datamaps.all.hires.min.js"></script>-->
     <script src="vizualization_js/lib/numeral.js"></script>
     <!--  Custom Files -->
     <script src="vizualization_js/constants.js"></script>
@@ -326,10 +300,14 @@
     <script src="vizualization_js/DataManager.js"></script>
     <script src="vizualization_js/treemap.js"></script>
     <script src="vizualization_js/SharebleLink.js"></script>
+    <script src="vizualization_js/LocationsBtns.js"></script>
     <script src="vizualization_js/stackedHorizontalBar.js"></script>
-    <script src="vizualization_js/arabLeagueMap.js"></script>
+    <script src="vizualization_js/LocationsDataManager.js"></script>
+    <script src="vizualization_js/LocationsMapDatamap.js"></script>
+    <script src="vizualization_js/LocationsMapSubRegionGmaps.js"></script>
     <script src="vizualization_js/GeneralScore.js"></script>
     <script src="vizualization_js/treemapManager.js"></script>
+    <script src="vizualization_js/ColorScaleScore.js"></script>
     <script src="vizualization_js/HistoryDataSelectors.js"></script>
     <script src="vizualization_js/btnsTopicsSelectors.js"></script>
     <script src="vizualization_js/FindingsFinder.js"></script>

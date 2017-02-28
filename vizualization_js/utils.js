@@ -14,7 +14,7 @@ function getFacebookPopulationInstanceByValue(value){
 }
 
 function getRectIDFromName(name){
-    return name.replace(" ","_")
+    return name.replace(" ","_").replace(".","_")
 }
 
 function removeValueFromArray(array,valueToRemove){
@@ -23,16 +23,16 @@ function removeValueFromArray(array,valueToRemove){
     });
 }
 
-
 function scoreToPercentage(score){
     return (score * 100).toFixed(1) + "%"
 }
 
 
+
 function buildBreakPoints(domainBreakpoints, colorRange){
     breakPointsColor = buildBreakPoints(domainLinear, colorRangeScale);
     var breakPoints = [];
-    for(var index = 0 in domainBreakpoints){
+    for(var index in domainBreakpoints){
         var domain = domainBreakpoints[index];
         var color = colorRange[index];
         breakPoints.push({
@@ -43,13 +43,57 @@ function buildBreakPoints(domainBreakpoints, colorRange){
     return breakPoints;
 }
 
+function getCenterFromCoodinates(data){
+    if (!(data.length > 0)){
+        return false;
+    }
 
+    var num_coords = data.length;
+
+    var X = 0.0;
+    var Y = 0.0;
+    var Z = 0.0;
+
+    for(i = 0; i < data.length; i++){
+        var lat = data[i][0] * Math.PI / 180;
+        var lon = data[i][1] * Math.PI / 180;
+
+        var a = Math.cos(lat) * Math.cos(lon);
+        var b = Math.cos(lat) * Math.sin(lon);
+        var c = Math.sin(lat);
+
+        X += a;
+        Y += b;
+        Z += c;
+    }
+
+    X /= num_coords;
+    Y /= num_coords;
+    Z /= num_coords;
+
+    var lon = Math.atan2(Y, X);
+    var hyp = Math.sqrt(X * X + Y * Y);
+    var lat = Math.atan2(Z, hyp);
+
+    var newX = (lat * 180 / Math.PI);
+    var newY = (lon * 180 / Math.PI);
+
+    return new Array(newX, newY);
+}
 
 function getTooltipLabel(value){
     if(value in mapValuesStringsTooltip){
         return mapValuesStringsTooltip[value];
     } else{
         return value
+    }
+}
+
+function isSubregionMode(){
+    if("isSubRegionData" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY] && MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].isSubRegionData == true){
+        return true;
+    } else {
+        return false;
     }
 }
 
@@ -83,83 +127,72 @@ function removeAllParentheses(string){
     return string
 }
 
-function getJqueryCountryBtnByCode2Letters(countryCode){
-
-    return $("div[data-code='"+ countryCode +"']");
+function onClickLocationFunctionByLocationKey(locationKey) {
+    var location2Letter = getLocation2letterFromLocationKey(locationKey);
+    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(location2Letter);
+    onClickLocationFunction(locationItem);
 }
 
-function onClickCountryFunctionBy3LettersCode(_3_letters_code){
-    var countryCode = convert3to2LettersCode(_3_letters_code);
-    var countryItem = getJqueryCountryBtnByCode2Letters(countryCode);
-    onClickCountryFunction(countryItem);
+function onClickLocationFunctionByDatamapCode(locationDatamaps_code){
+    var locationKey = convertDatamapsCodeToLocationKey(locationDatamaps_code);
+    onClickLocationFunctionByLocationKey(locationKey);
 }
 
-function onClickCountryFunctionBy2LettersCode(_2_letters_code){
-    var countryItem = getJqueryCountryBtnByCode2Letters(_2_letters_code);
-    onClickCountryFunction(countryItem);
+function onClickLocationFunctionBy2LettersCode(_2_letters_code){
+    var locationItem = locationsBtns.getJqueryLocationBtnByCode2Letters(_2_letters_code);
+    onClickLocationFunction(locationItem);
 }
 
-function updateBtnColor(countryCode3Letters, color){
-    var _2LetterCountryCode = convert3to2LettersCode(countryCode3Letters);
-    var countryItem = getJqueryCountryBtnByCode2Letters(_2LetterCountryCode);
-    countryItem.css("background-color",color);
-    if(color == DEFAULT_MAP_ARAB_BACKGROUND_COLOR){
-        countryItem.css("text-decoration","");
-    } else {
-        countryItem.css("text-decoration","underline");
-    }
-}
 
-function onClickCountryFunction(countryItem){
-    var countryCode2Letters = countryItem.data("code");
-    if(dataManager.isCountryAlreadySelected(countryCode2Letters)){
-        dataManager.removeCountryCode(countryCode2Letters);
-        countryItem.css("background-color", DEFAULT_MAP_ARAB_BACKGROUND_COLOR);
+
+function onClickLocationFunction(locationItem){
+    var location2letters = locationItem.data("code");
+    var locationKey = getLocationKeyFromLocation2letter(location2letters);
+    if(dataManager.isLocationKeyAlreadySelected(locationKey)){
+        dataManager.removeLocation2Letters(location2letters);
+        locationItem.css("background-color", DEFAULT_MAP_LOCATIONS_BACKGROUND_COLOR);
     } else{
-        dataManager.insertCountryCode(countryCode2Letters);
+        dataManager.insertLocation2Letter(location2letters);
     }
-    console.log(dataManager.selectedCountries_2letters);
 }
 
-function getCountryNameGivenCode2Letters(countryCode) {
-    return countryCodeMap[countryCode].name;
-}
-
-function getAll3LettersCodeArabCountry(){
-    var countryCodes = $.map(countryCodeMap,function (item) {
-        return item._3letter_code;
+function getAllDatamapsCodeInLocationMap(){
+    var locationsDatamap_codes = $.map(locationCodeMap,function (item) {
+        if("datamaps_code" in item ){
+            return item.datamaps_code;
+        }
     });
-    return countryCodes;
+    return locationsDatamap_codes;
 }
 
-function isArabCountryCode3Letters(countryCode){
-    var arabCountriesCode3Letters = getAll3LettersCodeArabCountry();
-    for(var countryIndex in arabCountriesCode3Letters){
-        var arabCountryCode = arabCountriesCode3Letters[countryIndex];
-        if(arabCountryCode == countryCode){
+function isDatamapCodeInLocationMap(locationDatamapCode){
+    var allDatamapsCodeinLocation = getAllDatamapsCodeInLocationMap();
+    for(var locationIndex in allDatamapsCodeinLocation){
+        var locationDatamapCodeInList = allDatamapsCodeinLocation[locationIndex];
+        if(locationDatamapCodeInList == locationDatamapCode){
             return true;
         }
     }
     return false;
 }
-function updateFilteringCountryCodeMap(list_country_codes){
-    for(var countryCode in countryCodeMap){
-        if(list_country_codes.indexOf(countryCode) == -1){
-            delete countryCodeMap[countryCode];
+function filterJustLocationKeysFromLocationCodeMap(list_locations_codes){
+    for(var locationKey in locationCodeMap){
+        if(list_locations_codes.indexOf(locationKey) == -1){
+            delete locationCodeMap[locationKey];
             console.log("Deleting")
         }
     }
 }
 
-function getCountriesGivenCodes(listCountryCodes){
-    var listCountries = [];
-    for(var countryIndex in listCountryCodes){
-        var countryCode = listCountryCodes[countryIndex];
-        if(countryCode in countryCodeMap){
-            listCountries.push(countryCodeMap[countryCode]);
+function getLocationsCodeMapGivenKeys(listLocationKeys){
+    var listLocationsData = [];
+    for(var keyIndex in listLocationKeys){
+        var locationKey = listLocationKeys[keyIndex];
+        if(locationKey in locationCodeMap){
+            listLocationsData.push(locationCodeMap[locationKey]);
         }
     }
-    return listCountries
+    return listLocationsData
 }
 
 function sortDictListGivenAttribute(list, attribute) {
@@ -172,13 +205,16 @@ function sortDictListGivenAttribute(list, attribute) {
 
 
 function updateSocialLinkFields(){
-    var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=Health%20Awareness%20in%20the%20Arab%20World";
-    var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=Health%20Awareness%20in%20the%20Arab%20World:%20$LINK";
-    var emailOriginalUrl = "mailto:?subject=Health%20Awareness%20in%20the%20Arab%20World&body=Link:%20$LINK";
+    var SUBJECT = encodeURIComponent(SOCIAL_MEDIA_SUBJECT);
+    var body = encodeURIComponent(EMAIL_BODY);
+    var fbOriginalURL = "https://www.facebook.com/sharer/sharer.php?u=$LINK&t=" + SUBJECT;
+    var twitterOriginalUrl = "https://twitter.com/intent/tweet?source=$LINK&text=" + SUBJECT+ ":%20$LINK";
+
+    var emailOriginalUrl = "mailto:?subject=" + SUBJECT + "&body=" + body;
     var currentUrl = encodeURIComponent(window.location.href);
     var currentFbHref = fbOriginalURL.replace("$LINK", currentUrl);
     var currentTwitterHref = twitterOriginalUrl.replace("$LINK", currentUrl).replace("$LINK", currentUrl);
-    var currentEmailHref = emailOriginalUrl.replace("$LINK", currentUrl);
+    var currentEmailHref = emailOriginalUrl.replace("LINK", currentUrl);
 
     $("#facebookShareLink").attr("href",currentFbHref);
     $("#twitterShareLink").attr("href",currentTwitterHref);
@@ -188,42 +224,56 @@ function updateSocialLinkFields(){
     $("#openGraphUrl").attr("content", window.location.href);
 }
 
-function convert2to3LettersCode(_2letters_code){
-    var _2letters_code = _2letters_code.toUpperCase();
-    try{
-        return countryCodeMap[_2letters_code]._3letter_code;
-    }catch (err){
-        throw Error("2 Letter Code not found:" + _2letters_code);
+function convert2LetterCodeToDatamapsCode(_2letters_code){
+    for(let key in locationCodeMap) {
+        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return locationCodeMap[key].datamaps_code;
+        }
     }
-
+    Error("2 Letter Code not found:" + _2letters_code);
+}
+function convertDatamapsCodeTo2LetterCode(datamaps_code){
+    try{
+        var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
+        return locationCodeMap[locationKey]._2letters_code;
+    } catch (err){
+        Error("Datamaps Code not found:" + datamaps_code);
+    }
 }
 
-function convert3LettersCodeToName(_3letters_code){
+function convertDatamapsCodeToName(datamaps_code){
     try{
-        var _2letters_code = convert3to2LettersCode(_3letters_code);
-        return countryCodeMap[_2letters_code].name;
+        var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
+        return locationCodeMap[locationKey].name;
     }catch (err){
-        throw Error("3 Letter Code not found:" + _3letters_code);
+        throw Error("3 Letter Code not found:" + datamaps_code);
     }
 }
 
 function convert2LettersCodeToName(_2letters_code){
-    var _2letters_code = _2letters_code.toUpperCase();
-    try{
-        return countryCodeMap[_2letters_code].name;
-    }catch (err){
-        throw Error("2 Letter Code not found:" + _2letters_code);
+    for(let key in locationCodeMap) {
+        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return locationCodeMap[key].name;
+        }
     }
+    throw Error("2 Letter Code not found:" + _2letters_code);
 }
 
-function convert3to2LettersCode(_3letters_code){
-    var _3letters_code = _3letters_code.toUpperCase();
-    for(var key in countryCodeMap){
-        if(countryCodeMap[key]._3letter_code == _3letters_code){
+function convertDatamapsCodeToLocationKey(datamaps_code){
+    for(var key in locationCodeMap){
+        if(locationCodeMap[key].datamaps_code.toUpperCase() == datamaps_code.toUpperCase()){
             return key
         }
     }
-    throw Error("3 Letter Code not found:" + _3letters_code);
+    throw Error("3 Letter Code not found:" + datamaps_code);
+}
+
+function convertLocationsColorsToDatamapsColors(locationsColors){
+    var datamapsColors = {};
+    $.map(locationsColors,function(locationColor, locationKey){
+        datamapsColors[getLocationDatamapCodeFromLocationKey(locationKey)] = locationColor;
+    });
+    return datamapsColors;
 }
 
 function datenum(v, date1904) {
@@ -232,3 +282,50 @@ function datenum(v, date1904) {
     return (epoch - new Date(Date.UTC(1899, 11, 30))) / (24 * 60 * 60 * 1000);
 }
 
+function  initApplicationStaticTexts() {
+    $("#applicationTitle").text(APPLICATION_TITLE);
+    $("#applicationDescription").text(APPLICATION_DESCRIPTION);
+    $(".AwarenessScoreTitle").text(AWARENESS_SCORE_TITLE);
+    $("#leftIconImg").attr("src",LEFT_ICON_PATH);
+    $("#rightIconImg").attr("src",RIGHT_ICON_PATH);
+    $("#favicon").attr("href", FAVICON_PATH);
+    document.title = APPLICATION_TITLE;
+}
+
+function getLocation2letterFromLocationKey(locationKey){
+    return locationCodeMap[locationKey]._2letters_code;
+}
+
+function getLocationNameFromLocationKey(locationKey){
+    return locationCodeMap[locationKey].name;
+}
+
+function getLocationDatamapCodeFromLocationKey(locationKey){
+    return locationCodeMap[locationKey].datamaps_code;
+}
+
+function getLocationKeyFromLocation2letter(location2letter){
+    for(var key in locationCodeMap){
+        if(locationCodeMap[key]._2letters_code.toUpperCase() == location2letter.toUpperCase()){
+            return key
+        }
+    }
+    throw Error("2 Letter Code not found:" + location2letter);
+}
+
+function getAllKeysInLocationMap(){
+    return Object.keys(locationCodeMap);
+}
+
+function getAttributeFromLocationKey(locationKey, attribute){
+    if(locationKey in locationCodeMap){
+        var locationItem = locationCodeMap[locationKey];
+        if(attribute in locationItem){
+            return locationItem[attribute];
+        } else{
+            console.log("attribute: " + attribute + " not defined.");
+        }
+    } else {
+        console.log("locationKey: " + locationKey + " not in locationCodeMap");
+    }
+}

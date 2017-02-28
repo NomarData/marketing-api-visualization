@@ -135,3 +135,99 @@ a{
     color: #212121;
 
 }
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+
+#subregionMapContainer{
+    margin-left: auto;
+}
+
+
+.btn-location {
+    margin-top: 2px;
+    width: 70px;
+    color: #000;
+    font-size: 12px;
+    font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+}
+
+.btn-location:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #000;
+    /*border: 2px solid #d1d1d1;*/
+}
+
+.btn-multiple-countries{
+    margin-top: 2px;
+    color: #000;
+}
+
+.btn-multiple-countries:hover{
+    color: #000;
+}
+
+#locationBtnList{
+    top: -75px;
+    position: relative;
+    padding-right: 18px;
+    width: 200px;
+}
+.locationBtnsListOverflow{
+    padding-left: 18px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+#tooltip-locations {
+    position: absolute;
+}
+
+.hoverinfo {
+    z-index: 1;
+    padding: 4px;
+    border-radius: 1px;
+    background-color: #FFF;
+    box-shadow: 1px 1px 5px #CCC;
+    font-size: 12px;
+    border: 1px solid #CCC;
+}
+
+.scoreInMap{
+    font-size: 12px;
+}
+
+.populationSparkline{
+    margin-left: 10px;
+    background-color: #555;
+    color: #555;
+    display: inline-block;
+}
+
+.btnsHeader{
+    margin-left: 65px;
+    font-size: 12px;
+}
+.populationSparklineAxis .domain{
+    fill: none;
+    stroke-width: 2px;
+    stroke: #000000;
+}
+#treemapLegend{
+    margin-top: -18px;
+}
+
+#interestingFindingsTitle{
+    display: none;
+}
+
+.btnsHeaderTitle{
+    margin-left: 10px;
+}

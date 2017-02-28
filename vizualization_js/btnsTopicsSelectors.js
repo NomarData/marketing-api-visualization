@@ -5,27 +5,35 @@ function BtnsTopicsSelectors(){
     var currentInstance = this;
 
     this.setDefault = function(){
-        $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
-        $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        $(".btn-interest[data-interest='"+ dataManager.selectedRightTopic +"']").addClass("btn-selected");
+        $(".btn-interest[data-interest='"+ dataManager.selectedLeftTopic +"']").addClass("btn-selected");
     };
     this.updateData = function(){
-        $(".btn-selected").removeClass("btn-selected"); //Remove all selected
-        if(dataManager.selectedLuxury){
-            $(".btn-interest[data-interest='"+ dataManager.selectedLuxury +"']").addClass("btn-selected"); //UpdateLuxury
+        $(".btn-selected").removeClass("btn-selected");
+        if(dataManager.selectedRightTopic){
+            var rightSelectedBtn = $(".btn-interest[data-interest='"+ dataManager.selectedRightTopic +"']");
+            rightSelectedBtn.addClass("btn-selected");
+            if(rightSelectedBtn.hasClass("btn-interest-header")){
+                $(".btn-right").addClass("btn-selected");
+            }
         }
-        if(dataManager.selectedHealth){
-            $(".btn-interest[data-interest='"+ dataManager.selectedHealth +"']").addClass("btn-selected"); //UpdateHealth
+        if(dataManager.selectedLeftTopic){
+            var leftSelectedBtn = $(".btn-interest[data-interest='"+ dataManager.selectedLeftTopic +"']");
+            leftSelectedBtn.addClass("btn-selected");
+            if(leftSelectedBtn.hasClass("btn-interest-header")){
+                $(".btn-left").addClass("btn-selected");
+            }
         }
     };
 
     this.setSelectedByBtnsClick = function(){
         $(".btn-interest").click(function(){
             var btnElement = $(this);
-            if(btnElement.hasClass("btn-luxury")){
-                dataManager.flipSelectedLuxury(btnElement.data("interest"));
+            if(btnElement.hasClass("btn-right")){
+                dataManager.flipSelectedRightTopic(btnElement.data("interest"));
                 currentInstance.updateData();
-            } else if(btnElement.hasClass("btn-health")){
-                dataManager.flipSelectedHealth(btnElement.data("interest"));
+            } else if(btnElement.hasClass("btn-left")){
+                dataManager.flipSelectedLeftTopic(btnElement.data("interest"));
                 currentInstance.updateData();
             } else {
                 throw Error("Should be luxury or health");
@@ -34,8 +42,8 @@ function BtnsTopicsSelectors(){
     };
     this.init = function(){
 
-        currentInstance.addTopicsBtns(luxuryTopics, "luxury");
-        currentInstance.addTopicsBtns(healthTopics, "health");
+        currentInstance.addTopicsBtns(rightTopics, RIGHT_TOPIC);
+        currentInstance.addTopicsBtns(leftTopics, LEFT_TOPIC);
 
         currentInstance.setSelectedByBtnsClick();
         currentInstance.setDefault();
@@ -44,27 +52,26 @@ function BtnsTopicsSelectors(){
     }
 
     this.addTopicsBtns = function(listTopicsNames, topicType){
-        var luxuryBtnsContainer = $("#btnsLuxuryContainer");
-        var luxuryBtnsContainerHeader = $("#btnsLuxuryContainerHeader");
-        var healthBtnsContainer = $("#btnsHealthContainer");
-        var healthBtnsContainerHeader = $("#btnsHealthContainerHeader");
+        var luxuryBtnsContainer = $("#btnsRightTopicContainer");
+        var luxuryBtnsContainerHeader = $("#btnsRightTopicContainerHeader");
+        var healthBtnsContainer = $("#btnsLeftTopicContainer");
+        var healthBtnsContainerHeader = $("#btnsLeftTopicContainerHeader");
         for(var topicIndex in listTopicsNames){
             var topicName = listTopicsNames[topicIndex];
-            if(topicType == "luxury"){
-                var newBtn = $("<span class='btn btn-interest btn-luxury ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
-                if(topicName == "luxury"){
+            if(topicType == RIGHT_TOPIC){
+                var newBtn = $("<span class='btn btn-interest btn-right ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
+                if(topicName == rightTopics[ALL_RIGHT_TOPIC]){
                     newBtn.addClass("btn-interest-header");
                     luxuryBtnsContainerHeader.append(newBtn);
                 } else {
                     luxuryBtnsContainer.append(newBtn);
                 }
-            } else if (topicType == "health"){
-                var newBtn = $("<span class='btn btn-interest btn-health ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
-                if(topicName == "health"){
+            } else if (topicType == LEFT_TOPIC){
+                var newBtn = $("<span class='btn btn-interest btn-left ' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
+                if(topicName == leftTopics[ALL_LEFT_TOPIC]){
                     newBtn.addClass("btn-interest-header");
                     healthBtnsContainerHeader.append(newBtn);
                 } else{
-                    newBtn = $("<span class='btn btn-interest btn-health' data-interest='" + topicName + "'>" + currentInstance.convertBtnTopicName(topicName) + "</span>");
                     healthBtnsContainer.append(newBtn);
                 }
             } else{

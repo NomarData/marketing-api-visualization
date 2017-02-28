@@ -11,7 +11,7 @@ test = require('unit.js');
 
 describe('Learning by the example', function(){
   it('Get Arabic Country 3 Letters, EXTREMELY simple case', function(){
-    var arabic_countries = getAll3LettersCodeArabCountry();
+    var arabic_countries = getAllDatamapsCodeInLocationMap();
     test.value(arabic_countries.indexOf("DZA")).isNot(-1);
   });
 });

@@ -50,7 +50,6 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.root = treemapData;
     this.node = treemapData;
     this.treemapContainer = treemapContainer;
-    this.tooltip_margin = 10;
     this.treemapCategoryMargin = 15;
 
     this.treemap = d3.layout.treemap()
@@ -58,7 +57,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         .size([this.w - currentInstance.treemapCategoryMargin, this.h])
         .sticky(false)
         .sort(function(nodeData1, nodeData2){
-            if(currentInstance.getCategoryName() == "age_range") return -1*nodeData1.name.localeCompare(nodeData2.name)
+            if(currentInstance.getCategoryName() == "ages_ranges") return -1*nodeData1.name.localeCompare(nodeData2.name)
             return nodeData1.name.localeCompare(nodeData2.name)
         })
         .value(function (d) {
@@ -256,8 +255,8 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     };
     this.mousemoveTooltip = function(d){
         d3.select("#tooltip-treemap").classed("hidden", false);
-        var xPosition = d3.event.pageX + currentInstance.tooltip_margin;
-        var yPosition = d3.event.pageY + currentInstance.tooltip_margin;
+        var xPosition = d3.event.pageX + TOOLTIP_DISTANCE_FROM_MOUSE;
+        var yPosition = d3.event.pageY + TOOLTIP_DISTANCE_FROM_MOUSE;
 
         d3.select("#tooltip-treemap")
             .style("left", xPosition + "px")
@@ -273,11 +272,11 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         d3.select("#tooltip-treemap #scoreTooltip")
             .text(scoreToPercentage(d.score));
 
-        d3.select("#tooltip-treemap #luxuryAudienceTooltip")
-            .text(currentInstance.getFormattedAudience(d.luxuryAudience));
+        d3.select("#tooltip-treemap #rightAudienceTooltip")
+            .text(currentInstance.getFormattedAudience(d.rightAudience));
 
-        d3.select("#tooltip-treemap #healthAudienceTooltip")
-            .text(currentInstance.getFormattedAudience(d.healthAudience));
+        d3.select("#tooltip-treemap #leftAudienceTooltip")
+            .text(currentInstance.getFormattedAudience(d.leftAudience));
 
         d3.select("#tooltip-treemap #audienceCoverageTooltip")
             .text(currentInstance.getFormattedAudience(d.audienceCoverage));
@@ -290,7 +289,7 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.insertCategoryNameOnSide = function(){
         var currentInstance = this;
         var svg = currentInstance.svg;
-        svg.append("svg:text").text(mapValuesStringsTooltip[currentInstance.getCategoryName()])
+        svg.append("svg:text").text(getTooltipLabel(currentInstance.getCategoryName()))
             .style("font-weight","bold")
             .attr("transform", function(d){
                 var textElement = this;
@@ -364,12 +363,21 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", 0)
+            .attr("style","font-size:12px")
             .attr("dy", function(d) { return d.dy/2 + 15; })
             .text(function(d){
                 var audience = parseInt(d.size);
                 return currentInstance.getFormattedAudience(audience);
 
             });
+        // var tspanLine3 = d3.select(this).append("svg:tspan")
+        //     .attr("x", function(d) { return d.dx / 2; })
+        //     .attr("y", 0)
+        //     .attr("style","font-size:10px")
+        //     .attr("dy", function(d) { return d.dy/2 + 30; })
+        //     .text(function(d){
+        //         return "Score: " + scoreToPercentage(d.score);
+        //     });
     }
 
     this.getFormattedAudience = function(audience){

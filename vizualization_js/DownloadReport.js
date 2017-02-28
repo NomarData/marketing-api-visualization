@@ -56,41 +56,43 @@ function DownloadReport(){
     this.addCurrentFiltersToData = function(data){
         data.push([])
         data.push(["Selected Filters"]);
-        data.push(["Health Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedHealth)]);
-        data.push(["Luxury Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedLuxury)]);
+        data.push(["Left Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedLeftTopic)]);
+        data.push(["Right Topic", btnsTopicsSelectors.convertBtnTopicName(dataManager.selectedRightTopic)]);
         var selectedDemographics = dataManager.selectedCategoriesAndValues;
         for(var category in selectedDemographics){
             data.push([getTooltipLabel(category), selectedDemographics[category]])
         }
-        var selectedCountriesData = dataManager.getSelectedCountriesData();
-        for(var countryCode in selectedCountriesData){
-            data.push(["Country", selectedCountriesData[countryCode].name])
+        var selectedLocationData = locationsDataManager.getSelectedLocationsData();
+        for(var locationKey in selectedLocationData){
+            data.push(["Location", selectedLocationData[locationKey].name])
         }
     };
 
-    this.getCountriesDataFromCurrentState = function(){
+    this.getLocationsDataFromCurrentState = function(){
         let data = [];
-        let header = ["Countries", "Score", "Facebook Coverage", "Health Audience", "Luxury Audience"];
-        var countriesData = dataManager.getSelectedCountriesData();
+        let header = ["Locations", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
+        var locationsData = locationsDataManager.getSelectedLocationsData();
+        data.push([APPLICATION_TITLE]);
         data.push(header)
-        for(let countryCode in countriesData){
-            var countryData = countriesData[countryCode];
-            var countryRow = [];
-            countryRow.push(countryData.name);
-            countryRow.push(countryData.score);
-            countryRow.push(countryData.audienceCoverage);
-            countryRow.push(countryData.healthAudience);
-            countryRow.push(countryData.luxuryAudience);
-            data.push(countryRow);
+        for(let locationKey in locationsData){
+            var locationData = locationsData[locationKey];
+            var locationRow = [];
+            locationRow.push(locationData.name);
+            locationRow.push(locationData.score);
+            locationRow.push(locationData.audienceCoverage);
+            locationRow.push(locationData.leftAudience);
+            locationRow.push(locationData.rightAudience);
+            data.push(locationRow);
         }
-        currentInstance.addCurrentFiltersToData(data)
+        currentInstance.addCurrentFiltersToData(data);
         return data;
     };
 
     this.getDemographicsDataFromCurrentState = function(){
         let data = [];
-        let header = ["Demographic Breakdown", "Category", "Score", "Facebook Coverage", "Health Audience", "Luxury Audience"];
+        let header = ["Demographic Breakdown", "Category", "Score", "Facebook Coverage", "Left Audience", "Right Audience"];
         var demographicsData = treemapManager.getAllVisibleTreemapData();
+        data.push([APPLICATION_TITLE]);
         data.push(header);
         for(let demographicName in demographicsData){
             var demographicData = demographicsData[demographicName];
@@ -99,16 +101,16 @@ function DownloadReport(){
             demographicRow.push(getTooltipLabel(demographicData.category));
             demographicRow.push(demographicData.score);
             demographicRow.push(demographicData.audienceCoverage);
-            demographicRow.push(demographicData.healthAudience);
-            demographicRow.push(demographicData.luxuryAudience);
+            demographicRow.push(demographicData.leftAudience);
+            demographicRow.push(demographicData.rightAudience);
             data.push(demographicRow);
         }
         currentInstance.addCurrentFiltersToData(data)
         return data;
     };
 
-    this.buidCountriesWorksheet = function(){
-        var data = currentInstance.getCountriesDataFromCurrentState();
+    this.buidLocationsWorksheet = function(){
+        var data = currentInstance.getLocationsDataFromCurrentState();
         return sheet_from_array_of_arrays(data);
     };
 
@@ -119,11 +121,11 @@ function DownloadReport(){
 
     this.buildWorkbook = function () {
         var workSheets = {
-            "Countries" : currentInstance.buidCountriesWorksheet(),
+            "Locations" : currentInstance.buidLocationsWorksheet(),
             "Demographics" : currentInstance.buidDemographicsWorksheet()
         }
         var wb = new Workbook();
-        wb.SheetNames.push("Countries");
+        wb.SheetNames.push("Locations");
         wb.SheetNames.push("Demographics");
         wb.Sheets = workSheets;
         return wb;

@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,location
+6732,6732,18-24,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,DZ
+6733,6733,25-44,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,DZ
+6734,6734,45+,1.0,Expats,Graduated,1900,1485789793.38,mental disease depression,DZ
+6735,6735,18-24,2.0,Expats,Graduated,5600,1485789793.38,mental disease depression,DZ
+6736,6736,25-44,2.0,Expats,Graduated,3900,1485789793.38,mental disease depression,DZ
+6737,6737,45+,2.0,Expats,Graduated,800,1485789793.38,mental disease depression,DZ
+6738,6738,18-24,1.0,Expats,No Degree,7000,1485789793.38,mental disease depression,DZ
+6739,6739,25-44,1.0,Expats,No Degree,12000,1485789793.38,mental disease depression,DZ
+6740,6740,45+,1.0,Expats,No Degree,2100,1485789793.38,mental disease depression,DZ
+6741,6741,18-24,2.0,Expats,No Degree,3900,1485789793.38,mental disease depression,DZ
+6742,6742,25-44,2.0,Expats,No Degree,4700,1485789793.38,mental disease depression,DZ
+6743,6743,45+,2.0,Expats,No Degree,1200,1485789793.38,mental disease depression,DZ
+6744,6744,18-24,1.0,Expats,High School,5000,1485789793.38,mental disease depression,DZ
+6745,6745,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,DZ
+6746,6746,45+,1.0,Expats,High School,580,1485789793.38,mental disease depression,DZ
+6747,6747,18-24,2.0,Expats,High School,2500,1485789793.38,mental disease depression,DZ
+6748,6748,25-44,2.0,Expats,High School,1200,1485789793.38,mental disease depression,DZ
+6749,6749,45+,2.0,Expats,High School,360,1485789793.38,mental disease depression,DZ
+6750,6750,18-24,1.0,Locals,Graduated,61000,1485789793.38,mental disease depression,DZ
+6751,6751,25-44,1.0,Locals,Graduated,100000,1485789793.38,mental disease depression,DZ
+6752,6752,45+,1.0,Locals,Graduated,11000,1485789793.38,mental disease depression,DZ
+6753,6753,18-24,2.0,Locals,Graduated,49000,1485789793.38,mental disease depression,DZ
+6754,6754,25-44,2.0,Locals,Graduated,59000,1485789793.38,mental disease depression,DZ
+6755,6755,45+,2.0,Locals,Graduated,5700,1485789793.38,mental disease depression,DZ
+6756,6756,18-24,1.0,Locals,No Degree,63000,1485789793.38,mental disease depression,DZ
+6757,6757,25-44,1.0,Locals,No Degree,130000,1485789793.38,mental disease depression,DZ
+6758,6758,45+,1.0,Locals,No Degree,18000,1485789793.38,mental disease depression,DZ
+6759,6759,18-24,2.0,Locals,No Degree,51000,1485789793.38,mental disease depression,DZ
+6760,6760,25-44,2.0,Locals,No Degree,70000,1485789793.38,mental disease depression,DZ
+6761,6761,45+,2.0,Locals,No Degree,11000,1485789793.38,mental disease depression,DZ
+6762,6762,18-24,1.0,Locals,High School,28000,1485789793.38,mental disease depression,DZ
+6763,6763,25-44,1.0,Locals,High School,30000,1485789793.38,mental disease depression,DZ
+6764,6764,45+,1.0,Locals,High School,4100,1485789793.38,mental disease depression,DZ
+6765,6765,18-24,2.0,Locals,High School,24000,1485789793.38,mental disease depression,DZ
+6766,6766,25-44,2.0,Locals,High School,14000,1485789793.38,mental disease depression,DZ
+6767,6767,45+,2.0,Locals,High School,2900,1485789793.38,mental disease depression,DZ
+6768,6768,18-24,1.0,Expats,Graduated,640,1485789793.38,mental disease depression,BH
+6769,6769,25-44,1.0,Expats,Graduated,1800,1485789793.38,mental disease depression,BH
+6770,6770,45+,1.0,Expats,Graduated,370,1485789793.38,mental disease depression,BH
+6771,6771,18-24,2.0,Expats,Graduated,460,1485789793.38,mental disease depression,BH
+6772,6772,25-44,2.0,Expats,Graduated,2900,1485789793.38,mental disease depression,BH
+6773,6773,45+,2.0,Expats,Graduated,500,1485789793.38,mental disease depression,BH
+6774,6774,18-24,1.0,Expats,No Degree,690,1485789793.38,mental disease depression,BH
+6775,6775,25-44,1.0,Expats,No Degree,1400,1485789793.38,mental disease depression,BH
+6776,6776,45+,1.0,Expats,No Degree,440,1485789793.38,mental disease depression,BH
+6777,6777,18-24,2.0,Expats,No Degree,310,1485789793.38,mental disease depression,BH
+6778,6778,25-44,2.0,Expats,No Degree,940,1485789793.38,mental disease depression,BH
+6779,6779,45+,2.0,Expats,No Degree,220,1485789793.38,mental disease depression,BH
+6780,6780,18-24,1.0,Expats,High School,350,1485789793.38,mental disease depression,BH
+6781,6781,25-44,1.0,Expats,High School,600,1485789793.38,mental disease depression,BH
+6782,6782,45+,1.0,Expats,High School,110,1485789793.38,mental disease depression,BH
+6783,6783,18-24,2.0,Expats,High School,260,1485789793.38,mental disease depression,BH
+6784,6784,25-44,2.0,Expats,High School,850,1485789793.38,mental disease depression,BH
+6785,6785,45+,2.0,Expats,High School,120,1485789793.38,mental disease depression,BH
+6786,6786,18-24,1.0,Locals,Graduated,120,1485789793.38,mental disease depression,BH
+6787,6787,25-44,1.0,Locals,Graduated,240,1485789793.38,mental disease depression,BH
+6788,6788,45+,1.0,Locals,Graduated,30,1485789793.38,mental disease depression,BH
+6789,6789,18-24,2.0,Locals,Graduated,180,1485789793.38,mental disease depression,BH
+6790,6790,25-44,2.0,Locals,Graduated,580,1485789793.38,mental disease depression,BH
+6791,6791,45+,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,BH
+6792,6792,18-24,1.0,Locals,No Degree,80,1485789793.38,mental disease depression,BH
+6793,6793,25-44,1.0,Locals,No Degree,150,1485789793.38,mental disease depression,BH
+6794,6794,45+,1.0,Locals,No Degree,40,1485789793.38,mental disease depression,BH
+6795,6795,18-24,2.0,Locals,No Degree,170,1485789793.38,mental disease depression,BH
+6796,6796,25-44,2.0,Locals,No Degree,420,1485789793.38,mental disease depression,BH
+6797,6797,45+,2.0,Locals,No Degree,60,1485789793.38,mental disease depression,BH
+6798,6798,18-24,1.0,Locals,High School,70,1485789793.38,mental disease depression,BH
+6799,6799,25-44,1.0,Locals,High School,80,1485789793.38,mental disease depression,BH
+6800,6800,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,BH
+6801,6801,18-24,2.0,Locals,High School,150,1485789793.38,mental disease depression,BH
+6802,6802,25-44,2.0,Locals,High School,110,1485789793.38,mental disease depression,BH
+6803,6803,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,BH
+6804,6804,18-24,1.0,Expats,Graduated,10000,1485789793.38,mental disease depression,EG
+6805,6805,25-44,1.0,Expats,Graduated,16000,1485789793.38,mental disease depression,EG
+6806,6806,45+,1.0,Expats,Graduated,4200,1485789793.38,mental disease depression,EG
+6807,6807,18-24,2.0,Expats,Graduated,6100,1485789793.38,mental disease depression,EG
+6808,6808,25-44,2.0,Expats,Graduated,11000,1485789793.38,mental disease depression,EG
+6809,6809,45+,2.0,Expats,Graduated,1900,1485789793.38,mental disease depression,EG
+6810,6810,18-24,1.0,Expats,No Degree,4500,1485789793.38,mental disease depression,EG
+6811,6811,25-44,1.0,Expats,No Degree,6900,1485789793.38,mental disease depression,EG
+6812,6812,45+,1.0,Expats,No Degree,2800,1485789793.38,mental disease depression,EG
+6813,6813,18-24,2.0,Expats,No Degree,2700,1485789793.38,mental disease depression,EG
+6814,6814,25-44,2.0,Expats,No Degree,3900,1485789793.38,mental disease depression,EG
+6815,6815,45+,2.0,Expats,No Degree,1700,1485789793.38,mental disease depression,EG
+6816,6816,18-24,1.0,Expats,High School,6500,1485789793.38,mental disease depression,EG
+6817,6817,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,EG
+6818,6818,45+,1.0,Expats,High School,980,1485789793.38,mental disease depression,EG
+6819,6819,18-24,2.0,Expats,High School,5600,1485789793.38,mental disease depression,EG
+6820,6820,25-44,2.0,Expats,High School,2500,1485789793.38,mental disease depression,EG
+6821,6821,45+,2.0,Expats,High School,540,1485789793.38,mental disease depression,EG
+6822,6822,18-24,1.0,Locals,Graduated,190000,1485789793.38,mental disease depression,EG
+6823,6823,25-44,1.0,Locals,Graduated,310000,1485789793.38,mental disease depression,EG
+6824,6824,45+,1.0,Locals,Graduated,82000,1485789793.38,mental disease depression,EG
+6825,6825,18-24,2.0,Locals,Graduated,200000,1485789793.38,mental disease depression,EG
+6826,6826,25-44,2.0,Locals,Graduated,290000,1485789793.38,mental disease depression,EG
+6827,6827,45+,2.0,Locals,Graduated,42000,1485789793.38,mental disease depression,EG
+6828,6828,18-24,1.0,Locals,No Degree,93000,1485789793.38,mental disease depression,EG
+6829,6829,25-44,1.0,Locals,No Degree,180000,1485789793.38,mental disease depression,EG
+6830,6830,45+,1.0,Locals,No Degree,87000,1485789793.38,mental disease depression,EG
+6831,6831,18-24,2.0,Locals,No Degree,92000,1485789793.38,mental disease depression,EG
+6832,6832,25-44,2.0,Locals,No Degree,130000,1485789793.38,mental disease depression,EG
+6833,6833,45+,2.0,Locals,No Degree,59000,1485789793.38,mental disease depression,EG
+6834,6834,18-24,1.0,Locals,High School,130000,1485789793.38,mental disease depression,EG
+6835,6835,25-44,1.0,Locals,High School,68000,1485789793.38,mental disease depression,EG
+6836,6836,45+,1.0,Locals,High School,21000,1485789793.38,mental disease depression,EG
+6837,6837,18-24,2.0,Locals,High School,180000,1485789793.38,mental disease depression,EG
+6838,6838,25-44,2.0,Locals,High School,50000,1485789793.38,mental disease depression,EG
+6839,6839,45+,2.0,Locals,High School,9300,1485789793.38,mental disease depression,EG
+6840,6840,18-24,1.0,Expats,Graduated,8700,1485789793.38,mental disease depression,IQ
+6841,6841,25-44,1.0,Expats,Graduated,14000,1485789793.38,mental disease depression,IQ
+6842,6842,45+,1.0,Expats,Graduated,2300,1485789793.38,mental disease depression,IQ
+6843,6843,18-24,2.0,Expats,Graduated,620,1485789793.38,mental disease depression,IQ
+6844,6844,25-44,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,IQ
+6845,6845,45+,2.0,Expats,Graduated,270,1485789793.38,mental disease depression,IQ
+6846,6846,18-24,1.0,Expats,No Degree,8400,1485789793.38,mental disease depression,IQ
+6847,6847,25-44,1.0,Expats,No Degree,8600,1485789793.38,mental disease depression,IQ
+6848,6848,45+,1.0,Expats,No Degree,1900,1485789793.38,mental disease depression,IQ
+6849,6849,18-24,2.0,Expats,No Degree,970,1485789793.38,mental disease depression,IQ
+6850,6850,25-44,2.0,Expats,No Degree,1600,1485789793.38,mental disease depression,IQ
+6851,6851,45+,2.0,Expats,No Degree,470,1485789793.38,mental disease depression,IQ
+6852,6852,18-24,1.0,Expats,High School,4000,1485789793.38,mental disease depression,IQ
+6853,6853,25-44,1.0,Expats,High School,3500,1485789793.38,mental disease depression,IQ
+6854,6854,45+,1.0,Expats,High School,710,1485789793.38,mental disease depression,IQ
+6855,6855,18-24,2.0,Expats,High School,590,1485789793.38,mental disease depression,IQ
+6856,6856,25-44,2.0,Expats,High School,430,1485789793.38,mental disease depression,IQ
+6857,6857,45+,2.0,Expats,High School,80,1485789793.38,mental disease depression,IQ
+6858,6858,18-24,1.0,Locals,Graduated,84000,1485789793.38,mental disease depression,IQ
+6859,6859,25-44,1.0,Locals,Graduated,140000,1485789793.38,mental disease depression,IQ
+6860,6860,45+,1.0,Locals,Graduated,24000,1485789793.38,mental disease depression,IQ
+6861,6861,18-24,2.0,Locals,Graduated,7000,1485789793.38,mental disease depression,IQ
+6862,6862,25-44,2.0,Locals,Graduated,15000,1485789793.38,mental disease depression,IQ
+6863,6863,45+,2.0,Locals,Graduated,4400,1485789793.38,mental disease depression,IQ
+6864,6864,18-24,1.0,Locals,No Degree,190000,1485789793.38,mental disease depression,IQ
+6865,6865,25-44,1.0,Locals,No Degree,180000,1485789793.38,mental disease depression,IQ
+6866,6866,45+,1.0,Locals,No Degree,47000,1485789793.38,mental disease depression,IQ
+6867,6867,18-24,2.0,Locals,No Degree,12000,1485789793.38,mental disease depression,IQ
+6868,6868,25-44,2.0,Locals,No Degree,17000,1485789793.38,mental disease depression,IQ
+6869,6869,45+,2.0,Locals,No Degree,9400,1485789793.38,mental disease depression,IQ
+6870,6870,18-24,1.0,Locals,High School,51000,1485789793.38,mental disease depression,IQ
+6871,6871,25-44,1.0,Locals,High School,43000,1485789793.38,mental disease depression,IQ
+6872,6872,45+,1.0,Locals,High School,8500,1485789793.38,mental disease depression,IQ
+6873,6873,18-24,2.0,Locals,High School,6400,1485789793.38,mental disease depression,IQ
+6874,6874,25-44,2.0,Locals,High School,4400,1485789793.38,mental disease depression,IQ
+6875,6875,45+,2.0,Locals,High School,1600,1485789793.38,mental disease depression,IQ
+6876,6876,18-24,1.0,Expats,Graduated,3000,1485789793.38,mental disease depression,JO
+6877,6877,25-44,1.0,Expats,Graduated,12000,1485789793.38,mental disease depression,JO
+6878,6878,45+,1.0,Expats,Graduated,2100,1485789793.38,mental disease depression,JO
+6879,6879,18-24,2.0,Expats,Graduated,2500,1485789793.38,mental disease depression,JO
+6880,6880,25-44,2.0,Expats,Graduated,9100,1485789793.38,mental disease depression,JO
+6881,6881,45+,2.0,Expats,Graduated,1900,1485789793.38,mental disease depression,JO
+6882,6882,18-24,1.0,Expats,No Degree,4000,1485789793.38,mental disease depression,JO
+6883,6883,25-44,1.0,Expats,No Degree,9600,1485789793.38,mental disease depression,JO
+6884,6884,45+,1.0,Expats,No Degree,2700,1485789793.38,mental disease depression,JO
+6885,6885,18-24,2.0,Expats,No Degree,1700,1485789793.38,mental disease depression,JO
+6886,6886,25-44,2.0,Expats,No Degree,5600,1485789793.38,mental disease depression,JO
+6887,6887,45+,2.0,Expats,No Degree,2400,1485789793.38,mental disease depression,JO
+6888,6888,18-24,1.0,Expats,High School,3000,1485789793.38,mental disease depression,JO
+6889,6889,25-44,1.0,Expats,High School,4200,1485789793.38,mental disease depression,JO
+6890,6890,45+,1.0,Expats,High School,640,1485789793.38,mental disease depression,JO
+6891,6891,18-24,2.0,Expats,High School,2700,1485789793.38,mental disease depression,JO
+6892,6892,25-44,2.0,Expats,High School,2800,1485789793.38,mental disease depression,JO
+6893,6893,45+,2.0,Expats,High School,630,1485789793.38,mental disease depression,JO
+6894,6894,18-24,1.0,Locals,Graduated,11000,1485789793.38,mental disease depression,JO
+6895,6895,25-44,1.0,Locals,Graduated,36000,1485789793.38,mental disease depression,JO
+6896,6896,45+,1.0,Locals,Graduated,6600,1485789793.38,mental disease depression,JO
+6897,6897,18-24,2.0,Locals,Graduated,7600,1485789793.38,mental disease depression,JO
+6898,6898,25-44,2.0,Locals,Graduated,30000,1485789793.38,mental disease depression,JO
+6899,6899,45+,2.0,Locals,Graduated,4100,1485789793.38,mental disease depression,JO
+6900,6900,18-24,1.0,Locals,No Degree,13000,1485789793.38,mental disease depression,JO
+6901,6901,25-44,1.0,Locals,No Degree,27000,1485789793.38,mental disease depression,JO
+6902,6902,45+,1.0,Locals,No Degree,9300,1485789793.38,mental disease depression,JO
+6903,6903,18-24,2.0,Locals,No Degree,7200,1485789793.38,mental disease depression,JO
+6904,6904,25-44,2.0,Locals,No Degree,23000,1485789793.38,mental disease depression,JO
+6905,6905,45+,2.0,Locals,No Degree,8600,1485789793.38,mental disease depression,JO
+6906,6906,18-24,1.0,Locals,High School,8900,1485789793.38,mental disease depression,JO
+6907,6907,25-44,1.0,Locals,High School,11000,1485789793.38,mental disease depression,JO
+6908,6908,45+,1.0,Locals,High School,2900,1485789793.38,mental disease depression,JO
+6909,6909,18-24,2.0,Locals,High School,8700,1485789793.38,mental disease depression,JO
+6910,6910,25-44,2.0,Locals,High School,8600,1485789793.38,mental disease depression,JO
+6911,6911,45+,2.0,Locals,High School,1600,1485789793.38,mental disease depression,JO
+6912,6912,18-24,1.0,Expats,Graduated,3500,1485789793.38,mental disease depression,KW
+6913,6913,25-44,1.0,Expats,Graduated,21000,1485789793.38,mental disease depression,KW
+6914,6914,45+,1.0,Expats,Graduated,2400,1485789793.38,mental disease depression,KW
+6915,6915,18-24,2.0,Expats,Graduated,1300,1485789793.38,mental disease depression,KW
+6916,6916,25-44,2.0,Expats,Graduated,12000,1485789793.38,mental disease depression,KW
+6917,6917,45+,2.0,Expats,Graduated,2400,1485789793.38,mental disease depression,KW
+6918,6918,18-24,1.0,Expats,No Degree,6500,1485789793.38,mental disease depression,KW
+6919,6919,25-44,1.0,Expats,No Degree,17000,1485789793.38,mental disease depression,KW
+6920,6920,45+,1.0,Expats,No Degree,3900,1485789793.38,mental disease depression,KW
+6921,6921,18-24,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,KW
+6922,6922,25-44,2.0,Expats,No Degree,6500,1485789793.38,mental disease depression,KW
+6923,6923,45+,2.0,Expats,No Degree,2800,1485789793.38,mental disease depression,KW
+6924,6924,18-24,1.0,Expats,High School,1600,1485789793.38,mental disease depression,KW
+6925,6925,25-44,1.0,Expats,High School,5700,1485789793.38,mental disease depression,KW
+6926,6926,45+,1.0,Expats,High School,850,1485789793.38,mental disease depression,KW
+6927,6927,18-24,2.0,Expats,High School,1000,1485789793.38,mental disease depression,KW
+6928,6928,25-44,2.0,Expats,High School,4000,1485789793.38,mental disease depression,KW
+6929,6929,45+,2.0,Expats,High School,710,1485789793.38,mental disease depression,KW
+6930,6930,18-24,1.0,Locals,Graduated,160,1485789793.38,mental disease depression,KW
+6931,6931,25-44,1.0,Locals,Graduated,640,1485789793.38,mental disease depression,KW
+6932,6932,45+,1.0,Locals,Graduated,140,1485789793.38,mental disease depression,KW
+6933,6933,18-24,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,KW
+6934,6934,25-44,2.0,Locals,Graduated,710,1485789793.38,mental disease depression,KW
+6935,6935,45+,2.0,Locals,Graduated,180,1485789793.38,mental disease depression,KW
+6936,6936,18-24,1.0,Locals,No Degree,190,1485789793.38,mental disease depression,KW
+6937,6937,25-44,1.0,Locals,No Degree,650,1485789793.38,mental disease depression,KW
+6938,6938,45+,1.0,Locals,No Degree,250,1485789793.38,mental disease depression,KW
+6939,6939,18-24,2.0,Locals,No Degree,180,1485789793.38,mental disease depression,KW
+6940,6940,25-44,2.0,Locals,No Degree,710,1485789793.38,mental disease depression,KW
+6941,6941,45+,2.0,Locals,No Degree,260,1485789793.38,mental disease depression,KW
+6942,6942,18-24,1.0,Locals,High School,110,1485789793.38,mental disease depression,KW
+6943,6943,25-44,1.0,Locals,High School,210,1485789793.38,mental disease depression,KW
+6944,6944,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,KW
+6945,6945,18-24,2.0,Locals,High School,40,1485789793.38,mental disease depression,KW
+6946,6946,25-44,2.0,Locals,High School,130,1485789793.38,mental disease depression,KW
+6947,6947,45+,2.0,Locals,High School,30,1485789793.38,mental disease depression,KW
+6948,6948,18-24,1.0,Expats,Graduated,2100,1485789793.38,mental disease depression,LB
+6949,6949,25-44,1.0,Expats,Graduated,6300,1485789793.38,mental disease depression,LB
+6950,6950,45+,1.0,Expats,Graduated,1400,1485789793.38,mental disease depression,LB
+6951,6951,18-24,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,LB
+6952,6952,25-44,2.0,Expats,Graduated,5100,1485789793.38,mental disease depression,LB
+6953,6953,45+,2.0,Expats,Graduated,1700,1485789793.38,mental disease depression,LB
+6954,6954,18-24,1.0,Expats,No Degree,3300,1485789793.38,mental disease depression,LB
+6955,6955,25-44,1.0,Expats,No Degree,7800,1485789793.38,mental disease depression,LB
+6956,6956,45+,1.0,Expats,No Degree,2200,1485789793.38,mental disease depression,LB
+6957,6957,18-24,2.0,Expats,No Degree,1600,1485789793.38,mental disease depression,LB
+6958,6958,25-44,2.0,Expats,No Degree,4600,1485789793.38,mental disease depression,LB
+6959,6959,45+,2.0,Expats,No Degree,2300,1485789793.38,mental disease depression,LB
+6960,6960,18-24,1.0,Expats,High School,1600,1485789793.38,mental disease depression,LB
+6961,6961,25-44,1.0,Expats,High School,2400,1485789793.38,mental disease depression,LB
+6962,6962,45+,1.0,Expats,High School,720,1485789793.38,mental disease depression,LB
+6963,6963,18-24,2.0,Expats,High School,1100,1485789793.38,mental disease depression,LB
+6964,6964,25-44,2.0,Expats,High School,1900,1485789793.38,mental disease depression,LB
+6965,6965,45+,2.0,Expats,High School,770,1485789793.38,mental disease depression,LB
+6966,6966,18-24,1.0,Locals,Graduated,7000,1485789793.38,mental disease depression,LB
+6967,6967,25-44,1.0,Locals,Graduated,23000,1485789793.38,mental disease depression,LB
+6968,6968,45+,1.0,Locals,Graduated,9000,1485789793.38,mental disease depression,LB
+6969,6969,18-24,2.0,Locals,Graduated,13000,1485789793.38,mental disease depression,LB
+6970,6970,25-44,2.0,Locals,Graduated,42000,1485789793.38,mental disease depression,LB
+6971,6971,45+,2.0,Locals,Graduated,12000,1485789793.38,mental disease depression,LB
+6972,6972,18-24,1.0,Locals,No Degree,9000,1485789793.38,mental disease depression,LB
+6973,6973,25-44,1.0,Locals,No Degree,26000,1485789793.38,mental disease depression,LB
+6974,6974,45+,1.0,Locals,No Degree,18000,1485789793.38,mental disease depression,LB
+6975,6975,18-24,2.0,Locals,No Degree,11000,1485789793.38,mental disease depression,LB
+6976,6976,25-44,2.0,Locals,No Degree,40000,1485789793.38,mental disease depression,LB
+6977,6977,45+,2.0,Locals,No Degree,31000,1485789793.38,mental disease depression,LB
+6978,6978,18-24,1.0,Locals,High School,5400,1485789793.38,mental disease depression,LB
+6979,6979,25-44,1.0,Locals,High School,6400,1485789793.38,mental disease depression,LB
+6980,6980,45+,1.0,Locals,High School,2900,1485789793.38,mental disease depression,LB
+6981,6981,18-24,2.0,Locals,High School,11000,1485789793.38,mental disease depression,LB
+6982,6982,25-44,2.0,Locals,High School,10000,1485789793.38,mental disease depression,LB
+6983,6983,45+,2.0,Locals,High School,4700,1485789793.38,mental disease depression,LB
+6984,6984,18-24,1.0,Expats,Graduated,2000,1485789793.38,mental disease depression,LY
+6985,6985,25-44,1.0,Expats,Graduated,6100,1485789793.38,mental disease depression,LY
+6986,6986,45+,1.0,Expats,Graduated,860,1485789793.38,mental disease depression,LY
+6987,6987,18-24,2.0,Expats,Graduated,780,1485789793.38,mental disease depression,LY
+6988,6988,25-44,2.0,Expats,Graduated,1800,1485789793.38,mental disease depression,LY
+6989,6989,45+,2.0,Expats,Graduated,420,1485789793.38,mental disease depression,LY
+6990,6990,18-24,1.0,Expats,No Degree,2600,1485789793.38,mental disease depression,LY
+6991,6991,25-44,1.0,Expats,No Degree,6900,1485789793.38,mental disease depression,LY
+6992,6992,45+,1.0,Expats,No Degree,1400,1485789793.38,mental disease depression,LY
+6993,6993,18-24,2.0,Expats,No Degree,840,1485789793.38,mental disease depression,LY
+6994,6994,25-44,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,LY
+6995,6995,45+,2.0,Expats,No Degree,590,1485789793.38,mental disease depression,LY
+6996,6996,18-24,1.0,Expats,High School,870,1485789793.38,mental disease depression,LY
+6997,6997,25-44,1.0,Expats,High School,1700,1485789793.38,mental disease depression,LY
+6998,6998,45+,1.0,Expats,High School,250,1485789793.38,mental disease depression,LY
+6999,6999,18-24,2.0,Expats,High School,510,1485789793.38,mental disease depression,LY
+7000,7000,25-44,2.0,Expats,High School,510,1485789793.38,mental disease depression,LY
+7001,7001,45+,2.0,Expats,High School,140,1485789793.38,mental disease depression,LY
+7002,7002,18-24,1.0,Locals,Graduated,12000,1485789793.38,mental disease depression,LY
+7003,7003,25-44,1.0,Locals,Graduated,30000,1485789793.38,mental disease depression,LY
+7004,7004,45+,1.0,Locals,Graduated,4800,1485789793.38,mental disease depression,LY
+7005,7005,18-24,2.0,Locals,Graduated,8900,1485789793.38,mental disease depression,LY
+7006,7006,25-44,2.0,Locals,Graduated,20000,1485789793.38,mental disease depression,LY
+7007,7007,45+,2.0,Locals,Graduated,3200,1485789793.38,mental disease depression,LY
+7008,7008,18-24,1.0,Locals,No Degree,9400,1485789793.38,mental disease depression,LY
+7009,7009,25-44,1.0,Locals,No Degree,24000,1485789793.38,mental disease depression,LY
+7010,7010,45+,1.0,Locals,No Degree,6600,1485789793.38,mental disease depression,LY
+7011,7011,18-24,2.0,Locals,No Degree,7500,1485789793.38,mental disease depression,LY
+7012,7012,25-44,2.0,Locals,No Degree,18000,1485789793.38,mental disease depression,LY
+7013,7013,45+,2.0,Locals,No Degree,6400,1485789793.38,mental disease depression,LY
+7014,7014,18-24,1.0,Locals,High School,7400,1485789793.38,mental disease depression,LY
+7015,7015,25-44,1.0,Locals,High School,6800,1485789793.38,mental disease depression,LY
+7016,7016,45+,1.0,Locals,High School,1500,1485789793.38,mental disease depression,LY
+7017,7017,18-24,2.0,Locals,High School,7300,1485789793.38,mental disease depression,LY
+7018,7018,25-44,2.0,Locals,High School,4600,1485789793.38,mental disease depression,LY
+7019,7019,45+,2.0,Locals,High School,1000,1485789793.38,mental disease depression,LY
+7020,7020,18-24,1.0,Expats,Graduated,22000,1485789793.38,mental disease depression,MA
+7021,7021,25-44,1.0,Expats,Graduated,27000,1485789793.38,mental disease depression,MA
+7022,7022,45+,1.0,Expats,Graduated,6100,1485789793.38,mental disease depression,MA
+7023,7023,18-24,2.0,Expats,Graduated,5600,1485789793.38,mental disease depression,MA
+7024,7024,25-44,2.0,Expats,Graduated,8100,1485789793.38,mental disease depression,MA
+7025,7025,45+,2.0,Expats,Graduated,2200,1485789793.38,mental disease depression,MA
+7026,7026,18-24,1.0,Expats,No Degree,8400,1485789793.38,mental disease depression,MA
+7027,7027,25-44,1.0,Expats,No Degree,19000,1485789793.38,mental disease depression,MA
+7028,7028,45+,1.0,Expats,No Degree,5700,1485789793.38,mental disease depression,MA
+7029,7029,18-24,2.0,Expats,No Degree,3700,1485789793.38,mental disease depression,MA
+7030,7030,25-44,2.0,Expats,No Degree,7200,1485789793.38,mental disease depression,MA
+7031,7031,45+,2.0,Expats,No Degree,2200,1485789793.38,mental disease depression,MA
+7032,7032,18-24,1.0,Expats,High School,7600,1485789793.38,mental disease depression,MA
+7033,7033,25-44,1.0,Expats,High School,7600,1485789793.38,mental disease depression,MA
+7034,7034,45+,1.0,Expats,High School,2000,1485789793.38,mental disease depression,MA
+7035,7035,18-24,2.0,Expats,High School,2400,1485789793.38,mental disease depression,MA
+7036,7036,25-44,2.0,Expats,High School,2300,1485789793.38,mental disease depression,MA
+7037,7037,45+,2.0,Expats,High School,930,1485789793.38,mental disease depression,MA
+7038,7038,18-24,1.0,Locals,Graduated,140000,1485789793.38,mental disease depression,MA
+7039,7039,25-44,1.0,Locals,Graduated,250000,1485789793.38,mental disease depression,MA
+7040,7040,45+,1.0,Locals,Graduated,67000,1485789793.38,mental disease depression,MA
+7041,7041,18-24,2.0,Locals,Graduated,68000,1485789793.38,mental disease depression,MA
+7042,7042,25-44,2.0,Locals,Graduated,91000,1485789793.38,mental disease depression,MA
+7043,7043,45+,2.0,Locals,Graduated,22000,1485789793.38,mental disease depression,MA
+7044,7044,18-24,1.0,Locals,No Degree,120000,1485789793.38,mental disease depression,MA
+7045,7045,25-44,1.0,Locals,No Degree,350000,1485789793.38,mental disease depression,MA
+7046,7046,45+,1.0,Locals,No Degree,120000,1485789793.38,mental disease depression,MA
+7047,7047,18-24,2.0,Locals,No Degree,62000,1485789793.38,mental disease depression,MA
+7048,7048,25-44,2.0,Locals,No Degree,110000,1485789793.38,mental disease depression,MA
+7049,7049,45+,2.0,Locals,No Degree,43000,1485789793.38,mental disease depression,MA
+7050,7050,18-24,1.0,Locals,High School,55000,1485789793.38,mental disease depression,MA
+7051,7051,25-44,1.0,Locals,High School,71000,1485789793.38,mental disease depression,MA
+7052,7052,45+,1.0,Locals,High School,24000,1485789793.38,mental disease depression,MA
+7053,7053,18-24,2.0,Locals,High School,32000,1485789793.38,mental disease depression,MA
+7054,7054,25-44,2.0,Locals,High School,25000,1485789793.38,mental disease depression,MA
+7055,7055,45+,2.0,Locals,High School,9100,1485789793.38,mental disease depression,MA
+7056,7056,18-24,1.0,Expats,Graduated,970,1485789793.38,mental disease depression,OM
+7057,7057,25-44,1.0,Expats,Graduated,3500,1485789793.38,mental disease depression,OM
+7058,7058,45+,1.0,Expats,Graduated,670,1485789793.38,mental disease depression,OM
+7059,7059,18-24,2.0,Expats,Graduated,360,1485789793.38,mental disease depression,OM
+7060,7060,25-44,2.0,Expats,Graduated,3300,1485789793.38,mental disease depression,OM
+7061,7061,45+,2.0,Expats,Graduated,450,1485789793.38,mental disease depression,OM
+7062,7062,18-24,1.0,Expats,No Degree,2000,1485789793.38,mental disease depression,OM
+7063,7063,25-44,1.0,Expats,No Degree,3900,1485789793.38,mental disease depression,OM
+7064,7064,45+,1.0,Expats,No Degree,600,1485789793.38,mental disease depression,OM
+7065,7065,18-24,2.0,Expats,No Degree,550,1485789793.38,mental disease depression,OM
+7066,7066,25-44,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,OM
+7067,7067,45+,2.0,Expats,No Degree,370,1485789793.38,mental disease depression,OM
+7068,7068,18-24,1.0,Expats,High School,360,1485789793.38,mental disease depression,OM
+7069,7069,25-44,1.0,Expats,High School,900,1485789793.38,mental disease depression,OM
+7070,7070,45+,1.0,Expats,High School,160,1485789793.38,mental disease depression,OM
+7071,7071,18-24,2.0,Expats,High School,230,1485789793.38,mental disease depression,OM
+7072,7072,25-44,2.0,Expats,High School,720,1485789793.38,mental disease depression,OM
+7073,7073,45+,2.0,Expats,High School,90,1485789793.38,mental disease depression,OM
+7074,7074,18-24,1.0,Locals,Graduated,150,1485789793.38,mental disease depression,OM
+7075,7075,25-44,1.0,Locals,Graduated,630,1485789793.38,mental disease depression,OM
+7076,7076,45+,1.0,Locals,Graduated,50,1485789793.38,mental disease depression,OM
+7077,7077,18-24,2.0,Locals,Graduated,90,1485789793.38,mental disease depression,OM
+7078,7078,25-44,2.0,Locals,Graduated,370,1485789793.38,mental disease depression,OM
+7079,7079,45+,2.0,Locals,Graduated,20,1485789793.38,mental disease depression,OM
+7080,7080,18-24,1.0,Locals,No Degree,270,1485789793.38,mental disease depression,OM
+7081,7081,25-44,1.0,Locals,No Degree,620,1485789793.38,mental disease depression,OM
+7082,7082,45+,1.0,Locals,No Degree,110,1485789793.38,mental disease depression,OM
+7083,7083,18-24,2.0,Locals,No Degree,180,1485789793.38,mental disease depression,OM
+7084,7084,25-44,2.0,Locals,No Degree,450,1485789793.38,mental disease depression,OM
+7085,7085,45+,2.0,Locals,No Degree,40,1485789793.38,mental disease depression,OM
+7086,7086,18-24,1.0,Locals,High School,90,1485789793.38,mental disease depression,OM
+7087,7087,25-44,1.0,Locals,High School,180,1485789793.38,mental disease depression,OM
+7088,7088,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,OM
+7089,7089,18-24,2.0,Locals,High School,30,1485789793.38,mental disease depression,OM
+7090,7090,25-44,2.0,Locals,High School,60,1485789793.38,mental disease depression,OM
+7091,7091,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,OM
+7092,7092,18-24,1.0,Expats,Graduated,6000,1485789793.38,mental disease depression,QA
+7093,7093,25-44,1.0,Expats,Graduated,24000,1485789793.38,mental disease depression,QA
+7094,7094,45+,1.0,Expats,Graduated,3200,1485789793.38,mental disease depression,QA
+7095,7095,18-24,2.0,Expats,Graduated,1600,1485789793.38,mental disease depression,QA
+7096,7096,25-44,2.0,Expats,Graduated,12000,1485789793.38,mental disease depression,QA
+7097,7097,45+,2.0,Expats,Graduated,1600,1485789793.38,mental disease depression,QA
+7098,7098,18-24,1.0,Expats,No Degree,4400,1485789793.38,mental disease depression,QA
+7099,7099,25-44,1.0,Expats,No Degree,10000,1485789793.38,mental disease depression,QA
+7100,7100,45+,1.0,Expats,No Degree,1600,1485789793.38,mental disease depression,QA
+7101,7101,18-24,2.0,Expats,No Degree,970,1485789793.38,mental disease depression,QA
+7102,7102,25-44,2.0,Expats,No Degree,3800,1485789793.38,mental disease depression,QA
+7103,7103,45+,2.0,Expats,No Degree,1000,1485789793.38,mental disease depression,QA
+7104,7104,18-24,1.0,Expats,High School,2100,1485789793.38,mental disease depression,QA
+7105,7105,25-44,1.0,Expats,High School,5200,1485789793.38,mental disease depression,QA
+7106,7106,45+,1.0,Expats,High School,810,1485789793.38,mental disease depression,QA
+7107,7107,18-24,2.0,Expats,High School,980,1485789793.38,mental disease depression,QA
+7108,7108,25-44,2.0,Expats,High School,2500,1485789793.38,mental disease depression,QA
+7109,7109,45+,2.0,Expats,High School,400,1485789793.38,mental disease depression,QA
+7110,7110,18-24,1.0,Locals,Graduated,150,1485789793.38,mental disease depression,QA
+7111,7111,25-44,1.0,Locals,Graduated,300,1485789793.38,mental disease depression,QA
+7112,7112,45+,1.0,Locals,Graduated,20,1485789793.38,mental disease depression,QA
+7113,7113,18-24,2.0,Locals,Graduated,40,1485789793.38,mental disease depression,QA
+7114,7114,25-44,2.0,Locals,Graduated,320,1485789793.38,mental disease depression,QA
+7115,7115,45+,2.0,Locals,Graduated,20,1485789793.38,mental disease depression,QA
+7116,7116,18-24,1.0,Locals,No Degree,70,1485789793.38,mental disease depression,QA
+7117,7117,25-44,1.0,Locals,No Degree,190,1485789793.38,mental disease depression,QA
+7118,7118,45+,1.0,Locals,No Degree,20,1485789793.38,mental disease depression,QA
+7119,7119,18-24,2.0,Locals,No Degree,100,1485789793.38,mental disease depression,QA
+7120,7120,25-44,2.0,Locals,No Degree,210,1485789793.38,mental disease depression,QA
+7121,7121,45+,2.0,Locals,No Degree,20,1485789793.38,mental disease depression,QA
+7122,7122,18-24,1.0,Locals,High School,40,1485789793.38,mental disease depression,QA
+7123,7123,25-44,1.0,Locals,High School,110,1485789793.38,mental disease depression,QA
+7124,7124,45+,1.0,Locals,High School,20,1485789793.38,mental disease depression,QA
+7125,7125,18-24,2.0,Locals,High School,80,1485789793.38,mental disease depression,QA
+7126,7126,25-44,2.0,Locals,High School,50,1485789793.38,mental disease depression,QA
+7127,7127,45+,2.0,Locals,High School,20,1485789793.38,mental disease depression,QA
+7128,7128,18-24,1.0,Expats,Graduated,13000,1485789793.38,mental disease depression,SA
+7129,7129,25-44,1.0,Expats,Graduated,70000,1485789793.38,mental disease depression,SA
+7130,7130,45+,1.0,Expats,Graduated,11000,1485789793.38,mental disease depression,SA
+7131,7131,18-24,2.0,Expats,Graduated,7800,1485789793.38,mental disease depression,SA
+7132,7132,25-44,2.0,Expats,Graduated,39000,1485789793.38,mental disease depression,SA
+7133,7133,45+,2.0,Expats,Graduated,5700,1485789793.38,mental disease depression,SA
+7134,7134,18-24,1.0,Expats,No Degree,3800,1485789793.38,mental disease depression,SA
+7135,7135,25-44,1.0,Expats,No Degree,12000,1485789793.38,mental disease depression,SA
+7136,7136,45+,1.0,Expats,No Degree,2500,1485789793.38,mental disease depression,SA
+7137,7137,18-24,2.0,Expats,No Degree,3200,1485789793.38,mental disease depression,SA
+7138,7138,25-44,2.0,Expats,No Degree,8200,1485789793.38,mental disease depression,SA
+7139,7139,45+,2.0,Expats,No Degree,2000,1485789793.38,mental disease depression,SA
+7140,7140,18-24,1.0,Expats,High School,4900,1485789793.38,mental disease depression,SA
+7141,7141,25-44,1.0,Expats,High School,15000,1485789793.38,mental disease depression,SA
+7142,7142,45+,1.0,Expats,High School,2400,1485789793.38,mental disease depression,SA
+7143,7143,18-24,2.0,Expats,High School,4400,1485789793.38,mental disease depression,SA
+7144,7144,25-44,2.0,Expats,High School,9500,1485789793.38,mental disease depression,SA
+7145,7145,45+,2.0,Expats,High School,1500,1485789793.38,mental disease depression,SA
+7146,7146,18-24,1.0,Locals,Graduated,5500,1485789793.38,mental disease depression,SA
+7147,7147,25-44,1.0,Locals,Graduated,24000,1485789793.38,mental disease depression,SA
+7148,7148,45+,1.0,Locals,Graduated,4400,1485789793.38,mental disease depression,SA
+7149,7149,18-24,2.0,Locals,Graduated,3300,1485789793.38,mental disease depression,SA
+7150,7150,25-44,2.0,Locals,Graduated,12000,1485789793.38,mental disease depression,SA
+7151,7151,45+,2.0,Locals,Graduated,1800,1485789793.38,mental disease depression,SA
+7152,7152,18-24,1.0,Locals,No Degree,28000,1485789793.38,mental disease depression,SA
+7153,7153,25-44,1.0,Locals,No Degree,57000,1485789793.38,mental disease depression,SA
+7154,7154,45+,1.0,Locals,No Degree,11000,1485789793.38,mental disease depression,SA
+7155,7155,18-24,2.0,Locals,No Degree,9800,1485789793.38,mental disease depression,SA
+7156,7156,25-44,2.0,Locals,No Degree,19000,1485789793.38,mental disease depression,SA
+7157,7157,45+,2.0,Locals,No Degree,5500,1485789793.38,mental disease depression,SA
+7158,7158,18-24,1.0,Locals,High School,2900,1485789793.38,mental disease depression,SA
+7159,7159,25-44,1.0,Locals,High School,8200,1485789793.38,mental disease depression,SA
+7160,7160,45+,1.0,Locals,High School,1600,1485789793.38,mental disease depression,SA
+7161,7161,18-24,2.0,Locals,High School,2300,1485789793.38,mental disease depression,SA
+7162,7162,25-44,2.0,Locals,High School,3800,1485789793.38,mental disease depression,SA
+7163,7163,45+,2.0,Locals,High School,670,1485789793.38,mental disease depression,SA
+7164,7164,18-24,1.0,Expats,Graduated,1400,1485789793.38,mental disease depression,SO
+7165,7165,25-44,1.0,Expats,Graduated,1200,1485789793.38,mental disease depression,SO
+7166,7166,45+,1.0,Expats,Graduated,180,1485789793.38,mental disease depression,SO
+7167,7167,18-24,2.0,Expats,Graduated,570,1485789793.38,mental disease depression,SO
+7168,7168,25-44,2.0,Expats,Graduated,420,1485789793.38,mental disease depression,SO
+7169,7169,45+,2.0,Expats,Graduated,90,1485789793.38,mental disease depression,SO
+7170,7170,18-24,1.0,Expats,No Degree,430,1485789793.38,mental disease depression,SO
+7171,7171,25-44,1.0,Expats,No Degree,730,1485789793.38,mental disease depression,SO
+7172,7172,45+,1.0,Expats,No Degree,190,1485789793.38,mental disease depression,SO
+7173,7173,18-24,2.0,Expats,No Degree,370,1485789793.38,mental disease depression,SO
+7174,7174,25-44,2.0,Expats,No Degree,250,1485789793.38,mental disease depression,SO
+7175,7175,45+,2.0,Expats,No Degree,30,1485789793.38,mental disease depression,SO
+7176,7176,18-24,1.0,Expats,High School,450,1485789793.38,mental disease depression,SO
+7177,7177,25-44,1.0,Expats,High School,270,1485789793.38,mental disease depression,SO
+7178,7178,45+,1.0,Expats,High School,80,1485789793.38,mental disease depression,SO
+7179,7179,18-24,2.0,Expats,High School,250,1485789793.38,mental disease depression,SO
+7180,7180,25-44,2.0,Expats,High School,90,1485789793.38,mental disease depression,SO
+7181,7181,45+,2.0,Expats,High School,20,1485789793.38,mental disease depression,SO
+7182,7182,18-24,1.0,Locals,Graduated,5000,1485789793.38,mental disease depression,SO
+7183,7183,25-44,1.0,Locals,Graduated,4400,1485789793.38,mental disease depression,SO
+7184,7184,45+,1.0,Locals,Graduated,280,1485789793.38,mental disease depression,SO
+7185,7185,18-24,2.0,Locals,Graduated,3000,1485789793.38,mental disease depression,SO
+7186,7186,25-44,2.0,Locals,Graduated,1500,1485789793.38,mental disease depression,SO
+7187,7187,45+,2.0,Locals,Graduated,160,1485789793.38,mental disease depression,SO
+7188,7188,18-24,1.0,Locals,No Degree,8100,1485789793.38,mental disease depression,SO
+7189,7189,25-44,1.0,Locals,No Degree,4900,1485789793.38,mental disease depression,SO
+7190,7190,45+,1.0,Locals,No Degree,900,1485789793.38,mental disease depression,SO
+7191,7191,18-24,2.0,Locals,No Degree,8300,1485789793.38,mental disease depression,SO
+7192,7192,25-44,2.0,Locals,No Degree,3500,1485789793.38,mental disease depression,SO
+7193,7193,45+,2.0,Locals,No Degree,410,1485789793.38,mental disease depression,SO
+7194,7194,18-24,1.0,Locals,High School,2000,1485789793.38,mental disease depression,SO
+7195,7195,25-44,1.0,Locals,High School,850,1485789793.38,mental disease depression,SO
+7196,7196,45+,1.0,Locals,High School,90,1485789793.38,mental disease depression,SO
+7197,7197,18-24,2.0,Locals,High School,1400,1485789793.38,mental disease depression,SO
+7198,7198,25-44,2.0,Locals,High School,430,1485789793.38,mental disease depression,SO
+7199,7199,45+,2.0,Locals,High School,110,1485789793.38,mental disease depression,SO
+7200,7200,18-24,1.0,Expats,Graduated,5000,1485789793.38,mental disease depression,TN
+7201,7201,25-44,1.0,Expats,Graduated,4700,1485789793.38,mental disease depression,TN
+7202,7202,45+,1.0,Expats,Graduated,1300,1485789793.38,mental disease depression,TN
+7203,7203,18-24,2.0,Expats,Graduated,3100,1485789793.38,mental disease depression,TN
+7204,7204,25-44,2.0,Expats,Graduated,2600,1485789793.38,mental disease depression,TN
+7205,7205,45+,2.0,Expats,Graduated,630,1485789793.38,mental disease depression,TN
+7206,7206,18-24,1.0,Expats,No Degree,2000,1485789793.38,mental disease depression,TN
+7207,7207,25-44,1.0,Expats,No Degree,2900,1485789793.38,mental disease depression,TN
+7208,7208,45+,1.0,Expats,No Degree,780,1485789793.38,mental disease depression,TN
+7209,7209,18-24,2.0,Expats,No Degree,1800,1485789793.38,mental disease depression,TN
+7210,7210,25-44,2.0,Expats,No Degree,1900,1485789793.38,mental disease depression,TN
+7211,7211,45+,2.0,Expats,No Degree,540,1485789793.38,mental disease depression,TN
+7212,7212,18-24,1.0,Expats,High School,2200,1485789793.38,mental disease depression,TN
+7213,7213,25-44,1.0,Expats,High School,1200,1485789793.38,mental disease depression,TN
+7214,7214,45+,1.0,Expats,High School,310,1485789793.38,mental disease depression,TN
+7215,7215,18-24,2.0,Expats,High School,1600,1485789793.38,mental disease depression,TN
+7216,7216,25-44,2.0,Expats,High School,930,1485789793.38,mental disease depression,TN
+7217,7217,45+,2.0,Expats,High School,330,1485789793.38,mental disease depression,TN
+7218,7218,18-24,1.0,Locals,Graduated,28000,1485789793.38,mental disease depression,TN
+7219,7219,25-44,1.0,Locals,Graduated,42000,1485789793.38,mental disease depression,TN
+7220,7220,45+,1.0,Locals,Graduated,9300,1485789793.38,mental disease depression,TN
+7221,7221,18-24,2.0,Locals,Graduated,46000,1485789793.38,mental disease depression,TN
+7222,7222,25-44,2.0,Locals,Graduated,51000,1485789793.38,mental disease depression,TN
+7223,7223,45+,2.0,Locals,Graduated,5200,1485789793.38,mental disease depression,TN
+7224,7224,18-24,1.0,Locals,No Degree,21000,1485789793.38,mental disease depression,TN
+7225,7225,25-44,1.0,Locals,No Degree,35000,1485789793.38,mental disease depression,TN
+7226,7226,45+,1.0,Locals,No Degree,9400,1485789793.38,mental disease depression,TN
+7227,7227,18-24,2.0,Locals,No Degree,34000,1485789793.38,mental disease depression,TN
+7228,7228,25-44,2.0,Locals,No Degree,29000,1485789793.38,mental disease depression,TN
+7229,7229,45+,2.0,Locals,No Degree,6300,1485789793.38,mental disease depression,TN
+7230,7230,18-24,1.0,Locals,High School,16000,1485789793.38,mental disease depression,TN
+7231,7231,25-44,1.0,Locals,High School,13000,1485789793.38,mental disease depression,TN
+7232,7232,45+,1.0,Locals,High School,3700,1485789793.38,mental disease depression,TN
+7233,7233,18-24,2.0,Locals,High School,28000,1485789793.38,mental disease depression,TN
+7234,7234,25-44,2.0,Locals,High School,12000,1485789793.38,mental disease depression,TN
+7235,7235,45+,2.0,Locals,High School,2500,1485789793.38,mental disease depression,TN
+7236,7236,18-24,1.0,Expats,Graduated,10000,1485789793.38,mental disease depression,AE
+7237,7237,25-44,1.0,Expats,Graduated,38000,1485789793.38,mental disease depression,AE
+7238,7238,45+,1.0,Expats,Graduated,6200,1485789793.38,mental disease depression,AE
+7239,7239,18-24,2.0,Expats,Graduated,5700,1485789793.38,mental disease depression,AE
+7240,7240,25-44,2.0,Expats,Graduated,53000,1485789793.38,mental disease depression,AE
+7241,7241,45+,2.0,Expats,Graduated,9000,1485789793.38,mental disease depression,AE
+7242,7242,18-24,1.0,Expats,No Degree,9000,1485789793.38,mental disease depression,AE
+7243,7243,25-44,1.0,Expats,No Degree,28000,1485789793.38,mental disease depression,AE
+7244,7244,45+,1.0,Expats,No Degree,5400,1485789793.38,mental disease depression,AE
+7245,7245,18-24,2.0,Expats,No Degree,2400,1485789793.38,mental disease depression,AE
+7246,7246,25-44,2.0,Expats,No Degree,17000,1485789793.38,mental disease depression,AE
+7247,7247,45+,2.0,Expats,No Degree,5800,1485789793.38,mental disease depression,AE
+7248,7248,18-24,1.0,Expats,High School,4200,1485789793.38,mental disease depression,AE
+7249,7249,25-44,1.0,Expats,High School,8500,1485789793.38,mental disease depression,AE
+7250,7250,45+,1.0,Expats,High School,1700,1485789793.38,mental disease depression,AE
+7251,7251,18-24,2.0,Expats,High School,3500,1485789793.38,mental disease depression,AE
+7252,7252,25-44,2.0,Expats,High School,11000,1485789793.38,mental disease depression,AE
+7253,7253,45+,2.0,Expats,High School,2600,1485789793.38,mental disease depression,AE
+7254,7254,18-24,1.0,Locals,Graduated,480,1485789793.38,mental disease depression,AE
+7255,7255,25-44,1.0,Locals,Graduated,1100,1485789793.38,mental disease depression,AE
+7256,7256,45+,1.0,Locals,Graduated,200,1485789793.38,mental disease depression,AE
+7257,7257,18-24,2.0,Locals,Graduated,330,1485789793.38,mental disease depression,AE
+7258,7258,25-44,2.0,Locals,Graduated,880,1485789793.38,mental disease depression,AE
+7259,7259,45+,2.0,Locals,Graduated,100,1485789793.38,mental disease depression,AE
+7260,7260,18-24,1.0,Locals,No Degree,500,1485789793.38,mental disease depression,AE
+7261,7261,25-44,1.0,Locals,No Degree,1100,1485789793.38,mental disease depression,AE
+7262,7262,45+,1.0,Locals,No Degree,210,1485789793.38,mental disease depression,AE
+7263,7263,18-24,2.0,Locals,No Degree,270,1485789793.38,mental disease depression,AE
+7264,7264,25-44,2.0,Locals,No Degree,620,1485789793.38,mental disease depression,AE
+7265,7265,45+,2.0,Locals,No Degree,160,1485789793.38,mental disease depression,AE
+7266,7266,18-24,1.0,Locals,High School,180,1485789793.38,mental disease depression,AE
+7267,7267,25-44,1.0,Locals,High School,320,1485789793.38,mental disease depression,AE
+7268,7268,45+,1.0,Locals,High School,90,1485789793.38,mental disease depression,AE
+7269,7269,18-24,2.0,Locals,High School,180,1485789793.38,mental disease depression,AE
+7270,7270,25-44,2.0,Locals,High School,170,1485789793.38,mental disease depression,AE
+7271,7271,45+,2.0,Locals,High School,60,1485789793.38,mental disease depression,AE
+7272,7272,18-24,1.0,Expats,Graduated,2500,1485789793.38,mental disease depression,YE
+7273,7273,25-44,1.0,Expats,Graduated,4200,1485789793.38,mental disease depression,YE
+7274,7274,45+,1.0,Expats,Graduated,360,1485789793.38,mental disease depression,YE
+7275,7275,18-24,2.0,Expats,Graduated,370,1485789793.38,mental disease depression,YE
+7276,7276,25-44,2.0,Expats,Graduated,690,1485789793.38,mental disease depression,YE
+7277,7277,45+,2.0,Expats,Graduated,80,1485789793.38,mental disease depression,YE
+7278,7278,18-24,1.0,Expats,No Degree,1600,1485789793.38,mental disease depression,YE
+7279,7279,25-44,1.0,Expats,No Degree,2500,1485789793.38,mental disease depression,YE
+7280,7280,45+,1.0,Expats,No Degree,270,1485789793.38,mental disease depression,YE
+7281,7281,18-24,2.0,Expats,No Degree,610,1485789793.38,mental disease depression,YE
+7282,7282,25-44,2.0,Expats,No Degree,540,1485789793.38,mental disease depression,YE
+7283,7283,45+,2.0,Expats,No Degree,80,1485789793.38,mental disease depression,YE
+7284,7284,18-24,1.0,Expats,High School,960,1485789793.38,mental disease depression,YE
+7285,7285,25-44,1.0,Expats,High School,1100,1485789793.38,mental disease depression,YE
+7286,7286,45+,1.0,Expats,High School,180,1485789793.38,mental disease depression,YE
+7287,7287,18-24,2.0,Expats,High School,380,1485789793.38,mental disease depression,YE
+7288,7288,25-44,2.0,Expats,High School,260,1485789793.38,mental disease depression,YE
+7289,7289,45+,2.0,Expats,High School,20,1485789793.38,mental disease depression,YE
+7290,7290,18-24,1.0,Locals,Graduated,19000,1485789793.38,mental disease depression,YE
+7291,7291,25-44,1.0,Locals,Graduated,43000,1485789793.38,mental disease depression,YE
+7292,7292,45+,1.0,Locals,Graduated,4100,1485789793.38,mental disease depression,YE
+7293,7293,18-24,2.0,Locals,Graduated,3400,1485789793.38,mental disease depression,YE
+7294,7294,25-44,2.0,Locals,Graduated,6700,1485789793.38,mental disease depression,YE
+7295,7295,45+,2.0,Locals,Graduated,520,1485789793.38,mental disease depression,YE
+7296,7296,18-24,1.0,Locals,No Degree,25000,1485789793.38,mental disease depression,YE
+7297,7297,25-44,1.0,Locals,No Degree,34000,1485789793.38,mental disease depression,YE
+7298,7298,45+,1.0,Locals,No Degree,5500,1485789793.38,mental disease depression,YE
+7299,7299,18-24,2.0,Locals,No Degree,3400,1485789793.38,mental disease depression,YE
+7300,7300,25-44,2.0,Locals,No Degree,3900,1485789793.38,mental disease depression,YE
+7301,7301,45+,2.0,Locals,No Degree,660,1485789793.38,mental disease depression,YE
+7302,7302,18-24,1.0,Locals,High School,14000,1485789793.38,mental disease depression,YE
+7303,7303,25-44,1.0,Locals,High School,13000,1485789793.38,mental disease depression,YE
+7304,7304,45+,1.0,Locals,High School,1300,1485789793.38,mental disease depression,YE
+7305,7305,18-24,2.0,Locals,High School,3800,1485789793.38,mental disease depression,YE
+7306,7306,25-44,2.0,Locals,High School,1800,1485789793.38,mental disease depression,YE
+7307,7307,45+,2.0,Locals,High School,180,1485789793.38,mental disease depression,YE
+7308,7308,18-24,1.0,Expats,Graduated,990,1485789793.38,mental disease depression,PS
+7309,7309,25-44,1.0,Expats,Graduated,2000,1485789793.38,mental disease depression,PS
+7310,7310,45+,1.0,Expats,Graduated,450,1485789793.38,mental disease depression,PS
+7311,7311,18-24,2.0,Expats,Graduated,780,1485789793.38,mental disease depression,PS
+7312,7312,25-44,2.0,Expats,Graduated,1400,1485789793.38,mental disease depression,PS
+7313,7313,45+,2.0,Expats,Graduated,260,1485789793.38,mental disease depression,PS
+7314,7314,18-24,1.0,Expats,No Degree,260,1485789793.38,mental disease depression,PS
+7315,7315,25-44,1.0,Expats,No Degree,620,1485789793.38,mental disease depression,PS
+7316,7316,45+,1.0,Expats,No Degree,230,1485789793.38,mental disease depression,PS
+7317,7317,18-24,2.0,Expats,No Degree,270,1485789793.38,mental disease depression,PS
+7318,7318,25-44,2.0,Expats,No Degree,480,1485789793.38,mental disease depression,PS
+7319,7319,45+,2.0,Expats,No Degree,200,1485789793.38,mental disease depression,PS
+7320,7320,18-24,1.0,Expats,High School,540,1485789793.38,mental disease depression,PS
+7321,7321,25-44,1.0,Expats,High School,480,1485789793.38,mental disease depression,PS
+7322,7322,45+,1.0,Expats,High School,70,1485789793.38,mental disease depression,PS
+7323,7323,18-24,2.0,Expats,High School,720,1485789793.38,mental disease depression,PS
+7324,7324,25-44,2.0,Expats,High School,450,1485789793.38,mental disease depression,PS
+7325,7325,45+,2.0,Expats,High School,60,1485789793.38,mental disease depression,PS
+7326,7326,18-24,1.0,Locals,Graduated,3500,1485789793.38,mental disease depression,PS
+7327,7327,25-44,1.0,Locals,Graduated,9100,1485789793.38,mental disease depression,PS
+7328,7328,45+,1.0,Locals,Graduated,1800,1485789793.38,mental disease depression,PS
+7329,7329,18-24,2.0,Locals,Graduated,3100,1485789793.38,mental disease depression,PS
+7330,7330,25-44,2.0,Locals,Graduated,5300,1485789793.38,mental disease depression,PS
+7331,7331,45+,2.0,Locals,Graduated,860,1485789793.38,mental disease depression,PS
+7332,7332,18-24,1.0,Locals,No Degree,1600,1485789793.38,mental disease depression,PS
+7333,7333,25-44,1.0,Locals,No Degree,3700,1485789793.38,mental disease depression,PS
+7334,7334,45+,1.0,Locals,No Degree,1600,1485789793.38,mental disease depression,PS
+7335,7335,18-24,2.0,Locals,No Degree,1400,1485789793.38,mental disease depression,PS
+7336,7336,25-44,2.0,Locals,No Degree,3000,1485789793.38,mental disease depression,PS
+7337,7337,45+,2.0,Locals,No Degree,1700,1485789793.38,mental disease depression,PS
+7338,7338,18-24,1.0,Locals,High School,2100,1485789793.38,mental disease depression,PS
+7339,7339,25-44,1.0,Locals,High School,2000,1485789793.38,mental disease depression,PS
+7340,7340,45+,1.0,Locals,High School,500,1485789793.38,mental disease depression,PS
+7341,7341,18-24,2.0,Locals,High School,3100,1485789793.38,mental disease depression,PS
+7342,7342,25-44,2.0,Locals,High School,1500,1485789793.38,mental disease depression,PS
+7343,7343,45+,2.0,Locals,High School,360,1485789793.38,mental disease depression,PS
+7344,7344,18-24,1.0,Expats,Graduated,2800,1485789793.38,stroke heart disease,DZ
+7345,7345,25-44,1.0,Expats,Graduated,4200,1485789793.38,stroke heart disease,DZ
+7346,7346,45+,1.0,Expats,Graduated,850,1485789793.38,stroke heart disease,DZ
+7347,7347,18-24,2.0,Expats,Graduated,1300,1485789793.38,stroke heart disease,DZ
+7348,7348,25-44,2.0,Expats,Graduated,1200,1485789793.38,stroke heart disease,DZ
+7349,7349,45+,2.0,Expats,Graduated,380,1485789793.38,stroke heart disease,DZ
+7350,7350,18-24,1.0,Expats,No Degree,2600,1485789793.38,stroke heart disease,DZ
+7351,7351,25-44,1.0,Expats,No Degree,5900,1485789793.38,stroke heart disease,DZ
+7352,7352,45+,1.0,Expats,No Degree,1500,1485789793.38,stroke heart disease,DZ
+7353,7353,18-24,2.0,Expats,No Degree,990,1485789793.38,stroke heart disease,DZ
+7354,7354,25-44,2.0,Expats,No Degree,1900,1485789793.38,stroke heart disease,DZ
+7355,7355,45+,2.0,Expats,No Degree,630,1485789793.38,stroke heart disease,DZ
+7356,7356,18-24,1.0,Expats,High School,1200,1485789793.38,stroke heart disease,DZ
+7357,7357,25-44,1.0,Expats,High School,1100,1485789793.38,stroke heart disease,DZ
+7358,7358,45+,1.0,Expats,High School,220,1485789793.38,stroke heart disease,DZ
+7359,7359,18-24,2.0,Expats,High School,480,1485789793.38,stroke heart disease,DZ
+7360,7360,25-44,2.0,Expats,High School,290,1485789793.38,stroke heart disease,DZ
+7361,7361,45+,2.0,Expats,High School,110,1485789793.38,stroke heart disease,DZ
+7362,7362,18-24,1.0,Locals,Graduated,12000,1485789793.38,stroke heart disease,DZ
+7363,7363,25-44,1.0,Locals,Graduated,33000,1485789793.38,stroke heart disease,DZ
+7364,7364,45+,1.0,Locals,Graduated,7000,1485789793.38,stroke heart disease,DZ
+7365,7365,18-24,2.0,Locals,Graduated,13000,1485789793.38,stroke heart disease,DZ
+7366,7366,25-44,2.0,Locals,Graduated,20000,1485789793.38,stroke heart disease,DZ
+7367,7367,45+,2.0,Locals,Graduated,3800,1485789793.38,stroke heart disease,DZ
+7368,7368,18-24,1.0,Locals,No Degree,18000,1485789793.38,stroke heart disease,DZ
+7369,7369,25-44,1.0,Locals,No Degree,54000,1485789793.38,stroke heart disease,DZ
+7370,7370,45+,1.0,Locals,No Degree,13000,1485789793.38,stroke heart disease,DZ
+7371,7371,18-24,2.0,Locals,No Degree,14000,1485789793.38,stroke heart disease,DZ
+7372,7372,25-44,2.0,Locals,No Degree,28000,1485789793.38,stroke heart disease,DZ
+7373,7373,45+,2.0,Locals,No Degree,7900,1485789793.38,stroke heart disease,DZ
+7374,7374,18-24,1.0,Locals,High School,5700,1485789793.38,stroke heart disease,DZ
+7375,7375,25-44,1.0,Locals,High School,9800,1485789793.38,stroke heart disease,DZ
+7376,7376,45+,1.0,Locals,High School,2800,1485789793.38,stroke heart disease,DZ
+7377,7377,18-24,2.0,Locals,High School,5300,1485789793.38,stroke heart disease,DZ
+7378,7378,25-44,2.0,Locals,High School,4500,1485789793.38,stroke heart disease,DZ
+7379,7379,45+,2.0,Locals,High School,1500,1485789793.38,stroke heart disease,DZ
+7380,7380,18-24,1.0,Expats,Graduated,450,1485789793.38,stroke heart disease,BH
+7381,7381,25-44,1.0,Expats,Graduated,1500,1485789793.38,stroke heart disease,BH
+7382,7382,45+,1.0,Expats,Graduated,250,1485789793.38,stroke heart disease,BH
+7383,7383,18-24,2.0,Expats,Graduated,70,1485789793.38,stroke heart disease,BH
+7384,7384,25-44,2.0,Expats,Graduated,1200,1485789793.38,stroke heart disease,BH
+7385,7385,45+,2.0,Expats,Graduated,810,1485789793.38,stroke heart disease,BH
+7386,7386,18-24,1.0,Expats,No Degree,340,1485789793.38,stroke heart disease,BH
+7387,7387,25-44,1.0,Expats,No Degree,850,1485789793.38,stroke heart disease,BH
+7388,7388,45+,1.0,Expats,No Degree,180,1485789793.38,stroke heart disease,BH
+7389,7389,18-24,2.0,Expats,No Degree,30,1485789793.38,stroke heart disease,BH
+7390,7390,25-44,2.0,Expats,No Degree,380,1485789793.38,stroke heart disease,BH
+7391,7391,45+,2.0,Expats,No Degree,510,1485789793.38,stroke heart disease,BH
+7392,7392,18-24,1.0,Expats,High School,120,1485789793.38,stroke heart disease,BH
+7393,7393,25-44,1.0,Expats,High School,460,1485789793.38,stroke heart disease,BH
+7394,7394,45+,1.0,Expats,High School,80,1485789793.38,stroke heart disease,BH
+7395,7395,18-24,2.0,Expats,High School,30,1485789793.38,stroke heart disease,BH
+7396,7396,25-44,2.0,Expats,High School,440,1485789793.38,stroke heart disease,BH
+7397,7397,45+,2.0,Expats,High School,260,1485789793.38,stroke heart disease,BH
+7398,7398,18-24,1.0,Locals,Graduated,40,1485789793.38,stroke heart disease,BH
+7399,7399,25-44,1.0,Locals,Graduated,70,1485789793.38,stroke heart disease,BH
+7400,7400,45+,1.0,Locals,Graduated,20,1485789793.38,stroke heart disease,BH
+7401,7401,18-24,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,BH
+7402,7402,25-44,2.0,Locals,Graduated,100,1485789793.38,stroke heart disease,BH
+7403,7403,45+,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,BH
+7404,7404,18-24,1.0,Locals,No Degree,20,1485789793.38,stroke heart disease,BH
+7405,7405,25-44,1.0,Locals,No Degree,50,1485789793.38,stroke heart disease,BH
+7406,7406,45+,1.0,Locals,No Degree,20,1485789793.38,stroke heart disease,BH
+7407,7407,18-24,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,BH
+7408,7408,25-44,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,BH
+7409,7409,45+,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,BH
+7410,7410,18-24,1.0,Locals,High School,20,1485789793.38,stroke heart disease,BH
+7411,7411,25-44,1.0,Locals,High School,30,1485789793.38,stroke heart disease,BH
+7412,7412,45+,1.0,Locals,High School,20,1485789793.38,stroke heart disease,BH
+7413,7413,18-24,2.0,Locals,High School,20,1485789793.38,stroke heart disease,BH
+7414,7414,25-44,2.0,Locals,High School,20,1485789793.38,stroke heart disease,BH
+7415,7415,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,BH
+7416,7416,18-24,1.0,Expats,Graduated,3600,1485789793.38,stroke heart disease,EG
+7417,7417,25-44,1.0,Expats,Graduated,6500,1485789793.38,stroke heart disease,EG
+7418,7418,45+,1.0,Expats,Graduated,2200,1485789793.38,stroke heart disease,EG
+7419,7419,18-24,2.0,Expats,Graduated,1900,1485789793.38,stroke heart disease,EG
+7420,7420,25-44,2.0,Expats,Graduated,3800,1485789793.38,stroke heart disease,EG
+7421,7421,45+,2.0,Expats,Graduated,1100,1485789793.38,stroke heart disease,EG
+7422,7422,18-24,1.0,Expats,No Degree,1100,1485789793.38,stroke heart disease,EG
+7423,7423,25-44,1.0,Expats,No Degree,2500,1485789793.38,stroke heart disease,EG
+7424,7424,45+,1.0,Expats,No Degree,1400,1485789793.38,stroke heart disease,EG
+7425,7425,18-24,2.0,Expats,No Degree,870,1485789793.38,stroke heart disease,EG
+7426,7426,25-44,2.0,Expats,No Degree,1500,1485789793.38,stroke heart disease,EG
+7427,7427,45+,2.0,Expats,No Degree,1300,1485789793.38,stroke heart disease,EG
+7428,7428,18-24,1.0,Expats,High School,2000,1485789793.38,stroke heart disease,EG
+7429,7429,25-44,1.0,Expats,High School,1400,1485789793.38,stroke heart disease,EG
+7430,7430,45+,1.0,Expats,High School,510,1485789793.38,stroke heart disease,EG
+7431,7431,18-24,2.0,Expats,High School,1400,1485789793.38,stroke heart disease,EG
+7432,7432,25-44,2.0,Expats,High School,870,1485789793.38,stroke heart disease,EG
+7433,7433,45+,2.0,Expats,High School,450,1485789793.38,stroke heart disease,EG
+7434,7434,18-24,1.0,Locals,Graduated,66000,1485789793.38,stroke heart disease,EG
+7435,7435,25-44,1.0,Locals,Graduated,140000,1485789793.38,stroke heart disease,EG
+7436,7436,45+,1.0,Locals,Graduated,44000,1485789793.38,stroke heart disease,EG
+7437,7437,18-24,2.0,Locals,Graduated,76000,1485789793.38,stroke heart disease,EG
+7438,7438,25-44,2.0,Locals,Graduated,110000,1485789793.38,stroke heart disease,EG
+7439,7439,45+,2.0,Locals,Graduated,30000,1485789793.38,stroke heart disease,EG
+7440,7440,18-24,1.0,Locals,No Degree,35000,1485789793.38,stroke heart disease,EG
+7441,7441,25-44,1.0,Locals,No Degree,78000,1485789793.38,stroke heart disease,EG
+7442,7442,45+,1.0,Locals,No Degree,47000,1485789793.38,stroke heart disease,EG
+7443,7443,18-24,2.0,Locals,No Degree,46000,1485789793.38,stroke heart disease,EG
+7444,7444,25-44,2.0,Locals,No Degree,63000,1485789793.38,stroke heart disease,EG
+7445,7445,45+,2.0,Locals,No Degree,43000,1485789793.38,stroke heart disease,EG
+7446,7446,18-24,1.0,Locals,High School,43000,1485789793.38,stroke heart disease,EG
+7447,7447,25-44,1.0,Locals,High School,30000,1485789793.38,stroke heart disease,EG
+7448,7448,45+,1.0,Locals,High School,11000,1485789793.38,stroke heart disease,EG
+7449,7449,18-24,2.0,Locals,High School,53000,1485789793.38,stroke heart disease,EG
+7450,7450,25-44,2.0,Locals,High School,20000,1485789793.38,stroke heart disease,EG
+7451,7451,45+,2.0,Locals,High School,6300,1485789793.38,stroke heart disease,EG
+7452,7452,18-24,1.0,Expats,Graduated,1800,1485789793.38,stroke heart disease,IQ
+7453,7453,25-44,1.0,Expats,Graduated,5600,1485789793.38,stroke heart disease,IQ
+7454,7454,45+,1.0,Expats,Graduated,1200,1485789793.38,stroke heart disease,IQ
+7455,7455,18-24,2.0,Expats,Graduated,780,1485789793.38,stroke heart disease,IQ
+7456,7456,25-44,2.0,Expats,Graduated,1700,1485789793.38,stroke heart disease,IQ
+7457,7457,45+,2.0,Expats,Graduated,320,1485789793.38,stroke heart disease,IQ
+7458,7458,18-24,1.0,Expats,No Degree,1400,1485789793.38,stroke heart disease,IQ
+7459,7459,25-44,1.0,Expats,No Degree,2700,1485789793.38,stroke heart disease,IQ
+7460,7460,45+,1.0,Expats,No Degree,850,1485789793.38,stroke heart disease,IQ
+7461,7461,18-24,2.0,Expats,No Degree,1100,1485789793.38,stroke heart disease,IQ
+7462,7462,25-44,2.0,Expats,No Degree,1500,1485789793.38,stroke heart disease,IQ
+7463,7463,45+,2.0,Expats,No Degree,350,1485789793.38,stroke heart disease,IQ
+7464,7464,18-24,1.0,Expats,High School,960,1485789793.38,stroke heart disease,IQ
+7465,7465,25-44,1.0,Expats,High School,1300,1485789793.38,stroke heart disease,IQ
+7466,7466,45+,1.0,Expats,High School,410,1485789793.38,stroke heart disease,IQ
+7467,7467,18-24,2.0,Expats,High School,610,1485789793.38,stroke heart disease,IQ
+7468,7468,25-44,2.0,Expats,High School,580,1485789793.38,stroke heart disease,IQ
+7469,7469,45+,2.0,Expats,High School,70,1485789793.38,stroke heart disease,IQ
+7470,7470,18-24,1.0,Locals,Graduated,17000,1485789793.38,stroke heart disease,IQ
+7471,7471,25-44,1.0,Locals,Graduated,66000,1485789793.38,stroke heart disease,IQ
+7472,7472,45+,1.0,Locals,Graduated,19000,1485789793.38,stroke heart disease,IQ
+7473,7473,18-24,2.0,Locals,Graduated,12000,1485789793.38,stroke heart disease,IQ
+7474,7474,25-44,2.0,Locals,Graduated,30000,1485789793.38,stroke heart disease,IQ
+7475,7475,45+,2.0,Locals,Graduated,6600,1485789793.38,stroke heart disease,IQ
+7476,7476,18-24,1.0,Locals,No Degree,25000,1485789793.38,stroke heart disease,IQ
+7477,7477,25-44,1.0,Locals,No Degree,60000,1485789793.38,stroke heart disease,IQ
+7478,7478,45+,1.0,Locals,No Degree,29000,1485789793.38,stroke heart disease,IQ
+7479,7479,18-24,2.0,Locals,No Degree,22000,1485789793.38,stroke heart disease,IQ
+7480,7480,25-44,2.0,Locals,No Degree,34000,1485789793.38,stroke heart disease,IQ
+7481,7481,45+,2.0,Locals,No Degree,12000,1485789793.38,stroke heart disease,IQ
+7482,7482,18-24,1.0,Locals,High School,11000,1485789793.38,stroke heart disease,IQ
+7483,7483,25-44,1.0,Locals,High School,19000,1485789793.38,stroke heart disease,IQ
+7484,7484,45+,1.0,Locals,High School,6200,1485789793.38,stroke heart disease,IQ
+7485,7485,18-24,2.0,Locals,High School,12000,1485789793.38,stroke heart disease,IQ
+7486,7486,25-44,2.0,Locals,High School,9000,1485789793.38,stroke heart disease,IQ
+7487,7487,45+,2.0,Locals,High School,2200,1485789793.38,stroke heart disease,IQ
+7488,7488,18-24,1.0,Expats,Graduated,2600,1485789793.38,stroke heart disease,JO
+7489,7489,25-44,1.0,Expats,Graduated,7900,1485789793.38,stroke heart disease,JO
+7490,7490,45+,1.0,Expats,Graduated,2700,1485789793.38,stroke heart disease,JO
+7491,7491,18-24,2.0,Expats,Graduated,1900,1485789793.38,stroke heart disease,JO
+7492,7492,25-44,2.0,Expats,Graduated,6600,1485789793.38,stroke heart disease,JO
+7493,7493,45+,2.0,Expats,Graduated,2100,1485789793.38,stroke heart disease,JO
+7494,7494,18-24,1.0,Expats,No Degree,3200,1485789793.38,stroke heart disease,JO
+7495,7495,25-44,1.0,Expats,No Degree,8300,1485789793.38,stroke heart disease,JO
+7496,7496,45+,1.0,Expats,No Degree,3600,1485789793.38,stroke heart disease,JO
+7497,7497,18-24,2.0,Expats,No Degree,1700,1485789793.38,stroke heart disease,JO
+7498,7498,25-44,2.0,Expats,No Degree,4400,1485789793.38,stroke heart disease,JO
+7499,7499,45+,2.0,Expats,No Degree,3300,1485789793.38,stroke heart disease,JO
+7500,7500,18-24,1.0,Expats,High School,2300,1485789793.38,stroke heart disease,JO
+7501,7501,25-44,1.0,Expats,High School,2600,1485789793.38,stroke heart disease,JO
+7502,7502,45+,1.0,Expats,High School,770,1485789793.38,stroke heart disease,JO
+7503,7503,18-24,2.0,Expats,High School,1500,1485789793.38,stroke heart disease,JO
+7504,7504,25-44,2.0,Expats,High School,1900,1485789793.38,stroke heart disease,JO
+7505,7505,45+,2.0,Expats,High School,870,1485789793.38,stroke heart disease,JO
+7506,7506,18-24,1.0,Locals,Graduated,8100,1485789793.38,stroke heart disease,JO
+7507,7507,25-44,1.0,Locals,Graduated,24000,1485789793.38,stroke heart disease,JO
+7508,7508,45+,1.0,Locals,Graduated,9100,1485789793.38,stroke heart disease,JO
+7509,7509,18-24,2.0,Locals,Graduated,6900,1485789793.38,stroke heart disease,JO
+7510,7510,25-44,2.0,Locals,Graduated,23000,1485789793.38,stroke heart disease,JO
+7511,7511,45+,2.0,Locals,Graduated,5400,1485789793.38,stroke heart disease,JO
+7512,7512,18-24,1.0,Locals,No Degree,9800,1485789793.38,stroke heart disease,JO
+7513,7513,25-44,1.0,Locals,No Degree,21000,1485789793.38,stroke heart disease,JO
+7514,7514,45+,1.0,Locals,No Degree,15000,1485789793.38,stroke heart disease,JO
+7515,7515,18-24,2.0,Locals,No Degree,10000,1485789793.38,stroke heart disease,JO
+7516,7516,25-44,2.0,Locals,No Degree,20000,1485789793.38,stroke heart disease,JO
+7517,7517,45+,2.0,Locals,No Degree,12000,1485789793.38,stroke heart disease,JO
+7518,7518,18-24,1.0,Locals,High School,6500,1485789793.38,stroke heart disease,JO
+7519,7519,25-44,1.0,Locals,High School,7400,1485789793.38,stroke heart disease,JO
+7520,7520,45+,1.0,Locals,High School,3900,1485789793.38,stroke heart disease,JO
+7521,7521,18-24,2.0,Locals,High School,7100,1485789793.38,stroke heart disease,JO
+7522,7522,25-44,2.0,Locals,High School,7000,1485789793.38,stroke heart disease,JO
+7523,7523,45+,2.0,Locals,High School,2400,1485789793.38,stroke heart disease,JO
+7524,7524,18-24,1.0,Expats,Graduated,1100,1485789793.38,stroke heart disease,KW
+7525,7525,25-44,1.0,Expats,Graduated,10000,1485789793.38,stroke heart disease,KW
+7526,7526,45+,1.0,Expats,Graduated,1600,1485789793.38,stroke heart disease,KW
+7527,7527,18-24,2.0,Expats,Graduated,510,1485789793.38,stroke heart disease,KW
+7528,7528,25-44,2.0,Expats,Graduated,8000,1485789793.38,stroke heart disease,KW
+7529,7529,45+,2.0,Expats,Graduated,2600,1485789793.38,stroke heart disease,KW
+7530,7530,18-24,1.0,Expats,No Degree,3600,1485789793.38,stroke heart disease,KW
+7531,7531,25-44,1.0,Expats,No Degree,13000,1485789793.38,stroke heart disease,KW
+7532,7532,45+,1.0,Expats,No Degree,3100,1485789793.38,stroke heart disease,KW
+7533,7533,18-24,2.0,Expats,No Degree,720,1485789793.38,stroke heart disease,KW
+7534,7534,25-44,2.0,Expats,No Degree,4700,1485789793.38,stroke heart disease,KW
+7535,7535,45+,2.0,Expats,No Degree,1700,1485789793.38,stroke heart disease,KW
+7536,7536,18-24,1.0,Expats,High School,570,1485789793.38,stroke heart disease,KW
+7537,7537,25-44,1.0,Expats,High School,3400,1485789793.38,stroke heart disease,KW
+7538,7538,45+,1.0,Expats,High School,530,1485789793.38,stroke heart disease,KW
+7539,7539,18-24,2.0,Expats,High School,340,1485789793.38,stroke heart disease,KW
+7540,7540,25-44,2.0,Expats,High School,2900,1485789793.38,stroke heart disease,KW
+7541,7541,45+,2.0,Expats,High School,920,1485789793.38,stroke heart disease,KW
+7542,7542,18-24,1.0,Locals,Graduated,30,1485789793.38,stroke heart disease,KW
+7543,7543,25-44,1.0,Locals,Graduated,290,1485789793.38,stroke heart disease,KW
+7544,7544,45+,1.0,Locals,Graduated,40,1485789793.38,stroke heart disease,KW
+7545,7545,18-24,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,KW
+7546,7546,25-44,2.0,Locals,Graduated,270,1485789793.38,stroke heart disease,KW
+7547,7547,45+,2.0,Locals,Graduated,90,1485789793.38,stroke heart disease,KW
+7548,7548,18-24,1.0,Locals,No Degree,150,1485789793.38,stroke heart disease,KW
+7549,7549,25-44,1.0,Locals,No Degree,370,1485789793.38,stroke heart disease,KW
+7550,7550,45+,1.0,Locals,No Degree,90,1485789793.38,stroke heart disease,KW
+7551,7551,18-24,2.0,Locals,No Degree,60,1485789793.38,stroke heart disease,KW
+7552,7552,25-44,2.0,Locals,No Degree,210,1485789793.38,stroke heart disease,KW
+7553,7553,45+,2.0,Locals,No Degree,40,1485789793.38,stroke heart disease,KW
+7554,7554,18-24,1.0,Locals,High School,20,1485789793.38,stroke heart disease,KW
+7555,7555,25-44,1.0,Locals,High School,40,1485789793.38,stroke heart disease,KW
+7556,7556,45+,1.0,Locals,High School,20,1485789793.38,stroke heart disease,KW
+7557,7557,18-24,2.0,Locals,High School,30,1485789793.38,stroke heart disease,KW
+7558,7558,25-44,2.0,Locals,High School,70,1485789793.38,stroke heart disease,KW
+7559,7559,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,KW
+7560,7560,18-24,1.0,Expats,Graduated,1100,1485789793.38,stroke heart disease,LB
+7561,7561,25-44,1.0,Expats,Graduated,1700,1485789793.38,stroke heart disease,LB
+7562,7562,45+,1.0,Expats,Graduated,420,1485789793.38,stroke heart disease,LB
+7563,7563,18-24,2.0,Expats,Graduated,450,1485789793.38,stroke heart disease,LB
+7564,7564,25-44,2.0,Expats,Graduated,1300,1485789793.38,stroke heart disease,LB
+7565,7565,45+,2.0,Expats,Graduated,990,1485789793.38,stroke heart disease,LB
+7566,7566,18-24,1.0,Expats,No Degree,1400,1485789793.38,stroke heart disease,LB
+7567,7567,25-44,1.0,Expats,No Degree,2700,1485789793.38,stroke heart disease,LB
+7568,7568,45+,1.0,Expats,No Degree,810,1485789793.38,stroke heart disease,LB
+7569,7569,18-24,2.0,Expats,No Degree,710,1485789793.38,stroke heart disease,LB
+7570,7570,25-44,2.0,Expats,No Degree,1800,1485789793.38,stroke heart disease,LB
+7571,7571,45+,2.0,Expats,No Degree,1700,1485789793.38,stroke heart disease,LB
+7572,7572,18-24,1.0,Expats,High School,510,1485789793.38,stroke heart disease,LB
+7573,7573,25-44,1.0,Expats,High School,720,1485789793.38,stroke heart disease,LB
+7574,7574,45+,1.0,Expats,High School,240,1485789793.38,stroke heart disease,LB
+7575,7575,18-24,2.0,Expats,High School,250,1485789793.38,stroke heart disease,LB
+7576,7576,25-44,2.0,Expats,High School,520,1485789793.38,stroke heart disease,LB
+7577,7577,45+,2.0,Expats,High School,340,1485789793.38,stroke heart disease,LB
+7578,7578,18-24,1.0,Locals,Graduated,2200,1485789793.38,stroke heart disease,LB
+7579,7579,25-44,1.0,Locals,Graduated,4200,1485789793.38,stroke heart disease,LB
+7580,7580,45+,1.0,Locals,Graduated,2100,1485789793.38,stroke heart disease,LB
+7581,7581,18-24,2.0,Locals,Graduated,2600,1485789793.38,stroke heart disease,LB
+7582,7582,25-44,2.0,Locals,Graduated,6900,1485789793.38,stroke heart disease,LB
+7583,7583,45+,2.0,Locals,Graduated,4900,1485789793.38,stroke heart disease,LB
+7584,7584,18-24,1.0,Locals,No Degree,3700,1485789793.38,stroke heart disease,LB
+7585,7585,25-44,1.0,Locals,No Degree,4500,1485789793.38,stroke heart disease,LB
+7586,7586,45+,1.0,Locals,No Degree,4200,1485789793.38,stroke heart disease,LB
+7587,7587,18-24,2.0,Locals,No Degree,3300,1485789793.38,stroke heart disease,LB
+7588,7588,25-44,2.0,Locals,No Degree,8300,1485789793.38,stroke heart disease,LB
+7589,7589,45+,2.0,Locals,No Degree,11000,1485789793.38,stroke heart disease,LB
+7590,7590,18-24,1.0,Locals,High School,1800,1485789793.38,stroke heart disease,LB
+7591,7591,25-44,1.0,Locals,High School,1100,1485789793.38,stroke heart disease,LB
+7592,7592,45+,1.0,Locals,High School,630,1485789793.38,stroke heart disease,LB
+7593,7593,18-24,2.0,Locals,High School,2800,1485789793.38,stroke heart disease,LB
+7594,7594,25-44,2.0,Locals,High School,1400,1485789793.38,stroke heart disease,LB
+7595,7595,45+,2.0,Locals,High School,1500,1485789793.38,stroke heart disease,LB
+7596,7596,18-24,1.0,Expats,Graduated,810,1485789793.38,stroke heart disease,LY
+7597,7597,25-44,1.0,Expats,Graduated,2400,1485789793.38,stroke heart disease,LY
+7598,7598,45+,1.0,Expats,Graduated,630,1485789793.38,stroke heart disease,LY
+7599,7599,18-24,2.0,Expats,Graduated,320,1485789793.38,stroke heart disease,LY
+7600,7600,25-44,2.0,Expats,Graduated,1000,1485789793.38,stroke heart disease,LY
+7601,7601,45+,2.0,Expats,Graduated,310,1485789793.38,stroke heart disease,LY
+7602,7602,18-24,1.0,Expats,No Degree,970,1485789793.38,stroke heart disease,LY
+7603,7603,25-44,1.0,Expats,No Degree,2500,1485789793.38,stroke heart disease,LY
+7604,7604,45+,1.0,Expats,No Degree,690,1485789793.38,stroke heart disease,LY
+7605,7605,18-24,2.0,Expats,No Degree,360,1485789793.38,stroke heart disease,LY
+7606,7606,25-44,2.0,Expats,No Degree,1100,1485789793.38,stroke heart disease,LY
+7607,7607,45+,2.0,Expats,No Degree,470,1485789793.38,stroke heart disease,LY
+7608,7608,18-24,1.0,Expats,High School,330,1485789793.38,stroke heart disease,LY
+7609,7609,25-44,1.0,Expats,High School,730,1485789793.38,stroke heart disease,LY
+7610,7610,45+,1.0,Expats,High School,140,1485789793.38,stroke heart disease,LY
+7611,7611,18-24,2.0,Expats,High School,220,1485789793.38,stroke heart disease,LY
+7612,7612,25-44,2.0,Expats,High School,290,1485789793.38,stroke heart disease,LY
+7613,7613,45+,2.0,Expats,High School,90,1485789793.38,stroke heart disease,LY
+7614,7614,18-24,1.0,Locals,Graduated,4900,1485789793.38,stroke heart disease,LY
+7615,7615,25-44,1.0,Locals,Graduated,13000,1485789793.38,stroke heart disease,LY
+7616,7616,45+,1.0,Locals,Graduated,3900,1485789793.38,stroke heart disease,LY
+7617,7617,18-24,2.0,Locals,Graduated,4500,1485789793.38,stroke heart disease,LY
+7618,7618,25-44,2.0,Locals,Graduated,11000,1485789793.38,stroke heart disease,LY
+7619,7619,45+,2.0,Locals,Graduated,2300,1485789793.38,stroke heart disease,LY
+7620,7620,18-24,1.0,Locals,No Degree,4400,1485789793.38,stroke heart disease,LY
+7621,7621,25-44,1.0,Locals,No Degree,11000,1485789793.38,stroke heart disease,LY
+7622,7622,45+,1.0,Locals,No Degree,5000,1485789793.38,stroke heart disease,LY
+7623,7623,18-24,2.0,Locals,No Degree,3900,1485789793.38,stroke heart disease,LY
+7624,7624,25-44,2.0,Locals,No Degree,11000,1485789793.38,stroke heart disease,LY
+7625,7625,45+,2.0,Locals,No Degree,5400,1485789793.38,stroke heart disease,LY
+7626,7626,18-24,1.0,Locals,High School,2800,1485789793.38,stroke heart disease,LY
+7627,7627,25-44,1.0,Locals,High School,2800,1485789793.38,stroke heart disease,LY
+7628,7628,45+,1.0,Locals,High School,1100,1485789793.38,stroke heart disease,LY
+7629,7629,18-24,2.0,Locals,High School,3100,1485789793.38,stroke heart disease,LY
+7630,7630,25-44,2.0,Locals,High School,2700,1485789793.38,stroke heart disease,LY
+7631,7631,45+,2.0,Locals,High School,700,1485789793.38,stroke heart disease,LY
+7632,7632,18-24,1.0,Expats,Graduated,1200,1485789793.38,stroke heart disease,MA
+7633,7633,25-44,1.0,Expats,Graduated,2000,1485789793.38,stroke heart disease,MA
+7634,7634,45+,1.0,Expats,Graduated,560,1485789793.38,stroke heart disease,MA
+7635,7635,18-24,2.0,Expats,Graduated,380,1485789793.38,stroke heart disease,MA
+7636,7636,25-44,2.0,Expats,Graduated,730,1485789793.38,stroke heart disease,MA
+7637,7637,45+,2.0,Expats,Graduated,300,1485789793.38,stroke heart disease,MA
+7638,7638,18-24,1.0,Expats,No Degree,620,1485789793.38,stroke heart disease,MA
+7639,7639,25-44,1.0,Expats,No Degree,1200,1485789793.38,stroke heart disease,MA
+7640,7640,45+,1.0,Expats,No Degree,510,1485789793.38,stroke heart disease,MA
+7641,7641,18-24,2.0,Expats,No Degree,270,1485789793.38,stroke heart disease,MA
+7642,7642,25-44,2.0,Expats,No Degree,760,1485789793.38,stroke heart disease,MA
+7643,7643,45+,2.0,Expats,No Degree,280,1485789793.38,stroke heart disease,MA
+7644,7644,18-24,1.0,Expats,High School,450,1485789793.38,stroke heart disease,MA
+7645,7645,25-44,1.0,Expats,High School,400,1485789793.38,stroke heart disease,MA
+7646,7646,45+,1.0,Expats,High School,170,1485789793.38,stroke heart disease,MA
+7647,7647,18-24,2.0,Expats,High School,180,1485789793.38,stroke heart disease,MA
+7648,7648,25-44,2.0,Expats,High School,180,1485789793.38,stroke heart disease,MA
+7649,7649,45+,2.0,Expats,High School,90,1485789793.38,stroke heart disease,MA
+7650,7650,18-24,1.0,Locals,Graduated,7400,1485789793.38,stroke heart disease,MA
+7651,7651,25-44,1.0,Locals,Graduated,17000,1485789793.38,stroke heart disease,MA
+7652,7652,45+,1.0,Locals,Graduated,7600,1485789793.38,stroke heart disease,MA
+7653,7653,18-24,2.0,Locals,Graduated,5700,1485789793.38,stroke heart disease,MA
+7654,7654,25-44,2.0,Locals,Graduated,8700,1485789793.38,stroke heart disease,MA
+7655,7655,45+,2.0,Locals,Graduated,2600,1485789793.38,stroke heart disease,MA
+7656,7656,18-24,1.0,Locals,No Degree,7100,1485789793.38,stroke heart disease,MA
+7657,7657,25-44,1.0,Locals,No Degree,19000,1485789793.38,stroke heart disease,MA
+7658,7658,45+,1.0,Locals,No Degree,9200,1485789793.38,stroke heart disease,MA
+7659,7659,18-24,2.0,Locals,No Degree,5900,1485789793.38,stroke heart disease,MA
+7660,7660,25-44,2.0,Locals,No Degree,10000,1485789793.38,stroke heart disease,MA
+7661,7661,45+,2.0,Locals,No Degree,4700,1485789793.38,stroke heart disease,MA
+7662,7662,18-24,1.0,Locals,High School,3000,1485789793.38,stroke heart disease,MA
+7663,7663,25-44,1.0,Locals,High School,4700,1485789793.38,stroke heart disease,MA
+7664,7664,45+,1.0,Locals,High School,2400,1485789793.38,stroke heart disease,MA
+7665,7665,18-24,2.0,Locals,High School,2500,1485789793.38,stroke heart disease,MA
+7666,7666,25-44,2.0,Locals,High School,2600,1485789793.38,stroke heart disease,MA
+7667,7667,45+,2.0,Locals,High School,1100,1485789793.38,stroke heart disease,MA
+7668,7668,18-24,1.0,Expats,Graduated,700,1485789793.38,stroke heart disease,OM
+7669,7669,25-44,1.0,Expats,Graduated,3000,1485789793.38,stroke heart disease,OM
+7670,7670,45+,1.0,Expats,Graduated,500,1485789793.38,stroke heart disease,OM
+7671,7671,18-24,2.0,Expats,Graduated,100,1485789793.38,stroke heart disease,OM
+7672,7672,25-44,2.0,Expats,Graduated,2700,1485789793.38,stroke heart disease,OM
+7673,7673,45+,2.0,Expats,Graduated,990,1485789793.38,stroke heart disease,OM
+7674,7674,18-24,1.0,Expats,No Degree,1200,1485789793.38,stroke heart disease,OM
+7675,7675,25-44,1.0,Expats,No Degree,2500,1485789793.38,stroke heart disease,OM
+7676,7676,45+,1.0,Expats,No Degree,440,1485789793.38,stroke heart disease,OM
+7677,7677,18-24,2.0,Expats,No Degree,230,1485789793.38,stroke heart disease,OM
+7678,7678,25-44,2.0,Expats,No Degree,1100,1485789793.38,stroke heart disease,OM
+7679,7679,45+,2.0,Expats,No Degree,720,1485789793.38,stroke heart disease,OM
+7680,7680,18-24,1.0,Expats,High School,200,1485789793.38,stroke heart disease,OM
+7681,7681,25-44,1.0,Expats,High School,820,1485789793.38,stroke heart disease,OM
+7682,7682,45+,1.0,Expats,High School,180,1485789793.38,stroke heart disease,OM
+7683,7683,18-24,2.0,Expats,High School,100,1485789793.38,stroke heart disease,OM
+7684,7684,25-44,2.0,Expats,High School,540,1485789793.38,stroke heart disease,OM
+7685,7685,45+,2.0,Expats,High School,290,1485789793.38,stroke heart disease,OM
+7686,7686,18-24,1.0,Locals,Graduated,90,1485789793.38,stroke heart disease,OM
+7687,7687,25-44,1.0,Locals,Graduated,290,1485789793.38,stroke heart disease,OM
+7688,7688,45+,1.0,Locals,Graduated,20,1485789793.38,stroke heart disease,OM
+7689,7689,18-24,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,OM
+7690,7690,25-44,2.0,Locals,Graduated,90,1485789793.38,stroke heart disease,OM
+7691,7691,45+,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,OM
+7692,7692,18-24,1.0,Locals,No Degree,70,1485789793.38,stroke heart disease,OM
+7693,7693,25-44,1.0,Locals,No Degree,190,1485789793.38,stroke heart disease,OM
+7694,7694,45+,1.0,Locals,No Degree,20,1485789793.38,stroke heart disease,OM
+7695,7695,18-24,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,OM
+7696,7696,25-44,2.0,Locals,No Degree,60,1485789793.38,stroke heart disease,OM
+7697,7697,45+,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,OM
+7698,7698,18-24,1.0,Locals,High School,40,1485789793.38,stroke heart disease,OM
+7699,7699,25-44,1.0,Locals,High School,50,1485789793.38,stroke heart disease,OM
+7700,7700,45+,1.0,Locals,High School,20,1485789793.38,stroke heart disease,OM
+7701,7701,18-24,2.0,Locals,High School,20,1485789793.38,stroke heart disease,OM
+7702,7702,25-44,2.0,Locals,High School,20,1485789793.38,stroke heart disease,OM
+7703,7703,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,OM
+7704,7704,18-24,1.0,Expats,Graduated,3000,1485789793.38,stroke heart disease,QA
+7705,7705,25-44,1.0,Expats,Graduated,11000,1485789793.38,stroke heart disease,QA
+7706,7706,45+,1.0,Expats,Graduated,2100,1485789793.38,stroke heart disease,QA
+7707,7707,18-24,2.0,Expats,Graduated,600,1485789793.38,stroke heart disease,QA
+7708,7708,25-44,2.0,Expats,Graduated,6000,1485789793.38,stroke heart disease,QA
+7709,7709,45+,2.0,Expats,Graduated,1600,1485789793.38,stroke heart disease,QA
+7710,7710,18-24,1.0,Expats,No Degree,4500,1485789793.38,stroke heart disease,QA
+7711,7711,25-44,1.0,Expats,No Degree,10000,1485789793.38,stroke heart disease,QA
+7712,7712,45+,1.0,Expats,No Degree,1800,1485789793.38,stroke heart disease,QA
+7713,7713,18-24,2.0,Expats,No Degree,620,1485789793.38,stroke heart disease,QA
+7714,7714,25-44,2.0,Expats,No Degree,2300,1485789793.38,stroke heart disease,QA
+7715,7715,45+,2.0,Expats,No Degree,1000,1485789793.38,stroke heart disease,QA
+7716,7716,18-24,1.0,Expats,High School,1100,1485789793.38,stroke heart disease,QA
+7717,7717,25-44,1.0,Expats,High School,2600,1485789793.38,stroke heart disease,QA
+7718,7718,45+,1.0,Expats,High School,600,1485789793.38,stroke heart disease,QA
+7719,7719,18-24,2.0,Expats,High School,310,1485789793.38,stroke heart disease,QA
+7720,7720,25-44,2.0,Expats,High School,1600,1485789793.38,stroke heart disease,QA
+7721,7721,45+,2.0,Expats,High School,520,1485789793.38,stroke heart disease,QA
+7722,7722,18-24,1.0,Locals,Graduated,20,1485789793.38,stroke heart disease,QA
+7723,7723,25-44,1.0,Locals,Graduated,170,1485789793.38,stroke heart disease,QA
+7724,7724,45+,1.0,Locals,Graduated,20,1485789793.38,stroke heart disease,QA
+7725,7725,18-24,2.0,Locals,Graduated,30,1485789793.38,stroke heart disease,QA
+7726,7726,25-44,2.0,Locals,Graduated,70,1485789793.38,stroke heart disease,QA
+7727,7727,45+,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,QA
+7728,7728,18-24,1.0,Locals,No Degree,70,1485789793.38,stroke heart disease,QA
+7729,7729,25-44,1.0,Locals,No Degree,90,1485789793.38,stroke heart disease,QA
+7730,7730,45+,1.0,Locals,No Degree,30,1485789793.38,stroke heart disease,QA
+7731,7731,18-24,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,QA
+7732,7732,25-44,2.0,Locals,No Degree,90,1485789793.38,stroke heart disease,QA
+7733,7733,45+,2.0,Locals,No Degree,40,1485789793.38,stroke heart disease,QA
+7734,7734,18-24,1.0,Locals,High School,20,1485789793.38,stroke heart disease,QA
+7735,7735,25-44,1.0,Locals,High School,40,1485789793.38,stroke heart disease,QA
+7736,7736,45+,1.0,Locals,High School,30,1485789793.38,stroke heart disease,QA
+7737,7737,18-24,2.0,Locals,High School,20,1485789793.38,stroke heart disease,QA
+7738,7738,25-44,2.0,Locals,High School,20,1485789793.38,stroke heart disease,QA
+7739,7739,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,QA
+7740,7740,18-24,1.0,Expats,Graduated,12000,1485789793.38,stroke heart disease,SA
+7741,7741,25-44,1.0,Expats,Graduated,71000,1485789793.38,stroke heart disease,SA
+7742,7742,45+,1.0,Expats,Graduated,13000,1485789793.38,stroke heart disease,SA
+7743,7743,18-24,2.0,Expats,Graduated,2900,1485789793.38,stroke heart disease,SA
+7744,7744,25-44,2.0,Expats,Graduated,26000,1485789793.38,stroke heart disease,SA
+7745,7745,45+,2.0,Expats,Graduated,7700,1485789793.38,stroke heart disease,SA
+7746,7746,18-24,1.0,Expats,No Degree,3600,1485789793.38,stroke heart disease,SA
+7747,7747,25-44,1.0,Expats,No Degree,14000,1485789793.38,stroke heart disease,SA
+7748,7748,45+,1.0,Expats,No Degree,3400,1485789793.38,stroke heart disease,SA
+7749,7749,18-24,2.0,Expats,No Degree,1000,1485789793.38,stroke heart disease,SA
+7750,7750,25-44,2.0,Expats,No Degree,6200,1485789793.38,stroke heart disease,SA
+7751,7751,45+,2.0,Expats,No Degree,2300,1485789793.38,stroke heart disease,SA
+7752,7752,18-24,1.0,Expats,High School,3900,1485789793.38,stroke heart disease,SA
+7753,7753,25-44,1.0,Expats,High School,17000,1485789793.38,stroke heart disease,SA
+7754,7754,45+,1.0,Expats,High School,3700,1485789793.38,stroke heart disease,SA
+7755,7755,18-24,2.0,Expats,High School,1500,1485789793.38,stroke heart disease,SA
+7756,7756,25-44,2.0,Expats,High School,7300,1485789793.38,stroke heart disease,SA
+7757,7757,45+,2.0,Expats,High School,2300,1485789793.38,stroke heart disease,SA
+7758,7758,18-24,1.0,Locals,Graduated,4700,1485789793.38,stroke heart disease,SA
+7759,7759,25-44,1.0,Locals,Graduated,22000,1485789793.38,stroke heart disease,SA
+7760,7760,45+,1.0,Locals,Graduated,4300,1485789793.38,stroke heart disease,SA
+7761,7761,18-24,2.0,Locals,Graduated,1300,1485789793.38,stroke heart disease,SA
+7762,7762,25-44,2.0,Locals,Graduated,7100,1485789793.38,stroke heart disease,SA
+7763,7763,45+,2.0,Locals,Graduated,2100,1485789793.38,stroke heart disease,SA
+7764,7764,18-24,1.0,Locals,No Degree,43000,1485789793.38,stroke heart disease,SA
+7765,7765,25-44,1.0,Locals,No Degree,92000,1485789793.38,stroke heart disease,SA
+7766,7766,45+,1.0,Locals,No Degree,17000,1485789793.38,stroke heart disease,SA
+7767,7767,18-24,2.0,Locals,No Degree,9600,1485789793.38,stroke heart disease,SA
+7768,7768,25-44,2.0,Locals,No Degree,15000,1485789793.38,stroke heart disease,SA
+7769,7769,45+,2.0,Locals,No Degree,6000,1485789793.38,stroke heart disease,SA
+7770,7770,18-24,1.0,Locals,High School,2600,1485789793.38,stroke heart disease,SA
+7771,7771,25-44,1.0,Locals,High School,8800,1485789793.38,stroke heart disease,SA
+7772,7772,45+,1.0,Locals,High School,1900,1485789793.38,stroke heart disease,SA
+7773,7773,18-24,2.0,Locals,High School,980,1485789793.38,stroke heart disease,SA
+7774,7774,25-44,2.0,Locals,High School,2900,1485789793.38,stroke heart disease,SA
+7775,7775,45+,2.0,Locals,High School,870,1485789793.38,stroke heart disease,SA
+7776,7776,18-24,1.0,Expats,Graduated,60,1485789793.38,stroke heart disease,SO
+7777,7777,25-44,1.0,Expats,Graduated,180,1485789793.38,stroke heart disease,SO
+7778,7778,45+,1.0,Expats,Graduated,20,1485789793.38,stroke heart disease,SO
+7779,7779,18-24,2.0,Expats,Graduated,40,1485789793.38,stroke heart disease,SO
+7780,7780,25-44,2.0,Expats,Graduated,40,1485789793.38,stroke heart disease,SO
+7781,7781,45+,2.0,Expats,Graduated,20,1485789793.38,stroke heart disease,SO
+7782,7782,18-24,1.0,Expats,No Degree,20,1485789793.38,stroke heart disease,SO
+7783,7783,25-44,1.0,Expats,No Degree,30,1485789793.38,stroke heart disease,SO
+7784,7784,45+,1.0,Expats,No Degree,20,1485789793.38,stroke heart disease,SO
+7785,7785,18-24,2.0,Expats,No Degree,20,1485789793.38,stroke heart disease,SO
+7786,7786,25-44,2.0,Expats,No Degree,20,1485789793.38,stroke heart disease,SO
+7787,7787,45+,2.0,Expats,No Degree,20,1485789793.38,stroke heart disease,SO
+7788,7788,18-24,1.0,Expats,High School,30,1485789793.38,stroke heart disease,SO
+7789,7789,25-44,1.0,Expats,High School,20,1485789793.38,stroke heart disease,SO
+7790,7790,45+,1.0,Expats,High School,20,1485789793.38,stroke heart disease,SO
+7791,7791,18-24,2.0,Expats,High School,20,1485789793.38,stroke heart disease,SO
+7792,7792,25-44,2.0,Expats,High School,20,1485789793.38,stroke heart disease,SO
+7793,7793,45+,2.0,Expats,High School,20,1485789793.38,stroke heart disease,SO
+7794,7794,18-24,1.0,Locals,Graduated,280,1485789793.38,stroke heart disease,SO
+7795,7795,25-44,1.0,Locals,Graduated,390,1485789793.38,stroke heart disease,SO
+7796,7796,45+,1.0,Locals,Graduated,20,1485789793.38,stroke heart disease,SO
+7797,7797,18-24,2.0,Locals,Graduated,250,1485789793.38,stroke heart disease,SO
+7798,7798,25-44,2.0,Locals,Graduated,70,1485789793.38,stroke heart disease,SO
+7799,7799,45+,2.0,Locals,Graduated,20,1485789793.38,stroke heart disease,SO
+7800,7800,18-24,1.0,Locals,No Degree,160,1485789793.38,stroke heart disease,SO
+7801,7801,25-44,1.0,Locals,No Degree,90,1485789793.38,stroke heart disease,SO
+7802,7802,45+,1.0,Locals,No Degree,20,1485789793.38,stroke heart disease,SO
+7803,7803,18-24,2.0,Locals,No Degree,170,1485789793.38,stroke heart disease,SO
+7804,7804,25-44,2.0,Locals,No Degree,80,1485789793.38,stroke heart disease,SO
+7805,7805,45+,2.0,Locals,No Degree,20,1485789793.38,stroke heart disease,SO
+7806,7806,18-24,1.0,Locals,High School,90,1485789793.38,stroke heart disease,SO
+7807,7807,25-44,1.0,Locals,High School,90,1485789793.38,stroke heart disease,SO
+7808,7808,45+,1.0,Locals,High School,20,1485789793.38,stroke heart disease,SO
+7809,7809,18-24,2.0,Locals,High School,90,1485789793.38,stroke heart disease,SO
+7810,7810,25-44,2.0,Locals,High School,20,1485789793.38,stroke heart disease,SO
+7811,7811,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,SO
+7812,7812,18-24,1.0,Expats,Graduated,620,1485789793.38,stroke heart disease,TN
+7813,7813,25-44,1.0,Expats,Graduated,1200,1485789793.38,stroke heart disease,TN
+7814,7814,45+,1.0,Expats,Graduated,670,1485789793.38,stroke heart disease,TN
+7815,7815,18-24,2.0,Expats,Graduated,470,1485789793.38,stroke heart disease,TN
+7816,7816,25-44,2.0,Expats,Graduated,890,1485789793.38,stroke heart disease,TN
+7817,7817,45+,2.0,Expats,Graduated,410,1485789793.38,stroke heart disease,TN
+7818,7818,18-24,1.0,Expats,No Degree,360,1485789793.38,stroke heart disease,TN
+7819,7819,25-44,1.0,Expats,No Degree,750,1485789793.38,stroke heart disease,TN
+7820,7820,45+,1.0,Expats,No Degree,420,1485789793.38,stroke heart disease,TN
+7821,7821,18-24,2.0,Expats,No Degree,270,1485789793.38,stroke heart disease,TN
+7822,7822,25-44,2.0,Expats,No Degree,820,1485789793.38,stroke heart disease,TN
+7823,7823,45+,2.0,Expats,No Degree,410,1485789793.38,stroke heart disease,TN
+7824,7824,18-24,1.0,Expats,High School,240,1485789793.38,stroke heart disease,TN
+7825,7825,25-44,1.0,Expats,High School,330,1485789793.38,stroke heart disease,TN
+7826,7826,45+,1.0,Expats,High School,200,1485789793.38,stroke heart disease,TN
+7827,7827,18-24,2.0,Expats,High School,130,1485789793.38,stroke heart disease,TN
+7828,7828,25-44,2.0,Expats,High School,330,1485789793.38,stroke heart disease,TN
+7829,7829,45+,2.0,Expats,High School,90,1485789793.38,stroke heart disease,TN
+7830,7830,18-24,1.0,Locals,Graduated,3000,1485789793.38,stroke heart disease,TN
+7831,7831,25-44,1.0,Locals,Graduated,11000,1485789793.38,stroke heart disease,TN
+7832,7832,45+,1.0,Locals,Graduated,7300,1485789793.38,stroke heart disease,TN
+7833,7833,18-24,2.0,Locals,Graduated,7300,1485789793.38,stroke heart disease,TN
+7834,7834,25-44,2.0,Locals,Graduated,18000,1485789793.38,stroke heart disease,TN
+7835,7835,45+,2.0,Locals,Graduated,5200,1485789793.38,stroke heart disease,TN
+7836,7836,18-24,1.0,Locals,No Degree,2400,1485789793.38,stroke heart disease,TN
+7837,7837,25-44,1.0,Locals,No Degree,11000,1485789793.38,stroke heart disease,TN
+7838,7838,45+,1.0,Locals,No Degree,9400,1485789793.38,stroke heart disease,TN
+7839,7839,18-24,2.0,Locals,No Degree,4800,1485789793.38,stroke heart disease,TN
+7840,7840,25-44,2.0,Locals,No Degree,15000,1485789793.38,stroke heart disease,TN
+7841,7841,45+,2.0,Locals,No Degree,8900,1485789793.38,stroke heart disease,TN
+7842,7842,18-24,1.0,Locals,High School,1400,1485789793.38,stroke heart disease,TN
+7843,7843,25-44,1.0,Locals,High School,3600,1485789793.38,stroke heart disease,TN
+7844,7844,45+,1.0,Locals,High School,3200,1485789793.38,stroke heart disease,TN
+7845,7845,18-24,2.0,Locals,High School,3300,1485789793.38,stroke heart disease,TN
+7846,7846,25-44,2.0,Locals,High School,5000,1485789793.38,stroke heart disease,TN
+7847,7847,45+,2.0,Locals,High School,2600,1485789793.38,stroke heart disease,TN
+7848,7848,18-24,1.0,Expats,Graduated,5500,1485789793.38,stroke heart disease,AE
+7849,7849,25-44,1.0,Expats,Graduated,22000,1485789793.38,stroke heart disease,AE
+7850,7850,45+,1.0,Expats,Graduated,5300,1485789793.38,stroke heart disease,AE
+7851,7851,18-24,2.0,Expats,Graduated,4500,1485789793.38,stroke heart disease,AE
+7852,7852,25-44,2.0,Expats,Graduated,48000,1485789793.38,stroke heart disease,AE
+7853,7853,45+,2.0,Expats,Graduated,11000,1485789793.38,stroke heart disease,AE
+7854,7854,18-24,1.0,Expats,No Degree,9200,1485789793.38,stroke heart disease,AE
+7855,7855,25-44,1.0,Expats,No Degree,17000,1485789793.38,stroke heart disease,AE
+7856,7856,45+,1.0,Expats,No Degree,4800,1485789793.38,stroke heart disease,AE
+7857,7857,18-24,2.0,Expats,No Degree,5300,1485789793.38,stroke heart disease,AE
+7858,7858,25-44,2.0,Expats,No Degree,20000,1485789793.38,stroke heart disease,AE
+7859,7859,45+,2.0,Expats,No Degree,7700,1485789793.38,stroke heart disease,AE
+7860,7860,18-24,1.0,Expats,High School,1900,1485789793.38,stroke heart disease,AE
+7861,7861,25-44,1.0,Expats,High School,4400,1485789793.38,stroke heart disease,AE
+7862,7862,45+,1.0,Expats,High School,1400,1485789793.38,stroke heart disease,AE
+7863,7863,18-24,2.0,Expats,High School,2200,1485789793.38,stroke heart disease,AE
+7864,7864,25-44,2.0,Expats,High School,11000,1485789793.38,stroke heart disease,AE
+7865,7865,45+,2.0,Expats,High School,3400,1485789793.38,stroke heart disease,AE
+7866,7866,18-24,1.0,Locals,Graduated,180,1485789793.38,stroke heart disease,AE
+7867,7867,25-44,1.0,Locals,Graduated,580,1485789793.38,stroke heart disease,AE
+7868,7868,45+,1.0,Locals,Graduated,90,1485789793.38,stroke heart disease,AE
+7869,7869,18-24,2.0,Locals,Graduated,170,1485789793.38,stroke heart disease,AE
+7870,7870,25-44,2.0,Locals,Graduated,900,1485789793.38,stroke heart disease,AE
+7871,7871,45+,2.0,Locals,Graduated,90,1485789793.38,stroke heart disease,AE
+7872,7872,18-24,1.0,Locals,No Degree,360,1485789793.38,stroke heart disease,AE
+7873,7873,25-44,1.0,Locals,No Degree,870,1485789793.38,stroke heart disease,AE
+7874,7874,45+,1.0,Locals,No Degree,140,1485789793.38,stroke heart disease,AE
+7875,7875,18-24,2.0,Locals,No Degree,370,1485789793.38,stroke heart disease,AE
+7876,7876,25-44,2.0,Locals,No Degree,1200,1485789793.38,stroke heart disease,AE
+7877,7877,45+,2.0,Locals,No Degree,180,1485789793.38,stroke heart disease,AE
+7878,7878,18-24,1.0,Locals,High School,110,1485789793.38,stroke heart disease,AE
+7879,7879,25-44,1.0,Locals,High School,180,1485789793.38,stroke heart disease,AE
+7880,7880,45+,1.0,Locals,High School,50,1485789793.38,stroke heart disease,AE
+7881,7881,18-24,2.0,Locals,High School,110,1485789793.38,stroke heart disease,AE
+7882,7882,25-44,2.0,Locals,High School,190,1485789793.38,stroke heart disease,AE
+7883,7883,45+,2.0,Locals,High School,20,1485789793.38,stroke heart disease,AE
+7884,7884,18-24,1.0,Expats,Graduated,1500,1485789793.38,stroke heart disease,YE
+7885,7885,25-44,1.0,Expats,Graduated,2400,1485789793.38,stroke heart disease,YE
+7886,7886,45+,1.0,Expats,Graduated,270,1485789793.38,stroke heart disease,YE
+7887,7887,18-24,2.0,Expats,Graduated,130,1485789793.38,stroke heart disease,YE
+7888,7888,25-44,2.0,Expats,Graduated,360,1485789793.38,stroke heart disease,YE
+7889,7889,45+,2.0,Expats,Graduated,70,1485789793.38,stroke heart disease,YE
+7890,7890,18-24,1.0,Expats,No Degree,590,1485789793.38,stroke heart disease,YE
+7891,7891,25-44,1.0,Expats,No Degree,1100,1485789793.38,stroke heart disease,YE
+7892,7892,45+,1.0,Expats,No Degree,90,1485789793.38,stroke heart disease,YE
+7893,7893,18-24,2.0,Expats,No Degree,230,1485789793.38,stroke heart disease,YE
+7894,7894,25-44,2.0,Expats,No Degree,230,1485789793.38,stroke heart disease,YE
+7895,7895,45+,2.0,Expats,No Degree,50,1485789793.38,stroke heart disease,YE
+7896,7896,18-24,1.0,Expats,High School,540,1485789793.38,stroke heart disease,YE
+7897,7897,25-44,1.0,Expats,High School,630,1485789793.38,stroke heart disease,YE
+7898,7898,45+,1.0,Expats,High School,100,1485789793.38,stroke heart disease,YE
+7899,7899,18-24,2.0,Expats,High School,220,1485789793.38,stroke heart disease,YE
+7900,7900,25-44,2.0,Expats,High School,100,1485789793.38,stroke heart disease,YE
+7901,7901,45+,2.0,Expats,High School,20,1485789793.38,stroke heart disease,YE
+7902,7902,18-24,1.0,Locals,Graduated,11000,1485789793.38,stroke heart disease,YE
+7903,7903,25-44,1.0,Locals,Graduated,27000,1485789793.38,stroke heart disease,YE
+7904,7904,45+,1.0,Locals,Graduated,2800,1485789793.38,stroke heart disease,YE
+7905,7905,18-24,2.0,Locals,Graduated,1500,1485789793.38,stroke heart disease,YE
+7906,7906,25-44,2.0,Locals,Graduated,3200,1485789793.38,stroke heart disease,YE
+7907,7907,45+,2.0,Locals,Graduated,370,1485789793.38,stroke heart disease,YE
+7908,7908,18-24,1.0,Locals,No Degree,14000,1485789793.38,stroke heart disease,YE
+7909,7909,25-44,1.0,Locals,No Degree,20000,1485789793.38,stroke heart disease,YE
+7910,7910,45+,1.0,Locals,No Degree,3500,1485789793.38,stroke heart disease,YE
+7911,7911,18-24,2.0,Locals,No Degree,1800,1485789793.38,stroke heart disease,YE
+7912,7912,25-44,2.0,Locals,No Degree,2400,1485789793.38,stroke heart disease,YE
+7913,7913,45+,2.0,Locals,No Degree,480,1485789793.38,stroke heart disease,YE
+7914,7914,18-24,1.0,Locals,High School,8400,1485789793.38,stroke heart disease,YE
+7915,7915,25-44,1.0,Locals,High School,7700,1485789793.38,stroke heart disease,YE
+7916,7916,45+,1.0,Locals,High School,920,1485789793.38,stroke heart disease,YE
+7917,7917,18-24,2.0,Locals,High School,1800,1485789793.38,stroke heart disease,YE
+7918,7918,25-44,2.0,Locals,High School,900,1485789793.38,stroke heart disease,YE
+7919,7919,45+,2.0,Locals,High School,140,1485789793.38,stroke heart disease,YE
+7920,7920,18-24,1.0,Expats,Graduated,350,1485789793.38,stroke heart disease,PS
+7921,7921,25-44,1.0,Expats,Graduated,810,1485789793.38,stroke heart disease,PS
+7922,7922,45+,1.0,Expats,Graduated,260,1485789793.38,stroke heart disease,PS
+7923,7923,18-24,2.0,Expats,Graduated,530,1485789793.38,stroke heart disease,PS
+7924,7924,25-44,2.0,Expats,Graduated,1400,1485789793.38,stroke heart disease,PS
+7925,7925,45+,2.0,Expats,Graduated,340,1485789793.38,stroke heart disease,PS
+7926,7926,18-24,1.0,Expats,No Degree,90,1485789793.38,stroke heart disease,PS
+7927,7927,25-44,1.0,Expats,No Degree,180,1485789793.38,stroke heart disease,PS
+7928,7928,45+,1.0,Expats,No Degree,100,1485789793.38,stroke heart disease,PS
+7929,7929,18-24,2.0,Expats,No Degree,280,1485789793.38,stroke heart disease,PS
+7930,7930,25-44,2.0,Expats,No Degree,720,1485789793.38,stroke heart disease,PS
+7931,7931,45+,2.0,Expats,No Degree,250,1485789793.38,stroke heart disease,PS
+7932,7932,18-24,1.0,Expats,High School,90,1485789793.38,stroke heart disease,PS
+7933,7933,25-44,1.0,Expats,High School,190,1485789793.38,stroke heart disease,PS
+7934,7934,45+,1.0,Expats,High School,40,1485789793.38,stroke heart disease,PS
+7935,7935,18-24,2.0,Expats,High School,360,1485789793.38,stroke heart disease,PS
+7936,7936,25-44,2.0,Expats,High School,410,1485789793.38,stroke heart disease,PS
+7937,7937,45+,2.0,Expats,High School,80,1485789793.38,stroke heart disease,PS
+7938,7938,18-24,1.0,Locals,Graduated,970,1485789793.38,stroke heart disease,PS
+7939,7939,25-44,1.0,Locals,Graduated,3600,1485789793.38,stroke heart disease,PS
+7940,7940,45+,1.0,Locals,Graduated,900,1485789793.38,stroke heart disease,PS
+7941,7941,18-24,2.0,Locals,Graduated,2800,1485789793.38,stroke heart disease,PS
+7942,7942,25-44,2.0,Locals,Graduated,6200,1485789793.38,stroke heart disease,PS
+7943,7943,45+,2.0,Locals,Graduated,1000,1485789793.38,stroke heart disease,PS
+7944,7944,18-24,1.0,Locals,No Degree,750,1485789793.38,stroke heart disease,PS
+7945,7945,25-44,1.0,Locals,No Degree,1600,1485789793.38,stroke heart disease,PS
+7946,7946,45+,1.0,Locals,No Degree,1100,1485789793.38,stroke heart disease,PS
+7947,7947,18-24,2.0,Locals,No Degree,1600,1485789793.38,stroke heart disease,PS
+7948,7948,25-44,2.0,Locals,No Degree,4900,1485789793.38,stroke heart disease,PS
+7949,7949,45+,2.0,Locals,No Degree,2200,1485789793.38,stroke heart disease,PS
+7950,7950,18-24,1.0,Locals,High School,670,1485789793.38,stroke heart disease,PS
+7951,7951,25-44,1.0,Locals,High School,770,1485789793.38,stroke heart disease,PS
+7952,7952,45+,1.0,Locals,High School,310,1485789793.38,stroke heart disease,PS
+7953,7953,18-24,2.0,Locals,High School,1900,1485789793.38,stroke heart disease,PS
+7954,7954,25-44,2.0,Locals,High School,1800,1485789793.38,stroke heart disease,PS
+7955,7955,45+,2.0,Locals,High School,470,1485789793.38,stroke heart disease,PS

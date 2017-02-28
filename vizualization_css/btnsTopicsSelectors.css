@@ -7,21 +7,22 @@
 .btn-interest:hover{
     color: #404040;
 }
-.btn-luxury:hover{
+.btn-right:hover{
     background-color: #ffc2a3;
 }
-.btn-health:hover{
+.btn-left:hover{
     background-color: #bedaa2;
 }
-.btn-selected.btn-luxury{
+.btn-selected.btn-right{
     background-color: #fc8d59;
 }
-.btn-selected.btn-health{
+.btn-selected.btn-left{
     background-color: #91cf60;
 }
 
 .btn-interest-header{
     margin-bottom: 12px;
+    width: 90%;
 }
 
 .loader {

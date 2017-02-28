@@ -1,12 +1,13 @@
 function DataManager(){
     var currentInstance = this;
-    this.selectedCountries_2letters = [];
+    this.selectedLocations_2letters = [];
     this.selectedCategoriesAndValues = {};
     this.selectedInstances = [];
     this.selectedFbDemographicInstances = [];
-    this.selectedHealth = healthTopics[3];
-    this.selectedLuxury = luxuryTopics[4];
+    this.selectedLeftTopic = leftTopics[DEFAULT_LEFT_TOPIC];
+    this.selectedRightTopic = rightTopics[DEFAULT_RIGHT_TOPIC];
     this.selectedFbDemographicSum = 0;
+    this.allNoInterestInstancesAgreesWithTreemaps = [];
     this.loader = $(".loader");
 
     this.getTotalFacebookUsersGivenActualSelectionAndACategoryAndSubcategory = function(categoryName, subCategoryName){
@@ -22,7 +23,7 @@ function DataManager(){
 
     this.updateDatasetAndGetPromise = function(){
         currentInstance.loader.fadeIn();
-        return externalDataManager.getPromiseToUpdateDatasetBySelection(currentInstance.selectedHealth, currentInstance.selectedLuxury).done(function(data){
+        return externalDataManager.getPromiseToUpdateDatasetBySelection(currentInstance.selectedLeftTopic, currentInstance.selectedRightTopic).done(function(data){
             externalDataManager.setInstanceList(data.instances);
             currentInstance.loader.fadeOut();
             currentInstance.updateVisualComponents();
@@ -30,68 +31,67 @@ function DataManager(){
         });
     };
     this.setLuxuryTopic = function(luxuryInterest){
-        currentInstance.selectedLuxury = luxuryInterest;
+        currentInstance.selectedRightTopic = luxuryInterest;
         currentInstance.updateDatasetAndGetPromise();
     };
     this.setHealthTopic = function(healthInterest){
-        currentInstance.selectedHealth = healthInterest;
+        currentInstance.selectedLeftTopic = healthInterest;
         currentInstance.updateDatasetAndGetPromise();
     };
-    this.setHealthAndLuxuryTopicAndGetPromise = function(healthInterest, luxuryInterest){
-        currentInstance.selectedHealth = healthInterest;
-        currentInstance.selectedLuxury = luxuryInterest;
+    this.setLeftAndRightTopicAndGetPromise = function(healthInterest, luxuryInterest){
+        currentInstance.selectedLeftTopic = healthInterest;
+        currentInstance.selectedRightTopic = luxuryInterest;
         return currentInstance.updateDatasetAndGetPromise();
     };
-    this.flipSelectedLuxury = function(luxuryInterest){
+    this.flipSelectedRightTopic = function(luxuryInterest){
         if(!luxuryInterest) return;
-        if(currentInstance.selectedLuxury != luxuryInterest){
+        if(currentInstance.selectedRightTopic != luxuryInterest){
             currentInstance.setLuxuryTopic(luxuryInterest);
-        } else if (currentInstance.selectedHealth != null){
+        } else if (currentInstance.selectedLeftTopic != null){
             currentInstance.setLuxuryTopic(null);
         }
     };
-    this.flipSelectedHealth = function(healthInterest){
+    this.flipSelectedLeftTopic = function(healthInterest){
         if(!healthInterest) return;
-        if(currentInstance.selectedHealth != healthInterest) {
+        if(currentInstance.selectedLeftTopic != healthInterest) {
             currentInstance.setHealthTopic(healthInterest);
-        } else if (currentInstance.selectedLuxury != null){
+        } else if (currentInstance.selectedRightTopic != null){
             currentInstance.setHealthTopic(null);
         }
     };
-    this.deselectAllCountries = function(){
-        currentInstance.selectedCountries_2letters = [];
+    this.deselectAllLocations = function(){
+        currentInstance.selectedLocations_2letters = [];
         currentInstance.updateVisualComponents();
     };
-    this.selectGCCCountries = function () {
-        currentInstance.selectedCountries_2letters = ["BH", "KW", "QA", "SA", "OM","AE"];
+    this.selectFastLocationsBtn = function () {
+        currentInstance.selectedLocations_2letters = MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].fastLocationSelection.locations2letters;
         currentInstance.updateVisualComponents();
     }
-    this.selectAllCountries = function(){
-        currentInstance.selectedCountries_2letters = [];
-        for(var countryCode in countryCodeMap){
-            currentInstance.selectedCountries_2letters.push(countryCode);
+    this.selectAllLocations = function(){
+        currentInstance.selectedLocations_2letters = [];
+        for(var locationKeyIndex in allEnabledLocationsKeys){
+            var locationKey = allEnabledLocationsKeys[locationKeyIndex];
+            currentInstance.selectedLocations_2letters.push(locationCodeMap[locationKey]._2letters_code);
         }
         currentInstance.updateVisualComponents();
     };
-    this.selectDefaultCountries = function(){
-        // onClickCountryFunctionBy2LettersCode("AE");
-        // onClickCountryFunctionBy2LettersCode("DZ");
-        currentInstance.selectAllCountries();
+    this.selectDefaultLocations = function(){
+        currentInstance.selectAllLocations();
     };
     this.getSelectedInstances = function(){
         return currentInstance.selectedInstances;
     }
-    this.setCountryCodeList = function(countryCodeList){
-        currentInstance.selectedCountries_2letters = countryCodeList;
+    this.setSelectedLocations2lettersList = function(location2LetterList){
+        currentInstance.selectedLocations_2letters = location2LetterList;
         currentInstance.updateVisualComponents();
     }
-    this.insertCountryCode = function(countryCode){
-        console.log("Inserting:" + countryCode);
-        currentInstance.selectedCountries_2letters.push(countryCode);
+    this.insertLocation2Letter = function(location2Letters){
+        console.log("Inserting:" + location2Letters);
+        currentInstance.selectedLocations_2letters.push(location2Letters);
         currentInstance.updateVisualComponents();
     }
-    this.removeCountryCode = function(country_code){
-        currentInstance.selectedCountries_2letters = removeValueFromArray(currentInstance.selectedCountries_2letters, country_code);
+    this.removeLocation2Letters = function(location2Letters){
+        currentInstance.selectedLocations_2letters = removeValueFromArray(currentInstance.selectedLocations_2letters, location2Letters);
         currentInstance.updateVisualComponents();
     }
     this.setCategoryValueSelected = function(category, value){
@@ -105,28 +105,32 @@ function DataManager(){
     }
      this.setSelectedInstances = function(){
          console.log("Selecting Instances")
-        var instances = [];
-        var facebookPopulationInstances = [];
+        var selectedInstances = [];
+        var selectedFacebookPopulationInstances = [];
+        var allNoInterestInstancesAgreesWithTreemaps = [];
         //Filtering Instances With Interests
         for(var indexData in fbInstancesWithInterests){
             var instance = fbInstancesWithInterests[indexData];
-            if(dataManager.isInstanceAgreeWithSelected(instance)){
-                instances.push(instance)
+            if(dataManager.isInstanceAgreeWithTreemapsAndLocationsSelected(instance)){
+                selectedInstances.push(instance)
             }
         }
          //Filtering demographic related instances
          for(var indexFacebookPopulation in fbInstancesDemographic){
              var instance = fbInstancesDemographic[indexFacebookPopulation];
              if(!currentInstance.hasAllInAnyCategory(instance)){
-                 if(currentInstance.isInstanceAgreeWithSelected(instance)){
-                     facebookPopulationInstances.push(instance)
+                 if(currentInstance.isInstanceAgreeWithTreemaps(instance)){
+                        allNoInterestInstancesAgreesWithTreemaps.push(instance);
+                     if(currentInstance.isInstanceAgreeWithSelectedLocations(instance)){
+                         selectedFacebookPopulationInstances.push(instance)
+                     }
                  }
              }
-
          }
-        console.log(facebookPopulationInstances.length);
-        currentInstance.selectedInstances = instances;
-        currentInstance.selectedFbDemographicInstances = facebookPopulationInstances;
+        console.log(selectedFacebookPopulationInstances.length);
+        currentInstance.allNoInterestInstancesAgreesWithTreemaps = allNoInterestInstancesAgreesWithTreemaps;
+        currentInstance.selectedInstances = selectedInstances;
+        currentInstance.selectedFbDemographicInstances = selectedFacebookPopulationInstances;
         currentInstance.updateSumSelectedFbInstancesDemographic();
         console.log(currentInstance.selectedFbDemographicSum);
         console.log("Instances and Facebook Population Selected");
@@ -142,14 +146,18 @@ function DataManager(){
         }
 
 
+    };
+
+    this.isAnyLocationSelected = function(){
+        return currentInstance.selectedLocations_2letters.length > 0;
     }
 
-    this.getSumSelectedFacebookPopulationByCountry = function(countryCode){
+    this.getSumSelectedFacebookPopulationByLocation2letters = function(location2letter){
         if(currentInstance.selectedFbDemographicInstances.length > 0){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
                 var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
-                if(instance.country_code == countryCode){
+                if(getLocation2letterFromLocationKey(instance.location) == location2letter){
                     total += instance.audience;
                 }
             }
@@ -159,12 +167,28 @@ function DataManager(){
         }
     };
 
+    this.getSumFacebookPopulationByLocation2letters = function(location2letter){
+        //In this case the location don't need to be selected
+        var total = 0;
+        for(var instanceIndex in currentInstance.allNoInterestInstancesAgreesWithTreemaps){
+            var instance = currentInstance.allNoInterestInstancesAgreesWithTreemaps[instanceIndex];
+            if(getLocation2letterFromLocationKey(instance.location) == location2letter){
+                total += instance.audience;
+            }
+        }
+        return total;
+    };
+
     this.buildAndInitVisualComponents = function(){
         console.log("Building visual components");
         treemapManager = new TreemapManager();
-        luxuriousHealthBar = new stackedHorizontalBar();
+        barsLeftRightScore = new stackedHorizontalBar();
+        colorScaleScore = new ColorScaleScore();
         generalScore = new GeneralScore();
-        arabMap = new arabLeagueDatamap();
+        locationsDataManager = new LocationsDataManager();
+        locationsMapDatamap = new LocationsMapDatamap();
+        locationsMapSubRegion = new  SubRegionMap();
+        locationsBtns = new LocationsBtns();
         sharebleLink = new SharebleLink();
         btnsTopicsSelectors = new BtnsTopicsSelectors();
         historyDataSelector = new HistoryDataSelector();
@@ -178,29 +202,49 @@ function DataManager(){
         currentInstance.setSelectedInstances();
         treemapManager.updateTreemaps();
         generalScore.updateData();
-        arabMap.updateData();
+        locationsDataManager.updateData();
+        locationsBtns.updateData();
+        locationsMapDatamap.updateData();
+        locationsMapSubRegion.updateData();
         btnsTopicsSelectors.updateData();
-        luxuriousHealthBar.updateData();
+        barsLeftRightScore.updateData();
+        colorScaleScore.updateData();
         sharebleLink.updateData();
         // findingsFinder.updateData();
     };
 
-    this.isCountryAlreadySelected = function(country_code) {
-        return currentInstance.selectedCountries_2letters.indexOf(country_code) != -1 ? true : false;
+    this.isLocationKeyAlreadySelected = function(locationKey) {
+        var location2letter = getLocation2letterFromLocationKey(locationKey);
+        return currentInstance.selectedLocations_2letters.indexOf(location2letter) != -1 ? true : false;
     };
-    this.isInstanceAgreeWithSelected = function(instance){
+    this.isInstanceAgreeWithTreemaps = function(instance){
         for(var key in currentInstance.selectedCategoriesAndValues){
             if(instance[key] != currentInstance.selectedCategoriesAndValues[key]){
                 return false;
             }
         }
-        //Check Country code
-        if(currentInstance.selectedCountries_2letters.length > 0){
-            if(!currentInstance.isCountryAlreadySelected(instance.country_code)){
+        return true;
+    };
+    this.isInstanceAgreeWithSelectedLocations = function(instance){
+        //TODO: Need to currect this. Shouldn't return true when currentInstance.selectedLocations_2letters.length <= 0
+        if(currentInstance.selectedLocations_2letters.length > 0){
+            if(!currentInstance.isLocationKeyAlreadySelected(instance.location)){
                 return false;
             }
         }
         return true;
+    }
+    this.isInstanceAgreeWithTreemapsAndLocationsSelected = function(instance){
+        if(currentInstance.isInstanceAgreeWithTreemaps(instance)){
+            //Check Location code
+            if(currentInstance.isInstanceAgreeWithSelectedLocations(instance)){
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
     };
     this.hasAllInAnyCategory = function(instance){
         for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
@@ -213,7 +257,7 @@ function DataManager(){
     };
     this.getAverageSelectedScore = function(){
         var averageScore = {"greenAudience" : 0, "redAudience":0, "greenScore":0,"redScore":0,"average":0, "total":0};
-        if(currentInstance.selectedCountries_2letters.length == 0){
+        if(currentInstance.selectedLocations_2letters.length == 0){
             return averageScore;
         } else{
             var selectedInstances = currentInstance.getSelectedInstances();
@@ -234,28 +278,6 @@ function DataManager(){
         }
 
     };
-    this.getSelectedCountriesData = function(){
-        var selectedCountriesData = {};
 
-        for(let countryIndex in dataManager.selectedCountries_2letters){
-            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
-            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
-            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
-            selectedCountriesData[countryCode2Letter] = countryData;
-        }
-        return selectedCountriesData;
-    }
-
-    this.getCellsData = function(){
-        var selectedCountriesData = {};
-
-        for(let countryIndex in dataManager.selectedCountries_2letters){
-            var countryCode2Letter = dataManager.selectedCountries_2letters[countryIndex];
-            var countryCode3Letter = convert2to3LettersCode(countryCode2Letter);
-            var countryData = countriesDataDatamap.getCountrySelectedData(countryCode3Letter);
-            selectedCountriesData[countryCode2Letter] = countryData;
-        }
-        return selectedCountriesData;
-    }
 }
 

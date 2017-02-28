@@ -1,0 +1,1837 @@
+,ages_ranges,genders,behavior,scholarities,audience,topic,location
+0,18-24,1.0,Expats,Graduated,7000,NOTSELECTED,Alabama
+1,25-44,1.0,Expats,Graduated,22000,NOTSELECTED,Alabama
+2,45+,1.0,Expats,Graduated,7900,NOTSELECTED,Alabama
+3,18-24,2.0,Expats,Graduated,4500,NOTSELECTED,Alabama
+4,25-44,2.0,Expats,Graduated,17000,NOTSELECTED,Alabama
+5,45+,2.0,Expats,Graduated,7400,NOTSELECTED,Alabama
+6,18-24,1.0,Expats,No Degree,8400,NOTSELECTED,Alabama
+7,25-44,1.0,Expats,No Degree,23000,NOTSELECTED,Alabama
+8,45+,1.0,Expats,No Degree,8000,NOTSELECTED,Alabama
+9,18-24,2.0,Expats,No Degree,5400,NOTSELECTED,Alabama
+10,25-44,2.0,Expats,No Degree,16000,NOTSELECTED,Alabama
+11,45+,2.0,Expats,No Degree,7900,NOTSELECTED,Alabama
+12,18-24,1.0,Expats,High School,6200,NOTSELECTED,Alabama
+13,25-44,1.0,Expats,High School,10000,NOTSELECTED,Alabama
+14,45+,1.0,Expats,High School,2800,NOTSELECTED,Alabama
+15,18-24,2.0,Expats,High School,5400,NOTSELECTED,Alabama
+16,25-44,2.0,Expats,High School,7900,NOTSELECTED,Alabama
+17,45+,2.0,Expats,High School,3400,NOTSELECTED,Alabama
+18,18-24,1.0,Locals,Graduated,85000,NOTSELECTED,Alabama
+19,25-44,1.0,Locals,Graduated,260000,NOTSELECTED,Alabama
+20,45+,1.0,Locals,Graduated,190000,NOTSELECTED,Alabama
+21,18-24,2.0,Locals,Graduated,83000,NOTSELECTED,Alabama
+22,25-44,2.0,Locals,Graduated,330000,NOTSELECTED,Alabama
+23,45+,2.0,Locals,Graduated,300000,NOTSELECTED,Alabama
+24,18-24,1.0,Locals,No Degree,76000,NOTSELECTED,Alabama
+25,25-44,1.0,Locals,No Degree,130000,NOTSELECTED,Alabama
+26,45+,1.0,Locals,No Degree,120000,NOTSELECTED,Alabama
+27,18-24,2.0,Locals,No Degree,77000,NOTSELECTED,Alabama
+28,25-44,2.0,Locals,No Degree,120000,NOTSELECTED,Alabama
+29,45+,2.0,Locals,No Degree,180000,NOTSELECTED,Alabama
+30,18-24,1.0,Locals,High School,110000,NOTSELECTED,Alabama
+31,25-44,1.0,Locals,High School,170000,NOTSELECTED,Alabama
+32,45+,1.0,Locals,High School,120000,NOTSELECTED,Alabama
+33,18-24,2.0,Locals,High School,140000,NOTSELECTED,Alabama
+34,25-44,2.0,Locals,High School,190000,NOTSELECTED,Alabama
+35,45+,2.0,Locals,High School,200000,NOTSELECTED,Alabama
+36,18-24,1.0,Expats,Graduated,1400,NOTSELECTED,Alaska
+37,25-44,1.0,Expats,Graduated,5700,NOTSELECTED,Alaska
+38,45+,1.0,Expats,Graduated,3000,NOTSELECTED,Alaska
+39,18-24,2.0,Expats,Graduated,1200,NOTSELECTED,Alaska
+40,25-44,2.0,Expats,Graduated,5500,NOTSELECTED,Alaska
+41,45+,2.0,Expats,Graduated,3700,NOTSELECTED,Alaska
+42,18-24,1.0,Expats,No Degree,1200,NOTSELECTED,Alaska
+43,25-44,1.0,Expats,No Degree,3300,NOTSELECTED,Alaska
+44,45+,1.0,Expats,No Degree,2900,NOTSELECTED,Alaska
+45,18-24,2.0,Expats,No Degree,1300,NOTSELECTED,Alaska
+46,25-44,2.0,Expats,No Degree,3400,NOTSELECTED,Alaska
+47,45+,2.0,Expats,No Degree,3500,NOTSELECTED,Alaska
+48,18-24,1.0,Expats,High School,1400,NOTSELECTED,Alaska
+49,25-44,1.0,Expats,High School,2800,NOTSELECTED,Alaska
+50,45+,1.0,Expats,High School,1300,NOTSELECTED,Alaska
+51,18-24,2.0,Expats,High School,1800,NOTSELECTED,Alaska
+52,25-44,2.0,Expats,High School,2600,NOTSELECTED,Alaska
+53,45+,2.0,Expats,High School,1600,NOTSELECTED,Alaska
+54,18-24,1.0,Locals,Graduated,9800,NOTSELECTED,Alaska
+55,25-44,1.0,Locals,Graduated,40000,NOTSELECTED,Alaska
+56,45+,1.0,Locals,Graduated,29000,NOTSELECTED,Alaska
+57,18-24,2.0,Locals,Graduated,8100,NOTSELECTED,Alaska
+58,25-44,2.0,Locals,Graduated,45000,NOTSELECTED,Alaska
+59,45+,2.0,Locals,Graduated,37000,NOTSELECTED,Alaska
+60,18-24,1.0,Locals,No Degree,11000,NOTSELECTED,Alaska
+61,25-44,1.0,Locals,No Degree,22000,NOTSELECTED,Alaska
+62,45+,1.0,Locals,No Degree,19000,NOTSELECTED,Alaska
+63,18-24,2.0,Locals,No Degree,12000,NOTSELECTED,Alaska
+64,25-44,2.0,Locals,No Degree,20000,NOTSELECTED,Alaska
+65,45+,2.0,Locals,No Degree,23000,NOTSELECTED,Alaska
+66,18-24,1.0,Locals,High School,18000,NOTSELECTED,Alaska
+67,25-44,1.0,Locals,High School,31000,NOTSELECTED,Alaska
+68,45+,1.0,Locals,High School,18000,NOTSELECTED,Alaska
+69,18-24,2.0,Locals,High School,18000,NOTSELECTED,Alaska
+70,25-44,2.0,Locals,High School,29000,NOTSELECTED,Alaska
+71,45+,2.0,Locals,High School,22000,NOTSELECTED,Alaska
+72,18-24,1.0,Expats,Graduated,20000,NOTSELECTED,Arizona
+73,25-44,1.0,Expats,Graduated,69000,NOTSELECTED,Arizona
+74,45+,1.0,Expats,Graduated,34000,NOTSELECTED,Arizona
+75,18-24,2.0,Expats,Graduated,16000,NOTSELECTED,Arizona
+76,25-44,2.0,Expats,Graduated,72000,NOTSELECTED,Arizona
+77,45+,2.0,Expats,Graduated,41000,NOTSELECTED,Arizona
+78,18-24,1.0,Expats,No Degree,18000,NOTSELECTED,Arizona
+79,25-44,1.0,Expats,No Degree,60000,NOTSELECTED,Arizona
+80,45+,1.0,Expats,No Degree,43000,NOTSELECTED,Arizona
+81,18-24,2.0,Expats,No Degree,19000,NOTSELECTED,Arizona
+82,25-44,2.0,Expats,No Degree,63000,NOTSELECTED,Arizona
+83,45+,2.0,Expats,No Degree,61000,NOTSELECTED,Arizona
+84,18-24,1.0,Expats,High School,19000,NOTSELECTED,Arizona
+85,25-44,1.0,Expats,High School,33000,NOTSELECTED,Arizona
+86,45+,1.0,Expats,High School,14000,NOTSELECTED,Arizona
+87,18-24,2.0,Expats,High School,21000,NOTSELECTED,Arizona
+88,25-44,2.0,Expats,High School,38000,NOTSELECTED,Arizona
+89,45+,2.0,Expats,High School,21000,NOTSELECTED,Arizona
+90,18-24,1.0,Locals,Graduated,100000,NOTSELECTED,Arizona
+91,25-44,1.0,Locals,Graduated,310000,NOTSELECTED,Arizona
+92,45+,1.0,Locals,Graduated,270000,NOTSELECTED,Arizona
+93,18-24,2.0,Locals,Graduated,87000,NOTSELECTED,Arizona
+94,25-44,2.0,Locals,Graduated,360000,NOTSELECTED,Arizona
+95,45+,2.0,Locals,Graduated,370000,NOTSELECTED,Arizona
+96,18-24,1.0,Locals,No Degree,120000,NOTSELECTED,Arizona
+97,25-44,1.0,Locals,No Degree,190000,NOTSELECTED,Arizona
+98,45+,1.0,Locals,No Degree,170000,NOTSELECTED,Arizona
+99,18-24,2.0,Locals,No Degree,120000,NOTSELECTED,Arizona
+100,25-44,2.0,Locals,No Degree,180000,NOTSELECTED,Arizona
+101,45+,2.0,Locals,No Degree,240000,NOTSELECTED,Arizona
+102,18-24,1.0,Locals,High School,140000,NOTSELECTED,Arizona
+103,25-44,1.0,Locals,High School,200000,NOTSELECTED,Arizona
+104,45+,1.0,Locals,High School,140000,NOTSELECTED,Arizona
+105,18-24,2.0,Locals,High School,160000,NOTSELECTED,Arizona
+106,25-44,2.0,Locals,High School,210000,NOTSELECTED,Arizona
+107,45+,2.0,Locals,High School,240000,NOTSELECTED,Arizona
+108,18-24,1.0,Expats,Graduated,4700,NOTSELECTED,Arkansas
+109,25-44,1.0,Expats,Graduated,16000,NOTSELECTED,Arkansas
+110,45+,1.0,Expats,Graduated,4700,NOTSELECTED,Arkansas
+111,18-24,2.0,Expats,Graduated,3600,NOTSELECTED,Arkansas
+112,25-44,2.0,Expats,Graduated,13000,NOTSELECTED,Arkansas
+113,45+,2.0,Expats,Graduated,4500,NOTSELECTED,Arkansas
+114,18-24,1.0,Expats,No Degree,5200,NOTSELECTED,Arkansas
+115,25-44,1.0,Expats,No Degree,17000,NOTSELECTED,Arkansas
+116,45+,1.0,Expats,No Degree,6600,NOTSELECTED,Arkansas
+117,18-24,2.0,Expats,No Degree,3900,NOTSELECTED,Arkansas
+118,25-44,2.0,Expats,No Degree,13000,NOTSELECTED,Arkansas
+119,45+,2.0,Expats,No Degree,6700,NOTSELECTED,Arkansas
+120,18-24,1.0,Expats,High School,4300,NOTSELECTED,Arkansas
+121,25-44,1.0,Expats,High School,7300,NOTSELECTED,Arkansas
+122,45+,1.0,Expats,High School,2400,NOTSELECTED,Arkansas
+123,18-24,2.0,Expats,High School,4300,NOTSELECTED,Arkansas
+124,25-44,2.0,Expats,High School,6900,NOTSELECTED,Arkansas
+125,45+,2.0,Expats,High School,2400,NOTSELECTED,Arkansas
+126,18-24,1.0,Locals,Graduated,47000,NOTSELECTED,Arkansas
+127,25-44,1.0,Locals,Graduated,150000,NOTSELECTED,Arkansas
+128,45+,1.0,Locals,Graduated,110000,NOTSELECTED,Arkansas
+129,18-24,2.0,Locals,Graduated,48000,NOTSELECTED,Arkansas
+130,25-44,2.0,Locals,Graduated,190000,NOTSELECTED,Arkansas
+131,45+,2.0,Locals,Graduated,170000,NOTSELECTED,Arkansas
+132,18-24,1.0,Locals,No Degree,44000,NOTSELECTED,Arkansas
+133,25-44,1.0,Locals,No Degree,76000,NOTSELECTED,Arkansas
+134,45+,1.0,Locals,No Degree,71000,NOTSELECTED,Arkansas
+135,18-24,2.0,Locals,No Degree,43000,NOTSELECTED,Arkansas
+136,25-44,2.0,Locals,No Degree,68000,NOTSELECTED,Arkansas
+137,45+,2.0,Locals,No Degree,100000,NOTSELECTED,Arkansas
+138,18-24,1.0,Locals,High School,64000,NOTSELECTED,Arkansas
+139,25-44,1.0,Locals,High School,110000,NOTSELECTED,Arkansas
+140,45+,1.0,Locals,High School,77000,NOTSELECTED,Arkansas
+141,18-24,2.0,Locals,High School,79000,NOTSELECTED,Arkansas
+142,25-44,2.0,Locals,High School,120000,NOTSELECTED,Arkansas
+143,45+,2.0,Locals,High School,130000,NOTSELECTED,Arkansas
+144,18-24,1.0,Expats,Graduated,160000,NOTSELECTED,California
+145,25-44,1.0,Expats,Graduated,730000,NOTSELECTED,California
+146,45+,1.0,Expats,Graduated,390000,NOTSELECTED,California
+147,18-24,2.0,Expats,Graduated,140000,NOTSELECTED,California
+148,25-44,2.0,Expats,Graduated,720000,NOTSELECTED,California
+149,45+,2.0,Expats,Graduated,400000,NOTSELECTED,California
+150,18-24,1.0,Expats,No Degree,170000,NOTSELECTED,California
+151,25-44,1.0,Expats,No Degree,700000,NOTSELECTED,California
+152,45+,1.0,Expats,No Degree,560000,NOTSELECTED,California
+153,18-24,2.0,Expats,No Degree,160000,NOTSELECTED,California
+154,25-44,2.0,Expats,No Degree,700000,NOTSELECTED,California
+155,45+,2.0,Expats,No Degree,690000,NOTSELECTED,California
+156,18-24,1.0,Expats,High School,150000,NOTSELECTED,California
+157,25-44,1.0,Expats,High School,320000,NOTSELECTED,California
+158,45+,1.0,Expats,High School,150000,NOTSELECTED,California
+159,18-24,2.0,Expats,High School,160000,NOTSELECTED,California
+160,25-44,2.0,Expats,High School,320000,NOTSELECTED,California
+161,45+,2.0,Expats,High School,170000,NOTSELECTED,California
+162,18-24,1.0,Locals,Graduated,540000,NOTSELECTED,California
+163,25-44,1.0,Locals,Graduated,1700000,NOTSELECTED,California
+164,45+,1.0,Locals,Graduated,1200000,NOTSELECTED,California
+165,18-24,2.0,Locals,Graduated,500000,NOTSELECTED,California
+166,25-44,2.0,Locals,Graduated,2000000,NOTSELECTED,California
+167,45+,2.0,Locals,Graduated,1400000,NOTSELECTED,California
+168,18-24,1.0,Locals,No Degree,710000,NOTSELECTED,California
+169,25-44,1.0,Locals,No Degree,1300000,NOTSELECTED,California
+170,45+,1.0,Locals,No Degree,950000,NOTSELECTED,California
+171,18-24,2.0,Locals,No Degree,680000,NOTSELECTED,California
+172,25-44,2.0,Locals,No Degree,1200000,NOTSELECTED,California
+173,45+,2.0,Locals,No Degree,1200000,NOTSELECTED,California
+174,18-24,1.0,Locals,High School,770000,NOTSELECTED,California
+175,25-44,1.0,Locals,High School,1000000,NOTSELECTED,California
+176,45+,1.0,Locals,High School,580000,NOTSELECTED,California
+177,18-24,2.0,Locals,High School,840000,NOTSELECTED,California
+178,25-44,2.0,Locals,High School,1000000,NOTSELECTED,California
+179,45+,2.0,Locals,High School,840000,NOTSELECTED,California
+180,18-24,1.0,Expats,Graduated,14000,NOTSELECTED,Colorado
+181,25-44,1.0,Expats,Graduated,52000,NOTSELECTED,Colorado
+182,45+,1.0,Expats,Graduated,21000,NOTSELECTED,Colorado
+183,18-24,2.0,Expats,Graduated,11000,NOTSELECTED,Colorado
+184,25-44,2.0,Expats,Graduated,48000,NOTSELECTED,Colorado
+185,45+,2.0,Expats,Graduated,21000,NOTSELECTED,Colorado
+186,18-24,1.0,Expats,No Degree,15000,NOTSELECTED,Colorado
+187,25-44,1.0,Expats,No Degree,49000,NOTSELECTED,Colorado
+188,45+,1.0,Expats,No Degree,24000,NOTSELECTED,Colorado
+189,18-24,2.0,Expats,No Degree,14000,NOTSELECTED,Colorado
+190,25-44,2.0,Expats,No Degree,44000,NOTSELECTED,Colorado
+191,45+,2.0,Expats,No Degree,28000,NOTSELECTED,Colorado
+192,18-24,1.0,Expats,High School,15000,NOTSELECTED,Colorado
+193,25-44,1.0,Expats,High School,25000,NOTSELECTED,Colorado
+194,45+,1.0,Expats,High School,8000,NOTSELECTED,Colorado
+195,18-24,2.0,Expats,High School,15000,NOTSELECTED,Colorado
+196,25-44,2.0,Expats,High School,24000,NOTSELECTED,Colorado
+197,45+,2.0,Expats,High School,9400,NOTSELECTED,Colorado
+198,18-24,1.0,Locals,Graduated,82000,NOTSELECTED,Colorado
+199,25-44,1.0,Locals,Graduated,340000,NOTSELECTED,Colorado
+200,45+,1.0,Locals,Graduated,240000,NOTSELECTED,Colorado
+201,18-24,2.0,Locals,Graduated,73000,NOTSELECTED,Colorado
+202,25-44,2.0,Locals,Graduated,400000,NOTSELECTED,Colorado
+203,45+,2.0,Locals,Graduated,320000,NOTSELECTED,Colorado
+204,18-24,1.0,Locals,No Degree,89000,NOTSELECTED,Colorado
+205,25-44,1.0,Locals,No Degree,160000,NOTSELECTED,Colorado
+206,45+,1.0,Locals,No Degree,130000,NOTSELECTED,Colorado
+207,18-24,2.0,Locals,No Degree,86000,NOTSELECTED,Colorado
+208,25-44,2.0,Locals,No Degree,130000,NOTSELECTED,Colorado
+209,45+,2.0,Locals,No Degree,170000,NOTSELECTED,Colorado
+210,18-24,1.0,Locals,High School,130000,NOTSELECTED,Colorado
+211,25-44,1.0,Locals,High School,180000,NOTSELECTED,Colorado
+212,45+,1.0,Locals,High School,110000,NOTSELECTED,Colorado
+213,18-24,2.0,Locals,High School,130000,NOTSELECTED,Colorado
+214,25-44,2.0,Locals,High School,170000,NOTSELECTED,Colorado
+215,45+,2.0,Locals,High School,160000,NOTSELECTED,Colorado
+216,18-24,1.0,Expats,Graduated,11000,NOTSELECTED,Connecticut
+217,25-44,1.0,Expats,Graduated,50000,NOTSELECTED,Connecticut
+218,45+,1.0,Expats,Graduated,22000,NOTSELECTED,Connecticut
+219,18-24,2.0,Expats,Graduated,9300,NOTSELECTED,Connecticut
+220,25-44,2.0,Expats,Graduated,51000,NOTSELECTED,Connecticut
+221,45+,2.0,Expats,Graduated,26000,NOTSELECTED,Connecticut
+222,18-24,1.0,Expats,No Degree,10000,NOTSELECTED,Connecticut
+223,25-44,1.0,Expats,No Degree,37000,NOTSELECTED,Connecticut
+224,45+,1.0,Expats,No Degree,25000,NOTSELECTED,Connecticut
+225,18-24,2.0,Expats,No Degree,9200,NOTSELECTED,Connecticut
+226,25-44,2.0,Expats,No Degree,33000,NOTSELECTED,Connecticut
+227,45+,2.0,Expats,No Degree,30000,NOTSELECTED,Connecticut
+228,18-24,1.0,Expats,High School,10000,NOTSELECTED,Connecticut
+229,25-44,1.0,Expats,High School,21000,NOTSELECTED,Connecticut
+230,45+,1.0,Expats,High School,10000,NOTSELECTED,Connecticut
+231,18-24,2.0,Expats,High School,11000,NOTSELECTED,Connecticut
+232,25-44,2.0,Expats,High School,22000,NOTSELECTED,Connecticut
+233,45+,2.0,Expats,High School,13000,NOTSELECTED,Connecticut
+234,18-24,1.0,Locals,Graduated,46000,NOTSELECTED,Connecticut
+235,25-44,1.0,Locals,Graduated,160000,NOTSELECTED,Connecticut
+236,45+,1.0,Locals,Graduated,130000,NOTSELECTED,Connecticut
+237,18-24,2.0,Locals,Graduated,42000,NOTSELECTED,Connecticut
+238,25-44,2.0,Locals,Graduated,200000,NOTSELECTED,Connecticut
+239,45+,2.0,Locals,Graduated,200000,NOTSELECTED,Connecticut
+240,18-24,1.0,Locals,No Degree,45000,NOTSELECTED,Connecticut
+241,25-44,1.0,Locals,No Degree,84000,NOTSELECTED,Connecticut
+242,45+,1.0,Locals,No Degree,85000,NOTSELECTED,Connecticut
+243,18-24,2.0,Locals,No Degree,42000,NOTSELECTED,Connecticut
+244,25-44,2.0,Locals,No Degree,76000,NOTSELECTED,Connecticut
+245,45+,2.0,Locals,No Degree,120000,NOTSELECTED,Connecticut
+246,18-24,1.0,Locals,High School,66000,NOTSELECTED,Connecticut
+247,25-44,1.0,Locals,High School,90000,NOTSELECTED,Connecticut
+248,45+,1.0,Locals,High School,73000,NOTSELECTED,Connecticut
+249,18-24,2.0,Locals,High School,73000,NOTSELECTED,Connecticut
+250,25-44,2.0,Locals,High School,87000,NOTSELECTED,Connecticut
+251,45+,2.0,Locals,High School,110000,NOTSELECTED,Connecticut
+252,18-24,1.0,Expats,Graduated,2400,NOTSELECTED,Delaware
+253,25-44,1.0,Expats,Graduated,10000,NOTSELECTED,Delaware
+254,45+,1.0,Expats,Graduated,3900,NOTSELECTED,Delaware
+255,18-24,2.0,Expats,Graduated,1800,NOTSELECTED,Delaware
+256,25-44,2.0,Expats,Graduated,9100,NOTSELECTED,Delaware
+257,45+,2.0,Expats,Graduated,3500,NOTSELECTED,Delaware
+258,18-24,1.0,Expats,No Degree,2200,NOTSELECTED,Delaware
+259,25-44,1.0,Expats,No Degree,8100,NOTSELECTED,Delaware
+260,45+,1.0,Expats,No Degree,3600,NOTSELECTED,Delaware
+261,18-24,2.0,Expats,No Degree,1900,NOTSELECTED,Delaware
+262,25-44,2.0,Expats,No Degree,6200,NOTSELECTED,Delaware
+263,45+,2.0,Expats,No Degree,3900,NOTSELECTED,Delaware
+264,18-24,1.0,Expats,High School,2200,NOTSELECTED,Delaware
+265,25-44,1.0,Expats,High School,4000,NOTSELECTED,Delaware
+266,45+,1.0,Expats,High School,1400,NOTSELECTED,Delaware
+267,18-24,2.0,Expats,High School,1900,NOTSELECTED,Delaware
+268,25-44,2.0,Expats,High School,3700,NOTSELECTED,Delaware
+269,45+,2.0,Expats,High School,1700,NOTSELECTED,Delaware
+270,18-24,1.0,Locals,Graduated,11000,NOTSELECTED,Delaware
+271,25-44,1.0,Locals,Graduated,40000,NOTSELECTED,Delaware
+272,45+,1.0,Locals,Graduated,36000,NOTSELECTED,Delaware
+273,18-24,2.0,Locals,Graduated,11000,NOTSELECTED,Delaware
+274,25-44,2.0,Locals,Graduated,53000,NOTSELECTED,Delaware
+275,45+,2.0,Locals,Graduated,54000,NOTSELECTED,Delaware
+276,18-24,1.0,Locals,No Degree,12000,NOTSELECTED,Delaware
+277,25-44,1.0,Locals,No Degree,23000,NOTSELECTED,Delaware
+278,45+,1.0,Locals,No Degree,23000,NOTSELECTED,Delaware
+279,18-24,2.0,Locals,No Degree,12000,NOTSELECTED,Delaware
+280,25-44,2.0,Locals,No Degree,20000,NOTSELECTED,Delaware
+281,45+,2.0,Locals,No Degree,33000,NOTSELECTED,Delaware
+282,18-24,1.0,Locals,High School,18000,NOTSELECTED,Delaware
+283,25-44,1.0,Locals,High School,29000,NOTSELECTED,Delaware
+284,45+,1.0,Locals,High School,23000,NOTSELECTED,Delaware
+285,18-24,2.0,Locals,High School,20000,NOTSELECTED,Delaware
+286,25-44,2.0,Locals,High School,30000,NOTSELECTED,Delaware
+287,45+,2.0,Locals,High School,39000,NOTSELECTED,Delaware
+288,18-24,1.0,Expats,Graduated,5000,NOTSELECTED,District of Columbia
+289,25-44,1.0,Expats,Graduated,20000,NOTSELECTED,District of Columbia
+290,45+,1.0,Expats,Graduated,7600,NOTSELECTED,District of Columbia
+291,18-24,2.0,Expats,Graduated,4600,NOTSELECTED,District of Columbia
+292,25-44,2.0,Expats,Graduated,18000,NOTSELECTED,District of Columbia
+293,45+,2.0,Expats,Graduated,6100,NOTSELECTED,District of Columbia
+294,18-24,1.0,Expats,No Degree,3800,NOTSELECTED,District of Columbia
+295,25-44,1.0,Expats,No Degree,14000,NOTSELECTED,District of Columbia
+296,45+,1.0,Expats,No Degree,7600,NOTSELECTED,District of Columbia
+297,18-24,2.0,Expats,No Degree,3100,NOTSELECTED,District of Columbia
+298,25-44,2.0,Expats,No Degree,11000,NOTSELECTED,District of Columbia
+299,45+,2.0,Expats,No Degree,6800,NOTSELECTED,District of Columbia
+300,18-24,1.0,Expats,High School,3800,NOTSELECTED,District of Columbia
+301,25-44,1.0,Expats,High School,6000,NOTSELECTED,District of Columbia
+302,45+,1.0,Expats,High School,2200,NOTSELECTED,District of Columbia
+303,18-24,2.0,Expats,High School,3700,NOTSELECTED,District of Columbia
+304,25-44,2.0,Expats,High School,5100,NOTSELECTED,District of Columbia
+305,45+,2.0,Expats,High School,1700,NOTSELECTED,District of Columbia
+306,18-24,1.0,Locals,Graduated,13000,NOTSELECTED,District of Columbia
+307,25-44,1.0,Locals,Graduated,73000,NOTSELECTED,District of Columbia
+308,45+,1.0,Locals,Graduated,31000,NOTSELECTED,District of Columbia
+309,18-24,2.0,Locals,Graduated,18000,NOTSELECTED,District of Columbia
+310,25-44,2.0,Locals,Graduated,85000,NOTSELECTED,District of Columbia
+311,45+,2.0,Locals,Graduated,33000,NOTSELECTED,District of Columbia
+312,18-24,1.0,Locals,No Degree,11000,NOTSELECTED,District of Columbia
+313,25-44,1.0,Locals,No Degree,31000,NOTSELECTED,District of Columbia
+314,45+,1.0,Locals,No Degree,26000,NOTSELECTED,District of Columbia
+315,18-24,2.0,Locals,No Degree,9800,NOTSELECTED,District of Columbia
+316,25-44,2.0,Locals,No Degree,27000,NOTSELECTED,District of Columbia
+317,45+,2.0,Locals,No Degree,30000,NOTSELECTED,District of Columbia
+318,18-24,1.0,Locals,High School,15000,NOTSELECTED,District of Columbia
+319,25-44,1.0,Locals,High School,22000,NOTSELECTED,District of Columbia
+320,45+,1.0,Locals,High School,11000,NOTSELECTED,District of Columbia
+321,18-24,2.0,Locals,High School,20000,NOTSELECTED,District of Columbia
+322,25-44,2.0,Locals,High School,22000,NOTSELECTED,District of Columbia
+323,45+,2.0,Locals,High School,13000,NOTSELECTED,District of Columbia
+324,18-24,1.0,Expats,Graduated,91000,NOTSELECTED,Florida
+325,25-44,1.0,Expats,Graduated,380000,NOTSELECTED,Florida
+326,45+,1.0,Expats,Graduated,240000,NOTSELECTED,Florida
+327,18-24,2.0,Expats,Graduated,77000,NOTSELECTED,Florida
+328,25-44,2.0,Expats,Graduated,410000,NOTSELECTED,Florida
+329,45+,2.0,Expats,Graduated,300000,NOTSELECTED,Florida
+330,18-24,1.0,Expats,No Degree,94000,NOTSELECTED,Florida
+331,25-44,1.0,Expats,No Degree,280000,NOTSELECTED,Florida
+332,45+,1.0,Expats,No Degree,250000,NOTSELECTED,Florida
+333,18-24,2.0,Expats,No Degree,83000,NOTSELECTED,Florida
+334,25-44,2.0,Expats,No Degree,260000,NOTSELECTED,Florida
+335,45+,2.0,Expats,No Degree,310000,NOTSELECTED,Florida
+336,18-24,1.0,Expats,High School,84000,NOTSELECTED,Florida
+337,25-44,1.0,Expats,High School,170000,NOTSELECTED,Florida
+338,45+,1.0,Expats,High School,96000,NOTSELECTED,Florida
+339,18-24,2.0,Expats,High School,90000,NOTSELECTED,Florida
+340,25-44,2.0,Expats,High School,170000,NOTSELECTED,Florida
+341,45+,2.0,Expats,High School,140000,NOTSELECTED,Florida
+342,18-24,1.0,Locals,Graduated,260000,NOTSELECTED,Florida
+343,25-44,1.0,Locals,Graduated,870000,NOTSELECTED,Florida
+344,45+,1.0,Locals,Graduated,830000,NOTSELECTED,Florida
+345,18-24,2.0,Locals,Graduated,240000,NOTSELECTED,Florida
+346,25-44,2.0,Locals,Graduated,1100000,NOTSELECTED,Florida
+347,45+,2.0,Locals,Graduated,1200000,NOTSELECTED,Florida
+348,18-24,1.0,Locals,No Degree,300000,NOTSELECTED,Florida
+349,25-44,1.0,Locals,No Degree,550000,NOTSELECTED,Florida
+350,45+,1.0,Locals,No Degree,570000,NOTSELECTED,Florida
+351,18-24,2.0,Locals,No Degree,290000,NOTSELECTED,Florida
+352,25-44,2.0,Locals,No Degree,500000,NOTSELECTED,Florida
+353,45+,2.0,Locals,No Degree,750000,NOTSELECTED,Florida
+354,18-24,1.0,Locals,High School,330000,NOTSELECTED,Florida
+355,25-44,1.0,Locals,High School,570000,NOTSELECTED,Florida
+356,45+,1.0,Locals,High School,460000,NOTSELECTED,Florida
+357,18-24,2.0,Locals,High School,390000,NOTSELECTED,Florida
+358,25-44,2.0,Locals,High School,560000,NOTSELECTED,Florida
+359,45+,2.0,Locals,High School,770000,NOTSELECTED,Florida
+360,18-24,1.0,Expats,Graduated,26000,NOTSELECTED,Georgia
+361,25-44,1.0,Expats,Graduated,120000,NOTSELECTED,Georgia
+362,45+,1.0,Expats,Graduated,48000,NOTSELECTED,Georgia
+363,18-24,2.0,Expats,Graduated,21000,NOTSELECTED,Georgia
+364,25-44,2.0,Expats,Graduated,110000,NOTSELECTED,Georgia
+365,45+,2.0,Expats,Graduated,48000,NOTSELECTED,Georgia
+366,18-24,1.0,Expats,No Degree,32000,NOTSELECTED,Georgia
+367,25-44,1.0,Expats,No Degree,110000,NOTSELECTED,Georgia
+368,45+,1.0,Expats,No Degree,54000,NOTSELECTED,Georgia
+369,18-24,2.0,Expats,No Degree,25000,NOTSELECTED,Georgia
+370,25-44,2.0,Expats,No Degree,90000,NOTSELECTED,Georgia
+371,45+,2.0,Expats,No Degree,56000,NOTSELECTED,Georgia
+372,18-24,1.0,Expats,High School,25000,NOTSELECTED,Georgia
+373,25-44,1.0,Expats,High School,49000,NOTSELECTED,Georgia
+374,45+,1.0,Expats,High School,18000,NOTSELECTED,Georgia
+375,18-24,2.0,Expats,High School,26000,NOTSELECTED,Georgia
+376,25-44,2.0,Expats,High School,44000,NOTSELECTED,Georgia
+377,45+,2.0,Expats,High School,20000,NOTSELECTED,Georgia
+378,18-24,1.0,Locals,Graduated,160000,NOTSELECTED,Georgia
+379,25-44,1.0,Locals,Graduated,570000,NOTSELECTED,Georgia
+380,45+,1.0,Locals,Graduated,400000,NOTSELECTED,Georgia
+381,18-24,2.0,Locals,Graduated,160000,NOTSELECTED,Georgia
+382,25-44,2.0,Locals,Graduated,720000,NOTSELECTED,Georgia
+383,45+,2.0,Locals,Graduated,590000,NOTSELECTED,Georgia
+384,18-24,1.0,Locals,No Degree,180000,NOTSELECTED,Georgia
+385,25-44,1.0,Locals,No Degree,340000,NOTSELECTED,Georgia
+386,45+,1.0,Locals,No Degree,280000,NOTSELECTED,Georgia
+387,18-24,2.0,Locals,No Degree,170000,NOTSELECTED,Georgia
+388,25-44,2.0,Locals,No Degree,300000,NOTSELECTED,Georgia
+389,45+,2.0,Locals,No Degree,370000,NOTSELECTED,Georgia
+390,18-24,1.0,Locals,High School,210000,NOTSELECTED,Georgia
+391,25-44,1.0,Locals,High School,340000,NOTSELECTED,Georgia
+392,45+,1.0,Locals,High School,230000,NOTSELECTED,Georgia
+393,18-24,2.0,Locals,High School,260000,NOTSELECTED,Georgia
+394,25-44,2.0,Locals,High School,360000,NOTSELECTED,Georgia
+395,45+,2.0,Locals,High School,350000,NOTSELECTED,Georgia
+396,18-24,1.0,Expats,Graduated,5900,NOTSELECTED,Hawaii
+397,25-44,1.0,Expats,Graduated,19000,NOTSELECTED,Hawaii
+398,45+,1.0,Expats,Graduated,14000,NOTSELECTED,Hawaii
+399,18-24,2.0,Expats,Graduated,5700,NOTSELECTED,Hawaii
+400,25-44,2.0,Expats,Graduated,28000,NOTSELECTED,Hawaii
+401,45+,2.0,Expats,Graduated,19000,NOTSELECTED,Hawaii
+402,18-24,1.0,Expats,No Degree,5000,NOTSELECTED,Hawaii
+403,25-44,1.0,Expats,No Degree,14000,NOTSELECTED,Hawaii
+404,45+,1.0,Expats,No Degree,14000,NOTSELECTED,Hawaii
+405,18-24,2.0,Expats,No Degree,6300,NOTSELECTED,Hawaii
+406,25-44,2.0,Expats,No Degree,16000,NOTSELECTED,Hawaii
+407,45+,2.0,Expats,No Degree,20000,NOTSELECTED,Hawaii
+408,18-24,1.0,Expats,High School,5800,NOTSELECTED,Hawaii
+409,25-44,1.0,Expats,High School,9600,NOTSELECTED,Hawaii
+410,45+,1.0,Expats,High School,5900,NOTSELECTED,Hawaii
+411,18-24,2.0,Expats,High School,7600,NOTSELECTED,Hawaii
+412,25-44,2.0,Expats,High School,11000,NOTSELECTED,Hawaii
+413,45+,2.0,Expats,High School,8100,NOTSELECTED,Hawaii
+414,18-24,1.0,Locals,Graduated,18000,NOTSELECTED,Hawaii
+415,25-44,1.0,Locals,Graduated,74000,NOTSELECTED,Hawaii
+416,45+,1.0,Locals,Graduated,49000,NOTSELECTED,Hawaii
+417,18-24,2.0,Locals,Graduated,17000,NOTSELECTED,Hawaii
+418,25-44,2.0,Locals,Graduated,76000,NOTSELECTED,Hawaii
+419,45+,2.0,Locals,Graduated,55000,NOTSELECTED,Hawaii
+420,18-24,1.0,Locals,No Degree,19000,NOTSELECTED,Hawaii
+421,25-44,1.0,Locals,No Degree,41000,NOTSELECTED,Hawaii
+422,45+,1.0,Locals,No Degree,36000,NOTSELECTED,Hawaii
+423,18-24,2.0,Locals,No Degree,18000,NOTSELECTED,Hawaii
+424,25-44,2.0,Locals,No Degree,40000,NOTSELECTED,Hawaii
+425,45+,2.0,Locals,No Degree,46000,NOTSELECTED,Hawaii
+426,18-24,1.0,Locals,High School,27000,NOTSELECTED,Hawaii
+427,25-44,1.0,Locals,High School,46000,NOTSELECTED,Hawaii
+428,45+,1.0,Locals,High School,27000,NOTSELECTED,Hawaii
+429,18-24,2.0,Locals,High School,28000,NOTSELECTED,Hawaii
+430,25-44,2.0,Locals,High School,42000,NOTSELECTED,Hawaii
+431,45+,2.0,Locals,High School,34000,NOTSELECTED,Hawaii
+432,18-24,1.0,Expats,Graduated,2400,NOTSELECTED,Idaho
+433,25-44,1.0,Expats,Graduated,7900,NOTSELECTED,Idaho
+434,45+,1.0,Expats,Graduated,3100,NOTSELECTED,Idaho
+435,18-24,2.0,Expats,Graduated,1800,NOTSELECTED,Idaho
+436,25-44,2.0,Expats,Graduated,7200,NOTSELECTED,Idaho
+437,45+,2.0,Expats,Graduated,3400,NOTSELECTED,Idaho
+438,18-24,1.0,Expats,No Degree,2300,NOTSELECTED,Idaho
+439,25-44,1.0,Expats,No Degree,8300,NOTSELECTED,Idaho
+440,45+,1.0,Expats,No Degree,3800,NOTSELECTED,Idaho
+441,18-24,2.0,Expats,No Degree,2100,NOTSELECTED,Idaho
+442,25-44,2.0,Expats,No Degree,6800,NOTSELECTED,Idaho
+443,45+,2.0,Expats,No Degree,4200,NOTSELECTED,Idaho
+444,18-24,1.0,Expats,High School,2600,NOTSELECTED,Idaho
+445,25-44,1.0,Expats,High School,4300,NOTSELECTED,Idaho
+446,45+,1.0,Expats,High School,1100,NOTSELECTED,Idaho
+447,18-24,2.0,Expats,High School,2500,NOTSELECTED,Idaho
+448,25-44,2.0,Expats,High School,3700,NOTSELECTED,Idaho
+449,45+,2.0,Expats,High School,1700,NOTSELECTED,Idaho
+450,18-24,1.0,Locals,Graduated,25000,NOTSELECTED,Idaho
+451,25-44,1.0,Locals,Graduated,82000,NOTSELECTED,Idaho
+452,45+,1.0,Locals,Graduated,68000,NOTSELECTED,Idaho
+453,18-24,2.0,Locals,Graduated,24000,NOTSELECTED,Idaho
+454,25-44,2.0,Locals,Graduated,100000,NOTSELECTED,Idaho
+455,45+,2.0,Locals,Graduated,97000,NOTSELECTED,Idaho
+456,18-24,1.0,Locals,No Degree,24000,NOTSELECTED,Idaho
+457,25-44,1.0,Locals,No Degree,38000,NOTSELECTED,Idaho
+458,45+,1.0,Locals,No Degree,36000,NOTSELECTED,Idaho
+459,18-24,2.0,Locals,No Degree,25000,NOTSELECTED,Idaho
+460,25-44,2.0,Locals,No Degree,37000,NOTSELECTED,Idaho
+461,45+,2.0,Locals,No Degree,52000,NOTSELECTED,Idaho
+462,18-24,1.0,Locals,High School,40000,NOTSELECTED,Idaho
+463,25-44,1.0,Locals,High School,56000,NOTSELECTED,Idaho
+464,45+,1.0,Locals,High School,37000,NOTSELECTED,Idaho
+465,18-24,2.0,Locals,High School,46000,NOTSELECTED,Idaho
+466,25-44,2.0,Locals,High School,60000,NOTSELECTED,Idaho
+467,45+,2.0,Locals,High School,61000,NOTSELECTED,Idaho
+468,18-24,1.0,Expats,Graduated,35000,NOTSELECTED,Illinois
+469,25-44,1.0,Expats,Graduated,170000,NOTSELECTED,Illinois
+470,45+,1.0,Expats,Graduated,73000,NOTSELECTED,Illinois
+471,18-24,2.0,Expats,Graduated,29000,NOTSELECTED,Illinois
+472,25-44,2.0,Expats,Graduated,160000,NOTSELECTED,Illinois
+473,45+,2.0,Expats,Graduated,69000,NOTSELECTED,Illinois
+474,18-24,1.0,Expats,No Degree,31000,NOTSELECTED,Illinois
+475,25-44,1.0,Expats,No Degree,140000,NOTSELECTED,Illinois
+476,45+,1.0,Expats,No Degree,92000,NOTSELECTED,Illinois
+477,18-24,2.0,Expats,No Degree,29000,NOTSELECTED,Illinois
+478,25-44,2.0,Expats,No Degree,130000,NOTSELECTED,Illinois
+479,45+,2.0,Expats,No Degree,100000,NOTSELECTED,Illinois
+480,18-24,1.0,Expats,High School,32000,NOTSELECTED,Illinois
+481,25-44,1.0,Expats,High School,68000,NOTSELECTED,Illinois
+482,45+,1.0,Expats,High School,28000,NOTSELECTED,Illinois
+483,18-24,2.0,Expats,High School,34000,NOTSELECTED,Illinois
+484,25-44,2.0,Expats,High School,64000,NOTSELECTED,Illinois
+485,45+,2.0,Expats,High School,30000,NOTSELECTED,Illinois
+486,18-24,1.0,Locals,Graduated,200000,NOTSELECTED,Illinois
+487,25-44,1.0,Locals,Graduated,710000,NOTSELECTED,Illinois
+488,45+,1.0,Locals,Graduated,440000,NOTSELECTED,Illinois
+489,18-24,2.0,Locals,Graduated,190000,NOTSELECTED,Illinois
+490,25-44,2.0,Locals,Graduated,870000,NOTSELECTED,Illinois
+491,45+,2.0,Locals,Graduated,670000,NOTSELECTED,Illinois
+492,18-24,1.0,Locals,No Degree,210000,NOTSELECTED,Illinois
+493,25-44,1.0,Locals,No Degree,370000,NOTSELECTED,Illinois
+494,45+,1.0,Locals,No Degree,320000,NOTSELECTED,Illinois
+495,18-24,2.0,Locals,No Degree,210000,NOTSELECTED,Illinois
+496,25-44,2.0,Locals,No Degree,320000,NOTSELECTED,Illinois
+497,45+,2.0,Locals,No Degree,420000,NOTSELECTED,Illinois
+498,18-24,1.0,Locals,High School,260000,NOTSELECTED,Illinois
+499,25-44,1.0,Locals,High School,370000,NOTSELECTED,Illinois
+500,45+,1.0,Locals,High School,250000,NOTSELECTED,Illinois
+501,18-24,2.0,Locals,High School,300000,NOTSELECTED,Illinois
+502,25-44,2.0,Locals,High School,360000,NOTSELECTED,Illinois
+503,45+,2.0,Locals,High School,400000,NOTSELECTED,Illinois
+504,18-24,1.0,Expats,Graduated,13000,NOTSELECTED,Indiana
+505,25-44,1.0,Expats,Graduated,41000,NOTSELECTED,Indiana
+506,45+,1.0,Expats,Graduated,14000,NOTSELECTED,Indiana
+507,18-24,2.0,Expats,Graduated,8600,NOTSELECTED,Indiana
+508,25-44,2.0,Expats,Graduated,32000,NOTSELECTED,Indiana
+509,45+,2.0,Expats,Graduated,13000,NOTSELECTED,Indiana
+510,18-24,1.0,Expats,No Degree,10000,NOTSELECTED,Indiana
+511,25-44,1.0,Expats,No Degree,35000,NOTSELECTED,Indiana
+512,45+,1.0,Expats,No Degree,15000,NOTSELECTED,Indiana
+513,18-24,2.0,Expats,No Degree,8400,NOTSELECTED,Indiana
+514,25-44,2.0,Expats,No Degree,28000,NOTSELECTED,Indiana
+515,45+,2.0,Expats,No Degree,15000,NOTSELECTED,Indiana
+516,18-24,1.0,Expats,High School,12000,NOTSELECTED,Indiana
+517,25-44,1.0,Expats,High School,17000,NOTSELECTED,Indiana
+518,45+,1.0,Expats,High School,5300,NOTSELECTED,Indiana
+519,18-24,2.0,Expats,High School,11000,NOTSELECTED,Indiana
+520,25-44,2.0,Expats,High School,14000,NOTSELECTED,Indiana
+521,45+,2.0,Expats,High School,5500,NOTSELECTED,Indiana
+522,18-24,1.0,Locals,Graduated,100000,NOTSELECTED,Indiana
+523,25-44,1.0,Locals,Graduated,350000,NOTSELECTED,Indiana
+524,45+,1.0,Locals,Graduated,250000,NOTSELECTED,Indiana
+525,18-24,2.0,Locals,Graduated,99000,NOTSELECTED,Indiana
+526,25-44,2.0,Locals,Graduated,440000,NOTSELECTED,Indiana
+527,45+,2.0,Locals,Graduated,380000,NOTSELECTED,Indiana
+528,18-24,1.0,Locals,No Degree,100000,NOTSELECTED,Indiana
+529,25-44,1.0,Locals,No Degree,160000,NOTSELECTED,Indiana
+530,45+,1.0,Locals,No Degree,150000,NOTSELECTED,Indiana
+531,18-24,2.0,Locals,No Degree,100000,NOTSELECTED,Indiana
+532,25-44,2.0,Locals,No Degree,140000,NOTSELECTED,Indiana
+533,45+,2.0,Locals,No Degree,210000,NOTSELECTED,Indiana
+534,18-24,1.0,Locals,High School,160000,NOTSELECTED,Indiana
+535,25-44,1.0,Locals,High School,250000,NOTSELECTED,Indiana
+536,45+,1.0,Locals,High School,180000,NOTSELECTED,Indiana
+537,18-24,2.0,Locals,High School,180000,NOTSELECTED,Indiana
+538,25-44,2.0,Locals,High School,250000,NOTSELECTED,Indiana
+539,45+,2.0,Locals,High School,300000,NOTSELECTED,Indiana
+540,18-24,1.0,Expats,Graduated,6200,NOTSELECTED,Iowa
+541,25-44,1.0,Expats,Graduated,18000,NOTSELECTED,Iowa
+542,45+,1.0,Expats,Graduated,5700,NOTSELECTED,Iowa
+543,18-24,2.0,Expats,Graduated,4100,NOTSELECTED,Iowa
+544,25-44,2.0,Expats,Graduated,14000,NOTSELECTED,Iowa
+545,45+,2.0,Expats,Graduated,5100,NOTSELECTED,Iowa
+546,18-24,1.0,Expats,No Degree,5400,NOTSELECTED,Iowa
+547,25-44,1.0,Expats,No Degree,15000,NOTSELECTED,Iowa
+548,45+,1.0,Expats,No Degree,7000,NOTSELECTED,Iowa
+549,18-24,2.0,Expats,No Degree,4300,NOTSELECTED,Iowa
+550,25-44,2.0,Expats,No Degree,13000,NOTSELECTED,Iowa
+551,45+,2.0,Expats,No Degree,6500,NOTSELECTED,Iowa
+552,18-24,1.0,Expats,High School,6000,NOTSELECTED,Iowa
+553,25-44,1.0,Expats,High School,7400,NOTSELECTED,Iowa
+554,45+,1.0,Expats,High School,2300,NOTSELECTED,Iowa
+555,18-24,2.0,Expats,High School,5700,NOTSELECTED,Iowa
+556,25-44,2.0,Expats,High School,6100,NOTSELECTED,Iowa
+557,45+,2.0,Expats,High School,2500,NOTSELECTED,Iowa
+558,18-24,1.0,Locals,Graduated,54000,NOTSELECTED,Iowa
+559,25-44,1.0,Locals,Graduated,180000,NOTSELECTED,Iowa
+560,45+,1.0,Locals,Graduated,120000,NOTSELECTED,Iowa
+561,18-24,2.0,Locals,Graduated,48000,NOTSELECTED,Iowa
+562,25-44,2.0,Locals,Graduated,220000,NOTSELECTED,Iowa
+563,45+,2.0,Locals,Graduated,200000,NOTSELECTED,Iowa
+564,18-24,1.0,Locals,No Degree,41000,NOTSELECTED,Iowa
+565,25-44,1.0,Locals,No Degree,70000,NOTSELECTED,Iowa
+566,45+,1.0,Locals,No Degree,72000,NOTSELECTED,Iowa
+567,18-24,2.0,Locals,No Degree,41000,NOTSELECTED,Iowa
+568,25-44,2.0,Locals,No Degree,59000,NOTSELECTED,Iowa
+569,45+,2.0,Locals,No Degree,100000,NOTSELECTED,Iowa
+570,18-24,1.0,Locals,High School,78000,NOTSELECTED,Iowa
+571,25-44,1.0,Locals,High School,100000,NOTSELECTED,Iowa
+572,45+,1.0,Locals,High School,75000,NOTSELECTED,Iowa
+573,18-24,2.0,Locals,High School,88000,NOTSELECTED,Iowa
+574,25-44,2.0,Locals,High School,95000,NOTSELECTED,Iowa
+575,45+,2.0,Locals,High School,130000,NOTSELECTED,Iowa
+576,18-24,1.0,Expats,Graduated,6000,NOTSELECTED,Kansas
+577,25-44,1.0,Expats,Graduated,21000,NOTSELECTED,Kansas
+578,45+,1.0,Expats,Graduated,6900,NOTSELECTED,Kansas
+579,18-24,2.0,Expats,Graduated,4800,NOTSELECTED,Kansas
+580,25-44,2.0,Expats,Graduated,18000,NOTSELECTED,Kansas
+581,45+,2.0,Expats,Graduated,6900,NOTSELECTED,Kansas
+582,18-24,1.0,Expats,No Degree,5800,NOTSELECTED,Kansas
+583,25-44,1.0,Expats,No Degree,18000,NOTSELECTED,Kansas
+584,45+,1.0,Expats,No Degree,9800,NOTSELECTED,Kansas
+585,18-24,2.0,Expats,No Degree,5100,NOTSELECTED,Kansas
+586,25-44,2.0,Expats,No Degree,16000,NOTSELECTED,Kansas
+587,45+,2.0,Expats,No Degree,11000,NOTSELECTED,Kansas
+588,18-24,1.0,Expats,High School,5700,NOTSELECTED,Kansas
+589,25-44,1.0,Expats,High School,9400,NOTSELECTED,Kansas
+590,45+,1.0,Expats,High School,3000,NOTSELECTED,Kansas
+591,18-24,2.0,Expats,High School,5500,NOTSELECTED,Kansas
+592,25-44,2.0,Expats,High School,9200,NOTSELECTED,Kansas
+593,45+,2.0,Expats,High School,3300,NOTSELECTED,Kansas
+594,18-24,1.0,Locals,Graduated,47000,NOTSELECTED,Kansas
+595,25-44,1.0,Locals,Graduated,160000,NOTSELECTED,Kansas
+596,45+,1.0,Locals,Graduated,120000,NOTSELECTED,Kansas
+597,18-24,2.0,Locals,Graduated,42000,NOTSELECTED,Kansas
+598,25-44,2.0,Locals,Graduated,200000,NOTSELECTED,Kansas
+599,45+,2.0,Locals,Graduated,180000,NOTSELECTED,Kansas
+600,18-24,1.0,Locals,No Degree,41000,NOTSELECTED,Kansas
+601,25-44,1.0,Locals,No Degree,70000,NOTSELECTED,Kansas
+602,45+,1.0,Locals,No Degree,65000,NOTSELECTED,Kansas
+603,18-24,2.0,Locals,No Degree,40000,NOTSELECTED,Kansas
+604,25-44,2.0,Locals,No Degree,61000,NOTSELECTED,Kansas
+605,45+,2.0,Locals,No Degree,90000,NOTSELECTED,Kansas
+606,18-24,1.0,Locals,High School,68000,NOTSELECTED,Kansas
+607,25-44,1.0,Locals,High School,94000,NOTSELECTED,Kansas
+608,45+,1.0,Locals,High School,66000,NOTSELECTED,Kansas
+609,18-24,2.0,Locals,High School,75000,NOTSELECTED,Kansas
+610,25-44,2.0,Locals,High School,95000,NOTSELECTED,Kansas
+611,45+,2.0,Locals,High School,110000,NOTSELECTED,Kansas
+612,18-24,1.0,Expats,Graduated,7100,NOTSELECTED,Kentucky
+613,25-44,1.0,Expats,Graduated,25000,NOTSELECTED,Kentucky
+614,45+,1.0,Expats,Graduated,7600,NOTSELECTED,Kentucky
+615,18-24,2.0,Expats,Graduated,4800,NOTSELECTED,Kentucky
+616,25-44,2.0,Expats,Graduated,18000,NOTSELECTED,Kentucky
+617,45+,2.0,Expats,Graduated,6400,NOTSELECTED,Kentucky
+618,18-24,1.0,Expats,No Degree,7100,NOTSELECTED,Kentucky
+619,25-44,1.0,Expats,No Degree,20000,NOTSELECTED,Kentucky
+620,45+,1.0,Expats,No Degree,7600,NOTSELECTED,Kentucky
+621,18-24,2.0,Expats,No Degree,5800,NOTSELECTED,Kentucky
+622,25-44,2.0,Expats,No Degree,14000,NOTSELECTED,Kentucky
+623,45+,2.0,Expats,No Degree,7500,NOTSELECTED,Kentucky
+624,18-24,1.0,Expats,High School,6000,NOTSELECTED,Kentucky
+625,25-44,1.0,Expats,High School,9900,NOTSELECTED,Kentucky
+626,45+,1.0,Expats,High School,2900,NOTSELECTED,Kentucky
+627,18-24,2.0,Expats,High School,5200,NOTSELECTED,Kentucky
+628,25-44,2.0,Expats,High School,7300,NOTSELECTED,Kentucky
+629,45+,2.0,Expats,High School,3000,NOTSELECTED,Kentucky
+630,18-24,1.0,Locals,Graduated,71000,NOTSELECTED,Kentucky
+631,25-44,1.0,Locals,Graduated,240000,NOTSELECTED,Kentucky
+632,45+,1.0,Locals,Graduated,170000,NOTSELECTED,Kentucky
+633,18-24,2.0,Locals,Graduated,67000,NOTSELECTED,Kentucky
+634,25-44,2.0,Locals,Graduated,300000,NOTSELECTED,Kentucky
+635,45+,2.0,Locals,Graduated,260000,NOTSELECTED,Kentucky
+636,18-24,1.0,Locals,No Degree,65000,NOTSELECTED,Kentucky
+637,25-44,1.0,Locals,No Degree,120000,NOTSELECTED,Kentucky
+638,45+,1.0,Locals,No Degree,110000,NOTSELECTED,Kentucky
+639,18-24,2.0,Locals,No Degree,67000,NOTSELECTED,Kentucky
+640,25-44,2.0,Locals,No Degree,110000,NOTSELECTED,Kentucky
+641,45+,2.0,Locals,No Degree,160000,NOTSELECTED,Kentucky
+642,18-24,1.0,Locals,High School,100000,NOTSELECTED,Kentucky
+643,25-44,1.0,Locals,High School,180000,NOTSELECTED,Kentucky
+644,45+,1.0,Locals,High School,120000,NOTSELECTED,Kentucky
+645,18-24,2.0,Locals,High School,120000,NOTSELECTED,Kentucky
+646,25-44,2.0,Locals,High School,180000,NOTSELECTED,Kentucky
+647,45+,2.0,Locals,High School,200000,NOTSELECTED,Kentucky
+648,18-24,1.0,Expats,Graduated,7300,NOTSELECTED,Louisiana
+649,25-44,1.0,Expats,Graduated,26000,NOTSELECTED,Louisiana
+650,45+,1.0,Expats,Graduated,9100,NOTSELECTED,Louisiana
+651,18-24,2.0,Expats,Graduated,5000,NOTSELECTED,Louisiana
+652,25-44,2.0,Expats,Graduated,19000,NOTSELECTED,Louisiana
+653,45+,2.0,Expats,Graduated,8300,NOTSELECTED,Louisiana
+654,18-24,1.0,Expats,No Degree,8600,NOTSELECTED,Louisiana
+655,25-44,1.0,Expats,No Degree,25000,NOTSELECTED,Louisiana
+656,45+,1.0,Expats,No Degree,11000,NOTSELECTED,Louisiana
+657,18-24,2.0,Expats,No Degree,5900,NOTSELECTED,Louisiana
+658,25-44,2.0,Expats,No Degree,16000,NOTSELECTED,Louisiana
+659,45+,2.0,Expats,No Degree,9300,NOTSELECTED,Louisiana
+660,18-24,1.0,Expats,High School,6100,NOTSELECTED,Louisiana
+661,25-44,1.0,Expats,High School,11000,NOTSELECTED,Louisiana
+662,45+,1.0,Expats,High School,3400,NOTSELECTED,Louisiana
+663,18-24,2.0,Expats,High School,5400,NOTSELECTED,Louisiana
+664,25-44,2.0,Expats,High School,8600,NOTSELECTED,Louisiana
+665,45+,2.0,Expats,High School,3700,NOTSELECTED,Louisiana
+666,18-24,1.0,Locals,Graduated,68000,NOTSELECTED,Louisiana
+667,25-44,1.0,Locals,Graduated,240000,NOTSELECTED,Louisiana
+668,45+,1.0,Locals,Graduated,150000,NOTSELECTED,Louisiana
+669,18-24,2.0,Locals,Graduated,69000,NOTSELECTED,Louisiana
+670,25-44,2.0,Locals,Graduated,320000,NOTSELECTED,Louisiana
+671,45+,2.0,Locals,Graduated,240000,NOTSELECTED,Louisiana
+672,18-24,1.0,Locals,No Degree,67000,NOTSELECTED,Louisiana
+673,25-44,1.0,Locals,No Degree,140000,NOTSELECTED,Louisiana
+674,45+,1.0,Locals,No Degree,120000,NOTSELECTED,Louisiana
+675,18-24,2.0,Locals,No Degree,68000,NOTSELECTED,Louisiana
+676,25-44,2.0,Locals,No Degree,120000,NOTSELECTED,Louisiana
+677,45+,2.0,Locals,No Degree,170000,NOTSELECTED,Louisiana
+678,18-24,1.0,Locals,High School,92000,NOTSELECTED,Louisiana
+679,25-44,1.0,Locals,High School,170000,NOTSELECTED,Louisiana
+680,45+,1.0,Locals,High School,110000,NOTSELECTED,Louisiana
+681,18-24,2.0,Locals,High School,110000,NOTSELECTED,Louisiana
+682,25-44,2.0,Locals,High School,190000,NOTSELECTED,Louisiana
+683,45+,2.0,Locals,High School,190000,NOTSELECTED,Louisiana
+684,18-24,1.0,Expats,Graduated,1600,NOTSELECTED,Maine
+685,25-44,1.0,Expats,Graduated,5100,NOTSELECTED,Maine
+686,45+,1.0,Expats,Graduated,2800,NOTSELECTED,Maine
+687,18-24,2.0,Expats,Graduated,1200,NOTSELECTED,Maine
+688,25-44,2.0,Expats,Graduated,5100,NOTSELECTED,Maine
+689,45+,2.0,Expats,Graduated,3100,NOTSELECTED,Maine
+690,18-24,1.0,Expats,No Degree,1300,NOTSELECTED,Maine
+691,25-44,1.0,Expats,No Degree,2800,NOTSELECTED,Maine
+692,45+,1.0,Expats,No Degree,2300,NOTSELECTED,Maine
+693,18-24,2.0,Expats,No Degree,1200,NOTSELECTED,Maine
+694,25-44,2.0,Expats,No Degree,2700,NOTSELECTED,Maine
+695,45+,2.0,Expats,No Degree,2600,NOTSELECTED,Maine
+696,18-24,1.0,Expats,High School,1400,NOTSELECTED,Maine
+697,25-44,1.0,Expats,High School,2000,NOTSELECTED,Maine
+698,45+,1.0,Expats,High School,1000,NOTSELECTED,Maine
+699,18-24,2.0,Expats,High School,1400,NOTSELECTED,Maine
+700,25-44,2.0,Expats,High School,1800,NOTSELECTED,Maine
+701,45+,2.0,Expats,High School,1600,NOTSELECTED,Maine
+702,18-24,1.0,Locals,Graduated,18000,NOTSELECTED,Maine
+703,25-44,1.0,Locals,Graduated,67000,NOTSELECTED,Maine
+704,45+,1.0,Locals,Graduated,62000,NOTSELECTED,Maine
+705,18-24,2.0,Locals,Graduated,16000,NOTSELECTED,Maine
+706,25-44,2.0,Locals,Graduated,86000,NOTSELECTED,Maine
+707,45+,2.0,Locals,Graduated,100000,NOTSELECTED,Maine
+708,18-24,1.0,Locals,No Degree,15000,NOTSELECTED,Maine
+709,25-44,1.0,Locals,No Degree,29000,NOTSELECTED,Maine
+710,45+,1.0,Locals,No Degree,36000,NOTSELECTED,Maine
+711,18-24,2.0,Locals,No Degree,16000,NOTSELECTED,Maine
+712,25-44,2.0,Locals,No Degree,25000,NOTSELECTED,Maine
+713,45+,2.0,Locals,No Degree,53000,NOTSELECTED,Maine
+714,18-24,1.0,Locals,High School,29000,NOTSELECTED,Maine
+715,25-44,1.0,Locals,High School,49000,NOTSELECTED,Maine
+716,45+,1.0,Locals,High School,40000,NOTSELECTED,Maine
+717,18-24,2.0,Locals,High School,33000,NOTSELECTED,Maine
+718,25-44,2.0,Locals,High School,50000,NOTSELECTED,Maine
+719,45+,2.0,Locals,High School,66000,NOTSELECTED,Maine
+720,18-24,1.0,Expats,Graduated,21000,NOTSELECTED,Maryland
+721,25-44,1.0,Expats,Graduated,95000,NOTSELECTED,Maryland
+722,45+,1.0,Expats,Graduated,44000,NOTSELECTED,Maryland
+723,18-24,2.0,Expats,Graduated,18000,NOTSELECTED,Maryland
+724,25-44,2.0,Expats,Graduated,90000,NOTSELECTED,Maryland
+725,45+,2.0,Expats,Graduated,43000,NOTSELECTED,Maryland
+726,18-24,1.0,Expats,No Degree,25000,NOTSELECTED,Maryland
+727,25-44,1.0,Expats,No Degree,77000,NOTSELECTED,Maryland
+728,45+,1.0,Expats,No Degree,42000,NOTSELECTED,Maryland
+729,18-24,2.0,Expats,No Degree,21000,NOTSELECTED,Maryland
+730,25-44,2.0,Expats,No Degree,68000,NOTSELECTED,Maryland
+731,45+,2.0,Expats,No Degree,47000,NOTSELECTED,Maryland
+732,18-24,1.0,Expats,High School,18000,NOTSELECTED,Maryland
+733,25-44,1.0,Expats,High School,37000,NOTSELECTED,Maryland
+734,45+,1.0,Expats,High School,15000,NOTSELECTED,Maryland
+735,18-24,2.0,Expats,High School,18000,NOTSELECTED,Maryland
+736,25-44,2.0,Expats,High School,35000,NOTSELECTED,Maryland
+737,45+,2.0,Expats,High School,16000,NOTSELECTED,Maryland
+738,18-24,1.0,Locals,Graduated,79000,NOTSELECTED,Maryland
+739,25-44,1.0,Locals,Graduated,300000,NOTSELECTED,Maryland
+740,45+,1.0,Locals,Graduated,220000,NOTSELECTED,Maryland
+741,18-24,2.0,Locals,Graduated,76000,NOTSELECTED,Maryland
+742,25-44,2.0,Locals,Graduated,370000,NOTSELECTED,Maryland
+743,45+,2.0,Locals,Graduated,320000,NOTSELECTED,Maryland
+744,18-24,1.0,Locals,No Degree,85000,NOTSELECTED,Maryland
+745,25-44,1.0,Locals,No Degree,160000,NOTSELECTED,Maryland
+746,45+,1.0,Locals,No Degree,140000,NOTSELECTED,Maryland
+747,18-24,2.0,Locals,No Degree,76000,NOTSELECTED,Maryland
+748,25-44,2.0,Locals,No Degree,140000,NOTSELECTED,Maryland
+749,45+,2.0,Locals,No Degree,200000,NOTSELECTED,Maryland
+750,18-24,1.0,Locals,High School,100000,NOTSELECTED,Maryland
+751,25-44,1.0,Locals,High School,170000,NOTSELECTED,Maryland
+752,45+,1.0,Locals,High School,120000,NOTSELECTED,Maryland
+753,18-24,2.0,Locals,High School,110000,NOTSELECTED,Maryland
+754,25-44,2.0,Locals,High School,170000,NOTSELECTED,Maryland
+755,45+,2.0,Locals,High School,180000,NOTSELECTED,Maryland
+756,18-24,1.0,Expats,Graduated,30000,NOTSELECTED,Massachusetts
+757,25-44,1.0,Expats,Graduated,120000,NOTSELECTED,Massachusetts
+758,45+,1.0,Expats,Graduated,50000,NOTSELECTED,Massachusetts
+759,18-24,2.0,Expats,Graduated,25000,NOTSELECTED,Massachusetts
+760,25-44,2.0,Expats,Graduated,120000,NOTSELECTED,Massachusetts
+761,45+,2.0,Expats,Graduated,51000,NOTSELECTED,Massachusetts
+762,18-24,1.0,Expats,No Degree,24000,NOTSELECTED,Massachusetts
+763,25-44,1.0,Expats,No Degree,73000,NOTSELECTED,Massachusetts
+764,45+,1.0,Expats,No Degree,52000,NOTSELECTED,Massachusetts
+765,18-24,2.0,Expats,No Degree,24000,NOTSELECTED,Massachusetts
+766,25-44,2.0,Expats,No Degree,69000,NOTSELECTED,Massachusetts
+767,45+,2.0,Expats,No Degree,59000,NOTSELECTED,Massachusetts
+768,18-24,1.0,Expats,High School,28000,NOTSELECTED,Massachusetts
+769,25-44,1.0,Expats,High School,42000,NOTSELECTED,Massachusetts
+770,45+,1.0,Expats,High School,19000,NOTSELECTED,Massachusetts
+771,18-24,2.0,Expats,High School,30000,NOTSELECTED,Massachusetts
+772,25-44,2.0,Expats,High School,41000,NOTSELECTED,Massachusetts
+773,45+,2.0,Expats,High School,21000,NOTSELECTED,Massachusetts
+774,18-24,1.0,Locals,Graduated,97000,NOTSELECTED,Massachusetts
+775,25-44,1.0,Locals,Graduated,350000,NOTSELECTED,Massachusetts
+776,45+,1.0,Locals,Graduated,250000,NOTSELECTED,Massachusetts
+777,18-24,2.0,Locals,Graduated,92000,NOTSELECTED,Massachusetts
+778,25-44,2.0,Locals,Graduated,450000,NOTSELECTED,Massachusetts
+779,45+,2.0,Locals,Graduated,380000,NOTSELECTED,Massachusetts
+780,18-24,1.0,Locals,No Degree,90000,NOTSELECTED,Massachusetts
+781,25-44,1.0,Locals,No Degree,170000,NOTSELECTED,Massachusetts
+782,45+,1.0,Locals,No Degree,170000,NOTSELECTED,Massachusetts
+783,18-24,2.0,Locals,No Degree,83000,NOTSELECTED,Massachusetts
+784,25-44,2.0,Locals,No Degree,150000,NOTSELECTED,Massachusetts
+785,45+,2.0,Locals,No Degree,230000,NOTSELECTED,Massachusetts
+786,18-24,1.0,Locals,High School,130000,NOTSELECTED,Massachusetts
+787,25-44,1.0,Locals,High School,170000,NOTSELECTED,Massachusetts
+788,45+,1.0,Locals,High School,130000,NOTSELECTED,Massachusetts
+789,18-24,2.0,Locals,High School,160000,NOTSELECTED,Massachusetts
+790,25-44,2.0,Locals,High School,160000,NOTSELECTED,Massachusetts
+791,45+,2.0,Locals,High School,200000,NOTSELECTED,Massachusetts
+792,18-24,1.0,Expats,Graduated,19000,NOTSELECTED,Michigan
+793,25-44,1.0,Expats,Graduated,66000,NOTSELECTED,Michigan
+794,45+,1.0,Expats,Graduated,29000,NOTSELECTED,Michigan
+795,18-24,2.0,Expats,Graduated,12000,NOTSELECTED,Michigan
+796,25-44,2.0,Expats,Graduated,56000,NOTSELECTED,Michigan
+797,45+,2.0,Expats,Graduated,26000,NOTSELECTED,Michigan
+798,18-24,1.0,Expats,No Degree,13000,NOTSELECTED,Michigan
+799,25-44,1.0,Expats,No Degree,41000,NOTSELECTED,Michigan
+800,45+,1.0,Expats,No Degree,29000,NOTSELECTED,Michigan
+801,18-24,2.0,Expats,No Degree,12000,NOTSELECTED,Michigan
+802,25-44,2.0,Expats,No Degree,37000,NOTSELECTED,Michigan
+803,45+,2.0,Expats,No Degree,30000,NOTSELECTED,Michigan
+804,18-24,1.0,Expats,High School,16000,NOTSELECTED,Michigan
+805,25-44,1.0,Expats,High School,20000,NOTSELECTED,Michigan
+806,45+,1.0,Expats,High School,9500,NOTSELECTED,Michigan
+807,18-24,2.0,Expats,High School,15000,NOTSELECTED,Michigan
+808,25-44,2.0,Expats,High School,18000,NOTSELECTED,Michigan
+809,45+,2.0,Expats,High School,10000,NOTSELECTED,Michigan
+810,18-24,1.0,Locals,Graduated,160000,NOTSELECTED,Michigan
+811,25-44,1.0,Locals,Graduated,520000,NOTSELECTED,Michigan
+812,45+,1.0,Locals,Graduated,400000,NOTSELECTED,Michigan
+813,18-24,2.0,Locals,Graduated,140000,NOTSELECTED,Michigan
+814,25-44,2.0,Locals,Graduated,650000,NOTSELECTED,Michigan
+815,45+,2.0,Locals,Graduated,590000,NOTSELECTED,Michigan
+816,18-24,1.0,Locals,No Degree,140000,NOTSELECTED,Michigan
+817,25-44,1.0,Locals,No Degree,250000,NOTSELECTED,Michigan
+818,45+,1.0,Locals,No Degree,250000,NOTSELECTED,Michigan
+819,18-24,2.0,Locals,No Degree,140000,NOTSELECTED,Michigan
+820,25-44,2.0,Locals,No Degree,230000,NOTSELECTED,Michigan
+821,45+,2.0,Locals,No Degree,350000,NOTSELECTED,Michigan
+822,18-24,1.0,Locals,High School,220000,NOTSELECTED,Michigan
+823,25-44,1.0,Locals,High School,330000,NOTSELECTED,Michigan
+824,45+,1.0,Locals,High School,240000,NOTSELECTED,Michigan
+825,18-24,2.0,Locals,High School,260000,NOTSELECTED,Michigan
+826,25-44,2.0,Locals,High School,340000,NOTSELECTED,Michigan
+827,45+,2.0,Locals,High School,410000,NOTSELECTED,Michigan
+828,18-24,1.0,Expats,Graduated,11000,NOTSELECTED,Minnesota
+829,25-44,1.0,Expats,Graduated,48000,NOTSELECTED,Minnesota
+830,45+,1.0,Expats,Graduated,17000,NOTSELECTED,Minnesota
+831,18-24,2.0,Expats,Graduated,9000,NOTSELECTED,Minnesota
+832,25-44,2.0,Expats,Graduated,39000,NOTSELECTED,Minnesota
+833,45+,2.0,Expats,Graduated,14000,NOTSELECTED,Minnesota
+834,18-24,1.0,Expats,No Degree,10000,NOTSELECTED,Minnesota
+835,25-44,1.0,Expats,No Degree,32000,NOTSELECTED,Minnesota
+836,45+,1.0,Expats,No Degree,17000,NOTSELECTED,Minnesota
+837,18-24,2.0,Expats,No Degree,10000,NOTSELECTED,Minnesota
+838,25-44,2.0,Expats,No Degree,31000,NOTSELECTED,Minnesota
+839,45+,2.0,Expats,No Degree,17000,NOTSELECTED,Minnesota
+840,18-24,1.0,Expats,High School,10000,NOTSELECTED,Minnesota
+841,25-44,1.0,Expats,High School,17000,NOTSELECTED,Minnesota
+842,45+,1.0,Expats,High School,5700,NOTSELECTED,Minnesota
+843,18-24,2.0,Expats,High School,11000,NOTSELECTED,Minnesota
+844,25-44,2.0,Expats,High School,15000,NOTSELECTED,Minnesota
+845,45+,2.0,Expats,High School,5700,NOTSELECTED,Minnesota
+846,18-24,1.0,Locals,Graduated,81000,NOTSELECTED,Minnesota
+847,25-44,1.0,Locals,Graduated,320000,NOTSELECTED,Minnesota
+848,45+,1.0,Locals,Graduated,220000,NOTSELECTED,Minnesota
+849,18-24,2.0,Locals,Graduated,74000,NOTSELECTED,Minnesota
+850,25-44,2.0,Locals,Graduated,390000,NOTSELECTED,Minnesota
+851,45+,2.0,Locals,Graduated,330000,NOTSELECTED,Minnesota
+852,18-24,1.0,Locals,No Degree,74000,NOTSELECTED,Minnesota
+853,25-44,1.0,Locals,No Degree,130000,NOTSELECTED,Minnesota
+854,45+,1.0,Locals,No Degree,120000,NOTSELECTED,Minnesota
+855,18-24,2.0,Locals,No Degree,73000,NOTSELECTED,Minnesota
+856,25-44,2.0,Locals,No Degree,120000,NOTSELECTED,Minnesota
+857,45+,2.0,Locals,No Degree,180000,NOTSELECTED,Minnesota
+858,18-24,1.0,Locals,High School,110000,NOTSELECTED,Minnesota
+859,25-44,1.0,Locals,High School,170000,NOTSELECTED,Minnesota
+860,45+,1.0,Locals,High School,110000,NOTSELECTED,Minnesota
+861,18-24,2.0,Locals,High School,130000,NOTSELECTED,Minnesota
+862,25-44,2.0,Locals,High School,160000,NOTSELECTED,Minnesota
+863,45+,2.0,Locals,High School,190000,NOTSELECTED,Minnesota
+864,18-24,1.0,Expats,Graduated,3000,NOTSELECTED,Mississippi
+865,25-44,1.0,Expats,Graduated,9300,NOTSELECTED,Mississippi
+866,45+,1.0,Expats,Graduated,3400,NOTSELECTED,Mississippi
+867,18-24,2.0,Expats,Graduated,2000,NOTSELECTED,Mississippi
+868,25-44,2.0,Expats,Graduated,7200,NOTSELECTED,Mississippi
+869,45+,2.0,Expats,Graduated,3300,NOTSELECTED,Mississippi
+870,18-24,1.0,Expats,No Degree,3600,NOTSELECTED,Mississippi
+871,25-44,1.0,Expats,No Degree,9500,NOTSELECTED,Mississippi
+872,45+,1.0,Expats,No Degree,3500,NOTSELECTED,Mississippi
+873,18-24,2.0,Expats,No Degree,2000,NOTSELECTED,Mississippi
+874,25-44,2.0,Expats,No Degree,6300,NOTSELECTED,Mississippi
+875,45+,2.0,Expats,No Degree,3900,NOTSELECTED,Mississippi
+876,18-24,1.0,Expats,High School,2800,NOTSELECTED,Mississippi
+877,25-44,1.0,Expats,High School,4500,NOTSELECTED,Mississippi
+878,45+,1.0,Expats,High School,1300,NOTSELECTED,Mississippi
+879,18-24,2.0,Expats,High School,2200,NOTSELECTED,Mississippi
+880,25-44,2.0,Expats,High School,2900,NOTSELECTED,Mississippi
+881,45+,2.0,Expats,High School,1600,NOTSELECTED,Mississippi
+882,18-24,1.0,Locals,Graduated,57000,NOTSELECTED,Mississippi
+883,25-44,1.0,Locals,Graduated,160000,NOTSELECTED,Mississippi
+884,45+,1.0,Locals,Graduated,99000,NOTSELECTED,Mississippi
+885,18-24,2.0,Locals,Graduated,57000,NOTSELECTED,Mississippi
+886,25-44,2.0,Locals,Graduated,220000,NOTSELECTED,Mississippi
+887,45+,2.0,Locals,Graduated,170000,NOTSELECTED,Mississippi
+888,18-24,1.0,Locals,No Degree,44000,NOTSELECTED,Mississippi
+889,25-44,1.0,Locals,No Degree,79000,NOTSELECTED,Mississippi
+890,45+,1.0,Locals,No Degree,71000,NOTSELECTED,Mississippi
+891,18-24,2.0,Locals,No Degree,43000,NOTSELECTED,Mississippi
+892,25-44,2.0,Locals,No Degree,72000,NOTSELECTED,Mississippi
+893,45+,2.0,Locals,No Degree,100000,NOTSELECTED,Mississippi
+894,18-24,1.0,Locals,High School,63000,NOTSELECTED,Mississippi
+895,25-44,1.0,Locals,High School,100000,NOTSELECTED,Mississippi
+896,45+,1.0,Locals,High School,64000,NOTSELECTED,Mississippi
+897,18-24,2.0,Locals,High School,82000,NOTSELECTED,Mississippi
+898,25-44,2.0,Locals,High School,110000,NOTSELECTED,Mississippi
+899,45+,2.0,Locals,High School,110000,NOTSELECTED,Mississippi
+900,18-24,1.0,Expats,Graduated,9500,NOTSELECTED,Missouri
+901,25-44,1.0,Expats,Graduated,31000,NOTSELECTED,Missouri
+902,45+,1.0,Expats,Graduated,11000,NOTSELECTED,Missouri
+903,18-24,2.0,Expats,Graduated,7100,NOTSELECTED,Missouri
+904,25-44,2.0,Expats,Graduated,26000,NOTSELECTED,Missouri
+905,45+,2.0,Expats,Graduated,11000,NOTSELECTED,Missouri
+906,18-24,1.0,Expats,No Degree,7200,NOTSELECTED,Missouri
+907,25-44,1.0,Expats,No Degree,22000,NOTSELECTED,Missouri
+908,45+,1.0,Expats,No Degree,12000,NOTSELECTED,Missouri
+909,18-24,2.0,Expats,No Degree,6100,NOTSELECTED,Missouri
+910,25-44,2.0,Expats,No Degree,18000,NOTSELECTED,Missouri
+911,45+,2.0,Expats,No Degree,12000,NOTSELECTED,Missouri
+912,18-24,1.0,Expats,High School,8200,NOTSELECTED,Missouri
+913,25-44,1.0,Expats,High School,11000,NOTSELECTED,Missouri
+914,45+,1.0,Expats,High School,4200,NOTSELECTED,Missouri
+915,18-24,2.0,Expats,High School,7900,NOTSELECTED,Missouri
+916,25-44,2.0,Expats,High School,10000,NOTSELECTED,Missouri
+917,45+,2.0,Expats,High School,4900,NOTSELECTED,Missouri
+918,18-24,1.0,Locals,Graduated,95000,NOTSELECTED,Missouri
+919,25-44,1.0,Locals,Graduated,330000,NOTSELECTED,Missouri
+920,45+,1.0,Locals,Graduated,240000,NOTSELECTED,Missouri
+921,18-24,2.0,Locals,Graduated,90000,NOTSELECTED,Missouri
+922,25-44,2.0,Locals,Graduated,410000,NOTSELECTED,Missouri
+923,45+,2.0,Locals,Graduated,350000,NOTSELECTED,Missouri
+924,18-24,1.0,Locals,No Degree,89000,NOTSELECTED,Missouri
+925,25-44,1.0,Locals,No Degree,160000,NOTSELECTED,Missouri
+926,45+,1.0,Locals,No Degree,150000,NOTSELECTED,Missouri
+927,18-24,2.0,Locals,No Degree,91000,NOTSELECTED,Missouri
+928,25-44,2.0,Locals,No Degree,140000,NOTSELECTED,Missouri
+929,45+,2.0,Locals,No Degree,220000,NOTSELECTED,Missouri
+930,18-24,1.0,Locals,High School,140000,NOTSELECTED,Missouri
+931,25-44,1.0,Locals,High School,220000,NOTSELECTED,Missouri
+932,45+,1.0,Locals,High School,160000,NOTSELECTED,Missouri
+933,18-24,2.0,Locals,High School,160000,NOTSELECTED,Missouri
+934,25-44,2.0,Locals,High School,240000,NOTSELECTED,Missouri
+935,45+,2.0,Locals,High School,280000,NOTSELECTED,Missouri
+936,18-24,1.0,Expats,Graduated,860,NOTSELECTED,Montana
+937,25-44,1.0,Expats,Graduated,1900,NOTSELECTED,Montana
+938,45+,1.0,Expats,Graduated,1100,NOTSELECTED,Montana
+939,18-24,2.0,Expats,Graduated,620,NOTSELECTED,Montana
+940,25-44,2.0,Expats,Graduated,2400,NOTSELECTED,Montana
+941,45+,2.0,Expats,Graduated,1700,NOTSELECTED,Montana
+942,18-24,1.0,Expats,No Degree,380,NOTSELECTED,Montana
+943,25-44,1.0,Expats,No Degree,1300,NOTSELECTED,Montana
+944,45+,1.0,Expats,No Degree,670,NOTSELECTED,Montana
+945,18-24,2.0,Expats,No Degree,590,NOTSELECTED,Montana
+946,25-44,2.0,Expats,No Degree,900,NOTSELECTED,Montana
+947,45+,2.0,Expats,No Degree,1100,NOTSELECTED,Montana
+948,18-24,1.0,Expats,High School,780,NOTSELECTED,Montana
+949,25-44,1.0,Expats,High School,1000,NOTSELECTED,Montana
+950,45+,1.0,Expats,High School,340,NOTSELECTED,Montana
+951,18-24,2.0,Expats,High School,900,NOTSELECTED,Montana
+952,25-44,2.0,Expats,High School,780,NOTSELECTED,Montana
+953,45+,2.0,Expats,High School,670,NOTSELECTED,Montana
+954,18-24,1.0,Locals,Graduated,16000,NOTSELECTED,Montana
+955,25-44,1.0,Locals,Graduated,58000,NOTSELECTED,Montana
+956,45+,1.0,Locals,Graduated,43000,NOTSELECTED,Montana
+957,18-24,2.0,Locals,Graduated,14000,NOTSELECTED,Montana
+958,25-44,2.0,Locals,Graduated,67000,NOTSELECTED,Montana
+959,45+,2.0,Locals,Graduated,68000,NOTSELECTED,Montana
+960,18-24,1.0,Locals,No Degree,13000,NOTSELECTED,Montana
+961,25-44,1.0,Locals,No Degree,24000,NOTSELECTED,Montana
+962,45+,1.0,Locals,No Degree,25000,NOTSELECTED,Montana
+963,18-24,2.0,Locals,No Degree,14000,NOTSELECTED,Montana
+964,25-44,2.0,Locals,No Degree,21000,NOTSELECTED,Montana
+965,45+,2.0,Locals,No Degree,35000,NOTSELECTED,Montana
+966,18-24,1.0,Locals,High School,25000,NOTSELECTED,Montana
+967,25-44,1.0,Locals,High School,36000,NOTSELECTED,Montana
+968,45+,1.0,Locals,High School,24000,NOTSELECTED,Montana
+969,18-24,2.0,Locals,High School,26000,NOTSELECTED,Montana
+970,25-44,2.0,Locals,High School,37000,NOTSELECTED,Montana
+971,45+,2.0,Locals,High School,41000,NOTSELECTED,Montana
+972,18-24,1.0,Expats,Graduated,4900,NOTSELECTED,Nebraska
+973,25-44,1.0,Expats,Graduated,15000,NOTSELECTED,Nebraska
+974,45+,1.0,Expats,Graduated,3900,NOTSELECTED,Nebraska
+975,18-24,2.0,Expats,Graduated,3300,NOTSELECTED,Nebraska
+976,25-44,2.0,Expats,Graduated,12000,NOTSELECTED,Nebraska
+977,45+,2.0,Expats,Graduated,3700,NOTSELECTED,Nebraska
+978,18-24,1.0,Expats,No Degree,5200,NOTSELECTED,Nebraska
+979,25-44,1.0,Expats,No Degree,15000,NOTSELECTED,Nebraska
+980,45+,1.0,Expats,No Degree,6600,NOTSELECTED,Nebraska
+981,18-24,2.0,Expats,No Degree,4400,NOTSELECTED,Nebraska
+982,25-44,2.0,Expats,No Degree,12000,NOTSELECTED,Nebraska
+983,45+,2.0,Expats,No Degree,5800,NOTSELECTED,Nebraska
+984,18-24,1.0,Expats,High School,4200,NOTSELECTED,Nebraska
+985,25-44,1.0,Expats,High School,6600,NOTSELECTED,Nebraska
+986,45+,1.0,Expats,High School,1800,NOTSELECTED,Nebraska
+987,18-24,2.0,Expats,High School,4300,NOTSELECTED,Nebraska
+988,25-44,2.0,Expats,High School,5700,NOTSELECTED,Nebraska
+989,45+,2.0,Expats,High School,1800,NOTSELECTED,Nebraska
+990,18-24,1.0,Locals,Graduated,31000,NOTSELECTED,Nebraska
+991,25-44,1.0,Locals,Graduated,110000,NOTSELECTED,Nebraska
+992,45+,1.0,Locals,Graduated,72000,NOTSELECTED,Nebraska
+993,18-24,2.0,Locals,Graduated,28000,NOTSELECTED,Nebraska
+994,25-44,2.0,Locals,Graduated,130000,NOTSELECTED,Nebraska
+995,45+,2.0,Locals,Graduated,110000,NOTSELECTED,Nebraska
+996,18-24,1.0,Locals,No Degree,28000,NOTSELECTED,Nebraska
+997,25-44,1.0,Locals,No Degree,47000,NOTSELECTED,Nebraska
+998,45+,1.0,Locals,No Degree,43000,NOTSELECTED,Nebraska
+999,18-24,2.0,Locals,No Degree,26000,NOTSELECTED,Nebraska
+1000,25-44,2.0,Locals,No Degree,40000,NOTSELECTED,Nebraska
+1001,45+,2.0,Locals,No Degree,65000,NOTSELECTED,Nebraska
+1002,18-24,1.0,Locals,High School,44000,NOTSELECTED,Nebraska
+1003,25-44,1.0,Locals,High School,62000,NOTSELECTED,Nebraska
+1004,45+,1.0,Locals,High School,43000,NOTSELECTED,Nebraska
+1005,18-24,2.0,Locals,High School,50000,NOTSELECTED,Nebraska
+1006,25-44,2.0,Locals,High School,60000,NOTSELECTED,Nebraska
+1007,45+,2.0,Locals,High School,74000,NOTSELECTED,Nebraska
+1008,18-24,1.0,Expats,Graduated,12000,NOTSELECTED,Nevada
+1009,25-44,1.0,Expats,Graduated,43000,NOTSELECTED,Nevada
+1010,45+,1.0,Expats,Graduated,25000,NOTSELECTED,Nevada
+1011,18-24,2.0,Expats,Graduated,10000,NOTSELECTED,Nevada
+1012,25-44,2.0,Expats,Graduated,45000,NOTSELECTED,Nevada
+1013,45+,2.0,Expats,Graduated,29000,NOTSELECTED,Nevada
+1014,18-24,1.0,Expats,No Degree,11000,NOTSELECTED,Nevada
+1015,25-44,1.0,Expats,No Degree,43000,NOTSELECTED,Nevada
+1016,45+,1.0,Expats,No Degree,31000,NOTSELECTED,Nevada
+1017,18-24,2.0,Expats,No Degree,11000,NOTSELECTED,Nevada
+1018,25-44,2.0,Expats,No Degree,43000,NOTSELECTED,Nevada
+1019,45+,2.0,Expats,No Degree,39000,NOTSELECTED,Nevada
+1020,18-24,1.0,Expats,High School,10000,NOTSELECTED,Nevada
+1021,25-44,1.0,Expats,High School,24000,NOTSELECTED,Nevada
+1022,45+,1.0,Expats,High School,11000,NOTSELECTED,Nevada
+1023,18-24,2.0,Expats,High School,12000,NOTSELECTED,Nevada
+1024,25-44,2.0,Expats,High School,24000,NOTSELECTED,Nevada
+1025,45+,2.0,Expats,High School,13000,NOTSELECTED,Nevada
+1026,18-24,1.0,Locals,Graduated,38000,NOTSELECTED,Nevada
+1027,25-44,1.0,Locals,Graduated,130000,NOTSELECTED,Nevada
+1028,45+,1.0,Locals,Graduated,100000,NOTSELECTED,Nevada
+1029,18-24,2.0,Locals,Graduated,36000,NOTSELECTED,Nevada
+1030,25-44,2.0,Locals,Graduated,150000,NOTSELECTED,Nevada
+1031,45+,2.0,Locals,Graduated,120000,NOTSELECTED,Nevada
+1032,18-24,1.0,Locals,No Degree,54000,NOTSELECTED,Nevada
+1033,25-44,1.0,Locals,No Degree,96000,NOTSELECTED,Nevada
+1034,45+,1.0,Locals,No Degree,76000,NOTSELECTED,Nevada
+1035,18-24,2.0,Locals,No Degree,57000,NOTSELECTED,Nevada
+1036,25-44,2.0,Locals,No Degree,87000,NOTSELECTED,Nevada
+1037,45+,2.0,Locals,No Degree,93000,NOTSELECTED,Nevada
+1038,18-24,1.0,Locals,High School,56000,NOTSELECTED,Nevada
+1039,25-44,1.0,Locals,High School,99000,NOTSELECTED,Nevada
+1040,45+,1.0,Locals,High School,63000,NOTSELECTED,Nevada
+1041,18-24,2.0,Locals,High School,63000,NOTSELECTED,Nevada
+1042,25-44,2.0,Locals,High School,96000,NOTSELECTED,Nevada
+1043,45+,2.0,Locals,High School,92000,NOTSELECTED,Nevada
+1044,18-24,1.0,Expats,Graduated,2100,NOTSELECTED,New Hampshire
+1045,25-44,1.0,Expats,Graduated,7700,NOTSELECTED,New Hampshire
+1046,45+,1.0,Expats,Graduated,4100,NOTSELECTED,New Hampshire
+1047,18-24,2.0,Expats,Graduated,1500,NOTSELECTED,New Hampshire
+1048,25-44,2.0,Expats,Graduated,7300,NOTSELECTED,New Hampshire
+1049,45+,2.0,Expats,Graduated,4000,NOTSELECTED,New Hampshire
+1050,18-24,1.0,Expats,No Degree,1400,NOTSELECTED,New Hampshire
+1051,25-44,1.0,Expats,No Degree,4000,NOTSELECTED,New Hampshire
+1052,45+,1.0,Expats,No Degree,3200,NOTSELECTED,New Hampshire
+1053,18-24,2.0,Expats,No Degree,1200,NOTSELECTED,New Hampshire
+1054,25-44,2.0,Expats,No Degree,3900,NOTSELECTED,New Hampshire
+1055,45+,2.0,Expats,No Degree,3900,NOTSELECTED,New Hampshire
+1056,18-24,1.0,Expats,High School,2200,NOTSELECTED,New Hampshire
+1057,25-44,1.0,Expats,High School,2400,NOTSELECTED,New Hampshire
+1058,45+,1.0,Expats,High School,1600,NOTSELECTED,New Hampshire
+1059,18-24,2.0,Expats,High School,1800,NOTSELECTED,New Hampshire
+1060,25-44,2.0,Expats,High School,2500,NOTSELECTED,New Hampshire
+1061,45+,2.0,Expats,High School,1900,NOTSELECTED,New Hampshire
+1062,18-24,1.0,Locals,Graduated,18000,NOTSELECTED,New Hampshire
+1063,25-44,1.0,Locals,Graduated,67000,NOTSELECTED,New Hampshire
+1064,45+,1.0,Locals,Graduated,61000,NOTSELECTED,New Hampshire
+1065,18-24,2.0,Locals,Graduated,16000,NOTSELECTED,New Hampshire
+1066,25-44,2.0,Locals,Graduated,86000,NOTSELECTED,New Hampshire
+1067,45+,2.0,Locals,Graduated,91000,NOTSELECTED,New Hampshire
+1068,18-24,1.0,Locals,No Degree,16000,NOTSELECTED,New Hampshire
+1069,25-44,1.0,Locals,No Degree,30000,NOTSELECTED,New Hampshire
+1070,45+,1.0,Locals,No Degree,36000,NOTSELECTED,New Hampshire
+1071,18-24,2.0,Locals,No Degree,15000,NOTSELECTED,New Hampshire
+1072,25-44,2.0,Locals,No Degree,27000,NOTSELECTED,New Hampshire
+1073,45+,2.0,Locals,No Degree,52000,NOTSELECTED,New Hampshire
+1074,18-24,1.0,Locals,High School,29000,NOTSELECTED,New Hampshire
+1075,25-44,1.0,Locals,High School,44000,NOTSELECTED,New Hampshire
+1076,45+,1.0,Locals,High School,38000,NOTSELECTED,New Hampshire
+1077,18-24,2.0,Locals,High School,31000,NOTSELECTED,New Hampshire
+1078,25-44,2.0,Locals,High School,40000,NOTSELECTED,New Hampshire
+1079,45+,2.0,Locals,High School,59000,NOTSELECTED,New Hampshire
+1080,18-24,1.0,Expats,Graduated,41000,NOTSELECTED,New Jersey
+1081,25-44,1.0,Expats,Graduated,200000,NOTSELECTED,New Jersey
+1082,45+,1.0,Expats,Graduated,96000,NOTSELECTED,New Jersey
+1083,18-24,2.0,Expats,Graduated,32000,NOTSELECTED,New Jersey
+1084,25-44,2.0,Expats,Graduated,190000,NOTSELECTED,New Jersey
+1085,45+,2.0,Expats,Graduated,96000,NOTSELECTED,New Jersey
+1086,18-24,1.0,Expats,No Degree,41000,NOTSELECTED,New Jersey
+1087,25-44,1.0,Expats,No Degree,140000,NOTSELECTED,New Jersey
+1088,45+,1.0,Expats,No Degree,100000,NOTSELECTED,New Jersey
+1089,18-24,2.0,Expats,No Degree,34000,NOTSELECTED,New Jersey
+1090,25-44,2.0,Expats,No Degree,130000,NOTSELECTED,New Jersey
+1091,45+,2.0,Expats,No Degree,110000,NOTSELECTED,New Jersey
+1092,18-24,1.0,Expats,High School,33000,NOTSELECTED,New Jersey
+1093,25-44,1.0,Expats,High School,75000,NOTSELECTED,New Jersey
+1094,45+,1.0,Expats,High School,37000,NOTSELECTED,New Jersey
+1095,18-24,2.0,Expats,High School,34000,NOTSELECTED,New Jersey
+1096,25-44,2.0,Expats,High School,72000,NOTSELECTED,New Jersey
+1097,45+,2.0,Expats,High School,40000,NOTSELECTED,New Jersey
+1098,18-24,1.0,Locals,Graduated,110000,NOTSELECTED,New Jersey
+1099,25-44,1.0,Locals,Graduated,380000,NOTSELECTED,New Jersey
+1100,45+,1.0,Locals,Graduated,290000,NOTSELECTED,New Jersey
+1101,18-24,2.0,Locals,Graduated,99000,NOTSELECTED,New Jersey
+1102,25-44,2.0,Locals,Graduated,470000,NOTSELECTED,New Jersey
+1103,45+,2.0,Locals,Graduated,420000,NOTSELECTED,New Jersey
+1104,18-24,1.0,Locals,No Degree,120000,NOTSELECTED,New Jersey
+1105,25-44,1.0,Locals,No Degree,230000,NOTSELECTED,New Jersey
+1106,45+,1.0,Locals,No Degree,210000,NOTSELECTED,New Jersey
+1107,18-24,2.0,Locals,No Degree,110000,NOTSELECTED,New Jersey
+1108,25-44,2.0,Locals,No Degree,200000,NOTSELECTED,New Jersey
+1109,45+,2.0,Locals,No Degree,280000,NOTSELECTED,New Jersey
+1110,18-24,1.0,Locals,High School,140000,NOTSELECTED,New Jersey
+1111,25-44,1.0,Locals,High School,200000,NOTSELECTED,New Jersey
+1112,45+,1.0,Locals,High School,170000,NOTSELECTED,New Jersey
+1113,18-24,2.0,Locals,High School,160000,NOTSELECTED,New Jersey
+1114,25-44,2.0,Locals,High School,190000,NOTSELECTED,New Jersey
+1115,45+,2.0,Locals,High School,270000,NOTSELECTED,New Jersey
+1116,18-24,1.0,Expats,Graduated,4300,NOTSELECTED,New Mexico
+1117,25-44,1.0,Expats,Graduated,14000,NOTSELECTED,New Mexico
+1118,45+,1.0,Expats,Graduated,6100,NOTSELECTED,New Mexico
+1119,18-24,2.0,Expats,Graduated,3600,NOTSELECTED,New Mexico
+1120,25-44,2.0,Expats,Graduated,14000,NOTSELECTED,New Mexico
+1121,45+,2.0,Expats,Graduated,7900,NOTSELECTED,New Mexico
+1122,18-24,1.0,Expats,No Degree,4600,NOTSELECTED,New Mexico
+1123,25-44,1.0,Expats,No Degree,16000,NOTSELECTED,New Mexico
+1124,45+,1.0,Expats,No Degree,10000,NOTSELECTED,New Mexico
+1125,18-24,2.0,Expats,No Degree,4500,NOTSELECTED,New Mexico
+1126,25-44,2.0,Expats,No Degree,15000,NOTSELECTED,New Mexico
+1127,45+,2.0,Expats,No Degree,12000,NOTSELECTED,New Mexico
+1128,18-24,1.0,Expats,High School,4300,NOTSELECTED,New Mexico
+1129,25-44,1.0,Expats,High School,6700,NOTSELECTED,New Mexico
+1130,45+,1.0,Expats,High School,2600,NOTSELECTED,New Mexico
+1131,18-24,2.0,Expats,High School,4900,NOTSELECTED,New Mexico
+1132,25-44,2.0,Expats,High School,7800,NOTSELECTED,New Mexico
+1133,45+,2.0,Expats,High School,3300,NOTSELECTED,New Mexico
+1134,18-24,1.0,Locals,Graduated,28000,NOTSELECTED,New Mexico
+1135,25-44,1.0,Locals,Graduated,89000,NOTSELECTED,New Mexico
+1136,45+,1.0,Locals,Graduated,68000,NOTSELECTED,New Mexico
+1137,18-24,2.0,Locals,Graduated,26000,NOTSELECTED,New Mexico
+1138,25-44,2.0,Locals,Graduated,110000,NOTSELECTED,New Mexico
+1139,45+,2.0,Locals,Graduated,100000,NOTSELECTED,New Mexico
+1140,18-24,1.0,Locals,No Degree,37000,NOTSELECTED,New Mexico
+1141,25-44,1.0,Locals,No Degree,58000,NOTSELECTED,New Mexico
+1142,45+,1.0,Locals,No Degree,47000,NOTSELECTED,New Mexico
+1143,18-24,2.0,Locals,No Degree,38000,NOTSELECTED,New Mexico
+1144,25-44,2.0,Locals,No Degree,52000,NOTSELECTED,New Mexico
+1145,45+,2.0,Locals,No Degree,67000,NOTSELECTED,New Mexico
+1146,18-24,1.0,Locals,High School,42000,NOTSELECTED,New Mexico
+1147,25-44,1.0,Locals,High School,59000,NOTSELECTED,New Mexico
+1148,45+,1.0,Locals,High School,34000,NOTSELECTED,New Mexico
+1149,18-24,2.0,Locals,High School,46000,NOTSELECTED,New Mexico
+1150,25-44,2.0,Locals,High School,64000,NOTSELECTED,New Mexico
+1151,45+,2.0,Locals,High School,57000,NOTSELECTED,New Mexico
+1152,18-24,1.0,Expats,Graduated,110000,NOTSELECTED,New York
+1153,25-44,1.0,Expats,Graduated,430000,NOTSELECTED,New York
+1154,45+,1.0,Expats,Graduated,170000,NOTSELECTED,New York
+1155,18-24,2.0,Expats,Graduated,98000,NOTSELECTED,New York
+1156,25-44,2.0,Expats,Graduated,420000,NOTSELECTED,New York
+1157,45+,2.0,Expats,Graduated,180000,NOTSELECTED,New York
+1158,18-24,1.0,Expats,No Degree,110000,NOTSELECTED,New York
+1159,25-44,1.0,Expats,No Degree,370000,NOTSELECTED,New York
+1160,45+,1.0,Expats,No Degree,250000,NOTSELECTED,New York
+1161,18-24,2.0,Expats,No Degree,100000,NOTSELECTED,New York
+1162,25-44,2.0,Expats,No Degree,320000,NOTSELECTED,New York
+1163,45+,2.0,Expats,No Degree,280000,NOTSELECTED,New York
+1164,18-24,1.0,Expats,High School,96000,NOTSELECTED,New York
+1165,25-44,1.0,Expats,High School,170000,NOTSELECTED,New York
+1166,45+,1.0,Expats,High School,72000,NOTSELECTED,New York
+1167,18-24,2.0,Expats,High School,100000,NOTSELECTED,New York
+1168,25-44,2.0,Expats,High School,160000,NOTSELECTED,New York
+1169,45+,2.0,Expats,High School,83000,NOTSELECTED,New York
+1170,18-24,1.0,Locals,Graduated,270000,NOTSELECTED,New York
+1171,25-44,1.0,Locals,Graduated,960000,NOTSELECTED,New York
+1172,45+,1.0,Locals,Graduated,570000,NOTSELECTED,New York
+1173,18-24,2.0,Locals,Graduated,270000,NOTSELECTED,New York
+1174,25-44,2.0,Locals,Graduated,1200000,NOTSELECTED,New York
+1175,45+,2.0,Locals,Graduated,820000,NOTSELECTED,New York
+1176,18-24,1.0,Locals,No Degree,320000,NOTSELECTED,New York
+1177,25-44,1.0,Locals,No Degree,650000,NOTSELECTED,New York
+1178,45+,1.0,Locals,No Degree,510000,NOTSELECTED,New York
+1179,18-24,2.0,Locals,No Degree,310000,NOTSELECTED,New York
+1180,25-44,2.0,Locals,No Degree,560000,NOTSELECTED,New York
+1181,45+,2.0,Locals,No Degree,660000,NOTSELECTED,New York
+1182,18-24,1.0,Locals,High School,370000,NOTSELECTED,New York
+1183,25-44,1.0,Locals,High School,500000,NOTSELECTED,New York
+1184,45+,1.0,Locals,High School,330000,NOTSELECTED,New York
+1185,18-24,2.0,Locals,High School,410000,NOTSELECTED,New York
+1186,25-44,2.0,Locals,High School,460000,NOTSELECTED,New York
+1187,45+,2.0,Locals,High School,490000,NOTSELECTED,New York
+1188,18-24,1.0,Expats,Graduated,23000,NOTSELECTED,North Carolina
+1189,25-44,1.0,Expats,Graduated,92000,NOTSELECTED,North Carolina
+1190,45+,1.0,Expats,Graduated,34000,NOTSELECTED,North Carolina
+1191,18-24,2.0,Expats,Graduated,17000,NOTSELECTED,North Carolina
+1192,25-44,2.0,Expats,Graduated,82000,NOTSELECTED,North Carolina
+1193,45+,2.0,Expats,Graduated,34000,NOTSELECTED,North Carolina
+1194,18-24,1.0,Expats,No Degree,25000,NOTSELECTED,North Carolina
+1195,25-44,1.0,Expats,No Degree,85000,NOTSELECTED,North Carolina
+1196,45+,1.0,Expats,No Degree,36000,NOTSELECTED,North Carolina
+1197,18-24,2.0,Expats,No Degree,20000,NOTSELECTED,North Carolina
+1198,25-44,2.0,Expats,No Degree,69000,NOTSELECTED,North Carolina
+1199,45+,2.0,Expats,No Degree,37000,NOTSELECTED,North Carolina
+1200,18-24,1.0,Expats,High School,21000,NOTSELECTED,North Carolina
+1201,25-44,1.0,Expats,High School,38000,NOTSELECTED,North Carolina
+1202,45+,1.0,Expats,High School,12000,NOTSELECTED,North Carolina
+1203,18-24,2.0,Expats,High School,21000,NOTSELECTED,North Carolina
+1204,25-44,2.0,Expats,High School,35000,NOTSELECTED,North Carolina
+1205,45+,2.0,Expats,High School,14000,NOTSELECTED,North Carolina
+1206,18-24,1.0,Locals,Graduated,170000,NOTSELECTED,North Carolina
+1207,25-44,1.0,Locals,Graduated,540000,NOTSELECTED,North Carolina
+1208,45+,1.0,Locals,Graduated,410000,NOTSELECTED,North Carolina
+1209,18-24,2.0,Locals,Graduated,160000,NOTSELECTED,North Carolina
+1210,25-44,2.0,Locals,Graduated,730000,NOTSELECTED,North Carolina
+1211,45+,2.0,Locals,Graduated,650000,NOTSELECTED,North Carolina
+1212,18-24,1.0,Locals,No Degree,150000,NOTSELECTED,North Carolina
+1213,25-44,1.0,Locals,No Degree,260000,NOTSELECTED,North Carolina
+1214,45+,1.0,Locals,No Degree,250000,NOTSELECTED,North Carolina
+1215,18-24,2.0,Locals,No Degree,150000,NOTSELECTED,North Carolina
+1216,25-44,2.0,Locals,No Degree,240000,NOTSELECTED,North Carolina
+1217,45+,2.0,Locals,No Degree,340000,NOTSELECTED,North Carolina
+1218,18-24,1.0,Locals,High School,210000,NOTSELECTED,North Carolina
+1219,25-44,1.0,Locals,High School,320000,NOTSELECTED,North Carolina
+1220,45+,1.0,Locals,High School,220000,NOTSELECTED,North Carolina
+1221,18-24,2.0,Locals,High School,250000,NOTSELECTED,North Carolina
+1222,25-44,2.0,Locals,High School,320000,NOTSELECTED,North Carolina
+1223,45+,2.0,Locals,High School,350000,NOTSELECTED,North Carolina
+1224,18-24,1.0,Expats,Graduated,1700,NOTSELECTED,North Dakota
+1225,25-44,1.0,Expats,Graduated,5700,NOTSELECTED,North Dakota
+1226,45+,1.0,Expats,Graduated,1800,NOTSELECTED,North Dakota
+1227,18-24,2.0,Expats,Graduated,1100,NOTSELECTED,North Dakota
+1228,25-44,2.0,Expats,Graduated,4300,NOTSELECTED,North Dakota
+1229,45+,2.0,Expats,Graduated,1700,NOTSELECTED,North Dakota
+1230,18-24,1.0,Expats,No Degree,1100,NOTSELECTED,North Dakota
+1231,25-44,1.0,Expats,No Degree,3200,NOTSELECTED,North Dakota
+1232,45+,1.0,Expats,No Degree,1900,NOTSELECTED,North Dakota
+1233,18-24,2.0,Expats,No Degree,940,NOTSELECTED,North Dakota
+1234,25-44,2.0,Expats,No Degree,2700,NOTSELECTED,North Dakota
+1235,45+,2.0,Expats,No Degree,1900,NOTSELECTED,North Dakota
+1236,18-24,1.0,Expats,High School,1600,NOTSELECTED,North Dakota
+1237,25-44,1.0,Expats,High School,2100,NOTSELECTED,North Dakota
+1238,45+,1.0,Expats,High School,710,NOTSELECTED,North Dakota
+1239,18-24,2.0,Expats,High School,1300,NOTSELECTED,North Dakota
+1240,25-44,2.0,Expats,High School,1400,NOTSELECTED,North Dakota
+1241,45+,2.0,Expats,High School,590,NOTSELECTED,North Dakota
+1242,18-24,1.0,Locals,Graduated,14000,NOTSELECTED,North Dakota
+1243,25-44,1.0,Locals,Graduated,48000,NOTSELECTED,North Dakota
+1244,45+,1.0,Locals,Graduated,26000,NOTSELECTED,North Dakota
+1245,18-24,2.0,Locals,Graduated,11000,NOTSELECTED,North Dakota
+1246,25-44,2.0,Locals,Graduated,53000,NOTSELECTED,North Dakota
+1247,45+,2.0,Locals,Graduated,41000,NOTSELECTED,North Dakota
+1248,18-24,1.0,Locals,No Degree,11000,NOTSELECTED,North Dakota
+1249,25-44,1.0,Locals,No Degree,20000,NOTSELECTED,North Dakota
+1250,45+,1.0,Locals,No Degree,16000,NOTSELECTED,North Dakota
+1251,18-24,2.0,Locals,No Degree,11000,NOTSELECTED,North Dakota
+1252,25-44,2.0,Locals,No Degree,15000,NOTSELECTED,North Dakota
+1253,45+,2.0,Locals,No Degree,23000,NOTSELECTED,North Dakota
+1254,18-24,1.0,Locals,High School,21000,NOTSELECTED,North Dakota
+1255,25-44,1.0,Locals,High School,30000,NOTSELECTED,North Dakota
+1256,45+,1.0,Locals,High School,15000,NOTSELECTED,North Dakota
+1257,18-24,2.0,Locals,High School,23000,NOTSELECTED,North Dakota
+1258,25-44,2.0,Locals,High School,25000,NOTSELECTED,North Dakota
+1259,45+,2.0,Locals,High School,25000,NOTSELECTED,North Dakota
+1260,18-24,1.0,Expats,Graduated,17000,NOTSELECTED,Ohio
+1261,25-44,1.0,Expats,Graduated,64000,NOTSELECTED,Ohio
+1262,45+,1.0,Expats,Graduated,25000,NOTSELECTED,Ohio
+1263,18-24,2.0,Expats,Graduated,13000,NOTSELECTED,Ohio
+1264,25-44,2.0,Expats,Graduated,54000,NOTSELECTED,Ohio
+1265,45+,2.0,Expats,Graduated,24000,NOTSELECTED,Ohio
+1266,18-24,1.0,Expats,No Degree,14000,NOTSELECTED,Ohio
+1267,25-44,1.0,Expats,No Degree,40000,NOTSELECTED,Ohio
+1268,45+,1.0,Expats,No Degree,22000,NOTSELECTED,Ohio
+1269,18-24,2.0,Expats,No Degree,12000,NOTSELECTED,Ohio
+1270,25-44,2.0,Expats,No Degree,33000,NOTSELECTED,Ohio
+1271,45+,2.0,Expats,No Degree,23000,NOTSELECTED,Ohio
+1272,18-24,1.0,Expats,High School,15000,NOTSELECTED,Ohio
+1273,25-44,1.0,Expats,High School,21000,NOTSELECTED,Ohio
+1274,45+,1.0,Expats,High School,8500,NOTSELECTED,Ohio
+1275,18-24,2.0,Expats,High School,14000,NOTSELECTED,Ohio
+1276,25-44,2.0,Expats,High School,18000,NOTSELECTED,Ohio
+1277,45+,2.0,Expats,High School,9700,NOTSELECTED,Ohio
+1278,18-24,1.0,Locals,Graduated,180000,NOTSELECTED,Ohio
+1279,25-44,1.0,Locals,Graduated,620000,NOTSELECTED,Ohio
+1280,45+,1.0,Locals,Graduated,440000,NOTSELECTED,Ohio
+1281,18-24,2.0,Locals,Graduated,170000,NOTSELECTED,Ohio
+1282,25-44,2.0,Locals,Graduated,750000,NOTSELECTED,Ohio
+1283,45+,2.0,Locals,Graduated,680000,NOTSELECTED,Ohio
+1284,18-24,1.0,Locals,No Degree,170000,NOTSELECTED,Ohio
+1285,25-44,1.0,Locals,No Degree,300000,NOTSELECTED,Ohio
+1286,45+,1.0,Locals,No Degree,290000,NOTSELECTED,Ohio
+1287,18-24,2.0,Locals,No Degree,180000,NOTSELECTED,Ohio
+1288,25-44,2.0,Locals,No Degree,260000,NOTSELECTED,Ohio
+1289,45+,2.0,Locals,No Degree,410000,NOTSELECTED,Ohio
+1290,18-24,1.0,Locals,High School,260000,NOTSELECTED,Ohio
+1291,25-44,1.0,Locals,High School,410000,NOTSELECTED,Ohio
+1292,45+,1.0,Locals,High School,310000,NOTSELECTED,Ohio
+1293,18-24,2.0,Locals,High School,310000,NOTSELECTED,Ohio
+1294,25-44,2.0,Locals,High School,430000,NOTSELECTED,Ohio
+1295,45+,2.0,Locals,High School,520000,NOTSELECTED,Ohio
+1296,18-24,1.0,Expats,Graduated,7900,NOTSELECTED,Oklahoma
+1297,25-44,1.0,Expats,Graduated,24000,NOTSELECTED,Oklahoma
+1298,45+,1.0,Expats,Graduated,8100,NOTSELECTED,Oklahoma
+1299,18-24,2.0,Expats,Graduated,5100,NOTSELECTED,Oklahoma
+1300,25-44,2.0,Expats,Graduated,19000,NOTSELECTED,Oklahoma
+1301,45+,2.0,Expats,Graduated,7500,NOTSELECTED,Oklahoma
+1302,18-24,1.0,Expats,No Degree,7600,NOTSELECTED,Oklahoma
+1303,25-44,1.0,Expats,No Degree,25000,NOTSELECTED,Oklahoma
+1304,45+,1.0,Expats,No Degree,11000,NOTSELECTED,Oklahoma
+1305,18-24,2.0,Expats,No Degree,6400,NOTSELECTED,Oklahoma
+1306,25-44,2.0,Expats,No Degree,20000,NOTSELECTED,Oklahoma
+1307,45+,2.0,Expats,No Degree,11000,NOTSELECTED,Oklahoma
+1308,18-24,1.0,Expats,High School,6900,NOTSELECTED,Oklahoma
+1309,25-44,1.0,Expats,High School,11000,NOTSELECTED,Oklahoma
+1310,45+,1.0,Expats,High School,3100,NOTSELECTED,Oklahoma
+1311,18-24,2.0,Expats,High School,6600,NOTSELECTED,Oklahoma
+1312,25-44,2.0,Expats,High School,10000,NOTSELECTED,Oklahoma
+1313,45+,2.0,Expats,High School,3700,NOTSELECTED,Oklahoma
+1314,18-24,1.0,Locals,Graduated,61000,NOTSELECTED,Oklahoma
+1315,25-44,1.0,Locals,Graduated,200000,NOTSELECTED,Oklahoma
+1316,45+,1.0,Locals,Graduated,150000,NOTSELECTED,Oklahoma
+1317,18-24,2.0,Locals,Graduated,56000,NOTSELECTED,Oklahoma
+1318,25-44,2.0,Locals,Graduated,250000,NOTSELECTED,Oklahoma
+1319,45+,2.0,Locals,Graduated,220000,NOTSELECTED,Oklahoma
+1320,18-24,1.0,Locals,No Degree,63000,NOTSELECTED,Oklahoma
+1321,25-44,1.0,Locals,No Degree,100000,NOTSELECTED,Oklahoma
+1322,45+,1.0,Locals,No Degree,90000,NOTSELECTED,Oklahoma
+1323,18-24,2.0,Locals,No Degree,65000,NOTSELECTED,Oklahoma
+1324,25-44,2.0,Locals,No Degree,96000,NOTSELECTED,Oklahoma
+1325,45+,2.0,Locals,No Degree,130000,NOTSELECTED,Oklahoma
+1326,18-24,1.0,Locals,High School,89000,NOTSELECTED,Oklahoma
+1327,25-44,1.0,Locals,High School,150000,NOTSELECTED,Oklahoma
+1328,45+,1.0,Locals,High School,100000,NOTSELECTED,Oklahoma
+1329,18-24,2.0,Locals,High School,100000,NOTSELECTED,Oklahoma
+1330,25-44,2.0,Locals,High School,160000,NOTSELECTED,Oklahoma
+1331,45+,2.0,Locals,High School,170000,NOTSELECTED,Oklahoma
+1332,18-24,1.0,Expats,Graduated,12000,NOTSELECTED,Oregon
+1333,25-44,1.0,Expats,Graduated,38000,NOTSELECTED,Oregon
+1334,45+,1.0,Expats,Graduated,17000,NOTSELECTED,Oregon
+1335,18-24,2.0,Expats,Graduated,7500,NOTSELECTED,Oregon
+1336,25-44,2.0,Expats,Graduated,33000,NOTSELECTED,Oregon
+1337,45+,2.0,Expats,Graduated,16000,NOTSELECTED,Oregon
+1338,18-24,1.0,Expats,No Degree,9000,NOTSELECTED,Oregon
+1339,25-44,1.0,Expats,No Degree,30000,NOTSELECTED,Oregon
+1340,45+,1.0,Expats,No Degree,17000,NOTSELECTED,Oregon
+1341,18-24,2.0,Expats,No Degree,7600,NOTSELECTED,Oregon
+1342,25-44,2.0,Expats,No Degree,26000,NOTSELECTED,Oregon
+1343,45+,2.0,Expats,No Degree,18000,NOTSELECTED,Oregon
+1344,18-24,1.0,Expats,High School,9900,NOTSELECTED,Oregon
+1345,25-44,1.0,Expats,High School,15000,NOTSELECTED,Oregon
+1346,45+,1.0,Expats,High School,5400,NOTSELECTED,Oregon
+1347,18-24,2.0,Expats,High School,9200,NOTSELECTED,Oregon
+1348,25-44,2.0,Expats,High School,14000,NOTSELECTED,Oregon
+1349,45+,2.0,Expats,High School,6500,NOTSELECTED,Oregon
+1350,18-24,1.0,Locals,Graduated,58000,NOTSELECTED,Oregon
+1351,25-44,1.0,Locals,Graduated,230000,NOTSELECTED,Oregon
+1352,45+,1.0,Locals,Graduated,180000,NOTSELECTED,Oregon
+1353,18-24,2.0,Locals,Graduated,53000,NOTSELECTED,Oregon
+1354,25-44,2.0,Locals,Graduated,270000,NOTSELECTED,Oregon
+1355,45+,2.0,Locals,Graduated,260000,NOTSELECTED,Oregon
+1356,18-24,1.0,Locals,No Degree,61000,NOTSELECTED,Oregon
+1357,25-44,1.0,Locals,No Degree,110000,NOTSELECTED,Oregon
+1358,45+,1.0,Locals,No Degree,110000,NOTSELECTED,Oregon
+1359,18-24,2.0,Locals,No Degree,60000,NOTSELECTED,Oregon
+1360,25-44,2.0,Locals,No Degree,100000,NOTSELECTED,Oregon
+1361,45+,2.0,Locals,No Degree,150000,NOTSELECTED,Oregon
+1362,18-24,1.0,Locals,High School,83000,NOTSELECTED,Oregon
+1363,25-44,1.0,Locals,High School,130000,NOTSELECTED,Oregon
+1364,45+,1.0,Locals,High School,93000,NOTSELECTED,Oregon
+1365,18-24,2.0,Locals,High School,98000,NOTSELECTED,Oregon
+1366,25-44,2.0,Locals,High School,130000,NOTSELECTED,Oregon
+1367,45+,2.0,Locals,High School,150000,NOTSELECTED,Oregon
+1368,18-24,1.0,Expats,Graduated,25000,NOTSELECTED,Pennsylvania
+1369,25-44,1.0,Expats,Graduated,96000,NOTSELECTED,Pennsylvania
+1370,45+,1.0,Expats,Graduated,40000,NOTSELECTED,Pennsylvania
+1371,18-24,2.0,Expats,Graduated,20000,NOTSELECTED,Pennsylvania
+1372,25-44,2.0,Expats,Graduated,92000,NOTSELECTED,Pennsylvania
+1373,45+,2.0,Expats,Graduated,40000,NOTSELECTED,Pennsylvania
+1374,18-24,1.0,Expats,No Degree,23000,NOTSELECTED,Pennsylvania
+1375,25-44,1.0,Expats,No Degree,68000,NOTSELECTED,Pennsylvania
+1376,45+,1.0,Expats,No Degree,43000,NOTSELECTED,Pennsylvania
+1377,18-24,2.0,Expats,No Degree,20000,NOTSELECTED,Pennsylvania
+1378,25-44,2.0,Expats,No Degree,59000,NOTSELECTED,Pennsylvania
+1379,45+,2.0,Expats,No Degree,47000,NOTSELECTED,Pennsylvania
+1380,18-24,1.0,Expats,High School,25000,NOTSELECTED,Pennsylvania
+1381,25-44,1.0,Expats,High School,37000,NOTSELECTED,Pennsylvania
+1382,45+,1.0,Expats,High School,16000,NOTSELECTED,Pennsylvania
+1383,18-24,2.0,Expats,High School,26000,NOTSELECTED,Pennsylvania
+1384,25-44,2.0,Expats,High School,35000,NOTSELECTED,Pennsylvania
+1385,45+,2.0,Expats,High School,19000,NOTSELECTED,Pennsylvania
+1386,18-24,1.0,Locals,Graduated,180000,NOTSELECTED,Pennsylvania
+1387,25-44,1.0,Locals,Graduated,670000,NOTSELECTED,Pennsylvania
+1388,45+,1.0,Locals,Graduated,450000,NOTSELECTED,Pennsylvania
+1389,18-24,2.0,Locals,Graduated,170000,NOTSELECTED,Pennsylvania
+1390,25-44,2.0,Locals,Graduated,810000,NOTSELECTED,Pennsylvania
+1391,45+,2.0,Locals,Graduated,690000,NOTSELECTED,Pennsylvania
+1392,18-24,1.0,Locals,No Degree,180000,NOTSELECTED,Pennsylvania
+1393,25-44,1.0,Locals,No Degree,330000,NOTSELECTED,Pennsylvania
+1394,45+,1.0,Locals,No Degree,320000,NOTSELECTED,Pennsylvania
+1395,18-24,2.0,Locals,No Degree,180000,NOTSELECTED,Pennsylvania
+1396,25-44,2.0,Locals,No Degree,290000,NOTSELECTED,Pennsylvania
+1397,45+,2.0,Locals,No Degree,450000,NOTSELECTED,Pennsylvania
+1398,18-24,1.0,Locals,High School,270000,NOTSELECTED,Pennsylvania
+1399,25-44,1.0,Locals,High School,400000,NOTSELECTED,Pennsylvania
+1400,45+,1.0,Locals,High School,310000,NOTSELECTED,Pennsylvania
+1401,18-24,2.0,Locals,High School,310000,NOTSELECTED,Pennsylvania
+1402,25-44,2.0,Locals,High School,400000,NOTSELECTED,Pennsylvania
+1403,45+,2.0,Locals,High School,530000,NOTSELECTED,Pennsylvania
+1404,18-24,1.0,Expats,Graduated,3600,NOTSELECTED,Rhode Island
+1405,25-44,1.0,Expats,Graduated,13000,NOTSELECTED,Rhode Island
+1406,45+,1.0,Expats,Graduated,6000,NOTSELECTED,Rhode Island
+1407,18-24,2.0,Expats,Graduated,2800,NOTSELECTED,Rhode Island
+1408,25-44,2.0,Expats,Graduated,13000,NOTSELECTED,Rhode Island
+1409,45+,2.0,Expats,Graduated,6500,NOTSELECTED,Rhode Island
+1410,18-24,1.0,Expats,No Degree,3400,NOTSELECTED,Rhode Island
+1411,25-44,1.0,Expats,No Degree,9700,NOTSELECTED,Rhode Island
+1412,45+,1.0,Expats,No Degree,7000,NOTSELECTED,Rhode Island
+1413,18-24,2.0,Expats,No Degree,3700,NOTSELECTED,Rhode Island
+1414,25-44,2.0,Expats,No Degree,8800,NOTSELECTED,Rhode Island
+1415,45+,2.0,Expats,No Degree,8300,NOTSELECTED,Rhode Island
+1416,18-24,1.0,Expats,High School,3700,NOTSELECTED,Rhode Island
+1417,25-44,1.0,Expats,High School,5600,NOTSELECTED,Rhode Island
+1418,45+,1.0,Expats,High School,2600,NOTSELECTED,Rhode Island
+1419,18-24,2.0,Expats,High School,4000,NOTSELECTED,Rhode Island
+1420,25-44,2.0,Expats,High School,5800,NOTSELECTED,Rhode Island
+1421,45+,2.0,Expats,High School,3300,NOTSELECTED,Rhode Island
+1422,18-24,1.0,Locals,Graduated,16000,NOTSELECTED,Rhode Island
+1423,25-44,1.0,Locals,Graduated,52000,NOTSELECTED,Rhode Island
+1424,45+,1.0,Locals,Graduated,39000,NOTSELECTED,Rhode Island
+1425,18-24,2.0,Locals,Graduated,15000,NOTSELECTED,Rhode Island
+1426,25-44,2.0,Locals,Graduated,64000,NOTSELECTED,Rhode Island
+1427,45+,2.0,Locals,Graduated,60000,NOTSELECTED,Rhode Island
+1428,18-24,1.0,Locals,No Degree,15000,NOTSELECTED,Rhode Island
+1429,25-44,1.0,Locals,No Degree,29000,NOTSELECTED,Rhode Island
+1430,45+,1.0,Locals,No Degree,28000,NOTSELECTED,Rhode Island
+1431,18-24,2.0,Locals,No Degree,15000,NOTSELECTED,Rhode Island
+1432,25-44,2.0,Locals,No Degree,26000,NOTSELECTED,Rhode Island
+1433,45+,2.0,Locals,No Degree,40000,NOTSELECTED,Rhode Island
+1434,18-24,1.0,Locals,High School,23000,NOTSELECTED,Rhode Island
+1435,25-44,1.0,Locals,High School,31000,NOTSELECTED,Rhode Island
+1436,45+,1.0,Locals,High School,22000,NOTSELECTED,Rhode Island
+1437,18-24,2.0,Locals,High School,28000,NOTSELECTED,Rhode Island
+1438,25-44,2.0,Locals,High School,28000,NOTSELECTED,Rhode Island
+1439,45+,2.0,Locals,High School,33000,NOTSELECTED,Rhode Island
+1440,18-24,1.0,Expats,Graduated,7400,NOTSELECTED,South Carolina
+1441,25-44,1.0,Expats,Graduated,27000,NOTSELECTED,South Carolina
+1442,45+,1.0,Expats,Graduated,11000,NOTSELECTED,South Carolina
+1443,18-24,2.0,Expats,Graduated,5000,NOTSELECTED,South Carolina
+1444,25-44,2.0,Expats,Graduated,23000,NOTSELECTED,South Carolina
+1445,45+,2.0,Expats,Graduated,12000,NOTSELECTED,South Carolina
+1446,18-24,1.0,Expats,No Degree,8900,NOTSELECTED,South Carolina
+1447,25-44,1.0,Expats,No Degree,27000,NOTSELECTED,South Carolina
+1448,45+,1.0,Expats,No Degree,11000,NOTSELECTED,South Carolina
+1449,18-24,2.0,Expats,No Degree,5800,NOTSELECTED,South Carolina
+1450,25-44,2.0,Expats,No Degree,20000,NOTSELECTED,South Carolina
+1451,45+,2.0,Expats,No Degree,12000,NOTSELECTED,South Carolina
+1452,18-24,1.0,Expats,High School,6700,NOTSELECTED,South Carolina
+1453,25-44,1.0,Expats,High School,13000,NOTSELECTED,South Carolina
+1454,45+,1.0,Expats,High School,4200,NOTSELECTED,South Carolina
+1455,18-24,2.0,Expats,High School,6200,NOTSELECTED,South Carolina
+1456,25-44,2.0,Expats,High School,11000,NOTSELECTED,South Carolina
+1457,45+,2.0,Expats,High School,5300,NOTSELECTED,South Carolina
+1458,18-24,1.0,Locals,Graduated,79000,NOTSELECTED,South Carolina
+1459,25-44,1.0,Locals,Graduated,250000,NOTSELECTED,South Carolina
+1460,45+,1.0,Locals,Graduated,200000,NOTSELECTED,South Carolina
+1461,18-24,2.0,Locals,Graduated,77000,NOTSELECTED,South Carolina
+1462,25-44,2.0,Locals,Graduated,350000,NOTSELECTED,South Carolina
+1463,45+,2.0,Locals,Graduated,300000,NOTSELECTED,South Carolina
+1464,18-24,1.0,Locals,No Degree,69000,NOTSELECTED,South Carolina
+1465,25-44,1.0,Locals,No Degree,120000,NOTSELECTED,South Carolina
+1466,45+,1.0,Locals,No Degree,110000,NOTSELECTED,South Carolina
+1467,18-24,2.0,Locals,No Degree,70000,NOTSELECTED,South Carolina
+1468,25-44,2.0,Locals,No Degree,110000,NOTSELECTED,South Carolina
+1469,45+,2.0,Locals,No Degree,170000,NOTSELECTED,South Carolina
+1470,18-24,1.0,Locals,High School,100000,NOTSELECTED,South Carolina
+1471,25-44,1.0,Locals,High School,160000,NOTSELECTED,South Carolina
+1472,45+,1.0,Locals,High School,110000,NOTSELECTED,South Carolina
+1473,18-24,2.0,Locals,High School,130000,NOTSELECTED,South Carolina
+1474,25-44,2.0,Locals,High School,170000,NOTSELECTED,South Carolina
+1475,45+,2.0,Locals,High School,190000,NOTSELECTED,South Carolina
+1476,18-24,1.0,Expats,Graduated,1400,NOTSELECTED,South Dakota
+1477,25-44,1.0,Expats,Graduated,3800,NOTSELECTED,South Dakota
+1478,45+,1.0,Expats,Graduated,1100,NOTSELECTED,South Dakota
+1479,18-24,2.0,Expats,Graduated,960,NOTSELECTED,South Dakota
+1480,25-44,2.0,Expats,Graduated,2500,NOTSELECTED,South Dakota
+1481,45+,2.0,Expats,Graduated,1000,NOTSELECTED,South Dakota
+1482,18-24,1.0,Expats,No Degree,1400,NOTSELECTED,South Dakota
+1483,25-44,1.0,Expats,No Degree,2900,NOTSELECTED,South Dakota
+1484,45+,1.0,Expats,No Degree,1000,NOTSELECTED,South Dakota
+1485,18-24,2.0,Expats,No Degree,990,NOTSELECTED,South Dakota
+1486,25-44,2.0,Expats,No Degree,2200,NOTSELECTED,South Dakota
+1487,45+,2.0,Expats,No Degree,1100,NOTSELECTED,South Dakota
+1488,18-24,1.0,Expats,High School,1300,NOTSELECTED,South Dakota
+1489,25-44,1.0,Expats,High School,1700,NOTSELECTED,South Dakota
+1490,45+,1.0,Expats,High School,440,NOTSELECTED,South Dakota
+1491,18-24,2.0,Expats,High School,970,NOTSELECTED,South Dakota
+1492,25-44,2.0,Expats,High School,1400,NOTSELECTED,South Dakota
+1493,45+,2.0,Expats,High School,380,NOTSELECTED,South Dakota
+1494,18-24,1.0,Locals,Graduated,14000,NOTSELECTED,South Dakota
+1495,25-44,1.0,Locals,Graduated,48000,NOTSELECTED,South Dakota
+1496,45+,1.0,Locals,Graduated,30000,NOTSELECTED,South Dakota
+1497,18-24,2.0,Locals,Graduated,12000,NOTSELECTED,South Dakota
+1498,25-44,2.0,Locals,Graduated,59000,NOTSELECTED,South Dakota
+1499,45+,2.0,Locals,Graduated,49000,NOTSELECTED,South Dakota
+1500,18-24,1.0,Locals,No Degree,11000,NOTSELECTED,South Dakota
+1501,25-44,1.0,Locals,No Degree,19000,NOTSELECTED,South Dakota
+1502,45+,1.0,Locals,No Degree,19000,NOTSELECTED,South Dakota
+1503,18-24,2.0,Locals,No Degree,13000,NOTSELECTED,South Dakota
+1504,25-44,2.0,Locals,No Degree,18000,NOTSELECTED,South Dakota
+1505,45+,2.0,Locals,No Degree,28000,NOTSELECTED,South Dakota
+1506,18-24,1.0,Locals,High School,21000,NOTSELECTED,South Dakota
+1507,25-44,1.0,Locals,High School,30000,NOTSELECTED,South Dakota
+1508,45+,1.0,Locals,High School,18000,NOTSELECTED,South Dakota
+1509,18-24,2.0,Locals,High School,24000,NOTSELECTED,South Dakota
+1510,25-44,2.0,Locals,High School,29000,NOTSELECTED,South Dakota
+1511,45+,2.0,Locals,High School,33000,NOTSELECTED,South Dakota
+1512,18-24,1.0,Expats,Graduated,12000,NOTSELECTED,Tennessee
+1513,25-44,1.0,Expats,Graduated,42000,NOTSELECTED,Tennessee
+1514,45+,1.0,Expats,Graduated,14000,NOTSELECTED,Tennessee
+1515,18-24,2.0,Expats,Graduated,8300,NOTSELECTED,Tennessee
+1516,25-44,2.0,Expats,Graduated,33000,NOTSELECTED,Tennessee
+1517,45+,2.0,Expats,Graduated,13000,NOTSELECTED,Tennessee
+1518,18-24,1.0,Expats,No Degree,15000,NOTSELECTED,Tennessee
+1519,25-44,1.0,Expats,No Degree,42000,NOTSELECTED,Tennessee
+1520,45+,1.0,Expats,No Degree,16000,NOTSELECTED,Tennessee
+1521,18-24,2.0,Expats,No Degree,10000,NOTSELECTED,Tennessee
+1522,25-44,2.0,Expats,No Degree,32000,NOTSELECTED,Tennessee
+1523,45+,2.0,Expats,No Degree,15000,NOTSELECTED,Tennessee
+1524,18-24,1.0,Expats,High School,11000,NOTSELECTED,Tennessee
+1525,25-44,1.0,Expats,High School,19000,NOTSELECTED,Tennessee
+1526,45+,1.0,Expats,High School,5400,NOTSELECTED,Tennessee
+1527,18-24,2.0,Expats,High School,9400,NOTSELECTED,Tennessee
+1528,25-44,2.0,Expats,High School,15000,NOTSELECTED,Tennessee
+1529,45+,2.0,Expats,High School,5700,NOTSELECTED,Tennessee
+1530,18-24,1.0,Locals,Graduated,100000,NOTSELECTED,Tennessee
+1531,25-44,1.0,Locals,Graduated,360000,NOTSELECTED,Tennessee
+1532,45+,1.0,Locals,Graduated,260000,NOTSELECTED,Tennessee
+1533,18-24,2.0,Locals,Graduated,110000,NOTSELECTED,Tennessee
+1534,25-44,2.0,Locals,Graduated,470000,NOTSELECTED,Tennessee
+1535,45+,2.0,Locals,Graduated,390000,NOTSELECTED,Tennessee
+1536,18-24,1.0,Locals,No Degree,100000,NOTSELECTED,Tennessee
+1537,25-44,1.0,Locals,No Degree,180000,NOTSELECTED,Tennessee
+1538,45+,1.0,Locals,No Degree,170000,NOTSELECTED,Tennessee
+1539,18-24,2.0,Locals,No Degree,100000,NOTSELECTED,Tennessee
+1540,25-44,2.0,Locals,No Degree,170000,NOTSELECTED,Tennessee
+1541,45+,2.0,Locals,No Degree,240000,NOTSELECTED,Tennessee
+1542,18-24,1.0,Locals,High School,140000,NOTSELECTED,Tennessee
+1543,25-44,1.0,Locals,High School,240000,NOTSELECTED,Tennessee
+1544,45+,1.0,Locals,High School,170000,NOTSELECTED,Tennessee
+1545,18-24,2.0,Locals,High School,180000,NOTSELECTED,Tennessee
+1546,25-44,2.0,Locals,High School,260000,NOTSELECTED,Tennessee
+1547,45+,2.0,Locals,High School,290000,NOTSELECTED,Tennessee
+1548,18-24,1.0,Expats,Graduated,120000,NOTSELECTED,Texas
+1549,25-44,1.0,Expats,Graduated,440000,NOTSELECTED,Texas
+1550,45+,1.0,Expats,Graduated,180000,NOTSELECTED,Texas
+1551,18-24,2.0,Expats,Graduated,86000,NOTSELECTED,Texas
+1552,25-44,2.0,Expats,Graduated,400000,NOTSELECTED,Texas
+1553,45+,2.0,Expats,Graduated,170000,NOTSELECTED,Texas
+1554,18-24,1.0,Expats,No Degree,130000,NOTSELECTED,Texas
+1555,25-44,1.0,Expats,No Degree,440000,NOTSELECTED,Texas
+1556,45+,1.0,Expats,No Degree,230000,NOTSELECTED,Texas
+1557,18-24,2.0,Expats,No Degree,110000,NOTSELECTED,Texas
+1558,25-44,2.0,Expats,No Degree,400000,NOTSELECTED,Texas
+1559,45+,2.0,Expats,No Degree,280000,NOTSELECTED,Texas
+1560,18-24,1.0,Expats,High School,98000,NOTSELECTED,Texas
+1561,25-44,1.0,Expats,High School,190000,NOTSELECTED,Texas
+1562,45+,1.0,Expats,High School,67000,NOTSELECTED,Texas
+1563,18-24,2.0,Expats,High School,99000,NOTSELECTED,Texas
+1564,25-44,2.0,Expats,High School,190000,NOTSELECTED,Texas
+1565,45+,2.0,Expats,High School,77000,NOTSELECTED,Texas
+1566,18-24,1.0,Locals,Graduated,420000,NOTSELECTED,Texas
+1567,25-44,1.0,Locals,Graduated,1400000,NOTSELECTED,Texas
+1568,45+,1.0,Locals,Graduated,930000,NOTSELECTED,Texas
+1569,18-24,2.0,Locals,Graduated,400000,NOTSELECTED,Texas
+1570,25-44,2.0,Locals,Graduated,1700000,NOTSELECTED,Texas
+1571,45+,2.0,Locals,Graduated,1300000,NOTSELECTED,Texas
+1572,18-24,1.0,Locals,No Degree,540000,NOTSELECTED,Texas
+1573,25-44,1.0,Locals,No Degree,910000,NOTSELECTED,Texas
+1574,45+,1.0,Locals,No Degree,670000,NOTSELECTED,Texas
+1575,18-24,2.0,Locals,No Degree,510000,NOTSELECTED,Texas
+1576,25-44,2.0,Locals,No Degree,820000,NOTSELECTED,Texas
+1577,45+,2.0,Locals,No Degree,900000,NOTSELECTED,Texas
+1578,18-24,1.0,Locals,High School,590000,NOTSELECTED,Texas
+1579,25-44,1.0,Locals,High School,900000,NOTSELECTED,Texas
+1580,45+,1.0,Locals,High School,530000,NOTSELECTED,Texas
+1581,18-24,2.0,Locals,High School,680000,NOTSELECTED,Texas
+1582,25-44,2.0,Locals,High School,940000,NOTSELECTED,Texas
+1583,45+,2.0,Locals,High School,830000,NOTSELECTED,Texas
+1584,18-24,1.0,Expats,Graduated,7700,NOTSELECTED,Utah
+1585,25-44,1.0,Expats,Graduated,25000,NOTSELECTED,Utah
+1586,45+,1.0,Expats,Graduated,11000,NOTSELECTED,Utah
+1587,18-24,2.0,Expats,Graduated,5800,NOTSELECTED,Utah
+1588,25-44,2.0,Expats,Graduated,23000,NOTSELECTED,Utah
+1589,45+,2.0,Expats,Graduated,11000,NOTSELECTED,Utah
+1590,18-24,1.0,Expats,No Degree,5500,NOTSELECTED,Utah
+1591,25-44,1.0,Expats,No Degree,23000,NOTSELECTED,Utah
+1592,45+,1.0,Expats,No Degree,12000,NOTSELECTED,Utah
+1593,18-24,2.0,Expats,No Degree,5700,NOTSELECTED,Utah
+1594,25-44,2.0,Expats,No Degree,20000,NOTSELECTED,Utah
+1595,45+,2.0,Expats,No Degree,14000,NOTSELECTED,Utah
+1596,18-24,1.0,Expats,High School,7500,NOTSELECTED,Utah
+1597,25-44,1.0,Expats,High School,12000,NOTSELECTED,Utah
+1598,45+,1.0,Expats,High School,3800,NOTSELECTED,Utah
+1599,18-24,2.0,Expats,High School,7800,NOTSELECTED,Utah
+1600,25-44,2.0,Expats,High School,12000,NOTSELECTED,Utah
+1601,45+,2.0,Expats,High School,5000,NOTSELECTED,Utah
+1602,18-24,1.0,Locals,Graduated,54000,NOTSELECTED,Utah
+1603,25-44,1.0,Locals,Graduated,180000,NOTSELECTED,Utah
+1604,45+,1.0,Locals,Graduated,110000,NOTSELECTED,Utah
+1605,18-24,2.0,Locals,Graduated,52000,NOTSELECTED,Utah
+1606,25-44,2.0,Locals,Graduated,210000,NOTSELECTED,Utah
+1607,45+,2.0,Locals,Graduated,140000,NOTSELECTED,Utah
+1608,18-24,1.0,Locals,No Degree,50000,NOTSELECTED,Utah
+1609,25-44,1.0,Locals,No Degree,77000,NOTSELECTED,Utah
+1610,45+,1.0,Locals,No Degree,56000,NOTSELECTED,Utah
+1611,18-24,2.0,Locals,No Degree,51000,NOTSELECTED,Utah
+1612,25-44,2.0,Locals,No Degree,74000,NOTSELECTED,Utah
+1613,45+,2.0,Locals,No Degree,76000,NOTSELECTED,Utah
+1614,18-24,1.0,Locals,High School,80000,NOTSELECTED,Utah
+1615,25-44,1.0,Locals,High School,110000,NOTSELECTED,Utah
+1616,45+,1.0,Locals,High School,51000,NOTSELECTED,Utah
+1617,18-24,2.0,Locals,High School,89000,NOTSELECTED,Utah
+1618,25-44,2.0,Locals,High School,110000,NOTSELECTED,Utah
+1619,45+,2.0,Locals,High School,83000,NOTSELECTED,Utah
+1620,18-24,1.0,Expats,Graduated,1000,NOTSELECTED,Vermont
+1621,25-44,1.0,Expats,Graduated,2200,NOTSELECTED,Vermont
+1622,45+,1.0,Expats,Graduated,1800,NOTSELECTED,Vermont
+1623,18-24,2.0,Expats,Graduated,830,NOTSELECTED,Vermont
+1624,25-44,2.0,Expats,Graduated,2400,NOTSELECTED,Vermont
+1625,45+,2.0,Expats,Graduated,1800,NOTSELECTED,Vermont
+1626,18-24,1.0,Expats,No Degree,630,NOTSELECTED,Vermont
+1627,25-44,1.0,Expats,No Degree,1400,NOTSELECTED,Vermont
+1628,45+,1.0,Expats,No Degree,940,NOTSELECTED,Vermont
+1629,18-24,2.0,Expats,No Degree,460,NOTSELECTED,Vermont
+1630,25-44,2.0,Expats,No Degree,1200,NOTSELECTED,Vermont
+1631,45+,2.0,Expats,No Degree,1500,NOTSELECTED,Vermont
+1632,18-24,1.0,Expats,High School,990,NOTSELECTED,Vermont
+1633,25-44,1.0,Expats,High School,910,NOTSELECTED,Vermont
+1634,45+,1.0,Expats,High School,570,NOTSELECTED,Vermont
+1635,18-24,2.0,Expats,High School,1500,NOTSELECTED,Vermont
+1636,25-44,2.0,Expats,High School,650,NOTSELECTED,Vermont
+1637,45+,2.0,Expats,High School,720,NOTSELECTED,Vermont
+1638,18-24,1.0,Locals,Graduated,9800,NOTSELECTED,Vermont
+1639,25-44,1.0,Locals,Graduated,32000,NOTSELECTED,Vermont
+1640,45+,1.0,Locals,Graduated,29000,NOTSELECTED,Vermont
+1641,18-24,2.0,Locals,Graduated,9100,NOTSELECTED,Vermont
+1642,25-44,2.0,Locals,Graduated,41000,NOTSELECTED,Vermont
+1643,45+,2.0,Locals,Graduated,45000,NOTSELECTED,Vermont
+1644,18-24,1.0,Locals,No Degree,7000,NOTSELECTED,Vermont
+1645,25-44,1.0,Locals,No Degree,12000,NOTSELECTED,Vermont
+1646,45+,1.0,Locals,No Degree,15000,NOTSELECTED,Vermont
+1647,18-24,2.0,Locals,No Degree,7000,NOTSELECTED,Vermont
+1648,25-44,2.0,Locals,No Degree,12000,NOTSELECTED,Vermont
+1649,45+,2.0,Locals,No Degree,23000,NOTSELECTED,Vermont
+1650,18-24,1.0,Locals,High School,15000,NOTSELECTED,Vermont
+1651,25-44,1.0,Locals,High School,21000,NOTSELECTED,Vermont
+1652,45+,1.0,Locals,High School,17000,NOTSELECTED,Vermont
+1653,18-24,2.0,Locals,High School,17000,NOTSELECTED,Vermont
+1654,25-44,2.0,Locals,High School,20000,NOTSELECTED,Vermont
+1655,45+,2.0,Locals,High School,25000,NOTSELECTED,Vermont
+1656,18-24,1.0,Expats,Graduated,25000,NOTSELECTED,Virginia
+1657,25-44,1.0,Expats,Graduated,110000,NOTSELECTED,Virginia
+1658,45+,1.0,Expats,Graduated,48000,NOTSELECTED,Virginia
+1659,18-24,2.0,Expats,Graduated,20000,NOTSELECTED,Virginia
+1660,25-44,2.0,Expats,Graduated,100000,NOTSELECTED,Virginia
+1661,45+,2.0,Expats,Graduated,49000,NOTSELECTED,Virginia
+1662,18-24,1.0,Expats,No Degree,26000,NOTSELECTED,Virginia
+1663,25-44,1.0,Expats,No Degree,82000,NOTSELECTED,Virginia
+1664,45+,1.0,Expats,No Degree,48000,NOTSELECTED,Virginia
+1665,18-24,2.0,Expats,No Degree,23000,NOTSELECTED,Virginia
+1666,25-44,2.0,Expats,No Degree,77000,NOTSELECTED,Virginia
+1667,45+,2.0,Expats,No Degree,53000,NOTSELECTED,Virginia
+1668,18-24,1.0,Expats,High School,24000,NOTSELECTED,Virginia
+1669,25-44,1.0,Expats,High School,41000,NOTSELECTED,Virginia
+1670,45+,1.0,Expats,High School,17000,NOTSELECTED,Virginia
+1671,18-24,2.0,Expats,High School,23000,NOTSELECTED,Virginia
+1672,25-44,2.0,Expats,High School,40000,NOTSELECTED,Virginia
+1673,45+,2.0,Expats,High School,20000,NOTSELECTED,Virginia
+1674,18-24,1.0,Locals,Graduated,120000,NOTSELECTED,Virginia
+1675,25-44,1.0,Locals,Graduated,430000,NOTSELECTED,Virginia
+1676,45+,1.0,Locals,Graduated,320000,NOTSELECTED,Virginia
+1677,18-24,2.0,Locals,Graduated,110000,NOTSELECTED,Virginia
+1678,25-44,2.0,Locals,Graduated,550000,NOTSELECTED,Virginia
+1679,45+,2.0,Locals,Graduated,480000,NOTSELECTED,Virginia
+1680,18-24,1.0,Locals,No Degree,110000,NOTSELECTED,Virginia
+1681,25-44,1.0,Locals,No Degree,210000,NOTSELECTED,Virginia
+1682,45+,1.0,Locals,No Degree,190000,NOTSELECTED,Virginia
+1683,18-24,2.0,Locals,No Degree,110000,NOTSELECTED,Virginia
+1684,25-44,2.0,Locals,No Degree,190000,NOTSELECTED,Virginia
+1685,45+,2.0,Locals,No Degree,270000,NOTSELECTED,Virginia
+1686,18-24,1.0,Locals,High School,170000,NOTSELECTED,Virginia
+1687,25-44,1.0,Locals,High School,260000,NOTSELECTED,Virginia
+1688,45+,1.0,Locals,High School,170000,NOTSELECTED,Virginia
+1689,18-24,2.0,Locals,High School,200000,NOTSELECTED,Virginia
+1690,25-44,2.0,Locals,High School,250000,NOTSELECTED,Virginia
+1691,45+,2.0,Locals,High School,260000,NOTSELECTED,Virginia
+1692,18-24,1.0,Expats,Graduated,22000,NOTSELECTED,Washington
+1693,25-44,1.0,Expats,Graduated,100000,NOTSELECTED,Washington
+1694,45+,1.0,Expats,Graduated,41000,NOTSELECTED,Washington
+1695,18-24,2.0,Expats,Graduated,18000,NOTSELECTED,Washington
+1696,25-44,2.0,Expats,Graduated,94000,NOTSELECTED,Washington
+1697,45+,2.0,Expats,Graduated,42000,NOTSELECTED,Washington
+1698,18-24,1.0,Expats,No Degree,19000,NOTSELECTED,Washington
+1699,25-44,1.0,Expats,No Degree,72000,NOTSELECTED,Washington
+1700,45+,1.0,Expats,No Degree,42000,NOTSELECTED,Washington
+1701,18-24,2.0,Expats,No Degree,18000,NOTSELECTED,Washington
+1702,25-44,2.0,Expats,No Degree,67000,NOTSELECTED,Washington
+1703,45+,2.0,Expats,No Degree,49000,NOTSELECTED,Washington
+1704,18-24,1.0,Expats,High School,21000,NOTSELECTED,Washington
+1705,25-44,1.0,Expats,High School,36000,NOTSELECTED,Washington
+1706,45+,1.0,Expats,High School,14000,NOTSELECTED,Washington
+1707,18-24,2.0,Expats,High School,23000,NOTSELECTED,Washington
+1708,25-44,2.0,Expats,High School,34000,NOTSELECTED,Washington
+1709,45+,2.0,Expats,High School,17000,NOTSELECTED,Washington
+1710,18-24,1.0,Locals,Graduated,100000,NOTSELECTED,Washington
+1711,25-44,1.0,Locals,Graduated,400000,NOTSELECTED,Washington
+1712,45+,1.0,Locals,Graduated,320000,NOTSELECTED,Washington
+1713,18-24,2.0,Locals,Graduated,94000,NOTSELECTED,Washington
+1714,25-44,2.0,Locals,Graduated,470000,NOTSELECTED,Washington
+1715,45+,2.0,Locals,Graduated,420000,NOTSELECTED,Washington
+1716,18-24,1.0,Locals,No Degree,110000,NOTSELECTED,Washington
+1717,25-44,1.0,Locals,No Degree,210000,NOTSELECTED,Washington
+1718,45+,1.0,Locals,No Degree,190000,NOTSELECTED,Washington
+1719,18-24,2.0,Locals,No Degree,110000,NOTSELECTED,Washington
+1720,25-44,2.0,Locals,No Degree,190000,NOTSELECTED,Washington
+1721,45+,2.0,Locals,No Degree,250000,NOTSELECTED,Washington
+1722,18-24,1.0,Locals,High School,150000,NOTSELECTED,Washington
+1723,25-44,1.0,Locals,High School,230000,NOTSELECTED,Washington
+1724,45+,1.0,Locals,High School,160000,NOTSELECTED,Washington
+1725,18-24,2.0,Locals,High School,160000,NOTSELECTED,Washington
+1726,25-44,2.0,Locals,High School,220000,NOTSELECTED,Washington
+1727,45+,2.0,Locals,High School,240000,NOTSELECTED,Washington
+1728,18-24,1.0,Expats,Graduated,1600,NOTSELECTED,West Virginia
+1729,25-44,1.0,Expats,Graduated,4000,NOTSELECTED,West Virginia
+1730,45+,1.0,Expats,Graduated,1700,NOTSELECTED,West Virginia
+1731,18-24,2.0,Expats,Graduated,950,NOTSELECTED,West Virginia
+1732,25-44,2.0,Expats,Graduated,3500,NOTSELECTED,West Virginia
+1733,45+,2.0,Expats,Graduated,1900,NOTSELECTED,West Virginia
+1734,18-24,1.0,Expats,No Degree,1100,NOTSELECTED,West Virginia
+1735,25-44,1.0,Expats,No Degree,2300,NOTSELECTED,West Virginia
+1736,45+,1.0,Expats,No Degree,1300,NOTSELECTED,West Virginia
+1737,18-24,2.0,Expats,No Degree,780,NOTSELECTED,West Virginia
+1738,25-44,2.0,Expats,No Degree,1800,NOTSELECTED,West Virginia
+1739,45+,2.0,Expats,No Degree,1400,NOTSELECTED,West Virginia
+1740,18-24,1.0,Expats,High School,1800,NOTSELECTED,West Virginia
+1741,25-44,1.0,Expats,High School,1500,NOTSELECTED,West Virginia
+1742,45+,1.0,Expats,High School,560,NOTSELECTED,West Virginia
+1743,18-24,2.0,Expats,High School,1200,NOTSELECTED,West Virginia
+1744,25-44,2.0,Expats,High School,1200,NOTSELECTED,West Virginia
+1745,45+,2.0,Expats,High School,720,NOTSELECTED,West Virginia
+1746,18-24,1.0,Locals,Graduated,29000,NOTSELECTED,West Virginia
+1747,25-44,1.0,Locals,Graduated,92000,NOTSELECTED,West Virginia
+1748,45+,1.0,Locals,Graduated,65000,NOTSELECTED,West Virginia
+1749,18-24,2.0,Locals,Graduated,27000,NOTSELECTED,West Virginia
+1750,25-44,2.0,Locals,Graduated,120000,NOTSELECTED,West Virginia
+1751,45+,2.0,Locals,Graduated,110000,NOTSELECTED,West Virginia
+1752,18-24,1.0,Locals,No Degree,26000,NOTSELECTED,West Virginia
+1753,25-44,1.0,Locals,No Degree,48000,NOTSELECTED,West Virginia
+1754,45+,1.0,Locals,No Degree,45000,NOTSELECTED,West Virginia
+1755,18-24,2.0,Locals,No Degree,28000,NOTSELECTED,West Virginia
+1756,25-44,2.0,Locals,No Degree,44000,NOTSELECTED,West Virginia
+1757,45+,2.0,Locals,No Degree,66000,NOTSELECTED,West Virginia
+1758,18-24,1.0,Locals,High School,43000,NOTSELECTED,West Virginia
+1759,25-44,1.0,Locals,High School,77000,NOTSELECTED,West Virginia
+1760,45+,1.0,Locals,High School,55000,NOTSELECTED,West Virginia
+1761,18-24,2.0,Locals,High School,50000,NOTSELECTED,West Virginia
+1762,25-44,2.0,Locals,High School,80000,NOTSELECTED,West Virginia
+1763,45+,2.0,Locals,High School,96000,NOTSELECTED,West Virginia
+1764,18-24,1.0,Expats,Graduated,8500,NOTSELECTED,Wisconsin
+1765,25-44,1.0,Expats,Graduated,32000,NOTSELECTED,Wisconsin
+1766,45+,1.0,Expats,Graduated,12000,NOTSELECTED,Wisconsin
+1767,18-24,2.0,Expats,Graduated,6400,NOTSELECTED,Wisconsin
+1768,25-44,2.0,Expats,Graduated,27000,NOTSELECTED,Wisconsin
+1769,45+,2.0,Expats,Graduated,11000,NOTSELECTED,Wisconsin
+1770,18-24,1.0,Expats,No Degree,8000,NOTSELECTED,Wisconsin
+1771,25-44,1.0,Expats,No Degree,26000,NOTSELECTED,Wisconsin
+1772,45+,1.0,Expats,No Degree,12000,NOTSELECTED,Wisconsin
+1773,18-24,2.0,Expats,No Degree,6900,NOTSELECTED,Wisconsin
+1774,25-44,2.0,Expats,No Degree,21000,NOTSELECTED,Wisconsin
+1775,45+,2.0,Expats,No Degree,12000,NOTSELECTED,Wisconsin
+1776,18-24,1.0,Expats,High School,8400,NOTSELECTED,Wisconsin
+1777,25-44,1.0,Expats,High School,13000,NOTSELECTED,Wisconsin
+1778,45+,1.0,Expats,High School,4200,NOTSELECTED,Wisconsin
+1779,18-24,2.0,Expats,High School,8600,NOTSELECTED,Wisconsin
+1780,25-44,2.0,Expats,High School,11000,NOTSELECTED,Wisconsin
+1781,45+,2.0,Expats,High School,4600,NOTSELECTED,Wisconsin
+1782,18-24,1.0,Locals,Graduated,89000,NOTSELECTED,Wisconsin
+1783,25-44,1.0,Locals,Graduated,310000,NOTSELECTED,Wisconsin
+1784,45+,1.0,Locals,Graduated,220000,NOTSELECTED,Wisconsin
+1785,18-24,2.0,Locals,Graduated,78000,NOTSELECTED,Wisconsin
+1786,25-44,2.0,Locals,Graduated,380000,NOTSELECTED,Wisconsin
+1787,45+,2.0,Locals,Graduated,340000,NOTSELECTED,Wisconsin
+1788,18-24,1.0,Locals,No Degree,78000,NOTSELECTED,Wisconsin
+1789,25-44,1.0,Locals,No Degree,140000,NOTSELECTED,Wisconsin
+1790,45+,1.0,Locals,No Degree,140000,NOTSELECTED,Wisconsin
+1791,18-24,2.0,Locals,No Degree,79000,NOTSELECTED,Wisconsin
+1792,25-44,2.0,Locals,No Degree,120000,NOTSELECTED,Wisconsin
+1793,45+,2.0,Locals,No Degree,200000,NOTSELECTED,Wisconsin
+1794,18-24,1.0,Locals,High School,130000,NOTSELECTED,Wisconsin
+1795,25-44,1.0,Locals,High School,180000,NOTSELECTED,Wisconsin
+1796,45+,1.0,Locals,High School,130000,NOTSELECTED,Wisconsin
+1797,18-24,2.0,Locals,High School,150000,NOTSELECTED,Wisconsin
+1798,25-44,2.0,Locals,High School,180000,NOTSELECTED,Wisconsin
+1799,45+,2.0,Locals,High School,230000,NOTSELECTED,Wisconsin
+1800,18-24,1.0,Expats,Graduated,590,NOTSELECTED,Wyoming
+1801,25-44,1.0,Expats,Graduated,2000,NOTSELECTED,Wyoming
+1802,45+,1.0,Expats,Graduated,720,NOTSELECTED,Wyoming
+1803,18-24,2.0,Expats,Graduated,590,NOTSELECTED,Wyoming
+1804,25-44,2.0,Expats,Graduated,2000,NOTSELECTED,Wyoming
+1805,45+,2.0,Expats,Graduated,880,NOTSELECTED,Wyoming
+1806,18-24,1.0,Expats,No Degree,550,NOTSELECTED,Wyoming
+1807,25-44,1.0,Expats,No Degree,2000,NOTSELECTED,Wyoming
+1808,45+,1.0,Expats,No Degree,1100,NOTSELECTED,Wyoming
+1809,18-24,2.0,Expats,No Degree,470,NOTSELECTED,Wyoming
+1810,25-44,2.0,Expats,No Degree,1700,NOTSELECTED,Wyoming
+1811,45+,2.0,Expats,No Degree,890,NOTSELECTED,Wyoming
+1812,18-24,1.0,Expats,High School,550,NOTSELECTED,Wyoming
+1813,25-44,1.0,Expats,High School,1200,NOTSELECTED,Wyoming
+1814,45+,1.0,Expats,High School,440,NOTSELECTED,Wyoming
+1815,18-24,2.0,Expats,High School,690,NOTSELECTED,Wyoming
+1816,25-44,2.0,Expats,High School,930,NOTSELECTED,Wyoming
+1817,45+,2.0,Expats,High School,410,NOTSELECTED,Wyoming
+1818,18-24,1.0,Locals,Graduated,8500,NOTSELECTED,Wyoming
+1819,25-44,1.0,Locals,Graduated,31000,NOTSELECTED,Wyoming
+1820,45+,1.0,Locals,Graduated,23000,NOTSELECTED,Wyoming
+1821,18-24,2.0,Locals,Graduated,7500,NOTSELECTED,Wyoming
+1822,25-44,2.0,Locals,Graduated,36000,NOTSELECTED,Wyoming
+1823,45+,2.0,Locals,Graduated,34000,NOTSELECTED,Wyoming
+1824,18-24,1.0,Locals,No Degree,8400,NOTSELECTED,Wyoming
+1825,25-44,1.0,Locals,No Degree,14000,NOTSELECTED,Wyoming
+1826,45+,1.0,Locals,No Degree,14000,NOTSELECTED,Wyoming
+1827,18-24,2.0,Locals,No Degree,8600,NOTSELECTED,Wyoming
+1828,25-44,2.0,Locals,No Degree,13000,NOTSELECTED,Wyoming
+1829,45+,2.0,Locals,No Degree,18000,NOTSELECTED,Wyoming
+1830,18-24,1.0,Locals,High School,13000,NOTSELECTED,Wyoming
+1831,25-44,1.0,Locals,High School,22000,NOTSELECTED,Wyoming
+1832,45+,1.0,Locals,High School,14000,NOTSELECTED,Wyoming
+1833,18-24,2.0,Locals,High School,13000,NOTSELECTED,Wyoming
+1834,25-44,2.0,Locals,High School,21000,NOTSELECTED,Wyoming
+1835,45+,2.0,Locals,High School,22000,NOTSELECTED,Wyoming

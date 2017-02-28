@@ -1,0 +1,1225 @@
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,relationship_statuses,audience,timestamp,topic,location
+612,612,18-24,1.0,Expats,Graduated,NOTSELECTED,110000,1487518519.22,fitness and wellness,DZ
+613,613,25-44,1.0,Expats,Graduated,NOTSELECTED,100000,1487518519.22,fitness and wellness,DZ
+614,614,45+,1.0,Expats,Graduated,NOTSELECTED,14000,1487518519.22,fitness and wellness,DZ
+615,615,18-24,2.0,Expats,Graduated,NOTSELECTED,34000,1487518519.22,fitness and wellness,DZ
+616,616,25-44,2.0,Expats,Graduated,NOTSELECTED,28000,1487518519.22,fitness and wellness,DZ
+617,617,45+,2.0,Expats,Graduated,NOTSELECTED,5200,1487518519.22,fitness and wellness,DZ
+618,618,18-24,1.0,Expats,No Degree,NOTSELECTED,60000,1487518519.22,fitness and wellness,DZ
+619,619,25-44,1.0,Expats,No Degree,NOTSELECTED,86000,1487518519.22,fitness and wellness,DZ
+620,620,45+,1.0,Expats,No Degree,NOTSELECTED,17000,1487518519.22,fitness and wellness,DZ
+621,621,18-24,2.0,Expats,No Degree,NOTSELECTED,27000,1487518519.22,fitness and wellness,DZ
+622,622,25-44,2.0,Expats,No Degree,NOTSELECTED,32000,1487518519.22,fitness and wellness,DZ
+623,623,45+,2.0,Expats,No Degree,NOTSELECTED,7300,1487518519.22,fitness and wellness,DZ
+624,624,18-24,1.0,Expats,High School,NOTSELECTED,40000,1487518519.22,fitness and wellness,DZ
+625,625,25-44,1.0,Expats,High School,NOTSELECTED,24000,1487518519.22,fitness and wellness,DZ
+626,626,45+,1.0,Expats,High School,NOTSELECTED,4800,1487518519.22,fitness and wellness,DZ
+627,627,18-24,2.0,Expats,High School,NOTSELECTED,14000,1487518519.22,fitness and wellness,DZ
+628,628,25-44,2.0,Expats,High School,NOTSELECTED,7500,1487518519.22,fitness and wellness,DZ
+629,629,45+,2.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,DZ
+630,630,18-24,1.0,Locals,Graduated,NOTSELECTED,460000,1487518519.22,fitness and wellness,DZ
+631,631,25-44,1.0,Locals,Graduated,NOTSELECTED,710000,1487518519.22,fitness and wellness,DZ
+632,632,45+,1.0,Locals,Graduated,NOTSELECTED,83000,1487518519.22,fitness and wellness,DZ
+633,633,18-24,2.0,Locals,Graduated,NOTSELECTED,300000,1487518519.22,fitness and wellness,DZ
+634,634,25-44,2.0,Locals,Graduated,NOTSELECTED,390000,1487518519.22,fitness and wellness,DZ
+635,635,45+,2.0,Locals,Graduated,NOTSELECTED,38000,1487518519.22,fitness and wellness,DZ
+636,636,18-24,1.0,Locals,No Degree,NOTSELECTED,530000,1487518519.22,fitness and wellness,DZ
+637,637,25-44,1.0,Locals,No Degree,NOTSELECTED,840000,1487518519.22,fitness and wellness,DZ
+638,638,45+,1.0,Locals,No Degree,NOTSELECTED,140000,1487518519.22,fitness and wellness,DZ
+639,639,18-24,2.0,Locals,No Degree,NOTSELECTED,380000,1487518519.22,fitness and wellness,DZ
+640,640,25-44,2.0,Locals,No Degree,NOTSELECTED,460000,1487518519.22,fitness and wellness,DZ
+641,641,45+,2.0,Locals,No Degree,NOTSELECTED,79000,1487518519.22,fitness and wellness,DZ
+642,642,18-24,1.0,Locals,High School,NOTSELECTED,220000,1487518519.22,fitness and wellness,DZ
+643,643,25-44,1.0,Locals,High School,NOTSELECTED,200000,1487518519.22,fitness and wellness,DZ
+644,644,45+,1.0,Locals,High School,NOTSELECTED,31000,1487518519.22,fitness and wellness,DZ
+645,645,18-24,2.0,Locals,High School,NOTSELECTED,150000,1487518519.22,fitness and wellness,DZ
+646,646,25-44,2.0,Locals,High School,NOTSELECTED,91000,1487518519.22,fitness and wellness,DZ
+647,647,45+,2.0,Locals,High School,NOTSELECTED,17000,1487518519.22,fitness and wellness,DZ
+648,648,18-24,1.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fitness and wellness,BH
+649,649,25-44,1.0,Expats,Graduated,NOTSELECTED,76000,1487518519.22,fitness and wellness,BH
+650,650,45+,1.0,Expats,Graduated,NOTSELECTED,10000,1487518519.22,fitness and wellness,BH
+651,651,18-24,2.0,Expats,Graduated,NOTSELECTED,4300,1487518519.22,fitness and wellness,BH
+652,652,25-44,2.0,Expats,Graduated,NOTSELECTED,36000,1487518519.22,fitness and wellness,BH
+653,653,45+,2.0,Expats,Graduated,NOTSELECTED,6500,1487518519.22,fitness and wellness,BH
+654,654,18-24,1.0,Expats,No Degree,NOTSELECTED,20000,1487518519.22,fitness and wellness,BH
+655,655,25-44,1.0,Expats,No Degree,NOTSELECTED,64000,1487518519.22,fitness and wellness,BH
+656,656,45+,1.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,BH
+657,657,18-24,2.0,Expats,No Degree,NOTSELECTED,5300,1487518519.22,fitness and wellness,BH
+658,658,25-44,2.0,Expats,No Degree,NOTSELECTED,21000,1487518519.22,fitness and wellness,BH
+659,659,45+,2.0,Expats,No Degree,NOTSELECTED,5200,1487518519.22,fitness and wellness,BH
+660,660,18-24,1.0,Expats,High School,NOTSELECTED,6900,1487518519.22,fitness and wellness,BH
+661,661,25-44,1.0,Expats,High School,NOTSELECTED,20000,1487518519.22,fitness and wellness,BH
+662,662,45+,1.0,Expats,High School,NOTSELECTED,3400,1487518519.22,fitness and wellness,BH
+663,663,18-24,2.0,Expats,High School,NOTSELECTED,2800,1487518519.22,fitness and wellness,BH
+664,664,25-44,2.0,Expats,High School,NOTSELECTED,10000,1487518519.22,fitness and wellness,BH
+665,665,45+,2.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,BH
+666,666,18-24,1.0,Locals,Graduated,NOTSELECTED,3400,1487518519.22,fitness and wellness,BH
+667,667,25-44,1.0,Locals,Graduated,NOTSELECTED,11000,1487518519.22,fitness and wellness,BH
+668,668,45+,1.0,Locals,Graduated,NOTSELECTED,1600,1487518519.22,fitness and wellness,BH
+669,669,18-24,2.0,Locals,Graduated,NOTSELECTED,2000,1487518519.22,fitness and wellness,BH
+670,670,25-44,2.0,Locals,Graduated,NOTSELECTED,7100,1487518519.22,fitness and wellness,BH
+671,671,45+,2.0,Locals,Graduated,NOTSELECTED,790,1487518519.22,fitness and wellness,BH
+672,672,18-24,1.0,Locals,No Degree,NOTSELECTED,4200,1487518519.22,fitness and wellness,BH
+673,673,25-44,1.0,Locals,No Degree,NOTSELECTED,8700,1487518519.22,fitness and wellness,BH
+674,674,45+,1.0,Locals,No Degree,NOTSELECTED,2000,1487518519.22,fitness and wellness,BH
+675,675,18-24,2.0,Locals,No Degree,NOTSELECTED,2900,1487518519.22,fitness and wellness,BH
+676,676,25-44,2.0,Locals,No Degree,NOTSELECTED,6400,1487518519.22,fitness and wellness,BH
+677,677,45+,2.0,Locals,No Degree,NOTSELECTED,1100,1487518519.22,fitness and wellness,BH
+678,678,18-24,1.0,Locals,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,BH
+679,679,25-44,1.0,Locals,High School,NOTSELECTED,3100,1487518519.22,fitness and wellness,BH
+680,680,45+,1.0,Locals,High School,NOTSELECTED,530,1487518519.22,fitness and wellness,BH
+681,681,18-24,2.0,Locals,High School,NOTSELECTED,2000,1487518519.22,fitness and wellness,BH
+682,682,25-44,2.0,Locals,High School,NOTSELECTED,1600,1487518519.22,fitness and wellness,BH
+683,683,45+,2.0,Locals,High School,NOTSELECTED,230,1487518519.22,fitness and wellness,BH
+684,684,18-24,1.0,Expats,Graduated,NOTSELECTED,63000,1487518519.22,fitness and wellness,EG
+685,685,25-44,1.0,Expats,Graduated,NOTSELECTED,120000,1487518519.22,fitness and wellness,EG
+686,686,45+,1.0,Expats,Graduated,NOTSELECTED,22000,1487518519.22,fitness and wellness,EG
+687,687,18-24,2.0,Expats,Graduated,NOTSELECTED,30000,1487518519.22,fitness and wellness,EG
+688,688,25-44,2.0,Expats,Graduated,NOTSELECTED,60000,1487518519.22,fitness and wellness,EG
+689,689,45+,2.0,Expats,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,EG
+690,690,18-24,1.0,Expats,No Degree,NOTSELECTED,29000,1487518519.22,fitness and wellness,EG
+691,691,25-44,1.0,Expats,No Degree,NOTSELECTED,48000,1487518519.22,fitness and wellness,EG
+692,692,45+,1.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fitness and wellness,EG
+693,693,18-24,2.0,Expats,No Degree,NOTSELECTED,17000,1487518519.22,fitness and wellness,EG
+694,694,25-44,2.0,Expats,No Degree,NOTSELECTED,30000,1487518519.22,fitness and wellness,EG
+695,695,45+,2.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,EG
+696,696,18-24,1.0,Expats,High School,NOTSELECTED,38000,1487518519.22,fitness and wellness,EG
+697,697,25-44,1.0,Expats,High School,NOTSELECTED,27000,1487518519.22,fitness and wellness,EG
+698,698,45+,1.0,Expats,High School,NOTSELECTED,5200,1487518519.22,fitness and wellness,EG
+699,699,18-24,2.0,Expats,High School,NOTSELECTED,24000,1487518519.22,fitness and wellness,EG
+700,700,25-44,2.0,Expats,High School,NOTSELECTED,15000,1487518519.22,fitness and wellness,EG
+701,701,45+,2.0,Expats,High School,NOTSELECTED,3400,1487518519.22,fitness and wellness,EG
+702,702,18-24,1.0,Locals,Graduated,NOTSELECTED,1200000,1487518519.22,fitness and wellness,EG
+703,703,25-44,1.0,Locals,Graduated,NOTSELECTED,2100000,1487518519.22,fitness and wellness,EG
+704,704,45+,1.0,Locals,Graduated,NOTSELECTED,330000,1487518519.22,fitness and wellness,EG
+705,705,18-24,2.0,Locals,Graduated,NOTSELECTED,920000,1487518519.22,fitness and wellness,EG
+706,706,25-44,2.0,Locals,Graduated,NOTSELECTED,1500000,1487518519.22,fitness and wellness,EG
+707,707,45+,2.0,Locals,Graduated,NOTSELECTED,210000,1487518519.22,fitness and wellness,EG
+708,708,18-24,1.0,Locals,No Degree,NOTSELECTED,730000,1487518519.22,fitness and wellness,EG
+709,709,25-44,1.0,Locals,No Degree,NOTSELECTED,1200000,1487518519.22,fitness and wellness,EG
+710,710,45+,1.0,Locals,No Degree,NOTSELECTED,390000,1487518519.22,fitness and wellness,EG
+711,711,18-24,2.0,Locals,No Degree,NOTSELECTED,580000,1487518519.22,fitness and wellness,EG
+712,712,25-44,2.0,Locals,No Degree,NOTSELECTED,910000,1487518519.22,fitness and wellness,EG
+713,713,45+,2.0,Locals,No Degree,NOTSELECTED,340000,1487518519.22,fitness and wellness,EG
+714,714,18-24,1.0,Locals,High School,NOTSELECTED,790000,1487518519.22,fitness and wellness,EG
+715,715,25-44,1.0,Locals,High School,NOTSELECTED,460000,1487518519.22,fitness and wellness,EG
+716,716,45+,1.0,Locals,High School,NOTSELECTED,88000,1487518519.22,fitness and wellness,EG
+717,717,18-24,2.0,Locals,High School,NOTSELECTED,690000,1487518519.22,fitness and wellness,EG
+718,718,25-44,2.0,Locals,High School,NOTSELECTED,280000,1487518519.22,fitness and wellness,EG
+719,719,45+,2.0,Locals,High School,NOTSELECTED,50000,1487518519.22,fitness and wellness,EG
+720,720,18-24,1.0,Expats,Graduated,NOTSELECTED,49000,1487518519.22,fitness and wellness,IQ
+721,721,25-44,1.0,Expats,Graduated,NOTSELECTED,100000,1487518519.22,fitness and wellness,IQ
+722,722,45+,1.0,Expats,Graduated,NOTSELECTED,14000,1487518519.22,fitness and wellness,IQ
+723,723,18-24,2.0,Expats,Graduated,NOTSELECTED,9200,1487518519.22,fitness and wellness,IQ
+724,724,25-44,2.0,Expats,Graduated,NOTSELECTED,20000,1487518519.22,fitness and wellness,IQ
+725,725,45+,2.0,Expats,Graduated,NOTSELECTED,2700,1487518519.22,fitness and wellness,IQ
+726,726,18-24,1.0,Expats,No Degree,NOTSELECTED,39000,1487518519.22,fitness and wellness,IQ
+727,727,25-44,1.0,Expats,No Degree,NOTSELECTED,56000,1487518519.22,fitness and wellness,IQ
+728,728,45+,1.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,IQ
+729,729,18-24,2.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fitness and wellness,IQ
+730,730,25-44,2.0,Expats,No Degree,NOTSELECTED,17000,1487518519.22,fitness and wellness,IQ
+731,731,45+,2.0,Expats,No Degree,NOTSELECTED,3800,1487518519.22,fitness and wellness,IQ
+732,732,18-24,1.0,Expats,High School,NOTSELECTED,27000,1487518519.22,fitness and wellness,IQ
+733,733,25-44,1.0,Expats,High School,NOTSELECTED,29000,1487518519.22,fitness and wellness,IQ
+734,734,45+,1.0,Expats,High School,NOTSELECTED,4200,1487518519.22,fitness and wellness,IQ
+735,735,18-24,2.0,Expats,High School,NOTSELECTED,8200,1487518519.22,fitness and wellness,IQ
+736,736,25-44,2.0,Expats,High School,NOTSELECTED,6400,1487518519.22,fitness and wellness,IQ
+737,737,45+,2.0,Expats,High School,NOTSELECTED,1000,1487518519.22,fitness and wellness,IQ
+738,738,18-24,1.0,Locals,Graduated,NOTSELECTED,500000,1487518519.22,fitness and wellness,IQ
+739,739,25-44,1.0,Locals,Graduated,NOTSELECTED,1000000,1487518519.22,fitness and wellness,IQ
+740,740,45+,1.0,Locals,Graduated,NOTSELECTED,150000,1487518519.22,fitness and wellness,IQ
+741,741,18-24,2.0,Locals,Graduated,NOTSELECTED,130000,1487518519.22,fitness and wellness,IQ
+742,742,25-44,2.0,Locals,Graduated,NOTSELECTED,260000,1487518519.22,fitness and wellness,IQ
+743,743,45+,2.0,Locals,Graduated,NOTSELECTED,42000,1487518519.22,fitness and wellness,IQ
+744,744,18-24,1.0,Locals,No Degree,NOTSELECTED,780000,1487518519.22,fitness and wellness,IQ
+745,745,25-44,1.0,Locals,No Degree,NOTSELECTED,1100000,1487518519.22,fitness and wellness,IQ
+746,746,45+,1.0,Locals,No Degree,NOTSELECTED,260000,1487518519.22,fitness and wellness,IQ
+747,747,18-24,2.0,Locals,No Degree,NOTSELECTED,240000,1487518519.22,fitness and wellness,IQ
+748,748,25-44,2.0,Locals,No Degree,NOTSELECTED,330000,1487518519.22,fitness and wellness,IQ
+749,749,45+,2.0,Locals,No Degree,NOTSELECTED,100000,1487518519.22,fitness and wellness,IQ
+750,750,18-24,1.0,Locals,High School,NOTSELECTED,330000,1487518519.22,fitness and wellness,IQ
+751,751,25-44,1.0,Locals,High School,NOTSELECTED,320000,1487518519.22,fitness and wellness,IQ
+752,752,45+,1.0,Locals,High School,NOTSELECTED,51000,1487518519.22,fitness and wellness,IQ
+753,753,18-24,2.0,Locals,High School,NOTSELECTED,130000,1487518519.22,fitness and wellness,IQ
+754,754,25-44,2.0,Locals,High School,NOTSELECTED,87000,1487518519.22,fitness and wellness,IQ
+755,755,45+,2.0,Locals,High School,NOTSELECTED,15000,1487518519.22,fitness and wellness,IQ
+756,756,18-24,1.0,Expats,Graduated,NOTSELECTED,41000,1487518519.22,fitness and wellness,JO
+757,757,25-44,1.0,Expats,Graduated,NOTSELECTED,90000,1487518519.22,fitness and wellness,JO
+758,758,45+,1.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fitness and wellness,JO
+759,759,18-24,2.0,Expats,Graduated,NOTSELECTED,26000,1487518519.22,fitness and wellness,JO
+760,760,25-44,2.0,Expats,Graduated,NOTSELECTED,62000,1487518519.22,fitness and wellness,JO
+761,761,45+,2.0,Expats,Graduated,NOTSELECTED,13000,1487518519.22,fitness and wellness,JO
+762,762,18-24,1.0,Expats,No Degree,NOTSELECTED,45000,1487518519.22,fitness and wellness,JO
+763,763,25-44,1.0,Expats,No Degree,NOTSELECTED,78000,1487518519.22,fitness and wellness,JO
+764,764,45+,1.0,Expats,No Degree,NOTSELECTED,19000,1487518519.22,fitness and wellness,JO
+765,765,18-24,2.0,Expats,No Degree,NOTSELECTED,26000,1487518519.22,fitness and wellness,JO
+766,766,25-44,2.0,Expats,No Degree,NOTSELECTED,44000,1487518519.22,fitness and wellness,JO
+767,767,45+,2.0,Expats,No Degree,NOTSELECTED,19000,1487518519.22,fitness and wellness,JO
+768,768,18-24,1.0,Expats,High School,NOTSELECTED,35000,1487518519.22,fitness and wellness,JO
+769,769,25-44,1.0,Expats,High School,NOTSELECTED,29000,1487518519.22,fitness and wellness,JO
+770,770,45+,1.0,Expats,High School,NOTSELECTED,5200,1487518519.22,fitness and wellness,JO
+771,771,18-24,2.0,Expats,High School,NOTSELECTED,33000,1487518519.22,fitness and wellness,JO
+772,772,25-44,2.0,Expats,High School,NOTSELECTED,20000,1487518519.22,fitness and wellness,JO
+773,773,45+,2.0,Expats,High School,NOTSELECTED,5300,1487518519.22,fitness and wellness,JO
+774,774,18-24,1.0,Locals,Graduated,NOTSELECTED,130000,1487518519.22,fitness and wellness,JO
+775,775,25-44,1.0,Locals,Graduated,NOTSELECTED,260000,1487518519.22,fitness and wellness,JO
+776,776,45+,1.0,Locals,Graduated,NOTSELECTED,47000,1487518519.22,fitness and wellness,JO
+777,777,18-24,2.0,Locals,Graduated,NOTSELECTED,91000,1487518519.22,fitness and wellness,JO
+778,778,25-44,2.0,Locals,Graduated,NOTSELECTED,190000,1487518519.22,fitness and wellness,JO
+779,779,45+,2.0,Locals,Graduated,NOTSELECTED,29000,1487518519.22,fitness and wellness,JO
+780,780,18-24,1.0,Locals,No Degree,NOTSELECTED,130000,1487518519.22,fitness and wellness,JO
+781,781,25-44,1.0,Locals,No Degree,NOTSELECTED,190000,1487518519.22,fitness and wellness,JO
+782,782,45+,1.0,Locals,No Degree,NOTSELECTED,75000,1487518519.22,fitness and wellness,JO
+783,783,18-24,2.0,Locals,No Degree,NOTSELECTED,110000,1487518519.22,fitness and wellness,JO
+784,784,25-44,2.0,Locals,No Degree,NOTSELECTED,180000,1487518519.22,fitness and wellness,JO
+785,785,45+,2.0,Locals,No Degree,NOTSELECTED,69000,1487518519.22,fitness and wellness,JO
+786,786,18-24,1.0,Locals,High School,NOTSELECTED,110000,1487518519.22,fitness and wellness,JO
+787,787,25-44,1.0,Locals,High School,NOTSELECTED,80000,1487518519.22,fitness and wellness,JO
+788,788,45+,1.0,Locals,High School,NOTSELECTED,19000,1487518519.22,fitness and wellness,JO
+789,789,18-24,2.0,Locals,High School,NOTSELECTED,110000,1487518519.22,fitness and wellness,JO
+790,790,25-44,2.0,Locals,High School,NOTSELECTED,59000,1487518519.22,fitness and wellness,JO
+791,791,45+,2.0,Locals,High School,NOTSELECTED,12000,1487518519.22,fitness and wellness,JO
+792,792,18-24,1.0,Expats,Graduated,NOTSELECTED,26000,1487518519.22,fitness and wellness,KW
+793,793,25-44,1.0,Expats,Graduated,NOTSELECTED,230000,1487518519.22,fitness and wellness,KW
+794,794,45+,1.0,Expats,Graduated,NOTSELECTED,33000,1487518519.22,fitness and wellness,KW
+795,795,18-24,2.0,Expats,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,KW
+796,796,25-44,2.0,Expats,Graduated,NOTSELECTED,120000,1487518519.22,fitness and wellness,KW
+797,797,45+,2.0,Expats,Graduated,NOTSELECTED,17000,1487518519.22,fitness and wellness,KW
+798,798,18-24,1.0,Expats,No Degree,NOTSELECTED,50000,1487518519.22,fitness and wellness,KW
+799,799,25-44,1.0,Expats,No Degree,NOTSELECTED,200000,1487518519.22,fitness and wellness,KW
+800,800,45+,1.0,Expats,No Degree,NOTSELECTED,42000,1487518519.22,fitness and wellness,KW
+801,801,18-24,2.0,Expats,No Degree,NOTSELECTED,23000,1487518519.22,fitness and wellness,KW
+802,802,25-44,2.0,Expats,No Degree,NOTSELECTED,88000,1487518519.22,fitness and wellness,KW
+803,803,45+,2.0,Expats,No Degree,NOTSELECTED,19000,1487518519.22,fitness and wellness,KW
+804,804,18-24,1.0,Expats,High School,NOTSELECTED,13000,1487518519.22,fitness and wellness,KW
+805,805,25-44,1.0,Expats,High School,NOTSELECTED,66000,1487518519.22,fitness and wellness,KW
+806,806,45+,1.0,Expats,High School,NOTSELECTED,10000,1487518519.22,fitness and wellness,KW
+807,807,18-24,2.0,Expats,High School,NOTSELECTED,9600,1487518519.22,fitness and wellness,KW
+808,808,25-44,2.0,Expats,High School,NOTSELECTED,45000,1487518519.22,fitness and wellness,KW
+809,809,45+,2.0,Expats,High School,NOTSELECTED,6300,1487518519.22,fitness and wellness,KW
+810,810,18-24,1.0,Locals,Graduated,NOTSELECTED,2600,1487518519.22,fitness and wellness,KW
+811,811,25-44,1.0,Locals,Graduated,NOTSELECTED,13000,1487518519.22,fitness and wellness,KW
+812,812,45+,1.0,Locals,Graduated,NOTSELECTED,2200,1487518519.22,fitness and wellness,KW
+813,813,18-24,2.0,Locals,Graduated,NOTSELECTED,1500,1487518519.22,fitness and wellness,KW
+814,814,25-44,2.0,Locals,Graduated,NOTSELECTED,8800,1487518519.22,fitness and wellness,KW
+815,815,45+,2.0,Locals,Graduated,NOTSELECTED,1400,1487518519.22,fitness and wellness,KW
+816,816,18-24,1.0,Locals,No Degree,NOTSELECTED,6000,1487518519.22,fitness and wellness,KW
+817,817,25-44,1.0,Locals,No Degree,NOTSELECTED,16000,1487518519.22,fitness and wellness,KW
+818,818,45+,1.0,Locals,No Degree,NOTSELECTED,3400,1487518519.22,fitness and wellness,KW
+819,819,18-24,2.0,Locals,No Degree,NOTSELECTED,4600,1487518519.22,fitness and wellness,KW
+820,820,25-44,2.0,Locals,No Degree,NOTSELECTED,12000,1487518519.22,fitness and wellness,KW
+821,821,45+,2.0,Locals,No Degree,NOTSELECTED,2500,1487518519.22,fitness and wellness,KW
+822,822,18-24,1.0,Locals,High School,NOTSELECTED,1900,1487518519.22,fitness and wellness,KW
+823,823,25-44,1.0,Locals,High School,NOTSELECTED,3300,1487518519.22,fitness and wellness,KW
+824,824,45+,1.0,Locals,High School,NOTSELECTED,630,1487518519.22,fitness and wellness,KW
+825,825,18-24,2.0,Locals,High School,NOTSELECTED,1800,1487518519.22,fitness and wellness,KW
+826,826,25-44,2.0,Locals,High School,NOTSELECTED,2000,1487518519.22,fitness and wellness,KW
+827,827,45+,2.0,Locals,High School,NOTSELECTED,270,1487518519.22,fitness and wellness,KW
+828,828,18-24,1.0,Expats,Graduated,NOTSELECTED,23000,1487518519.22,fitness and wellness,LB
+829,829,25-44,1.0,Expats,Graduated,NOTSELECTED,49000,1487518519.22,fitness and wellness,LB
+830,830,45+,1.0,Expats,Graduated,NOTSELECTED,6900,1487518519.22,fitness and wellness,LB
+831,831,18-24,2.0,Expats,Graduated,NOTSELECTED,9400,1487518519.22,fitness and wellness,LB
+832,832,25-44,2.0,Expats,Graduated,NOTSELECTED,30000,1487518519.22,fitness and wellness,LB
+833,833,45+,2.0,Expats,Graduated,NOTSELECTED,7200,1487518519.22,fitness and wellness,LB
+834,834,18-24,1.0,Expats,No Degree,NOTSELECTED,41000,1487518519.22,fitness and wellness,LB
+835,835,25-44,1.0,Expats,No Degree,NOTSELECTED,70000,1487518519.22,fitness and wellness,LB
+836,836,45+,1.0,Expats,No Degree,NOTSELECTED,13000,1487518519.22,fitness and wellness,LB
+837,837,18-24,2.0,Expats,No Degree,NOTSELECTED,20000,1487518519.22,fitness and wellness,LB
+838,838,25-44,2.0,Expats,No Degree,NOTSELECTED,36000,1487518519.22,fitness and wellness,LB
+839,839,45+,2.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,LB
+840,840,18-24,1.0,Expats,High School,NOTSELECTED,15000,1487518519.22,fitness and wellness,LB
+841,841,25-44,1.0,Expats,High School,NOTSELECTED,19000,1487518519.22,fitness and wellness,LB
+842,842,45+,1.0,Expats,High School,NOTSELECTED,2700,1487518519.22,fitness and wellness,LB
+843,843,18-24,2.0,Expats,High School,NOTSELECTED,8100,1487518519.22,fitness and wellness,LB
+844,844,25-44,2.0,Expats,High School,NOTSELECTED,12000,1487518519.22,fitness and wellness,LB
+845,845,45+,2.0,Expats,High School,NOTSELECTED,2900,1487518519.22,fitness and wellness,LB
+846,846,18-24,1.0,Locals,Graduated,NOTSELECTED,51000,1487518519.22,fitness and wellness,LB
+847,847,25-44,1.0,Locals,Graduated,NOTSELECTED,110000,1487518519.22,fitness and wellness,LB
+848,848,45+,1.0,Locals,Graduated,NOTSELECTED,30000,1487518519.22,fitness and wellness,LB
+849,849,18-24,2.0,Locals,Graduated,NOTSELECTED,50000,1487518519.22,fitness and wellness,LB
+850,850,25-44,2.0,Locals,Graduated,NOTSELECTED,130000,1487518519.22,fitness and wellness,LB
+851,851,45+,2.0,Locals,Graduated,NOTSELECTED,32000,1487518519.22,fitness and wellness,LB
+852,852,18-24,1.0,Locals,No Degree,NOTSELECTED,83000,1487518519.22,fitness and wellness,LB
+853,853,25-44,1.0,Locals,No Degree,NOTSELECTED,130000,1487518519.22,fitness and wellness,LB
+854,854,45+,1.0,Locals,No Degree,NOTSELECTED,61000,1487518519.22,fitness and wellness,LB
+855,855,18-24,2.0,Locals,No Degree,NOTSELECTED,68000,1487518519.22,fitness and wellness,LB
+856,856,25-44,2.0,Locals,No Degree,NOTSELECTED,140000,1487518519.22,fitness and wellness,LB
+857,857,45+,2.0,Locals,No Degree,NOTSELECTED,85000,1487518519.22,fitness and wellness,LB
+858,858,18-24,1.0,Locals,High School,NOTSELECTED,42000,1487518519.22,fitness and wellness,LB
+859,859,25-44,1.0,Locals,High School,NOTSELECTED,32000,1487518519.22,fitness and wellness,LB
+860,860,45+,1.0,Locals,High School,NOTSELECTED,10000,1487518519.22,fitness and wellness,LB
+861,861,18-24,2.0,Locals,High School,NOTSELECTED,52000,1487518519.22,fitness and wellness,LB
+862,862,25-44,2.0,Locals,High School,NOTSELECTED,36000,1487518519.22,fitness and wellness,LB
+863,863,45+,2.0,Locals,High School,NOTSELECTED,12000,1487518519.22,fitness and wellness,LB
+864,864,18-24,1.0,Expats,Graduated,NOTSELECTED,13000,1487518519.22,fitness and wellness,LY
+865,865,25-44,1.0,Expats,Graduated,NOTSELECTED,40000,1487518519.22,fitness and wellness,LY
+866,866,45+,1.0,Expats,Graduated,NOTSELECTED,5100,1487518519.22,fitness and wellness,LY
+867,867,18-24,2.0,Expats,Graduated,NOTSELECTED,4200,1487518519.22,fitness and wellness,LY
+868,868,25-44,2.0,Expats,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,LY
+869,869,45+,2.0,Expats,Graduated,NOTSELECTED,2600,1487518519.22,fitness and wellness,LY
+870,870,18-24,1.0,Expats,No Degree,NOTSELECTED,18000,1487518519.22,fitness and wellness,LY
+871,871,25-44,1.0,Expats,No Degree,NOTSELECTED,42000,1487518519.22,fitness and wellness,LY
+872,872,45+,1.0,Expats,No Degree,NOTSELECTED,6300,1487518519.22,fitness and wellness,LY
+873,873,18-24,2.0,Expats,No Degree,NOTSELECTED,5500,1487518519.22,fitness and wellness,LY
+874,874,25-44,2.0,Expats,No Degree,NOTSELECTED,12000,1487518519.22,fitness and wellness,LY
+875,875,45+,2.0,Expats,No Degree,NOTSELECTED,3400,1487518519.22,fitness and wellness,LY
+876,876,18-24,1.0,Expats,High School,NOTSELECTED,6300,1487518519.22,fitness and wellness,LY
+877,877,25-44,1.0,Expats,High School,NOTSELECTED,10000,1487518519.22,fitness and wellness,LY
+878,878,45+,1.0,Expats,High School,NOTSELECTED,1500,1487518519.22,fitness and wellness,LY
+879,879,18-24,2.0,Expats,High School,NOTSELECTED,2800,1487518519.22,fitness and wellness,LY
+880,880,25-44,2.0,Expats,High School,NOTSELECTED,3200,1487518519.22,fitness and wellness,LY
+881,881,45+,2.0,Expats,High School,NOTSELECTED,670,1487518519.22,fitness and wellness,LY
+882,882,18-24,1.0,Locals,Graduated,NOTSELECTED,78000,1487518519.22,fitness and wellness,LY
+883,883,25-44,1.0,Locals,Graduated,NOTSELECTED,190000,1487518519.22,fitness and wellness,LY
+884,884,45+,1.0,Locals,Graduated,NOTSELECTED,31000,1487518519.22,fitness and wellness,LY
+885,885,18-24,2.0,Locals,Graduated,NOTSELECTED,60000,1487518519.22,fitness and wellness,LY
+886,886,25-44,2.0,Locals,Graduated,NOTSELECTED,120000,1487518519.22,fitness and wellness,LY
+887,887,45+,2.0,Locals,Graduated,NOTSELECTED,16000,1487518519.22,fitness and wellness,LY
+888,888,18-24,1.0,Locals,No Degree,NOTSELECTED,73000,1487518519.22,fitness and wellness,LY
+889,889,25-44,1.0,Locals,No Degree,NOTSELECTED,170000,1487518519.22,fitness and wellness,LY
+890,890,45+,1.0,Locals,No Degree,NOTSELECTED,40000,1487518519.22,fitness and wellness,LY
+891,891,18-24,2.0,Locals,No Degree,NOTSELECTED,65000,1487518519.22,fitness and wellness,LY
+892,892,25-44,2.0,Locals,No Degree,NOTSELECTED,140000,1487518519.22,fitness and wellness,LY
+893,893,45+,2.0,Locals,No Degree,NOTSELECTED,38000,1487518519.22,fitness and wellness,LY
+894,894,18-24,1.0,Locals,High School,NOTSELECTED,45000,1487518519.22,fitness and wellness,LY
+895,895,25-44,1.0,Locals,High School,NOTSELECTED,45000,1487518519.22,fitness and wellness,LY
+896,896,45+,1.0,Locals,High School,NOTSELECTED,8800,1487518519.22,fitness and wellness,LY
+897,897,18-24,2.0,Locals,High School,NOTSELECTED,47000,1487518519.22,fitness and wellness,LY
+898,898,25-44,2.0,Locals,High School,NOTSELECTED,31000,1487518519.22,fitness and wellness,LY
+899,899,45+,2.0,Locals,High School,NOTSELECTED,5200,1487518519.22,fitness and wellness,LY
+900,900,18-24,1.0,Expats,Graduated,NOTSELECTED,92000,1487518519.22,fitness and wellness,MA
+901,901,25-44,1.0,Expats,Graduated,NOTSELECTED,77000,1487518519.22,fitness and wellness,MA
+902,902,45+,1.0,Expats,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,MA
+903,903,18-24,2.0,Expats,Graduated,NOTSELECTED,30000,1487518519.22,fitness and wellness,MA
+904,904,25-44,2.0,Expats,Graduated,NOTSELECTED,30000,1487518519.22,fitness and wellness,MA
+905,905,45+,2.0,Expats,Graduated,NOTSELECTED,4900,1487518519.22,fitness and wellness,MA
+906,906,18-24,1.0,Expats,No Degree,NOTSELECTED,36000,1487518519.22,fitness and wellness,MA
+907,907,25-44,1.0,Expats,No Degree,NOTSELECTED,49000,1487518519.22,fitness and wellness,MA
+908,908,45+,1.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,MA
+909,909,18-24,2.0,Expats,No Degree,NOTSELECTED,22000,1487518519.22,fitness and wellness,MA
+910,910,25-44,2.0,Expats,No Degree,NOTSELECTED,28000,1487518519.22,fitness and wellness,MA
+911,911,45+,2.0,Expats,No Degree,NOTSELECTED,6800,1487518519.22,fitness and wellness,MA
+912,912,18-24,1.0,Expats,High School,NOTSELECTED,34000,1487518519.22,fitness and wellness,MA
+913,913,25-44,1.0,Expats,High School,NOTSELECTED,20000,1487518519.22,fitness and wellness,MA
+914,914,45+,1.0,Expats,High School,NOTSELECTED,3700,1487518519.22,fitness and wellness,MA
+915,915,18-24,2.0,Expats,High School,NOTSELECTED,14000,1487518519.22,fitness and wellness,MA
+916,916,25-44,2.0,Expats,High School,NOTSELECTED,9000,1487518519.22,fitness and wellness,MA
+917,917,45+,2.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,MA
+918,918,18-24,1.0,Locals,Graduated,NOTSELECTED,590000,1487518519.22,fitness and wellness,MA
+919,919,25-44,1.0,Locals,Graduated,NOTSELECTED,640000,1487518519.22,fitness and wellness,MA
+920,920,45+,1.0,Locals,Graduated,NOTSELECTED,91000,1487518519.22,fitness and wellness,MA
+921,921,18-24,2.0,Locals,Graduated,NOTSELECTED,360000,1487518519.22,fitness and wellness,MA
+922,922,25-44,2.0,Locals,Graduated,NOTSELECTED,340000,1487518519.22,fitness and wellness,MA
+923,923,45+,2.0,Locals,Graduated,NOTSELECTED,45000,1487518519.22,fitness and wellness,MA
+924,924,18-24,1.0,Locals,No Degree,NOTSELECTED,500000,1487518519.22,fitness and wellness,MA
+925,925,25-44,1.0,Locals,No Degree,NOTSELECTED,660000,1487518519.22,fitness and wellness,MA
+926,926,45+,1.0,Locals,No Degree,NOTSELECTED,140000,1487518519.22,fitness and wellness,MA
+927,927,18-24,2.0,Locals,No Degree,NOTSELECTED,390000,1487518519.22,fitness and wellness,MA
+928,928,25-44,2.0,Locals,No Degree,NOTSELECTED,400000,1487518519.22,fitness and wellness,MA
+929,929,45+,2.0,Locals,No Degree,NOTSELECTED,87000,1487518519.22,fitness and wellness,MA
+930,930,18-24,1.0,Locals,High School,NOTSELECTED,260000,1487518519.22,fitness and wellness,MA
+931,931,25-44,1.0,Locals,High School,NOTSELECTED,170000,1487518519.22,fitness and wellness,MA
+932,932,45+,1.0,Locals,High School,NOTSELECTED,30000,1487518519.22,fitness and wellness,MA
+933,933,18-24,2.0,Locals,High School,NOTSELECTED,190000,1487518519.22,fitness and wellness,MA
+934,934,25-44,2.0,Locals,High School,NOTSELECTED,98000,1487518519.22,fitness and wellness,MA
+935,935,45+,2.0,Locals,High School,NOTSELECTED,18000,1487518519.22,fitness and wellness,MA
+936,936,18-24,1.0,Expats,Graduated,NOTSELECTED,26000,1487518519.22,fitness and wellness,OM
+937,937,25-44,1.0,Expats,Graduated,NOTSELECTED,130000,1487518519.22,fitness and wellness,OM
+938,938,45+,1.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fitness and wellness,OM
+939,939,18-24,2.0,Expats,Graduated,NOTSELECTED,5100,1487518519.22,fitness and wellness,OM
+940,940,25-44,2.0,Expats,Graduated,NOTSELECTED,40000,1487518519.22,fitness and wellness,OM
+941,941,45+,2.0,Expats,Graduated,NOTSELECTED,6200,1487518519.22,fitness and wellness,OM
+942,942,18-24,1.0,Expats,No Degree,NOTSELECTED,53000,1487518519.22,fitness and wellness,OM
+943,943,25-44,1.0,Expats,No Degree,NOTSELECTED,110000,1487518519.22,fitness and wellness,OM
+944,944,45+,1.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fitness and wellness,OM
+945,945,18-24,2.0,Expats,No Degree,NOTSELECTED,13000,1487518519.22,fitness and wellness,OM
+946,946,25-44,2.0,Expats,No Degree,NOTSELECTED,28000,1487518519.22,fitness and wellness,OM
+947,947,45+,2.0,Expats,No Degree,NOTSELECTED,4700,1487518519.22,fitness and wellness,OM
+948,948,18-24,1.0,Expats,High School,NOTSELECTED,9400,1487518519.22,fitness and wellness,OM
+949,949,25-44,1.0,Expats,High School,NOTSELECTED,28000,1487518519.22,fitness and wellness,OM
+950,950,45+,1.0,Expats,High School,NOTSELECTED,4100,1487518519.22,fitness and wellness,OM
+951,951,18-24,2.0,Expats,High School,NOTSELECTED,3700,1487518519.22,fitness and wellness,OM
+952,952,25-44,2.0,Expats,High School,NOTSELECTED,9800,1487518519.22,fitness and wellness,OM
+953,953,45+,2.0,Expats,High School,NOTSELECTED,1800,1487518519.22,fitness and wellness,OM
+954,954,18-24,1.0,Locals,Graduated,NOTSELECTED,7600,1487518519.22,fitness and wellness,OM
+955,955,25-44,1.0,Locals,Graduated,NOTSELECTED,23000,1487518519.22,fitness and wellness,OM
+956,956,45+,1.0,Locals,Graduated,NOTSELECTED,1300,1487518519.22,fitness and wellness,OM
+957,957,18-24,2.0,Locals,Graduated,NOTSELECTED,1700,1487518519.22,fitness and wellness,OM
+958,958,25-44,2.0,Locals,Graduated,NOTSELECTED,5200,1487518519.22,fitness and wellness,OM
+959,959,45+,2.0,Locals,Graduated,NOTSELECTED,380,1487518519.22,fitness and wellness,OM
+960,960,18-24,1.0,Locals,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,OM
+961,961,25-44,1.0,Locals,No Degree,NOTSELECTED,19000,1487518519.22,fitness and wellness,OM
+962,962,45+,1.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fitness and wellness,OM
+963,963,18-24,2.0,Locals,No Degree,NOTSELECTED,3400,1487518519.22,fitness and wellness,OM
+964,964,25-44,2.0,Locals,No Degree,NOTSELECTED,6300,1487518519.22,fitness and wellness,OM
+965,965,45+,2.0,Locals,No Degree,NOTSELECTED,720,1487518519.22,fitness and wellness,OM
+966,966,18-24,1.0,Locals,High School,NOTSELECTED,4400,1487518519.22,fitness and wellness,OM
+967,967,25-44,1.0,Locals,High School,NOTSELECTED,6600,1487518519.22,fitness and wellness,OM
+968,968,45+,1.0,Locals,High School,NOTSELECTED,470,1487518519.22,fitness and wellness,OM
+969,969,18-24,2.0,Locals,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,OM
+970,970,25-44,2.0,Locals,High School,NOTSELECTED,1300,1487518519.22,fitness and wellness,OM
+971,971,45+,2.0,Locals,High School,NOTSELECTED,160,1487518519.22,fitness and wellness,OM
+972,972,18-24,1.0,Expats,Graduated,NOTSELECTED,76000,1487518519.22,fitness and wellness,QA
+973,973,25-44,1.0,Expats,Graduated,NOTSELECTED,350000,1487518519.22,fitness and wellness,QA
+974,974,45+,1.0,Expats,Graduated,NOTSELECTED,39000,1487518519.22,fitness and wellness,QA
+975,975,18-24,2.0,Expats,Graduated,NOTSELECTED,18000,1487518519.22,fitness and wellness,QA
+976,976,25-44,2.0,Expats,Graduated,NOTSELECTED,120000,1487518519.22,fitness and wellness,QA
+977,977,45+,2.0,Expats,Graduated,NOTSELECTED,14000,1487518519.22,fitness and wellness,QA
+978,978,18-24,1.0,Expats,No Degree,NOTSELECTED,110000,1487518519.22,fitness and wellness,QA
+979,979,25-44,1.0,Expats,No Degree,NOTSELECTED,230000,1487518519.22,fitness and wellness,QA
+980,980,45+,1.0,Expats,No Degree,NOTSELECTED,33000,1487518519.22,fitness and wellness,QA
+981,981,18-24,2.0,Expats,No Degree,NOTSELECTED,22000,1487518519.22,fitness and wellness,QA
+982,982,25-44,2.0,Expats,No Degree,NOTSELECTED,56000,1487518519.22,fitness and wellness,QA
+983,983,45+,2.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fitness and wellness,QA
+984,984,18-24,1.0,Expats,High School,NOTSELECTED,29000,1487518519.22,fitness and wellness,QA
+985,985,25-44,1.0,Expats,High School,NOTSELECTED,82000,1487518519.22,fitness and wellness,QA
+986,986,45+,1.0,Expats,High School,NOTSELECTED,11000,1487518519.22,fitness and wellness,QA
+987,987,18-24,2.0,Expats,High School,NOTSELECTED,9300,1487518519.22,fitness and wellness,QA
+988,988,25-44,2.0,Expats,High School,NOTSELECTED,30000,1487518519.22,fitness and wellness,QA
+989,989,45+,2.0,Expats,High School,NOTSELECTED,4100,1487518519.22,fitness and wellness,QA
+990,990,18-24,1.0,Locals,Graduated,NOTSELECTED,3500,1487518519.22,fitness and wellness,QA
+991,991,25-44,1.0,Locals,Graduated,NOTSELECTED,10000,1487518519.22,fitness and wellness,QA
+992,992,45+,1.0,Locals,Graduated,NOTSELECTED,1300,1487518519.22,fitness and wellness,QA
+993,993,18-24,2.0,Locals,Graduated,NOTSELECTED,1400,1487518519.22,fitness and wellness,QA
+994,994,25-44,2.0,Locals,Graduated,NOTSELECTED,5100,1487518519.22,fitness and wellness,QA
+995,995,45+,2.0,Locals,Graduated,NOTSELECTED,680,1487518519.22,fitness and wellness,QA
+996,996,18-24,1.0,Locals,No Degree,NOTSELECTED,3900,1487518519.22,fitness and wellness,QA
+997,997,25-44,1.0,Locals,No Degree,NOTSELECTED,8300,1487518519.22,fitness and wellness,QA
+998,998,45+,1.0,Locals,No Degree,NOTSELECTED,1300,1487518519.22,fitness and wellness,QA
+999,999,18-24,2.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fitness and wellness,QA
+1000,1000,25-44,2.0,Locals,No Degree,NOTSELECTED,4600,1487518519.22,fitness and wellness,QA
+1001,1001,45+,2.0,Locals,No Degree,NOTSELECTED,1100,1487518519.22,fitness and wellness,QA
+1002,1002,18-24,1.0,Locals,High School,NOTSELECTED,1600,1487518519.22,fitness and wellness,QA
+1003,1003,25-44,1.0,Locals,High School,NOTSELECTED,2800,1487518519.22,fitness and wellness,QA
+1004,1004,45+,1.0,Locals,High School,NOTSELECTED,360,1487518519.22,fitness and wellness,QA
+1005,1005,18-24,2.0,Locals,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,QA
+1006,1006,25-44,2.0,Locals,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,QA
+1007,1007,45+,2.0,Locals,High School,NOTSELECTED,160,1487518519.22,fitness and wellness,QA
+1008,1008,18-24,1.0,Expats,Graduated,NOTSELECTED,230000,1487518519.22,fitness and wellness,SA
+1009,1009,25-44,1.0,Expats,Graduated,NOTSELECTED,1200000,1487518519.22,fitness and wellness,SA
+1010,1010,45+,1.0,Expats,Graduated,NOTSELECTED,140000,1487518519.22,fitness and wellness,SA
+1011,1011,18-24,2.0,Expats,Graduated,NOTSELECTED,52000,1487518519.22,fitness and wellness,SA
+1012,1012,25-44,2.0,Expats,Graduated,NOTSELECTED,330000,1487518519.22,fitness and wellness,SA
+1013,1013,45+,2.0,Expats,Graduated,NOTSELECTED,43000,1487518519.22,fitness and wellness,SA
+1014,1014,18-24,1.0,Expats,No Degree,NOTSELECTED,69000,1487518519.22,fitness and wellness,SA
+1015,1015,25-44,1.0,Expats,No Degree,NOTSELECTED,230000,1487518519.22,fitness and wellness,SA
+1016,1016,45+,1.0,Expats,No Degree,NOTSELECTED,35000,1487518519.22,fitness and wellness,SA
+1017,1017,18-24,2.0,Expats,No Degree,NOTSELECTED,28000,1487518519.22,fitness and wellness,SA
+1018,1018,25-44,2.0,Expats,No Degree,NOTSELECTED,83000,1487518519.22,fitness and wellness,SA
+1019,1019,45+,2.0,Expats,No Degree,NOTSELECTED,16000,1487518519.22,fitness and wellness,SA
+1020,1020,18-24,1.0,Expats,High School,NOTSELECTED,83000,1487518519.22,fitness and wellness,SA
+1021,1021,25-44,1.0,Expats,High School,NOTSELECTED,280000,1487518519.22,fitness and wellness,SA
+1022,1022,45+,1.0,Expats,High School,NOTSELECTED,34000,1487518519.22,fitness and wellness,SA
+1023,1023,18-24,2.0,Expats,High School,NOTSELECTED,33000,1487518519.22,fitness and wellness,SA
+1024,1024,25-44,2.0,Expats,High School,NOTSELECTED,89000,1487518519.22,fitness and wellness,SA
+1025,1025,45+,2.0,Expats,High School,NOTSELECTED,12000,1487518519.22,fitness and wellness,SA
+1026,1026,18-24,1.0,Locals,Graduated,NOTSELECTED,110000,1487518519.22,fitness and wellness,SA
+1027,1027,25-44,1.0,Locals,Graduated,NOTSELECTED,480000,1487518519.22,fitness and wellness,SA
+1028,1028,45+,1.0,Locals,Graduated,NOTSELECTED,57000,1487518519.22,fitness and wellness,SA
+1029,1029,18-24,2.0,Locals,Graduated,NOTSELECTED,37000,1487518519.22,fitness and wellness,SA
+1030,1030,25-44,2.0,Locals,Graduated,NOTSELECTED,140000,1487518519.22,fitness and wellness,SA
+1031,1031,45+,2.0,Locals,Graduated,NOTSELECTED,18000,1487518519.22,fitness and wellness,SA
+1032,1032,18-24,1.0,Locals,No Degree,NOTSELECTED,640000,1487518519.22,fitness and wellness,SA
+1033,1033,25-44,1.0,Locals,No Degree,NOTSELECTED,1300000,1487518519.22,fitness and wellness,SA
+1034,1034,45+,1.0,Locals,No Degree,NOTSELECTED,190000,1487518519.22,fitness and wellness,SA
+1035,1035,18-24,2.0,Locals,No Degree,NOTSELECTED,170000,1487518519.22,fitness and wellness,SA
+1036,1036,25-44,2.0,Locals,No Degree,NOTSELECTED,280000,1487518519.22,fitness and wellness,SA
+1037,1037,45+,2.0,Locals,No Degree,NOTSELECTED,52000,1487518519.22,fitness and wellness,SA
+1038,1038,18-24,1.0,Locals,High School,NOTSELECTED,66000,1487518519.22,fitness and wellness,SA
+1039,1039,25-44,1.0,Locals,High School,NOTSELECTED,170000,1487518519.22,fitness and wellness,SA
+1040,1040,45+,1.0,Locals,High School,NOTSELECTED,22000,1487518519.22,fitness and wellness,SA
+1041,1041,18-24,2.0,Locals,High School,NOTSELECTED,33000,1487518519.22,fitness and wellness,SA
+1042,1042,25-44,2.0,Locals,High School,NOTSELECTED,48000,1487518519.22,fitness and wellness,SA
+1043,1043,45+,2.0,Locals,High School,NOTSELECTED,6400,1487518519.22,fitness and wellness,SA
+1044,1044,18-24,1.0,Expats,Graduated,NOTSELECTED,7400,1487518519.22,fitness and wellness,SO
+1045,1045,25-44,1.0,Expats,Graduated,NOTSELECTED,8500,1487518519.22,fitness and wellness,SO
+1046,1046,45+,1.0,Expats,Graduated,NOTSELECTED,1200,1487518519.22,fitness and wellness,SO
+1047,1047,18-24,2.0,Expats,Graduated,NOTSELECTED,3200,1487518519.22,fitness and wellness,SO
+1048,1048,25-44,2.0,Expats,Graduated,NOTSELECTED,2200,1487518519.22,fitness and wellness,SO
+1049,1049,45+,2.0,Expats,Graduated,NOTSELECTED,320,1487518519.22,fitness and wellness,SO
+1050,1050,18-24,1.0,Expats,No Degree,NOTSELECTED,2100,1487518519.22,fitness and wellness,SO
+1051,1051,25-44,1.0,Expats,No Degree,NOTSELECTED,2900,1487518519.22,fitness and wellness,SO
+1052,1052,45+,1.0,Expats,No Degree,NOTSELECTED,600,1487518519.22,fitness and wellness,SO
+1053,1053,18-24,2.0,Expats,No Degree,NOTSELECTED,1400,1487518519.22,fitness and wellness,SO
+1054,1054,25-44,2.0,Expats,No Degree,NOTSELECTED,1100,1487518519.22,fitness and wellness,SO
+1055,1055,45+,2.0,Expats,No Degree,NOTSELECTED,120,1487518519.22,fitness and wellness,SO
+1056,1056,18-24,1.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,SO
+1057,1057,25-44,1.0,Expats,High School,NOTSELECTED,1700,1487518519.22,fitness and wellness,SO
+1058,1058,45+,1.0,Expats,High School,NOTSELECTED,250,1487518519.22,fitness and wellness,SO
+1059,1059,18-24,2.0,Expats,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,SO
+1060,1060,25-44,2.0,Expats,High School,NOTSELECTED,570,1487518519.22,fitness and wellness,SO
+1061,1061,45+,2.0,Expats,High School,NOTSELECTED,110,1487518519.22,fitness and wellness,SO
+1062,1062,18-24,1.0,Locals,Graduated,NOTSELECTED,22000,1487518519.22,fitness and wellness,SO
+1063,1063,25-44,1.0,Locals,Graduated,NOTSELECTED,23000,1487518519.22,fitness and wellness,SO
+1064,1064,45+,1.0,Locals,Graduated,NOTSELECTED,1700,1487518519.22,fitness and wellness,SO
+1065,1065,18-24,2.0,Locals,Graduated,NOTSELECTED,14000,1487518519.22,fitness and wellness,SO
+1066,1066,25-44,2.0,Locals,Graduated,NOTSELECTED,9600,1487518519.22,fitness and wellness,SO
+1067,1067,45+,2.0,Locals,Graduated,NOTSELECTED,990,1487518519.22,fitness and wellness,SO
+1068,1068,18-24,1.0,Locals,No Degree,NOTSELECTED,25000,1487518519.22,fitness and wellness,SO
+1069,1069,25-44,1.0,Locals,No Degree,NOTSELECTED,16000,1487518519.22,fitness and wellness,SO
+1070,1070,45+,1.0,Locals,No Degree,NOTSELECTED,3200,1487518519.22,fitness and wellness,SO
+1071,1071,18-24,2.0,Locals,No Degree,NOTSELECTED,28000,1487518519.22,fitness and wellness,SO
+1072,1072,25-44,2.0,Locals,No Degree,NOTSELECTED,14000,1487518519.22,fitness and wellness,SO
+1073,1073,45+,2.0,Locals,No Degree,NOTSELECTED,1400,1487518519.22,fitness and wellness,SO
+1074,1074,18-24,1.0,Locals,High School,NOTSELECTED,8800,1487518519.22,fitness and wellness,SO
+1075,1075,25-44,1.0,Locals,High School,NOTSELECTED,4600,1487518519.22,fitness and wellness,SO
+1076,1076,45+,1.0,Locals,High School,NOTSELECTED,510,1487518519.22,fitness and wellness,SO
+1077,1077,18-24,2.0,Locals,High School,NOTSELECTED,6100,1487518519.22,fitness and wellness,SO
+1078,1078,25-44,2.0,Locals,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,SO
+1079,1079,45+,2.0,Locals,High School,NOTSELECTED,380,1487518519.22,fitness and wellness,SO
+1080,1080,18-24,1.0,Expats,Graduated,NOTSELECTED,33000,1487518519.22,fitness and wellness,TN
+1081,1081,25-44,1.0,Expats,Graduated,NOTSELECTED,40000,1487518519.22,fitness and wellness,TN
+1082,1082,45+,1.0,Expats,Graduated,NOTSELECTED,8900,1487518519.22,fitness and wellness,TN
+1083,1083,18-24,2.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fitness and wellness,TN
+1084,1084,25-44,2.0,Expats,Graduated,NOTSELECTED,19000,1487518519.22,fitness and wellness,TN
+1085,1085,45+,2.0,Expats,Graduated,NOTSELECTED,4600,1487518519.22,fitness and wellness,TN
+1086,1086,18-24,1.0,Expats,No Degree,NOTSELECTED,16000,1487518519.22,fitness and wellness,TN
+1087,1087,25-44,1.0,Expats,No Degree,NOTSELECTED,26000,1487518519.22,fitness and wellness,TN
+1088,1088,45+,1.0,Expats,No Degree,NOTSELECTED,7300,1487518519.22,fitness and wellness,TN
+1089,1089,18-24,2.0,Expats,No Degree,NOTSELECTED,10000,1487518519.22,fitness and wellness,TN
+1090,1090,25-44,2.0,Expats,No Degree,NOTSELECTED,16000,1487518519.22,fitness and wellness,TN
+1091,1091,45+,2.0,Expats,No Degree,NOTSELECTED,4600,1487518519.22,fitness and wellness,TN
+1092,1092,18-24,1.0,Expats,High School,NOTSELECTED,14000,1487518519.22,fitness and wellness,TN
+1093,1093,25-44,1.0,Expats,High School,NOTSELECTED,11000,1487518519.22,fitness and wellness,TN
+1094,1094,45+,1.0,Expats,High School,NOTSELECTED,2900,1487518519.22,fitness and wellness,TN
+1095,1095,18-24,2.0,Expats,High School,NOTSELECTED,7900,1487518519.22,fitness and wellness,TN
+1096,1096,25-44,2.0,Expats,High School,NOTSELECTED,5900,1487518519.22,fitness and wellness,TN
+1097,1097,45+,2.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fitness and wellness,TN
+1098,1098,18-24,1.0,Locals,Graduated,NOTSELECTED,180000,1487518519.22,fitness and wellness,TN
+1099,1099,25-44,1.0,Locals,Graduated,NOTSELECTED,360000,1487518519.22,fitness and wellness,TN
+1100,1100,45+,1.0,Locals,Graduated,NOTSELECTED,81000,1487518519.22,fitness and wellness,TN
+1101,1101,18-24,2.0,Locals,Graduated,NOTSELECTED,200000,1487518519.22,fitness and wellness,TN
+1102,1102,25-44,2.0,Locals,Graduated,NOTSELECTED,350000,1487518519.22,fitness and wellness,TN
+1103,1103,45+,2.0,Locals,Graduated,NOTSELECTED,45000,1487518519.22,fitness and wellness,TN
+1104,1104,18-24,1.0,Locals,No Degree,NOTSELECTED,170000,1487518519.22,fitness and wellness,TN
+1105,1105,25-44,1.0,Locals,No Degree,NOTSELECTED,300000,1487518519.22,fitness and wellness,TN
+1106,1106,45+,1.0,Locals,No Degree,NOTSELECTED,88000,1487518519.22,fitness and wellness,TN
+1107,1107,18-24,2.0,Locals,No Degree,NOTSELECTED,190000,1487518519.22,fitness and wellness,TN
+1108,1108,25-44,2.0,Locals,No Degree,NOTSELECTED,260000,1487518519.22,fitness and wellness,TN
+1109,1109,45+,2.0,Locals,No Degree,NOTSELECTED,70000,1487518519.22,fitness and wellness,TN
+1110,1110,18-24,1.0,Locals,High School,NOTSELECTED,95000,1487518519.22,fitness and wellness,TN
+1111,1111,25-44,1.0,Locals,High School,NOTSELECTED,110000,1487518519.22,fitness and wellness,TN
+1112,1112,45+,1.0,Locals,High School,NOTSELECTED,33000,1487518519.22,fitness and wellness,TN
+1113,1113,18-24,2.0,Locals,High School,NOTSELECTED,110000,1487518519.22,fitness and wellness,TN
+1114,1114,25-44,2.0,Locals,High School,NOTSELECTED,90000,1487518519.22,fitness and wellness,TN
+1115,1115,45+,2.0,Locals,High School,NOTSELECTED,25000,1487518519.22,fitness and wellness,TN
+1116,1116,18-24,1.0,Expats,Graduated,NOTSELECTED,230000,1487518519.22,fitness and wellness,AE
+1117,1117,25-44,1.0,Expats,Graduated,NOTSELECTED,1100000,1487518519.22,fitness and wellness,AE
+1118,1118,45+,1.0,Expats,Graduated,NOTSELECTED,110000,1487518519.22,fitness and wellness,AE
+1119,1119,18-24,2.0,Expats,Graduated,NOTSELECTED,74000,1487518519.22,fitness and wellness,AE
+1120,1120,25-44,2.0,Expats,Graduated,NOTSELECTED,520000,1487518519.22,fitness and wellness,AE
+1121,1121,45+,2.0,Expats,Graduated,NOTSELECTED,66000,1487518519.22,fitness and wellness,AE
+1122,1122,18-24,1.0,Expats,No Degree,NOTSELECTED,270000,1487518519.22,fitness and wellness,AE
+1123,1123,25-44,1.0,Expats,No Degree,NOTSELECTED,640000,1487518519.22,fitness and wellness,AE
+1124,1124,45+,1.0,Expats,No Degree,NOTSELECTED,92000,1487518519.22,fitness and wellness,AE
+1125,1125,18-24,2.0,Expats,No Degree,NOTSELECTED,67000,1487518519.22,fitness and wellness,AE
+1126,1126,25-44,2.0,Expats,No Degree,NOTSELECTED,210000,1487518519.22,fitness and wellness,AE
+1127,1127,45+,2.0,Expats,No Degree,NOTSELECTED,49000,1487518519.22,fitness and wellness,AE
+1128,1128,18-24,1.0,Expats,High School,NOTSELECTED,85000,1487518519.22,fitness and wellness,AE
+1129,1129,25-44,1.0,Expats,High School,NOTSELECTED,240000,1487518519.22,fitness and wellness,AE
+1130,1130,45+,1.0,Expats,High School,NOTSELECTED,31000,1487518519.22,fitness and wellness,AE
+1131,1131,18-24,2.0,Expats,High School,NOTSELECTED,40000,1487518519.22,fitness and wellness,AE
+1132,1132,25-44,2.0,Expats,High School,NOTSELECTED,110000,1487518519.22,fitness and wellness,AE
+1133,1133,45+,2.0,Expats,High School,NOTSELECTED,19000,1487518519.22,fitness and wellness,AE
+1134,1134,18-24,1.0,Locals,Graduated,NOTSELECTED,13000,1487518519.22,fitness and wellness,AE
+1135,1135,25-44,1.0,Locals,Graduated,NOTSELECTED,41000,1487518519.22,fitness and wellness,AE
+1136,1136,45+,1.0,Locals,Graduated,NOTSELECTED,4100,1487518519.22,fitness and wellness,AE
+1137,1137,18-24,2.0,Locals,Graduated,NOTSELECTED,5900,1487518519.22,fitness and wellness,AE
+1138,1138,25-44,2.0,Locals,Graduated,NOTSELECTED,22000,1487518519.22,fitness and wellness,AE
+1139,1139,45+,2.0,Locals,Graduated,NOTSELECTED,2600,1487518519.22,fitness and wellness,AE
+1140,1140,18-24,1.0,Locals,No Degree,NOTSELECTED,19000,1487518519.22,fitness and wellness,AE
+1141,1141,25-44,1.0,Locals,No Degree,NOTSELECTED,40000,1487518519.22,fitness and wellness,AE
+1142,1142,45+,1.0,Locals,No Degree,NOTSELECTED,7300,1487518519.22,fitness and wellness,AE
+1143,1143,18-24,2.0,Locals,No Degree,NOTSELECTED,9200,1487518519.22,fitness and wellness,AE
+1144,1144,25-44,2.0,Locals,No Degree,NOTSELECTED,22000,1487518519.22,fitness and wellness,AE
+1145,1145,45+,2.0,Locals,No Degree,NOTSELECTED,4200,1487518519.22,fitness and wellness,AE
+1146,1146,18-24,1.0,Locals,High School,NOTSELECTED,7100,1487518519.22,fitness and wellness,AE
+1147,1147,25-44,1.0,Locals,High School,NOTSELECTED,10000,1487518519.22,fitness and wellness,AE
+1148,1148,45+,1.0,Locals,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,AE
+1149,1149,18-24,2.0,Locals,High School,NOTSELECTED,4600,1487518519.22,fitness and wellness,AE
+1150,1150,25-44,2.0,Locals,High School,NOTSELECTED,4900,1487518519.22,fitness and wellness,AE
+1151,1151,45+,2.0,Locals,High School,NOTSELECTED,940,1487518519.22,fitness and wellness,AE
+1152,1152,18-24,1.0,Expats,Graduated,NOTSELECTED,7300,1487518519.22,fitness and wellness,YE
+1153,1153,25-44,1.0,Expats,Graduated,NOTSELECTED,14000,1487518519.22,fitness and wellness,YE
+1154,1154,45+,1.0,Expats,Graduated,NOTSELECTED,1600,1487518519.22,fitness and wellness,YE
+1155,1155,18-24,2.0,Expats,Graduated,NOTSELECTED,1500,1487518519.22,fitness and wellness,YE
+1156,1156,25-44,2.0,Expats,Graduated,NOTSELECTED,2600,1487518519.22,fitness and wellness,YE
+1157,1157,45+,2.0,Expats,Graduated,NOTSELECTED,370,1487518519.22,fitness and wellness,YE
+1158,1158,18-24,1.0,Expats,No Degree,NOTSELECTED,4400,1487518519.22,fitness and wellness,YE
+1159,1159,25-44,1.0,Expats,No Degree,NOTSELECTED,7200,1487518519.22,fitness and wellness,YE
+1160,1160,45+,1.0,Expats,No Degree,NOTSELECTED,870,1487518519.22,fitness and wellness,YE
+1161,1161,18-24,2.0,Expats,No Degree,NOTSELECTED,2500,1487518519.22,fitness and wellness,YE
+1162,1162,25-44,2.0,Expats,No Degree,NOTSELECTED,2400,1487518519.22,fitness and wellness,YE
+1163,1163,45+,2.0,Expats,No Degree,NOTSELECTED,430,1487518519.22,fitness and wellness,YE
+1164,1164,18-24,1.0,Expats,High School,NOTSELECTED,3500,1487518519.22,fitness and wellness,YE
+1165,1165,25-44,1.0,Expats,High School,NOTSELECTED,3200,1487518519.22,fitness and wellness,YE
+1166,1166,45+,1.0,Expats,High School,NOTSELECTED,400,1487518519.22,fitness and wellness,YE
+1167,1167,18-24,2.0,Expats,High School,NOTSELECTED,1200,1487518519.22,fitness and wellness,YE
+1168,1168,25-44,2.0,Expats,High School,NOTSELECTED,800,1487518519.22,fitness and wellness,YE
+1169,1169,45+,2.0,Expats,High School,NOTSELECTED,90,1487518519.22,fitness and wellness,YE
+1170,1170,18-24,1.0,Locals,Graduated,NOTSELECTED,53000,1487518519.22,fitness and wellness,YE
+1171,1171,25-44,1.0,Locals,Graduated,NOTSELECTED,120000,1487518519.22,fitness and wellness,YE
+1172,1172,45+,1.0,Locals,Graduated,NOTSELECTED,10000,1487518519.22,fitness and wellness,YE
+1173,1173,18-24,2.0,Locals,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,YE
+1174,1174,25-44,2.0,Locals,Graduated,NOTSELECTED,22000,1487518519.22,fitness and wellness,YE
+1175,1175,45+,2.0,Locals,Graduated,NOTSELECTED,1400,1487518519.22,fitness and wellness,YE
+1176,1176,18-24,1.0,Locals,No Degree,NOTSELECTED,60000,1487518519.22,fitness and wellness,YE
+1177,1177,25-44,1.0,Locals,No Degree,NOTSELECTED,86000,1487518519.22,fitness and wellness,YE
+1178,1178,45+,1.0,Locals,No Degree,NOTSELECTED,14000,1487518519.22,fitness and wellness,YE
+1179,1179,18-24,2.0,Locals,No Degree,NOTSELECTED,15000,1487518519.22,fitness and wellness,YE
+1180,1180,25-44,2.0,Locals,No Degree,NOTSELECTED,17000,1487518519.22,fitness and wellness,YE
+1181,1181,45+,2.0,Locals,No Degree,NOTSELECTED,2600,1487518519.22,fitness and wellness,YE
+1182,1182,18-24,1.0,Locals,High School,NOTSELECTED,35000,1487518519.22,fitness and wellness,YE
+1183,1183,25-44,1.0,Locals,High School,NOTSELECTED,33000,1487518519.22,fitness and wellness,YE
+1184,1184,45+,1.0,Locals,High School,NOTSELECTED,3300,1487518519.22,fitness and wellness,YE
+1185,1185,18-24,2.0,Locals,High School,NOTSELECTED,12000,1487518519.22,fitness and wellness,YE
+1186,1186,25-44,2.0,Locals,High School,NOTSELECTED,6100,1487518519.22,fitness and wellness,YE
+1187,1187,45+,2.0,Locals,High School,NOTSELECTED,520,1487518519.22,fitness and wellness,YE
+1188,1188,18-24,1.0,Expats,Graduated,NOTSELECTED,12000,1487518519.22,fitness and wellness,PS
+1189,1189,25-44,1.0,Expats,Graduated,NOTSELECTED,20000,1487518519.22,fitness and wellness,PS
+1190,1190,45+,1.0,Expats,Graduated,NOTSELECTED,2900,1487518519.22,fitness and wellness,PS
+1191,1191,18-24,2.0,Expats,Graduated,NOTSELECTED,8800,1487518519.22,fitness and wellness,PS
+1192,1192,25-44,2.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fitness and wellness,PS
+1193,1193,45+,2.0,Expats,Graduated,NOTSELECTED,2200,1487518519.22,fitness and wellness,PS
+1194,1194,18-24,1.0,Expats,No Degree,NOTSELECTED,4400,1487518519.22,fitness and wellness,PS
+1195,1195,25-44,1.0,Expats,No Degree,NOTSELECTED,5600,1487518519.22,fitness and wellness,PS
+1196,1196,45+,1.0,Expats,No Degree,NOTSELECTED,1700,1487518519.22,fitness and wellness,PS
+1197,1197,18-24,2.0,Expats,No Degree,NOTSELECTED,4700,1487518519.22,fitness and wellness,PS
+1198,1198,25-44,2.0,Expats,No Degree,NOTSELECTED,6800,1487518519.22,fitness and wellness,PS
+1199,1199,45+,2.0,Expats,No Degree,NOTSELECTED,2900,1487518519.22,fitness and wellness,PS
+1200,1200,18-24,1.0,Expats,High School,NOTSELECTED,7700,1487518519.22,fitness and wellness,PS
+1201,1201,25-44,1.0,Expats,High School,NOTSELECTED,4300,1487518519.22,fitness and wellness,PS
+1202,1202,45+,1.0,Expats,High School,NOTSELECTED,810,1487518519.22,fitness and wellness,PS
+1203,1203,18-24,2.0,Expats,High School,NOTSELECTED,8200,1487518519.22,fitness and wellness,PS
+1204,1204,25-44,2.0,Expats,High School,NOTSELECTED,4000,1487518519.22,fitness and wellness,PS
+1205,1205,45+,2.0,Expats,High School,NOTSELECTED,1000,1487518519.22,fitness and wellness,PS
+1206,1206,18-24,1.0,Locals,Graduated,NOTSELECTED,48000,1487518519.22,fitness and wellness,PS
+1207,1207,25-44,1.0,Locals,Graduated,NOTSELECTED,78000,1487518519.22,fitness and wellness,PS
+1208,1208,45+,1.0,Locals,Graduated,NOTSELECTED,11000,1487518519.22,fitness and wellness,PS
+1209,1209,18-24,2.0,Locals,Graduated,NOTSELECTED,42000,1487518519.22,fitness and wellness,PS
+1210,1210,25-44,2.0,Locals,Graduated,NOTSELECTED,65000,1487518519.22,fitness and wellness,PS
+1211,1211,45+,2.0,Locals,Graduated,NOTSELECTED,6500,1487518519.22,fitness and wellness,PS
+1212,1212,18-24,1.0,Locals,No Degree,NOTSELECTED,28000,1487518519.22,fitness and wellness,PS
+1213,1213,25-44,1.0,Locals,No Degree,NOTSELECTED,36000,1487518519.22,fitness and wellness,PS
+1214,1214,45+,1.0,Locals,No Degree,NOTSELECTED,12000,1487518519.22,fitness and wellness,PS
+1215,1215,18-24,2.0,Locals,No Degree,NOTSELECTED,29000,1487518519.22,fitness and wellness,PS
+1216,1216,25-44,2.0,Locals,No Degree,NOTSELECTED,42000,1487518519.22,fitness and wellness,PS
+1217,1217,45+,2.0,Locals,No Degree,NOTSELECTED,15000,1487518519.22,fitness and wellness,PS
+1218,1218,18-24,1.0,Locals,High School,NOTSELECTED,30000,1487518519.22,fitness and wellness,PS
+1219,1219,25-44,1.0,Locals,High School,NOTSELECTED,19000,1487518519.22,fitness and wellness,PS
+1220,1220,45+,1.0,Locals,High School,NOTSELECTED,3900,1487518519.22,fitness and wellness,PS
+1221,1221,18-24,2.0,Locals,High School,NOTSELECTED,37000,1487518519.22,fitness and wellness,PS
+1222,1222,25-44,2.0,Locals,High School,NOTSELECTED,18000,1487518519.22,fitness and wellness,PS
+1223,1223,45+,2.0,Locals,High School,NOTSELECTED,2800,1487518519.22,fitness and wellness,PS
+5508,5508,18-24,1.0,Expats,Graduated,NOTSELECTED,16000,1487518519.22,fast food,DZ
+5509,5509,25-44,1.0,Expats,Graduated,NOTSELECTED,13000,1487518519.22,fast food,DZ
+5510,5510,45+,1.0,Expats,Graduated,NOTSELECTED,1500,1487518519.22,fast food,DZ
+5511,5511,18-24,2.0,Expats,Graduated,NOTSELECTED,6500,1487518519.22,fast food,DZ
+5512,5512,25-44,2.0,Expats,Graduated,NOTSELECTED,4900,1487518519.22,fast food,DZ
+5513,5513,45+,2.0,Expats,Graduated,NOTSELECTED,840,1487518519.22,fast food,DZ
+5514,5514,18-24,1.0,Expats,No Degree,NOTSELECTED,7300,1487518519.22,fast food,DZ
+5515,5515,25-44,1.0,Expats,No Degree,NOTSELECTED,7500,1487518519.22,fast food,DZ
+5516,5516,45+,1.0,Expats,No Degree,NOTSELECTED,1200,1487518519.22,fast food,DZ
+5517,5517,18-24,2.0,Expats,No Degree,NOTSELECTED,4100,1487518519.22,fast food,DZ
+5518,5518,25-44,2.0,Expats,No Degree,NOTSELECTED,4200,1487518519.22,fast food,DZ
+5519,5519,45+,2.0,Expats,No Degree,NOTSELECTED,990,1487518519.22,fast food,DZ
+5520,5520,18-24,1.0,Expats,High School,NOTSELECTED,6400,1487518519.22,fast food,DZ
+5521,5521,25-44,1.0,Expats,High School,NOTSELECTED,3100,1487518519.22,fast food,DZ
+5522,5522,45+,1.0,Expats,High School,NOTSELECTED,500,1487518519.22,fast food,DZ
+5523,5523,18-24,2.0,Expats,High School,NOTSELECTED,3400,1487518519.22,fast food,DZ
+5524,5524,25-44,2.0,Expats,High School,NOTSELECTED,1200,1487518519.22,fast food,DZ
+5525,5525,45+,2.0,Expats,High School,NOTSELECTED,270,1487518519.22,fast food,DZ
+5526,5526,18-24,1.0,Locals,Graduated,NOTSELECTED,55000,1487518519.22,fast food,DZ
+5527,5527,25-44,1.0,Locals,Graduated,NOTSELECTED,74000,1487518519.22,fast food,DZ
+5528,5528,45+,1.0,Locals,Graduated,NOTSELECTED,6000,1487518519.22,fast food,DZ
+5529,5529,18-24,2.0,Locals,Graduated,NOTSELECTED,54000,1487518519.22,fast food,DZ
+5530,5530,25-44,2.0,Locals,Graduated,NOTSELECTED,66000,1487518519.22,fast food,DZ
+5531,5531,45+,2.0,Locals,Graduated,NOTSELECTED,5700,1487518519.22,fast food,DZ
+5532,5532,18-24,1.0,Locals,No Degree,NOTSELECTED,45000,1487518519.22,fast food,DZ
+5533,5533,25-44,1.0,Locals,No Degree,NOTSELECTED,71000,1487518519.22,fast food,DZ
+5534,5534,45+,1.0,Locals,No Degree,NOTSELECTED,8700,1487518519.22,fast food,DZ
+5535,5535,18-24,2.0,Locals,No Degree,NOTSELECTED,50000,1487518519.22,fast food,DZ
+5536,5536,25-44,2.0,Locals,No Degree,NOTSELECTED,61000,1487518519.22,fast food,DZ
+5537,5537,45+,2.0,Locals,No Degree,NOTSELECTED,9400,1487518519.22,fast food,DZ
+5538,5538,18-24,1.0,Locals,High School,NOTSELECTED,28000,1487518519.22,fast food,DZ
+5539,5539,25-44,1.0,Locals,High School,NOTSELECTED,21000,1487518519.22,fast food,DZ
+5540,5540,45+,1.0,Locals,High School,NOTSELECTED,2200,1487518519.22,fast food,DZ
+5541,5541,18-24,2.0,Locals,High School,NOTSELECTED,29000,1487518519.22,fast food,DZ
+5542,5542,25-44,2.0,Locals,High School,NOTSELECTED,15000,1487518519.22,fast food,DZ
+5543,5543,45+,2.0,Locals,High School,NOTSELECTED,2700,1487518519.22,fast food,DZ
+5544,5544,18-24,1.0,Expats,Graduated,NOTSELECTED,6500,1487518519.22,fast food,BH
+5545,5545,25-44,1.0,Expats,Graduated,NOTSELECTED,24000,1487518519.22,fast food,BH
+5546,5546,45+,1.0,Expats,Graduated,NOTSELECTED,1800,1487518519.22,fast food,BH
+5547,5547,18-24,2.0,Expats,Graduated,NOTSELECTED,2100,1487518519.22,fast food,BH
+5548,5548,25-44,2.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fast food,BH
+5549,5549,45+,2.0,Expats,Graduated,NOTSELECTED,1800,1487518519.22,fast food,BH
+5550,5550,18-24,1.0,Expats,No Degree,NOTSELECTED,5500,1487518519.22,fast food,BH
+5551,5551,25-44,1.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fast food,BH
+5552,5552,45+,1.0,Expats,No Degree,NOTSELECTED,2000,1487518519.22,fast food,BH
+5553,5553,18-24,2.0,Expats,No Degree,NOTSELECTED,1600,1487518519.22,fast food,BH
+5554,5554,25-44,2.0,Expats,No Degree,NOTSELECTED,5200,1487518519.22,fast food,BH
+5555,5555,45+,2.0,Expats,No Degree,NOTSELECTED,1200,1487518519.22,fast food,BH
+5556,5556,18-24,1.0,Expats,High School,NOTSELECTED,2900,1487518519.22,fast food,BH
+5557,5557,25-44,1.0,Expats,High School,NOTSELECTED,6200,1487518519.22,fast food,BH
+5558,5558,45+,1.0,Expats,High School,NOTSELECTED,700,1487518519.22,fast food,BH
+5559,5559,18-24,2.0,Expats,High School,NOTSELECTED,1400,1487518519.22,fast food,BH
+5560,5560,25-44,2.0,Expats,High School,NOTSELECTED,3800,1487518519.22,fast food,BH
+5561,5561,45+,2.0,Expats,High School,NOTSELECTED,610,1487518519.22,fast food,BH
+5562,5562,18-24,1.0,Locals,Graduated,NOTSELECTED,1600,1487518519.22,fast food,BH
+5563,5563,25-44,1.0,Locals,Graduated,NOTSELECTED,3900,1487518519.22,fast food,BH
+5564,5564,45+,1.0,Locals,Graduated,NOTSELECTED,310,1487518519.22,fast food,BH
+5565,5565,18-24,2.0,Locals,Graduated,NOTSELECTED,880,1487518519.22,fast food,BH
+5566,5566,25-44,2.0,Locals,Graduated,NOTSELECTED,2500,1487518519.22,fast food,BH
+5567,5567,45+,2.0,Locals,Graduated,NOTSELECTED,160,1487518519.22,fast food,BH
+5568,5568,18-24,1.0,Locals,No Degree,NOTSELECTED,1300,1487518519.22,fast food,BH
+5569,5569,25-44,1.0,Locals,No Degree,NOTSELECTED,2200,1487518519.22,fast food,BH
+5570,5570,45+,1.0,Locals,No Degree,NOTSELECTED,280,1487518519.22,fast food,BH
+5571,5571,18-24,2.0,Locals,No Degree,NOTSELECTED,990,1487518519.22,fast food,BH
+5572,5572,25-44,2.0,Locals,No Degree,NOTSELECTED,1500,1487518519.22,fast food,BH
+5573,5573,45+,2.0,Locals,No Degree,NOTSELECTED,190,1487518519.22,fast food,BH
+5574,5574,18-24,1.0,Locals,High School,NOTSELECTED,1100,1487518519.22,fast food,BH
+5575,5575,25-44,1.0,Locals,High School,NOTSELECTED,1100,1487518519.22,fast food,BH
+5576,5576,45+,1.0,Locals,High School,NOTSELECTED,90,1487518519.22,fast food,BH
+5577,5577,18-24,2.0,Locals,High School,NOTSELECTED,1100,1487518519.22,fast food,BH
+5578,5578,25-44,2.0,Locals,High School,NOTSELECTED,670,1487518519.22,fast food,BH
+5579,5579,45+,2.0,Locals,High School,NOTSELECTED,30,1487518519.22,fast food,BH
+5580,5580,18-24,1.0,Expats,Graduated,NOTSELECTED,26000,1487518519.22,fast food,EG
+5581,5581,25-44,1.0,Expats,Graduated,NOTSELECTED,41000,1487518519.22,fast food,EG
+5582,5582,45+,1.0,Expats,Graduated,NOTSELECTED,4900,1487518519.22,fast food,EG
+5583,5583,18-24,2.0,Expats,Graduated,NOTSELECTED,16000,1487518519.22,fast food,EG
+5584,5584,25-44,2.0,Expats,Graduated,NOTSELECTED,29000,1487518519.22,fast food,EG
+5585,5585,45+,2.0,Expats,Graduated,NOTSELECTED,4500,1487518519.22,fast food,EG
+5586,5586,18-24,1.0,Expats,No Degree,NOTSELECTED,8100,1487518519.22,fast food,EG
+5587,5587,25-44,1.0,Expats,No Degree,NOTSELECTED,11000,1487518519.22,fast food,EG
+5588,5588,45+,1.0,Expats,No Degree,NOTSELECTED,2400,1487518519.22,fast food,EG
+5589,5589,18-24,2.0,Expats,No Degree,NOTSELECTED,5900,1487518519.22,fast food,EG
+5590,5590,25-44,2.0,Expats,No Degree,NOTSELECTED,10000,1487518519.22,fast food,EG
+5591,5591,45+,2.0,Expats,No Degree,NOTSELECTED,4100,1487518519.22,fast food,EG
+5592,5592,18-24,1.0,Expats,High School,NOTSELECTED,19000,1487518519.22,fast food,EG
+5593,5593,25-44,1.0,Expats,High School,NOTSELECTED,8800,1487518519.22,fast food,EG
+5594,5594,45+,1.0,Expats,High School,NOTSELECTED,1100,1487518519.22,fast food,EG
+5595,5595,18-24,2.0,Expats,High School,NOTSELECTED,14000,1487518519.22,fast food,EG
+5596,5596,25-44,2.0,Expats,High School,NOTSELECTED,6800,1487518519.22,fast food,EG
+5597,5597,45+,2.0,Expats,High School,NOTSELECTED,1300,1487518519.22,fast food,EG
+5598,5598,18-24,1.0,Locals,Graduated,NOTSELECTED,560000,1487518519.22,fast food,EG
+5599,5599,25-44,1.0,Locals,Graduated,NOTSELECTED,870000,1487518519.22,fast food,EG
+5600,5600,45+,1.0,Locals,Graduated,NOTSELECTED,89000,1487518519.22,fast food,EG
+5601,5601,18-24,2.0,Locals,Graduated,NOTSELECTED,540000,1487518519.22,fast food,EG
+5602,5602,25-44,2.0,Locals,Graduated,NOTSELECTED,880000,1487518519.22,fast food,EG
+5603,5603,45+,2.0,Locals,Graduated,NOTSELECTED,110000,1487518519.22,fast food,EG
+5604,5604,18-24,1.0,Locals,No Degree,NOTSELECTED,230000,1487518519.22,fast food,EG
+5605,5605,25-44,1.0,Locals,No Degree,NOTSELECTED,350000,1487518519.22,fast food,EG
+5606,5606,45+,1.0,Locals,No Degree,NOTSELECTED,85000,1487518519.22,fast food,EG
+5607,5607,18-24,2.0,Locals,No Degree,NOTSELECTED,240000,1487518519.22,fast food,EG
+5608,5608,25-44,2.0,Locals,No Degree,NOTSELECTED,420000,1487518519.22,fast food,EG
+5609,5609,45+,2.0,Locals,No Degree,NOTSELECTED,170000,1487518519.22,fast food,EG
+5610,5610,18-24,1.0,Locals,High School,NOTSELECTED,390000,1487518519.22,fast food,EG
+5611,5611,25-44,1.0,Locals,High School,NOTSELECTED,180000,1487518519.22,fast food,EG
+5612,5612,45+,1.0,Locals,High School,NOTSELECTED,22000,1487518519.22,fast food,EG
+5613,5613,18-24,2.0,Locals,High School,NOTSELECTED,410000,1487518519.22,fast food,EG
+5614,5614,25-44,2.0,Locals,High School,NOTSELECTED,160000,1487518519.22,fast food,EG
+5615,5615,45+,2.0,Locals,High School,NOTSELECTED,26000,1487518519.22,fast food,EG
+5616,5616,18-24,1.0,Expats,Graduated,NOTSELECTED,6700,1487518519.22,fast food,IQ
+5617,5617,25-44,1.0,Expats,Graduated,NOTSELECTED,16000,1487518519.22,fast food,IQ
+5618,5618,45+,1.0,Expats,Graduated,NOTSELECTED,1400,1487518519.22,fast food,IQ
+5619,5619,18-24,2.0,Expats,Graduated,NOTSELECTED,1900,1487518519.22,fast food,IQ
+5620,5620,25-44,2.0,Expats,Graduated,NOTSELECTED,4700,1487518519.22,fast food,IQ
+5621,5621,45+,2.0,Expats,Graduated,NOTSELECTED,480,1487518519.22,fast food,IQ
+5622,5622,18-24,1.0,Expats,No Degree,NOTSELECTED,4700,1487518519.22,fast food,IQ
+5623,5623,25-44,1.0,Expats,No Degree,NOTSELECTED,6500,1487518519.22,fast food,IQ
+5624,5624,45+,1.0,Expats,No Degree,NOTSELECTED,850,1487518519.22,fast food,IQ
+5625,5625,18-24,2.0,Expats,No Degree,NOTSELECTED,1900,1487518519.22,fast food,IQ
+5626,5626,25-44,2.0,Expats,No Degree,NOTSELECTED,2200,1487518519.22,fast food,IQ
+5627,5627,45+,2.0,Expats,No Degree,NOTSELECTED,540,1487518519.22,fast food,IQ
+5628,5628,18-24,1.0,Expats,High School,NOTSELECTED,4900,1487518519.22,fast food,IQ
+5629,5629,25-44,1.0,Expats,High School,NOTSELECTED,4400,1487518519.22,fast food,IQ
+5630,5630,45+,1.0,Expats,High School,NOTSELECTED,400,1487518519.22,fast food,IQ
+5631,5631,18-24,2.0,Expats,High School,NOTSELECTED,2100,1487518519.22,fast food,IQ
+5632,5632,25-44,2.0,Expats,High School,NOTSELECTED,1300,1487518519.22,fast food,IQ
+5633,5633,45+,2.0,Expats,High School,NOTSELECTED,180,1487518519.22,fast food,IQ
+5634,5634,18-24,1.0,Locals,Graduated,NOTSELECTED,66000,1487518519.22,fast food,IQ
+5635,5635,25-44,1.0,Locals,Graduated,NOTSELECTED,150000,1487518519.22,fast food,IQ
+5636,5636,45+,1.0,Locals,Graduated,NOTSELECTED,14000,1487518519.22,fast food,IQ
+5637,5637,18-24,2.0,Locals,Graduated,NOTSELECTED,31000,1487518519.22,fast food,IQ
+5638,5638,25-44,2.0,Locals,Graduated,NOTSELECTED,70000,1487518519.22,fast food,IQ
+5639,5639,45+,2.0,Locals,Graduated,NOTSELECTED,8000,1487518519.22,fast food,IQ
+5640,5640,18-24,1.0,Locals,No Degree,NOTSELECTED,70000,1487518519.22,fast food,IQ
+5641,5641,25-44,1.0,Locals,No Degree,NOTSELECTED,95000,1487518519.22,fast food,IQ
+5642,5642,45+,1.0,Locals,No Degree,NOTSELECTED,15000,1487518519.22,fast food,IQ
+5643,5643,18-24,2.0,Locals,No Degree,NOTSELECTED,32000,1487518519.22,fast food,IQ
+5644,5644,25-44,2.0,Locals,No Degree,NOTSELECTED,49000,1487518519.22,fast food,IQ
+5645,5645,45+,2.0,Locals,No Degree,NOTSELECTED,12000,1487518519.22,fast food,IQ
+5646,5646,18-24,1.0,Locals,High School,NOTSELECTED,55000,1487518519.22,fast food,IQ
+5647,5647,25-44,1.0,Locals,High School,NOTSELECTED,45000,1487518519.22,fast food,IQ
+5648,5648,45+,1.0,Locals,High School,NOTSELECTED,4400,1487518519.22,fast food,IQ
+5649,5649,18-24,2.0,Locals,High School,NOTSELECTED,33000,1487518519.22,fast food,IQ
+5650,5650,25-44,2.0,Locals,High School,NOTSELECTED,20000,1487518519.22,fast food,IQ
+5651,5651,45+,2.0,Locals,High School,NOTSELECTED,2600,1487518519.22,fast food,IQ
+5652,5652,18-24,1.0,Expats,Graduated,NOTSELECTED,19000,1487518519.22,fast food,JO
+5653,5653,25-44,1.0,Expats,Graduated,NOTSELECTED,33000,1487518519.22,fast food,JO
+5654,5654,45+,1.0,Expats,Graduated,NOTSELECTED,4000,1487518519.22,fast food,JO
+5655,5655,18-24,2.0,Expats,Graduated,NOTSELECTED,15000,1487518519.22,fast food,JO
+5656,5656,25-44,2.0,Expats,Graduated,NOTSELECTED,28000,1487518519.22,fast food,JO
+5657,5657,45+,2.0,Expats,Graduated,NOTSELECTED,4600,1487518519.22,fast food,JO
+5658,5658,18-24,1.0,Expats,No Degree,NOTSELECTED,13000,1487518519.22,fast food,JO
+5659,5659,25-44,1.0,Expats,No Degree,NOTSELECTED,17000,1487518519.22,fast food,JO
+5660,5660,45+,1.0,Expats,No Degree,NOTSELECTED,3600,1487518519.22,fast food,JO
+5661,5661,18-24,2.0,Expats,No Degree,NOTSELECTED,8800,1487518519.22,fast food,JO
+5662,5662,25-44,2.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fast food,JO
+5663,5663,45+,2.0,Expats,No Degree,NOTSELECTED,5800,1487518519.22,fast food,JO
+5664,5664,18-24,1.0,Expats,High School,NOTSELECTED,19000,1487518519.22,fast food,JO
+5665,5665,25-44,1.0,Expats,High School,NOTSELECTED,9500,1487518519.22,fast food,JO
+5666,5666,45+,1.0,Expats,High School,NOTSELECTED,1300,1487518519.22,fast food,JO
+5667,5667,18-24,2.0,Expats,High School,NOTSELECTED,22000,1487518519.22,fast food,JO
+5668,5668,25-44,2.0,Expats,High School,NOTSELECTED,8400,1487518519.22,fast food,JO
+5669,5669,45+,2.0,Expats,High School,NOTSELECTED,1900,1487518519.22,fast food,JO
+5670,5670,18-24,1.0,Locals,Graduated,NOTSELECTED,64000,1487518519.22,fast food,JO
+5671,5671,25-44,1.0,Locals,Graduated,NOTSELECTED,110000,1487518519.22,fast food,JO
+5672,5672,45+,1.0,Locals,Graduated,NOTSELECTED,13000,1487518519.22,fast food,JO
+5673,5673,18-24,2.0,Locals,Graduated,NOTSELECTED,52000,1487518519.22,fast food,JO
+5674,5674,25-44,2.0,Locals,Graduated,NOTSELECTED,88000,1487518519.22,fast food,JO
+5675,5675,45+,2.0,Locals,Graduated,NOTSELECTED,10000,1487518519.22,fast food,JO
+5676,5676,18-24,1.0,Locals,No Degree,NOTSELECTED,48000,1487518519.22,fast food,JO
+5677,5677,25-44,1.0,Locals,No Degree,NOTSELECTED,56000,1487518519.22,fast food,JO
+5678,5678,45+,1.0,Locals,No Degree,NOTSELECTED,16000,1487518519.22,fast food,JO
+5679,5679,18-24,2.0,Locals,No Degree,NOTSELECTED,44000,1487518519.22,fast food,JO
+5680,5680,25-44,2.0,Locals,No Degree,NOTSELECTED,57000,1487518519.22,fast food,JO
+5681,5681,45+,2.0,Locals,No Degree,NOTSELECTED,21000,1487518519.22,fast food,JO
+5682,5682,18-24,1.0,Locals,High School,NOTSELECTED,58000,1487518519.22,fast food,JO
+5683,5683,25-44,1.0,Locals,High School,NOTSELECTED,32000,1487518519.22,fast food,JO
+5684,5684,45+,1.0,Locals,High School,NOTSELECTED,5400,1487518519.22,fast food,JO
+5685,5685,18-24,2.0,Locals,High School,NOTSELECTED,64000,1487518519.22,fast food,JO
+5686,5686,25-44,2.0,Locals,High School,NOTSELECTED,26000,1487518519.22,fast food,JO
+5687,5687,45+,2.0,Locals,High School,NOTSELECTED,4300,1487518519.22,fast food,JO
+5688,5688,18-24,1.0,Expats,Graduated,NOTSELECTED,9600,1487518519.22,fast food,KW
+5689,5689,25-44,1.0,Expats,Graduated,NOTSELECTED,69000,1487518519.22,fast food,KW
+5690,5690,45+,1.0,Expats,Graduated,NOTSELECTED,5700,1487518519.22,fast food,KW
+5691,5691,18-24,2.0,Expats,Graduated,NOTSELECTED,5500,1487518519.22,fast food,KW
+5692,5692,25-44,2.0,Expats,Graduated,NOTSELECTED,49000,1487518519.22,fast food,KW
+5693,5693,45+,2.0,Expats,Graduated,NOTSELECTED,5600,1487518519.22,fast food,KW
+5694,5694,18-24,1.0,Expats,No Degree,NOTSELECTED,9500,1487518519.22,fast food,KW
+5695,5695,25-44,1.0,Expats,No Degree,NOTSELECTED,32000,1487518519.22,fast food,KW
+5696,5696,45+,1.0,Expats,No Degree,NOTSELECTED,6100,1487518519.22,fast food,KW
+5697,5697,18-24,2.0,Expats,No Degree,NOTSELECTED,4400,1487518519.22,fast food,KW
+5698,5698,25-44,2.0,Expats,No Degree,NOTSELECTED,19000,1487518519.22,fast food,KW
+5699,5699,45+,2.0,Expats,No Degree,NOTSELECTED,4400,1487518519.22,fast food,KW
+5700,5700,18-24,1.0,Expats,High School,NOTSELECTED,5400,1487518519.22,fast food,KW
+5701,5701,25-44,1.0,Expats,High School,NOTSELECTED,17000,1487518519.22,fast food,KW
+5702,5702,45+,1.0,Expats,High School,NOTSELECTED,1700,1487518519.22,fast food,KW
+5703,5703,18-24,2.0,Expats,High School,NOTSELECTED,4600,1487518519.22,fast food,KW
+5704,5704,25-44,2.0,Expats,High School,NOTSELECTED,15000,1487518519.22,fast food,KW
+5705,5705,45+,2.0,Expats,High School,NOTSELECTED,1900,1487518519.22,fast food,KW
+5706,5706,18-24,1.0,Locals,Graduated,NOTSELECTED,1200,1487518519.22,fast food,KW
+5707,5707,25-44,1.0,Locals,Graduated,NOTSELECTED,4400,1487518519.22,fast food,KW
+5708,5708,45+,1.0,Locals,Graduated,NOTSELECTED,560,1487518519.22,fast food,KW
+5709,5709,18-24,2.0,Locals,Graduated,NOTSELECTED,810,1487518519.22,fast food,KW
+5710,5710,25-44,2.0,Locals,Graduated,NOTSELECTED,3100,1487518519.22,fast food,KW
+5711,5711,45+,2.0,Locals,Graduated,NOTSELECTED,300,1487518519.22,fast food,KW
+5712,5712,18-24,1.0,Locals,No Degree,NOTSELECTED,1700,1487518519.22,fast food,KW
+5713,5713,25-44,1.0,Locals,No Degree,NOTSELECTED,4000,1487518519.22,fast food,KW
+5714,5714,45+,1.0,Locals,No Degree,NOTSELECTED,570,1487518519.22,fast food,KW
+5715,5715,18-24,2.0,Locals,No Degree,NOTSELECTED,1200,1487518519.22,fast food,KW
+5716,5716,25-44,2.0,Locals,No Degree,NOTSELECTED,2600,1487518519.22,fast food,KW
+5717,5717,45+,2.0,Locals,No Degree,NOTSELECTED,540,1487518519.22,fast food,KW
+5718,5718,18-24,1.0,Locals,High School,NOTSELECTED,1100,1487518519.22,fast food,KW
+5719,5719,25-44,1.0,Locals,High School,NOTSELECTED,1200,1487518519.22,fast food,KW
+5720,5720,45+,1.0,Locals,High School,NOTSELECTED,100,1487518519.22,fast food,KW
+5721,5721,18-24,2.0,Locals,High School,NOTSELECTED,1000,1487518519.22,fast food,KW
+5722,5722,25-44,2.0,Locals,High School,NOTSELECTED,890,1487518519.22,fast food,KW
+5723,5723,45+,2.0,Locals,High School,NOTSELECTED,100,1487518519.22,fast food,KW
+5724,5724,18-24,1.0,Expats,Graduated,NOTSELECTED,6000,1487518519.22,fast food,LB
+5725,5725,25-44,1.0,Expats,Graduated,NOTSELECTED,11000,1487518519.22,fast food,LB
+5726,5726,45+,1.0,Expats,Graduated,NOTSELECTED,1600,1487518519.22,fast food,LB
+5727,5727,18-24,2.0,Expats,Graduated,NOTSELECTED,3100,1487518519.22,fast food,LB
+5728,5728,25-44,2.0,Expats,Graduated,NOTSELECTED,9100,1487518519.22,fast food,LB
+5729,5729,45+,2.0,Expats,Graduated,NOTSELECTED,2100,1487518519.22,fast food,LB
+5730,5730,18-24,1.0,Expats,No Degree,NOTSELECTED,7300,1487518519.22,fast food,LB
+5731,5731,25-44,1.0,Expats,No Degree,NOTSELECTED,9900,1487518519.22,fast food,LB
+5732,5732,45+,1.0,Expats,No Degree,NOTSELECTED,2000,1487518519.22,fast food,LB
+5733,5733,18-24,2.0,Expats,No Degree,NOTSELECTED,3400,1487518519.22,fast food,LB
+5734,5734,25-44,2.0,Expats,No Degree,NOTSELECTED,6000,1487518519.22,fast food,LB
+5735,5735,45+,2.0,Expats,No Degree,NOTSELECTED,2300,1487518519.22,fast food,LB
+5736,5736,18-24,1.0,Expats,High School,NOTSELECTED,4700,1487518519.22,fast food,LB
+5737,5737,25-44,1.0,Expats,High School,NOTSELECTED,3600,1487518519.22,fast food,LB
+5738,5738,45+,1.0,Expats,High School,NOTSELECTED,380,1487518519.22,fast food,LB
+5739,5739,18-24,2.0,Expats,High School,NOTSELECTED,3500,1487518519.22,fast food,LB
+5740,5740,25-44,2.0,Expats,High School,NOTSELECTED,3300,1487518519.22,fast food,LB
+5741,5741,45+,2.0,Expats,High School,NOTSELECTED,680,1487518519.22,fast food,LB
+5742,5742,18-24,1.0,Locals,Graduated,NOTSELECTED,23000,1487518519.22,fast food,LB
+5743,5743,25-44,1.0,Locals,Graduated,NOTSELECTED,38000,1487518519.22,fast food,LB
+5744,5744,45+,1.0,Locals,Graduated,NOTSELECTED,7600,1487518519.22,fast food,LB
+5745,5745,18-24,2.0,Locals,Graduated,NOTSELECTED,25000,1487518519.22,fast food,LB
+5746,5746,25-44,2.0,Locals,Graduated,NOTSELECTED,46000,1487518519.22,fast food,LB
+5747,5747,45+,2.0,Locals,Graduated,NOTSELECTED,8700,1487518519.22,fast food,LB
+5748,5748,18-24,1.0,Locals,No Degree,NOTSELECTED,23000,1487518519.22,fast food,LB
+5749,5749,25-44,1.0,Locals,No Degree,NOTSELECTED,29000,1487518519.22,fast food,LB
+5750,5750,45+,1.0,Locals,No Degree,NOTSELECTED,12000,1487518519.22,fast food,LB
+5751,5751,18-24,2.0,Locals,No Degree,NOTSELECTED,21000,1487518519.22,fast food,LB
+5752,5752,25-44,2.0,Locals,No Degree,NOTSELECTED,34000,1487518519.22,fast food,LB
+5753,5753,45+,2.0,Locals,No Degree,NOTSELECTED,19000,1487518519.22,fast food,LB
+5754,5754,18-24,1.0,Locals,High School,NOTSELECTED,22000,1487518519.22,fast food,LB
+5755,5755,25-44,1.0,Locals,High School,NOTSELECTED,12000,1487518519.22,fast food,LB
+5756,5756,45+,1.0,Locals,High School,NOTSELECTED,2700,1487518519.22,fast food,LB
+5757,5757,18-24,2.0,Locals,High School,NOTSELECTED,28000,1487518519.22,fast food,LB
+5758,5758,25-44,2.0,Locals,High School,NOTSELECTED,13000,1487518519.22,fast food,LB
+5759,5759,45+,2.0,Locals,High School,NOTSELECTED,3200,1487518519.22,fast food,LB
+5760,5760,18-24,1.0,Expats,Graduated,NOTSELECTED,1800,1487518519.22,fast food,LY
+5761,5761,25-44,1.0,Expats,Graduated,NOTSELECTED,4600,1487518519.22,fast food,LY
+5762,5762,45+,1.0,Expats,Graduated,NOTSELECTED,410,1487518519.22,fast food,LY
+5763,5763,18-24,2.0,Expats,Graduated,NOTSELECTED,1100,1487518519.22,fast food,LY
+5764,5764,25-44,2.0,Expats,Graduated,NOTSELECTED,2800,1487518519.22,fast food,LY
+5765,5765,45+,2.0,Expats,Graduated,NOTSELECTED,390,1487518519.22,fast food,LY
+5766,5766,18-24,1.0,Expats,No Degree,NOTSELECTED,910,1487518519.22,fast food,LY
+5767,5767,25-44,1.0,Expats,No Degree,NOTSELECTED,2300,1487518519.22,fast food,LY
+5768,5768,45+,1.0,Expats,No Degree,NOTSELECTED,200,1487518519.22,fast food,LY
+5769,5769,18-24,2.0,Expats,No Degree,NOTSELECTED,680,1487518519.22,fast food,LY
+5770,5770,25-44,2.0,Expats,No Degree,NOTSELECTED,1600,1487518519.22,fast food,LY
+5771,5771,45+,2.0,Expats,No Degree,NOTSELECTED,280,1487518519.22,fast food,LY
+5772,5772,18-24,1.0,Expats,High School,NOTSELECTED,1100,1487518519.22,fast food,LY
+5773,5773,25-44,1.0,Expats,High School,NOTSELECTED,1100,1487518519.22,fast food,LY
+5774,5774,45+,1.0,Expats,High School,NOTSELECTED,90,1487518519.22,fast food,LY
+5775,5775,18-24,2.0,Expats,High School,NOTSELECTED,1000,1487518519.22,fast food,LY
+5776,5776,25-44,2.0,Expats,High School,NOTSELECTED,750,1487518519.22,fast food,LY
+5777,5777,45+,2.0,Expats,High School,NOTSELECTED,90,1487518519.22,fast food,LY
+5778,5778,18-24,1.0,Locals,Graduated,NOTSELECTED,14000,1487518519.22,fast food,LY
+5779,5779,25-44,1.0,Locals,Graduated,NOTSELECTED,30000,1487518519.22,fast food,LY
+5780,5780,45+,1.0,Locals,Graduated,NOTSELECTED,2300,1487518519.22,fast food,LY
+5781,5781,18-24,2.0,Locals,Graduated,NOTSELECTED,18000,1487518519.22,fast food,LY
+5782,5782,25-44,2.0,Locals,Graduated,NOTSELECTED,33000,1487518519.22,fast food,LY
+5783,5783,45+,2.0,Locals,Graduated,NOTSELECTED,2700,1487518519.22,fast food,LY
+5784,5784,18-24,1.0,Locals,No Degree,NOTSELECTED,6900,1487518519.22,fast food,LY
+5785,5785,25-44,1.0,Locals,No Degree,NOTSELECTED,13000,1487518519.22,fast food,LY
+5786,5786,45+,1.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fast food,LY
+5787,5787,18-24,2.0,Locals,No Degree,NOTSELECTED,11000,1487518519.22,fast food,LY
+5788,5788,25-44,2.0,Locals,No Degree,NOTSELECTED,22000,1487518519.22,fast food,LY
+5789,5789,45+,2.0,Locals,No Degree,NOTSELECTED,4000,1487518519.22,fast food,LY
+5790,5790,18-24,1.0,Locals,High School,NOTSELECTED,9900,1487518519.22,fast food,LY
+5791,5791,25-44,1.0,Locals,High School,NOTSELECTED,6800,1487518519.22,fast food,LY
+5792,5792,45+,1.0,Locals,High School,NOTSELECTED,510,1487518519.22,fast food,LY
+5793,5793,18-24,2.0,Locals,High School,NOTSELECTED,16000,1487518519.22,fast food,LY
+5794,5794,25-44,2.0,Locals,High School,NOTSELECTED,8200,1487518519.22,fast food,LY
+5795,5795,45+,2.0,Locals,High School,NOTSELECTED,1000,1487518519.22,fast food,LY
+5796,5796,18-24,1.0,Expats,Graduated,NOTSELECTED,18000,1487518519.22,fast food,MA
+5797,5797,25-44,1.0,Expats,Graduated,NOTSELECTED,11000,1487518519.22,fast food,MA
+5798,5798,45+,1.0,Expats,Graduated,NOTSELECTED,1500,1487518519.22,fast food,MA
+5799,5799,18-24,2.0,Expats,Graduated,NOTSELECTED,8200,1487518519.22,fast food,MA
+5800,5800,25-44,2.0,Expats,Graduated,NOTSELECTED,6700,1487518519.22,fast food,MA
+5801,5801,45+,2.0,Expats,Graduated,NOTSELECTED,760,1487518519.22,fast food,MA
+5802,5802,18-24,1.0,Expats,No Degree,NOTSELECTED,6300,1487518519.22,fast food,MA
+5803,5803,25-44,1.0,Expats,No Degree,NOTSELECTED,6000,1487518519.22,fast food,MA
+5804,5804,45+,1.0,Expats,No Degree,NOTSELECTED,1100,1487518519.22,fast food,MA
+5805,5805,18-24,2.0,Expats,No Degree,NOTSELECTED,4300,1487518519.22,fast food,MA
+5806,5806,25-44,2.0,Expats,No Degree,NOTSELECTED,4200,1487518519.22,fast food,MA
+5807,5807,45+,2.0,Expats,No Degree,NOTSELECTED,1000,1487518519.22,fast food,MA
+5808,5808,18-24,1.0,Expats,High School,NOTSELECTED,7500,1487518519.22,fast food,MA
+5809,5809,25-44,1.0,Expats,High School,NOTSELECTED,3100,1487518519.22,fast food,MA
+5810,5810,45+,1.0,Expats,High School,NOTSELECTED,560,1487518519.22,fast food,MA
+5811,5811,18-24,2.0,Expats,High School,NOTSELECTED,3900,1487518519.22,fast food,MA
+5812,5812,25-44,2.0,Expats,High School,NOTSELECTED,1900,1487518519.22,fast food,MA
+5813,5813,45+,2.0,Expats,High School,NOTSELECTED,320,1487518519.22,fast food,MA
+5814,5814,18-24,1.0,Locals,Graduated,NOTSELECTED,110000,1487518519.22,fast food,MA
+5815,5815,25-44,1.0,Locals,Graduated,NOTSELECTED,84000,1487518519.22,fast food,MA
+5816,5816,45+,1.0,Locals,Graduated,NOTSELECTED,7300,1487518519.22,fast food,MA
+5817,5817,18-24,2.0,Locals,Graduated,NOTSELECTED,93000,1487518519.22,fast food,MA
+5818,5818,25-44,2.0,Locals,Graduated,NOTSELECTED,77000,1487518519.22,fast food,MA
+5819,5819,45+,2.0,Locals,Graduated,NOTSELECTED,6800,1487518519.22,fast food,MA
+5820,5820,18-24,1.0,Locals,No Degree,NOTSELECTED,70000,1487518519.22,fast food,MA
+5821,5821,25-44,1.0,Locals,No Degree,NOTSELECTED,64000,1487518519.22,fast food,MA
+5822,5822,45+,1.0,Locals,No Degree,NOTSELECTED,10000,1487518519.22,fast food,MA
+5823,5823,18-24,2.0,Locals,No Degree,NOTSELECTED,68000,1487518519.22,fast food,MA
+5824,5824,25-44,2.0,Locals,No Degree,NOTSELECTED,60000,1487518519.22,fast food,MA
+5825,5825,45+,2.0,Locals,No Degree,NOTSELECTED,10000,1487518519.22,fast food,MA
+5826,5826,18-24,1.0,Locals,High School,NOTSELECTED,49000,1487518519.22,fast food,MA
+5827,5827,25-44,1.0,Locals,High School,NOTSELECTED,23000,1487518519.22,fast food,MA
+5828,5828,45+,1.0,Locals,High School,NOTSELECTED,2400,1487518519.22,fast food,MA
+5829,5829,18-24,2.0,Locals,High School,NOTSELECTED,50000,1487518519.22,fast food,MA
+5830,5830,25-44,2.0,Locals,High School,NOTSELECTED,21000,1487518519.22,fast food,MA
+5831,5831,45+,2.0,Locals,High School,NOTSELECTED,2800,1487518519.22,fast food,MA
+5832,5832,18-24,1.0,Expats,Graduated,NOTSELECTED,7600,1487518519.22,fast food,OM
+5833,5833,25-44,1.0,Expats,Graduated,NOTSELECTED,29000,1487518519.22,fast food,OM
+5834,5834,45+,1.0,Expats,Graduated,NOTSELECTED,1800,1487518519.22,fast food,OM
+5835,5835,18-24,2.0,Expats,Graduated,NOTSELECTED,2100,1487518519.22,fast food,OM
+5836,5836,25-44,2.0,Expats,Graduated,NOTSELECTED,13000,1487518519.22,fast food,OM
+5837,5837,45+,2.0,Expats,Graduated,NOTSELECTED,1400,1487518519.22,fast food,OM
+5838,5838,18-24,1.0,Expats,No Degree,NOTSELECTED,7200,1487518519.22,fast food,OM
+5839,5839,25-44,1.0,Expats,No Degree,NOTSELECTED,14000,1487518519.22,fast food,OM
+5840,5840,45+,1.0,Expats,No Degree,NOTSELECTED,1400,1487518519.22,fast food,OM
+5841,5841,18-24,2.0,Expats,No Degree,NOTSELECTED,2200,1487518519.22,fast food,OM
+5842,5842,25-44,2.0,Expats,No Degree,NOTSELECTED,5100,1487518519.22,fast food,OM
+5843,5843,45+,2.0,Expats,No Degree,NOTSELECTED,860,1487518519.22,fast food,OM
+5844,5844,18-24,1.0,Expats,High School,NOTSELECTED,3300,1487518519.22,fast food,OM
+5845,5845,25-44,1.0,Expats,High School,NOTSELECTED,5600,1487518519.22,fast food,OM
+5846,5846,45+,1.0,Expats,High School,NOTSELECTED,410,1487518519.22,fast food,OM
+5847,5847,18-24,2.0,Expats,High School,NOTSELECTED,1500,1487518519.22,fast food,OM
+5848,5848,25-44,2.0,Expats,High School,NOTSELECTED,2900,1487518519.22,fast food,OM
+5849,5849,45+,2.0,Expats,High School,NOTSELECTED,420,1487518519.22,fast food,OM
+5850,5850,18-24,1.0,Locals,Graduated,NOTSELECTED,3500,1487518519.22,fast food,OM
+5851,5851,25-44,1.0,Locals,Graduated,NOTSELECTED,7000,1487518519.22,fast food,OM
+5852,5852,45+,1.0,Locals,Graduated,NOTSELECTED,220,1487518519.22,fast food,OM
+5853,5853,18-24,2.0,Locals,Graduated,NOTSELECTED,950,1487518519.22,fast food,OM
+5854,5854,25-44,2.0,Locals,Graduated,NOTSELECTED,2000,1487518519.22,fast food,OM
+5855,5855,45+,2.0,Locals,Graduated,NOTSELECTED,90,1487518519.22,fast food,OM
+5856,5856,18-24,1.0,Locals,No Degree,NOTSELECTED,2800,1487518519.22,fast food,OM
+5857,5857,25-44,1.0,Locals,No Degree,NOTSELECTED,2900,1487518519.22,fast food,OM
+5858,5858,45+,1.0,Locals,No Degree,NOTSELECTED,170,1487518519.22,fast food,OM
+5859,5859,18-24,2.0,Locals,No Degree,NOTSELECTED,660,1487518519.22,fast food,OM
+5860,5860,25-44,2.0,Locals,No Degree,NOTSELECTED,1200,1487518519.22,fast food,OM
+5861,5861,45+,2.0,Locals,No Degree,NOTSELECTED,110,1487518519.22,fast food,OM
+5862,5862,18-24,1.0,Locals,High School,NOTSELECTED,2600,1487518519.22,fast food,OM
+5863,5863,25-44,1.0,Locals,High School,NOTSELECTED,1900,1487518519.22,fast food,OM
+5864,5864,45+,1.0,Locals,High School,NOTSELECTED,70,1487518519.22,fast food,OM
+5865,5865,18-24,2.0,Locals,High School,NOTSELECTED,870,1487518519.22,fast food,OM
+5866,5866,25-44,2.0,Locals,High School,NOTSELECTED,420,1487518519.22,fast food,OM
+5867,5867,45+,2.0,Locals,High School,NOTSELECTED,20,1487518519.22,fast food,OM
+5868,5868,18-24,1.0,Expats,Graduated,NOTSELECTED,26000,1487518519.22,fast food,QA
+5869,5869,25-44,1.0,Expats,Graduated,NOTSELECTED,100000,1487518519.22,fast food,QA
+5870,5870,45+,1.0,Expats,Graduated,NOTSELECTED,8800,1487518519.22,fast food,QA
+5871,5871,18-24,2.0,Expats,Graduated,NOTSELECTED,9100,1487518519.22,fast food,QA
+5872,5872,25-44,2.0,Expats,Graduated,NOTSELECTED,53000,1487518519.22,fast food,QA
+5873,5873,45+,2.0,Expats,Graduated,NOTSELECTED,5200,1487518519.22,fast food,QA
+5874,5874,18-24,1.0,Expats,No Degree,NOTSELECTED,26000,1487518519.22,fast food,QA
+5875,5875,25-44,1.0,Expats,No Degree,NOTSELECTED,47000,1487518519.22,fast food,QA
+5876,5876,45+,1.0,Expats,No Degree,NOTSELECTED,7700,1487518519.22,fast food,QA
+5877,5877,18-24,2.0,Expats,No Degree,NOTSELECTED,5600,1487518519.22,fast food,QA
+5878,5878,25-44,2.0,Expats,No Degree,NOTSELECTED,16000,1487518519.22,fast food,QA
+5879,5879,45+,2.0,Expats,No Degree,NOTSELECTED,3300,1487518519.22,fast food,QA
+5880,5880,18-24,1.0,Expats,High School,NOTSELECTED,10000,1487518519.22,fast food,QA
+5881,5881,25-44,1.0,Expats,High School,NOTSELECTED,23000,1487518519.22,fast food,QA
+5882,5882,45+,1.0,Expats,High School,NOTSELECTED,2300,1487518519.22,fast food,QA
+5883,5883,18-24,2.0,Expats,High School,NOTSELECTED,4800,1487518519.22,fast food,QA
+5884,5884,25-44,2.0,Expats,High School,NOTSELECTED,12000,1487518519.22,fast food,QA
+5885,5885,45+,2.0,Expats,High School,NOTSELECTED,1300,1487518519.22,fast food,QA
+5886,5886,18-24,1.0,Locals,Graduated,NOTSELECTED,1300,1487518519.22,fast food,QA
+5887,5887,25-44,1.0,Locals,Graduated,NOTSELECTED,3300,1487518519.22,fast food,QA
+5888,5888,45+,1.0,Locals,Graduated,NOTSELECTED,260,1487518519.22,fast food,QA
+5889,5889,18-24,2.0,Locals,Graduated,NOTSELECTED,660,1487518519.22,fast food,QA
+5890,5890,25-44,2.0,Locals,Graduated,NOTSELECTED,2100,1487518519.22,fast food,QA
+5891,5891,45+,2.0,Locals,Graduated,NOTSELECTED,230,1487518519.22,fast food,QA
+5892,5892,18-24,1.0,Locals,No Degree,NOTSELECTED,1100,1487518519.22,fast food,QA
+5893,5893,25-44,1.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fast food,QA
+5894,5894,45+,1.0,Locals,No Degree,NOTSELECTED,250,1487518519.22,fast food,QA
+5895,5895,18-24,2.0,Locals,No Degree,NOTSELECTED,540,1487518519.22,fast food,QA
+5896,5896,25-44,2.0,Locals,No Degree,NOTSELECTED,1200,1487518519.22,fast food,QA
+5897,5897,45+,2.0,Locals,No Degree,NOTSELECTED,270,1487518519.22,fast food,QA
+5898,5898,18-24,1.0,Locals,High School,NOTSELECTED,700,1487518519.22,fast food,QA
+5899,5899,25-44,1.0,Locals,High School,NOTSELECTED,810,1487518519.22,fast food,QA
+5900,5900,45+,1.0,Locals,High School,NOTSELECTED,70,1487518519.22,fast food,QA
+5901,5901,18-24,2.0,Locals,High School,NOTSELECTED,640,1487518519.22,fast food,QA
+5902,5902,25-44,2.0,Locals,High School,NOTSELECTED,490,1487518519.22,fast food,QA
+5903,5903,45+,2.0,Locals,High School,NOTSELECTED,80,1487518519.22,fast food,QA
+5904,5904,18-24,1.0,Expats,Graduated,NOTSELECTED,87000,1487518519.22,fast food,SA
+5905,5905,25-44,1.0,Expats,Graduated,NOTSELECTED,560000,1487518519.22,fast food,SA
+5906,5906,45+,1.0,Expats,Graduated,NOTSELECTED,48000,1487518519.22,fast food,SA
+5907,5907,18-24,2.0,Expats,Graduated,NOTSELECTED,31000,1487518519.22,fast food,SA
+5908,5908,25-44,2.0,Expats,Graduated,NOTSELECTED,210000,1487518519.22,fast food,SA
+5909,5909,45+,2.0,Expats,Graduated,NOTSELECTED,25000,1487518519.22,fast food,SA
+5910,5910,18-24,1.0,Expats,No Degree,NOTSELECTED,24000,1487518519.22,fast food,SA
+5911,5911,25-44,1.0,Expats,No Degree,NOTSELECTED,88000,1487518519.22,fast food,SA
+5912,5912,45+,1.0,Expats,No Degree,NOTSELECTED,12000,1487518519.22,fast food,SA
+5913,5913,18-24,2.0,Expats,No Degree,NOTSELECTED,15000,1487518519.22,fast food,SA
+5914,5914,25-44,2.0,Expats,No Degree,NOTSELECTED,47000,1487518519.22,fast food,SA
+5915,5915,45+,2.0,Expats,No Degree,NOTSELECTED,9700,1487518519.22,fast food,SA
+5916,5916,18-24,1.0,Expats,High School,NOTSELECTED,34000,1487518519.22,fast food,SA
+5917,5917,25-44,1.0,Expats,High School,NOTSELECTED,120000,1487518519.22,fast food,SA
+5918,5918,45+,1.0,Expats,High School,NOTSELECTED,12000,1487518519.22,fast food,SA
+5919,5919,18-24,2.0,Expats,High School,NOTSELECTED,21000,1487518519.22,fast food,SA
+5920,5920,25-44,2.0,Expats,High School,NOTSELECTED,51000,1487518519.22,fast food,SA
+5921,5921,45+,2.0,Expats,High School,NOTSELECTED,6900,1487518519.22,fast food,SA
+5922,5922,18-24,1.0,Locals,Graduated,NOTSELECTED,46000,1487518519.22,fast food,SA
+5923,5923,25-44,1.0,Locals,Graduated,NOTSELECTED,200000,1487518519.22,fast food,SA
+5924,5924,45+,1.0,Locals,Graduated,NOTSELECTED,19000,1487518519.22,fast food,SA
+5925,5925,18-24,2.0,Locals,Graduated,NOTSELECTED,21000,1487518519.22,fast food,SA
+5926,5926,25-44,2.0,Locals,Graduated,NOTSELECTED,77000,1487518519.22,fast food,SA
+5927,5927,45+,2.0,Locals,Graduated,NOTSELECTED,9200,1487518519.22,fast food,SA
+5928,5928,18-24,1.0,Locals,No Degree,NOTSELECTED,170000,1487518519.22,fast food,SA
+5929,5929,25-44,1.0,Locals,No Degree,NOTSELECTED,410000,1487518519.22,fast food,SA
+5930,5930,45+,1.0,Locals,No Degree,NOTSELECTED,57000,1487518519.22,fast food,SA
+5931,5931,18-24,2.0,Locals,No Degree,NOTSELECTED,54000,1487518519.22,fast food,SA
+5932,5932,25-44,2.0,Locals,No Degree,NOTSELECTED,120000,1487518519.22,fast food,SA
+5933,5933,45+,2.0,Locals,No Degree,NOTSELECTED,25000,1487518519.22,fast food,SA
+5934,5934,18-24,1.0,Locals,High School,NOTSELECTED,28000,1487518519.22,fast food,SA
+5935,5935,25-44,1.0,Locals,High School,NOTSELECTED,68000,1487518519.22,fast food,SA
+5936,5936,45+,1.0,Locals,High School,NOTSELECTED,7100,1487518519.22,fast food,SA
+5937,5937,18-24,2.0,Locals,High School,NOTSELECTED,19000,1487518519.22,fast food,SA
+5938,5938,25-44,2.0,Locals,High School,NOTSELECTED,25000,1487518519.22,fast food,SA
+5939,5939,45+,2.0,Locals,High School,NOTSELECTED,3400,1487518519.22,fast food,SA
+5940,5940,18-24,1.0,Expats,Graduated,NOTSELECTED,630,1487518519.22,fast food,SO
+5941,5941,25-44,1.0,Expats,Graduated,NOTSELECTED,660,1487518519.22,fast food,SO
+5942,5942,45+,1.0,Expats,Graduated,NOTSELECTED,20,1487518519.22,fast food,SO
+5943,5943,18-24,2.0,Expats,Graduated,NOTSELECTED,310,1487518519.22,fast food,SO
+5944,5944,25-44,2.0,Expats,Graduated,NOTSELECTED,170,1487518519.22,fast food,SO
+5945,5945,45+,2.0,Expats,Graduated,NOTSELECTED,20,1487518519.22,fast food,SO
+5946,5946,18-24,1.0,Expats,No Degree,NOTSELECTED,290,1487518519.22,fast food,SO
+5947,5947,25-44,1.0,Expats,No Degree,NOTSELECTED,210,1487518519.22,fast food,SO
+5948,5948,45+,1.0,Expats,No Degree,NOTSELECTED,20,1487518519.22,fast food,SO
+5949,5949,18-24,2.0,Expats,No Degree,NOTSELECTED,180,1487518519.22,fast food,SO
+5950,5950,25-44,2.0,Expats,No Degree,NOTSELECTED,100,1487518519.22,fast food,SO
+5951,5951,45+,2.0,Expats,No Degree,NOTSELECTED,20,1487518519.22,fast food,SO
+5952,5952,18-24,1.0,Expats,High School,NOTSELECTED,190,1487518519.22,fast food,SO
+5953,5953,25-44,1.0,Expats,High School,NOTSELECTED,140,1487518519.22,fast food,SO
+5954,5954,45+,1.0,Expats,High School,NOTSELECTED,20,1487518519.22,fast food,SO
+5955,5955,18-24,2.0,Expats,High School,NOTSELECTED,190,1487518519.22,fast food,SO
+5956,5956,25-44,2.0,Expats,High School,NOTSELECTED,40,1487518519.22,fast food,SO
+5957,5957,45+,2.0,Expats,High School,NOTSELECTED,20,1487518519.22,fast food,SO
+5958,5958,18-24,1.0,Locals,Graduated,NOTSELECTED,1600,1487518519.22,fast food,SO
+5959,5959,25-44,1.0,Locals,Graduated,NOTSELECTED,1600,1487518519.22,fast food,SO
+5960,5960,45+,1.0,Locals,Graduated,NOTSELECTED,70,1487518519.22,fast food,SO
+5961,5961,18-24,2.0,Locals,Graduated,NOTSELECTED,1300,1487518519.22,fast food,SO
+5962,5962,25-44,2.0,Locals,Graduated,NOTSELECTED,620,1487518519.22,fast food,SO
+5963,5963,45+,2.0,Locals,Graduated,NOTSELECTED,60,1487518519.22,fast food,SO
+5964,5964,18-24,1.0,Locals,No Degree,NOTSELECTED,1200,1487518519.22,fast food,SO
+5965,5965,25-44,1.0,Locals,No Degree,NOTSELECTED,870,1487518519.22,fast food,SO
+5966,5966,45+,1.0,Locals,No Degree,NOTSELECTED,90,1487518519.22,fast food,SO
+5967,5967,18-24,2.0,Locals,No Degree,NOTSELECTED,1700,1487518519.22,fast food,SO
+5968,5968,25-44,2.0,Locals,No Degree,NOTSELECTED,690,1487518519.22,fast food,SO
+5969,5969,45+,2.0,Locals,No Degree,NOTSELECTED,50,1487518519.22,fast food,SO
+5970,5970,18-24,1.0,Locals,High School,NOTSELECTED,580,1487518519.22,fast food,SO
+5971,5971,25-44,1.0,Locals,High School,NOTSELECTED,310,1487518519.22,fast food,SO
+5972,5972,45+,1.0,Locals,High School,NOTSELECTED,20,1487518519.22,fast food,SO
+5973,5973,18-24,2.0,Locals,High School,NOTSELECTED,700,1487518519.22,fast food,SO
+5974,5974,25-44,2.0,Locals,High School,NOTSELECTED,110,1487518519.22,fast food,SO
+5975,5975,45+,2.0,Locals,High School,NOTSELECTED,20,1487518519.22,fast food,SO
+5976,5976,18-24,1.0,Expats,Graduated,NOTSELECTED,5800,1487518519.22,fast food,TN
+5977,5977,25-44,1.0,Expats,Graduated,NOTSELECTED,6100,1487518519.22,fast food,TN
+5978,5978,45+,1.0,Expats,Graduated,NOTSELECTED,1100,1487518519.22,fast food,TN
+5979,5979,18-24,2.0,Expats,Graduated,NOTSELECTED,4100,1487518519.22,fast food,TN
+5980,5980,25-44,2.0,Expats,Graduated,NOTSELECTED,4600,1487518519.22,fast food,TN
+5981,5981,45+,2.0,Expats,Graduated,NOTSELECTED,1000,1487518519.22,fast food,TN
+5982,5982,18-24,1.0,Expats,No Degree,NOTSELECTED,2400,1487518519.22,fast food,TN
+5983,5983,25-44,1.0,Expats,No Degree,NOTSELECTED,2800,1487518519.22,fast food,TN
+5984,5984,45+,1.0,Expats,No Degree,NOTSELECTED,820,1487518519.22,fast food,TN
+5985,5985,18-24,2.0,Expats,No Degree,NOTSELECTED,2100,1487518519.22,fast food,TN
+5986,5986,25-44,2.0,Expats,No Degree,NOTSELECTED,2700,1487518519.22,fast food,TN
+5987,5987,45+,2.0,Expats,No Degree,NOTSELECTED,850,1487518519.22,fast food,TN
+5988,5988,18-24,1.0,Expats,High School,NOTSELECTED,2700,1487518519.22,fast food,TN
+5989,5989,25-44,1.0,Expats,High School,NOTSELECTED,1600,1487518519.22,fast food,TN
+5990,5990,45+,1.0,Expats,High School,NOTSELECTED,450,1487518519.22,fast food,TN
+5991,5991,18-24,2.0,Expats,High School,NOTSELECTED,2200,1487518519.22,fast food,TN
+5992,5992,25-44,2.0,Expats,High School,NOTSELECTED,1200,1487518519.22,fast food,TN
+5993,5993,45+,2.0,Expats,High School,NOTSELECTED,410,1487518519.22,fast food,TN
+5994,5994,18-24,1.0,Locals,Graduated,NOTSELECTED,31000,1487518519.22,fast food,TN
+5995,5995,25-44,1.0,Locals,Graduated,NOTSELECTED,58000,1487518519.22,fast food,TN
+5996,5996,45+,1.0,Locals,Graduated,NOTSELECTED,9000,1487518519.22,fast food,TN
+5997,5997,18-24,2.0,Locals,Graduated,NOTSELECTED,52000,1487518519.22,fast food,TN
+5998,5998,25-44,2.0,Locals,Graduated,NOTSELECTED,90000,1487518519.22,fast food,TN
+5999,5999,45+,2.0,Locals,Graduated,NOTSELECTED,9800,1487518519.22,fast food,TN
+6000,6000,18-24,1.0,Locals,No Degree,NOTSELECTED,22000,1487518519.22,fast food,TN
+6001,6001,25-44,1.0,Locals,No Degree,NOTSELECTED,35000,1487518519.22,fast food,TN
+6002,6002,45+,1.0,Locals,No Degree,NOTSELECTED,9400,1487518519.22,fast food,TN
+6003,6003,18-24,2.0,Locals,No Degree,NOTSELECTED,36000,1487518519.22,fast food,TN
+6004,6004,25-44,2.0,Locals,No Degree,NOTSELECTED,51000,1487518519.22,fast food,TN
+6005,6005,45+,2.0,Locals,No Degree,NOTSELECTED,13000,1487518519.22,fast food,TN
+6006,6006,18-24,1.0,Locals,High School,NOTSELECTED,16000,1487518519.22,fast food,TN
+6007,6007,25-44,1.0,Locals,High School,NOTSELECTED,16000,1487518519.22,fast food,TN
+6008,6008,45+,1.0,Locals,High School,NOTSELECTED,4200,1487518519.22,fast food,TN
+6009,6009,18-24,2.0,Locals,High School,NOTSELECTED,31000,1487518519.22,fast food,TN
+6010,6010,25-44,2.0,Locals,High School,NOTSELECTED,22000,1487518519.22,fast food,TN
+6011,6011,45+,2.0,Locals,High School,NOTSELECTED,5200,1487518519.22,fast food,TN
+6012,6012,18-24,1.0,Expats,Graduated,NOTSELECTED,96000,1487518519.22,fast food,AE
+6013,6013,25-44,1.0,Expats,Graduated,NOTSELECTED,410000,1487518519.22,fast food,AE
+6014,6014,45+,1.0,Expats,Graduated,NOTSELECTED,30000,1487518519.22,fast food,AE
+6015,6015,18-24,2.0,Expats,Graduated,NOTSELECTED,39000,1487518519.22,fast food,AE
+6016,6016,25-44,2.0,Expats,Graduated,NOTSELECTED,260000,1487518519.22,fast food,AE
+6017,6017,45+,2.0,Expats,Graduated,NOTSELECTED,28000,1487518519.22,fast food,AE
+6018,6018,18-24,1.0,Expats,No Degree,NOTSELECTED,75000,1487518519.22,fast food,AE
+6019,6019,25-44,1.0,Expats,No Degree,NOTSELECTED,160000,1487518519.22,fast food,AE
+6020,6020,45+,1.0,Expats,No Degree,NOTSELECTED,21000,1487518519.22,fast food,AE
+6021,6021,18-24,2.0,Expats,No Degree,NOTSELECTED,23000,1487518519.22,fast food,AE
+6022,6022,25-44,2.0,Expats,No Degree,NOTSELECTED,78000,1487518519.22,fast food,AE
+6023,6023,45+,2.0,Expats,No Degree,NOTSELECTED,19000,1487518519.22,fast food,AE
+6024,6024,18-24,1.0,Expats,High School,NOTSELECTED,39000,1487518519.22,fast food,AE
+6025,6025,25-44,1.0,Expats,High School,NOTSELECTED,86000,1487518519.22,fast food,AE
+6026,6026,45+,1.0,Expats,High School,NOTSELECTED,8500,1487518519.22,fast food,AE
+6027,6027,18-24,2.0,Expats,High School,NOTSELECTED,22000,1487518519.22,fast food,AE
+6028,6028,25-44,2.0,Expats,High School,NOTSELECTED,52000,1487518519.22,fast food,AE
+6029,6029,45+,2.0,Expats,High School,NOTSELECTED,8500,1487518519.22,fast food,AE
+6030,6030,18-24,1.0,Locals,Graduated,NOTSELECTED,5400,1487518519.22,fast food,AE
+6031,6031,25-44,1.0,Locals,Graduated,NOTSELECTED,14000,1487518519.22,fast food,AE
+6032,6032,45+,1.0,Locals,Graduated,NOTSELECTED,1200,1487518519.22,fast food,AE
+6033,6033,18-24,2.0,Locals,Graduated,NOTSELECTED,3100,1487518519.22,fast food,AE
+6034,6034,25-44,2.0,Locals,Graduated,NOTSELECTED,8500,1487518519.22,fast food,AE
+6035,6035,45+,2.0,Locals,Graduated,NOTSELECTED,850,1487518519.22,fast food,AE
+6036,6036,18-24,1.0,Locals,No Degree,NOTSELECTED,4200,1487518519.22,fast food,AE
+6037,6037,25-44,1.0,Locals,No Degree,NOTSELECTED,7700,1487518519.22,fast food,AE
+6038,6038,45+,1.0,Locals,No Degree,NOTSELECTED,930,1487518519.22,fast food,AE
+6039,6039,18-24,2.0,Locals,No Degree,NOTSELECTED,2400,1487518519.22,fast food,AE
+6040,6040,25-44,2.0,Locals,No Degree,NOTSELECTED,4500,1487518519.22,fast food,AE
+6041,6041,45+,2.0,Locals,No Degree,NOTSELECTED,1000,1487518519.22,fast food,AE
+6042,6042,18-24,1.0,Locals,High School,NOTSELECTED,3600,1487518519.22,fast food,AE
+6043,6043,25-44,1.0,Locals,High School,NOTSELECTED,3400,1487518519.22,fast food,AE
+6044,6044,45+,1.0,Locals,High School,NOTSELECTED,390,1487518519.22,fast food,AE
+6045,6045,18-24,2.0,Locals,High School,NOTSELECTED,2800,1487518519.22,fast food,AE
+6046,6046,25-44,2.0,Locals,High School,NOTSELECTED,1800,1487518519.22,fast food,AE
+6047,6047,45+,2.0,Locals,High School,NOTSELECTED,300,1487518519.22,fast food,AE
+6048,6048,18-24,1.0,Expats,Graduated,NOTSELECTED,1300,1487518519.22,fast food,YE
+6049,6049,25-44,1.0,Expats,Graduated,NOTSELECTED,2100,1487518519.22,fast food,YE
+6050,6050,45+,1.0,Expats,Graduated,NOTSELECTED,170,1487518519.22,fast food,YE
+6051,6051,18-24,2.0,Expats,Graduated,NOTSELECTED,360,1487518519.22,fast food,YE
+6052,6052,25-44,2.0,Expats,Graduated,NOTSELECTED,540,1487518519.22,fast food,YE
+6053,6053,45+,2.0,Expats,Graduated,NOTSELECTED,60,1487518519.22,fast food,YE
+6054,6054,18-24,1.0,Expats,No Degree,NOTSELECTED,480,1487518519.22,fast food,YE
+6055,6055,25-44,1.0,Expats,No Degree,NOTSELECTED,660,1487518519.22,fast food,YE
+6056,6056,45+,1.0,Expats,No Degree,NOTSELECTED,20,1487518519.22,fast food,YE
+6057,6057,18-24,2.0,Expats,No Degree,NOTSELECTED,270,1487518519.22,fast food,YE
+6058,6058,25-44,2.0,Expats,No Degree,NOTSELECTED,280,1487518519.22,fast food,YE
+6059,6059,45+,2.0,Expats,No Degree,NOTSELECTED,90,1487518519.22,fast food,YE
+6060,6060,18-24,1.0,Expats,High School,NOTSELECTED,710,1487518519.22,fast food,YE
+6061,6061,25-44,1.0,Expats,High School,NOTSELECTED,610,1487518519.22,fast food,YE
+6062,6062,45+,1.0,Expats,High School,NOTSELECTED,70,1487518519.22,fast food,YE
+6063,6063,18-24,2.0,Expats,High School,NOTSELECTED,400,1487518519.22,fast food,YE
+6064,6064,25-44,2.0,Expats,High School,NOTSELECTED,180,1487518519.22,fast food,YE
+6065,6065,45+,2.0,Expats,High School,NOTSELECTED,20,1487518519.22,fast food,YE
+6066,6066,18-24,1.0,Locals,Graduated,NOTSELECTED,9200,1487518519.22,fast food,YE
+6067,6067,25-44,1.0,Locals,Graduated,NOTSELECTED,17000,1487518519.22,fast food,YE
+6068,6068,45+,1.0,Locals,Graduated,NOTSELECTED,1500,1487518519.22,fast food,YE
+6069,6069,18-24,2.0,Locals,Graduated,NOTSELECTED,2900,1487518519.22,fast food,YE
+6070,6070,25-44,2.0,Locals,Graduated,NOTSELECTED,5400,1487518519.22,fast food,YE
+6071,6071,45+,2.0,Locals,Graduated,NOTSELECTED,320,1487518519.22,fast food,YE
+6072,6072,18-24,1.0,Locals,No Degree,NOTSELECTED,7200,1487518519.22,fast food,YE
+6073,6073,25-44,1.0,Locals,No Degree,NOTSELECTED,9600,1487518519.22,fast food,YE
+6074,6074,45+,1.0,Locals,No Degree,NOTSELECTED,1500,1487518519.22,fast food,YE
+6075,6075,18-24,2.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fast food,YE
+6076,6076,25-44,2.0,Locals,No Degree,NOTSELECTED,2400,1487518519.22,fast food,YE
+6077,6077,45+,2.0,Locals,No Degree,NOTSELECTED,400,1487518519.22,fast food,YE
+6078,6078,18-24,1.0,Locals,High School,NOTSELECTED,6400,1487518519.22,fast food,YE
+6079,6079,25-44,1.0,Locals,High School,NOTSELECTED,4700,1487518519.22,fast food,YE
+6080,6080,45+,1.0,Locals,High School,NOTSELECTED,560,1487518519.22,fast food,YE
+6081,6081,18-24,2.0,Locals,High School,NOTSELECTED,3300,1487518519.22,fast food,YE
+6082,6082,25-44,2.0,Locals,High School,NOTSELECTED,1400,1487518519.22,fast food,YE
+6083,6083,45+,2.0,Locals,High School,NOTSELECTED,100,1487518519.22,fast food,YE
+6084,6084,18-24,1.0,Expats,Graduated,NOTSELECTED,3900,1487518519.22,fast food,PS
+6085,6085,25-44,1.0,Expats,Graduated,NOTSELECTED,5200,1487518519.22,fast food,PS
+6086,6086,45+,1.0,Expats,Graduated,NOTSELECTED,610,1487518519.22,fast food,PS
+6087,6087,18-24,2.0,Expats,Graduated,NOTSELECTED,3400,1487518519.22,fast food,PS
+6088,6088,25-44,2.0,Expats,Graduated,NOTSELECTED,5800,1487518519.22,fast food,PS
+6089,6089,45+,2.0,Expats,Graduated,NOTSELECTED,610,1487518519.22,fast food,PS
+6090,6090,18-24,1.0,Expats,No Degree,NOTSELECTED,1100,1487518519.22,fast food,PS
+6091,6091,25-44,1.0,Expats,No Degree,NOTSELECTED,1400,1487518519.22,fast food,PS
+6092,6092,45+,1.0,Expats,No Degree,NOTSELECTED,220,1487518519.22,fast food,PS
+6093,6093,18-24,2.0,Expats,No Degree,NOTSELECTED,1200,1487518519.22,fast food,PS
+6094,6094,25-44,2.0,Expats,No Degree,NOTSELECTED,1900,1487518519.22,fast food,PS
+6095,6095,45+,2.0,Expats,No Degree,NOTSELECTED,790,1487518519.22,fast food,PS
+6096,6096,18-24,1.0,Expats,High School,NOTSELECTED,2500,1487518519.22,fast food,PS
+6097,6097,25-44,1.0,Expats,High School,NOTSELECTED,1200,1487518519.22,fast food,PS
+6098,6098,45+,1.0,Expats,High School,NOTSELECTED,180,1487518519.22,fast food,PS
+6099,6099,18-24,2.0,Expats,High School,NOTSELECTED,3400,1487518519.22,fast food,PS
+6100,6100,25-44,2.0,Expats,High School,NOTSELECTED,1400,1487518519.22,fast food,PS
+6101,6101,45+,2.0,Expats,High School,NOTSELECTED,290,1487518519.22,fast food,PS
+6102,6102,18-24,1.0,Locals,Graduated,NOTSELECTED,13000,1487518519.22,fast food,PS
+6103,6103,25-44,1.0,Locals,Graduated,NOTSELECTED,22000,1487518519.22,fast food,PS
+6104,6104,45+,1.0,Locals,Graduated,NOTSELECTED,2400,1487518519.22,fast food,PS
+6105,6105,18-24,2.0,Locals,Graduated,NOTSELECTED,15000,1487518519.22,fast food,PS
+6106,6106,25-44,2.0,Locals,Graduated,NOTSELECTED,24000,1487518519.22,fast food,PS
+6107,6107,45+,2.0,Locals,Graduated,NOTSELECTED,2100,1487518519.22,fast food,PS
+6108,6108,18-24,1.0,Locals,No Degree,NOTSELECTED,5900,1487518519.22,fast food,PS
+6109,6109,25-44,1.0,Locals,No Degree,NOTSELECTED,7700,1487518519.22,fast food,PS
+6110,6110,45+,1.0,Locals,No Degree,NOTSELECTED,1900,1487518519.22,fast food,PS
+6111,6111,18-24,2.0,Locals,No Degree,NOTSELECTED,6700,1487518519.22,fast food,PS
+6112,6112,25-44,2.0,Locals,No Degree,NOTSELECTED,11000,1487518519.22,fast food,PS
+6113,6113,45+,2.0,Locals,No Degree,NOTSELECTED,3600,1487518519.22,fast food,PS
+6114,6114,18-24,1.0,Locals,High School,NOTSELECTED,8600,1487518519.22,fast food,PS
+6115,6115,25-44,1.0,Locals,High School,NOTSELECTED,4900,1487518519.22,fast food,PS
+6116,6116,45+,1.0,Locals,High School,NOTSELECTED,700,1487518519.22,fast food,PS
+6117,6117,18-24,2.0,Locals,High School,NOTSELECTED,14000,1487518519.22,fast food,PS
+6118,6118,25-44,2.0,Locals,High School,NOTSELECTED,6500,1487518519.22,fast food,PS
+6119,6119,45+,2.0,Locals,High School,NOTSELECTED,990,1487518519.22,fast food,PS
