@@ -19,7 +19,8 @@ function HistoryDataSelector(){
                     $("#selectDownloadDate").val(historyIndex);
                 }
             }
-    }
+        });
+    };
 
     this.clickOnDate = function (value) {
         var optionIndex = parseInt(value);
