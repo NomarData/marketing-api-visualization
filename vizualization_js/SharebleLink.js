@@ -65,6 +65,7 @@ function SharebleLink(){
         var params = currentInstance.getUrlParamsGivenUrl(url);
         params = params.toLowerCase();
         var newState = currentInstance.getStateByParams(params);
+
         if(newState){
             currentInstance.applyState(newState);
         }
@@ -73,10 +74,9 @@ function SharebleLink(){
         console.log(newState);
         currentInstance.reversingState = true;
         dataManager.setLeftAndRightTopicAndGetPromise(newState[LEFT_TOPIC], newState[RIGHT_TOPIC]).done(function(){
-            treemapManager.clickOnTreemapGivenNameAndValue("genders", newState["genders"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("ages_ranges", newState["ages_ranges"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("scholarities", newState["scholarities"]);
-            treemapManager.clickOnTreemapGivenNameAndValue("behavior", newState["behavior"]);
+            for(var key in treemapPossibleStates){
+                treemapManager.clickOnTreemapGivenNameAndValue(key, newState[key]);
+            }
             dataManager.setSelectedLocations2lettersList(newState["location"]);
             currentInstance.reversingState = false;
             currentInstance.updateData();
@@ -124,6 +124,12 @@ function SharebleLink(){
         var valueInOurData;
         var valueInParams;
 
+        if(Object.keys(treemapPossibleStates).includes(paramName)){
+            valueInParams = urlParams.get(paramName);
+                return currentInstance.getValueFromListIgnoreCase(valueInParams,paramName);
+        }
+
+
         switch(paramName){
             case LEFT_TOPIC:
             case "health":
@@ -149,22 +155,22 @@ function SharebleLink(){
                 }
 
                 break;
-            case "gender":
-                valueInParams = urlParams.get("gender");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "gender");
-                break;
-            case "scholarity":
-                valueInParams = urlParams.get("scholarity");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "scholarity");
-                break;
-            case "age_range":
-                valueInParams = urlParams.get("age_range");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "age_range");
-                break;
-            case "citizenship":
-                valueInParams = urlParams.get("citizenship");
-                valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "citizenship");
-                break;
+            // case "gender":
+            //     valueInParams = urlParams.get("gender");
+            //     valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "gender");
+            //     break;
+            // case "scholarity":
+            //     valueInParams = urlParams.get("scholarity");
+            //     valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "scholarity");
+            //     break;
+            // case "age_range":
+            //     valueInParams = urlParams.get("age_range");
+            //     valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "age_range");
+            //     break;
+            // case "citizenship":
+            //     valueInParams = urlParams.get("citizenship");
+            //     valueInOurData = currentInstance.getValueFromListIgnoreCase(valueInParams, "citizenship");
+            //     break;
             default:
                 throw Error("Parameter name invalid:" + paramName);
         }
@@ -188,10 +194,9 @@ function SharebleLink(){
             newState[LEFT_TOPIC] = currentInstance.paramFromUrlParams(LEFT_TOPIC, urlParams);
             newState[RIGHT_TOPIC] = currentInstance.paramFromUrlParams(RIGHT_TOPIC, urlParams);
             newState["location"] = currentInstance.paramFromUrlParams("location", urlParams);
-            newState["gender"] = currentInstance.paramFromUrlParams("gender", urlParams);
-            newState["scholarity"] = currentInstance.paramFromUrlParams("scholarity", urlParams);
-            newState["age_range"] = currentInstance.paramFromUrlParams("age_range", urlParams);
-            newState["citizenship"] = currentInstance.paramFromUrlParams("citizenship", urlParams);
+            for(var treemapName in treemapPossibleStates){
+                newState[treemapName] = currentInstance.paramFromUrlParams(treemapName, urlParams);
+            }
             if(newState[LEFT_TOPIC] == null && newState[RIGHT_TOPIC] == null){
                 throw new LeftTopicAndRightTopicNullException();
             }
@@ -233,9 +238,9 @@ function SharebleLink(){
         //reference can be code 2 letter, code 3 letters or location name
         if(reference){
             var reference = reference.toLowerCase();
-            for(var locationKey in locationCodeMap){
-                var code2Letters = locationCodeMap[locationKey]._2letters_code.toLowerCase();
-                var name = locationCodeMap[locationKey].name.toLowerCase();
+            for(var locationKey in getLocationsData()){
+                var code2Letters = getLocationsData()[locationKey]._2letters_code.toLowerCase();
+                var name = getLocationsData()[locationKey].name.toLowerCase();
                 if(reference == code2Letters || reference == name){
                     return getLocation2letterFromLocationKey(locationKey);
                 }

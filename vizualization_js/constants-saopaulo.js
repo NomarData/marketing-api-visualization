@@ -73,17 +73,19 @@ MAPS_CONFIGS = {
         "zoomLevel" : 11,
         "defaultSubRegionCenterLat": 0,
         "defaultSubRegionCenterLng": 0,
-        "autoCenterMap" : true
+        "autoCenterMap" : true,
+        "locationsData" : {
+            "West Zone (rich)" : {"name":"West Zone" , "_2letters_code":"WE", "latitude": -23.6212, "longitude": -46.7178, "radius": 5000},
+            "East Zone (poor)" : {"name":"East Zone" , "_2letters_code":"ES", "latitude": -23.5577, "longitude": -46.5435, "radius": 4000}
+        }
     }
 };
-locationCodeMap["West Zone (rich)"] = {"name":"West Zone" , "_2letters_code":"WE", "latitude": -23.6212, "longitude": -46.7178, "radius": 5000};
-locationCodeMap["East Zone (poor)"] = {"name":"East Zone" , "_2letters_code":"ES", "latitude": -23.5577, "longitude": -46.5435, "radius": 4000};
 
 MAPS_CONFIG_SELECTION_KEY = "SAOPAULO";
 allUsaStatesKeys = ["Alabama"  ,"Alaska"  ,"Arizona"  ,"Arkansas"  ,"California"  ,"Colorado" ,"Connecticut" ,"Delaware" ,"District of Columbia" ,"Florida" ,"Georgia" ,"Hawaii" ,"Idaho" ,"Illinois" ,"Indiana" ,"Iowa" ,"Kansas" ,"Kentucky" ,"Louisiana" ,"Maine" ,"Maryland" ,"Massachusetts" ,"Michigan" ,"Minnesota" ,"Mississippi" ,"Missouri" ,"Montana" ,"Nebraska" ,"Nevada" ,"New Hampshire" ,"New Jersey" ,"New Mexico" ,"New York" ,"North Carolina" ,"North Dakota" ,"Ohio" ,"Oklahoma" ,"Oregon" ,"Pennsylvania" ,"Rhode Island" ,"South Carolina" ,"South Dakota" ,"Tennessee" ,"Texas" ,"Utah" ,"Vermont" ,"Virginia" ,"Washington" ,"West Virginia" ,"Wisconsin" ,"Wyoming"]
 allArabicLeagueCountriesKeys = ["DZ","BH","EG","IQ","JO","KW","LB","LY","MA","OM","PS","QA","SA","SO","TN","AE","YE"];
-allSaoPauloSubRegionsKeys = ["West Zone (rich)", "East Zone (poor)"];
-allEnabledLocationsKeys = allSaoPauloSubRegionsKeys;
+
+allEnabledLocationsKeys = Object.keys(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].locationsData);
 colorRangeScale = ["#d73027", "#fc8d59", "#fee08b", '#ffffbf', '#d9ef8b', '#91cf60', '#1a9850'];
 colorD3RangeScale = [d3.rgb("#d73027"), d3.rgb("#fc8d59"), d3.rgb("#fee08b"), d3.rgb('#ffffbf'), d3.rgb('#d9ef8b'), d3.rgb('#91cf60'), d3.rgb('#1a9850')];
 domainLinear = [-1, -0.66, -0.33, 0, 0.33, 0.66, 1];
@@ -92,7 +94,7 @@ colorFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpo
 colorNotLinearFunction = d3.scale.linear().domain(domainNotLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 colorLinearFunction = d3.scale.linear().domain(domainLinear).interpolate(d3.interpolateRgb).range(colorD3RangeScale);
 ALL_VALUE = "ALL";
-DEFAULT_CATEGORIES_NAMES = ["gender", "age_range", "scholarity", "citizenship"];
+dataColumnsToTreemaps = ["gender", "age_range", "scholarity", "citizenship"];
 APPLICATION_TITLE = "Dengue and Depression in São Paulo";
 APPLICATION_DESCRIPTION = "Just an example of using sub Region data from Facebook API.";
 AWARENESS_SCORE_TITLE = "Facebook Peace Awareness Score";
@@ -100,7 +102,7 @@ DEFAULT_LEFT_TOPIC = 1;
 DEFAULT_RIGHT_TOPIC = 0;
 LOCATION_HEIGHT_THRESHOLD = 500;
 LOCATION_BTNS_WIDTH = 90;
-columnsToTreemaps = [
+dataColumnsToTreemaps = [
     "genders",
     "ages_ranges",
     "scholarities",
@@ -211,7 +213,7 @@ mapValuesStringsTooltip = {
     "family_status" : "Parent"
 };
 
-mapValuesTileTitle = {
+mapValuesStringTooltip = {
     "1.0" : "Male",
     "2.0" : "Female",
     "Female" : "Female",
@@ -236,5 +238,5 @@ applicationPossibleStates = {
         "scholarity" : ["Graduated","No Degree","High School"],
         "age_range" : ["18-24", "25-44", "45+" ],
         "citizenship" : ["Expats", "Locals"],
-        "country" : locationCodeMap,
+        "country" : Object.keys(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].locationsData),
 };

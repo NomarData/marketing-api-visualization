@@ -1,1225 +1,1225 @@
-,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,relationship_statuses,audience,timestamp,topic,location
-3060,3060,18-24,1.0,Expats,Graduated,NOTSELECTED,6100,1488123352.37,diabetes awareness,DZ
-3061,3061,25-44,1.0,Expats,Graduated,NOTSELECTED,7900,1488123352.37,diabetes awareness,DZ
-3062,3062,45+,1.0,Expats,Graduated,NOTSELECTED,1700,1488123352.37,diabetes awareness,DZ
-3063,3063,18-24,2.0,Expats,Graduated,NOTSELECTED,3000,1488123352.37,diabetes awareness,DZ
-3064,3064,25-44,2.0,Expats,Graduated,NOTSELECTED,3100,1488123352.37,diabetes awareness,DZ
-3065,3065,45+,2.0,Expats,Graduated,NOTSELECTED,870,1488123352.37,diabetes awareness,DZ
-3066,3066,18-24,1.0,Expats,No Degree,NOTSELECTED,4200,1488123352.37,diabetes awareness,DZ
-3067,3067,25-44,1.0,Expats,No Degree,NOTSELECTED,7200,1488123352.37,diabetes awareness,DZ
-3068,3068,45+,1.0,Expats,No Degree,NOTSELECTED,2100,1488123352.37,diabetes awareness,DZ
-3069,3069,18-24,2.0,Expats,No Degree,NOTSELECTED,2100,1488123352.37,diabetes awareness,DZ
-3070,3070,25-44,2.0,Expats,No Degree,NOTSELECTED,3500,1488123352.37,diabetes awareness,DZ
-3071,3071,45+,2.0,Expats,No Degree,NOTSELECTED,1300,1488123352.37,diabetes awareness,DZ
-3072,3072,18-24,1.0,Expats,High School,NOTSELECTED,2300,1488123352.37,diabetes awareness,DZ
-3073,3073,25-44,1.0,Expats,High School,NOTSELECTED,1900,1488123352.37,diabetes awareness,DZ
-3074,3074,45+,1.0,Expats,High School,NOTSELECTED,450,1488123352.37,diabetes awareness,DZ
-3075,3075,18-24,2.0,Expats,High School,NOTSELECTED,1200,1488123352.37,diabetes awareness,DZ
-3076,3076,25-44,2.0,Expats,High School,NOTSELECTED,540,1488123352.37,diabetes awareness,DZ
-3077,3077,45+,2.0,Expats,High School,NOTSELECTED,330,1488123352.37,diabetes awareness,DZ
-3078,3078,18-24,1.0,Locals,Graduated,NOTSELECTED,29000,1488123352.37,diabetes awareness,DZ
-3079,3079,25-44,1.0,Locals,Graduated,NOTSELECTED,63000,1488123352.37,diabetes awareness,DZ
-3080,3080,45+,1.0,Locals,Graduated,NOTSELECTED,13000,1488123352.37,diabetes awareness,DZ
-3081,3081,18-24,2.0,Locals,Graduated,NOTSELECTED,30000,1488123352.37,diabetes awareness,DZ
-3082,3082,25-44,2.0,Locals,Graduated,NOTSELECTED,47000,1488123352.37,diabetes awareness,DZ
-3083,3083,45+,2.0,Locals,Graduated,NOTSELECTED,7700,1488123352.37,diabetes awareness,DZ
-3084,3084,18-24,1.0,Locals,No Degree,NOTSELECTED,38000,1488123352.37,diabetes awareness,DZ
-3085,3085,25-44,1.0,Locals,No Degree,NOTSELECTED,86000,1488123352.37,diabetes awareness,DZ
-3086,3086,45+,1.0,Locals,No Degree,NOTSELECTED,23000,1488123352.37,diabetes awareness,DZ
-3087,3087,18-24,2.0,Locals,No Degree,NOTSELECTED,31000,1488123352.37,diabetes awareness,DZ
-3088,3088,25-44,2.0,Locals,No Degree,NOTSELECTED,52000,1488123352.37,diabetes awareness,DZ
-3089,3089,45+,2.0,Locals,No Degree,NOTSELECTED,14000,1488123352.37,diabetes awareness,DZ
-3090,3090,18-24,1.0,Locals,High School,NOTSELECTED,13000,1488123352.37,diabetes awareness,DZ
-3091,3091,25-44,1.0,Locals,High School,NOTSELECTED,18000,1488123352.37,diabetes awareness,DZ
-3092,3092,45+,1.0,Locals,High School,NOTSELECTED,4900,1488123352.37,diabetes awareness,DZ
-3093,3093,18-24,2.0,Locals,High School,NOTSELECTED,14000,1488123352.37,diabetes awareness,DZ
-3094,3094,25-44,2.0,Locals,High School,NOTSELECTED,11000,1488123352.37,diabetes awareness,DZ
-3095,3095,45+,2.0,Locals,High School,NOTSELECTED,3500,1488123352.37,diabetes awareness,DZ
-3096,3096,18-24,1.0,Expats,Graduated,NOTSELECTED,630,1488123352.37,diabetes awareness,BH
-3097,3097,25-44,1.0,Expats,Graduated,NOTSELECTED,2500,1488123352.37,diabetes awareness,BH
-3098,3098,45+,1.0,Expats,Graduated,NOTSELECTED,720,1488123352.37,diabetes awareness,BH
-3099,3099,18-24,2.0,Expats,Graduated,NOTSELECTED,150,1488123352.37,diabetes awareness,BH
-3100,3100,25-44,2.0,Expats,Graduated,NOTSELECTED,2000,1488123352.37,diabetes awareness,BH
-3101,3101,45+,2.0,Expats,Graduated,NOTSELECTED,1300,1488123352.37,diabetes awareness,BH
-3102,3102,18-24,1.0,Expats,No Degree,NOTSELECTED,510,1488123352.37,diabetes awareness,BH
-3103,3103,25-44,1.0,Expats,No Degree,NOTSELECTED,1400,1488123352.37,diabetes awareness,BH
-3104,3104,45+,1.0,Expats,No Degree,NOTSELECTED,440,1488123352.37,diabetes awareness,BH
-3105,3105,18-24,2.0,Expats,No Degree,NOTSELECTED,150,1488123352.37,diabetes awareness,BH
-3106,3106,25-44,2.0,Expats,No Degree,NOTSELECTED,790,1488123352.37,diabetes awareness,BH
-3107,3107,45+,2.0,Expats,No Degree,NOTSELECTED,720,1488123352.37,diabetes awareness,BH
-3108,3108,18-24,1.0,Expats,High School,NOTSELECTED,120,1488123352.37,diabetes awareness,BH
-3109,3109,25-44,1.0,Expats,High School,NOTSELECTED,570,1488123352.37,diabetes awareness,BH
-3110,3110,45+,1.0,Expats,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,BH
-3111,3111,18-24,2.0,Expats,High School,NOTSELECTED,60,1488123352.37,diabetes awareness,BH
-3112,3112,25-44,2.0,Expats,High School,NOTSELECTED,590,1488123352.37,diabetes awareness,BH
-3113,3113,45+,2.0,Expats,High School,NOTSELECTED,390,1488123352.37,diabetes awareness,BH
-3114,3114,18-24,1.0,Locals,Graduated,NOTSELECTED,100,1488123352.37,diabetes awareness,BH
-3115,3115,25-44,1.0,Locals,Graduated,NOTSELECTED,280,1488123352.37,diabetes awareness,BH
-3116,3116,45+,1.0,Locals,Graduated,NOTSELECTED,160,1488123352.37,diabetes awareness,BH
-3117,3117,18-24,2.0,Locals,Graduated,NOTSELECTED,20,1488123352.37,diabetes awareness,BH
-3118,3118,25-44,2.0,Locals,Graduated,NOTSELECTED,300,1488123352.37,diabetes awareness,BH
-3119,3119,45+,2.0,Locals,Graduated,NOTSELECTED,60,1488123352.37,diabetes awareness,BH
-3120,3120,18-24,1.0,Locals,No Degree,NOTSELECTED,30,1488123352.37,diabetes awareness,BH
-3121,3121,25-44,1.0,Locals,No Degree,NOTSELECTED,180,1488123352.37,diabetes awareness,BH
-3122,3122,45+,1.0,Locals,No Degree,NOTSELECTED,60,1488123352.37,diabetes awareness,BH
-3123,3123,18-24,2.0,Locals,No Degree,NOTSELECTED,40,1488123352.37,diabetes awareness,BH
-3124,3124,25-44,2.0,Locals,No Degree,NOTSELECTED,180,1488123352.37,diabetes awareness,BH
-3125,3125,45+,2.0,Locals,No Degree,NOTSELECTED,40,1488123352.37,diabetes awareness,BH
-3126,3126,18-24,1.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,BH
-3127,3127,25-44,1.0,Locals,High School,NOTSELECTED,100,1488123352.37,diabetes awareness,BH
-3128,3128,45+,1.0,Locals,High School,NOTSELECTED,30,1488123352.37,diabetes awareness,BH
-3129,3129,18-24,2.0,Locals,High School,NOTSELECTED,40,1488123352.37,diabetes awareness,BH
-3130,3130,25-44,2.0,Locals,High School,NOTSELECTED,50,1488123352.37,diabetes awareness,BH
-3131,3131,45+,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,BH
-3132,3132,18-24,1.0,Expats,Graduated,NOTSELECTED,5100,1488123352.37,diabetes awareness,EG
-3133,3133,25-44,1.0,Expats,Graduated,NOTSELECTED,9900,1488123352.37,diabetes awareness,EG
-3134,3134,45+,1.0,Expats,Graduated,NOTSELECTED,3500,1488123352.37,diabetes awareness,EG
-3135,3135,18-24,2.0,Expats,Graduated,NOTSELECTED,2200,1488123352.37,diabetes awareness,EG
-3136,3136,25-44,2.0,Expats,Graduated,NOTSELECTED,4900,1488123352.37,diabetes awareness,EG
-3137,3137,45+,2.0,Expats,Graduated,NOTSELECTED,1900,1488123352.37,diabetes awareness,EG
-3138,3138,18-24,1.0,Expats,No Degree,NOTSELECTED,2700,1488123352.37,diabetes awareness,EG
-3139,3139,25-44,1.0,Expats,No Degree,NOTSELECTED,4400,1488123352.37,diabetes awareness,EG
-3140,3140,45+,1.0,Expats,No Degree,NOTSELECTED,2900,1488123352.37,diabetes awareness,EG
-3141,3141,18-24,2.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,EG
-3142,3142,25-44,2.0,Expats,No Degree,NOTSELECTED,2100,1488123352.37,diabetes awareness,EG
-3143,3143,45+,2.0,Expats,No Degree,NOTSELECTED,2200,1488123352.37,diabetes awareness,EG
-3144,3144,18-24,1.0,Expats,High School,NOTSELECTED,3000,1488123352.37,diabetes awareness,EG
-3145,3145,25-44,1.0,Expats,High School,NOTSELECTED,2300,1488123352.37,diabetes awareness,EG
-3146,3146,45+,1.0,Expats,High School,NOTSELECTED,1100,1488123352.37,diabetes awareness,EG
-3147,3147,18-24,2.0,Expats,High School,NOTSELECTED,1600,1488123352.37,diabetes awareness,EG
-3148,3148,25-44,2.0,Expats,High School,NOTSELECTED,1200,1488123352.37,diabetes awareness,EG
-3149,3149,45+,2.0,Expats,High School,NOTSELECTED,630,1488123352.37,diabetes awareness,EG
-3150,3150,18-24,1.0,Locals,Graduated,NOTSELECTED,95000,1488123352.37,diabetes awareness,EG
-3151,3151,25-44,1.0,Locals,Graduated,NOTSELECTED,180000,1488123352.37,diabetes awareness,EG
-3152,3152,45+,1.0,Locals,Graduated,NOTSELECTED,71000,1488123352.37,diabetes awareness,EG
-3153,3153,18-24,2.0,Locals,Graduated,NOTSELECTED,78000,1488123352.37,diabetes awareness,EG
-3154,3154,25-44,2.0,Locals,Graduated,NOTSELECTED,140000,1488123352.37,diabetes awareness,EG
-3155,3155,45+,2.0,Locals,Graduated,NOTSELECTED,42000,1488123352.37,diabetes awareness,EG
-3156,3156,18-24,1.0,Locals,No Degree,NOTSELECTED,65000,1488123352.37,diabetes awareness,EG
-3157,3157,25-44,1.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,diabetes awareness,EG
-3158,3158,45+,1.0,Locals,No Degree,NOTSELECTED,82000,1488123352.37,diabetes awareness,EG
-3159,3159,18-24,2.0,Locals,No Degree,NOTSELECTED,54000,1488123352.37,diabetes awareness,EG
-3160,3160,25-44,2.0,Locals,No Degree,NOTSELECTED,90000,1488123352.37,diabetes awareness,EG
-3161,3161,45+,2.0,Locals,No Degree,NOTSELECTED,67000,1488123352.37,diabetes awareness,EG
-3162,3162,18-24,1.0,Locals,High School,NOTSELECTED,68000,1488123352.37,diabetes awareness,EG
-3163,3163,25-44,1.0,Locals,High School,NOTSELECTED,42000,1488123352.37,diabetes awareness,EG
-3164,3164,45+,1.0,Locals,High School,NOTSELECTED,19000,1488123352.37,diabetes awareness,EG
-3165,3165,18-24,2.0,Locals,High School,NOTSELECTED,59000,1488123352.37,diabetes awareness,EG
-3166,3166,25-44,2.0,Locals,High School,NOTSELECTED,28000,1488123352.37,diabetes awareness,EG
-3167,3167,45+,2.0,Locals,High School,NOTSELECTED,10000,1488123352.37,diabetes awareness,EG
-3168,3168,18-24,1.0,Expats,Graduated,NOTSELECTED,5300,1488123352.37,diabetes awareness,IQ
-3169,3169,25-44,1.0,Expats,Graduated,NOTSELECTED,16000,1488123352.37,diabetes awareness,IQ
-3170,3170,45+,1.0,Expats,Graduated,NOTSELECTED,3700,1488123352.37,diabetes awareness,IQ
-3171,3171,18-24,2.0,Expats,Graduated,NOTSELECTED,1200,1488123352.37,diabetes awareness,IQ
-3172,3172,25-44,2.0,Expats,Graduated,NOTSELECTED,3000,1488123352.37,diabetes awareness,IQ
-3173,3173,45+,2.0,Expats,Graduated,NOTSELECTED,780,1488123352.37,diabetes awareness,IQ
-3174,3174,18-24,1.0,Expats,No Degree,NOTSELECTED,5300,1488123352.37,diabetes awareness,IQ
-3175,3175,25-44,1.0,Expats,No Degree,NOTSELECTED,9100,1488123352.37,diabetes awareness,IQ
-3176,3176,45+,1.0,Expats,No Degree,NOTSELECTED,3100,1488123352.37,diabetes awareness,IQ
-3177,3177,18-24,2.0,Expats,No Degree,NOTSELECTED,1900,1488123352.37,diabetes awareness,IQ
-3178,3178,25-44,2.0,Expats,No Degree,NOTSELECTED,2800,1488123352.37,diabetes awareness,IQ
-3179,3179,45+,2.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,IQ
-3180,3180,18-24,1.0,Expats,High School,NOTSELECTED,3300,1488123352.37,diabetes awareness,IQ
-3181,3181,25-44,1.0,Expats,High School,NOTSELECTED,4100,1488123352.37,diabetes awareness,IQ
-3182,3182,45+,1.0,Expats,High School,NOTSELECTED,1300,1488123352.37,diabetes awareness,IQ
-3183,3183,18-24,2.0,Expats,High School,NOTSELECTED,930,1488123352.37,diabetes awareness,IQ
-3184,3184,25-44,2.0,Expats,High School,NOTSELECTED,870,1488123352.37,diabetes awareness,IQ
-3185,3185,45+,2.0,Expats,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,IQ
-3186,3186,18-24,1.0,Locals,Graduated,NOTSELECTED,56000,1488123352.37,diabetes awareness,IQ
-3187,3187,25-44,1.0,Locals,Graduated,NOTSELECTED,170000,1488123352.37,diabetes awareness,IQ
-3188,3188,45+,1.0,Locals,Graduated,NOTSELECTED,48000,1488123352.37,diabetes awareness,IQ
-3189,3189,18-24,2.0,Locals,Graduated,NOTSELECTED,18000,1488123352.37,diabetes awareness,IQ
-3190,3190,25-44,2.0,Locals,Graduated,NOTSELECTED,46000,1488123352.37,diabetes awareness,IQ
-3191,3191,45+,2.0,Locals,Graduated,NOTSELECTED,14000,1488123352.37,diabetes awareness,IQ
-3192,3192,18-24,1.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,diabetes awareness,IQ
-3193,3193,25-44,1.0,Locals,No Degree,NOTSELECTED,190000,1488123352.37,diabetes awareness,IQ
-3194,3194,45+,1.0,Locals,No Degree,NOTSELECTED,82000,1488123352.37,diabetes awareness,IQ
-3195,3195,18-24,2.0,Locals,No Degree,NOTSELECTED,40000,1488123352.37,diabetes awareness,IQ
-3196,3196,25-44,2.0,Locals,No Degree,NOTSELECTED,65000,1488123352.37,diabetes awareness,IQ
-3197,3197,45+,2.0,Locals,No Degree,NOTSELECTED,32000,1488123352.37,diabetes awareness,IQ
-3198,3198,18-24,1.0,Locals,High School,NOTSELECTED,37000,1488123352.37,diabetes awareness,IQ
-3199,3199,25-44,1.0,Locals,High School,NOTSELECTED,53000,1488123352.37,diabetes awareness,IQ
-3200,3200,45+,1.0,Locals,High School,NOTSELECTED,17000,1488123352.37,diabetes awareness,IQ
-3201,3201,18-24,2.0,Locals,High School,NOTSELECTED,17000,1488123352.37,diabetes awareness,IQ
-3202,3202,25-44,2.0,Locals,High School,NOTSELECTED,17000,1488123352.37,diabetes awareness,IQ
-3203,3203,45+,2.0,Locals,High School,NOTSELECTED,5100,1488123352.37,diabetes awareness,IQ
-3204,3204,18-24,1.0,Expats,Graduated,NOTSELECTED,2600,1488123352.37,diabetes awareness,JO
-3205,3205,25-44,1.0,Expats,Graduated,NOTSELECTED,11000,1488123352.37,diabetes awareness,JO
-3206,3206,45+,1.0,Expats,Graduated,NOTSELECTED,3100,1488123352.37,diabetes awareness,JO
-3207,3207,18-24,2.0,Expats,Graduated,NOTSELECTED,1400,1488123352.37,diabetes awareness,JO
-3208,3208,25-44,2.0,Expats,Graduated,NOTSELECTED,5500,1488123352.37,diabetes awareness,JO
-3209,3209,45+,2.0,Expats,Graduated,NOTSELECTED,2900,1488123352.37,diabetes awareness,JO
-3210,3210,18-24,1.0,Expats,No Degree,NOTSELECTED,3300,1488123352.37,diabetes awareness,JO
-3211,3211,25-44,1.0,Expats,No Degree,NOTSELECTED,12000,1488123352.37,diabetes awareness,JO
-3212,3212,45+,1.0,Expats,No Degree,NOTSELECTED,5000,1488123352.37,diabetes awareness,JO
-3213,3213,18-24,2.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,JO
-3214,3214,25-44,2.0,Expats,No Degree,NOTSELECTED,4500,1488123352.37,diabetes awareness,JO
-3215,3215,45+,2.0,Expats,No Degree,NOTSELECTED,4500,1488123352.37,diabetes awareness,JO
-3216,3216,18-24,1.0,Expats,High School,NOTSELECTED,2000,1488123352.37,diabetes awareness,JO
-3217,3217,25-44,1.0,Expats,High School,NOTSELECTED,3500,1488123352.37,diabetes awareness,JO
-3218,3218,45+,1.0,Expats,High School,NOTSELECTED,1200,1488123352.37,diabetes awareness,JO
-3219,3219,18-24,2.0,Expats,High School,NOTSELECTED,1700,1488123352.37,diabetes awareness,JO
-3220,3220,25-44,2.0,Expats,High School,NOTSELECTED,1700,1488123352.37,diabetes awareness,JO
-3221,3221,45+,2.0,Expats,High School,NOTSELECTED,1100,1488123352.37,diabetes awareness,JO
-3222,3222,18-24,1.0,Locals,Graduated,NOTSELECTED,10000,1488123352.37,diabetes awareness,JO
-3223,3223,25-44,1.0,Locals,Graduated,NOTSELECTED,31000,1488123352.37,diabetes awareness,JO
-3224,3224,45+,1.0,Locals,Graduated,NOTSELECTED,11000,1488123352.37,diabetes awareness,JO
-3225,3225,18-24,2.0,Locals,Graduated,NOTSELECTED,5300,1488123352.37,diabetes awareness,JO
-3226,3226,25-44,2.0,Locals,Graduated,NOTSELECTED,19000,1488123352.37,diabetes awareness,JO
-3227,3227,45+,2.0,Locals,Graduated,NOTSELECTED,6100,1488123352.37,diabetes awareness,JO
-3228,3228,18-24,1.0,Locals,No Degree,NOTSELECTED,13000,1488123352.37,diabetes awareness,JO
-3229,3229,25-44,1.0,Locals,No Degree,NOTSELECTED,29000,1488123352.37,diabetes awareness,JO
-3230,3230,45+,1.0,Locals,No Degree,NOTSELECTED,18000,1488123352.37,diabetes awareness,JO
-3231,3231,18-24,2.0,Locals,No Degree,NOTSELECTED,6800,1488123352.37,diabetes awareness,JO
-3232,3232,25-44,2.0,Locals,No Degree,NOTSELECTED,20000,1488123352.37,diabetes awareness,JO
-3233,3233,45+,2.0,Locals,No Degree,NOTSELECTED,15000,1488123352.37,diabetes awareness,JO
-3234,3234,18-24,1.0,Locals,High School,NOTSELECTED,7600,1488123352.37,diabetes awareness,JO
-3235,3235,25-44,1.0,Locals,High School,NOTSELECTED,11000,1488123352.37,diabetes awareness,JO
-3236,3236,45+,1.0,Locals,High School,NOTSELECTED,4700,1488123352.37,diabetes awareness,JO
-3237,3237,18-24,2.0,Locals,High School,NOTSELECTED,6500,1488123352.37,diabetes awareness,JO
-3238,3238,25-44,2.0,Locals,High School,NOTSELECTED,6400,1488123352.37,diabetes awareness,JO
-3239,3239,45+,2.0,Locals,High School,NOTSELECTED,2700,1488123352.37,diabetes awareness,JO
-3240,3240,18-24,1.0,Expats,Graduated,NOTSELECTED,1700,1488123352.37,diabetes awareness,KW
-3241,3241,25-44,1.0,Expats,Graduated,NOTSELECTED,13000,1488123352.37,diabetes awareness,KW
-3242,3242,45+,1.0,Expats,Graduated,NOTSELECTED,3000,1488123352.37,diabetes awareness,KW
-3243,3243,18-24,2.0,Expats,Graduated,NOTSELECTED,410,1488123352.37,diabetes awareness,KW
-3244,3244,25-44,2.0,Expats,Graduated,NOTSELECTED,11000,1488123352.37,diabetes awareness,KW
-3245,3245,45+,2.0,Expats,Graduated,NOTSELECTED,3700,1488123352.37,diabetes awareness,KW
-3246,3246,18-24,1.0,Expats,No Degree,NOTSELECTED,3800,1488123352.37,diabetes awareness,KW
-3247,3247,25-44,1.0,Expats,No Degree,NOTSELECTED,15000,1488123352.37,diabetes awareness,KW
-3248,3248,45+,1.0,Expats,No Degree,NOTSELECTED,4100,1488123352.37,diabetes awareness,KW
-3249,3249,18-24,2.0,Expats,No Degree,NOTSELECTED,650,1488123352.37,diabetes awareness,KW
-3250,3250,25-44,2.0,Expats,No Degree,NOTSELECTED,6200,1488123352.37,diabetes awareness,KW
-3251,3251,45+,2.0,Expats,No Degree,NOTSELECTED,2700,1488123352.37,diabetes awareness,KW
-3252,3252,18-24,1.0,Expats,High School,NOTSELECTED,650,1488123352.37,diabetes awareness,KW
-3253,3253,25-44,1.0,Expats,High School,NOTSELECTED,3900,1488123352.37,diabetes awareness,KW
-3254,3254,45+,1.0,Expats,High School,NOTSELECTED,770,1488123352.37,diabetes awareness,KW
-3255,3255,18-24,2.0,Expats,High School,NOTSELECTED,390,1488123352.37,diabetes awareness,KW
-3256,3256,25-44,2.0,Expats,High School,NOTSELECTED,4000,1488123352.37,diabetes awareness,KW
-3257,3257,45+,2.0,Expats,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,KW
-3258,3258,18-24,1.0,Locals,Graduated,NOTSELECTED,50,1488123352.37,diabetes awareness,KW
-3259,3259,25-44,1.0,Locals,Graduated,NOTSELECTED,460,1488123352.37,diabetes awareness,KW
-3260,3260,45+,1.0,Locals,Graduated,NOTSELECTED,150,1488123352.37,diabetes awareness,KW
-3261,3261,18-24,2.0,Locals,Graduated,NOTSELECTED,20,1488123352.37,diabetes awareness,KW
-3262,3262,25-44,2.0,Locals,Graduated,NOTSELECTED,280,1488123352.37,diabetes awareness,KW
-3263,3263,45+,2.0,Locals,Graduated,NOTSELECTED,210,1488123352.37,diabetes awareness,KW
-3264,3264,18-24,1.0,Locals,No Degree,NOTSELECTED,90,1488123352.37,diabetes awareness,KW
-3265,3265,25-44,1.0,Locals,No Degree,NOTSELECTED,460,1488123352.37,diabetes awareness,KW
-3266,3266,45+,1.0,Locals,No Degree,NOTSELECTED,210,1488123352.37,diabetes awareness,KW
-3267,3267,18-24,2.0,Locals,No Degree,NOTSELECTED,70,1488123352.37,diabetes awareness,KW
-3268,3268,25-44,2.0,Locals,No Degree,NOTSELECTED,390,1488123352.37,diabetes awareness,KW
-3269,3269,45+,2.0,Locals,No Degree,NOTSELECTED,190,1488123352.37,diabetes awareness,KW
-3270,3270,18-24,1.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,KW
-3271,3271,25-44,1.0,Locals,High School,NOTSELECTED,80,1488123352.37,diabetes awareness,KW
-3272,3272,45+,1.0,Locals,High School,NOTSELECTED,70,1488123352.37,diabetes awareness,KW
-3273,3273,18-24,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,KW
-3274,3274,25-44,2.0,Locals,High School,NOTSELECTED,170,1488123352.37,diabetes awareness,KW
-3275,3275,45+,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,KW
-3276,3276,18-24,1.0,Expats,Graduated,NOTSELECTED,950,1488123352.37,diabetes awareness,LB
-3277,3277,25-44,1.0,Expats,Graduated,NOTSELECTED,2500,1488123352.37,diabetes awareness,LB
-3278,3278,45+,1.0,Expats,Graduated,NOTSELECTED,590,1488123352.37,diabetes awareness,LB
-3279,3279,18-24,2.0,Expats,Graduated,NOTSELECTED,300,1488123352.37,diabetes awareness,LB
-3280,3280,25-44,2.0,Expats,Graduated,NOTSELECTED,1400,1488123352.37,diabetes awareness,LB
-3281,3281,45+,2.0,Expats,Graduated,NOTSELECTED,990,1488123352.37,diabetes awareness,LB
-3282,3282,18-24,1.0,Expats,No Degree,NOTSELECTED,1500,1488123352.37,diabetes awareness,LB
-3283,3283,25-44,1.0,Expats,No Degree,NOTSELECTED,4100,1488123352.37,diabetes awareness,LB
-3284,3284,45+,1.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,LB
-3285,3285,18-24,2.0,Expats,No Degree,NOTSELECTED,630,1488123352.37,diabetes awareness,LB
-3286,3286,25-44,2.0,Expats,No Degree,NOTSELECTED,1700,1488123352.37,diabetes awareness,LB
-3287,3287,45+,2.0,Expats,No Degree,NOTSELECTED,1600,1488123352.37,diabetes awareness,LB
-3288,3288,18-24,1.0,Expats,High School,NOTSELECTED,550,1488123352.37,diabetes awareness,LB
-3289,3289,25-44,1.0,Expats,High School,NOTSELECTED,1100,1488123352.37,diabetes awareness,LB
-3290,3290,45+,1.0,Expats,High School,NOTSELECTED,250,1488123352.37,diabetes awareness,LB
-3291,3291,18-24,2.0,Expats,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,LB
-3292,3292,25-44,2.0,Expats,High School,NOTSELECTED,560,1488123352.37,diabetes awareness,LB
-3293,3293,45+,2.0,Expats,High School,NOTSELECTED,410,1488123352.37,diabetes awareness,LB
-3294,3294,18-24,1.0,Locals,Graduated,NOTSELECTED,1500,1488123352.37,diabetes awareness,LB
-3295,3295,25-44,1.0,Locals,Graduated,NOTSELECTED,3900,1488123352.37,diabetes awareness,LB
-3296,3296,45+,1.0,Locals,Graduated,NOTSELECTED,1900,1488123352.37,diabetes awareness,LB
-3297,3297,18-24,2.0,Locals,Graduated,NOTSELECTED,1600,1488123352.37,diabetes awareness,LB
-3298,3298,25-44,2.0,Locals,Graduated,NOTSELECTED,5600,1488123352.37,diabetes awareness,LB
-3299,3299,45+,2.0,Locals,Graduated,NOTSELECTED,4000,1488123352.37,diabetes awareness,LB
-3300,3300,18-24,1.0,Locals,No Degree,NOTSELECTED,2700,1488123352.37,diabetes awareness,LB
-3301,3301,25-44,1.0,Locals,No Degree,NOTSELECTED,5500,1488123352.37,diabetes awareness,LB
-3302,3302,45+,1.0,Locals,No Degree,NOTSELECTED,4700,1488123352.37,diabetes awareness,LB
-3303,3303,18-24,2.0,Locals,No Degree,NOTSELECTED,2400,1488123352.37,diabetes awareness,LB
-3304,3304,25-44,2.0,Locals,No Degree,NOTSELECTED,6000,1488123352.37,diabetes awareness,LB
-3305,3305,45+,2.0,Locals,No Degree,NOTSELECTED,9500,1488123352.37,diabetes awareness,LB
-3306,3306,18-24,1.0,Locals,High School,NOTSELECTED,1100,1488123352.37,diabetes awareness,LB
-3307,3307,25-44,1.0,Locals,High School,NOTSELECTED,1300,1488123352.37,diabetes awareness,LB
-3308,3308,45+,1.0,Locals,High School,NOTSELECTED,740,1488123352.37,diabetes awareness,LB
-3309,3309,18-24,2.0,Locals,High School,NOTSELECTED,1600,1488123352.37,diabetes awareness,LB
-3310,3310,25-44,2.0,Locals,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,LB
-3311,3311,45+,2.0,Locals,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,LB
-3312,3312,18-24,1.0,Expats,Graduated,NOTSELECTED,1000,1488123352.37,diabetes awareness,LY
-3313,3313,25-44,1.0,Expats,Graduated,NOTSELECTED,3100,1488123352.37,diabetes awareness,LY
-3314,3314,45+,1.0,Expats,Graduated,NOTSELECTED,780,1488123352.37,diabetes awareness,LY
-3315,3315,18-24,2.0,Expats,Graduated,NOTSELECTED,310,1488123352.37,diabetes awareness,LY
-3316,3316,25-44,2.0,Expats,Graduated,NOTSELECTED,1300,1488123352.37,diabetes awareness,LY
-3317,3317,45+,2.0,Expats,Graduated,NOTSELECTED,360,1488123352.37,diabetes awareness,LY
-3318,3318,18-24,1.0,Expats,No Degree,NOTSELECTED,960,1488123352.37,diabetes awareness,LY
-3319,3319,25-44,1.0,Expats,No Degree,NOTSELECTED,3300,1488123352.37,diabetes awareness,LY
-3320,3320,45+,1.0,Expats,No Degree,NOTSELECTED,940,1488123352.37,diabetes awareness,LY
-3321,3321,18-24,2.0,Expats,No Degree,NOTSELECTED,440,1488123352.37,diabetes awareness,LY
-3322,3322,25-44,2.0,Expats,No Degree,NOTSELECTED,1400,1488123352.37,diabetes awareness,LY
-3323,3323,45+,2.0,Expats,No Degree,NOTSELECTED,500,1488123352.37,diabetes awareness,LY
-3324,3324,18-24,1.0,Expats,High School,NOTSELECTED,310,1488123352.37,diabetes awareness,LY
-3325,3325,25-44,1.0,Expats,High School,NOTSELECTED,780,1488123352.37,diabetes awareness,LY
-3326,3326,45+,1.0,Expats,High School,NOTSELECTED,200,1488123352.37,diabetes awareness,LY
-3327,3327,18-24,2.0,Expats,High School,NOTSELECTED,210,1488123352.37,diabetes awareness,LY
-3328,3328,25-44,2.0,Expats,High School,NOTSELECTED,330,1488123352.37,diabetes awareness,LY
-3329,3329,45+,2.0,Expats,High School,NOTSELECTED,110,1488123352.37,diabetes awareness,LY
-3330,3330,18-24,1.0,Locals,Graduated,NOTSELECTED,4500,1488123352.37,diabetes awareness,LY
-3331,3331,25-44,1.0,Locals,Graduated,NOTSELECTED,17000,1488123352.37,diabetes awareness,LY
-3332,3332,45+,1.0,Locals,Graduated,NOTSELECTED,4800,1488123352.37,diabetes awareness,LY
-3333,3333,18-24,2.0,Locals,Graduated,NOTSELECTED,4700,1488123352.37,diabetes awareness,LY
-3334,3334,25-44,2.0,Locals,Graduated,NOTSELECTED,15000,1488123352.37,diabetes awareness,LY
-3335,3335,45+,2.0,Locals,Graduated,NOTSELECTED,2700,1488123352.37,diabetes awareness,LY
-3336,3336,18-24,1.0,Locals,No Degree,NOTSELECTED,4800,1488123352.37,diabetes awareness,LY
-3337,3337,25-44,1.0,Locals,No Degree,NOTSELECTED,15000,1488123352.37,diabetes awareness,LY
-3338,3338,45+,1.0,Locals,No Degree,NOTSELECTED,6100,1488123352.37,diabetes awareness,LY
-3339,3339,18-24,2.0,Locals,No Degree,NOTSELECTED,4400,1488123352.37,diabetes awareness,LY
-3340,3340,25-44,2.0,Locals,No Degree,NOTSELECTED,16000,1488123352.37,diabetes awareness,LY
-3341,3341,45+,2.0,Locals,No Degree,NOTSELECTED,6900,1488123352.37,diabetes awareness,LY
-3342,3342,18-24,1.0,Locals,High School,NOTSELECTED,2700,1488123352.37,diabetes awareness,LY
-3343,3343,25-44,1.0,Locals,High School,NOTSELECTED,4000,1488123352.37,diabetes awareness,LY
-3344,3344,45+,1.0,Locals,High School,NOTSELECTED,1600,1488123352.37,diabetes awareness,LY
-3345,3345,18-24,2.0,Locals,High School,NOTSELECTED,3400,1488123352.37,diabetes awareness,LY
-3346,3346,25-44,2.0,Locals,High School,NOTSELECTED,3600,1488123352.37,diabetes awareness,LY
-3347,3347,45+,2.0,Locals,High School,NOTSELECTED,1000,1488123352.37,diabetes awareness,LY
-3348,3348,18-24,1.0,Expats,Graduated,NOTSELECTED,2700,1488123352.37,diabetes awareness,MA
-3349,3349,25-44,1.0,Expats,Graduated,NOTSELECTED,2800,1488123352.37,diabetes awareness,MA
-3350,3350,45+,1.0,Expats,Graduated,NOTSELECTED,1100,1488123352.37,diabetes awareness,MA
-3351,3351,18-24,2.0,Expats,Graduated,NOTSELECTED,1300,1488123352.37,diabetes awareness,MA
-3352,3352,25-44,2.0,Expats,Graduated,NOTSELECTED,1700,1488123352.37,diabetes awareness,MA
-3353,3353,45+,2.0,Expats,Graduated,NOTSELECTED,530,1488123352.37,diabetes awareness,MA
-3354,3354,18-24,1.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,MA
-3355,3355,25-44,1.0,Expats,No Degree,NOTSELECTED,1900,1488123352.37,diabetes awareness,MA
-3356,3356,45+,1.0,Expats,No Degree,NOTSELECTED,890,1488123352.37,diabetes awareness,MA
-3357,3357,18-24,2.0,Expats,No Degree,NOTSELECTED,690,1488123352.37,diabetes awareness,MA
-3358,3358,25-44,2.0,Expats,No Degree,NOTSELECTED,1400,1488123352.37,diabetes awareness,MA
-3359,3359,45+,2.0,Expats,No Degree,NOTSELECTED,420,1488123352.37,diabetes awareness,MA
-3360,3360,18-24,1.0,Expats,High School,NOTSELECTED,980,1488123352.37,diabetes awareness,MA
-3361,3361,25-44,1.0,Expats,High School,NOTSELECTED,710,1488123352.37,diabetes awareness,MA
-3362,3362,45+,1.0,Expats,High School,NOTSELECTED,360,1488123352.37,diabetes awareness,MA
-3363,3363,18-24,2.0,Expats,High School,NOTSELECTED,360,1488123352.37,diabetes awareness,MA
-3364,3364,25-44,2.0,Expats,High School,NOTSELECTED,370,1488123352.37,diabetes awareness,MA
-3365,3365,45+,2.0,Expats,High School,NOTSELECTED,130,1488123352.37,diabetes awareness,MA
-3366,3366,18-24,1.0,Locals,Graduated,NOTSELECTED,17000,1488123352.37,diabetes awareness,MA
-3367,3367,25-44,1.0,Locals,Graduated,NOTSELECTED,26000,1488123352.37,diabetes awareness,MA
-3368,3368,45+,1.0,Locals,Graduated,NOTSELECTED,12000,1488123352.37,diabetes awareness,MA
-3369,3369,18-24,2.0,Locals,Graduated,NOTSELECTED,15000,1488123352.37,diabetes awareness,MA
-3370,3370,25-44,2.0,Locals,Graduated,NOTSELECTED,19000,1488123352.37,diabetes awareness,MA
-3371,3371,45+,2.0,Locals,Graduated,NOTSELECTED,4600,1488123352.37,diabetes awareness,MA
-3372,3372,18-24,1.0,Locals,No Degree,NOTSELECTED,17000,1488123352.37,diabetes awareness,MA
-3373,3373,25-44,1.0,Locals,No Degree,NOTSELECTED,28000,1488123352.37,diabetes awareness,MA
-3374,3374,45+,1.0,Locals,No Degree,NOTSELECTED,16000,1488123352.37,diabetes awareness,MA
-3375,3375,18-24,2.0,Locals,No Degree,NOTSELECTED,14000,1488123352.37,diabetes awareness,MA
-3376,3376,25-44,2.0,Locals,No Degree,NOTSELECTED,19000,1488123352.37,diabetes awareness,MA
-3377,3377,45+,2.0,Locals,No Degree,NOTSELECTED,7500,1488123352.37,diabetes awareness,MA
-3378,3378,18-24,1.0,Locals,High School,NOTSELECTED,7600,1488123352.37,diabetes awareness,MA
-3379,3379,25-44,1.0,Locals,High School,NOTSELECTED,7400,1488123352.37,diabetes awareness,MA
-3380,3380,45+,1.0,Locals,High School,NOTSELECTED,3900,1488123352.37,diabetes awareness,MA
-3381,3381,18-24,2.0,Locals,High School,NOTSELECTED,7600,1488123352.37,diabetes awareness,MA
-3382,3382,25-44,2.0,Locals,High School,NOTSELECTED,5500,1488123352.37,diabetes awareness,MA
-3383,3383,45+,2.0,Locals,High School,NOTSELECTED,1800,1488123352.37,diabetes awareness,MA
-3384,3384,18-24,1.0,Expats,Graduated,NOTSELECTED,810,1488123352.37,diabetes awareness,OM
-3385,3385,25-44,1.0,Expats,Graduated,NOTSELECTED,4400,1488123352.37,diabetes awareness,OM
-3386,3386,45+,1.0,Expats,Graduated,NOTSELECTED,1300,1488123352.37,diabetes awareness,OM
-3387,3387,18-24,2.0,Expats,Graduated,NOTSELECTED,120,1488123352.37,diabetes awareness,OM
-3388,3388,25-44,2.0,Expats,Graduated,NOTSELECTED,4000,1488123352.37,diabetes awareness,OM
-3389,3389,45+,2.0,Expats,Graduated,NOTSELECTED,1400,1488123352.37,diabetes awareness,OM
-3390,3390,18-24,1.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,OM
-3391,3391,25-44,1.0,Expats,No Degree,NOTSELECTED,2900,1488123352.37,diabetes awareness,OM
-3392,3392,45+,1.0,Expats,No Degree,NOTSELECTED,630,1488123352.37,diabetes awareness,OM
-3393,3393,18-24,2.0,Expats,No Degree,NOTSELECTED,240,1488123352.37,diabetes awareness,OM
-3394,3394,25-44,2.0,Expats,No Degree,NOTSELECTED,1600,1488123352.37,diabetes awareness,OM
-3395,3395,45+,2.0,Expats,No Degree,NOTSELECTED,940,1488123352.37,diabetes awareness,OM
-3396,3396,18-24,1.0,Expats,High School,NOTSELECTED,360,1488123352.37,diabetes awareness,OM
-3397,3397,25-44,1.0,Expats,High School,NOTSELECTED,930,1488123352.37,diabetes awareness,OM
-3398,3398,45+,1.0,Expats,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,OM
-3399,3399,18-24,2.0,Expats,High School,NOTSELECTED,180,1488123352.37,diabetes awareness,OM
-3400,3400,25-44,2.0,Expats,High School,NOTSELECTED,730,1488123352.37,diabetes awareness,OM
-3401,3401,45+,2.0,Expats,High School,NOTSELECTED,390,1488123352.37,diabetes awareness,OM
-3402,3402,18-24,1.0,Locals,Graduated,NOTSELECTED,240,1488123352.37,diabetes awareness,OM
-3403,3403,25-44,1.0,Locals,Graduated,NOTSELECTED,690,1488123352.37,diabetes awareness,OM
-3404,3404,45+,1.0,Locals,Graduated,NOTSELECTED,150,1488123352.37,diabetes awareness,OM
-3405,3405,18-24,2.0,Locals,Graduated,NOTSELECTED,50,1488123352.37,diabetes awareness,OM
-3406,3406,25-44,2.0,Locals,Graduated,NOTSELECTED,220,1488123352.37,diabetes awareness,OM
-3407,3407,45+,2.0,Locals,Graduated,NOTSELECTED,40,1488123352.37,diabetes awareness,OM
-3408,3408,18-24,1.0,Locals,No Degree,NOTSELECTED,140,1488123352.37,diabetes awareness,OM
-3409,3409,25-44,1.0,Locals,No Degree,NOTSELECTED,440,1488123352.37,diabetes awareness,OM
-3410,3410,45+,1.0,Locals,No Degree,NOTSELECTED,80,1488123352.37,diabetes awareness,OM
-3411,3411,18-24,2.0,Locals,No Degree,NOTSELECTED,40,1488123352.37,diabetes awareness,OM
-3412,3412,25-44,2.0,Locals,No Degree,NOTSELECTED,50,1488123352.37,diabetes awareness,OM
-3413,3413,45+,2.0,Locals,No Degree,NOTSELECTED,80,1488123352.37,diabetes awareness,OM
-3414,3414,18-24,1.0,Locals,High School,NOTSELECTED,110,1488123352.37,diabetes awareness,OM
-3415,3415,25-44,1.0,Locals,High School,NOTSELECTED,200,1488123352.37,diabetes awareness,OM
-3416,3416,45+,1.0,Locals,High School,NOTSELECTED,60,1488123352.37,diabetes awareness,OM
-3417,3417,18-24,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,OM
-3418,3418,25-44,2.0,Locals,High School,NOTSELECTED,90,1488123352.37,diabetes awareness,OM
-3419,3419,45+,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,OM
-3420,3420,18-24,1.0,Expats,Graduated,NOTSELECTED,3200,1488123352.37,diabetes awareness,QA
-3421,3421,25-44,1.0,Expats,Graduated,NOTSELECTED,16000,1488123352.37,diabetes awareness,QA
-3422,3422,45+,1.0,Expats,Graduated,NOTSELECTED,3500,1488123352.37,diabetes awareness,QA
-3423,3423,18-24,2.0,Expats,Graduated,NOTSELECTED,740,1488123352.37,diabetes awareness,QA
-3424,3424,25-44,2.0,Expats,Graduated,NOTSELECTED,9300,1488123352.37,diabetes awareness,QA
-3425,3425,45+,2.0,Expats,Graduated,NOTSELECTED,2400,1488123352.37,diabetes awareness,QA
-3426,3426,18-24,1.0,Expats,No Degree,NOTSELECTED,5100,1488123352.37,diabetes awareness,QA
-3427,3427,25-44,1.0,Expats,No Degree,NOTSELECTED,12000,1488123352.37,diabetes awareness,QA
-3428,3428,45+,1.0,Expats,No Degree,NOTSELECTED,2400,1488123352.37,diabetes awareness,QA
-3429,3429,18-24,2.0,Expats,No Degree,NOTSELECTED,580,1488123352.37,diabetes awareness,QA
-3430,3430,25-44,2.0,Expats,No Degree,NOTSELECTED,3100,1488123352.37,diabetes awareness,QA
-3431,3431,45+,2.0,Expats,No Degree,NOTSELECTED,1500,1488123352.37,diabetes awareness,QA
-3432,3432,18-24,1.0,Expats,High School,NOTSELECTED,1200,1488123352.37,diabetes awareness,QA
-3433,3433,25-44,1.0,Expats,High School,NOTSELECTED,3600,1488123352.37,diabetes awareness,QA
-3434,3434,45+,1.0,Expats,High School,NOTSELECTED,910,1488123352.37,diabetes awareness,QA
-3435,3435,18-24,2.0,Expats,High School,NOTSELECTED,260,1488123352.37,diabetes awareness,QA
-3436,3436,25-44,2.0,Expats,High School,NOTSELECTED,2300,1488123352.37,diabetes awareness,QA
-3437,3437,45+,2.0,Expats,High School,NOTSELECTED,680,1488123352.37,diabetes awareness,QA
-3438,3438,18-24,1.0,Locals,Graduated,NOTSELECTED,150,1488123352.37,diabetes awareness,QA
-3439,3439,25-44,1.0,Locals,Graduated,NOTSELECTED,540,1488123352.37,diabetes awareness,QA
-3440,3440,45+,1.0,Locals,Graduated,NOTSELECTED,230,1488123352.37,diabetes awareness,QA
-3441,3441,18-24,2.0,Locals,Graduated,NOTSELECTED,80,1488123352.37,diabetes awareness,QA
-3442,3442,25-44,2.0,Locals,Graduated,NOTSELECTED,350,1488123352.37,diabetes awareness,QA
-3443,3443,45+,2.0,Locals,Graduated,NOTSELECTED,180,1488123352.37,diabetes awareness,QA
-3444,3444,18-24,1.0,Locals,No Degree,NOTSELECTED,90,1488123352.37,diabetes awareness,QA
-3445,3445,25-44,1.0,Locals,No Degree,NOTSELECTED,210,1488123352.37,diabetes awareness,QA
-3446,3446,45+,1.0,Locals,No Degree,NOTSELECTED,110,1488123352.37,diabetes awareness,QA
-3447,3447,18-24,2.0,Locals,No Degree,NOTSELECTED,40,1488123352.37,diabetes awareness,QA
-3448,3448,25-44,2.0,Locals,No Degree,NOTSELECTED,170,1488123352.37,diabetes awareness,QA
-3449,3449,45+,2.0,Locals,No Degree,NOTSELECTED,150,1488123352.37,diabetes awareness,QA
-3450,3450,18-24,1.0,Locals,High School,NOTSELECTED,70,1488123352.37,diabetes awareness,QA
-3451,3451,25-44,1.0,Locals,High School,NOTSELECTED,80,1488123352.37,diabetes awareness,QA
-3452,3452,45+,1.0,Locals,High School,NOTSELECTED,60,1488123352.37,diabetes awareness,QA
-3453,3453,18-24,2.0,Locals,High School,NOTSELECTED,60,1488123352.37,diabetes awareness,QA
-3454,3454,25-44,2.0,Locals,High School,NOTSELECTED,100,1488123352.37,diabetes awareness,QA
-3455,3455,45+,2.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,QA
-3456,3456,18-24,1.0,Expats,Graduated,NOTSELECTED,15000,1488123352.37,diabetes awareness,SA
-3457,3457,25-44,1.0,Expats,Graduated,NOTSELECTED,96000,1488123352.37,diabetes awareness,SA
-3458,3458,45+,1.0,Expats,Graduated,NOTSELECTED,18000,1488123352.37,diabetes awareness,SA
-3459,3459,18-24,2.0,Expats,Graduated,NOTSELECTED,3000,1488123352.37,diabetes awareness,SA
-3460,3460,25-44,2.0,Expats,Graduated,NOTSELECTED,31000,1488123352.37,diabetes awareness,SA
-3461,3461,45+,2.0,Expats,Graduated,NOTSELECTED,9600,1488123352.37,diabetes awareness,SA
-3462,3462,18-24,1.0,Expats,No Degree,NOTSELECTED,4800,1488123352.37,diabetes awareness,SA
-3463,3463,25-44,1.0,Expats,No Degree,NOTSELECTED,17000,1488123352.37,diabetes awareness,SA
-3464,3464,45+,1.0,Expats,No Degree,NOTSELECTED,4300,1488123352.37,diabetes awareness,SA
-3465,3465,18-24,2.0,Expats,No Degree,NOTSELECTED,1100,1488123352.37,diabetes awareness,SA
-3466,3466,25-44,2.0,Expats,No Degree,NOTSELECTED,7400,1488123352.37,diabetes awareness,SA
-3467,3467,45+,2.0,Expats,No Degree,NOTSELECTED,2700,1488123352.37,diabetes awareness,SA
-3468,3468,18-24,1.0,Expats,High School,NOTSELECTED,4900,1488123352.37,diabetes awareness,SA
-3469,3469,25-44,1.0,Expats,High School,NOTSELECTED,22000,1488123352.37,diabetes awareness,SA
-3470,3470,45+,1.0,Expats,High School,NOTSELECTED,4500,1488123352.37,diabetes awareness,SA
-3471,3471,18-24,2.0,Expats,High School,NOTSELECTED,1900,1488123352.37,diabetes awareness,SA
-3472,3472,25-44,2.0,Expats,High School,NOTSELECTED,8900,1488123352.37,diabetes awareness,SA
-3473,3473,45+,2.0,Expats,High School,NOTSELECTED,2900,1488123352.37,diabetes awareness,SA
-3474,3474,18-24,1.0,Locals,Graduated,NOTSELECTED,6100,1488123352.37,diabetes awareness,SA
-3475,3475,25-44,1.0,Locals,Graduated,NOTSELECTED,33000,1488123352.37,diabetes awareness,SA
-3476,3476,45+,1.0,Locals,Graduated,NOTSELECTED,7400,1488123352.37,diabetes awareness,SA
-3477,3477,18-24,2.0,Locals,Graduated,NOTSELECTED,1500,1488123352.37,diabetes awareness,SA
-3478,3478,25-44,2.0,Locals,Graduated,NOTSELECTED,8900,1488123352.37,diabetes awareness,SA
-3479,3479,45+,2.0,Locals,Graduated,NOTSELECTED,3100,1488123352.37,diabetes awareness,SA
-3480,3480,18-24,1.0,Locals,No Degree,NOTSELECTED,44000,1488123352.37,diabetes awareness,SA
-3481,3481,25-44,1.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,diabetes awareness,SA
-3482,3482,45+,1.0,Locals,No Degree,NOTSELECTED,19000,1488123352.37,diabetes awareness,SA
-3483,3483,18-24,2.0,Locals,No Degree,NOTSELECTED,6300,1488123352.37,diabetes awareness,SA
-3484,3484,25-44,2.0,Locals,No Degree,NOTSELECTED,15000,1488123352.37,diabetes awareness,SA
-3485,3485,45+,2.0,Locals,No Degree,NOTSELECTED,6900,1488123352.37,diabetes awareness,SA
-3486,3486,18-24,1.0,Locals,High School,NOTSELECTED,3700,1488123352.37,diabetes awareness,SA
-3487,3487,25-44,1.0,Locals,High School,NOTSELECTED,12000,1488123352.37,diabetes awareness,SA
-3488,3488,45+,1.0,Locals,High School,NOTSELECTED,2800,1488123352.37,diabetes awareness,SA
-3489,3489,18-24,2.0,Locals,High School,NOTSELECTED,1300,1488123352.37,diabetes awareness,SA
-3490,3490,25-44,2.0,Locals,High School,NOTSELECTED,3400,1488123352.37,diabetes awareness,SA
-3491,3491,45+,2.0,Locals,High School,NOTSELECTED,1200,1488123352.37,diabetes awareness,SA
-3492,3492,18-24,1.0,Expats,Graduated,NOTSELECTED,410,1488123352.37,diabetes awareness,SO
-3493,3493,25-44,1.0,Expats,Graduated,NOTSELECTED,410,1488123352.37,diabetes awareness,SO
-3494,3494,45+,1.0,Expats,Graduated,NOTSELECTED,140,1488123352.37,diabetes awareness,SO
-3495,3495,18-24,2.0,Expats,Graduated,NOTSELECTED,160,1488123352.37,diabetes awareness,SO
-3496,3496,25-44,2.0,Expats,Graduated,NOTSELECTED,100,1488123352.37,diabetes awareness,SO
-3497,3497,45+,2.0,Expats,Graduated,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3498,3498,18-24,1.0,Expats,No Degree,NOTSELECTED,110,1488123352.37,diabetes awareness,SO
-3499,3499,25-44,1.0,Expats,No Degree,NOTSELECTED,120,1488123352.37,diabetes awareness,SO
-3500,3500,45+,1.0,Expats,No Degree,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3501,3501,18-24,2.0,Expats,No Degree,NOTSELECTED,80,1488123352.37,diabetes awareness,SO
-3502,3502,25-44,2.0,Expats,No Degree,NOTSELECTED,40,1488123352.37,diabetes awareness,SO
-3503,3503,45+,2.0,Expats,No Degree,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3504,3504,18-24,1.0,Expats,High School,NOTSELECTED,180,1488123352.37,diabetes awareness,SO
-3505,3505,25-44,1.0,Expats,High School,NOTSELECTED,50,1488123352.37,diabetes awareness,SO
-3506,3506,45+,1.0,Expats,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3507,3507,18-24,2.0,Expats,High School,NOTSELECTED,50,1488123352.37,diabetes awareness,SO
-3508,3508,25-44,2.0,Expats,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3509,3509,45+,2.0,Expats,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3510,3510,18-24,1.0,Locals,Graduated,NOTSELECTED,1200,1488123352.37,diabetes awareness,SO
-3511,3511,25-44,1.0,Locals,Graduated,NOTSELECTED,1500,1488123352.37,diabetes awareness,SO
-3512,3512,45+,1.0,Locals,Graduated,NOTSELECTED,130,1488123352.37,diabetes awareness,SO
-3513,3513,18-24,2.0,Locals,Graduated,NOTSELECTED,860,1488123352.37,diabetes awareness,SO
-3514,3514,25-44,2.0,Locals,Graduated,NOTSELECTED,610,1488123352.37,diabetes awareness,SO
-3515,3515,45+,2.0,Locals,Graduated,NOTSELECTED,70,1488123352.37,diabetes awareness,SO
-3516,3516,18-24,1.0,Locals,No Degree,NOTSELECTED,890,1488123352.37,diabetes awareness,SO
-3517,3517,25-44,1.0,Locals,No Degree,NOTSELECTED,860,1488123352.37,diabetes awareness,SO
-3518,3518,45+,1.0,Locals,No Degree,NOTSELECTED,140,1488123352.37,diabetes awareness,SO
-3519,3519,18-24,2.0,Locals,No Degree,NOTSELECTED,870,1488123352.37,diabetes awareness,SO
-3520,3520,25-44,2.0,Locals,No Degree,NOTSELECTED,790,1488123352.37,diabetes awareness,SO
-3521,3521,45+,2.0,Locals,No Degree,NOTSELECTED,80,1488123352.37,diabetes awareness,SO
-3522,3522,18-24,1.0,Locals,High School,NOTSELECTED,460,1488123352.37,diabetes awareness,SO
-3523,3523,25-44,1.0,Locals,High School,NOTSELECTED,240,1488123352.37,diabetes awareness,SO
-3524,3524,45+,1.0,Locals,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,SO
-3525,3525,18-24,2.0,Locals,High School,NOTSELECTED,360,1488123352.37,diabetes awareness,SO
-3526,3526,25-44,2.0,Locals,High School,NOTSELECTED,150,1488123352.37,diabetes awareness,SO
-3527,3527,45+,2.0,Locals,High School,NOTSELECTED,50,1488123352.37,diabetes awareness,SO
-3528,3528,18-24,1.0,Expats,Graduated,NOTSELECTED,840,1488123352.37,diabetes awareness,TN
-3529,3529,25-44,1.0,Expats,Graduated,NOTSELECTED,3100,1488123352.37,diabetes awareness,TN
-3530,3530,45+,1.0,Expats,Graduated,NOTSELECTED,1500,1488123352.37,diabetes awareness,TN
-3531,3531,18-24,2.0,Expats,Graduated,NOTSELECTED,640,1488123352.37,diabetes awareness,TN
-3532,3532,25-44,2.0,Expats,Graduated,NOTSELECTED,1600,1488123352.37,diabetes awareness,TN
-3533,3533,45+,2.0,Expats,Graduated,NOTSELECTED,760,1488123352.37,diabetes awareness,TN
-3534,3534,18-24,1.0,Expats,No Degree,NOTSELECTED,510,1488123352.37,diabetes awareness,TN
-3535,3535,25-44,1.0,Expats,No Degree,NOTSELECTED,2300,1488123352.37,diabetes awareness,TN
-3536,3536,45+,1.0,Expats,No Degree,NOTSELECTED,1400,1488123352.37,diabetes awareness,TN
-3537,3537,18-24,2.0,Expats,No Degree,NOTSELECTED,360,1488123352.37,diabetes awareness,TN
-3538,3538,25-44,2.0,Expats,No Degree,NOTSELECTED,1500,1488123352.37,diabetes awareness,TN
-3539,3539,45+,2.0,Expats,No Degree,NOTSELECTED,800,1488123352.37,diabetes awareness,TN
-3540,3540,18-24,1.0,Expats,High School,NOTSELECTED,330,1488123352.37,diabetes awareness,TN
-3541,3541,25-44,1.0,Expats,High School,NOTSELECTED,980,1488123352.37,diabetes awareness,TN
-3542,3542,45+,1.0,Expats,High School,NOTSELECTED,510,1488123352.37,diabetes awareness,TN
-3543,3543,18-24,2.0,Expats,High School,NOTSELECTED,230,1488123352.37,diabetes awareness,TN
-3544,3544,25-44,2.0,Expats,High School,NOTSELECTED,520,1488123352.37,diabetes awareness,TN
-3545,3545,45+,2.0,Expats,High School,NOTSELECTED,290,1488123352.37,diabetes awareness,TN
-3546,3546,18-24,1.0,Locals,Graduated,NOTSELECTED,4200,1488123352.37,diabetes awareness,TN
-3547,3547,25-44,1.0,Locals,Graduated,NOTSELECTED,29000,1488123352.37,diabetes awareness,TN
-3548,3548,45+,1.0,Locals,Graduated,NOTSELECTED,16000,1488123352.37,diabetes awareness,TN
-3549,3549,18-24,2.0,Locals,Graduated,NOTSELECTED,10000,1488123352.37,diabetes awareness,TN
-3550,3550,25-44,2.0,Locals,Graduated,NOTSELECTED,31000,1488123352.37,diabetes awareness,TN
-3551,3551,45+,2.0,Locals,Graduated,NOTSELECTED,9000,1488123352.37,diabetes awareness,TN
-3552,3552,18-24,1.0,Locals,No Degree,NOTSELECTED,5200,1488123352.37,diabetes awareness,TN
-3553,3553,25-44,1.0,Locals,No Degree,NOTSELECTED,34000,1488123352.37,diabetes awareness,TN
-3554,3554,45+,1.0,Locals,No Degree,NOTSELECTED,22000,1488123352.37,diabetes awareness,TN
-3555,3555,18-24,2.0,Locals,No Degree,NOTSELECTED,7200,1488123352.37,diabetes awareness,TN
-3556,3556,25-44,2.0,Locals,No Degree,NOTSELECTED,28000,1488123352.37,diabetes awareness,TN
-3557,3557,45+,2.0,Locals,No Degree,NOTSELECTED,17000,1488123352.37,diabetes awareness,TN
-3558,3558,18-24,1.0,Locals,High School,NOTSELECTED,1800,1488123352.37,diabetes awareness,TN
-3559,3559,25-44,1.0,Locals,High School,NOTSELECTED,10000,1488123352.37,diabetes awareness,TN
-3560,3560,45+,1.0,Locals,High School,NOTSELECTED,7700,1488123352.37,diabetes awareness,TN
-3561,3561,18-24,2.0,Locals,High School,NOTSELECTED,4500,1488123352.37,diabetes awareness,TN
-3562,3562,25-44,2.0,Locals,High School,NOTSELECTED,8700,1488123352.37,diabetes awareness,TN
-3563,3563,45+,2.0,Locals,High School,NOTSELECTED,5200,1488123352.37,diabetes awareness,TN
-3564,3564,18-24,1.0,Expats,Graduated,NOTSELECTED,8200,1488123352.37,diabetes awareness,AE
-3565,3565,25-44,1.0,Expats,Graduated,NOTSELECTED,45000,1488123352.37,diabetes awareness,AE
-3566,3566,45+,1.0,Expats,Graduated,NOTSELECTED,9500,1488123352.37,diabetes awareness,AE
-3567,3567,18-24,2.0,Expats,Graduated,NOTSELECTED,2800,1488123352.37,diabetes awareness,AE
-3568,3568,25-44,2.0,Expats,Graduated,NOTSELECTED,38000,1488123352.37,diabetes awareness,AE
-3569,3569,45+,2.0,Expats,Graduated,NOTSELECTED,11000,1488123352.37,diabetes awareness,AE
-3570,3570,18-24,1.0,Expats,No Degree,NOTSELECTED,8400,1488123352.37,diabetes awareness,AE
-3571,3571,25-44,1.0,Expats,No Degree,NOTSELECTED,22000,1488123352.37,diabetes awareness,AE
-3572,3572,45+,1.0,Expats,No Degree,NOTSELECTED,5500,1488123352.37,diabetes awareness,AE
-3573,3573,18-24,2.0,Expats,No Degree,NOTSELECTED,1700,1488123352.37,diabetes awareness,AE
-3574,3574,25-44,2.0,Expats,No Degree,NOTSELECTED,11000,1488123352.37,diabetes awareness,AE
-3575,3575,45+,2.0,Expats,No Degree,NOTSELECTED,6100,1488123352.37,diabetes awareness,AE
-3576,3576,18-24,1.0,Expats,High School,NOTSELECTED,2900,1488123352.37,diabetes awareness,AE
-3577,3577,25-44,1.0,Expats,High School,NOTSELECTED,9300,1488123352.37,diabetes awareness,AE
-3578,3578,45+,1.0,Expats,High School,NOTSELECTED,2100,1488123352.37,diabetes awareness,AE
-3579,3579,18-24,2.0,Expats,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,AE
-3580,3580,25-44,2.0,Expats,High School,NOTSELECTED,7100,1488123352.37,diabetes awareness,AE
-3581,3581,45+,2.0,Expats,High School,NOTSELECTED,3000,1488123352.37,diabetes awareness,AE
-3582,3582,18-24,1.0,Locals,Graduated,NOTSELECTED,500,1488123352.37,diabetes awareness,AE
-3583,3583,25-44,1.0,Locals,Graduated,NOTSELECTED,1800,1488123352.37,diabetes awareness,AE
-3584,3584,45+,1.0,Locals,Graduated,NOTSELECTED,570,1488123352.37,diabetes awareness,AE
-3585,3585,18-24,2.0,Locals,Graduated,NOTSELECTED,230,1488123352.37,diabetes awareness,AE
-3586,3586,25-44,2.0,Locals,Graduated,NOTSELECTED,1600,1488123352.37,diabetes awareness,AE
-3587,3587,45+,2.0,Locals,Graduated,NOTSELECTED,720,1488123352.37,diabetes awareness,AE
-3588,3588,18-24,1.0,Locals,No Degree,NOTSELECTED,630,1488123352.37,diabetes awareness,AE
-3589,3589,25-44,1.0,Locals,No Degree,NOTSELECTED,1500,1488123352.37,diabetes awareness,AE
-3590,3590,45+,1.0,Locals,No Degree,NOTSELECTED,470,1488123352.37,diabetes awareness,AE
-3591,3591,18-24,2.0,Locals,No Degree,NOTSELECTED,130,1488123352.37,diabetes awareness,AE
-3592,3592,25-44,2.0,Locals,No Degree,NOTSELECTED,700,1488123352.37,diabetes awareness,AE
-3593,3593,45+,2.0,Locals,No Degree,NOTSELECTED,490,1488123352.37,diabetes awareness,AE
-3594,3594,18-24,1.0,Locals,High School,NOTSELECTED,260,1488123352.37,diabetes awareness,AE
-3595,3595,25-44,1.0,Locals,High School,NOTSELECTED,360,1488123352.37,diabetes awareness,AE
-3596,3596,45+,1.0,Locals,High School,NOTSELECTED,170,1488123352.37,diabetes awareness,AE
-3597,3597,18-24,2.0,Locals,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,AE
-3598,3598,25-44,2.0,Locals,High School,NOTSELECTED,340,1488123352.37,diabetes awareness,AE
-3599,3599,45+,2.0,Locals,High School,NOTSELECTED,230,1488123352.37,diabetes awareness,AE
-3600,3600,18-24,1.0,Expats,Graduated,NOTSELECTED,2800,1488123352.37,diabetes awareness,YE
-3601,3601,25-44,1.0,Expats,Graduated,NOTSELECTED,5300,1488123352.37,diabetes awareness,YE
-3602,3602,45+,1.0,Expats,Graduated,NOTSELECTED,630,1488123352.37,diabetes awareness,YE
-3603,3603,18-24,2.0,Expats,Graduated,NOTSELECTED,350,1488123352.37,diabetes awareness,YE
-3604,3604,25-44,2.0,Expats,Graduated,NOTSELECTED,810,1488123352.37,diabetes awareness,YE
-3605,3605,45+,2.0,Expats,Graduated,NOTSELECTED,90,1488123352.37,diabetes awareness,YE
-3606,3606,18-24,1.0,Expats,No Degree,NOTSELECTED,1900,1488123352.37,diabetes awareness,YE
-3607,3607,25-44,1.0,Expats,No Degree,NOTSELECTED,2500,1488123352.37,diabetes awareness,YE
-3608,3608,45+,1.0,Expats,No Degree,NOTSELECTED,250,1488123352.37,diabetes awareness,YE
-3609,3609,18-24,2.0,Expats,No Degree,NOTSELECTED,770,1488123352.37,diabetes awareness,YE
-3610,3610,25-44,2.0,Expats,No Degree,NOTSELECTED,730,1488123352.37,diabetes awareness,YE
-3611,3611,45+,2.0,Expats,No Degree,NOTSELECTED,170,1488123352.37,diabetes awareness,YE
-3612,3612,18-24,1.0,Expats,High School,NOTSELECTED,1500,1488123352.37,diabetes awareness,YE
-3613,3613,25-44,1.0,Expats,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,YE
-3614,3614,45+,1.0,Expats,High School,NOTSELECTED,180,1488123352.37,diabetes awareness,YE
-3615,3615,18-24,2.0,Expats,High School,NOTSELECTED,340,1488123352.37,diabetes awareness,YE
-3616,3616,25-44,2.0,Expats,High School,NOTSELECTED,220,1488123352.37,diabetes awareness,YE
-3617,3617,45+,2.0,Expats,High School,NOTSELECTED,20,1488123352.37,diabetes awareness,YE
-3618,3618,18-24,1.0,Locals,Graduated,NOTSELECTED,26000,1488123352.37,diabetes awareness,YE
-3619,3619,25-44,1.0,Locals,Graduated,NOTSELECTED,58000,1488123352.37,diabetes awareness,YE
-3620,3620,45+,1.0,Locals,Graduated,NOTSELECTED,5600,1488123352.37,diabetes awareness,YE
-3621,3621,18-24,2.0,Locals,Graduated,NOTSELECTED,3500,1488123352.37,diabetes awareness,YE
-3622,3622,25-44,2.0,Locals,Graduated,NOTSELECTED,7400,1488123352.37,diabetes awareness,YE
-3623,3623,45+,2.0,Locals,Graduated,NOTSELECTED,650,1488123352.37,diabetes awareness,YE
-3624,3624,18-24,1.0,Locals,No Degree,NOTSELECTED,38000,1488123352.37,diabetes awareness,YE
-3625,3625,25-44,1.0,Locals,No Degree,NOTSELECTED,49000,1488123352.37,diabetes awareness,YE
-3626,3626,45+,1.0,Locals,No Degree,NOTSELECTED,7300,1488123352.37,diabetes awareness,YE
-3627,3627,18-24,2.0,Locals,No Degree,NOTSELECTED,5000,1488123352.37,diabetes awareness,YE
-3628,3628,25-44,2.0,Locals,No Degree,NOTSELECTED,6500,1488123352.37,diabetes awareness,YE
-3629,3629,45+,2.0,Locals,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,YE
-3630,3630,18-24,1.0,Locals,High School,NOTSELECTED,18000,1488123352.37,diabetes awareness,YE
-3631,3631,25-44,1.0,Locals,High School,NOTSELECTED,17000,1488123352.37,diabetes awareness,YE
-3632,3632,45+,1.0,Locals,High School,NOTSELECTED,1800,1488123352.37,diabetes awareness,YE
-3633,3633,18-24,2.0,Locals,High School,NOTSELECTED,3400,1488123352.37,diabetes awareness,YE
-3634,3634,25-44,2.0,Locals,High School,NOTSELECTED,2100,1488123352.37,diabetes awareness,YE
-3635,3635,45+,2.0,Locals,High School,NOTSELECTED,270,1488123352.37,diabetes awareness,YE
-3636,3636,18-24,1.0,Expats,Graduated,NOTSELECTED,500,1488123352.37,diabetes awareness,PS
-3637,3637,25-44,1.0,Expats,Graduated,NOTSELECTED,980,1488123352.37,diabetes awareness,PS
-3638,3638,45+,1.0,Expats,Graduated,NOTSELECTED,350,1488123352.37,diabetes awareness,PS
-3639,3639,18-24,2.0,Expats,Graduated,NOTSELECTED,440,1488123352.37,diabetes awareness,PS
-3640,3640,25-44,2.0,Expats,Graduated,NOTSELECTED,1300,1488123352.37,diabetes awareness,PS
-3641,3641,45+,2.0,Expats,Graduated,NOTSELECTED,270,1488123352.37,diabetes awareness,PS
-3642,3642,18-24,1.0,Expats,No Degree,NOTSELECTED,170,1488123352.37,diabetes awareness,PS
-3643,3643,25-44,1.0,Expats,No Degree,NOTSELECTED,390,1488123352.37,diabetes awareness,PS
-3644,3644,45+,1.0,Expats,No Degree,NOTSELECTED,270,1488123352.37,diabetes awareness,PS
-3645,3645,18-24,2.0,Expats,No Degree,NOTSELECTED,90,1488123352.37,diabetes awareness,PS
-3646,3646,25-44,2.0,Expats,No Degree,NOTSELECTED,450,1488123352.37,diabetes awareness,PS
-3647,3647,45+,2.0,Expats,No Degree,NOTSELECTED,360,1488123352.37,diabetes awareness,PS
-3648,3648,18-24,1.0,Expats,High School,NOTSELECTED,170,1488123352.37,diabetes awareness,PS
-3649,3649,25-44,1.0,Expats,High School,NOTSELECTED,300,1488123352.37,diabetes awareness,PS
-3650,3650,45+,1.0,Expats,High School,NOTSELECTED,90,1488123352.37,diabetes awareness,PS
-3651,3651,18-24,2.0,Expats,High School,NOTSELECTED,410,1488123352.37,diabetes awareness,PS
-3652,3652,25-44,2.0,Expats,High School,NOTSELECTED,330,1488123352.37,diabetes awareness,PS
-3653,3653,45+,2.0,Expats,High School,NOTSELECTED,80,1488123352.37,diabetes awareness,PS
-3654,3654,18-24,1.0,Locals,Graduated,NOTSELECTED,1800,1488123352.37,diabetes awareness,PS
-3655,3655,25-44,1.0,Locals,Graduated,NOTSELECTED,5200,1488123352.37,diabetes awareness,PS
-3656,3656,45+,1.0,Locals,Graduated,NOTSELECTED,1600,1488123352.37,diabetes awareness,PS
-3657,3657,18-24,2.0,Locals,Graduated,NOTSELECTED,2000,1488123352.37,diabetes awareness,PS
-3658,3658,25-44,2.0,Locals,Graduated,NOTSELECTED,4800,1488123352.37,diabetes awareness,PS
-3659,3659,45+,2.0,Locals,Graduated,NOTSELECTED,900,1488123352.37,diabetes awareness,PS
-3660,3660,18-24,1.0,Locals,No Degree,NOTSELECTED,1000,1488123352.37,diabetes awareness,PS
-3661,3661,25-44,1.0,Locals,No Degree,NOTSELECTED,2300,1488123352.37,diabetes awareness,PS
-3662,3662,45+,1.0,Locals,No Degree,NOTSELECTED,1400,1488123352.37,diabetes awareness,PS
-3663,3663,18-24,2.0,Locals,No Degree,NOTSELECTED,1200,1488123352.37,diabetes awareness,PS
-3664,3664,25-44,2.0,Locals,No Degree,NOTSELECTED,3400,1488123352.37,diabetes awareness,PS
-3665,3665,45+,2.0,Locals,No Degree,NOTSELECTED,1800,1488123352.37,diabetes awareness,PS
-3666,3666,18-24,1.0,Locals,High School,NOTSELECTED,1100,1488123352.37,diabetes awareness,PS
-3667,3667,25-44,1.0,Locals,High School,NOTSELECTED,1300,1488123352.37,diabetes awareness,PS
-3668,3668,45+,1.0,Locals,High School,NOTSELECTED,420,1488123352.37,diabetes awareness,PS
-3669,3669,18-24,2.0,Locals,High School,NOTSELECTED,1500,1488123352.37,diabetes awareness,PS
-3670,3670,25-44,2.0,Locals,High School,NOTSELECTED,1400,1488123352.37,diabetes awareness,PS
-3671,3671,45+,2.0,Locals,High School,NOTSELECTED,290,1488123352.37,diabetes awareness,PS
-4896,4896,18-24,1.0,Expats,Graduated,NOTSELECTED,150000,1488123352.37,shopping,DZ
-4897,4897,25-44,1.0,Expats,Graduated,NOTSELECTED,170000,1488123352.37,shopping,DZ
-4898,4898,45+,1.0,Expats,Graduated,NOTSELECTED,22000,1488123352.37,shopping,DZ
-4899,4899,18-24,2.0,Expats,Graduated,NOTSELECTED,64000,1488123352.37,shopping,DZ
-4900,4900,25-44,2.0,Expats,Graduated,NOTSELECTED,46000,1488123352.37,shopping,DZ
-4901,4901,45+,2.0,Expats,Graduated,NOTSELECTED,7200,1488123352.37,shopping,DZ
-4902,4902,18-24,1.0,Expats,No Degree,NOTSELECTED,120000,1488123352.37,shopping,DZ
-4903,4903,25-44,1.0,Expats,No Degree,NOTSELECTED,190000,1488123352.37,shopping,DZ
-4904,4904,45+,1.0,Expats,No Degree,NOTSELECTED,33000,1488123352.37,shopping,DZ
-4905,4905,18-24,2.0,Expats,No Degree,NOTSELECTED,70000,1488123352.37,shopping,DZ
-4906,4906,25-44,2.0,Expats,No Degree,NOTSELECTED,66000,1488123352.37,shopping,DZ
-4907,4907,45+,2.0,Expats,No Degree,NOTSELECTED,12000,1488123352.37,shopping,DZ
-4908,4908,18-24,1.0,Expats,High School,NOTSELECTED,60000,1488123352.37,shopping,DZ
-4909,4909,25-44,1.0,Expats,High School,NOTSELECTED,41000,1488123352.37,shopping,DZ
-4910,4910,45+,1.0,Expats,High School,NOTSELECTED,7600,1488123352.37,shopping,DZ
-4911,4911,18-24,2.0,Expats,High School,NOTSELECTED,26000,1488123352.37,shopping,DZ
-4912,4912,25-44,2.0,Expats,High School,NOTSELECTED,12000,1488123352.37,shopping,DZ
-4913,4913,45+,2.0,Expats,High School,NOTSELECTED,2900,1488123352.37,shopping,DZ
-4914,4914,18-24,1.0,Locals,Graduated,NOTSELECTED,710000,1488123352.37,shopping,DZ
-4915,4915,25-44,1.0,Locals,Graduated,NOTSELECTED,1100000,1488123352.37,shopping,DZ
-4916,4916,45+,1.0,Locals,Graduated,NOTSELECTED,130000,1488123352.37,shopping,DZ
-4917,4917,18-24,2.0,Locals,Graduated,NOTSELECTED,530000,1488123352.37,shopping,DZ
-4918,4918,25-44,2.0,Locals,Graduated,NOTSELECTED,560000,1488123352.37,shopping,DZ
-4919,4919,45+,2.0,Locals,Graduated,NOTSELECTED,50000,1488123352.37,shopping,DZ
-4920,4920,18-24,1.0,Locals,No Degree,NOTSELECTED,1200000,1488123352.37,shopping,DZ
-4921,4921,25-44,1.0,Locals,No Degree,NOTSELECTED,1800000,1488123352.37,shopping,DZ
-4922,4922,45+,1.0,Locals,No Degree,NOTSELECTED,270000,1488123352.37,shopping,DZ
-4923,4923,18-24,2.0,Locals,No Degree,NOTSELECTED,990000,1488123352.37,shopping,DZ
-4924,4924,25-44,2.0,Locals,No Degree,NOTSELECTED,870000,1488123352.37,shopping,DZ
-4925,4925,45+,2.0,Locals,No Degree,NOTSELECTED,130000,1488123352.37,shopping,DZ
-4926,4926,18-24,1.0,Locals,High School,NOTSELECTED,340000,1488123352.37,shopping,DZ
-4927,4927,25-44,1.0,Locals,High School,NOTSELECTED,320000,1488123352.37,shopping,DZ
-4928,4928,45+,1.0,Locals,High School,NOTSELECTED,49000,1488123352.37,shopping,DZ
-4929,4929,18-24,2.0,Locals,High School,NOTSELECTED,270000,1488123352.37,shopping,DZ
-4930,4930,25-44,2.0,Locals,High School,NOTSELECTED,140000,1488123352.37,shopping,DZ
-4931,4931,45+,2.0,Locals,High School,NOTSELECTED,22000,1488123352.37,shopping,DZ
-4932,4932,18-24,1.0,Expats,Graduated,NOTSELECTED,24000,1488123352.37,shopping,BH
-4933,4933,25-44,1.0,Expats,Graduated,NOTSELECTED,130000,1488123352.37,shopping,BH
-4934,4934,45+,1.0,Expats,Graduated,NOTSELECTED,18000,1488123352.37,shopping,BH
-4935,4935,18-24,2.0,Expats,Graduated,NOTSELECTED,7100,1488123352.37,shopping,BH
-4936,4936,25-44,2.0,Expats,Graduated,NOTSELECTED,46000,1488123352.37,shopping,BH
-4937,4937,45+,2.0,Expats,Graduated,NOTSELECTED,8400,1488123352.37,shopping,BH
-4938,4938,18-24,1.0,Expats,No Degree,NOTSELECTED,49000,1488123352.37,shopping,BH
-4939,4939,25-44,1.0,Expats,No Degree,NOTSELECTED,140000,1488123352.37,shopping,BH
-4940,4940,45+,1.0,Expats,No Degree,NOTSELECTED,24000,1488123352.37,shopping,BH
-4941,4941,18-24,2.0,Expats,No Degree,NOTSELECTED,13000,1488123352.37,shopping,BH
-4942,4942,25-44,2.0,Expats,No Degree,NOTSELECTED,34000,1488123352.37,shopping,BH
-4943,4943,45+,2.0,Expats,No Degree,NOTSELECTED,8000,1488123352.37,shopping,BH
-4944,4944,18-24,1.0,Expats,High School,NOTSELECTED,11000,1488123352.37,shopping,BH
-4945,4945,25-44,1.0,Expats,High School,NOTSELECTED,35000,1488123352.37,shopping,BH
-4946,4946,45+,1.0,Expats,High School,NOTSELECTED,6100,1488123352.37,shopping,BH
-4947,4947,18-24,2.0,Expats,High School,NOTSELECTED,4800,1488123352.37,shopping,BH
-4948,4948,25-44,2.0,Expats,High School,NOTSELECTED,14000,1488123352.37,shopping,BH
-4949,4949,45+,2.0,Expats,High School,NOTSELECTED,2800,1488123352.37,shopping,BH
-4950,4950,18-24,1.0,Locals,Graduated,NOTSELECTED,6100,1488123352.37,shopping,BH
-4951,4951,25-44,1.0,Locals,Graduated,NOTSELECTED,19000,1488123352.37,shopping,BH
-4952,4952,45+,1.0,Locals,Graduated,NOTSELECTED,3400,1488123352.37,shopping,BH
-4953,4953,18-24,2.0,Locals,Graduated,NOTSELECTED,3700,1488123352.37,shopping,BH
-4954,4954,25-44,2.0,Locals,Graduated,NOTSELECTED,12000,1488123352.37,shopping,BH
-4955,4955,45+,2.0,Locals,Graduated,NOTSELECTED,1300,1488123352.37,shopping,BH
-4956,4956,18-24,1.0,Locals,No Degree,NOTSELECTED,13000,1488123352.37,shopping,BH
-4957,4957,25-44,1.0,Locals,No Degree,NOTSELECTED,24000,1488123352.37,shopping,BH
-4958,4958,45+,1.0,Locals,No Degree,NOTSELECTED,5800,1488123352.37,shopping,BH
-4959,4959,18-24,2.0,Locals,No Degree,NOTSELECTED,8400,1488123352.37,shopping,BH
-4960,4960,25-44,2.0,Locals,No Degree,NOTSELECTED,14000,1488123352.37,shopping,BH
-4961,4961,45+,2.0,Locals,No Degree,NOTSELECTED,2800,1488123352.37,shopping,BH
-4962,4962,18-24,1.0,Locals,High School,NOTSELECTED,4100,1488123352.37,shopping,BH
-4963,4963,25-44,1.0,Locals,High School,NOTSELECTED,5600,1488123352.37,shopping,BH
-4964,4964,45+,1.0,Locals,High School,NOTSELECTED,1100,1488123352.37,shopping,BH
-4965,4965,18-24,2.0,Locals,High School,NOTSELECTED,3900,1488123352.37,shopping,BH
-4966,4966,25-44,2.0,Locals,High School,NOTSELECTED,3200,1488123352.37,shopping,BH
-4967,4967,45+,2.0,Locals,High School,NOTSELECTED,440,1488123352.37,shopping,BH
-4968,4968,18-24,1.0,Expats,Graduated,NOTSELECTED,99000,1488123352.37,shopping,EG
-4969,4969,25-44,1.0,Expats,Graduated,NOTSELECTED,200000,1488123352.37,shopping,EG
-4970,4970,45+,1.0,Expats,Graduated,NOTSELECTED,36000,1488123352.37,shopping,EG
-4971,4971,18-24,2.0,Expats,Graduated,NOTSELECTED,45000,1488123352.37,shopping,EG
-4972,4972,25-44,2.0,Expats,Graduated,NOTSELECTED,82000,1488123352.37,shopping,EG
-4973,4973,45+,2.0,Expats,Graduated,NOTSELECTED,15000,1488123352.37,shopping,EG
-4974,4974,18-24,1.0,Expats,No Degree,NOTSELECTED,64000,1488123352.37,shopping,EG
-4975,4975,25-44,1.0,Expats,No Degree,NOTSELECTED,110000,1488123352.37,shopping,EG
-4976,4976,45+,1.0,Expats,No Degree,NOTSELECTED,27000,1488123352.37,shopping,EG
-4977,4977,18-24,2.0,Expats,No Degree,NOTSELECTED,37000,1488123352.37,shopping,EG
-4978,4978,25-44,2.0,Expats,No Degree,NOTSELECTED,51000,1488123352.37,shopping,EG
-4979,4979,45+,2.0,Expats,No Degree,NOTSELECTED,16000,1488123352.37,shopping,EG
-4980,4980,18-24,1.0,Expats,High School,NOTSELECTED,57000,1488123352.37,shopping,EG
-4981,4981,25-44,1.0,Expats,High School,NOTSELECTED,46000,1488123352.37,shopping,EG
-4982,4982,45+,1.0,Expats,High School,NOTSELECTED,8700,1488123352.37,shopping,EG
-4983,4983,18-24,2.0,Expats,High School,NOTSELECTED,33000,1488123352.37,shopping,EG
-4984,4984,25-44,2.0,Expats,High School,NOTSELECTED,20000,1488123352.37,shopping,EG
-4985,4985,45+,2.0,Expats,High School,NOTSELECTED,4600,1488123352.37,shopping,EG
-4986,4986,18-24,1.0,Locals,Graduated,NOTSELECTED,1800000,1488123352.37,shopping,EG
-4987,4987,25-44,1.0,Locals,Graduated,NOTSELECTED,3300000,1488123352.37,shopping,EG
-4988,4988,45+,1.0,Locals,Graduated,NOTSELECTED,530000,1488123352.37,shopping,EG
-4989,4989,18-24,2.0,Locals,Graduated,NOTSELECTED,1300000,1488123352.37,shopping,EG
-4990,4990,25-44,2.0,Locals,Graduated,NOTSELECTED,1800000,1488123352.37,shopping,EG
-4991,4991,45+,2.0,Locals,Graduated,NOTSELECTED,250000,1488123352.37,shopping,EG
-4992,4992,18-24,1.0,Locals,No Degree,NOTSELECTED,1600000,1488123352.37,shopping,EG
-4993,4993,25-44,1.0,Locals,No Degree,NOTSELECTED,2600000,1488123352.37,shopping,EG
-4994,4994,45+,1.0,Locals,No Degree,NOTSELECTED,770000,1488123352.37,shopping,EG
-4995,4995,18-24,2.0,Locals,No Degree,NOTSELECTED,1200000,1488123352.37,shopping,EG
-4996,4996,25-44,2.0,Locals,No Degree,NOTSELECTED,1400000,1488123352.37,shopping,EG
-4997,4997,45+,2.0,Locals,No Degree,NOTSELECTED,470000,1488123352.37,shopping,EG
-4998,4998,18-24,1.0,Locals,High School,NOTSELECTED,1100000,1488123352.37,shopping,EG
-4999,4999,25-44,1.0,Locals,High School,NOTSELECTED,770000,1488123352.37,shopping,EG
-5000,5000,45+,1.0,Locals,High School,NOTSELECTED,150000,1488123352.37,shopping,EG
-5001,5001,18-24,2.0,Locals,High School,NOTSELECTED,920000,1488123352.37,shopping,EG
-5002,5002,25-44,2.0,Locals,High School,NOTSELECTED,370000,1488123352.37,shopping,EG
-5003,5003,45+,2.0,Locals,High School,NOTSELECTED,63000,1488123352.37,shopping,EG
-5004,5004,18-24,1.0,Expats,Graduated,NOTSELECTED,76000,1488123352.37,shopping,IQ
-5005,5005,25-44,1.0,Expats,Graduated,NOTSELECTED,150000,1488123352.37,shopping,IQ
-5006,5006,45+,1.0,Expats,Graduated,NOTSELECTED,20000,1488123352.37,shopping,IQ
-5007,5007,18-24,2.0,Expats,Graduated,NOTSELECTED,18000,1488123352.37,shopping,IQ
-5008,5008,25-44,2.0,Expats,Graduated,NOTSELECTED,30000,1488123352.37,shopping,IQ
-5009,5009,45+,2.0,Expats,Graduated,NOTSELECTED,3800,1488123352.37,shopping,IQ
-5010,5010,18-24,1.0,Expats,No Degree,NOTSELECTED,74000,1488123352.37,shopping,IQ
-5011,5011,25-44,1.0,Expats,No Degree,NOTSELECTED,100000,1488123352.37,shopping,IQ
-5012,5012,45+,1.0,Expats,No Degree,NOTSELECTED,19000,1488123352.37,shopping,IQ
-5013,5013,18-24,2.0,Expats,No Degree,NOTSELECTED,33000,1488123352.37,shopping,IQ
-5014,5014,25-44,2.0,Expats,No Degree,NOTSELECTED,33000,1488123352.37,shopping,IQ
-5015,5015,45+,2.0,Expats,No Degree,NOTSELECTED,6000,1488123352.37,shopping,IQ
-5016,5016,18-24,1.0,Expats,High School,NOTSELECTED,41000,1488123352.37,shopping,IQ
-5017,5017,25-44,1.0,Expats,High School,NOTSELECTED,43000,1488123352.37,shopping,IQ
-5018,5018,45+,1.0,Expats,High School,NOTSELECTED,6300,1488123352.37,shopping,IQ
-5019,5019,18-24,2.0,Expats,High School,NOTSELECTED,14000,1488123352.37,shopping,IQ
-5020,5020,25-44,2.0,Expats,High School,NOTSELECTED,10000,1488123352.37,shopping,IQ
-5021,5021,45+,2.0,Expats,High School,NOTSELECTED,1400,1488123352.37,shopping,IQ
-5022,5022,18-24,1.0,Locals,Graduated,NOTSELECTED,730000,1488123352.37,shopping,IQ
-5023,5023,25-44,1.0,Locals,Graduated,NOTSELECTED,1400000,1488123352.37,shopping,IQ
-5024,5024,45+,1.0,Locals,Graduated,NOTSELECTED,210000,1488123352.37,shopping,IQ
-5025,5025,18-24,2.0,Locals,Graduated,NOTSELECTED,230000,1488123352.37,shopping,IQ
-5026,5026,25-44,2.0,Locals,Graduated,NOTSELECTED,350000,1488123352.37,shopping,IQ
-5027,5027,45+,2.0,Locals,Graduated,NOTSELECTED,55000,1488123352.37,shopping,IQ
-5028,5028,18-24,1.0,Locals,No Degree,NOTSELECTED,1500000,1488123352.37,shopping,IQ
-5029,5029,25-44,1.0,Locals,No Degree,NOTSELECTED,1700000,1488123352.37,shopping,IQ
-5030,5030,45+,1.0,Locals,No Degree,NOTSELECTED,390000,1488123352.37,shopping,IQ
-5031,5031,18-24,2.0,Locals,No Degree,NOTSELECTED,580000,1488123352.37,shopping,IQ
-5032,5032,25-44,2.0,Locals,No Degree,NOTSELECTED,570000,1488123352.37,shopping,IQ
-5033,5033,45+,2.0,Locals,No Degree,NOTSELECTED,150000,1488123352.37,shopping,IQ
-5034,5034,18-24,1.0,Locals,High School,NOTSELECTED,480000,1488123352.37,shopping,IQ
-5035,5035,25-44,1.0,Locals,High School,NOTSELECTED,440000,1488123352.37,shopping,IQ
-5036,5036,45+,1.0,Locals,High School,NOTSELECTED,71000,1488123352.37,shopping,IQ
-5037,5037,18-24,2.0,Locals,High School,NOTSELECTED,220000,1488123352.37,shopping,IQ
-5038,5038,25-44,2.0,Locals,High School,NOTSELECTED,120000,1488123352.37,shopping,IQ
-5039,5039,45+,2.0,Locals,High School,NOTSELECTED,20000,1488123352.37,shopping,IQ
-5040,5040,18-24,1.0,Expats,Graduated,NOTSELECTED,57000,1488123352.37,shopping,JO
-5041,5041,25-44,1.0,Expats,Graduated,NOTSELECTED,130000,1488123352.37,shopping,JO
-5042,5042,45+,1.0,Expats,Graduated,NOTSELECTED,22000,1488123352.37,shopping,JO
-5043,5043,18-24,2.0,Expats,Graduated,NOTSELECTED,34000,1488123352.37,shopping,JO
-5044,5044,25-44,2.0,Expats,Graduated,NOTSELECTED,75000,1488123352.37,shopping,JO
-5045,5045,45+,2.0,Expats,Graduated,NOTSELECTED,16000,1488123352.37,shopping,JO
-5046,5046,18-24,1.0,Expats,No Degree,NOTSELECTED,80000,1488123352.37,shopping,JO
-5047,5047,25-44,1.0,Expats,No Degree,NOTSELECTED,130000,1488123352.37,shopping,JO
-5048,5048,45+,1.0,Expats,No Degree,NOTSELECTED,29000,1488123352.37,shopping,JO
-5049,5049,18-24,2.0,Expats,No Degree,NOTSELECTED,48000,1488123352.37,shopping,JO
-5050,5050,25-44,2.0,Expats,No Degree,NOTSELECTED,66000,1488123352.37,shopping,JO
-5051,5051,45+,2.0,Expats,No Degree,NOTSELECTED,25000,1488123352.37,shopping,JO
-5052,5052,18-24,1.0,Expats,High School,NOTSELECTED,46000,1488123352.37,shopping,JO
-5053,5053,25-44,1.0,Expats,High School,NOTSELECTED,41000,1488123352.37,shopping,JO
-5054,5054,45+,1.0,Expats,High School,NOTSELECTED,7400,1488123352.37,shopping,JO
-5055,5055,18-24,2.0,Expats,High School,NOTSELECTED,41000,1488123352.37,shopping,JO
-5056,5056,25-44,2.0,Expats,High School,NOTSELECTED,25000,1488123352.37,shopping,JO
-5057,5057,45+,2.0,Expats,High School,NOTSELECTED,6400,1488123352.37,shopping,JO
-5058,5058,18-24,1.0,Locals,Graduated,NOTSELECTED,170000,1488123352.37,shopping,JO
-5059,5059,25-44,1.0,Locals,Graduated,NOTSELECTED,340000,1488123352.37,shopping,JO
-5060,5060,45+,1.0,Locals,Graduated,NOTSELECTED,66000,1488123352.37,shopping,JO
-5061,5061,18-24,2.0,Locals,Graduated,NOTSELECTED,120000,1488123352.37,shopping,JO
-5062,5062,25-44,2.0,Locals,Graduated,NOTSELECTED,220000,1488123352.37,shopping,JO
-5063,5063,45+,2.0,Locals,Graduated,NOTSELECTED,34000,1488123352.37,shopping,JO
-5064,5064,18-24,1.0,Locals,No Degree,NOTSELECTED,230000,1488123352.37,shopping,JO
-5065,5065,25-44,1.0,Locals,No Degree,NOTSELECTED,300000,1488123352.37,shopping,JO
-5066,5066,45+,1.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,shopping,JO
-5067,5067,18-24,2.0,Locals,No Degree,NOTSELECTED,200000,1488123352.37,shopping,JO
-5068,5068,25-44,2.0,Locals,No Degree,NOTSELECTED,250000,1488123352.37,shopping,JO
-5069,5069,45+,2.0,Locals,No Degree,NOTSELECTED,92000,1488123352.37,shopping,JO
-5070,5070,18-24,1.0,Locals,High School,NOTSELECTED,140000,1488123352.37,shopping,JO
-5071,5071,25-44,1.0,Locals,High School,NOTSELECTED,110000,1488123352.37,shopping,JO
-5072,5072,45+,1.0,Locals,High School,NOTSELECTED,26000,1488123352.37,shopping,JO
-5073,5073,18-24,2.0,Locals,High School,NOTSELECTED,140000,1488123352.37,shopping,JO
-5074,5074,25-44,2.0,Locals,High School,NOTSELECTED,72000,1488123352.37,shopping,JO
-5075,5075,45+,2.0,Locals,High School,NOTSELECTED,15000,1488123352.37,shopping,JO
-5076,5076,18-24,1.0,Expats,Graduated,NOTSELECTED,41000,1488123352.37,shopping,KW
-5077,5077,25-44,1.0,Expats,Graduated,NOTSELECTED,350000,1488123352.37,shopping,KW
-5078,5078,45+,1.0,Expats,Graduated,NOTSELECTED,53000,1488123352.37,shopping,KW
-5079,5079,18-24,2.0,Expats,Graduated,NOTSELECTED,18000,1488123352.37,shopping,KW
-5080,5080,25-44,2.0,Expats,Graduated,NOTSELECTED,160000,1488123352.37,shopping,KW
-5081,5081,45+,2.0,Expats,Graduated,NOTSELECTED,22000,1488123352.37,shopping,KW
-5082,5082,18-24,1.0,Expats,No Degree,NOTSELECTED,120000,1488123352.37,shopping,KW
-5083,5083,25-44,1.0,Expats,No Degree,NOTSELECTED,400000,1488123352.37,shopping,KW
-5084,5084,45+,1.0,Expats,No Degree,NOTSELECTED,87000,1488123352.37,shopping,KW
-5085,5085,18-24,2.0,Expats,No Degree,NOTSELECTED,50000,1488123352.37,shopping,KW
-5086,5086,25-44,2.0,Expats,No Degree,NOTSELECTED,140000,1488123352.37,shopping,KW
-5087,5087,45+,2.0,Expats,No Degree,NOTSELECTED,30000,1488123352.37,shopping,KW
-5088,5088,18-24,1.0,Expats,High School,NOTSELECTED,22000,1488123352.37,shopping,KW
-5089,5089,25-44,1.0,Expats,High School,NOTSELECTED,110000,1488123352.37,shopping,KW
-5090,5090,45+,1.0,Expats,High School,NOTSELECTED,17000,1488123352.37,shopping,KW
-5091,5091,18-24,2.0,Expats,High School,NOTSELECTED,14000,1488123352.37,shopping,KW
-5092,5092,25-44,2.0,Expats,High School,NOTSELECTED,59000,1488123352.37,shopping,KW
-5093,5093,45+,2.0,Expats,High School,NOTSELECTED,8200,1488123352.37,shopping,KW
-5094,5094,18-24,1.0,Locals,Graduated,NOTSELECTED,5100,1488123352.37,shopping,KW
-5095,5095,25-44,1.0,Locals,Graduated,NOTSELECTED,25000,1488123352.37,shopping,KW
-5096,5096,45+,1.0,Locals,Graduated,NOTSELECTED,4600,1488123352.37,shopping,KW
-5097,5097,18-24,2.0,Locals,Graduated,NOTSELECTED,2700,1488123352.37,shopping,KW
-5098,5098,25-44,2.0,Locals,Graduated,NOTSELECTED,14000,1488123352.37,shopping,KW
-5099,5099,45+,2.0,Locals,Graduated,NOTSELECTED,2100,1488123352.37,shopping,KW
-5100,5100,18-24,1.0,Locals,No Degree,NOTSELECTED,23000,1488123352.37,shopping,KW
-5101,5101,25-44,1.0,Locals,No Degree,NOTSELECTED,49000,1488123352.37,shopping,KW
-5102,5102,45+,1.0,Locals,No Degree,NOTSELECTED,10000,1488123352.37,shopping,KW
-5103,5103,18-24,2.0,Locals,No Degree,NOTSELECTED,15000,1488123352.37,shopping,KW
-5104,5104,25-44,2.0,Locals,No Degree,NOTSELECTED,28000,1488123352.37,shopping,KW
-5105,5105,45+,2.0,Locals,No Degree,NOTSELECTED,5700,1488123352.37,shopping,KW
-5106,5106,18-24,1.0,Locals,High School,NOTSELECTED,3800,1488123352.37,shopping,KW
-5107,5107,25-44,1.0,Locals,High School,NOTSELECTED,6600,1488123352.37,shopping,KW
-5108,5108,45+,1.0,Locals,High School,NOTSELECTED,1400,1488123352.37,shopping,KW
-5109,5109,18-24,2.0,Locals,High School,NOTSELECTED,3300,1488123352.37,shopping,KW
-5110,5110,25-44,2.0,Locals,High School,NOTSELECTED,3800,1488123352.37,shopping,KW
-5111,5111,45+,2.0,Locals,High School,NOTSELECTED,440,1488123352.37,shopping,KW
-5112,5112,18-24,1.0,Expats,Graduated,NOTSELECTED,36000,1488123352.37,shopping,LB
-5113,5113,25-44,1.0,Expats,Graduated,NOTSELECTED,75000,1488123352.37,shopping,LB
-5114,5114,45+,1.0,Expats,Graduated,NOTSELECTED,10000,1488123352.37,shopping,LB
-5115,5115,18-24,2.0,Expats,Graduated,NOTSELECTED,15000,1488123352.37,shopping,LB
-5116,5116,25-44,2.0,Expats,Graduated,NOTSELECTED,41000,1488123352.37,shopping,LB
-5117,5117,45+,2.0,Expats,Graduated,NOTSELECTED,9200,1488123352.37,shopping,LB
-5118,5118,18-24,1.0,Expats,No Degree,NOTSELECTED,78000,1488123352.37,shopping,LB
-5119,5119,25-44,1.0,Expats,No Degree,NOTSELECTED,110000,1488123352.37,shopping,LB
-5120,5120,45+,1.0,Expats,No Degree,NOTSELECTED,19000,1488123352.37,shopping,LB
-5121,5121,18-24,2.0,Expats,No Degree,NOTSELECTED,43000,1488123352.37,shopping,LB
-5122,5122,25-44,2.0,Expats,No Degree,NOTSELECTED,60000,1488123352.37,shopping,LB
-5123,5123,45+,2.0,Expats,No Degree,NOTSELECTED,15000,1488123352.37,shopping,LB
-5124,5124,18-24,1.0,Expats,High School,NOTSELECTED,23000,1488123352.37,shopping,LB
-5125,5125,25-44,1.0,Expats,High School,NOTSELECTED,29000,1488123352.37,shopping,LB
-5126,5126,45+,1.0,Expats,High School,NOTSELECTED,4100,1488123352.37,shopping,LB
-5127,5127,18-24,2.0,Expats,High School,NOTSELECTED,13000,1488123352.37,shopping,LB
-5128,5128,25-44,2.0,Expats,High School,NOTSELECTED,17000,1488123352.37,shopping,LB
-5129,5129,45+,2.0,Expats,High School,NOTSELECTED,3600,1488123352.37,shopping,LB
-5130,5130,18-24,1.0,Locals,Graduated,NOTSELECTED,67000,1488123352.37,shopping,LB
-5131,5131,25-44,1.0,Locals,Graduated,NOTSELECTED,160000,1488123352.37,shopping,LB
-5132,5132,45+,1.0,Locals,Graduated,NOTSELECTED,44000,1488123352.37,shopping,LB
-5133,5133,18-24,2.0,Locals,Graduated,NOTSELECTED,64000,1488123352.37,shopping,LB
-5134,5134,25-44,2.0,Locals,Graduated,NOTSELECTED,160000,1488123352.37,shopping,LB
-5135,5135,45+,2.0,Locals,Graduated,NOTSELECTED,38000,1488123352.37,shopping,LB
-5136,5136,18-24,1.0,Locals,No Degree,NOTSELECTED,140000,1488123352.37,shopping,LB
-5137,5137,25-44,1.0,Locals,No Degree,NOTSELECTED,210000,1488123352.37,shopping,LB
-5138,5138,45+,1.0,Locals,No Degree,NOTSELECTED,99000,1488123352.37,shopping,LB
-5139,5139,18-24,2.0,Locals,No Degree,NOTSELECTED,120000,1488123352.37,shopping,LB
-5140,5140,25-44,2.0,Locals,No Degree,NOTSELECTED,200000,1488123352.37,shopping,LB
-5141,5141,45+,2.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,shopping,LB
-5142,5142,18-24,1.0,Locals,High School,NOTSELECTED,55000,1488123352.37,shopping,LB
-5143,5143,25-44,1.0,Locals,High School,NOTSELECTED,46000,1488123352.37,shopping,LB
-5144,5144,45+,1.0,Locals,High School,NOTSELECTED,15000,1488123352.37,shopping,LB
-5145,5145,18-24,2.0,Locals,High School,NOTSELECTED,67000,1488123352.37,shopping,LB
-5146,5146,25-44,2.0,Locals,High School,NOTSELECTED,44000,1488123352.37,shopping,LB
-5147,5147,45+,2.0,Locals,High School,NOTSELECTED,15000,1488123352.37,shopping,LB
-5148,5148,18-24,1.0,Expats,Graduated,NOTSELECTED,21000,1488123352.37,shopping,LY
-5149,5149,25-44,1.0,Expats,Graduated,NOTSELECTED,59000,1488123352.37,shopping,LY
-5150,5150,45+,1.0,Expats,Graduated,NOTSELECTED,7400,1488123352.37,shopping,LY
-5151,5151,18-24,2.0,Expats,Graduated,NOTSELECTED,6700,1488123352.37,shopping,LY
-5152,5152,25-44,2.0,Expats,Graduated,NOTSELECTED,16000,1488123352.37,shopping,LY
-5153,5153,45+,2.0,Expats,Graduated,NOTSELECTED,3100,1488123352.37,shopping,LY
-5154,5154,18-24,1.0,Expats,No Degree,NOTSELECTED,33000,1488123352.37,shopping,LY
-5155,5155,25-44,1.0,Expats,No Degree,NOTSELECTED,72000,1488123352.37,shopping,LY
-5156,5156,45+,1.0,Expats,No Degree,NOTSELECTED,10000,1488123352.37,shopping,LY
-5157,5157,18-24,2.0,Expats,No Degree,NOTSELECTED,10000,1488123352.37,shopping,LY
-5158,5158,25-44,2.0,Expats,No Degree,NOTSELECTED,19000,1488123352.37,shopping,LY
-5159,5159,45+,2.0,Expats,No Degree,NOTSELECTED,4600,1488123352.37,shopping,LY
-5160,5160,18-24,1.0,Expats,High School,NOTSELECTED,9300,1488123352.37,shopping,LY
-5161,5161,25-44,1.0,Expats,High School,NOTSELECTED,16000,1488123352.37,shopping,LY
-5162,5162,45+,1.0,Expats,High School,NOTSELECTED,2200,1488123352.37,shopping,LY
-5163,5163,18-24,2.0,Expats,High School,NOTSELECTED,4300,1488123352.37,shopping,LY
-5164,5164,25-44,2.0,Expats,High School,NOTSELECTED,4300,1488123352.37,shopping,LY
-5165,5165,45+,2.0,Expats,High School,NOTSELECTED,840,1488123352.37,shopping,LY
-5166,5166,18-24,1.0,Locals,Graduated,NOTSELECTED,110000,1488123352.37,shopping,LY
-5167,5167,25-44,1.0,Locals,Graduated,NOTSELECTED,250000,1488123352.37,shopping,LY
-5168,5168,45+,1.0,Locals,Graduated,NOTSELECTED,40000,1488123352.37,shopping,LY
-5169,5169,18-24,2.0,Locals,Graduated,NOTSELECTED,89000,1488123352.37,shopping,LY
-5170,5170,25-44,2.0,Locals,Graduated,NOTSELECTED,160000,1488123352.37,shopping,LY
-5171,5171,45+,2.0,Locals,Graduated,NOTSELECTED,20000,1488123352.37,shopping,LY
-5172,5172,18-24,1.0,Locals,No Degree,NOTSELECTED,120000,1488123352.37,shopping,LY
-5173,5173,25-44,1.0,Locals,No Degree,NOTSELECTED,250000,1488123352.37,shopping,LY
-5174,5174,45+,1.0,Locals,No Degree,NOTSELECTED,57000,1488123352.37,shopping,LY
-5175,5175,18-24,2.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,shopping,LY
-5176,5176,25-44,2.0,Locals,No Degree,NOTSELECTED,200000,1488123352.37,shopping,LY
-5177,5177,45+,2.0,Locals,No Degree,NOTSELECTED,49000,1488123352.37,shopping,LY
-5178,5178,18-24,1.0,Locals,High School,NOTSELECTED,62000,1488123352.37,shopping,LY
-5179,5179,25-44,1.0,Locals,High School,NOTSELECTED,59000,1488123352.37,shopping,LY
-5180,5180,45+,1.0,Locals,High School,NOTSELECTED,12000,1488123352.37,shopping,LY
-5181,5181,18-24,2.0,Locals,High School,NOTSELECTED,68000,1488123352.37,shopping,LY
-5182,5182,25-44,2.0,Locals,High School,NOTSELECTED,40000,1488123352.37,shopping,LY
-5183,5183,45+,2.0,Locals,High School,NOTSELECTED,6400,1488123352.37,shopping,LY
-5184,5184,18-24,1.0,Expats,Graduated,NOTSELECTED,130000,1488123352.37,shopping,MA
-5185,5185,25-44,1.0,Expats,Graduated,NOTSELECTED,120000,1488123352.37,shopping,MA
-5186,5186,45+,1.0,Expats,Graduated,NOTSELECTED,17000,1488123352.37,shopping,MA
-5187,5187,18-24,2.0,Expats,Graduated,NOTSELECTED,46000,1488123352.37,shopping,MA
-5188,5188,25-44,2.0,Expats,Graduated,NOTSELECTED,42000,1488123352.37,shopping,MA
-5189,5189,45+,2.0,Expats,Graduated,NOTSELECTED,6200,1488123352.37,shopping,MA
-5190,5190,18-24,1.0,Expats,No Degree,NOTSELECTED,65000,1488123352.37,shopping,MA
-5191,5191,25-44,1.0,Expats,No Degree,NOTSELECTED,94000,1488123352.37,shopping,MA
-5192,5192,45+,1.0,Expats,No Degree,NOTSELECTED,20000,1488123352.37,shopping,MA
-5193,5193,18-24,2.0,Expats,No Degree,NOTSELECTED,42000,1488123352.37,shopping,MA
-5194,5194,25-44,2.0,Expats,No Degree,NOTSELECTED,48000,1488123352.37,shopping,MA
-5195,5195,45+,2.0,Expats,No Degree,NOTSELECTED,9200,1488123352.37,shopping,MA
-5196,5196,18-24,1.0,Expats,High School,NOTSELECTED,46000,1488123352.37,shopping,MA
-5197,5197,25-44,1.0,Expats,High School,NOTSELECTED,31000,1488123352.37,shopping,MA
-5198,5198,45+,1.0,Expats,High School,NOTSELECTED,5700,1488123352.37,shopping,MA
-5199,5199,18-24,2.0,Expats,High School,NOTSELECTED,20000,1488123352.37,shopping,MA
-5200,5200,25-44,2.0,Expats,High School,NOTSELECTED,13000,1488123352.37,shopping,MA
-5201,5201,45+,2.0,Expats,High School,NOTSELECTED,2700,1488123352.37,shopping,MA
-5202,5202,18-24,1.0,Locals,Graduated,NOTSELECTED,800000,1488123352.37,shopping,MA
-5203,5203,25-44,1.0,Locals,Graduated,NOTSELECTED,930000,1488123352.37,shopping,MA
-5204,5204,45+,1.0,Locals,Graduated,NOTSELECTED,130000,1488123352.37,shopping,MA
-5205,5205,18-24,2.0,Locals,Graduated,NOTSELECTED,490000,1488123352.37,shopping,MA
-5206,5206,25-44,2.0,Locals,Graduated,NOTSELECTED,430000,1488123352.37,shopping,MA
-5207,5207,45+,2.0,Locals,Graduated,NOTSELECTED,53000,1488123352.37,shopping,MA
-5208,5208,18-24,1.0,Locals,No Degree,NOTSELECTED,940000,1488123352.37,shopping,MA
-5209,5209,25-44,1.0,Locals,No Degree,NOTSELECTED,1200000,1488123352.37,shopping,MA
-5210,5210,45+,1.0,Locals,No Degree,NOTSELECTED,260000,1488123352.37,shopping,MA
-5211,5211,18-24,2.0,Locals,No Degree,NOTSELECTED,700000,1488123352.37,shopping,MA
-5212,5212,25-44,2.0,Locals,No Degree,NOTSELECTED,620000,1488123352.37,shopping,MA
-5213,5213,45+,2.0,Locals,No Degree,NOTSELECTED,120000,1488123352.37,shopping,MA
-5214,5214,18-24,1.0,Locals,High School,NOTSELECTED,360000,1488123352.37,shopping,MA
-5215,5215,25-44,1.0,Locals,High School,NOTSELECTED,260000,1488123352.37,shopping,MA
-5216,5216,45+,1.0,Locals,High School,NOTSELECTED,46000,1488123352.37,shopping,MA
-5217,5217,18-24,2.0,Locals,High School,NOTSELECTED,260000,1488123352.37,shopping,MA
-5218,5218,25-44,2.0,Locals,High School,NOTSELECTED,130000,1488123352.37,shopping,MA
-5219,5219,45+,2.0,Locals,High School,NOTSELECTED,22000,1488123352.37,shopping,MA
-5220,5220,18-24,1.0,Expats,Graduated,NOTSELECTED,44000,1488123352.37,shopping,OM
-5221,5221,25-44,1.0,Expats,Graduated,NOTSELECTED,220000,1488123352.37,shopping,OM
-5222,5222,45+,1.0,Expats,Graduated,NOTSELECTED,25000,1488123352.37,shopping,OM
-5223,5223,18-24,2.0,Expats,Graduated,NOTSELECTED,9200,1488123352.37,shopping,OM
-5224,5224,25-44,2.0,Expats,Graduated,NOTSELECTED,53000,1488123352.37,shopping,OM
-5225,5225,45+,2.0,Expats,Graduated,NOTSELECTED,8000,1488123352.37,shopping,OM
-5226,5226,18-24,1.0,Expats,No Degree,NOTSELECTED,140000,1488123352.37,shopping,OM
-5227,5227,25-44,1.0,Expats,No Degree,NOTSELECTED,290000,1488123352.37,shopping,OM
-5228,5228,45+,1.0,Expats,No Degree,NOTSELECTED,31000,1488123352.37,shopping,OM
-5229,5229,18-24,2.0,Expats,No Degree,NOTSELECTED,32000,1488123352.37,shopping,OM
-5230,5230,25-44,2.0,Expats,No Degree,NOTSELECTED,50000,1488123352.37,shopping,OM
-5231,5231,45+,2.0,Expats,No Degree,NOTSELECTED,7400,1488123352.37,shopping,OM
-5232,5232,18-24,1.0,Expats,High School,NOTSELECTED,18000,1488123352.37,shopping,OM
-5233,5233,25-44,1.0,Expats,High School,NOTSELECTED,55000,1488123352.37,shopping,OM
-5234,5234,45+,1.0,Expats,High School,NOTSELECTED,7000,1488123352.37,shopping,OM
-5235,5235,18-24,2.0,Expats,High School,NOTSELECTED,6300,1488123352.37,shopping,OM
-5236,5236,25-44,2.0,Expats,High School,NOTSELECTED,14000,1488123352.37,shopping,OM
-5237,5237,45+,2.0,Expats,High School,NOTSELECTED,2200,1488123352.37,shopping,OM
-5238,5238,18-24,1.0,Locals,Graduated,NOTSELECTED,16000,1488123352.37,shopping,OM
-5239,5239,25-44,1.0,Locals,Graduated,NOTSELECTED,41000,1488123352.37,shopping,OM
-5240,5240,45+,1.0,Locals,Graduated,NOTSELECTED,2600,1488123352.37,shopping,OM
-5241,5241,18-24,2.0,Locals,Graduated,NOTSELECTED,4200,1488123352.37,shopping,OM
-5242,5242,25-44,2.0,Locals,Graduated,NOTSELECTED,9900,1488123352.37,shopping,OM
-5243,5243,45+,2.0,Locals,Graduated,NOTSELECTED,630,1488123352.37,shopping,OM
-5244,5244,18-24,1.0,Locals,No Degree,NOTSELECTED,32000,1488123352.37,shopping,OM
-5245,5245,25-44,1.0,Locals,No Degree,NOTSELECTED,48000,1488123352.37,shopping,OM
-5246,5246,45+,1.0,Locals,No Degree,NOTSELECTED,5600,1488123352.37,shopping,OM
-5247,5247,18-24,2.0,Locals,No Degree,NOTSELECTED,12000,1488123352.37,shopping,OM
-5248,5248,25-44,2.0,Locals,No Degree,NOTSELECTED,15000,1488123352.37,shopping,OM
-5249,5249,45+,2.0,Locals,No Degree,NOTSELECTED,1600,1488123352.37,shopping,OM
-5250,5250,18-24,1.0,Locals,High School,NOTSELECTED,9000,1488123352.37,shopping,OM
-5251,5251,25-44,1.0,Locals,High School,NOTSELECTED,12000,1488123352.37,shopping,OM
-5252,5252,45+,1.0,Locals,High School,NOTSELECTED,990,1488123352.37,shopping,OM
-5253,5253,18-24,2.0,Locals,High School,NOTSELECTED,3300,1488123352.37,shopping,OM
-5254,5254,25-44,2.0,Locals,High School,NOTSELECTED,2300,1488123352.37,shopping,OM
-5255,5255,45+,2.0,Locals,High School,NOTSELECTED,270,1488123352.37,shopping,OM
-5256,5256,18-24,1.0,Expats,Graduated,NOTSELECTED,100000,1488123352.37,shopping,QA
-5257,5257,25-44,1.0,Expats,Graduated,NOTSELECTED,480000,1488123352.37,shopping,QA
-5258,5258,45+,1.0,Expats,Graduated,NOTSELECTED,54000,1488123352.37,shopping,QA
-5259,5259,18-24,2.0,Expats,Graduated,NOTSELECTED,25000,1488123352.37,shopping,QA
-5260,5260,25-44,2.0,Expats,Graduated,NOTSELECTED,140000,1488123352.37,shopping,QA
-5261,5261,45+,2.0,Expats,Graduated,NOTSELECTED,16000,1488123352.37,shopping,QA
-5262,5262,18-24,1.0,Expats,No Degree,NOTSELECTED,200000,1488123352.37,shopping,QA
-5263,5263,25-44,1.0,Expats,No Degree,NOTSELECTED,400000,1488123352.37,shopping,QA
-5264,5264,45+,1.0,Expats,No Degree,NOTSELECTED,56000,1488123352.37,shopping,QA
-5265,5265,18-24,2.0,Expats,No Degree,NOTSELECTED,40000,1488123352.37,shopping,QA
-5266,5266,25-44,2.0,Expats,No Degree,NOTSELECTED,83000,1488123352.37,shopping,QA
-5267,5267,45+,2.0,Expats,No Degree,NOTSELECTED,15000,1488123352.37,shopping,QA
-5268,5268,18-24,1.0,Expats,High School,NOTSELECTED,42000,1488123352.37,shopping,QA
-5269,5269,25-44,1.0,Expats,High School,NOTSELECTED,120000,1488123352.37,shopping,QA
-5270,5270,45+,1.0,Expats,High School,NOTSELECTED,15000,1488123352.37,shopping,QA
-5271,5271,18-24,2.0,Expats,High School,NOTSELECTED,13000,1488123352.37,shopping,QA
-5272,5272,25-44,2.0,Expats,High School,NOTSELECTED,37000,1488123352.37,shopping,QA
-5273,5273,45+,2.0,Expats,High School,NOTSELECTED,4700,1488123352.37,shopping,QA
-5274,5274,18-24,1.0,Locals,Graduated,NOTSELECTED,6000,1488123352.37,shopping,QA
-5275,5275,25-44,1.0,Locals,Graduated,NOTSELECTED,18000,1488123352.37,shopping,QA
-5276,5276,45+,1.0,Locals,Graduated,NOTSELECTED,2200,1488123352.37,shopping,QA
-5277,5277,18-24,2.0,Locals,Graduated,NOTSELECTED,2900,1488123352.37,shopping,QA
-5278,5278,25-44,2.0,Locals,Graduated,NOTSELECTED,8200,1488123352.37,shopping,QA
-5279,5279,45+,2.0,Locals,Graduated,NOTSELECTED,1100,1488123352.37,shopping,QA
-5280,5280,18-24,1.0,Locals,No Degree,NOTSELECTED,16000,1488123352.37,shopping,QA
-5281,5281,25-44,1.0,Locals,No Degree,NOTSELECTED,27000,1488123352.37,shopping,QA
-5282,5282,45+,1.0,Locals,No Degree,NOTSELECTED,4300,1488123352.37,shopping,QA
-5283,5283,18-24,2.0,Locals,No Degree,NOTSELECTED,6600,1488123352.37,shopping,QA
-5284,5284,25-44,2.0,Locals,No Degree,NOTSELECTED,12000,1488123352.37,shopping,QA
-5285,5285,45+,2.0,Locals,No Degree,NOTSELECTED,2100,1488123352.37,shopping,QA
-5286,5286,18-24,1.0,Locals,High School,NOTSELECTED,2900,1488123352.37,shopping,QA
-5287,5287,25-44,1.0,Locals,High School,NOTSELECTED,5100,1488123352.37,shopping,QA
-5288,5288,45+,1.0,Locals,High School,NOTSELECTED,640,1488123352.37,shopping,QA
-5289,5289,18-24,2.0,Locals,High School,NOTSELECTED,2400,1488123352.37,shopping,QA
-5290,5290,25-44,2.0,Locals,High School,NOTSELECTED,2000,1488123352.37,shopping,QA
-5291,5291,45+,2.0,Locals,High School,NOTSELECTED,290,1488123352.37,shopping,QA
-5292,5292,18-24,1.0,Expats,Graduated,NOTSELECTED,330000,1488123352.37,shopping,SA
-5293,5293,25-44,1.0,Expats,Graduated,NOTSELECTED,1800000,1488123352.37,shopping,SA
-5294,5294,45+,1.0,Expats,Graduated,NOTSELECTED,210000,1488123352.37,shopping,SA
-5295,5295,18-24,2.0,Expats,Graduated,NOTSELECTED,78000,1488123352.37,shopping,SA
-5296,5296,25-44,2.0,Expats,Graduated,NOTSELECTED,400000,1488123352.37,shopping,SA
-5297,5297,45+,2.0,Expats,Graduated,NOTSELECTED,52000,1488123352.37,shopping,SA
-5298,5298,18-24,1.0,Expats,No Degree,NOTSELECTED,110000,1488123352.37,shopping,SA
-5299,5299,25-44,1.0,Expats,No Degree,NOTSELECTED,360000,1488123352.37,shopping,SA
-5300,5300,45+,1.0,Expats,No Degree,NOTSELECTED,57000,1488123352.37,shopping,SA
-5301,5301,18-24,2.0,Expats,No Degree,NOTSELECTED,46000,1488123352.37,shopping,SA
-5302,5302,25-44,2.0,Expats,No Degree,NOTSELECTED,110000,1488123352.37,shopping,SA
-5303,5303,45+,2.0,Expats,No Degree,NOTSELECTED,21000,1488123352.37,shopping,SA
-5304,5304,18-24,1.0,Expats,High School,NOTSELECTED,130000,1488123352.37,shopping,SA
-5305,5305,25-44,1.0,Expats,High School,NOTSELECTED,410000,1488123352.37,shopping,SA
-5306,5306,45+,1.0,Expats,High School,NOTSELECTED,53000,1488123352.37,shopping,SA
-5307,5307,18-24,2.0,Expats,High School,NOTSELECTED,49000,1488123352.37,shopping,SA
-5308,5308,25-44,2.0,Expats,High School,NOTSELECTED,110000,1488123352.37,shopping,SA
-5309,5309,45+,2.0,Expats,High School,NOTSELECTED,15000,1488123352.37,shopping,SA
-5310,5310,18-24,1.0,Locals,Graduated,NOTSELECTED,200000,1488123352.37,shopping,SA
-5311,5311,25-44,1.0,Locals,Graduated,NOTSELECTED,830000,1488123352.37,shopping,SA
-5312,5312,45+,1.0,Locals,Graduated,NOTSELECTED,100000,1488123352.37,shopping,SA
-5313,5313,18-24,2.0,Locals,Graduated,NOTSELECTED,80000,1488123352.37,shopping,SA
-5314,5314,25-44,2.0,Locals,Graduated,NOTSELECTED,240000,1488123352.37,shopping,SA
-5315,5315,45+,2.0,Locals,Graduated,NOTSELECTED,26000,1488123352.37,shopping,SA
-5316,5316,18-24,1.0,Locals,No Degree,NOTSELECTED,1300000,1488123352.37,shopping,SA
-5317,5317,25-44,1.0,Locals,No Degree,NOTSELECTED,2400000,1488123352.37,shopping,SA
-5318,5318,45+,1.0,Locals,No Degree,NOTSELECTED,380000,1488123352.37,shopping,SA
-5319,5319,18-24,2.0,Locals,No Degree,NOTSELECTED,440000,1488123352.37,shopping,SA
-5320,5320,25-44,2.0,Locals,No Degree,NOTSELECTED,550000,1488123352.37,shopping,SA
-5321,5321,45+,2.0,Locals,No Degree,NOTSELECTED,96000,1488123352.37,shopping,SA
-5322,5322,18-24,1.0,Locals,High School,NOTSELECTED,130000,1488123352.37,shopping,SA
-5323,5323,25-44,1.0,Locals,High School,NOTSELECTED,290000,1488123352.37,shopping,SA
-5324,5324,45+,1.0,Locals,High School,NOTSELECTED,38000,1488123352.37,shopping,SA
-5325,5325,18-24,2.0,Locals,High School,NOTSELECTED,69000,1488123352.37,shopping,SA
-5326,5326,25-44,2.0,Locals,High School,NOTSELECTED,80000,1488123352.37,shopping,SA
-5327,5327,45+,2.0,Locals,High School,NOTSELECTED,10000,1488123352.37,shopping,SA
-5328,5328,18-24,1.0,Expats,Graduated,NOTSELECTED,13000,1488123352.37,shopping,SO
-5329,5329,25-44,1.0,Expats,Graduated,NOTSELECTED,14000,1488123352.37,shopping,SO
-5330,5330,45+,1.0,Expats,Graduated,NOTSELECTED,1900,1488123352.37,shopping,SO
-5331,5331,18-24,2.0,Expats,Graduated,NOTSELECTED,5700,1488123352.37,shopping,SO
-5332,5332,25-44,2.0,Expats,Graduated,NOTSELECTED,3500,1488123352.37,shopping,SO
-5333,5333,45+,2.0,Expats,Graduated,NOTSELECTED,450,1488123352.37,shopping,SO
-5334,5334,18-24,1.0,Expats,No Degree,NOTSELECTED,4500,1488123352.37,shopping,SO
-5335,5335,25-44,1.0,Expats,No Degree,NOTSELECTED,7000,1488123352.37,shopping,SO
-5336,5336,45+,1.0,Expats,No Degree,NOTSELECTED,1200,1488123352.37,shopping,SO
-5337,5337,18-24,2.0,Expats,No Degree,NOTSELECTED,3200,1488123352.37,shopping,SO
-5338,5338,25-44,2.0,Expats,No Degree,NOTSELECTED,2100,1488123352.37,shopping,SO
-5339,5339,45+,2.0,Expats,No Degree,NOTSELECTED,250,1488123352.37,shopping,SO
-5340,5340,18-24,1.0,Expats,High School,NOTSELECTED,3500,1488123352.37,shopping,SO
-5341,5341,25-44,1.0,Expats,High School,NOTSELECTED,3000,1488123352.37,shopping,SO
-5342,5342,45+,1.0,Expats,High School,NOTSELECTED,480,1488123352.37,shopping,SO
-5343,5343,18-24,2.0,Expats,High School,NOTSELECTED,2200,1488123352.37,shopping,SO
-5344,5344,25-44,2.0,Expats,High School,NOTSELECTED,900,1488123352.37,shopping,SO
-5345,5345,45+,2.0,Expats,High School,NOTSELECTED,120,1488123352.37,shopping,SO
-5346,5346,18-24,1.0,Locals,Graduated,NOTSELECTED,37000,1488123352.37,shopping,SO
-5347,5347,25-44,1.0,Locals,Graduated,NOTSELECTED,40000,1488123352.37,shopping,SO
-5348,5348,45+,1.0,Locals,Graduated,NOTSELECTED,2900,1488123352.37,shopping,SO
-5349,5349,18-24,2.0,Locals,Graduated,NOTSELECTED,25000,1488123352.37,shopping,SO
-5350,5350,25-44,2.0,Locals,Graduated,NOTSELECTED,15000,1488123352.37,shopping,SO
-5351,5351,45+,2.0,Locals,Graduated,NOTSELECTED,1500,1488123352.37,shopping,SO
-5352,5352,18-24,1.0,Locals,No Degree,NOTSELECTED,66000,1488123352.37,shopping,SO
-5353,5353,25-44,1.0,Locals,No Degree,NOTSELECTED,45000,1488123352.37,shopping,SO
-5354,5354,45+,1.0,Locals,No Degree,NOTSELECTED,7400,1488123352.37,shopping,SO
-5355,5355,18-24,2.0,Locals,No Degree,NOTSELECTED,69000,1488123352.37,shopping,SO
-5356,5356,25-44,2.0,Locals,No Degree,NOTSELECTED,29000,1488123352.37,shopping,SO
-5357,5357,45+,2.0,Locals,No Degree,NOTSELECTED,2900,1488123352.37,shopping,SO
-5358,5358,18-24,1.0,Locals,High School,NOTSELECTED,14000,1488123352.37,shopping,SO
-5359,5359,25-44,1.0,Locals,High School,NOTSELECTED,8300,1488123352.37,shopping,SO
-5360,5360,45+,1.0,Locals,High School,NOTSELECTED,900,1488123352.37,shopping,SO
-5361,5361,18-24,2.0,Locals,High School,NOTSELECTED,10000,1488123352.37,shopping,SO
-5362,5362,25-44,2.0,Locals,High School,NOTSELECTED,3700,1488123352.37,shopping,SO
-5363,5363,45+,2.0,Locals,High School,NOTSELECTED,530,1488123352.37,shopping,SO
-5364,5364,18-24,1.0,Expats,Graduated,NOTSELECTED,46000,1488123352.37,shopping,TN
-5365,5365,25-44,1.0,Expats,Graduated,NOTSELECTED,57000,1488123352.37,shopping,TN
-5366,5366,45+,1.0,Expats,Graduated,NOTSELECTED,12000,1488123352.37,shopping,TN
-5367,5367,18-24,2.0,Expats,Graduated,NOTSELECTED,21000,1488123352.37,shopping,TN
-5368,5368,25-44,2.0,Expats,Graduated,NOTSELECTED,26000,1488123352.37,shopping,TN
-5369,5369,45+,2.0,Expats,Graduated,NOTSELECTED,5900,1488123352.37,shopping,TN
-5370,5370,18-24,1.0,Expats,No Degree,NOTSELECTED,27000,1488123352.37,shopping,TN
-5371,5371,25-44,1.0,Expats,No Degree,NOTSELECTED,47000,1488123352.37,shopping,TN
-5372,5372,45+,1.0,Expats,No Degree,NOTSELECTED,12000,1488123352.37,shopping,TN
-5373,5373,18-24,2.0,Expats,No Degree,NOTSELECTED,20000,1488123352.37,shopping,TN
-5374,5374,25-44,2.0,Expats,No Degree,NOTSELECTED,27000,1488123352.37,shopping,TN
-5375,5375,45+,2.0,Expats,No Degree,NOTSELECTED,6700,1488123352.37,shopping,TN
-5376,5376,18-24,1.0,Expats,High School,NOTSELECTED,20000,1488123352.37,shopping,TN
-5377,5377,25-44,1.0,Expats,High School,NOTSELECTED,16000,1488123352.37,shopping,TN
-5378,5378,45+,1.0,Expats,High School,NOTSELECTED,4100,1488123352.37,shopping,TN
-5379,5379,18-24,2.0,Expats,High School,NOTSELECTED,11000,1488123352.37,shopping,TN
-5380,5380,25-44,2.0,Expats,High School,NOTSELECTED,8300,1488123352.37,shopping,TN
-5381,5381,45+,2.0,Expats,High School,NOTSELECTED,2800,1488123352.37,shopping,TN
-5382,5382,18-24,1.0,Locals,Graduated,NOTSELECTED,250000,1488123352.37,shopping,TN
-5383,5383,25-44,1.0,Locals,Graduated,NOTSELECTED,490000,1488123352.37,shopping,TN
-5384,5384,45+,1.0,Locals,Graduated,NOTSELECTED,110000,1488123352.37,shopping,TN
-5385,5385,18-24,2.0,Locals,Graduated,NOTSELECTED,260000,1488123352.37,shopping,TN
-5386,5386,25-44,2.0,Locals,Graduated,NOTSELECTED,420000,1488123352.37,shopping,TN
-5387,5387,45+,2.0,Locals,Graduated,NOTSELECTED,53000,1488123352.37,shopping,TN
-5388,5388,18-24,1.0,Locals,No Degree,NOTSELECTED,310000,1488123352.37,shopping,TN
-5389,5389,25-44,1.0,Locals,No Degree,NOTSELECTED,520000,1488123352.37,shopping,TN
-5390,5390,45+,1.0,Locals,No Degree,NOTSELECTED,140000,1488123352.37,shopping,TN
-5391,5391,18-24,2.0,Locals,No Degree,NOTSELECTED,320000,1488123352.37,shopping,TN
-5392,5392,25-44,2.0,Locals,No Degree,NOTSELECTED,400000,1488123352.37,shopping,TN
-5393,5393,45+,2.0,Locals,No Degree,NOTSELECTED,100000,1488123352.37,shopping,TN
-5394,5394,18-24,1.0,Locals,High School,NOTSELECTED,130000,1488123352.37,shopping,TN
-5395,5395,25-44,1.0,Locals,High School,NOTSELECTED,160000,1488123352.37,shopping,TN
-5396,5396,45+,1.0,Locals,High School,NOTSELECTED,46000,1488123352.37,shopping,TN
-5397,5397,18-24,2.0,Locals,High School,NOTSELECTED,150000,1488123352.37,shopping,TN
-5398,5398,25-44,2.0,Locals,High School,NOTSELECTED,120000,1488123352.37,shopping,TN
-5399,5399,45+,2.0,Locals,High School,NOTSELECTED,30000,1488123352.37,shopping,TN
-5400,5400,18-24,1.0,Expats,Graduated,NOTSELECTED,340000,1488123352.37,shopping,AE
-5401,5401,25-44,1.0,Expats,Graduated,NOTSELECTED,1700000,1488123352.37,shopping,AE
-5402,5402,45+,1.0,Expats,Graduated,NOTSELECTED,180000,1488123352.37,shopping,AE
-5403,5403,18-24,2.0,Expats,Graduated,NOTSELECTED,110000,1488123352.37,shopping,AE
-5404,5404,25-44,2.0,Expats,Graduated,NOTSELECTED,660000,1488123352.37,shopping,AE
-5405,5405,45+,2.0,Expats,Graduated,NOTSELECTED,81000,1488123352.37,shopping,AE
-5406,5406,18-24,1.0,Expats,No Degree,NOTSELECTED,490000,1488123352.37,shopping,AE
-5407,5407,25-44,1.0,Expats,No Degree,NOTSELECTED,1200000,1488123352.37,shopping,AE
-5408,5408,45+,1.0,Expats,No Degree,NOTSELECTED,170000,1488123352.37,shopping,AE
-5409,5409,18-24,2.0,Expats,No Degree,NOTSELECTED,140000,1488123352.37,shopping,AE
-5410,5410,25-44,2.0,Expats,No Degree,NOTSELECTED,330000,1488123352.37,shopping,AE
-5411,5411,45+,2.0,Expats,No Degree,NOTSELECTED,69000,1488123352.37,shopping,AE
-5412,5412,18-24,1.0,Expats,High School,NOTSELECTED,130000,1488123352.37,shopping,AE
-5413,5413,25-44,1.0,Expats,High School,NOTSELECTED,380000,1488123352.37,shopping,AE
-5414,5414,45+,1.0,Expats,High School,NOTSELECTED,52000,1488123352.37,shopping,AE
-5415,5415,18-24,2.0,Expats,High School,NOTSELECTED,60000,1488123352.37,shopping,AE
-5416,5416,25-44,2.0,Expats,High School,NOTSELECTED,140000,1488123352.37,shopping,AE
-5417,5417,45+,2.0,Expats,High School,NOTSELECTED,24000,1488123352.37,shopping,AE
-5418,5418,18-24,1.0,Locals,Graduated,NOTSELECTED,25000,1488123352.37,shopping,AE
-5419,5419,25-44,1.0,Locals,Graduated,NOTSELECTED,75000,1488123352.37,shopping,AE
-5420,5420,45+,1.0,Locals,Graduated,NOTSELECTED,8300,1488123352.37,shopping,AE
-5421,5421,18-24,2.0,Locals,Graduated,NOTSELECTED,12000,1488123352.37,shopping,AE
-5422,5422,25-44,2.0,Locals,Graduated,NOTSELECTED,35000,1488123352.37,shopping,AE
-5423,5423,45+,2.0,Locals,Graduated,NOTSELECTED,4100,1488123352.37,shopping,AE
-5424,5424,18-24,1.0,Locals,No Degree,NOTSELECTED,63000,1488123352.37,shopping,AE
-5425,5425,25-44,1.0,Locals,No Degree,NOTSELECTED,110000,1488123352.37,shopping,AE
-5426,5426,45+,1.0,Locals,No Degree,NOTSELECTED,18000,1488123352.37,shopping,AE
-5427,5427,18-24,2.0,Locals,No Degree,NOTSELECTED,33000,1488123352.37,shopping,AE
-5428,5428,25-44,2.0,Locals,No Degree,NOTSELECTED,56000,1488123352.37,shopping,AE
-5429,5429,45+,2.0,Locals,No Degree,NOTSELECTED,8700,1488123352.37,shopping,AE
-5430,5430,18-24,1.0,Locals,High School,NOTSELECTED,13000,1488123352.37,shopping,AE
-5431,5431,25-44,1.0,Locals,High School,NOTSELECTED,19000,1488123352.37,shopping,AE
-5432,5432,45+,1.0,Locals,High School,NOTSELECTED,2800,1488123352.37,shopping,AE
-5433,5433,18-24,2.0,Locals,High School,NOTSELECTED,9300,1488123352.37,shopping,AE
-5434,5434,25-44,2.0,Locals,High School,NOTSELECTED,8500,1488123352.37,shopping,AE
-5435,5435,45+,2.0,Locals,High School,NOTSELECTED,1400,1488123352.37,shopping,AE
-5436,5436,18-24,1.0,Expats,Graduated,NOTSELECTED,13000,1488123352.37,shopping,YE
-5437,5437,25-44,1.0,Expats,Graduated,NOTSELECTED,24000,1488123352.37,shopping,YE
-5438,5438,45+,1.0,Expats,Graduated,NOTSELECTED,2400,1488123352.37,shopping,YE
-5439,5439,18-24,2.0,Expats,Graduated,NOTSELECTED,2800,1488123352.37,shopping,YE
-5440,5440,25-44,2.0,Expats,Graduated,NOTSELECTED,4300,1488123352.37,shopping,YE
-5441,5441,45+,2.0,Expats,Graduated,NOTSELECTED,500,1488123352.37,shopping,YE
-5442,5442,18-24,1.0,Expats,No Degree,NOTSELECTED,10000,1488123352.37,shopping,YE
-5443,5443,25-44,1.0,Expats,No Degree,NOTSELECTED,16000,1488123352.37,shopping,YE
-5444,5444,45+,1.0,Expats,No Degree,NOTSELECTED,1800,1488123352.37,shopping,YE
-5445,5445,18-24,2.0,Expats,No Degree,NOTSELECTED,6100,1488123352.37,shopping,YE
-5446,5446,25-44,2.0,Expats,No Degree,NOTSELECTED,5000,1488123352.37,shopping,YE
-5447,5447,45+,2.0,Expats,No Degree,NOTSELECTED,610,1488123352.37,shopping,YE
-5448,5448,18-24,1.0,Expats,High School,NOTSELECTED,6200,1488123352.37,shopping,YE
-5449,5449,25-44,1.0,Expats,High School,NOTSELECTED,6100,1488123352.37,shopping,YE
-5450,5450,45+,1.0,Expats,High School,NOTSELECTED,610,1488123352.37,shopping,YE
-5451,5451,18-24,2.0,Expats,High School,NOTSELECTED,2200,1488123352.37,shopping,YE
-5452,5452,25-44,2.0,Expats,High School,NOTSELECTED,1400,1488123352.37,shopping,YE
-5453,5453,45+,2.0,Expats,High School,NOTSELECTED,160,1488123352.37,shopping,YE
-5454,5454,18-24,1.0,Locals,Graduated,NOTSELECTED,93000,1488123352.37,shopping,YE
-5455,5455,25-44,1.0,Locals,Graduated,NOTSELECTED,190000,1488123352.37,shopping,YE
-5456,5456,45+,1.0,Locals,Graduated,NOTSELECTED,16000,1488123352.37,shopping,YE
-5457,5457,18-24,2.0,Locals,Graduated,NOTSELECTED,19000,1488123352.37,shopping,YE
-5458,5458,25-44,2.0,Locals,Graduated,NOTSELECTED,32000,1488123352.37,shopping,YE
-5459,5459,45+,2.0,Locals,Graduated,NOTSELECTED,1900,1488123352.37,shopping,YE
-5460,5460,18-24,1.0,Locals,No Degree,NOTSELECTED,150000,1488123352.37,shopping,YE
-5461,5461,25-44,1.0,Locals,No Degree,NOTSELECTED,190000,1488123352.37,shopping,YE
-5462,5462,45+,1.0,Locals,No Degree,NOTSELECTED,24000,1488123352.37,shopping,YE
-5463,5463,18-24,2.0,Locals,No Degree,NOTSELECTED,32000,1488123352.37,shopping,YE
-5464,5464,25-44,2.0,Locals,No Degree,NOTSELECTED,32000,1488123352.37,shopping,YE
-5465,5465,45+,2.0,Locals,No Degree,NOTSELECTED,4000,1488123352.37,shopping,YE
-5466,5466,18-24,1.0,Locals,High School,NOTSELECTED,61000,1488123352.37,shopping,YE
-5467,5467,25-44,1.0,Locals,High School,NOTSELECTED,57000,1488123352.37,shopping,YE
-5468,5468,45+,1.0,Locals,High School,NOTSELECTED,5100,1488123352.37,shopping,YE
-5469,5469,18-24,2.0,Locals,High School,NOTSELECTED,18000,1488123352.37,shopping,YE
-5470,5470,25-44,2.0,Locals,High School,NOTSELECTED,9300,1488123352.37,shopping,YE
-5471,5471,45+,2.0,Locals,High School,NOTSELECTED,730,1488123352.37,shopping,YE
-5472,5472,18-24,1.0,Expats,Graduated,NOTSELECTED,17000,1488123352.37,shopping,PS
-5473,5473,25-44,1.0,Expats,Graduated,NOTSELECTED,30000,1488123352.37,shopping,PS
-5474,5474,45+,1.0,Expats,Graduated,NOTSELECTED,4800,1488123352.37,shopping,PS
-5475,5475,18-24,2.0,Expats,Graduated,NOTSELECTED,14000,1488123352.37,shopping,PS
-5476,5476,25-44,2.0,Expats,Graduated,NOTSELECTED,21000,1488123352.37,shopping,PS
-5477,5477,45+,2.0,Expats,Graduated,NOTSELECTED,2900,1488123352.37,shopping,PS
-5478,5478,18-24,1.0,Expats,No Degree,NOTSELECTED,8800,1488123352.37,shopping,PS
-5479,5479,25-44,1.0,Expats,No Degree,NOTSELECTED,11000,1488123352.37,shopping,PS
-5480,5480,45+,1.0,Expats,No Degree,NOTSELECTED,3300,1488123352.37,shopping,PS
-5481,5481,18-24,2.0,Expats,No Degree,NOTSELECTED,10000,1488123352.37,shopping,PS
-5482,5482,25-44,2.0,Expats,No Degree,NOTSELECTED,12000,1488123352.37,shopping,PS
-5483,5483,45+,2.0,Expats,No Degree,NOTSELECTED,4100,1488123352.37,shopping,PS
-5484,5484,18-24,1.0,Expats,High School,NOTSELECTED,11000,1488123352.37,shopping,PS
-5485,5485,25-44,1.0,Expats,High School,NOTSELECTED,6400,1488123352.37,shopping,PS
-5486,5486,45+,1.0,Expats,High School,NOTSELECTED,1400,1488123352.37,shopping,PS
-5487,5487,18-24,2.0,Expats,High School,NOTSELECTED,12000,1488123352.37,shopping,PS
-5488,5488,25-44,2.0,Expats,High School,NOTSELECTED,5500,1488123352.37,shopping,PS
-5489,5489,45+,2.0,Expats,High School,NOTSELECTED,1300,1488123352.37,shopping,PS
-5490,5490,18-24,1.0,Locals,Graduated,NOTSELECTED,71000,1488123352.37,shopping,PS
-5491,5491,25-44,1.0,Locals,Graduated,NOTSELECTED,110000,1488123352.37,shopping,PS
-5492,5492,45+,1.0,Locals,Graduated,NOTSELECTED,17000,1488123352.37,shopping,PS
-5493,5493,18-24,2.0,Locals,Graduated,NOTSELECTED,63000,1488123352.37,shopping,PS
-5494,5494,25-44,2.0,Locals,Graduated,NOTSELECTED,83000,1488123352.37,shopping,PS
-5495,5495,45+,2.0,Locals,Graduated,NOTSELECTED,8300,1488123352.37,shopping,PS
-5496,5496,18-24,1.0,Locals,No Degree,NOTSELECTED,58000,1488123352.37,shopping,PS
-5497,5497,25-44,1.0,Locals,No Degree,NOTSELECTED,67000,1488123352.37,shopping,PS
-5498,5498,45+,1.0,Locals,No Degree,NOTSELECTED,22000,1488123352.37,shopping,PS
-5499,5499,18-24,2.0,Locals,No Degree,NOTSELECTED,56000,1488123352.37,shopping,PS
-5500,5500,25-44,2.0,Locals,No Degree,NOTSELECTED,65000,1488123352.37,shopping,PS
-5501,5501,45+,2.0,Locals,No Degree,NOTSELECTED,21000,1488123352.37,shopping,PS
-5502,5502,18-24,1.0,Locals,High School,NOTSELECTED,45000,1488123352.37,shopping,PS
-5503,5503,25-44,1.0,Locals,High School,NOTSELECTED,28000,1488123352.37,shopping,PS
-5504,5504,45+,1.0,Locals,High School,NOTSELECTED,5900,1488123352.37,shopping,PS
-5505,5505,18-24,2.0,Locals,High School,NOTSELECTED,53000,1488123352.37,shopping,PS
-5506,5506,25-44,2.0,Locals,High School,NOTSELECTED,24000,1488123352.37,shopping,PS
-5507,5507,45+,2.0,Locals,High School,NOTSELECTED,3800,1488123352.37,shopping,PS
+,Unnamed: 0.1,ages_ranges,genders,behavior,scholarities,audience,timestamp,topic,location
+3060,3060,18-24,1.0,Expats,Graduated,5900,1485789793.38,diabetes awareness,DZ
+3061,3061,25-44,1.0,Expats,Graduated,7300,1485789793.38,diabetes awareness,DZ
+3062,3062,45+,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,DZ
+3063,3063,18-24,2.0,Expats,Graduated,2600,1485789793.38,diabetes awareness,DZ
+3064,3064,25-44,2.0,Expats,Graduated,2500,1485789793.38,diabetes awareness,DZ
+3065,3065,45+,2.0,Expats,Graduated,720,1485789793.38,diabetes awareness,DZ
+3066,3066,18-24,1.0,Expats,No Degree,3900,1485789793.38,diabetes awareness,DZ
+3067,3067,25-44,1.0,Expats,No Degree,6700,1485789793.38,diabetes awareness,DZ
+3068,3068,45+,1.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,DZ
+3069,3069,18-24,2.0,Expats,No Degree,1900,1485789793.38,diabetes awareness,DZ
+3070,3070,25-44,2.0,Expats,No Degree,2900,1485789793.38,diabetes awareness,DZ
+3071,3071,45+,2.0,Expats,No Degree,930,1485789793.38,diabetes awareness,DZ
+3072,3072,18-24,1.0,Expats,High School,2100,1485789793.38,diabetes awareness,DZ
+3073,3073,25-44,1.0,Expats,High School,1800,1485789793.38,diabetes awareness,DZ
+3074,3074,45+,1.0,Expats,High School,480,1485789793.38,diabetes awareness,DZ
+3075,3075,18-24,2.0,Expats,High School,980,1485789793.38,diabetes awareness,DZ
+3076,3076,25-44,2.0,Expats,High School,450,1485789793.38,diabetes awareness,DZ
+3077,3077,45+,2.0,Expats,High School,240,1485789793.38,diabetes awareness,DZ
+3078,3078,18-24,1.0,Locals,Graduated,27000,1485789793.38,diabetes awareness,DZ
+3079,3079,25-44,1.0,Locals,Graduated,58000,1485789793.38,diabetes awareness,DZ
+3080,3080,45+,1.0,Locals,Graduated,12000,1485789793.38,diabetes awareness,DZ
+3081,3081,18-24,2.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,DZ
+3082,3082,25-44,2.0,Locals,Graduated,38000,1485789793.38,diabetes awareness,DZ
+3083,3083,45+,2.0,Locals,Graduated,6300,1485789793.38,diabetes awareness,DZ
+3084,3084,18-24,1.0,Locals,No Degree,36000,1485789793.38,diabetes awareness,DZ
+3085,3085,25-44,1.0,Locals,No Degree,80000,1485789793.38,diabetes awareness,DZ
+3086,3086,45+,1.0,Locals,No Degree,20000,1485789793.38,diabetes awareness,DZ
+3087,3087,18-24,2.0,Locals,No Degree,27000,1485789793.38,diabetes awareness,DZ
+3088,3088,25-44,2.0,Locals,No Degree,42000,1485789793.38,diabetes awareness,DZ
+3089,3089,45+,2.0,Locals,No Degree,11000,1485789793.38,diabetes awareness,DZ
+3090,3090,18-24,1.0,Locals,High School,13000,1485789793.38,diabetes awareness,DZ
+3091,3091,25-44,1.0,Locals,High School,17000,1485789793.38,diabetes awareness,DZ
+3092,3092,45+,1.0,Locals,High School,4300,1485789793.38,diabetes awareness,DZ
+3093,3093,18-24,2.0,Locals,High School,11000,1485789793.38,diabetes awareness,DZ
+3094,3094,25-44,2.0,Locals,High School,8600,1485789793.38,diabetes awareness,DZ
+3095,3095,45+,2.0,Locals,High School,2600,1485789793.38,diabetes awareness,DZ
+3096,3096,18-24,1.0,Expats,Graduated,650,1485789793.38,diabetes awareness,BH
+3097,3097,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,BH
+3098,3098,45+,1.0,Expats,Graduated,630,1485789793.38,diabetes awareness,BH
+3099,3099,18-24,2.0,Expats,Graduated,120,1485789793.38,diabetes awareness,BH
+3100,3100,25-44,2.0,Expats,Graduated,1600,1485789793.38,diabetes awareness,BH
+3101,3101,45+,2.0,Expats,Graduated,1000,1485789793.38,diabetes awareness,BH
+3102,3102,18-24,1.0,Expats,No Degree,580,1485789793.38,diabetes awareness,BH
+3103,3103,25-44,1.0,Expats,No Degree,1400,1485789793.38,diabetes awareness,BH
+3104,3104,45+,1.0,Expats,No Degree,450,1485789793.38,diabetes awareness,BH
+3105,3105,18-24,2.0,Expats,No Degree,130,1485789793.38,diabetes awareness,BH
+3106,3106,25-44,2.0,Expats,No Degree,640,1485789793.38,diabetes awareness,BH
+3107,3107,45+,2.0,Expats,No Degree,670,1485789793.38,diabetes awareness,BH
+3108,3108,18-24,1.0,Expats,High School,170,1485789793.38,diabetes awareness,BH
+3109,3109,25-44,1.0,Expats,High School,490,1485789793.38,diabetes awareness,BH
+3110,3110,45+,1.0,Expats,High School,170,1485789793.38,diabetes awareness,BH
+3111,3111,18-24,2.0,Expats,High School,60,1485789793.38,diabetes awareness,BH
+3112,3112,25-44,2.0,Expats,High School,580,1485789793.38,diabetes awareness,BH
+3113,3113,45+,2.0,Expats,High School,310,1485789793.38,diabetes awareness,BH
+3114,3114,18-24,1.0,Locals,Graduated,80,1485789793.38,diabetes awareness,BH
+3115,3115,25-44,1.0,Locals,Graduated,250,1485789793.38,diabetes awareness,BH
+3116,3116,45+,1.0,Locals,Graduated,110,1485789793.38,diabetes awareness,BH
+3117,3117,18-24,2.0,Locals,Graduated,70,1485789793.38,diabetes awareness,BH
+3118,3118,25-44,2.0,Locals,Graduated,240,1485789793.38,diabetes awareness,BH
+3119,3119,45+,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,BH
+3120,3120,18-24,1.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3121,3121,25-44,1.0,Locals,No Degree,160,1485789793.38,diabetes awareness,BH
+3122,3122,45+,1.0,Locals,No Degree,60,1485789793.38,diabetes awareness,BH
+3123,3123,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3124,3124,25-44,2.0,Locals,No Degree,160,1485789793.38,diabetes awareness,BH
+3125,3125,45+,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,BH
+3126,3126,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,BH
+3127,3127,25-44,1.0,Locals,High School,80,1485789793.38,diabetes awareness,BH
+3128,3128,45+,1.0,Locals,High School,30,1485789793.38,diabetes awareness,BH
+3129,3129,18-24,2.0,Locals,High School,50,1485789793.38,diabetes awareness,BH
+3130,3130,25-44,2.0,Locals,High School,40,1485789793.38,diabetes awareness,BH
+3131,3131,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,BH
+3132,3132,18-24,1.0,Expats,Graduated,3800,1485789793.38,diabetes awareness,EG
+3133,3133,25-44,1.0,Expats,Graduated,7700,1485789793.38,diabetes awareness,EG
+3134,3134,45+,1.0,Expats,Graduated,3300,1485789793.38,diabetes awareness,EG
+3135,3135,18-24,2.0,Expats,Graduated,1800,1485789793.38,diabetes awareness,EG
+3136,3136,25-44,2.0,Expats,Graduated,4200,1485789793.38,diabetes awareness,EG
+3137,3137,45+,2.0,Expats,Graduated,1600,1485789793.38,diabetes awareness,EG
+3138,3138,18-24,1.0,Expats,No Degree,2000,1485789793.38,diabetes awareness,EG
+3139,3139,25-44,1.0,Expats,No Degree,3400,1485789793.38,diabetes awareness,EG
+3140,3140,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,EG
+3141,3141,18-24,2.0,Expats,No Degree,800,1485789793.38,diabetes awareness,EG
+3142,3142,25-44,2.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,EG
+3143,3143,45+,2.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,EG
+3144,3144,18-24,1.0,Expats,High School,2400,1485789793.38,diabetes awareness,EG
+3145,3145,25-44,1.0,Expats,High School,1700,1485789793.38,diabetes awareness,EG
+3146,3146,45+,1.0,Expats,High School,880,1485789793.38,diabetes awareness,EG
+3147,3147,18-24,2.0,Expats,High School,1400,1485789793.38,diabetes awareness,EG
+3148,3148,25-44,2.0,Expats,High School,1100,1485789793.38,diabetes awareness,EG
+3149,3149,45+,2.0,Expats,High School,500,1485789793.38,diabetes awareness,EG
+3150,3150,18-24,1.0,Locals,Graduated,78000,1485789793.38,diabetes awareness,EG
+3151,3151,25-44,1.0,Locals,Graduated,150000,1485789793.38,diabetes awareness,EG
+3152,3152,45+,1.0,Locals,Graduated,65000,1485789793.38,diabetes awareness,EG
+3153,3153,18-24,2.0,Locals,Graduated,62000,1485789793.38,diabetes awareness,EG
+3154,3154,25-44,2.0,Locals,Graduated,120000,1485789793.38,diabetes awareness,EG
+3155,3155,45+,2.0,Locals,Graduated,38000,1485789793.38,diabetes awareness,EG
+3156,3156,18-24,1.0,Locals,No Degree,50000,1485789793.38,diabetes awareness,EG
+3157,3157,25-44,1.0,Locals,No Degree,93000,1485789793.38,diabetes awareness,EG
+3158,3158,45+,1.0,Locals,No Degree,70000,1485789793.38,diabetes awareness,EG
+3159,3159,18-24,2.0,Locals,No Degree,38000,1485789793.38,diabetes awareness,EG
+3160,3160,25-44,2.0,Locals,No Degree,76000,1485789793.38,diabetes awareness,EG
+3161,3161,45+,2.0,Locals,No Degree,59000,1485789793.38,diabetes awareness,EG
+3162,3162,18-24,1.0,Locals,High School,55000,1485789793.38,diabetes awareness,EG
+3163,3163,25-44,1.0,Locals,High School,34000,1485789793.38,diabetes awareness,EG
+3164,3164,45+,1.0,Locals,High School,17000,1485789793.38,diabetes awareness,EG
+3165,3165,18-24,2.0,Locals,High School,47000,1485789793.38,diabetes awareness,EG
+3166,3166,25-44,2.0,Locals,High School,23000,1485789793.38,diabetes awareness,EG
+3167,3167,45+,2.0,Locals,High School,8900,1485789793.38,diabetes awareness,EG
+3168,3168,18-24,1.0,Expats,Graduated,4300,1485789793.38,diabetes awareness,IQ
+3169,3169,25-44,1.0,Expats,Graduated,11000,1485789793.38,diabetes awareness,IQ
+3170,3170,45+,1.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,IQ
+3171,3171,18-24,2.0,Expats,Graduated,800,1485789793.38,diabetes awareness,IQ
+3172,3172,25-44,2.0,Expats,Graduated,2100,1485789793.38,diabetes awareness,IQ
+3173,3173,45+,2.0,Expats,Graduated,520,1485789793.38,diabetes awareness,IQ
+3174,3174,18-24,1.0,Expats,No Degree,4400,1485789793.38,diabetes awareness,IQ
+3175,3175,25-44,1.0,Expats,No Degree,7100,1485789793.38,diabetes awareness,IQ
+3176,3176,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,IQ
+3177,3177,18-24,2.0,Expats,No Degree,1500,1485789793.38,diabetes awareness,IQ
+3178,3178,25-44,2.0,Expats,No Degree,1900,1485789793.38,diabetes awareness,IQ
+3179,3179,45+,2.0,Expats,No Degree,760,1485789793.38,diabetes awareness,IQ
+3180,3180,18-24,1.0,Expats,High School,2300,1485789793.38,diabetes awareness,IQ
+3181,3181,25-44,1.0,Expats,High School,3100,1485789793.38,diabetes awareness,IQ
+3182,3182,45+,1.0,Expats,High School,950,1485789793.38,diabetes awareness,IQ
+3183,3183,18-24,2.0,Expats,High School,670,1485789793.38,diabetes awareness,IQ
+3184,3184,25-44,2.0,Expats,High School,540,1485789793.38,diabetes awareness,IQ
+3185,3185,45+,2.0,Expats,High School,160,1485789793.38,diabetes awareness,IQ
+3186,3186,18-24,1.0,Locals,Graduated,41000,1485789793.38,diabetes awareness,IQ
+3187,3187,25-44,1.0,Locals,Graduated,120000,1485789793.38,diabetes awareness,IQ
+3188,3188,45+,1.0,Locals,Graduated,37000,1485789793.38,diabetes awareness,IQ
+3189,3189,18-24,2.0,Locals,Graduated,11000,1485789793.38,diabetes awareness,IQ
+3190,3190,25-44,2.0,Locals,Graduated,28000,1485789793.38,diabetes awareness,IQ
+3191,3191,45+,2.0,Locals,Graduated,9700,1485789793.38,diabetes awareness,IQ
+3192,3192,18-24,1.0,Locals,No Degree,80000,1485789793.38,diabetes awareness,IQ
+3193,3193,25-44,1.0,Locals,No Degree,130000,1485789793.38,diabetes awareness,IQ
+3194,3194,45+,1.0,Locals,No Degree,62000,1485789793.38,diabetes awareness,IQ
+3195,3195,18-24,2.0,Locals,No Degree,28000,1485789793.38,diabetes awareness,IQ
+3196,3196,25-44,2.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,IQ
+3197,3197,45+,2.0,Locals,No Degree,21000,1485789793.38,diabetes awareness,IQ
+3198,3198,18-24,1.0,Locals,High School,26000,1485789793.38,diabetes awareness,IQ
+3199,3199,25-44,1.0,Locals,High School,36000,1485789793.38,diabetes awareness,IQ
+3200,3200,45+,1.0,Locals,High School,13000,1485789793.38,diabetes awareness,IQ
+3201,3201,18-24,2.0,Locals,High School,11000,1485789793.38,diabetes awareness,IQ
+3202,3202,25-44,2.0,Locals,High School,9600,1485789793.38,diabetes awareness,IQ
+3203,3203,45+,2.0,Locals,High School,3300,1485789793.38,diabetes awareness,IQ
+3204,3204,18-24,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,JO
+3205,3205,25-44,1.0,Expats,Graduated,8400,1485789793.38,diabetes awareness,JO
+3206,3206,45+,1.0,Expats,Graduated,2600,1485789793.38,diabetes awareness,JO
+3207,3207,18-24,2.0,Expats,Graduated,890,1485789793.38,diabetes awareness,JO
+3208,3208,25-44,2.0,Expats,Graduated,3900,1485789793.38,diabetes awareness,JO
+3209,3209,45+,2.0,Expats,Graduated,2100,1485789793.38,diabetes awareness,JO
+3210,3210,18-24,1.0,Expats,No Degree,2800,1485789793.38,diabetes awareness,JO
+3211,3211,25-44,1.0,Expats,No Degree,8900,1485789793.38,diabetes awareness,JO
+3212,3212,45+,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,JO
+3213,3213,18-24,2.0,Expats,No Degree,710,1485789793.38,diabetes awareness,JO
+3214,3214,25-44,2.0,Expats,No Degree,3300,1485789793.38,diabetes awareness,JO
+3215,3215,45+,2.0,Expats,No Degree,3400,1485789793.38,diabetes awareness,JO
+3216,3216,18-24,1.0,Expats,High School,1600,1485789793.38,diabetes awareness,JO
+3217,3217,25-44,1.0,Expats,High School,2700,1485789793.38,diabetes awareness,JO
+3218,3218,45+,1.0,Expats,High School,1000,1485789793.38,diabetes awareness,JO
+3219,3219,18-24,2.0,Expats,High School,970,1485789793.38,diabetes awareness,JO
+3220,3220,25-44,2.0,Expats,High School,1200,1485789793.38,diabetes awareness,JO
+3221,3221,45+,2.0,Expats,High School,850,1485789793.38,diabetes awareness,JO
+3222,3222,18-24,1.0,Locals,Graduated,7400,1485789793.38,diabetes awareness,JO
+3223,3223,25-44,1.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,JO
+3224,3224,45+,1.0,Locals,Graduated,9000,1485789793.38,diabetes awareness,JO
+3225,3225,18-24,2.0,Locals,Graduated,3400,1485789793.38,diabetes awareness,JO
+3226,3226,25-44,2.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,JO
+3227,3227,45+,2.0,Locals,Graduated,4400,1485789793.38,diabetes awareness,JO
+3228,3228,18-24,1.0,Locals,No Degree,10000,1485789793.38,diabetes awareness,JO
+3229,3229,25-44,1.0,Locals,No Degree,23000,1485789793.38,diabetes awareness,JO
+3230,3230,45+,1.0,Locals,No Degree,15000,1485789793.38,diabetes awareness,JO
+3231,3231,18-24,2.0,Locals,No Degree,4400,1485789793.38,diabetes awareness,JO
+3232,3232,25-44,2.0,Locals,No Degree,14000,1485789793.38,diabetes awareness,JO
+3233,3233,45+,2.0,Locals,No Degree,11000,1485789793.38,diabetes awareness,JO
+3234,3234,18-24,1.0,Locals,High School,5600,1485789793.38,diabetes awareness,JO
+3235,3235,25-44,1.0,Locals,High School,8800,1485789793.38,diabetes awareness,JO
+3236,3236,45+,1.0,Locals,High School,3800,1485789793.38,diabetes awareness,JO
+3237,3237,18-24,2.0,Locals,High School,3900,1485789793.38,diabetes awareness,JO
+3238,3238,25-44,2.0,Locals,High School,4500,1485789793.38,diabetes awareness,JO
+3239,3239,45+,2.0,Locals,High School,1800,1485789793.38,diabetes awareness,JO
+3240,3240,18-24,1.0,Expats,Graduated,1700,1485789793.38,diabetes awareness,KW
+3241,3241,25-44,1.0,Expats,Graduated,12000,1485789793.38,diabetes awareness,KW
+3242,3242,45+,1.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,KW
+3243,3243,18-24,2.0,Expats,Graduated,450,1485789793.38,diabetes awareness,KW
+3244,3244,25-44,2.0,Expats,Graduated,9100,1485789793.38,diabetes awareness,KW
+3245,3245,45+,2.0,Expats,Graduated,3200,1485789793.38,diabetes awareness,KW
+3246,3246,18-24,1.0,Expats,No Degree,3900,1485789793.38,diabetes awareness,KW
+3247,3247,25-44,1.0,Expats,No Degree,15000,1485789793.38,diabetes awareness,KW
+3248,3248,45+,1.0,Expats,No Degree,3700,1485789793.38,diabetes awareness,KW
+3249,3249,18-24,2.0,Expats,No Degree,620,1485789793.38,diabetes awareness,KW
+3250,3250,25-44,2.0,Expats,No Degree,5200,1485789793.38,diabetes awareness,KW
+3251,3251,45+,2.0,Expats,No Degree,2100,1485789793.38,diabetes awareness,KW
+3252,3252,18-24,1.0,Expats,High School,600,1485789793.38,diabetes awareness,KW
+3253,3253,25-44,1.0,Expats,High School,3700,1485789793.38,diabetes awareness,KW
+3254,3254,45+,1.0,Expats,High School,700,1485789793.38,diabetes awareness,KW
+3255,3255,18-24,2.0,Expats,High School,360,1485789793.38,diabetes awareness,KW
+3256,3256,25-44,2.0,Expats,High School,3100,1485789793.38,diabetes awareness,KW
+3257,3257,45+,2.0,Expats,High School,1200,1485789793.38,diabetes awareness,KW
+3258,3258,18-24,1.0,Locals,Graduated,60,1485789793.38,diabetes awareness,KW
+3259,3259,25-44,1.0,Locals,Graduated,380,1485789793.38,diabetes awareness,KW
+3260,3260,45+,1.0,Locals,Graduated,120,1485789793.38,diabetes awareness,KW
+3261,3261,18-24,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,KW
+3262,3262,25-44,2.0,Locals,Graduated,170,1485789793.38,diabetes awareness,KW
+3263,3263,45+,2.0,Locals,Graduated,110,1485789793.38,diabetes awareness,KW
+3264,3264,18-24,1.0,Locals,No Degree,40,1485789793.38,diabetes awareness,KW
+3265,3265,25-44,1.0,Locals,No Degree,500,1485789793.38,diabetes awareness,KW
+3266,3266,45+,1.0,Locals,No Degree,210,1485789793.38,diabetes awareness,KW
+3267,3267,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,KW
+3268,3268,25-44,2.0,Locals,No Degree,370,1485789793.38,diabetes awareness,KW
+3269,3269,45+,2.0,Locals,No Degree,120,1485789793.38,diabetes awareness,KW
+3270,3270,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3271,3271,25-44,1.0,Locals,High School,110,1485789793.38,diabetes awareness,KW
+3272,3272,45+,1.0,Locals,High School,70,1485789793.38,diabetes awareness,KW
+3273,3273,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3274,3274,25-44,2.0,Locals,High School,90,1485789793.38,diabetes awareness,KW
+3275,3275,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,KW
+3276,3276,18-24,1.0,Expats,Graduated,650,1485789793.38,diabetes awareness,LB
+3277,3277,25-44,1.0,Expats,Graduated,1400,1485789793.38,diabetes awareness,LB
+3278,3278,45+,1.0,Expats,Graduated,440,1485789793.38,diabetes awareness,LB
+3279,3279,18-24,2.0,Expats,Graduated,240,1485789793.38,diabetes awareness,LB
+3280,3280,25-44,2.0,Expats,Graduated,1000,1485789793.38,diabetes awareness,LB
+3281,3281,45+,2.0,Expats,Graduated,810,1485789793.38,diabetes awareness,LB
+3282,3282,18-24,1.0,Expats,No Degree,950,1485789793.38,diabetes awareness,LB
+3283,3283,25-44,1.0,Expats,No Degree,2300,1485789793.38,diabetes awareness,LB
+3284,3284,45+,1.0,Expats,No Degree,800,1485789793.38,diabetes awareness,LB
+3285,3285,18-24,2.0,Expats,No Degree,450,1485789793.38,diabetes awareness,LB
+3286,3286,25-44,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,LB
+3287,3287,45+,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,LB
+3288,3288,18-24,1.0,Expats,High School,330,1485789793.38,diabetes awareness,LB
+3289,3289,25-44,1.0,Expats,High School,630,1485789793.38,diabetes awareness,LB
+3290,3290,45+,1.0,Expats,High School,160,1485789793.38,diabetes awareness,LB
+3291,3291,18-24,2.0,Expats,High School,170,1485789793.38,diabetes awareness,LB
+3292,3292,25-44,2.0,Expats,High School,440,1485789793.38,diabetes awareness,LB
+3293,3293,45+,2.0,Expats,High School,300,1485789793.38,diabetes awareness,LB
+3294,3294,18-24,1.0,Locals,Graduated,960,1485789793.38,diabetes awareness,LB
+3295,3295,25-44,1.0,Locals,Graduated,2600,1485789793.38,diabetes awareness,LB
+3296,3296,45+,1.0,Locals,Graduated,1500,1485789793.38,diabetes awareness,LB
+3297,3297,18-24,2.0,Locals,Graduated,1600,1485789793.38,diabetes awareness,LB
+3298,3298,25-44,2.0,Locals,Graduated,4900,1485789793.38,diabetes awareness,LB
+3299,3299,45+,2.0,Locals,Graduated,3900,1485789793.38,diabetes awareness,LB
+3300,3300,18-24,1.0,Locals,No Degree,2000,1485789793.38,diabetes awareness,LB
+3301,3301,25-44,1.0,Locals,No Degree,3200,1485789793.38,diabetes awareness,LB
+3302,3302,45+,1.0,Locals,No Degree,3100,1485789793.38,diabetes awareness,LB
+3303,3303,18-24,2.0,Locals,No Degree,2100,1485789793.38,diabetes awareness,LB
+3304,3304,25-44,2.0,Locals,No Degree,5500,1485789793.38,diabetes awareness,LB
+3305,3305,45+,2.0,Locals,No Degree,8700,1485789793.38,diabetes awareness,LB
+3306,3306,18-24,1.0,Locals,High School,720,1485789793.38,diabetes awareness,LB
+3307,3307,25-44,1.0,Locals,High School,830,1485789793.38,diabetes awareness,LB
+3308,3308,45+,1.0,Locals,High School,600,1485789793.38,diabetes awareness,LB
+3309,3309,18-24,2.0,Locals,High School,1600,1485789793.38,diabetes awareness,LB
+3310,3310,25-44,2.0,Locals,High School,970,1485789793.38,diabetes awareness,LB
+3311,3311,45+,2.0,Locals,High School,1200,1485789793.38,diabetes awareness,LB
+3312,3312,18-24,1.0,Expats,Graduated,770,1485789793.38,diabetes awareness,LY
+3313,3313,25-44,1.0,Expats,Graduated,2500,1485789793.38,diabetes awareness,LY
+3314,3314,45+,1.0,Expats,Graduated,730,1485789793.38,diabetes awareness,LY
+3315,3315,18-24,2.0,Expats,Graduated,280,1485789793.38,diabetes awareness,LY
+3316,3316,25-44,2.0,Expats,Graduated,1100,1485789793.38,diabetes awareness,LY
+3317,3317,45+,2.0,Expats,Graduated,320,1485789793.38,diabetes awareness,LY
+3318,3318,18-24,1.0,Expats,No Degree,810,1485789793.38,diabetes awareness,LY
+3319,3319,25-44,1.0,Expats,No Degree,2500,1485789793.38,diabetes awareness,LY
+3320,3320,45+,1.0,Expats,No Degree,890,1485789793.38,diabetes awareness,LY
+3321,3321,18-24,2.0,Expats,No Degree,420,1485789793.38,diabetes awareness,LY
+3322,3322,25-44,2.0,Expats,No Degree,1100,1485789793.38,diabetes awareness,LY
+3323,3323,45+,2.0,Expats,No Degree,410,1485789793.38,diabetes awareness,LY
+3324,3324,18-24,1.0,Expats,High School,220,1485789793.38,diabetes awareness,LY
+3325,3325,25-44,1.0,Expats,High School,630,1485789793.38,diabetes awareness,LY
+3326,3326,45+,1.0,Expats,High School,200,1485789793.38,diabetes awareness,LY
+3327,3327,18-24,2.0,Expats,High School,190,1485789793.38,diabetes awareness,LY
+3328,3328,25-44,2.0,Expats,High School,290,1485789793.38,diabetes awareness,LY
+3329,3329,45+,2.0,Expats,High School,90,1485789793.38,diabetes awareness,LY
+3330,3330,18-24,1.0,Locals,Graduated,3600,1485789793.38,diabetes awareness,LY
+3331,3331,25-44,1.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,LY
+3332,3332,45+,1.0,Locals,Graduated,5000,1485789793.38,diabetes awareness,LY
+3333,3333,18-24,2.0,Locals,Graduated,4000,1485789793.38,diabetes awareness,LY
+3334,3334,25-44,2.0,Locals,Graduated,13000,1485789793.38,diabetes awareness,LY
+3335,3335,45+,2.0,Locals,Graduated,2300,1485789793.38,diabetes awareness,LY
+3336,3336,18-24,1.0,Locals,No Degree,3900,1485789793.38,diabetes awareness,LY
+3337,3337,25-44,1.0,Locals,No Degree,12000,1485789793.38,diabetes awareness,LY
+3338,3338,45+,1.0,Locals,No Degree,5900,1485789793.38,diabetes awareness,LY
+3339,3339,18-24,2.0,Locals,No Degree,3800,1485789793.38,diabetes awareness,LY
+3340,3340,25-44,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,LY
+3341,3341,45+,2.0,Locals,No Degree,6100,1485789793.38,diabetes awareness,LY
+3342,3342,18-24,1.0,Locals,High School,2100,1485789793.38,diabetes awareness,LY
+3343,3343,25-44,1.0,Locals,High School,3100,1485789793.38,diabetes awareness,LY
+3344,3344,45+,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,LY
+3345,3345,18-24,2.0,Locals,High School,2900,1485789793.38,diabetes awareness,LY
+3346,3346,25-44,2.0,Locals,High School,3200,1485789793.38,diabetes awareness,LY
+3347,3347,45+,2.0,Locals,High School,1000,1485789793.38,diabetes awareness,LY
+3348,3348,18-24,1.0,Expats,Graduated,2700,1485789793.38,diabetes awareness,MA
+3349,3349,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,MA
+3350,3350,45+,1.0,Expats,Graduated,810,1485789793.38,diabetes awareness,MA
+3351,3351,18-24,2.0,Expats,Graduated,930,1485789793.38,diabetes awareness,MA
+3352,3352,25-44,2.0,Expats,Graduated,1300,1485789793.38,diabetes awareness,MA
+3353,3353,45+,2.0,Expats,Graduated,410,1485789793.38,diabetes awareness,MA
+3354,3354,18-24,1.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,MA
+3355,3355,25-44,1.0,Expats,No Degree,1600,1485789793.38,diabetes awareness,MA
+3356,3356,45+,1.0,Expats,No Degree,650,1485789793.38,diabetes awareness,MA
+3357,3357,18-24,2.0,Expats,No Degree,540,1485789793.38,diabetes awareness,MA
+3358,3358,25-44,2.0,Expats,No Degree,1000,1485789793.38,diabetes awareness,MA
+3359,3359,45+,2.0,Expats,No Degree,360,1485789793.38,diabetes awareness,MA
+3360,3360,18-24,1.0,Expats,High School,940,1485789793.38,diabetes awareness,MA
+3361,3361,25-44,1.0,Expats,High School,570,1485789793.38,diabetes awareness,MA
+3362,3362,45+,1.0,Expats,High School,210,1485789793.38,diabetes awareness,MA
+3363,3363,18-24,2.0,Expats,High School,240,1485789793.38,diabetes awareness,MA
+3364,3364,25-44,2.0,Expats,High School,300,1485789793.38,diabetes awareness,MA
+3365,3365,45+,2.0,Expats,High School,90,1485789793.38,diabetes awareness,MA
+3366,3366,18-24,1.0,Locals,Graduated,17000,1485789793.38,diabetes awareness,MA
+3367,3367,25-44,1.0,Locals,Graduated,22000,1485789793.38,diabetes awareness,MA
+3368,3368,45+,1.0,Locals,Graduated,10000,1485789793.38,diabetes awareness,MA
+3369,3369,18-24,2.0,Locals,Graduated,12000,1485789793.38,diabetes awareness,MA
+3370,3370,25-44,2.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,MA
+3371,3371,45+,2.0,Locals,Graduated,3800,1485789793.38,diabetes awareness,MA
+3372,3372,18-24,1.0,Locals,No Degree,16000,1485789793.38,diabetes awareness,MA
+3373,3373,25-44,1.0,Locals,No Degree,23000,1485789793.38,diabetes awareness,MA
+3374,3374,45+,1.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,MA
+3375,3375,18-24,2.0,Locals,No Degree,10000,1485789793.38,diabetes awareness,MA
+3376,3376,25-44,2.0,Locals,No Degree,14000,1485789793.38,diabetes awareness,MA
+3377,3377,45+,2.0,Locals,No Degree,6200,1485789793.38,diabetes awareness,MA
+3378,3378,18-24,1.0,Locals,High School,7400,1485789793.38,diabetes awareness,MA
+3379,3379,25-44,1.0,Locals,High School,6400,1485789793.38,diabetes awareness,MA
+3380,3380,45+,1.0,Locals,High School,3300,1485789793.38,diabetes awareness,MA
+3381,3381,18-24,2.0,Locals,High School,5100,1485789793.38,diabetes awareness,MA
+3382,3382,25-44,2.0,Locals,High School,3700,1485789793.38,diabetes awareness,MA
+3383,3383,45+,2.0,Locals,High School,1400,1485789793.38,diabetes awareness,MA
+3384,3384,18-24,1.0,Expats,Graduated,870,1485789793.38,diabetes awareness,OM
+3385,3385,25-44,1.0,Expats,Graduated,4800,1485789793.38,diabetes awareness,OM
+3386,3386,45+,1.0,Expats,Graduated,1200,1485789793.38,diabetes awareness,OM
+3387,3387,18-24,2.0,Expats,Graduated,140,1485789793.38,diabetes awareness,OM
+3388,3388,25-44,2.0,Expats,Graduated,3900,1485789793.38,diabetes awareness,OM
+3389,3389,45+,2.0,Expats,Graduated,1400,1485789793.38,diabetes awareness,OM
+3390,3390,18-24,1.0,Expats,No Degree,1200,1485789793.38,diabetes awareness,OM
+3391,3391,25-44,1.0,Expats,No Degree,3200,1485789793.38,diabetes awareness,OM
+3392,3392,45+,1.0,Expats,No Degree,690,1485789793.38,diabetes awareness,OM
+3393,3393,18-24,2.0,Expats,No Degree,240,1485789793.38,diabetes awareness,OM
+3394,3394,25-44,2.0,Expats,No Degree,1500,1485789793.38,diabetes awareness,OM
+3395,3395,45+,2.0,Expats,No Degree,920,1485789793.38,diabetes awareness,OM
+3396,3396,18-24,1.0,Expats,High School,330,1485789793.38,diabetes awareness,OM
+3397,3397,25-44,1.0,Expats,High School,1100,1485789793.38,diabetes awareness,OM
+3398,3398,45+,1.0,Expats,High School,240,1485789793.38,diabetes awareness,OM
+3399,3399,18-24,2.0,Expats,High School,140,1485789793.38,diabetes awareness,OM
+3400,3400,25-44,2.0,Expats,High School,720,1485789793.38,diabetes awareness,OM
+3401,3401,45+,2.0,Expats,High School,340,1485789793.38,diabetes awareness,OM
+3402,3402,18-24,1.0,Locals,Graduated,120,1485789793.38,diabetes awareness,OM
+3403,3403,25-44,1.0,Locals,Graduated,550,1485789793.38,diabetes awareness,OM
+3404,3404,45+,1.0,Locals,Graduated,90,1485789793.38,diabetes awareness,OM
+3405,3405,18-24,2.0,Locals,Graduated,60,1485789793.38,diabetes awareness,OM
+3406,3406,25-44,2.0,Locals,Graduated,120,1485789793.38,diabetes awareness,OM
+3407,3407,45+,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,OM
+3408,3408,18-24,1.0,Locals,No Degree,100,1485789793.38,diabetes awareness,OM
+3409,3409,25-44,1.0,Locals,No Degree,370,1485789793.38,diabetes awareness,OM
+3410,3410,45+,1.0,Locals,No Degree,70,1485789793.38,diabetes awareness,OM
+3411,3411,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,OM
+3412,3412,25-44,2.0,Locals,No Degree,50,1485789793.38,diabetes awareness,OM
+3413,3413,45+,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,OM
+3414,3414,18-24,1.0,Locals,High School,100,1485789793.38,diabetes awareness,OM
+3415,3415,25-44,1.0,Locals,High School,220,1485789793.38,diabetes awareness,OM
+3416,3416,45+,1.0,Locals,High School,50,1485789793.38,diabetes awareness,OM
+3417,3417,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,OM
+3418,3418,25-44,2.0,Locals,High School,40,1485789793.38,diabetes awareness,OM
+3419,3419,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,OM
+3420,3420,18-24,1.0,Expats,Graduated,2300,1485789793.38,diabetes awareness,QA
+3421,3421,25-44,1.0,Expats,Graduated,13000,1485789793.38,diabetes awareness,QA
+3422,3422,45+,1.0,Expats,Graduated,3100,1485789793.38,diabetes awareness,QA
+3423,3423,18-24,2.0,Expats,Graduated,520,1485789793.38,diabetes awareness,QA
+3424,3424,25-44,2.0,Expats,Graduated,6900,1485789793.38,diabetes awareness,QA
+3425,3425,45+,2.0,Expats,Graduated,2000,1485789793.38,diabetes awareness,QA
+3426,3426,18-24,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,QA
+3427,3427,25-44,1.0,Expats,No Degree,9900,1485789793.38,diabetes awareness,QA
+3428,3428,45+,1.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,QA
+3429,3429,18-24,2.0,Expats,No Degree,530,1485789793.38,diabetes awareness,QA
+3430,3430,25-44,2.0,Expats,No Degree,2200,1485789793.38,diabetes awareness,QA
+3431,3431,45+,2.0,Expats,No Degree,1300,1485789793.38,diabetes awareness,QA
+3432,3432,18-24,1.0,Expats,High School,840,1485789793.38,diabetes awareness,QA
+3433,3433,25-44,1.0,Expats,High School,2900,1485789793.38,diabetes awareness,QA
+3434,3434,45+,1.0,Expats,High School,770,1485789793.38,diabetes awareness,QA
+3435,3435,18-24,2.0,Expats,High School,250,1485789793.38,diabetes awareness,QA
+3436,3436,25-44,2.0,Expats,High School,1700,1485789793.38,diabetes awareness,QA
+3437,3437,45+,2.0,Expats,High School,630,1485789793.38,diabetes awareness,QA
+3438,3438,18-24,1.0,Locals,Graduated,30,1485789793.38,diabetes awareness,QA
+3439,3439,25-44,1.0,Locals,Graduated,150,1485789793.38,diabetes awareness,QA
+3440,3440,45+,1.0,Locals,Graduated,20,1485789793.38,diabetes awareness,QA
+3441,3441,18-24,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,QA
+3442,3442,25-44,2.0,Locals,Graduated,90,1485789793.38,diabetes awareness,QA
+3443,3443,45+,2.0,Locals,Graduated,20,1485789793.38,diabetes awareness,QA
+3444,3444,18-24,1.0,Locals,No Degree,70,1485789793.38,diabetes awareness,QA
+3445,3445,25-44,1.0,Locals,No Degree,140,1485789793.38,diabetes awareness,QA
+3446,3446,45+,1.0,Locals,No Degree,60,1485789793.38,diabetes awareness,QA
+3447,3447,18-24,2.0,Locals,No Degree,20,1485789793.38,diabetes awareness,QA
+3448,3448,25-44,2.0,Locals,No Degree,50,1485789793.38,diabetes awareness,QA
+3449,3449,45+,2.0,Locals,No Degree,30,1485789793.38,diabetes awareness,QA
+3450,3450,18-24,1.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3451,3451,25-44,1.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3452,3452,45+,1.0,Locals,High School,30,1485789793.38,diabetes awareness,QA
+3453,3453,18-24,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3454,3454,25-44,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3455,3455,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,QA
+3456,3456,18-24,1.0,Expats,Graduated,14000,1485789793.38,diabetes awareness,SA
+3457,3457,25-44,1.0,Expats,Graduated,83000,1485789793.38,diabetes awareness,SA
+3458,3458,45+,1.0,Expats,Graduated,16000,1485789793.38,diabetes awareness,SA
+3459,3459,18-24,2.0,Expats,Graduated,3000,1485789793.38,diabetes awareness,SA
+3460,3460,25-44,2.0,Expats,Graduated,30000,1485789793.38,diabetes awareness,SA
+3461,3461,45+,2.0,Expats,Graduated,8300,1485789793.38,diabetes awareness,SA
+3462,3462,18-24,1.0,Expats,No Degree,4100,1485789793.38,diabetes awareness,SA
+3463,3463,25-44,1.0,Expats,No Degree,15000,1485789793.38,diabetes awareness,SA
+3464,3464,45+,1.0,Expats,No Degree,3600,1485789793.38,diabetes awareness,SA
+3465,3465,18-24,2.0,Expats,No Degree,1100,1485789793.38,diabetes awareness,SA
+3466,3466,25-44,2.0,Expats,No Degree,6500,1485789793.38,diabetes awareness,SA
+3467,3467,45+,2.0,Expats,No Degree,2100,1485789793.38,diabetes awareness,SA
+3468,3468,18-24,1.0,Expats,High School,4600,1485789793.38,diabetes awareness,SA
+3469,3469,25-44,1.0,Expats,High School,18000,1485789793.38,diabetes awareness,SA
+3470,3470,45+,1.0,Expats,High School,3800,1485789793.38,diabetes awareness,SA
+3471,3471,18-24,2.0,Expats,High School,2000,1485789793.38,diabetes awareness,SA
+3472,3472,25-44,2.0,Expats,High School,7600,1485789793.38,diabetes awareness,SA
+3473,3473,45+,2.0,Expats,High School,2400,1485789793.38,diabetes awareness,SA
+3474,3474,18-24,1.0,Locals,Graduated,5400,1485789793.38,diabetes awareness,SA
+3475,3475,25-44,1.0,Locals,Graduated,25000,1485789793.38,diabetes awareness,SA
+3476,3476,45+,1.0,Locals,Graduated,5400,1485789793.38,diabetes awareness,SA
+3477,3477,18-24,2.0,Locals,Graduated,1500,1485789793.38,diabetes awareness,SA
+3478,3478,25-44,2.0,Locals,Graduated,7800,1485789793.38,diabetes awareness,SA
+3479,3479,45+,2.0,Locals,Graduated,2200,1485789793.38,diabetes awareness,SA
+3480,3480,18-24,1.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,SA
+3481,3481,25-44,1.0,Locals,No Degree,89000,1485789793.38,diabetes awareness,SA
+3482,3482,45+,1.0,Locals,No Degree,17000,1485789793.38,diabetes awareness,SA
+3483,3483,18-24,2.0,Locals,No Degree,5500,1485789793.38,diabetes awareness,SA
+3484,3484,25-44,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,SA
+3485,3485,45+,2.0,Locals,No Degree,5000,1485789793.38,diabetes awareness,SA
+3486,3486,18-24,1.0,Locals,High School,3000,1485789793.38,diabetes awareness,SA
+3487,3487,25-44,1.0,Locals,High School,9500,1485789793.38,diabetes awareness,SA
+3488,3488,45+,1.0,Locals,High School,2400,1485789793.38,diabetes awareness,SA
+3489,3489,18-24,2.0,Locals,High School,880,1485789793.38,diabetes awareness,SA
+3490,3490,25-44,2.0,Locals,High School,2700,1485789793.38,diabetes awareness,SA
+3491,3491,45+,2.0,Locals,High School,770,1485789793.38,diabetes awareness,SA
+3492,3492,18-24,1.0,Expats,Graduated,380,1485789793.38,diabetes awareness,SO
+3493,3493,25-44,1.0,Expats,Graduated,270,1485789793.38,diabetes awareness,SO
+3494,3494,45+,1.0,Expats,Graduated,90,1485789793.38,diabetes awareness,SO
+3495,3495,18-24,2.0,Expats,Graduated,150,1485789793.38,diabetes awareness,SO
+3496,3496,25-44,2.0,Expats,Graduated,90,1485789793.38,diabetes awareness,SO
+3497,3497,45+,2.0,Expats,Graduated,20,1485789793.38,diabetes awareness,SO
+3498,3498,18-24,1.0,Expats,No Degree,140,1485789793.38,diabetes awareness,SO
+3499,3499,25-44,1.0,Expats,No Degree,80,1485789793.38,diabetes awareness,SO
+3500,3500,45+,1.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3501,3501,18-24,2.0,Expats,No Degree,60,1485789793.38,diabetes awareness,SO
+3502,3502,25-44,2.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3503,3503,45+,2.0,Expats,No Degree,20,1485789793.38,diabetes awareness,SO
+3504,3504,18-24,1.0,Expats,High School,130,1485789793.38,diabetes awareness,SO
+3505,3505,25-44,1.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3506,3506,45+,1.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3507,3507,18-24,2.0,Expats,High School,40,1485789793.38,diabetes awareness,SO
+3508,3508,25-44,2.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3509,3509,45+,2.0,Expats,High School,20,1485789793.38,diabetes awareness,SO
+3510,3510,18-24,1.0,Locals,Graduated,1200,1485789793.38,diabetes awareness,SO
+3511,3511,25-44,1.0,Locals,Graduated,1100,1485789793.38,diabetes awareness,SO
+3512,3512,45+,1.0,Locals,Graduated,50,1485789793.38,diabetes awareness,SO
+3513,3513,18-24,2.0,Locals,Graduated,900,1485789793.38,diabetes awareness,SO
+3514,3514,25-44,2.0,Locals,Graduated,470,1485789793.38,diabetes awareness,SO
+3515,3515,45+,2.0,Locals,Graduated,30,1485789793.38,diabetes awareness,SO
+3516,3516,18-24,1.0,Locals,No Degree,750,1485789793.38,diabetes awareness,SO
+3517,3517,25-44,1.0,Locals,No Degree,440,1485789793.38,diabetes awareness,SO
+3518,3518,45+,1.0,Locals,No Degree,50,1485789793.38,diabetes awareness,SO
+3519,3519,18-24,2.0,Locals,No Degree,910,1485789793.38,diabetes awareness,SO
+3520,3520,25-44,2.0,Locals,No Degree,450,1485789793.38,diabetes awareness,SO
+3521,3521,45+,2.0,Locals,No Degree,40,1485789793.38,diabetes awareness,SO
+3522,3522,18-24,1.0,Locals,High School,390,1485789793.38,diabetes awareness,SO
+3523,3523,25-44,1.0,Locals,High School,170,1485789793.38,diabetes awareness,SO
+3524,3524,45+,1.0,Locals,High School,20,1485789793.38,diabetes awareness,SO
+3525,3525,18-24,2.0,Locals,High School,380,1485789793.38,diabetes awareness,SO
+3526,3526,25-44,2.0,Locals,High School,80,1485789793.38,diabetes awareness,SO
+3527,3527,45+,2.0,Locals,High School,30,1485789793.38,diabetes awareness,SO
+3528,3528,18-24,1.0,Expats,Graduated,550,1485789793.38,diabetes awareness,TN
+3529,3529,25-44,1.0,Expats,Graduated,2400,1485789793.38,diabetes awareness,TN
+3530,3530,45+,1.0,Expats,Graduated,1300,1485789793.38,diabetes awareness,TN
+3531,3531,18-24,2.0,Expats,Graduated,430,1485789793.38,diabetes awareness,TN
+3532,3532,25-44,2.0,Expats,Graduated,1200,1485789793.38,diabetes awareness,TN
+3533,3533,45+,2.0,Expats,Graduated,590,1485789793.38,diabetes awareness,TN
+3534,3534,18-24,1.0,Expats,No Degree,360,1485789793.38,diabetes awareness,TN
+3535,3535,25-44,1.0,Expats,No Degree,1700,1485789793.38,diabetes awareness,TN
+3536,3536,45+,1.0,Expats,No Degree,990,1485789793.38,diabetes awareness,TN
+3537,3537,18-24,2.0,Expats,No Degree,200,1485789793.38,diabetes awareness,TN
+3538,3538,25-44,2.0,Expats,No Degree,1200,1485789793.38,diabetes awareness,TN
+3539,3539,45+,2.0,Expats,No Degree,650,1485789793.38,diabetes awareness,TN
+3540,3540,18-24,1.0,Expats,High School,260,1485789793.38,diabetes awareness,TN
+3541,3541,25-44,1.0,Expats,High School,750,1485789793.38,diabetes awareness,TN
+3542,3542,45+,1.0,Expats,High School,310,1485789793.38,diabetes awareness,TN
+3543,3543,18-24,2.0,Expats,High School,200,1485789793.38,diabetes awareness,TN
+3544,3544,25-44,2.0,Expats,High School,400,1485789793.38,diabetes awareness,TN
+3545,3545,45+,2.0,Expats,High School,140,1485789793.38,diabetes awareness,TN
+3546,3546,18-24,1.0,Locals,Graduated,3300,1485789793.38,diabetes awareness,TN
+3547,3547,25-44,1.0,Locals,Graduated,23000,1485789793.38,diabetes awareness,TN
+3548,3548,45+,1.0,Locals,Graduated,14000,1485789793.38,diabetes awareness,TN
+3549,3549,18-24,2.0,Locals,Graduated,7800,1485789793.38,diabetes awareness,TN
+3550,3550,25-44,2.0,Locals,Graduated,24000,1485789793.38,diabetes awareness,TN
+3551,3551,45+,2.0,Locals,Graduated,7100,1485789793.38,diabetes awareness,TN
+3552,3552,18-24,1.0,Locals,No Degree,2900,1485789793.38,diabetes awareness,TN
+3553,3553,25-44,1.0,Locals,No Degree,25000,1485789793.38,diabetes awareness,TN
+3554,3554,45+,1.0,Locals,No Degree,19000,1485789793.38,diabetes awareness,TN
+3555,3555,18-24,2.0,Locals,No Degree,4500,1485789793.38,diabetes awareness,TN
+3556,3556,25-44,2.0,Locals,No Degree,22000,1485789793.38,diabetes awareness,TN
+3557,3557,45+,2.0,Locals,No Degree,13000,1485789793.38,diabetes awareness,TN
+3558,3558,18-24,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,TN
+3559,3559,25-44,1.0,Locals,High School,8000,1485789793.38,diabetes awareness,TN
+3560,3560,45+,1.0,Locals,High School,6800,1485789793.38,diabetes awareness,TN
+3561,3561,18-24,2.0,Locals,High School,3200,1485789793.38,diabetes awareness,TN
+3562,3562,25-44,2.0,Locals,High School,6300,1485789793.38,diabetes awareness,TN
+3563,3563,45+,2.0,Locals,High School,4100,1485789793.38,diabetes awareness,TN
+3564,3564,18-24,1.0,Expats,Graduated,7500,1485789793.38,diabetes awareness,AE
+3565,3565,25-44,1.0,Expats,Graduated,38000,1485789793.38,diabetes awareness,AE
+3566,3566,45+,1.0,Expats,Graduated,7700,1485789793.38,diabetes awareness,AE
+3567,3567,18-24,2.0,Expats,Graduated,2800,1485789793.38,diabetes awareness,AE
+3568,3568,25-44,2.0,Expats,Graduated,35000,1485789793.38,diabetes awareness,AE
+3569,3569,45+,2.0,Expats,Graduated,10000,1485789793.38,diabetes awareness,AE
+3570,3570,18-24,1.0,Expats,No Degree,6400,1485789793.38,diabetes awareness,AE
+3571,3571,25-44,1.0,Expats,No Degree,17000,1485789793.38,diabetes awareness,AE
+3572,3572,45+,1.0,Expats,No Degree,3800,1485789793.38,diabetes awareness,AE
+3573,3573,18-24,2.0,Expats,No Degree,1600,1485789793.38,diabetes awareness,AE
+3574,3574,25-44,2.0,Expats,No Degree,9300,1485789793.38,diabetes awareness,AE
+3575,3575,45+,2.0,Expats,No Degree,5100,1485789793.38,diabetes awareness,AE
+3576,3576,18-24,1.0,Expats,High School,2600,1485789793.38,diabetes awareness,AE
+3577,3577,25-44,1.0,Expats,High School,7500,1485789793.38,diabetes awareness,AE
+3578,3578,45+,1.0,Expats,High School,1700,1485789793.38,diabetes awareness,AE
+3579,3579,18-24,2.0,Expats,High School,1300,1485789793.38,diabetes awareness,AE
+3580,3580,25-44,2.0,Expats,High School,6300,1485789793.38,diabetes awareness,AE
+3581,3581,45+,2.0,Expats,High School,2700,1485789793.38,diabetes awareness,AE
+3582,3582,18-24,1.0,Locals,Graduated,270,1485789793.38,diabetes awareness,AE
+3583,3583,25-44,1.0,Locals,Graduated,630,1485789793.38,diabetes awareness,AE
+3584,3584,45+,1.0,Locals,Graduated,180,1485789793.38,diabetes awareness,AE
+3585,3585,18-24,2.0,Locals,Graduated,110,1485789793.38,diabetes awareness,AE
+3586,3586,25-44,2.0,Locals,Graduated,590,1485789793.38,diabetes awareness,AE
+3587,3587,45+,2.0,Locals,Graduated,120,1485789793.38,diabetes awareness,AE
+3588,3588,18-24,1.0,Locals,No Degree,210,1485789793.38,diabetes awareness,AE
+3589,3589,25-44,1.0,Locals,No Degree,530,1485789793.38,diabetes awareness,AE
+3590,3590,45+,1.0,Locals,No Degree,140,1485789793.38,diabetes awareness,AE
+3591,3591,18-24,2.0,Locals,No Degree,100,1485789793.38,diabetes awareness,AE
+3592,3592,25-44,2.0,Locals,No Degree,350,1485789793.38,diabetes awareness,AE
+3593,3593,45+,2.0,Locals,No Degree,120,1485789793.38,diabetes awareness,AE
+3594,3594,18-24,1.0,Locals,High School,150,1485789793.38,diabetes awareness,AE
+3595,3595,25-44,1.0,Locals,High School,160,1485789793.38,diabetes awareness,AE
+3596,3596,45+,1.0,Locals,High School,50,1485789793.38,diabetes awareness,AE
+3597,3597,18-24,2.0,Locals,High School,90,1485789793.38,diabetes awareness,AE
+3598,3598,25-44,2.0,Locals,High School,110,1485789793.38,diabetes awareness,AE
+3599,3599,45+,2.0,Locals,High School,20,1485789793.38,diabetes awareness,AE
+3600,3600,18-24,1.0,Expats,Graduated,2200,1485789793.38,diabetes awareness,YE
+3601,3601,25-44,1.0,Expats,Graduated,4500,1485789793.38,diabetes awareness,YE
+3602,3602,45+,1.0,Expats,Graduated,540,1485789793.38,diabetes awareness,YE
+3603,3603,18-24,2.0,Expats,Graduated,360,1485789793.38,diabetes awareness,YE
+3604,3604,25-44,2.0,Expats,Graduated,640,1485789793.38,diabetes awareness,YE
+3605,3605,45+,2.0,Expats,Graduated,90,1485789793.38,diabetes awareness,YE
+3606,3606,18-24,1.0,Expats,No Degree,1400,1485789793.38,diabetes awareness,YE
+3607,3607,25-44,1.0,Expats,No Degree,1800,1485789793.38,diabetes awareness,YE
+3608,3608,45+,1.0,Expats,No Degree,180,1485789793.38,diabetes awareness,YE
+3609,3609,18-24,2.0,Expats,No Degree,600,1485789793.38,diabetes awareness,YE
+3610,3610,25-44,2.0,Expats,No Degree,540,1485789793.38,diabetes awareness,YE
+3611,3611,45+,2.0,Expats,No Degree,140,1485789793.38,diabetes awareness,YE
+3612,3612,18-24,1.0,Expats,High School,1200,1485789793.38,diabetes awareness,YE
+3613,3613,25-44,1.0,Expats,High School,1100,1485789793.38,diabetes awareness,YE
+3614,3614,45+,1.0,Expats,High School,150,1485789793.38,diabetes awareness,YE
+3615,3615,18-24,2.0,Expats,High School,270,1485789793.38,diabetes awareness,YE
+3616,3616,25-44,2.0,Expats,High School,180,1485789793.38,diabetes awareness,YE
+3617,3617,45+,2.0,Expats,High School,20,1485789793.38,diabetes awareness,YE
+3618,3618,18-24,1.0,Locals,Graduated,21000,1485789793.38,diabetes awareness,YE
+3619,3619,25-44,1.0,Locals,Graduated,49000,1485789793.38,diabetes awareness,YE
+3620,3620,45+,1.0,Locals,Graduated,4900,1485789793.38,diabetes awareness,YE
+3621,3621,18-24,2.0,Locals,Graduated,3100,1485789793.38,diabetes awareness,YE
+3622,3622,25-44,2.0,Locals,Graduated,6600,1485789793.38,diabetes awareness,YE
+3623,3623,45+,2.0,Locals,Graduated,570,1485789793.38,diabetes awareness,YE
+3624,3624,18-24,1.0,Locals,No Degree,28000,1485789793.38,diabetes awareness,YE
+3625,3625,25-44,1.0,Locals,No Degree,39000,1485789793.38,diabetes awareness,YE
+3626,3626,45+,1.0,Locals,No Degree,6000,1485789793.38,diabetes awareness,YE
+3627,3627,18-24,2.0,Locals,No Degree,4000,1485789793.38,diabetes awareness,YE
+3628,3628,25-44,2.0,Locals,No Degree,5300,1485789793.38,diabetes awareness,YE
+3629,3629,45+,2.0,Locals,No Degree,930,1485789793.38,diabetes awareness,YE
+3630,3630,18-24,1.0,Locals,High School,15000,1485789793.38,diabetes awareness,YE
+3631,3631,25-44,1.0,Locals,High School,14000,1485789793.38,diabetes awareness,YE
+3632,3632,45+,1.0,Locals,High School,1400,1485789793.38,diabetes awareness,YE
+3633,3633,18-24,2.0,Locals,High School,3100,1485789793.38,diabetes awareness,YE
+3634,3634,25-44,2.0,Locals,High School,1700,1485789793.38,diabetes awareness,YE
+3635,3635,45+,2.0,Locals,High School,200,1485789793.38,diabetes awareness,YE
+3636,3636,18-24,1.0,Expats,Graduated,390,1485789793.38,diabetes awareness,PS
+3637,3637,25-44,1.0,Expats,Graduated,700,1485789793.38,diabetes awareness,PS
+3638,3638,45+,1.0,Expats,Graduated,250,1485789793.38,diabetes awareness,PS
+3639,3639,18-24,2.0,Expats,Graduated,330,1485789793.38,diabetes awareness,PS
+3640,3640,25-44,2.0,Expats,Graduated,870,1485789793.38,diabetes awareness,PS
+3641,3641,45+,2.0,Expats,Graduated,180,1485789793.38,diabetes awareness,PS
+3642,3642,18-24,1.0,Expats,No Degree,150,1485789793.38,diabetes awareness,PS
+3643,3643,25-44,1.0,Expats,No Degree,230,1485789793.38,diabetes awareness,PS
+3644,3644,45+,1.0,Expats,No Degree,130,1485789793.38,diabetes awareness,PS
+3645,3645,18-24,2.0,Expats,No Degree,130,1485789793.38,diabetes awareness,PS
+3646,3646,25-44,2.0,Expats,No Degree,410,1485789793.38,diabetes awareness,PS
+3647,3647,45+,2.0,Expats,No Degree,240,1485789793.38,diabetes awareness,PS
+3648,3648,18-24,1.0,Expats,High School,80,1485789793.38,diabetes awareness,PS
+3649,3649,25-44,1.0,Expats,High School,160,1485789793.38,diabetes awareness,PS
+3650,3650,45+,1.0,Expats,High School,70,1485789793.38,diabetes awareness,PS
+3651,3651,18-24,2.0,Expats,High School,320,1485789793.38,diabetes awareness,PS
+3652,3652,25-44,2.0,Expats,High School,270,1485789793.38,diabetes awareness,PS
+3653,3653,45+,2.0,Expats,High School,80,1485789793.38,diabetes awareness,PS
+3654,3654,18-24,1.0,Locals,Graduated,1300,1485789793.38,diabetes awareness,PS
+3655,3655,25-44,1.0,Locals,Graduated,4000,1485789793.38,diabetes awareness,PS
+3656,3656,45+,1.0,Locals,Graduated,1100,1485789793.38,diabetes awareness,PS
+3657,3657,18-24,2.0,Locals,Graduated,1800,1485789793.38,diabetes awareness,PS
+3658,3658,25-44,2.0,Locals,Graduated,4600,1485789793.38,diabetes awareness,PS
+3659,3659,45+,2.0,Locals,Graduated,810,1485789793.38,diabetes awareness,PS
+3660,3660,18-24,1.0,Locals,No Degree,730,1485789793.38,diabetes awareness,PS
+3661,3661,25-44,1.0,Locals,No Degree,1700,1485789793.38,diabetes awareness,PS
+3662,3662,45+,1.0,Locals,No Degree,1200,1485789793.38,diabetes awareness,PS
+3663,3663,18-24,2.0,Locals,No Degree,1300,1485789793.38,diabetes awareness,PS
+3664,3664,25-44,2.0,Locals,No Degree,3700,1485789793.38,diabetes awareness,PS
+3665,3665,45+,2.0,Locals,No Degree,1400,1485789793.38,diabetes awareness,PS
+3666,3666,18-24,1.0,Locals,High School,730,1485789793.38,diabetes awareness,PS
+3667,3667,25-44,1.0,Locals,High School,940,1485789793.38,diabetes awareness,PS
+3668,3668,45+,1.0,Locals,High School,360,1485789793.38,diabetes awareness,PS
+3669,3669,18-24,2.0,Locals,High School,1500,1485789793.38,diabetes awareness,PS
+3670,3670,25-44,2.0,Locals,High School,1400,1485789793.38,diabetes awareness,PS
+3671,3671,45+,2.0,Locals,High School,270,1485789793.38,diabetes awareness,PS
+4896,4896,18-24,1.0,Expats,Graduated,150000,1485789793.38,shopping,DZ
+4897,4897,25-44,1.0,Expats,Graduated,160000,1485789793.38,shopping,DZ
+4898,4898,45+,1.0,Expats,Graduated,21000,1485789793.38,shopping,DZ
+4899,4899,18-24,2.0,Expats,Graduated,66000,1485789793.38,shopping,DZ
+4900,4900,25-44,2.0,Expats,Graduated,44000,1485789793.38,shopping,DZ
+4901,4901,45+,2.0,Expats,Graduated,7000,1485789793.38,shopping,DZ
+4902,4902,18-24,1.0,Expats,No Degree,120000,1485789793.38,shopping,DZ
+4903,4903,25-44,1.0,Expats,No Degree,180000,1485789793.38,shopping,DZ
+4904,4904,45+,1.0,Expats,No Degree,31000,1485789793.38,shopping,DZ
+4905,4905,18-24,2.0,Expats,No Degree,70000,1485789793.38,shopping,DZ
+4906,4906,25-44,2.0,Expats,No Degree,65000,1485789793.38,shopping,DZ
+4907,4907,45+,2.0,Expats,No Degree,11000,1485789793.38,shopping,DZ
+4908,4908,18-24,1.0,Expats,High School,58000,1485789793.38,shopping,DZ
+4909,4909,25-44,1.0,Expats,High School,39000,1485789793.38,shopping,DZ
+4910,4910,45+,1.0,Expats,High School,7200,1485789793.38,shopping,DZ
+4911,4911,18-24,2.0,Expats,High School,27000,1485789793.38,shopping,DZ
+4912,4912,25-44,2.0,Expats,High School,12000,1485789793.38,shopping,DZ
+4913,4913,45+,2.0,Expats,High School,2900,1485789793.38,shopping,DZ
+4914,4914,18-24,1.0,Locals,Graduated,710000,1485789793.38,shopping,DZ
+4915,4915,25-44,1.0,Locals,Graduated,1100000,1485789793.38,shopping,DZ
+4916,4916,45+,1.0,Locals,Graduated,120000,1485789793.38,shopping,DZ
+4917,4917,18-24,2.0,Locals,Graduated,540000,1485789793.38,shopping,DZ
+4918,4918,25-44,2.0,Locals,Graduated,550000,1485789793.38,shopping,DZ
+4919,4919,45+,2.0,Locals,Graduated,49000,1485789793.38,shopping,DZ
+4920,4920,18-24,1.0,Locals,No Degree,1100000,1485789793.38,shopping,DZ
+4921,4921,25-44,1.0,Locals,No Degree,1700000,1485789793.38,shopping,DZ
+4922,4922,45+,1.0,Locals,No Degree,250000,1485789793.38,shopping,DZ
+4923,4923,18-24,2.0,Locals,No Degree,970000,1485789793.38,shopping,DZ
+4924,4924,25-44,2.0,Locals,No Degree,830000,1485789793.38,shopping,DZ
+4925,4925,45+,2.0,Locals,No Degree,120000,1485789793.38,shopping,DZ
+4926,4926,18-24,1.0,Locals,High School,330000,1485789793.38,shopping,DZ
+4927,4927,25-44,1.0,Locals,High School,310000,1485789793.38,shopping,DZ
+4928,4928,45+,1.0,Locals,High School,46000,1485789793.38,shopping,DZ
+4929,4929,18-24,2.0,Locals,High School,270000,1485789793.38,shopping,DZ
+4930,4930,25-44,2.0,Locals,High School,130000,1485789793.38,shopping,DZ
+4931,4931,45+,2.0,Locals,High School,21000,1485789793.38,shopping,DZ
+4932,4932,18-24,1.0,Expats,Graduated,25000,1485789793.38,shopping,BH
+4933,4933,25-44,1.0,Expats,Graduated,120000,1485789793.38,shopping,BH
+4934,4934,45+,1.0,Expats,Graduated,18000,1485789793.38,shopping,BH
+4935,4935,18-24,2.0,Expats,Graduated,7100,1485789793.38,shopping,BH
+4936,4936,25-44,2.0,Expats,Graduated,47000,1485789793.38,shopping,BH
+4937,4937,45+,2.0,Expats,Graduated,8400,1485789793.38,shopping,BH
+4938,4938,18-24,1.0,Expats,No Degree,49000,1485789793.38,shopping,BH
+4939,4939,25-44,1.0,Expats,No Degree,140000,1485789793.38,shopping,BH
+4940,4940,45+,1.0,Expats,No Degree,24000,1485789793.38,shopping,BH
+4941,4941,18-24,2.0,Expats,No Degree,13000,1485789793.38,shopping,BH
+4942,4942,25-44,2.0,Expats,No Degree,34000,1485789793.38,shopping,BH
+4943,4943,45+,2.0,Expats,No Degree,8000,1485789793.38,shopping,BH
+4944,4944,18-24,1.0,Expats,High School,11000,1485789793.38,shopping,BH
+4945,4945,25-44,1.0,Expats,High School,35000,1485789793.38,shopping,BH
+4946,4946,45+,1.0,Expats,High School,5800,1485789793.38,shopping,BH
+4947,4947,18-24,2.0,Expats,High School,4800,1485789793.38,shopping,BH
+4948,4948,25-44,2.0,Expats,High School,14000,1485789793.38,shopping,BH
+4949,4949,45+,2.0,Expats,High School,2800,1485789793.38,shopping,BH
+4950,4950,18-24,1.0,Locals,Graduated,5500,1485789793.38,shopping,BH
+4951,4951,25-44,1.0,Locals,Graduated,18000,1485789793.38,shopping,BH
+4952,4952,45+,1.0,Locals,Graduated,3200,1485789793.38,shopping,BH
+4953,4953,18-24,2.0,Locals,Graduated,3900,1485789793.38,shopping,BH
+4954,4954,25-44,2.0,Locals,Graduated,12000,1485789793.38,shopping,BH
+4955,4955,45+,2.0,Locals,Graduated,1200,1485789793.38,shopping,BH
+4956,4956,18-24,1.0,Locals,No Degree,11000,1485789793.38,shopping,BH
+4957,4957,25-44,1.0,Locals,No Degree,20000,1485789793.38,shopping,BH
+4958,4958,45+,1.0,Locals,No Degree,5300,1485789793.38,shopping,BH
+4959,4959,18-24,2.0,Locals,No Degree,7200,1485789793.38,shopping,BH
+4960,4960,25-44,2.0,Locals,No Degree,13000,1485789793.38,shopping,BH
+4961,4961,45+,2.0,Locals,No Degree,2400,1485789793.38,shopping,BH
+4962,4962,18-24,1.0,Locals,High School,3900,1485789793.38,shopping,BH
+4963,4963,25-44,1.0,Locals,High School,5300,1485789793.38,shopping,BH
+4964,4964,45+,1.0,Locals,High School,990,1485789793.38,shopping,BH
+4965,4965,18-24,2.0,Locals,High School,4100,1485789793.38,shopping,BH
+4966,4966,25-44,2.0,Locals,High School,2900,1485789793.38,shopping,BH
+4967,4967,45+,2.0,Locals,High School,360,1485789793.38,shopping,BH
+4968,4968,18-24,1.0,Expats,Graduated,100000,1485789793.38,shopping,EG
+4969,4969,25-44,1.0,Expats,Graduated,190000,1485789793.38,shopping,EG
+4970,4970,45+,1.0,Expats,Graduated,33000,1485789793.38,shopping,EG
+4971,4971,18-24,2.0,Expats,Graduated,46000,1485789793.38,shopping,EG
+4972,4972,25-44,2.0,Expats,Graduated,79000,1485789793.38,shopping,EG
+4973,4973,45+,2.0,Expats,Graduated,14000,1485789793.38,shopping,EG
+4974,4974,18-24,1.0,Expats,No Degree,62000,1485789793.38,shopping,EG
+4975,4975,25-44,1.0,Expats,No Degree,100000,1485789793.38,shopping,EG
+4976,4976,45+,1.0,Expats,No Degree,25000,1485789793.38,shopping,EG
+4977,4977,18-24,2.0,Expats,No Degree,36000,1485789793.38,shopping,EG
+4978,4978,25-44,2.0,Expats,No Degree,50000,1485789793.38,shopping,EG
+4979,4979,45+,2.0,Expats,No Degree,15000,1485789793.38,shopping,EG
+4980,4980,18-24,1.0,Expats,High School,56000,1485789793.38,shopping,EG
+4981,4981,25-44,1.0,Expats,High School,44000,1485789793.38,shopping,EG
+4982,4982,45+,1.0,Expats,High School,8100,1485789793.38,shopping,EG
+4983,4983,18-24,2.0,Expats,High School,34000,1485789793.38,shopping,EG
+4984,4984,25-44,2.0,Expats,High School,20000,1485789793.38,shopping,EG
+4985,4985,45+,2.0,Expats,High School,4400,1485789793.38,shopping,EG
+4986,4986,18-24,1.0,Locals,Graduated,1800000,1485789793.38,shopping,EG
+4987,4987,25-44,1.0,Locals,Graduated,3200000,1485789793.38,shopping,EG
+4988,4988,45+,1.0,Locals,Graduated,520000,1485789793.38,shopping,EG
+4989,4989,18-24,2.0,Locals,Graduated,1300000,1485789793.38,shopping,EG
+4990,4990,25-44,2.0,Locals,Graduated,1800000,1485789793.38,shopping,EG
+4991,4991,45+,2.0,Locals,Graduated,250000,1485789793.38,shopping,EG
+4992,4992,18-24,1.0,Locals,No Degree,1600000,1485789793.38,shopping,EG
+4993,4993,25-44,1.0,Locals,No Degree,2500000,1485789793.38,shopping,EG
+4994,4994,45+,1.0,Locals,No Degree,730000,1485789793.38,shopping,EG
+4995,4995,18-24,2.0,Locals,No Degree,1100000,1485789793.38,shopping,EG
+4996,4996,25-44,2.0,Locals,No Degree,1400000,1485789793.38,shopping,EG
+4997,4997,45+,2.0,Locals,No Degree,450000,1485789793.38,shopping,EG
+4998,4998,18-24,1.0,Locals,High School,1100000,1485789793.38,shopping,EG
+4999,4999,25-44,1.0,Locals,High School,750000,1485789793.38,shopping,EG
+5000,5000,45+,1.0,Locals,High School,140000,1485789793.38,shopping,EG
+5001,5001,18-24,2.0,Locals,High School,900000,1485789793.38,shopping,EG
+5002,5002,25-44,2.0,Locals,High School,360000,1485789793.38,shopping,EG
+5003,5003,45+,2.0,Locals,High School,62000,1485789793.38,shopping,EG
+5004,5004,18-24,1.0,Expats,Graduated,76000,1485789793.38,shopping,IQ
+5005,5005,25-44,1.0,Expats,Graduated,150000,1485789793.38,shopping,IQ
+5006,5006,45+,1.0,Expats,Graduated,20000,1485789793.38,shopping,IQ
+5007,5007,18-24,2.0,Expats,Graduated,18000,1485789793.38,shopping,IQ
+5008,5008,25-44,2.0,Expats,Graduated,29000,1485789793.38,shopping,IQ
+5009,5009,45+,2.0,Expats,Graduated,3500,1485789793.38,shopping,IQ
+5010,5010,18-24,1.0,Expats,No Degree,72000,1485789793.38,shopping,IQ
+5011,5011,25-44,1.0,Expats,No Degree,100000,1485789793.38,shopping,IQ
+5012,5012,45+,1.0,Expats,No Degree,18000,1485789793.38,shopping,IQ
+5013,5013,18-24,2.0,Expats,No Degree,33000,1485789793.38,shopping,IQ
+5014,5014,25-44,2.0,Expats,No Degree,32000,1485789793.38,shopping,IQ
+5015,5015,45+,2.0,Expats,No Degree,5600,1485789793.38,shopping,IQ
+5016,5016,18-24,1.0,Expats,High School,38000,1485789793.38,shopping,IQ
+5017,5017,25-44,1.0,Expats,High School,43000,1485789793.38,shopping,IQ
+5018,5018,45+,1.0,Expats,High School,6000,1485789793.38,shopping,IQ
+5019,5019,18-24,2.0,Expats,High School,14000,1485789793.38,shopping,IQ
+5020,5020,25-44,2.0,Expats,High School,9600,1485789793.38,shopping,IQ
+5021,5021,45+,2.0,Expats,High School,1300,1485789793.38,shopping,IQ
+5022,5022,18-24,1.0,Locals,Graduated,730000,1485789793.38,shopping,IQ
+5023,5023,25-44,1.0,Locals,Graduated,1400000,1485789793.38,shopping,IQ
+5024,5024,45+,1.0,Locals,Graduated,200000,1485789793.38,shopping,IQ
+5025,5025,18-24,2.0,Locals,Graduated,230000,1485789793.38,shopping,IQ
+5026,5026,25-44,2.0,Locals,Graduated,350000,1485789793.38,shopping,IQ
+5027,5027,45+,2.0,Locals,Graduated,54000,1485789793.38,shopping,IQ
+5028,5028,18-24,1.0,Locals,No Degree,1400000,1485789793.38,shopping,IQ
+5029,5029,25-44,1.0,Locals,No Degree,1600000,1485789793.38,shopping,IQ
+5030,5030,45+,1.0,Locals,No Degree,370000,1485789793.38,shopping,IQ
+5031,5031,18-24,2.0,Locals,No Degree,590000,1485789793.38,shopping,IQ
+5032,5032,25-44,2.0,Locals,No Degree,560000,1485789793.38,shopping,IQ
+5033,5033,45+,2.0,Locals,No Degree,140000,1485789793.38,shopping,IQ
+5034,5034,18-24,1.0,Locals,High School,460000,1485789793.38,shopping,IQ
+5035,5035,25-44,1.0,Locals,High School,430000,1485789793.38,shopping,IQ
+5036,5036,45+,1.0,Locals,High School,68000,1485789793.38,shopping,IQ
+5037,5037,18-24,2.0,Locals,High School,220000,1485789793.38,shopping,IQ
+5038,5038,25-44,2.0,Locals,High School,120000,1485789793.38,shopping,IQ
+5039,5039,45+,2.0,Locals,High School,19000,1485789793.38,shopping,IQ
+5040,5040,18-24,1.0,Expats,Graduated,58000,1485789793.38,shopping,JO
+5041,5041,25-44,1.0,Expats,Graduated,130000,1485789793.38,shopping,JO
+5042,5042,45+,1.0,Expats,Graduated,21000,1485789793.38,shopping,JO
+5043,5043,18-24,2.0,Expats,Graduated,35000,1485789793.38,shopping,JO
+5044,5044,25-44,2.0,Expats,Graduated,75000,1485789793.38,shopping,JO
+5045,5045,45+,2.0,Expats,Graduated,16000,1485789793.38,shopping,JO
+5046,5046,18-24,1.0,Expats,No Degree,79000,1485789793.38,shopping,JO
+5047,5047,25-44,1.0,Expats,No Degree,130000,1485789793.38,shopping,JO
+5048,5048,45+,1.0,Expats,No Degree,29000,1485789793.38,shopping,JO
+5049,5049,18-24,2.0,Expats,No Degree,49000,1485789793.38,shopping,JO
+5050,5050,25-44,2.0,Expats,No Degree,66000,1485789793.38,shopping,JO
+5051,5051,45+,2.0,Expats,No Degree,25000,1485789793.38,shopping,JO
+5052,5052,18-24,1.0,Expats,High School,46000,1485789793.38,shopping,JO
+5053,5053,25-44,1.0,Expats,High School,41000,1485789793.38,shopping,JO
+5054,5054,45+,1.0,Expats,High School,7300,1485789793.38,shopping,JO
+5055,5055,18-24,2.0,Expats,High School,42000,1485789793.38,shopping,JO
+5056,5056,25-44,2.0,Expats,High School,25000,1485789793.38,shopping,JO
+5057,5057,45+,2.0,Expats,High School,6300,1485789793.38,shopping,JO
+5058,5058,18-24,1.0,Locals,Graduated,170000,1485789793.38,shopping,JO
+5059,5059,25-44,1.0,Locals,Graduated,330000,1485789793.38,shopping,JO
+5060,5060,45+,1.0,Locals,Graduated,65000,1485789793.38,shopping,JO
+5061,5061,18-24,2.0,Locals,Graduated,120000,1485789793.38,shopping,JO
+5062,5062,25-44,2.0,Locals,Graduated,220000,1485789793.38,shopping,JO
+5063,5063,45+,2.0,Locals,Graduated,34000,1485789793.38,shopping,JO
+5064,5064,18-24,1.0,Locals,No Degree,220000,1485789793.38,shopping,JO
+5065,5065,25-44,1.0,Locals,No Degree,290000,1485789793.38,shopping,JO
+5066,5066,45+,1.0,Locals,No Degree,110000,1485789793.38,shopping,JO
+5067,5067,18-24,2.0,Locals,No Degree,200000,1485789793.38,shopping,JO
+5068,5068,25-44,2.0,Locals,No Degree,250000,1485789793.38,shopping,JO
+5069,5069,45+,2.0,Locals,No Degree,90000,1485789793.38,shopping,JO
+5070,5070,18-24,1.0,Locals,High School,140000,1485789793.38,shopping,JO
+5071,5071,25-44,1.0,Locals,High School,110000,1485789793.38,shopping,JO
+5072,5072,45+,1.0,Locals,High School,26000,1485789793.38,shopping,JO
+5073,5073,18-24,2.0,Locals,High School,140000,1485789793.38,shopping,JO
+5074,5074,25-44,2.0,Locals,High School,70000,1485789793.38,shopping,JO
+5075,5075,45+,2.0,Locals,High School,14000,1485789793.38,shopping,JO
+5076,5076,18-24,1.0,Expats,Graduated,42000,1485789793.38,shopping,KW
+5077,5077,25-44,1.0,Expats,Graduated,350000,1485789793.38,shopping,KW
+5078,5078,45+,1.0,Expats,Graduated,52000,1485789793.38,shopping,KW
+5079,5079,18-24,2.0,Expats,Graduated,19000,1485789793.38,shopping,KW
+5080,5080,25-44,2.0,Expats,Graduated,160000,1485789793.38,shopping,KW
+5081,5081,45+,2.0,Expats,Graduated,22000,1485789793.38,shopping,KW
+5082,5082,18-24,1.0,Expats,No Degree,120000,1485789793.38,shopping,KW
+5083,5083,25-44,1.0,Expats,No Degree,400000,1485789793.38,shopping,KW
+5084,5084,45+,1.0,Expats,No Degree,84000,1485789793.38,shopping,KW
+5085,5085,18-24,2.0,Expats,No Degree,51000,1485789793.38,shopping,KW
+5086,5086,25-44,2.0,Expats,No Degree,140000,1485789793.38,shopping,KW
+5087,5087,45+,2.0,Expats,No Degree,29000,1485789793.38,shopping,KW
+5088,5088,18-24,1.0,Expats,High School,23000,1485789793.38,shopping,KW
+5089,5089,25-44,1.0,Expats,High School,100000,1485789793.38,shopping,KW
+5090,5090,45+,1.0,Expats,High School,17000,1485789793.38,shopping,KW
+5091,5091,18-24,2.0,Expats,High School,14000,1485789793.38,shopping,KW
+5092,5092,25-44,2.0,Expats,High School,59000,1485789793.38,shopping,KW
+5093,5093,45+,2.0,Expats,High School,8200,1485789793.38,shopping,KW
+5094,5094,18-24,1.0,Locals,Graduated,4800,1485789793.38,shopping,KW
+5095,5095,25-44,1.0,Locals,Graduated,23000,1485789793.38,shopping,KW
+5096,5096,45+,1.0,Locals,Graduated,4200,1485789793.38,shopping,KW
+5097,5097,18-24,2.0,Locals,Graduated,2500,1485789793.38,shopping,KW
+5098,5098,25-44,2.0,Locals,Graduated,13000,1485789793.38,shopping,KW
+5099,5099,45+,2.0,Locals,Graduated,1800,1485789793.38,shopping,KW
+5100,5100,18-24,1.0,Locals,No Degree,18000,1485789793.38,shopping,KW
+5101,5101,25-44,1.0,Locals,No Degree,40000,1485789793.38,shopping,KW
+5102,5102,45+,1.0,Locals,No Degree,8100,1485789793.38,shopping,KW
+5103,5103,18-24,2.0,Locals,No Degree,12000,1485789793.38,shopping,KW
+5104,5104,25-44,2.0,Locals,No Degree,23000,1485789793.38,shopping,KW
+5105,5105,45+,2.0,Locals,No Degree,4600,1485789793.38,shopping,KW
+5106,5106,18-24,1.0,Locals,High School,3100,1485789793.38,shopping,KW
+5107,5107,25-44,1.0,Locals,High School,6100,1485789793.38,shopping,KW
+5108,5108,45+,1.0,Locals,High School,1200,1485789793.38,shopping,KW
+5109,5109,18-24,2.0,Locals,High School,2600,1485789793.38,shopping,KW
+5110,5110,25-44,2.0,Locals,High School,3000,1485789793.38,shopping,KW
+5111,5111,45+,2.0,Locals,High School,420,1485789793.38,shopping,KW
+5112,5112,18-24,1.0,Expats,Graduated,36000,1485789793.38,shopping,LB
+5113,5113,25-44,1.0,Expats,Graduated,73000,1485789793.38,shopping,LB
+5114,5114,45+,1.0,Expats,Graduated,10000,1485789793.38,shopping,LB
+5115,5115,18-24,2.0,Expats,Graduated,15000,1485789793.38,shopping,LB
+5116,5116,25-44,2.0,Expats,Graduated,40000,1485789793.38,shopping,LB
+5117,5117,45+,2.0,Expats,Graduated,9000,1485789793.38,shopping,LB
+5118,5118,18-24,1.0,Expats,No Degree,79000,1485789793.38,shopping,LB
+5119,5119,25-44,1.0,Expats,No Degree,110000,1485789793.38,shopping,LB
+5120,5120,45+,1.0,Expats,No Degree,19000,1485789793.38,shopping,LB
+5121,5121,18-24,2.0,Expats,No Degree,43000,1485789793.38,shopping,LB
+5122,5122,25-44,2.0,Expats,No Degree,59000,1485789793.38,shopping,LB
+5123,5123,45+,2.0,Expats,No Degree,14000,1485789793.38,shopping,LB
+5124,5124,18-24,1.0,Expats,High School,22000,1485789793.38,shopping,LB
+5125,5125,25-44,1.0,Expats,High School,28000,1485789793.38,shopping,LB
+5126,5126,45+,1.0,Expats,High School,3700,1485789793.38,shopping,LB
+5127,5127,18-24,2.0,Expats,High School,12000,1485789793.38,shopping,LB
+5128,5128,25-44,2.0,Expats,High School,17000,1485789793.38,shopping,LB
+5129,5129,45+,2.0,Expats,High School,3700,1485789793.38,shopping,LB
+5130,5130,18-24,1.0,Locals,Graduated,67000,1485789793.38,shopping,LB
+5131,5131,25-44,1.0,Locals,Graduated,160000,1485789793.38,shopping,LB
+5132,5132,45+,1.0,Locals,Graduated,44000,1485789793.38,shopping,LB
+5133,5133,18-24,2.0,Locals,Graduated,66000,1485789793.38,shopping,LB
+5134,5134,25-44,2.0,Locals,Graduated,160000,1485789793.38,shopping,LB
+5135,5135,45+,2.0,Locals,Graduated,38000,1485789793.38,shopping,LB
+5136,5136,18-24,1.0,Locals,No Degree,140000,1485789793.38,shopping,LB
+5137,5137,25-44,1.0,Locals,No Degree,200000,1485789793.38,shopping,LB
+5138,5138,45+,1.0,Locals,No Degree,96000,1485789793.38,shopping,LB
+5139,5139,18-24,2.0,Locals,No Degree,120000,1485789793.38,shopping,LB
+5140,5140,25-44,2.0,Locals,No Degree,190000,1485789793.38,shopping,LB
+5141,5141,45+,2.0,Locals,No Degree,110000,1485789793.38,shopping,LB
+5142,5142,18-24,1.0,Locals,High School,55000,1485789793.38,shopping,LB
+5143,5143,25-44,1.0,Locals,High School,45000,1485789793.38,shopping,LB
+5144,5144,45+,1.0,Locals,High School,14000,1485789793.38,shopping,LB
+5145,5145,18-24,2.0,Locals,High School,67000,1485789793.38,shopping,LB
+5146,5146,25-44,2.0,Locals,High School,44000,1485789793.38,shopping,LB
+5147,5147,45+,2.0,Locals,High School,14000,1485789793.38,shopping,LB
+5148,5148,18-24,1.0,Expats,Graduated,21000,1485789793.38,shopping,LY
+5149,5149,25-44,1.0,Expats,Graduated,57000,1485789793.38,shopping,LY
+5150,5150,45+,1.0,Expats,Graduated,7400,1485789793.38,shopping,LY
+5151,5151,18-24,2.0,Expats,Graduated,6700,1485789793.38,shopping,LY
+5152,5152,25-44,2.0,Expats,Graduated,15000,1485789793.38,shopping,LY
+5153,5153,45+,2.0,Expats,Graduated,2900,1485789793.38,shopping,LY
+5154,5154,18-24,1.0,Expats,No Degree,33000,1485789793.38,shopping,LY
+5155,5155,25-44,1.0,Expats,No Degree,71000,1485789793.38,shopping,LY
+5156,5156,45+,1.0,Expats,No Degree,10000,1485789793.38,shopping,LY
+5157,5157,18-24,2.0,Expats,No Degree,9800,1485789793.38,shopping,LY
+5158,5158,25-44,2.0,Expats,No Degree,18000,1485789793.38,shopping,LY
+5159,5159,45+,2.0,Expats,No Degree,4200,1485789793.38,shopping,LY
+5160,5160,18-24,1.0,Expats,High School,8700,1485789793.38,shopping,LY
+5161,5161,25-44,1.0,Expats,High School,15000,1485789793.38,shopping,LY
+5162,5162,45+,1.0,Expats,High School,2200,1485789793.38,shopping,LY
+5163,5163,18-24,2.0,Expats,High School,4100,1485789793.38,shopping,LY
+5164,5164,25-44,2.0,Expats,High School,4100,1485789793.38,shopping,LY
+5165,5165,45+,2.0,Expats,High School,830,1485789793.38,shopping,LY
+5166,5166,18-24,1.0,Locals,Graduated,110000,1485789793.38,shopping,LY
+5167,5167,25-44,1.0,Locals,Graduated,240000,1485789793.38,shopping,LY
+5168,5168,45+,1.0,Locals,Graduated,39000,1485789793.38,shopping,LY
+5169,5169,18-24,2.0,Locals,Graduated,87000,1485789793.38,shopping,LY
+5170,5170,25-44,2.0,Locals,Graduated,150000,1485789793.38,shopping,LY
+5171,5171,45+,2.0,Locals,Graduated,19000,1485789793.38,shopping,LY
+5172,5172,18-24,1.0,Locals,No Degree,110000,1485789793.38,shopping,LY
+5173,5173,25-44,1.0,Locals,No Degree,230000,1485789793.38,shopping,LY
+5174,5174,45+,1.0,Locals,No Degree,54000,1485789793.38,shopping,LY
+5175,5175,18-24,2.0,Locals,No Degree,100000,1485789793.38,shopping,LY
+5176,5176,25-44,2.0,Locals,No Degree,190000,1485789793.38,shopping,LY
+5177,5177,45+,2.0,Locals,No Degree,47000,1485789793.38,shopping,LY
+5178,5178,18-24,1.0,Locals,High School,60000,1485789793.38,shopping,LY
+5179,5179,25-44,1.0,Locals,High School,56000,1485789793.38,shopping,LY
+5180,5180,45+,1.0,Locals,High School,12000,1485789793.38,shopping,LY
+5181,5181,18-24,2.0,Locals,High School,65000,1485789793.38,shopping,LY
+5182,5182,25-44,2.0,Locals,High School,38000,1485789793.38,shopping,LY
+5183,5183,45+,2.0,Locals,High School,6200,1485789793.38,shopping,LY
+5184,5184,18-24,1.0,Expats,Graduated,120000,1485789793.38,shopping,MA
+5185,5185,25-44,1.0,Expats,Graduated,110000,1485789793.38,shopping,MA
+5186,5186,45+,1.0,Expats,Graduated,16000,1485789793.38,shopping,MA
+5187,5187,18-24,2.0,Expats,Graduated,46000,1485789793.38,shopping,MA
+5188,5188,25-44,2.0,Expats,Graduated,41000,1485789793.38,shopping,MA
+5189,5189,45+,2.0,Expats,Graduated,6100,1485789793.38,shopping,MA
+5190,5190,18-24,1.0,Expats,No Degree,62000,1485789793.38,shopping,MA
+5191,5191,25-44,1.0,Expats,No Degree,91000,1485789793.38,shopping,MA
+5192,5192,45+,1.0,Expats,No Degree,20000,1485789793.38,shopping,MA
+5193,5193,18-24,2.0,Expats,No Degree,41000,1485789793.38,shopping,MA
+5194,5194,25-44,2.0,Expats,No Degree,47000,1485789793.38,shopping,MA
+5195,5195,45+,2.0,Expats,No Degree,8400,1485789793.38,shopping,MA
+5196,5196,18-24,1.0,Expats,High School,45000,1485789793.38,shopping,MA
+5197,5197,25-44,1.0,Expats,High School,29000,1485789793.38,shopping,MA
+5198,5198,45+,1.0,Expats,High School,5400,1485789793.38,shopping,MA
+5199,5199,18-24,2.0,Expats,High School,20000,1485789793.38,shopping,MA
+5200,5200,25-44,2.0,Expats,High School,13000,1485789793.38,shopping,MA
+5201,5201,45+,2.0,Expats,High School,2500,1485789793.38,shopping,MA
+5202,5202,18-24,1.0,Locals,Graduated,800000,1485789793.38,shopping,MA
+5203,5203,25-44,1.0,Locals,Graduated,910000,1485789793.38,shopping,MA
+5204,5204,45+,1.0,Locals,Graduated,130000,1485789793.38,shopping,MA
+5205,5205,18-24,2.0,Locals,Graduated,490000,1485789793.38,shopping,MA
+5206,5206,25-44,2.0,Locals,Graduated,420000,1485789793.38,shopping,MA
+5207,5207,45+,2.0,Locals,Graduated,53000,1485789793.38,shopping,MA
+5208,5208,18-24,1.0,Locals,No Degree,890000,1485789793.38,shopping,MA
+5209,5209,25-44,1.0,Locals,No Degree,1200000,1485789793.38,shopping,MA
+5210,5210,45+,1.0,Locals,No Degree,250000,1485789793.38,shopping,MA
+5211,5211,18-24,2.0,Locals,No Degree,680000,1485789793.38,shopping,MA
+5212,5212,25-44,2.0,Locals,No Degree,590000,1485789793.38,shopping,MA
+5213,5213,45+,2.0,Locals,No Degree,110000,1485789793.38,shopping,MA
+5214,5214,18-24,1.0,Locals,High School,350000,1485789793.38,shopping,MA
+5215,5215,25-44,1.0,Locals,High School,260000,1485789793.38,shopping,MA
+5216,5216,45+,1.0,Locals,High School,45000,1485789793.38,shopping,MA
+5217,5217,18-24,2.0,Locals,High School,260000,1485789793.38,shopping,MA
+5218,5218,25-44,2.0,Locals,High School,130000,1485789793.38,shopping,MA
+5219,5219,45+,2.0,Locals,High School,22000,1485789793.38,shopping,MA
+5220,5220,18-24,1.0,Expats,Graduated,45000,1485789793.38,shopping,OM
+5221,5221,25-44,1.0,Expats,Graduated,220000,1485789793.38,shopping,OM
+5222,5222,45+,1.0,Expats,Graduated,25000,1485789793.38,shopping,OM
+5223,5223,18-24,2.0,Expats,Graduated,9300,1485789793.38,shopping,OM
+5224,5224,25-44,2.0,Expats,Graduated,54000,1485789793.38,shopping,OM
+5225,5225,45+,2.0,Expats,Graduated,8000,1485789793.38,shopping,OM
+5226,5226,18-24,1.0,Expats,No Degree,140000,1485789793.38,shopping,OM
+5227,5227,25-44,1.0,Expats,No Degree,280000,1485789793.38,shopping,OM
+5228,5228,45+,1.0,Expats,No Degree,31000,1485789793.38,shopping,OM
+5229,5229,18-24,2.0,Expats,No Degree,32000,1485789793.38,shopping,OM
+5230,5230,25-44,2.0,Expats,No Degree,49000,1485789793.38,shopping,OM
+5231,5231,45+,2.0,Expats,No Degree,7200,1485789793.38,shopping,OM
+5232,5232,18-24,1.0,Expats,High School,18000,1485789793.38,shopping,OM
+5233,5233,25-44,1.0,Expats,High School,54000,1485789793.38,shopping,OM
+5234,5234,45+,1.0,Expats,High School,6800,1485789793.38,shopping,OM
+5235,5235,18-24,2.0,Expats,High School,6300,1485789793.38,shopping,OM
+5236,5236,25-44,2.0,Expats,High School,14000,1485789793.38,shopping,OM
+5237,5237,45+,2.0,Expats,High School,2200,1485789793.38,shopping,OM
+5238,5238,18-24,1.0,Locals,Graduated,15000,1485789793.38,shopping,OM
+5239,5239,25-44,1.0,Locals,Graduated,38000,1485789793.38,shopping,OM
+5240,5240,45+,1.0,Locals,Graduated,2200,1485789793.38,shopping,OM
+5241,5241,18-24,2.0,Locals,Graduated,4000,1485789793.38,shopping,OM
+5242,5242,25-44,2.0,Locals,Graduated,8600,1485789793.38,shopping,OM
+5243,5243,45+,2.0,Locals,Graduated,450,1485789793.38,shopping,OM
+5244,5244,18-24,1.0,Locals,No Degree,27000,1485789793.38,shopping,OM
+5245,5245,25-44,1.0,Locals,No Degree,39000,1485789793.38,shopping,OM
+5246,5246,45+,1.0,Locals,No Degree,4600,1485789793.38,shopping,OM
+5247,5247,18-24,2.0,Locals,No Degree,10000,1485789793.38,shopping,OM
+5248,5248,25-44,2.0,Locals,No Degree,13000,1485789793.38,shopping,OM
+5249,5249,45+,2.0,Locals,No Degree,1200,1485789793.38,shopping,OM
+5250,5250,18-24,1.0,Locals,High School,8600,1485789793.38,shopping,OM
+5251,5251,25-44,1.0,Locals,High School,11000,1485789793.38,shopping,OM
+5252,5252,45+,1.0,Locals,High School,1000,1485789793.38,shopping,OM
+5253,5253,18-24,2.0,Locals,High School,3200,1485789793.38,shopping,OM
+5254,5254,25-44,2.0,Locals,High School,2100,1485789793.38,shopping,OM
+5255,5255,45+,2.0,Locals,High School,180,1485789793.38,shopping,OM
+5256,5256,18-24,1.0,Expats,Graduated,110000,1485789793.38,shopping,QA
+5257,5257,25-44,1.0,Expats,Graduated,470000,1485789793.38,shopping,QA
+5258,5258,45+,1.0,Expats,Graduated,54000,1485789793.38,shopping,QA
+5259,5259,18-24,2.0,Expats,Graduated,25000,1485789793.38,shopping,QA
+5260,5260,25-44,2.0,Expats,Graduated,140000,1485789793.38,shopping,QA
+5261,5261,45+,2.0,Expats,Graduated,16000,1485789793.38,shopping,QA
+5262,5262,18-24,1.0,Expats,No Degree,200000,1485789793.38,shopping,QA
+5263,5263,25-44,1.0,Expats,No Degree,390000,1485789793.38,shopping,QA
+5264,5264,45+,1.0,Expats,No Degree,55000,1485789793.38,shopping,QA
+5265,5265,18-24,2.0,Expats,No Degree,41000,1485789793.38,shopping,QA
+5266,5266,25-44,2.0,Expats,No Degree,83000,1485789793.38,shopping,QA
+5267,5267,45+,2.0,Expats,No Degree,15000,1485789793.38,shopping,QA
+5268,5268,18-24,1.0,Expats,High School,41000,1485789793.38,shopping,QA
+5269,5269,25-44,1.0,Expats,High School,120000,1485789793.38,shopping,QA
+5270,5270,45+,1.0,Expats,High School,15000,1485789793.38,shopping,QA
+5271,5271,18-24,2.0,Expats,High School,13000,1485789793.38,shopping,QA
+5272,5272,25-44,2.0,Expats,High School,36000,1485789793.38,shopping,QA
+5273,5273,45+,2.0,Expats,High School,4700,1485789793.38,shopping,QA
+5274,5274,18-24,1.0,Locals,Graduated,3700,1485789793.38,shopping,QA
+5275,5275,25-44,1.0,Locals,Graduated,9200,1485789793.38,shopping,QA
+5276,5276,45+,1.0,Locals,Graduated,1100,1485789793.38,shopping,QA
+5277,5277,18-24,2.0,Locals,Graduated,1700,1485789793.38,shopping,QA
+5278,5278,25-44,2.0,Locals,Graduated,4300,1485789793.38,shopping,QA
+5279,5279,45+,2.0,Locals,Graduated,420,1485789793.38,shopping,QA
+5280,5280,18-24,1.0,Locals,No Degree,8400,1485789793.38,shopping,QA
+5281,5281,25-44,1.0,Locals,No Degree,16000,1485789793.38,shopping,QA
+5282,5282,45+,1.0,Locals,No Degree,2700,1485789793.38,shopping,QA
+5283,5283,18-24,2.0,Locals,No Degree,4700,1485789793.38,shopping,QA
+5284,5284,25-44,2.0,Locals,No Degree,8500,1485789793.38,shopping,QA
+5285,5285,45+,2.0,Locals,No Degree,1300,1485789793.38,shopping,QA
+5286,5286,18-24,1.0,Locals,High School,1600,1485789793.38,shopping,QA
+5287,5287,25-44,1.0,Locals,High School,2900,1485789793.38,shopping,QA
+5288,5288,45+,1.0,Locals,High School,280,1485789793.38,shopping,QA
+5289,5289,18-24,2.0,Locals,High School,1500,1485789793.38,shopping,QA
+5290,5290,25-44,2.0,Locals,High School,1000,1485789793.38,shopping,QA
+5291,5291,45+,2.0,Locals,High School,120,1485789793.38,shopping,QA
+5292,5292,18-24,1.0,Expats,Graduated,340000,1485789793.38,shopping,SA
+5293,5293,25-44,1.0,Expats,Graduated,1800000,1485789793.38,shopping,SA
+5294,5294,45+,1.0,Expats,Graduated,210000,1485789793.38,shopping,SA
+5295,5295,18-24,2.0,Expats,Graduated,81000,1485789793.38,shopping,SA
+5296,5296,25-44,2.0,Expats,Graduated,400000,1485789793.38,shopping,SA
+5297,5297,45+,2.0,Expats,Graduated,51000,1485789793.38,shopping,SA
+5298,5298,18-24,1.0,Expats,No Degree,110000,1485789793.38,shopping,SA
+5299,5299,25-44,1.0,Expats,No Degree,350000,1485789793.38,shopping,SA
+5300,5300,45+,1.0,Expats,No Degree,55000,1485789793.38,shopping,SA
+5301,5301,18-24,2.0,Expats,No Degree,47000,1485789793.38,shopping,SA
+5302,5302,25-44,2.0,Expats,No Degree,110000,1485789793.38,shopping,SA
+5303,5303,45+,2.0,Expats,No Degree,20000,1485789793.38,shopping,SA
+5304,5304,18-24,1.0,Expats,High School,130000,1485789793.38,shopping,SA
+5305,5305,25-44,1.0,Expats,High School,400000,1485789793.38,shopping,SA
+5306,5306,45+,1.0,Expats,High School,52000,1485789793.38,shopping,SA
+5307,5307,18-24,2.0,Expats,High School,50000,1485789793.38,shopping,SA
+5308,5308,25-44,2.0,Expats,High School,110000,1485789793.38,shopping,SA
+5309,5309,45+,2.0,Expats,High School,15000,1485789793.38,shopping,SA
+5310,5310,18-24,1.0,Locals,Graduated,200000,1485789793.38,shopping,SA
+5311,5311,25-44,1.0,Locals,Graduated,790000,1485789793.38,shopping,SA
+5312,5312,45+,1.0,Locals,Graduated,96000,1485789793.38,shopping,SA
+5313,5313,18-24,2.0,Locals,Graduated,77000,1485789793.38,shopping,SA
+5314,5314,25-44,2.0,Locals,Graduated,230000,1485789793.38,shopping,SA
+5315,5315,45+,2.0,Locals,Graduated,24000,1485789793.38,shopping,SA
+5316,5316,18-24,1.0,Locals,No Degree,1300000,1485789793.38,shopping,SA
+5317,5317,25-44,1.0,Locals,No Degree,2400000,1485789793.38,shopping,SA
+5318,5318,45+,1.0,Locals,No Degree,360000,1485789793.38,shopping,SA
+5319,5319,18-24,2.0,Locals,No Degree,430000,1485789793.38,shopping,SA
+5320,5320,25-44,2.0,Locals,No Degree,540000,1485789793.38,shopping,SA
+5321,5321,45+,2.0,Locals,No Degree,93000,1485789793.38,shopping,SA
+5322,5322,18-24,1.0,Locals,High School,120000,1485789793.38,shopping,SA
+5323,5323,25-44,1.0,Locals,High School,280000,1485789793.38,shopping,SA
+5324,5324,45+,1.0,Locals,High School,36000,1485789793.38,shopping,SA
+5325,5325,18-24,2.0,Locals,High School,67000,1485789793.38,shopping,SA
+5326,5326,25-44,2.0,Locals,High School,76000,1485789793.38,shopping,SA
+5327,5327,45+,2.0,Locals,High School,9000,1485789793.38,shopping,SA
+5328,5328,18-24,1.0,Expats,Graduated,12000,1485789793.38,shopping,SO
+5329,5329,25-44,1.0,Expats,Graduated,13000,1485789793.38,shopping,SO
+5330,5330,45+,1.0,Expats,Graduated,1800,1485789793.38,shopping,SO
+5331,5331,18-24,2.0,Expats,Graduated,5300,1485789793.38,shopping,SO
+5332,5332,25-44,2.0,Expats,Graduated,3200,1485789793.38,shopping,SO
+5333,5333,45+,2.0,Expats,Graduated,390,1485789793.38,shopping,SO
+5334,5334,18-24,1.0,Expats,No Degree,4100,1485789793.38,shopping,SO
+5335,5335,25-44,1.0,Expats,No Degree,6400,1485789793.38,shopping,SO
+5336,5336,45+,1.0,Expats,No Degree,1200,1485789793.38,shopping,SO
+5337,5337,18-24,2.0,Expats,No Degree,2900,1485789793.38,shopping,SO
+5338,5338,25-44,2.0,Expats,No Degree,1900,1485789793.38,shopping,SO
+5339,5339,45+,2.0,Expats,No Degree,240,1485789793.38,shopping,SO
+5340,5340,18-24,1.0,Expats,High School,3200,1485789793.38,shopping,SO
+5341,5341,25-44,1.0,Expats,High School,2800,1485789793.38,shopping,SO
+5342,5342,45+,1.0,Expats,High School,470,1485789793.38,shopping,SO
+5343,5343,18-24,2.0,Expats,High School,2000,1485789793.38,shopping,SO
+5344,5344,25-44,2.0,Expats,High School,830,1485789793.38,shopping,SO
+5345,5345,45+,2.0,Expats,High School,90,1485789793.38,shopping,SO
+5346,5346,18-24,1.0,Locals,Graduated,35000,1485789793.38,shopping,SO
+5347,5347,25-44,1.0,Locals,Graduated,37000,1485789793.38,shopping,SO
+5348,5348,45+,1.0,Locals,Graduated,2600,1485789793.38,shopping,SO
+5349,5349,18-24,2.0,Locals,Graduated,24000,1485789793.38,shopping,SO
+5350,5350,25-44,2.0,Locals,Graduated,14000,1485789793.38,shopping,SO
+5351,5351,45+,2.0,Locals,Graduated,1400,1485789793.38,shopping,SO
+5352,5352,18-24,1.0,Locals,No Degree,56000,1485789793.38,shopping,SO
+5353,5353,25-44,1.0,Locals,No Degree,39000,1485789793.38,shopping,SO
+5354,5354,45+,1.0,Locals,No Degree,6200,1485789793.38,shopping,SO
+5355,5355,18-24,2.0,Locals,No Degree,62000,1485789793.38,shopping,SO
+5356,5356,25-44,2.0,Locals,No Degree,27000,1485789793.38,shopping,SO
+5357,5357,45+,2.0,Locals,No Degree,2700,1485789793.38,shopping,SO
+5358,5358,18-24,1.0,Locals,High School,13000,1485789793.38,shopping,SO
+5359,5359,25-44,1.0,Locals,High School,7500,1485789793.38,shopping,SO
+5360,5360,45+,1.0,Locals,High School,800,1485789793.38,shopping,SO
+5361,5361,18-24,2.0,Locals,High School,9700,1485789793.38,shopping,SO
+5362,5362,25-44,2.0,Locals,High School,3400,1485789793.38,shopping,SO
+5363,5363,45+,2.0,Locals,High School,450,1485789793.38,shopping,SO
+5364,5364,18-24,1.0,Expats,Graduated,46000,1485789793.38,shopping,TN
+5365,5365,25-44,1.0,Expats,Graduated,56000,1485789793.38,shopping,TN
+5366,5366,45+,1.0,Expats,Graduated,12000,1485789793.38,shopping,TN
+5367,5367,18-24,2.0,Expats,Graduated,22000,1485789793.38,shopping,TN
+5368,5368,25-44,2.0,Expats,Graduated,25000,1485789793.38,shopping,TN
+5369,5369,45+,2.0,Expats,Graduated,5500,1485789793.38,shopping,TN
+5370,5370,18-24,1.0,Expats,No Degree,27000,1485789793.38,shopping,TN
+5371,5371,25-44,1.0,Expats,No Degree,45000,1485789793.38,shopping,TN
+5372,5372,45+,1.0,Expats,No Degree,11000,1485789793.38,shopping,TN
+5373,5373,18-24,2.0,Expats,No Degree,19000,1485789793.38,shopping,TN
+5374,5374,25-44,2.0,Expats,No Degree,27000,1485789793.38,shopping,TN
+5375,5375,45+,2.0,Expats,No Degree,6100,1485789793.38,shopping,TN
+5376,5376,18-24,1.0,Expats,High School,20000,1485789793.38,shopping,TN
+5377,5377,25-44,1.0,Expats,High School,16000,1485789793.38,shopping,TN
+5378,5378,45+,1.0,Expats,High School,4100,1485789793.38,shopping,TN
+5379,5379,18-24,2.0,Expats,High School,11000,1485789793.38,shopping,TN
+5380,5380,25-44,2.0,Expats,High School,8100,1485789793.38,shopping,TN
+5381,5381,45+,2.0,Expats,High School,2600,1485789793.38,shopping,TN
+5382,5382,18-24,1.0,Locals,Graduated,250000,1485789793.38,shopping,TN
+5383,5383,25-44,1.0,Locals,Graduated,490000,1485789793.38,shopping,TN
+5384,5384,45+,1.0,Locals,Graduated,110000,1485789793.38,shopping,TN
+5385,5385,18-24,2.0,Locals,Graduated,260000,1485789793.38,shopping,TN
+5386,5386,25-44,2.0,Locals,Graduated,420000,1485789793.38,shopping,TN
+5387,5387,45+,2.0,Locals,Graduated,53000,1485789793.38,shopping,TN
+5388,5388,18-24,1.0,Locals,No Degree,300000,1485789793.38,shopping,TN
+5389,5389,25-44,1.0,Locals,No Degree,500000,1485789793.38,shopping,TN
+5390,5390,45+,1.0,Locals,No Degree,140000,1485789793.38,shopping,TN
+5391,5391,18-24,2.0,Locals,No Degree,320000,1485789793.38,shopping,TN
+5392,5392,25-44,2.0,Locals,No Degree,390000,1485789793.38,shopping,TN
+5393,5393,45+,2.0,Locals,No Degree,98000,1485789793.38,shopping,TN
+5394,5394,18-24,1.0,Locals,High School,130000,1485789793.38,shopping,TN
+5395,5395,25-44,1.0,Locals,High School,160000,1485789793.38,shopping,TN
+5396,5396,45+,1.0,Locals,High School,45000,1485789793.38,shopping,TN
+5397,5397,18-24,2.0,Locals,High School,150000,1485789793.38,shopping,TN
+5398,5398,25-44,2.0,Locals,High School,110000,1485789793.38,shopping,TN
+5399,5399,45+,2.0,Locals,High School,30000,1485789793.38,shopping,TN
+5400,5400,18-24,1.0,Expats,Graduated,350000,1485789793.38,shopping,AE
+5401,5401,25-44,1.0,Expats,Graduated,1700000,1485789793.38,shopping,AE
+5402,5402,45+,1.0,Expats,Graduated,180000,1485789793.38,shopping,AE
+5403,5403,18-24,2.0,Expats,Graduated,110000,1485789793.38,shopping,AE
+5404,5404,25-44,2.0,Expats,Graduated,650000,1485789793.38,shopping,AE
+5405,5405,45+,2.0,Expats,Graduated,82000,1485789793.38,shopping,AE
+5406,5406,18-24,1.0,Expats,No Degree,500000,1485789793.38,shopping,AE
+5407,5407,25-44,1.0,Expats,No Degree,1200000,1485789793.38,shopping,AE
+5408,5408,45+,1.0,Expats,No Degree,170000,1485789793.38,shopping,AE
+5409,5409,18-24,2.0,Expats,No Degree,140000,1485789793.38,shopping,AE
+5410,5410,25-44,2.0,Expats,No Degree,330000,1485789793.38,shopping,AE
+5411,5411,45+,2.0,Expats,No Degree,69000,1485789793.38,shopping,AE
+5412,5412,18-24,1.0,Expats,High School,130000,1485789793.38,shopping,AE
+5413,5413,25-44,1.0,Expats,High School,380000,1485789793.38,shopping,AE
+5414,5414,45+,1.0,Expats,High School,50000,1485789793.38,shopping,AE
+5415,5415,18-24,2.0,Expats,High School,62000,1485789793.38,shopping,AE
+5416,5416,25-44,2.0,Expats,High School,140000,1485789793.38,shopping,AE
+5417,5417,45+,2.0,Expats,High School,24000,1485789793.38,shopping,AE
+5418,5418,18-24,1.0,Locals,Graduated,15000,1485789793.38,shopping,AE
+5419,5419,25-44,1.0,Locals,Graduated,46000,1485789793.38,shopping,AE
+5420,5420,45+,1.0,Locals,Graduated,4700,1485789793.38,shopping,AE
+5421,5421,18-24,2.0,Locals,Graduated,7500,1485789793.38,shopping,AE
+5422,5422,25-44,2.0,Locals,Graduated,22000,1485789793.38,shopping,AE
+5423,5423,45+,2.0,Locals,Graduated,1600,1485789793.38,shopping,AE
+5424,5424,18-24,1.0,Locals,No Degree,41000,1485789793.38,shopping,AE
+5425,5425,25-44,1.0,Locals,No Degree,77000,1485789793.38,shopping,AE
+5426,5426,45+,1.0,Locals,No Degree,12000,1485789793.38,shopping,AE
+5427,5427,18-24,2.0,Locals,No Degree,25000,1485789793.38,shopping,AE
+5428,5428,25-44,2.0,Locals,No Degree,44000,1485789793.38,shopping,AE
+5429,5429,45+,2.0,Locals,No Degree,5100,1485789793.38,shopping,AE
+5430,5430,18-24,1.0,Locals,High School,9300,1485789793.38,shopping,AE
+5431,5431,25-44,1.0,Locals,High School,13000,1485789793.38,shopping,AE
+5432,5432,45+,1.0,Locals,High School,1600,1485789793.38,shopping,AE
+5433,5433,18-24,2.0,Locals,High School,6400,1485789793.38,shopping,AE
+5434,5434,25-44,2.0,Locals,High School,5300,1485789793.38,shopping,AE
+5435,5435,45+,2.0,Locals,High School,540,1485789793.38,shopping,AE
+5436,5436,18-24,1.0,Expats,Graduated,13000,1485789793.38,shopping,YE
+5437,5437,25-44,1.0,Expats,Graduated,23000,1485789793.38,shopping,YE
+5438,5438,45+,1.0,Expats,Graduated,2200,1485789793.38,shopping,YE
+5439,5439,18-24,2.0,Expats,Graduated,2800,1485789793.38,shopping,YE
+5440,5440,25-44,2.0,Expats,Graduated,4400,1485789793.38,shopping,YE
+5441,5441,45+,2.0,Expats,Graduated,430,1485789793.38,shopping,YE
+5442,5442,18-24,1.0,Expats,No Degree,10000,1485789793.38,shopping,YE
+5443,5443,25-44,1.0,Expats,No Degree,17000,1485789793.38,shopping,YE
+5444,5444,45+,1.0,Expats,No Degree,1800,1485789793.38,shopping,YE
+5445,5445,18-24,2.0,Expats,No Degree,6000,1485789793.38,shopping,YE
+5446,5446,25-44,2.0,Expats,No Degree,5000,1485789793.38,shopping,YE
+5447,5447,45+,2.0,Expats,No Degree,640,1485789793.38,shopping,YE
+5448,5448,18-24,1.0,Expats,High School,5800,1485789793.38,shopping,YE
+5449,5449,25-44,1.0,Expats,High School,5800,1485789793.38,shopping,YE
+5450,5450,45+,1.0,Expats,High School,580,1485789793.38,shopping,YE
+5451,5451,18-24,2.0,Expats,High School,2100,1485789793.38,shopping,YE
+5452,5452,25-44,2.0,Expats,High School,1400,1485789793.38,shopping,YE
+5453,5453,45+,2.0,Expats,High School,130,1485789793.38,shopping,YE
+5454,5454,18-24,1.0,Locals,Graduated,93000,1485789793.38,shopping,YE
+5455,5455,25-44,1.0,Locals,Graduated,190000,1485789793.38,shopping,YE
+5456,5456,45+,1.0,Locals,Graduated,16000,1485789793.38,shopping,YE
+5457,5457,18-24,2.0,Locals,Graduated,19000,1485789793.38,shopping,YE
+5458,5458,25-44,2.0,Locals,Graduated,31000,1485789793.38,shopping,YE
+5459,5459,45+,2.0,Locals,Graduated,1800,1485789793.38,shopping,YE
+5460,5460,18-24,1.0,Locals,No Degree,150000,1485789793.38,shopping,YE
+5461,5461,25-44,1.0,Locals,No Degree,180000,1485789793.38,shopping,YE
+5462,5462,45+,1.0,Locals,No Degree,24000,1485789793.38,shopping,YE
+5463,5463,18-24,2.0,Locals,No Degree,32000,1485789793.38,shopping,YE
+5464,5464,25-44,2.0,Locals,No Degree,31000,1485789793.38,shopping,YE
+5465,5465,45+,2.0,Locals,No Degree,3700,1485789793.38,shopping,YE
+5466,5466,18-24,1.0,Locals,High School,60000,1485789793.38,shopping,YE
+5467,5467,25-44,1.0,Locals,High School,55000,1485789793.38,shopping,YE
+5468,5468,45+,1.0,Locals,High School,4900,1485789793.38,shopping,YE
+5469,5469,18-24,2.0,Locals,High School,18000,1485789793.38,shopping,YE
+5470,5470,25-44,2.0,Locals,High School,9000,1485789793.38,shopping,YE
+5471,5471,45+,2.0,Locals,High School,720,1485789793.38,shopping,YE
+5472,5472,18-24,1.0,Expats,Graduated,16000,1485789793.38,shopping,PS
+5473,5473,25-44,1.0,Expats,Graduated,27000,1485789793.38,shopping,PS
+5474,5474,45+,1.0,Expats,Graduated,4200,1485789793.38,shopping,PS
+5475,5475,18-24,2.0,Expats,Graduated,13000,1485789793.38,shopping,PS
+5476,5476,25-44,2.0,Expats,Graduated,19000,1485789793.38,shopping,PS
+5477,5477,45+,2.0,Expats,Graduated,2600,1485789793.38,shopping,PS
+5478,5478,18-24,1.0,Expats,No Degree,7300,1485789793.38,shopping,PS
+5479,5479,25-44,1.0,Expats,No Degree,9700,1485789793.38,shopping,PS
+5480,5480,45+,1.0,Expats,No Degree,2800,1485789793.38,shopping,PS
+5481,5481,18-24,2.0,Expats,No Degree,9700,1485789793.38,shopping,PS
+5482,5482,25-44,2.0,Expats,No Degree,9900,1485789793.38,shopping,PS
+5483,5483,45+,2.0,Expats,No Degree,3100,1485789793.38,shopping,PS
+5484,5484,18-24,1.0,Expats,High School,9100,1485789793.38,shopping,PS
+5485,5485,25-44,1.0,Expats,High School,5700,1485789793.38,shopping,PS
+5486,5486,45+,1.0,Expats,High School,1200,1485789793.38,shopping,PS
+5487,5487,18-24,2.0,Expats,High School,11000,1485789793.38,shopping,PS
+5488,5488,25-44,2.0,Expats,High School,5100,1485789793.38,shopping,PS
+5489,5489,45+,2.0,Expats,High School,1200,1485789793.38,shopping,PS
+5490,5490,18-24,1.0,Locals,Graduated,71000,1485789793.38,shopping,PS
+5491,5491,25-44,1.0,Locals,Graduated,110000,1485789793.38,shopping,PS
+5492,5492,45+,1.0,Locals,Graduated,17000,1485789793.38,shopping,PS
+5493,5493,18-24,2.0,Locals,Graduated,64000,1485789793.38,shopping,PS
+5494,5494,25-44,2.0,Locals,Graduated,83000,1485789793.38,shopping,PS
+5495,5495,45+,2.0,Locals,Graduated,8500,1485789793.38,shopping,PS
+5496,5496,18-24,1.0,Locals,No Degree,56000,1485789793.38,shopping,PS
+5497,5497,25-44,1.0,Locals,No Degree,64000,1485789793.38,shopping,PS
+5498,5498,45+,1.0,Locals,No Degree,21000,1485789793.38,shopping,PS
+5499,5499,18-24,2.0,Locals,No Degree,55000,1485789793.38,shopping,PS
+5500,5500,25-44,2.0,Locals,No Degree,64000,1485789793.38,shopping,PS
+5501,5501,45+,2.0,Locals,No Degree,21000,1485789793.38,shopping,PS
+5502,5502,18-24,1.0,Locals,High School,45000,1485789793.38,shopping,PS
+5503,5503,25-44,1.0,Locals,High School,28000,1485789793.38,shopping,PS
+5504,5504,45+,1.0,Locals,High School,5900,1485789793.38,shopping,PS
+5505,5505,18-24,2.0,Locals,High School,53000,1485789793.38,shopping,PS
+5506,5506,25-44,2.0,Locals,High School,24000,1485789793.38,shopping,PS
+5507,5507,45+,2.0,Locals,High School,3900,1485789793.38,shopping,PS

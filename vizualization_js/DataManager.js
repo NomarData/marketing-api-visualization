@@ -71,7 +71,7 @@ function DataManager(){
         currentInstance.selectedLocations_2letters = [];
         for(var locationKeyIndex in allEnabledLocationsKeys){
             var locationKey = allEnabledLocationsKeys[locationKeyIndex];
-            currentInstance.selectedLocations_2letters.push(locationCodeMap[locationKey]._2letters_code);
+            currentInstance.selectedLocations_2letters.push(getLocationsData()[locationKey]._2letters_code);
         }
         currentInstance.updateVisualComponents();
     };
@@ -247,8 +247,8 @@ function DataManager(){
         }
     };
     this.hasAllInAnyCategory = function(instance){
-        for(var categoryIndex in DEFAULT_CATEGORIES_NAMES){
-            var categoryName = DEFAULT_CATEGORIES_NAMES[categoryIndex];
+        for(var categoryIndex in dataColumnsToTreemaps){
+            var categoryName = dataColumnsToTreemaps[categoryIndex];
             if(instance[categoryName] == "ALL"){
                 return true;
             }
@@ -270,8 +270,8 @@ function DataManager(){
             averageScore.redAudience =  selectedInstances.map(
                 function(instance){ return getInstancePolarity(instance) == -1 ? instance.audience : 0})
                 .reduce(function (total, num) { return total + num});
-            averageScore.greenScore = averageScore.greenAudience / total;
-            averageScore.redScore = averageScore.redAudience  / total;
+            averageScore.greenScore = total > 0 ? averageScore.greenAudience / total: 0;
+            averageScore.redScore = total > 0 ? averageScore.redAudience  / total : 0;
             // averageScore.average = ((averageScore.greenScore * averageScore.greenAudience) - (averageScore.redScore * averageScore.redAudience) ) / total;
             averageScore.average = averageScore.greenScore - averageScore.redScore;
             return averageScore

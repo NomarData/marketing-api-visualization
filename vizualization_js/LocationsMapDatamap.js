@@ -117,6 +117,8 @@ function LocationsMapDatamap(){
     this.init = function(){
         if(isSubregionMode()){
             console.log("Ignore: LocationMapDatamap not build");
+            $("#auxiliarsMapsDiv").css("display","none");
+            $("#mainLocationsMapDiv").css("display","none");
         } else{
             currentInstance.buildLocationsMapManager();
         }

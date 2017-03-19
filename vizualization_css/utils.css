@@ -178,6 +178,7 @@ a{
     top: -75px;
     position: relative;
     padding-right: 18px;
+    left: 5px;
     width: 200px;
 }
 .locationBtnsListOverflow{

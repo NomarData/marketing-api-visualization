@@ -88,6 +88,15 @@ function getTooltipLabel(value){
         return value
     }
 }
+function getTreemapLabel(value){
+    if(value in mapValuesStringsTreemap){
+        return mapValuesStringsTreemap[value];
+    } else if (value in mapValuesStringsTooltip){
+        return mapValuesStringsTooltip[value]
+    } else {
+        return value
+    }
+}
 
 function isSubregionMode(){
     if("isSubRegionData" in MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY] && MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].isSubRegionData == true){
@@ -157,7 +166,7 @@ function onClickLocationFunction(locationItem){
 }
 
 function getAllDatamapsCodeInLocationMap(){
-    var locationsDatamap_codes = $.map(locationCodeMap,function (item) {
+    var locationsDatamap_codes = $.map(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].locationsData,function (item) {
         if("datamaps_code" in item ){
             return item.datamaps_code;
         }
@@ -176,20 +185,24 @@ function isDatamapCodeInLocationMap(locationDatamapCode){
     return false;
 }
 function filterJustLocationKeysFromLocationCodeMap(list_locations_codes){
-    for(var locationKey in locationCodeMap){
+    for(var locationKey in getLocationsData()){
         if(list_locations_codes.indexOf(locationKey) == -1){
-            delete locationCodeMap[locationKey];
+            delete getLocationsData()[locationKey];
             console.log("Deleting")
         }
     }
+}
+
+function getLocationsData() {
+    return MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].locationsData;
 }
 
 function getLocationsCodeMapGivenKeys(listLocationKeys){
     var listLocationsData = [];
     for(var keyIndex in listLocationKeys){
         var locationKey = listLocationKeys[keyIndex];
-        if(locationKey in locationCodeMap){
-            listLocationsData.push(locationCodeMap[locationKey]);
+        if(locationKey in getLocationsData()){
+            listLocationsData.push(getLocationsData()[locationKey]);
         }
     }
     return listLocationsData
@@ -225,9 +238,9 @@ function updateSocialLinkFields(){
 }
 
 function convert2LetterCodeToDatamapsCode(_2letters_code){
-    for(let key in locationCodeMap) {
-        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
-            return locationCodeMap[key].datamaps_code;
+    for(let key in getLocationsData()) {
+        if (getLocationsData()[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return getLocationsData()[key].datamaps_code;
         }
     }
     Error("2 Letter Code not found:" + _2letters_code);
@@ -235,7 +248,7 @@ function convert2LetterCodeToDatamapsCode(_2letters_code){
 function convertDatamapsCodeTo2LetterCode(datamaps_code){
     try{
         var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
-        return locationCodeMap[locationKey]._2letters_code;
+        return getLocationsData()[locationKey]._2letters_code;
     } catch (err){
         Error("Datamaps Code not found:" + datamaps_code);
     }
@@ -244,24 +257,24 @@ function convertDatamapsCodeTo2LetterCode(datamaps_code){
 function convertDatamapsCodeToName(datamaps_code){
     try{
         var locationKey = convertDatamapsCodeToLocationKey(datamaps_code);
-        return locationCodeMap[locationKey].name;
+        return getLocationsData()[locationKey].name;
     }catch (err){
         throw Error("3 Letter Code not found:" + datamaps_code);
     }
 }
 
 function convert2LettersCodeToName(_2letters_code){
-    for(let key in locationCodeMap) {
-        if (locationCodeMap[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
-            return locationCodeMap[key].name;
+    for(let key in getLocationsData()) {
+        if (getLocationsData()[key]._2letters_code.toUpperCase() == _2letters_code.toUpperCase()) {
+            return getLocationsData()[key].name;
         }
     }
     throw Error("2 Letter Code not found:" + _2letters_code);
 }
 
 function convertDatamapsCodeToLocationKey(datamaps_code){
-    for(var key in locationCodeMap){
-        if(locationCodeMap[key].datamaps_code.toUpperCase() == datamaps_code.toUpperCase()){
+    for(var key in getLocationsData()){
+        if(getLocationsData()[key].datamaps_code.toUpperCase() == datamaps_code.toUpperCase()){
             return key
         }
     }
@@ -293,20 +306,20 @@ function  initApplicationStaticTexts() {
 }
 
 function getLocation2letterFromLocationKey(locationKey){
-    return locationCodeMap[locationKey]._2letters_code;
+    return getLocationsData()[locationKey]._2letters_code;
 }
 
 function getLocationNameFromLocationKey(locationKey){
-    return locationCodeMap[locationKey].name;
+    return getLocationsData()[locationKey].name;
 }
 
 function getLocationDatamapCodeFromLocationKey(locationKey){
-    return locationCodeMap[locationKey].datamaps_code;
+    return getLocationsData()[locationKey].datamaps_code;
 }
 
 function getLocationKeyFromLocation2letter(location2letter){
-    for(var key in locationCodeMap){
-        if(locationCodeMap[key]._2letters_code.toUpperCase() == location2letter.toUpperCase()){
+    for(var key in getLocationsData()){
+        if(getLocationsData()[key]._2letters_code.toUpperCase() == location2letter.toUpperCase()){
             return key
         }
     }
@@ -314,18 +327,18 @@ function getLocationKeyFromLocation2letter(location2letter){
 }
 
 function getAllKeysInLocationMap(){
-    return Object.keys(locationCodeMap);
+    return Object.keys(getLocationsData());
 }
 
 function getAttributeFromLocationKey(locationKey, attribute){
-    if(locationKey in locationCodeMap){
-        var locationItem = locationCodeMap[locationKey];
+    if(locationKey in getLocationsData()){
+        var locationItem = getLocationsData()[locationKey];
         if(attribute in locationItem){
             return locationItem[attribute];
         } else{
             console.log("attribute: " + attribute + " not defined.");
         }
     } else {
-        console.log("locationKey: " + locationKey + " not in locationCodeMap");
+        console.log("locationKey: " + locationKey + " not in getLocationsData()");
     }
 }

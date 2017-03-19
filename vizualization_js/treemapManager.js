@@ -101,9 +101,9 @@ function hasSubstringFromList(list,stringValue){
 
 }
 function getInterestPolarity(interestName){
-    if(hasSubstringFromList(healthInterests,interestName)){
+    if(hasSubstringFromList(leftTopics,interestName)){
         return 1;
-    } else if(hasSubstringFromList(jewelInterests,interestName)){
+    } else if(hasSubstringFromList(rightTopics,interestName)){
         return -1;
     } else{
         console.log("This interest should have a polarity: " + interestName);
@@ -126,7 +126,7 @@ function TreemapManager(){
     };
     this.init = function(){
         var treemapDefaultHeight = 130;
-        $.map(columnsToTreemaps, function (treemapName) {
+        $.map(dataColumnsToTreemaps, function (treemapName) {
             $("#treemapsList").append(
                 "<div  class='row treemapRowContainer'>" +
                 "<div class='span5 treemapSpanContainer'>" +
@@ -201,8 +201,14 @@ function TreemapManager(){
     }
     this.clickOnTreemapGivenNameAndValue = function(treemapName, treemapValue){
         var treemap = currentInstance.getTreemapByName(treemapName);
-        treemap.activateCellGivenValue(treemapValue);
+        try{
+            treemap.activateCellGivenValue(treemapValue);
+        } catch (Exception){
+            debugger
+        }
     }
+
+
 
     this.getAllVisibleTreemapData = function () {
         var labelsScores = {}

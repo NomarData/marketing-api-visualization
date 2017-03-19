@@ -41,6 +41,7 @@ function SubRegionMap(){
                 }
             }
         });
+
     }
     this.getAndSaveCoodinatesFromLocationsDataUsingGoogleGeocoding = function (locationsData) {
         var deferreds = [];
@@ -65,7 +66,10 @@ function SubRegionMap(){
                 "longitude" : locationLongitude,
                 "radius" : locationRadius,
             }
-            console.log("Got:" + locationData.location2LetterCode);
+            console.log("Got:" + locationData.location2LetterCode
+                + " " + currentInstance.locationsKeyToSubRegionsParameters[locationKey].latitude
+                + " " + currentInstance.locationsKeyToSubRegionsParameters[locationKey].longitude
+                + " " + currentInstance.locationsKeyToSubRegionsParameters[locationKey].radius);
         });
     };
     this.initializeMap = function(){
@@ -152,13 +156,14 @@ function SubRegionMap(){
 
     this.updateData = function(){
         if(currentInstance.map){
-            if(currentInstance.isEmptySubregionParameters()){
+            if(currentInstance.isEmptySubregionParameters() && !$.isEmptyObject(locationsDataManager.getSelectedLocationsData())){
                 var locationsData = locationsDataManager.getSelectedLocationsData();
                 currentInstance.getAndSaveCoodinatesFromLocationsData(locationsData);
                 if(MAPS_CONFIGS[MAPS_CONFIG_SELECTION_KEY].autoCenterMap){
                     currentInstance.reCenterBasedOnSubregionsCoordinates();
                 }
             }
+
             currentInstance.updateSubRegionColors();
         }
     };

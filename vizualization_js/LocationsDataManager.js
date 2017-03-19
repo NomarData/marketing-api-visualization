@@ -59,7 +59,7 @@ function LocationsDataManager(){
             "leftAudience" : leftAudience,
             "rightAudience" : rightAudience,
             "audienceCoverage" : audienceCoverage,
-            "score" : (leftAudience - rightAudience) / audienceCoverage,
+            "score" : audienceCoverage > 0 ? (leftAudience - rightAudience) / audienceCoverage : 0,
             "locationDatamap_code" : locationKey,
             "location2LetterCode" : getLocation2letterFromLocationKey(locationKey),
             "name" : getLocationNameFromLocationKey(locationKey)

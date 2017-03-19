@@ -352,14 +352,14 @@ function Treemap(width,height,treemapContainer,colorFunction,treemapData) {
     this.setTextLines = function(d){
         $(this).empty();
         var nodeName = d.name;
-        if(nodeName in mapValuesTileTitle){
-            nodeName = mapValuesTileTitle[nodeName];
+        if(nodeName in mapValuesStringTooltip){
+            nodeName = mapValuesStringTooltip[nodeName];
         }
         var tspanLine1 = d3.select(this).append("svg:tspan")
             .attr("x", function(d) { return d.dx / 2})
             .attr("y", 0)
             .attr("dy", function(d) { return d.dy / 2; })
-            .text(nodeName);
+            .text(getTreemapLabel(nodeName));
         var tspanLine2 = d3.select(this).append("svg:tspan")
             .attr("x", function(d) { return d.dx / 2; })
             .attr("y", 0)
