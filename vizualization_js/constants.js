@@ -330,6 +330,7 @@ mapValuesStringsTooltip = {
     "age_range" : "Age Range",
     "gender" : "Gender",
     "scholarities" : "Education",
+    "Western-US-CA-EU-AU-NZ" : "Westerns",
     "ages_ranges" : "Age Range",
     "genders" : "Gender",
     "behavior" : "Citizenship",
