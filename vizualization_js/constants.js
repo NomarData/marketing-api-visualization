@@ -350,6 +350,7 @@ mapValuesStringTooltip = {
     "High School" : "HS",
     "No Degree" : "ND",
     "GRAD" : "Grad",
+    "Not Expats":"Locals",
     "Expats" : "Expats",
     "Locals" : "Locals",
 };
@@ -368,7 +369,7 @@ treemapPossibleStates = {
     "genders" : ["Male", "Female"],
     "ages_ranges" : ["Graduated","No Degree","High School"],
     "scholarities" : ["18-24", "25-44", "45+" ],
-    "behavior" : ["Expats", "Locals"],
+    "citizenship" : ["Others", "Locals","India","Bangladesh","Nepal","Philippines","Western"]
 };
 for(var key in treemapPossibleStates){
     applicationPossibleStates[key] = treemapPossibleStates[key];
