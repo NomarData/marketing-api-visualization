@@ -1,7 +1,3 @@
-[![Run Status](https://api.shippable.com/projects/58637935f6c7101000c35676/badge?branch=master)](https://app.shippable.com/projects/58637935f6c7101000c35676)
-
-[![Coverage Badge](https://api.shippable.com/projects/58637935f6c7101000c35676/coverageBadge?branch=master)](https://app.shippable.com/projects/58637935f6c7101000c35676)
-
 Very quick Readme
 =================
 
