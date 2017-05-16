@@ -306,7 +306,25 @@ function  initApplicationStaticTexts() {
 }
 
 function getLocation2letterFromLocationKey(locationKey){
-    return getLocationsData()[locationKey]._2letters_code;
+    try {
+        return getLocationsData()[locationKey]._2letters_code;
+    }
+    catch (excption){
+        debugger
+    }
+}
+
+function get_locationKey_from_instance(instance){
+    var instance_json = JSON.parse(instance.location);
+    var pySocialWatcherReference = "pySocialWatcherReference";
+    if ("pySocialWatcherReference" in instance_json){
+        return instance_json[pySocialWatcherReference];
+    } else {
+        if ("name" in instance_json && instance_json["name"] == "countries"){
+            return instance_json["values"][0]
+        }
+    }
+
 }
 
 function getLocationNameFromLocationKey(locationKey){

@@ -5,6 +5,7 @@ function LocationsDataManager(){
     var currentInstance = this;
     this.locationsDataInMap = {};
     this.locationsColors = {};
+
     this.init = function(){
         var locationsKeys = getAllKeysInLocationMap();
         $.map(locationsKeys, function(locationKey){
@@ -32,7 +33,7 @@ function LocationsDataManager(){
     }
 
     this.addInstanceAudienceToLocationDataInMap = function(instance){
-        var locationKey = instance.location;
+        var locationKey = get_locationKey_from_instance(instance);
         try {
             if (getInstancePolarity(instance) == 1) currentInstance.locationsDataInMap[locationKey].leftAudience += instance.audience;
             else currentInstance.locationsDataInMap[locationKey].rightAudience += instance.audience;
