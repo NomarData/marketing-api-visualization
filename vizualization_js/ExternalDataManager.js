@@ -87,13 +87,16 @@
         };
         this.updateLocationList =function(instances){
             // var promise = currentInstance.getPromiseListLocations();
-                var locationsKeys = [];
+                var locationsKeysJson = [];
                 for(var instanceIndex in instances){
                     var instance = instances[instanceIndex];
-                    if(locationsKeys.indexOf(instance.location) == -1){
-                        locationsKeys.push(instance.location);
+                    if(locationsKeysJson.indexOf(instance.location) == -1){
+                        locationsKeysJson.push(instance.location);
                     }
                 }
+                var locationsKeys = locationsKeysJson.map(function(json_value){
+                    return JSON.parse(json_value)["values"][0];
+                });
                 return currentInstance.getLocationDataWhichMatchesInLocationMapOrderedByLocationName(locationsKeys);
 
         };

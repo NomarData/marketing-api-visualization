@@ -84,6 +84,7 @@ function LocationsBtns(){
         currentInstance.addClickFunctionToLocationBtns();
         currentInstance.addTooltipToLocationBtns();
 
+
         //Select All and Deselect All Behavior
         $("#selectedAllLocationsBtn").click(function(){
             dataManager.selectAllLocations();

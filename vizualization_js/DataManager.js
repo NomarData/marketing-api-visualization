@@ -157,7 +157,7 @@ function DataManager(){
             var total = 0;
             for(var instanceIndex in currentInstance.selectedFbDemographicInstances){
                 var instance = currentInstance.selectedFbDemographicInstances[instanceIndex];
-                if(getLocation2letterFromLocationKey(instance.location) == location2letter){
+                if(getLocation2letterFromLocationKey(get_locationKey_from_instance(instance)) == location2letter){
                     total += instance.audience;
                 }
             }
@@ -172,7 +172,7 @@ function DataManager(){
         var total = 0;
         for(var instanceIndex in currentInstance.allNoInterestInstancesAgreesWithTreemaps){
             var instance = currentInstance.allNoInterestInstancesAgreesWithTreemaps[instanceIndex];
-            if(getLocation2letterFromLocationKey(instance.location) == location2letter){
+            if(getLocation2letterFromLocationKey(get_locationKey_from_instance(instance)) == location2letter){
                 total += instance.audience;
             }
         }
@@ -228,7 +228,7 @@ function DataManager(){
     this.isInstanceAgreeWithSelectedLocations = function(instance){
         //TODO: Need to currect this. Shouldn't return true when currentInstance.selectedLocations_2letters.length <= 0
         if(currentInstance.selectedLocations_2letters.length > 0){
-            if(!currentInstance.isLocationKeyAlreadySelected(instance.location)){
+            if(!currentInstance.isLocationKeyAlreadySelected(get_locationKey_from_instance(instance))){
                 return false;
             }
         }
