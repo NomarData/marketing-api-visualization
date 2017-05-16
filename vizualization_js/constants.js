@@ -315,6 +315,8 @@ mapValuesStringsTooltip = {
     "2.0" : "Female",
     "18-24" : "18 to 24",
     "25-44" : "25 to 44",
+    "1" : "Male",
+    "2" : "Female",
     "45+" : "45+",
     "HS" : "High School",
     "ND" : "No degree",
@@ -341,6 +343,8 @@ mapValuesStringsTooltip = {
 mapValuesStringTooltip = {
     "1.0" : "Male",
     "2.0" : "Female",
+    "1" : "Male",
+    "2" : "Female",
     "Female" : "Female",
     "Male" : "Male",
     "18-24" : "18-24",
